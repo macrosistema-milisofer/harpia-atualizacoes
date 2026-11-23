@@ -1,0 +1,596 @@
+{
+ "assunto": "Direito Penal — causalidade, tipicidade e ilicitude",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 (CP compilado e CF conferidos em fontes oficiais; jurisprudência STF/STJ conferida na mesma data)",
+ "origem": "2026-11-23_banco-penal-causalidade-tipicidade-ilicitude_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "tjsc-penal-acao-causalidade-1",
+   "titulo": "Conduta, omissão e imputação do resultado",
+   "microconteudo": "O QUE A BANCA COBRA:\nA classificação C-08 examinada não fornece contagem confiável desses subtemas para a carreira da magistratura; a base disponível reúne provas de Ministério Público e não serve como estimativa de incidência do TJSC. Ela reforça um método de resolução por fatos: identifique a conduta, teste o nexo previsto no art. 13 do Código Penal e só então examine a imputação subjetiva. As confusões mais férteis são transformar mera presença em causa, presumir dever de agir de qualquer pessoa e atribuir ao primeiro agente todo resultado posterior.\n\nENTENDA:\nO ponto de partida legal é a equivalência dos antecedentes: nos crimes materiais, causa é a ação ou omissão sem a qual o resultado não teria ocorrido (CP, art. 13, caput). O teste mental de eliminação ajuda, mas não resolve sozinho a responsabilidade. Se a supressão hipotética da conduta elimina o resultado, há causalidade naturalística; ainda será preciso verificar tipicidade, dolo ou culpa, ilicitude e culpabilidade. A causalidade não substitui esses filtros.\n\nConsidere que uma pessoa fere outra e a vítima morre após tratamento hospitalar. O juiz não encerra a análise com a sequência temporal: deve verificar se a lesão contribuiu para a morte e se surgiu causa relativamente independente. Pelo art. 13, §1º, a causa superveniente relativamente independente rompe a imputação do resultado quando, por si só, o produz; os fatos anteriores continuam imputáveis ao agente. Se o ferimento ainda integra o curso causal e a causa posterior apenas se soma a ele, a conclusão pode ser diferente. A lei não transforma qualquer acontecimento posterior em ruptura automática.\n\nA omissão exige distinção entre omissivo próprio e impróprio. No primeiro, a descrição legal pune o não fazer, sem que seja necessário imputar ao omitente um resultado como se o tivesse causado. No impróprio, também chamado comissivo por omissão, o resultado pode ser atribuído a quem devia e podia evitá-lo. O art. 13, §2º, limita a posição de garantidor a quem tem por lei dever de cuidado, proteção ou vigilância; assumiu de outra forma a responsabilidade de impedir o resultado; ou criou previamente o risco. Exige-se possibilidade concreta de ação: a norma não exige o impossível.\n\nImagine que uma salva-vidas de plantão vê uma pessoa em perigo numa área sob sua responsabilidade, dispõe de equipamento e pode intervir sem risco desproporcional. O dever pode decorrer da função assumida, mas a imputação ainda exige prova da capacidade de agir, do nexo entre a omissão e o resultado e do elemento subjetivo exigido pelo tipo. Já um transeunte sem dever especial não vira garantidor apenas por estar próximo; podem incidir deveres legais específicos, mas isso não equivale automaticamente à posição do art. 13, §2º. Se o próprio agente criou o risco, a alínea c pode fundar o dever de agir, sem dispensar os demais elementos.\n\nA causalidade adequada e a imputação objetiva são construções doutrinárias que procuram limitar atribuições excessivamente amplas. Em linhas gerais, perguntam se a conduta criou ou incrementou risco juridicamente desaprovado e se esse risco se realizou no resultado dentro do âmbito de proteção da norma. Esse raciocínio pode organizar a análise, mas não autoriza substituir o texto legal por responsabilidade objetiva nem dispensar prova do nexo e do dolo ou culpa. Em prova, apresente primeiro a regra positiva do art. 13; depois, se pertinente, explique o filtro normativo e seus limites de legalidade.\n\nDOUTRINA:\nNa matriz causal-naturalista, a equivalência dos antecedentes considera condição causal toda contribuição sem a qual o resultado não ocorreria; a crítica é a expansão potencial da cadeia causal. A causalidade adequada seleciona condições normalmente aptas a produzir o resultado. A imputação objetiva acrescenta critérios normativos de risco e realização do risco. Na omissão imprópria, a doutrina discute como a equivalência entre agir e não agir deve ser controlada pelo dever especial de garantidor. As fichas M-12 indicam GRECO, Rogério, Curso de Direito Penal — Parte Geral, vol. 1, 19ª ed., 2017, e NUCCI, Guilherme de Souza, Curso de Direito Penal — Parte Geral, vol. 1, 2017; não confirmam páginas, e os livros não estão acessíveis neste workspace. Não atribuo paginação nem citação literal. A síntese acima é autoral; a referência bibliográfica detalhada precisa de conferência pela Manus antes da publicação final.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nO STF reafirma que a imputação de resultado requer descrição concreta da participação e do nexo causal exigido pelo CP, art. 13, caput (STF, HC 138.637/SP, Informativo 864). O precedente afasta responsabilidade penal objetiva baseada apenas no cargo formal e exige vínculo causal individualizado; não cria teoria autônoma de causalidade. O STF também rechaça imputação fundada apenas no cargo formal do acusado e exige demonstração individualizada do vínculo causal. A conclusão sobre nexo depende dos fatos provados.\n\nPEGADINHAS:\n1. Causalidade não basta para condenar: também se examinam tipicidade subjetiva e demais substratos. 2. O §1º só exclui o resultado se a causa superveniente relativamente independente o produzir por si só. 3. A omissão imprópria exige dever legal/assumido/criação de risco e possibilidade concreta de agir. 4. Presença no local não cria, sozinha, posição de garantidor. 5. Imputação objetiva é filtro doutrinário, não licença para responsabilidade objetiva.\n\nESQUEMA:\nAção/omissão → resultado material → nexo (CP, art. 13, caput).\nCausa superveniente independente que produz sozinha o resultado → corta imputação do resultado; fatos anteriores permanecem (art. 13, §1º).\nOmissão imprópria → dever de garantidor + possibilidade de agir + nexo (art. 13, §2º, a–c).\nRisco proibido e realização no resultado → filtro doutrinário, sempre subordinado à legalidade e à prova.\n\nLIGAÇÕES:\nTipicidade subjetiva e dolo/culpa (tópico 1.11); tentativa e consumação (tópico 1.14).",
+   "flashcards": [
+    {
+     "frente": "Quais três fontes legais podem colocar alguém na posição de garantidor?",
+     "verso": "Dever legal; assunção da responsabilidade; criação prévia do risco.",
+     "dispositivo": "CP, art. 13, §2º, a–c"
+    },
+    {
+     "frente": "Uma causa superveniente relativamente independente sempre rompe a imputação do resultado?",
+     "verso": "Não. Só quando, por si só, produz o resultado; fatos anteriores continuam imputáveis.",
+     "dispositivo": "CP, art. 13, §1º"
+    },
+    {
+     "frente": "A falta de capacidade concreta para agir permite imputar resultado por omissão imprópria?",
+     "verso": "Não. O art. 13 exige que o omitente devia e podia agir.",
+     "dispositivo": "CP, art. 13, §2º"
+    },
+    {
+     "frente": "O transeunte presente no local torna-se garantidor por esse único fato?",
+     "verso": "Não. Presença isolada não é uma das fontes legais do dever de garantidor.",
+     "dispositivo": "CP, art. 13, §2º, a–c"
+    },
+    {
+     "frente": "O teste de eliminação hipotética encerra a análise penal do resultado?",
+     "verso": "Não. Ainda se verificam tipicidade, dolo ou culpa e os demais elementos do crime.",
+     "dispositivo": "CP, arts. 13 e 18"
+    },
+    {
+     "frente": "Que limite doutrinário a imputação objetiva procura acrescentar à causalidade?",
+     "verso": "Criação de risco proibido e realização desse risco no resultado, sem responsabilidade objetiva.",
+     "dispositivo": "CP, art. 13, caput"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Ao analisar crime material, o juiz constata que a conduta foi condição sem a qual o resultado não teria ocorrido. A causalidade, isoladamente, já basta para afirmar a responsabilidade penal dolosa.",
+     "gabarito": "E",
+     "comentario": "Incorreta. O art. 13, caput, fornece o nexo causal, mas não supre tipicidade subjetiva, ilicitude e culpabilidade; dolo ou culpa são examinados conforme os arts. 18 e seguintes do CP.",
+     "dispositivo": "CP, arts. 13, caput, e 18"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Uma causa superveniente relativamente independente rompe a imputação do resultado apenas se, por si só, o tiver produzido; os fatos anteriores não desaparecem por esse motivo.",
+     "gabarito": "C",
+     "comentario": "Correta. Essa é a regra expressa do art. 13, §1º, do CP: exclui-se a imputação do resultado na hipótese descrita, preservando-se a imputação dos fatos anteriores praticados.",
+     "dispositivo": "CP, art. 13, §1º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "No crime comissivo por omissão, a mera possibilidade física de agir basta para atribuir o resultado, mesmo sem dever jurídico de garantidor.",
+     "gabarito": "E",
+     "comentario": "Incorreta. O art. 13, §2º, exige conjuntamente que o omitente devesse e pudesse agir; o dever decorre de uma das hipóteses legais das alíneas a–c.",
+     "dispositivo": "CP, art. 13, §2º, a–c"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Quem assume concretamente a responsabilidade de impedir determinado resultado pode ocupar posição de garantidor, desde que também pudesse agir para evitá-lo.",
+     "gabarito": "C",
+     "comentario": "Correta. A assunção da responsabilidade é hipótese expressa do art. 13, §2º, b, e a possibilidade de ação decorre do caput do mesmo parágrafo.",
+     "dispositivo": "CP, art. 13, §2º, caput e b"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Durante excursão, Rui, guia contratado para conduzir um grupo, percebe que Sara caiu no rio. Ele dispõe de boia e consegue alcançá-la com segurança, mas decide não agir. Sara se afoga. Qual é o enquadramento inicial mais adequado?",
+     "alternativas": {
+      "A": "A mera presença de Rui no local gera responsabilidade objetiva pelo resultado.",
+      "B": "A posição assumida como guia pode fundar dever de garantidor, mas ainda devem ser provados possibilidade de agir, nexo e elemento subjetivo.",
+      "C": "Só responde quem tem parentesco com a vítima.",
+      "D": "O resultado nunca pode ser atribuído por omissão.",
+      "E": "A responsabilidade surge automaticamente de qualquer contrato, ainda que não haja relação com o risco."
+     },
+     "gabarito": "B",
+     "comentario": "B é correta: a responsabilidade assumida pode se enquadrar no CP, art. 13, §2º, b, e exige possibilidade concreta de agir e os demais elementos do crime. A cria responsabilidade objetiva; C inventa requisito; D contraria a figura omissiva imprópria; E generaliza contrato sem examinar assunção e nexo.",
+     "dispositivo": "CP, art. 13, §2º, caput e b"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Lia causa ferimento em Mauro. Antes do atendimento, um terceiro provoca evento excepcional que, segundo perícia, produz sozinho a morte; o ferimento não contribuiu para o óbito. À luz do art. 13, §1º, qual solução é correta?",
+     "alternativas": {
+      "A": "Imputar necessariamente a morte a Lia porque ela iniciou a sequência temporal.",
+      "B": "Excluir todos os fatos praticados por Lia, inclusive o ferimento anterior.",
+      "C": "Atribuir a morte a Lia sempre que houver uma causa anterior dolosa.",
+      "D": "A causa superveniente que, por si só, produziu a morte pode excluir esse resultado da imputação de Lia, permanecendo imputáveis os fatos anteriores.",
+      "E": "Aplicar responsabilidade objetiva ao terceiro, sem examinar o nexo."
+     },
+     "gabarito": "D",
+     "comentario": "D reproduz a solução legal: o CP, art. 13, §1º, exclui a imputação do resultado produzido por si só pela causa superveniente, mantendo os fatos anteriores. A e C ignoram a regra; B apaga indevidamente o que permanece imputável; E dispensa indevidamente nexo e elemento subjetivo.",
+     "dispositivo": "CP, art. 13, §1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Um agente de segurança de piscina, escalado das 14h às 18h, vê uma criança se afogar às 16h. A prova indica que naquele instante estava inconsciente e sem possibilidade de intervenção; a criança morre. Qual conclusão respeita o art. 13, §2º?",
+     "alternativas": {
+      "A": "A função pode criar dever de garantidor, mas sem possibilidade concreta de agir não se completa a omissão penalmente relevante prevista na lei.",
+      "B": "O cargo, por si só, torna o agente responsável objetivamente pela morte.",
+      "C": "O dever de garantidor elimina a necessidade de nexo causal.",
+      "D": "O art. 13, §2º, exige parentesco entre omitente e vítima.",
+      "E": "Toda omissão é penalmente relevante, independentemente da capacidade de agir."
+     },
+     "gabarito": "A",
+     "comentario": "A é correta: embora a função possa gerar dever de proteção (CP, art. 13, §2º, a ou b, conforme o vínculo), a regra exige que o omitente pudesse agir. B e E instauram responsabilidade objetiva; C elimina elemento legal; D inventa requisito.",
+     "dispositivo": "CP, art. 13, §2º, caput e a–b"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Na investigação de um resultado, o juiz aplica a teoria da equivalência dos antecedentes e conclui que a conduta foi condição causal. Qual passo deve vir em seguida?",
+     "alternativas": {
+      "A": "Condenar, porque toda condição causal é crime completo.",
+      "B": "Presumir dolo, caso tenha ocorrido resultado grave.",
+      "C": "Examinar os demais elementos do tipo, inclusive dolo ou culpa, e as demais categorias da teoria do delito.",
+      "D": "Desconsiderar o art. 13 e aplicar apenas responsabilidade civil.",
+      "E": "Dispensar prova porque o resultado confirma a causalidade."
+     },
+     "gabarito": "C",
+     "comentario": "C é correta: o nexo do art. 13 não substitui análise da tipicidade subjetiva nem das demais categorias; o art. 18 define crime doloso e culposo. A e B presumem elementos; D abandona a regra penal; E confunde resultado com prova suficiente.",
+     "dispositivo": "CP, arts. 13, caput, e 18"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Na omissão imprópria, o agente deve e ___ poder agir; o dever pode vir de lei, assunção da responsabilidade ou criação prévia do ___.",
+     "opcoes": [
+      "pode",
+      "risco",
+      "resultado",
+      "deveria"
+     ],
+     "respostas": [
+      "pode",
+      "risco"
+     ],
+     "explicacao": "O art. 13, §2º, exige dever e possibilidade concreta de agir e prevê as três fontes do dever de garantidor.",
+     "dispositivo": "CP, art. 13, §2º, caput e a–c"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "A causa superveniente relativamente independente exclui a imputação do resultado quando, por ___, o produz.",
+     "opcoes": [
+      "si só",
+      "presunção",
+      "dolo eventual",
+      "omissão"
+     ],
+     "respostas": [
+      "si só"
+     ],
+     "explicacao": "A fórmula é expressa no art. 13, §1º; permanecem imputáveis os fatos anteriores.",
+     "dispositivo": "CP, art. 13, §1º"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise de um resultado em crime material.",
+     "itens": [
+      "Identificar conduta e resultado descritos no caso.",
+      "Verificar o nexo causal e eventual causa independente.",
+      "Examinar tipicidade subjetiva e os demais elementos do crime."
+     ],
+     "explicacao": "A sequência evita confundir causalidade com responsabilidade penal completa."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Causa superveniente que produz sozinha",
+       "Possível corte do resultado imputado"
+      ],
+      [
+       "Omissão imprópria",
+       "Dever de garantidor e poder de agir"
+      ],
+      [
+       "Assunção da responsabilidade",
+       "Fonte legal de posição de garantidor"
+      ],
+      [
+       "Imputação objetiva",
+       "Filtro normativo do risco"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tjsc-penal-tipicidade-1",
+   "titulo": "Tipo penal, dolo, culpa e erro de tipo",
+   "microconteudo": "O QUE A BANCA COBRA:\nA base C-08 analisada não traz prova TJSC suficiente para quantificar a incidência desses subtópicos. Use-a como referência de formato, não de frequência. Em casos, a banca tende a exigir que se identifique qual elemento do tipo foi conhecido, qual resultado foi querido ou aceito e se houve violação de dever objetivo de cuidado. As trocas frequentes são dolo eventual/culpa consciente, erro de tipo/erro de proibição e erro essencial/erro acidental.\n\nENTENDA:\nTipicidade é a correspondência entre o fato concreto e a descrição legal. No exame do tipo objetivo, identifique sujeito, conduta, resultado quando exigido, nexo e circunstâncias. No tipo subjetivo, verifique dolo e, apenas se houver previsão expressa, modalidade culposa. O CP, art. 18, I, considera doloso o crime quando o agente quis o resultado ou assumiu o risco de produzi-lo; o inciso II exige imprudência, negligência ou imperícia e prevê punição culposa somente quando a lei assim estabelecer. Resultado grave, isoladamente, não prova dolo.\n\nNo dolo direto, o resultado integra o propósito ou a consequência representada e querida pelo agente. No dolo eventual, ele prevê a possibilidade e assume o risco. Na culpa consciente, também prevê o resultado, mas confia sinceramente que poderá evitá-lo; na inconsciente, não o prevê, embora fosse objetivamente previsível e evitável. A distinção não se resolve por uma frase abstrata nem pela gravidade do risco: avaliam-se as circunstâncias externas e o estado volitivo que delas pode ser inferido, com respeito ao padrão de prova. Exemplo: motorista que, diante de risco concreto, continua a manobra pode suscitar debate; velocidade alta ou consumo de álcool não convertem automaticamente todo acidente em dolo eventual.\n\nA culpa depende de violação do cuidado objetivamente devido, previsibilidade, resultado não querido, nexo e possibilidade de agir de outro modo. Imprudência é agir arriscadamente; negligência, omitir cautela devida; imperícia, falhar no conhecimento técnico exigível da atividade. O princípio da confiança permite, dentro de limites, esperar que outros cumpram seus deveres, mas cede diante de sinais concretos de falha ou dever especial de vigilância. Tipos culposos não admitem analogia para criar punição: a lei deve prever expressamente a modalidade.\n\nO erro de tipo essencial recai sobre elemento constitutivo do tipo: exclui o dolo; se evitável, permite punição por culpa quando o delito tiver modalidade culposa (CP, art. 20, caput). Se inevitável, também afasta a culpa, pois não há censura por erro invencível. O erro permissivo do art. 20, §1º, recai sobre pressuposto fático de uma causa de justificação: o agente, por exemplo, imagina situação de agressão que realmente não existe. Isento de pena se o erro era plenamente justificado pelas circunstâncias; se derivar de culpa e houver modalidade culposa, responde por ela. Não se deve confundi-lo com erro sobre a existência ou os limites jurídicos da justificante, que pode configurar erro de proibição (CP, art. 21).\n\nErros acidentais não afastam necessariamente o dolo. Erro sobre a pessoa considera as qualidades da pessoa contra quem o agente queria agir (CP, art. 20, §3º). Na aberratio ictus, por erro na execução, atinge-se pessoa diversa: aplica-se a regra do art. 73, com consideração das condições da vítima pretendida; havendo resultado também na pessoa visada, pode incidir concurso formal. No resultado diverso do pretendido, por acidente ou erro na execução, o art. 74 prevê a resposta pelo resultado diverso a título de culpa quando houver previsão culposa, sem prejuízo da tentativa quanto ao resultado querido. A prova concreta deve ser classificada antes de escolher o dispositivo.\n\nDOUTRINA:\nA leitura finalista situa dolo e culpa no tipo subjetivo; a análise do erro diferencia o conhecimento dos elementos do tipo da consciência potencial da ilicitude, tratada na culpabilidade. Greco e Nucci são apontados nas fichas M-12 como referências de Parte Geral, com ênfase em dolo/culpa e erro essencial/acidental; a ficha não confirma página e os manuais não estão acessíveis. Não apresento citação literal nem paginação não verificada. A jurisprudência oficial não transforma a expressão legal “assumiu o risco” em presunção automática: a inferência depende do contexto provado.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nNo AgRg no REsp 2.193.561/AL, a Quinta Turma do STJ assentou que, havendo indícios suficientes na fase de pronúncia, a definição entre dolo eventual e culpa consciente deve ser feita pelo Tribunal do Júri, juiz natural da causa. O julgado não dispensa os requisitos da pronúncia nem autoriza presumir dolo em todo acidente. Base legal: CP, arts. 13, §2º, e 18, I; CPP, art. 413.\n\nPEGADINHAS:\n1. Prever não é necessariamente querer ou assumir: culpa consciente e dolo eventual diferem na atitude volitiva. 2. Erro essencial sobre elemento do tipo exclui dolo; culpa só permanece se houver previsão legal. 3. Erro permissivo do §1º é sobre pressuposto fático de justificante. 4. Erro de proibição recai sobre consciência da ilicitude, não sobre dado do tipo. 5. Erro acidental sobre pessoa ou execução tem disciplina própria e não elimina automaticamente o dolo. 6. Não existe modalidade culposa sem previsão legal.\n\nESQUEMA:\nQuis ou assumiu o risco → dolo (CP, art. 18, I).\nViolou cuidado + resultado previsível não querido → culpa, se prevista (art. 18, II e parágrafo único).\nErro essencial sobre elemento típico → exclui dolo; culpa possível se prevista (art. 20, caput).\nErro justificável sobre situação fática de justificante → art. 20, §1º.\nPessoa/execução/resultado diverso → CP, arts. 20, §3º, 73 e 74.\n\nA fundamentação deve explicitar quais fatos revelam conhecimento e vontade, sem inferi-los exclusivamente da gravidade do resultado.\n\nLIGAÇÕES:\nCausalidade e imputação do resultado (tópico 1.10); ilicitude e legítima defesa putativa (tópico 1.12).",
+   "flashcards": [
+    {
+     "frente": "Qual elemento distingue dolo eventual de culpa consciente?",
+     "verso": "No dolo eventual, o agente assume o risco; na culpa consciente, confia que evitará o resultado.",
+     "dispositivo": "CP, art. 18, I e II"
+    },
+    {
+     "frente": "Erro essencial inevitável sobre elemento do tipo produz qual efeito?",
+     "verso": "Afasta o dolo e, por inevitável, não permite imputar culpa.",
+     "dispositivo": "CP, art. 20, caput"
+    },
+    {
+     "frente": "O erro vencível sobre elemento do tipo sempre gera punição culposa?",
+     "verso": "Não. Só se houver modalidade culposa legalmente prevista.",
+     "dispositivo": "CP, art. 20, caput; art. 18, parágrafo único"
+    },
+    {
+     "frente": "Em qual erro o agente imagina fatos que, se reais, justificariam sua conduta?",
+     "verso": "Erro permissivo sobre pressuposto fático de causa de justificação.",
+     "dispositivo": "CP, art. 20, §1º"
+    },
+    {
+     "frente": "O erro sobre a pessoa elimina sempre o dolo?",
+     "verso": "Não. Consideram-se as qualidades da pessoa visada pelo agente.",
+     "dispositivo": "CP, art. 20, §3º"
+    },
+    {
+     "frente": "Havendo indícios suficientes na pronúncia, quem decide entre dolo eventual e culpa consciente?",
+     "verso": "O Tribunal do Júri, como juiz natural do crime doloso contra a vida.",
+     "dispositivo": "STJ, AgRg no REsp 2.193.561/AL; CPP, art. 413"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Para o Código Penal, só há crime culposo quando o agente prevê o resultado; sem previsão efetiva, a culpa fica excluída.",
+     "gabarito": "E",
+     "comentario": "Incorreta. A culpa inconsciente pode existir quando o resultado era previsível e o agente não o previu; o CP, art. 18, II, define culpa pela violação do cuidado, e a previsibilidade é analisada no caso concreto.",
+     "dispositivo": "CP, art. 18, II"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Se o agente incorre em erro essencial e evitável sobre elemento constitutivo do tipo, o dolo é excluído, mas pode haver punição culposa quando a lei prevê essa modalidade.",
+     "gabarito": "C",
+     "comentario": "Correta. O CP, art. 20, caput, exclui o dolo pelo erro de tipo e ressalva a punição culposa quando prevista; o art. 18, parágrafo único, condiciona a punição por culpa à previsão legal.",
+     "dispositivo": "CP, art. 20, caput; art. 18, parágrafo único"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A culpa consciente e o dolo eventual se distinguem apenas pelo fato de o agente prever ou não o resultado.",
+     "gabarito": "E",
+     "comentario": "Incorreta. Em ambos pode haver previsão; no dolo eventual há assunção do risco, enquanto na culpa consciente o agente confia que o resultado não ocorrerá. Base: CP, art. 18, I e II.",
+     "dispositivo": "CP, art. 18, I e II"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "O erro sobre pressuposto fático de uma justificante pode isentar de pena se plenamente justificado pelas circunstâncias; se decorrer de culpa, a punição culposa depende de previsão legal.",
+     "gabarito": "C",
+     "comentario": "Correta. Essa é a disciplina do erro permissivo no CP, art. 20, §1º: isenção quando plenamente justificado e responsabilização culposa apenas se o fato for punível como crime culposo.",
+     "dispositivo": "CP, art. 20, §1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "À noite, Caio ouve passos e vê uma pessoa aproximar-se com objeto que parece uma arma. Acreditando, por erro plenamente justificável, que sofrerá agressão atual, ele reage; depois se constata que o objeto era uma lanterna. Qual regra orienta a análise?",
+     "alternativas": {
+      "A": "Erro sobre a pessoa, nos termos do art. 20, §3º.",
+      "B": "Erro de proibição inevitável, automaticamente aplicável a toda percepção equivocada.",
+      "C": "Erro permissivo sobre pressupostos fáticos de legítima defesa, conforme o art. 20, §1º.",
+      "D": "Erro na execução, nos termos do art. 73.",
+      "E": "Crime culposo obrigatório, ainda que a lei não preveja modalidade culposa."
+     },
+     "gabarito": "C",
+     "comentario": "C é correta: Caio supõe situação fática de agressão e a análise segue o CP, art. 20, §1º, inclusive quanto à justificabilidade do erro. A trata de vítima diversa; B confunde fato com consciência da ilicitude; D versa sobre execução; E ignora a exigência de previsão culposa do art. 18, parágrafo único.",
+     "dispositivo": "CP, art. 20, §1º; art. 18, parágrafo único"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Durante operação, Joana realiza procedimento profissional sem cautela exigível e causa lesão previsível. Ela não queria lesionar e acreditava que o risco não se concretizaria. Qual análise é mais adequada?",
+     "alternativas": {
+      "A": "Há necessariamente dolo eventual porque o resultado ocorreu.",
+      "B": "A confiança em que o resultado não ocorreria pode apontar para culpa consciente; devem-se provar violação do cuidado, nexo e modalidade culposa prevista.",
+      "C": "A ausência de vontade exclui qualquer crime, mesmo havendo tipo culposo.",
+      "D": "A imperícia é a única forma de culpa e depende de erro de tipo.",
+      "E": "O resultado lesivo dispensa exame do dever de cuidado."
+     },
+     "gabarito": "B",
+     "comentario": "B é correta: a culpa consciente envolve previsão com confiança na não ocorrência, mas requer violação do cuidado e tipo culposo aplicável (CP, art. 18, II e parágrafo único). A presume dolo pelo resultado; C ignora a culpa; D restringe indevidamente as modalidades; E elimina requisito da culpa.",
+     "dispositivo": "CP, art. 18, II e parágrafo único"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Na pronúncia de uma acusação de crime doloso contra a vida, existem indícios suficientes de dolo eventual, mas a defesa sustenta culpa consciente. Segundo entendimento do STJ, a quem cabe a definição nessa fase?",
+     "alternativas": {
+      "A": "Ao Tribunal do Júri, juiz natural, quando presentes indícios suficientes na pronúncia.",
+      "B": "Ao delegado de polícia, em decisão definitiva.",
+      "C": "Ao juiz singular, sempre, porque culpa consciente exclui competência do júri.",
+      "D": "Ao Ministério Público, sem controle judicial.",
+      "E": "Ao tribunal superior, independentemente da suficiência de indícios."
+     },
+     "gabarito": "A",
+     "comentario": "A é correta: o STJ reconheceu que, com indícios suficientes na pronúncia, a definição entre dolo eventual e culpa consciente cabe ao Júri (AgRg no REsp 2.193.561/AL; CPP, art. 413). B e D não julgam mérito; C antecipa solução incompatível com os indícios; E inventa competência automática.",
+     "dispositivo": "STJ, AgRg no REsp 2.193.561/AL; CPP, art. 413"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Pedro pretendia atingir um desafeto identificado, mas, por erro na execução, acerta outra pessoa. Qual disciplina se aplica em princípio?",
+     "alternativas": {
+      "A": "Absolvição automática porque a vítima efetiva é diversa.",
+      "B": "Erro de proibição, pois Pedro desconhecia a ilicitude.",
+      "C": "Erro sobre elemento do tipo que sempre exclui dolo.",
+      "D": "Regra da aberratio ictus, considerando-se as qualidades da pessoa visada, sem afastamento automático do dolo.",
+      "E": "Responsabilidade por qualquer resultado, ainda que imprevisível."
+     },
+     "gabarito": "D",
+     "comentario": "D é correta: o CP, art. 73, disciplina o erro na execução e remete às condições da pessoa visada. B confunde erro de execução com desconhecimento da ilicitude; A e C classificam incorretamente o erro; E cria responsabilidade objetiva e ignora os limites do art. 73.",
+     "dispositivo": "CP, art. 73"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "No dolo eventual, o agente ___ o risco; na culpa consciente, embora preveja o resultado, ___ que conseguirá evitá-lo.",
+     "opcoes": [
+      "assume",
+      "confia",
+      "ignora",
+      "quer"
+     ],
+     "respostas": [
+      "assume",
+      "confia"
+     ],
+     "explicacao": "A distinção está na atitude volitiva perante o risco, conforme as modalidades do art. 18.",
+     "dispositivo": "CP, art. 18, I e II"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "O erro essencial sobre elemento constitutivo do tipo exclui o ___; se evitável, a culpa só é punível quando ___ em lei.",
+     "opcoes": [
+      "dolo",
+      "prevista",
+      "resultado",
+      "presumida"
+     ],
+     "respostas": [
+      "dolo",
+      "prevista"
+     ],
+     "explicacao": "O art. 20, caput, combinado com art. 18, parágrafo único, preserva a necessidade de previsão legal da forma culposa.",
+     "dispositivo": "CP, art. 20, caput; art. 18, parágrafo único"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Classifique um erro antes de escolher sua consequência jurídica.",
+     "itens": [
+      "Identificar o dado fático que o agente representou incorretamente.",
+      "Verificar se esse dado integra o tipo, uma justificante ou apenas aspecto acidental.",
+      "Aplicar a regra pertinente dos arts. 20, 73 ou 74 do Código Penal."
+     ],
+     "explicacao": "A classificação do objeto do erro determina se o dolo é excluído ou se incide disciplina especial.",
+     "dispositivo": "CP, arts. 20, 73 e 74"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Dolo eventual",
+       "Assume o risco do resultado"
+      ],
+      [
+       "Culpa consciente",
+       "Prevê e confia que evitará"
+      ],
+      [
+       "Erro de tipo essencial",
+       "Erro sobre elemento constitutivo"
+      ],
+      [
+       "Aberratio ictus",
+       "Erro na execução contra pessoa diversa"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tjsc-penal-ilicitude-1",
+   "titulo": "Ilicitude e causas de justificação",
+   "microconteudo": "O QUE A BANCA COBRA:\nOs dados classificados pela C-08 não bastam para estimar incidência de cada justificante no concurso de juiz. Em questões autorais de magistratura, o eixo seguro é subsumir fatos aos requisitos legais e controlar excessos: perigo atual versus agressão atual ou iminente; direito próprio ou alheio; necessidade e moderação; dever legal versus exercício regular; justificante real versus putativa. O STF também excluiu definitivamente a chamada legítima defesa da honra do âmbito jurídico da legítima defesa.\n\nENTENDA:\nA ilicitude é a contrariedade do fato típico ao ordenamento; uma causa de justificação autoriza excepcionalmente a conduta. O art. 23 do CP prevê estado de necessidade, legítima defesa, estrito cumprimento de dever legal e exercício regular de direito. O reconhecimento de uma causa justificante exige fatos compatíveis com seus requisitos, não basta nomeá-la. O parágrafo único do art. 23 mantém a responsabilidade por excesso doloso ou culposo: a permissão é limitada ao necessário.\n\nNo estado de necessidade, o agente pratica o fato para salvar de perigo atual direito próprio ou alheio, quando não provocou voluntariamente o perigo e não podia evitá-lo de outro modo, sem dever legal de enfrentá-lo (CP, art. 24). A situação exige ponderação: se era razoável exigir o sacrifício do direito ameaçado, não se exclui o crime; ainda assim, o §2º permite redução de pena de um a dois terços. Imagine uma médica que danifica equipamento de terceiro para retirar paciente de ambiente em incêndio. Importam atualidade do perigo, inevitabilidade, bem protegido, bem sacrificado e eventual dever de suportar o risco. Perigo futuro ou meramente imaginado não satisfaz automaticamente o art. 24.\n\nA legítima defesa pressupõe agressão injusta, atual ou iminente, contra direito próprio ou de terceiro, e reação com uso moderado dos meios necessários (CP, art. 25). A agressão pode dirigir-se a qualquer bem jurídico, não apenas à vida, e a defesa pode proteger terceiro. Necessidade e moderação são avaliadas no contexto, mas a reação não se converte em autorização para vingança depois de cessada a agressão. Se o meio era necessário, o excesso posterior pode gerar responsabilidade conforme a forma dolosa ou culposa. O parágrafo único do art. 25 contém regra para agente de segurança pública, observados os requisitos legais; não cria imunidade geral nem afasta o controle de moderação.\n\nO estrito cumprimento de dever legal pressupõe dever imposto pelo ordenamento e atuação dentro de seus limites. O exercício regular de direito protege faculdade juridicamente autorizada, também exercida sem abuso. Em uma ordem de busca, por exemplo, o agente público não recebe permissão ilimitada: finalidade, competência e limites da medida continuam relevantes. Colisão de deveres pode ser resolvida pela ponderação e pelas regras da situação concreta, mas não deve servir de rótulo para deixar de verificar se o agente tinha dever e possibilidade de cumprir uma das condutas.\n\nO consentimento do ofendido não aparece no rol do art. 23, mas a doutrina reconhece relevância quando o bem é disponível, quem consente é capaz e titular, a vontade é livre e anterior ou concomitante à conduta. Dependendo da estrutura do tipo, o consentimento exclui a própria tipicidade (a elementar pressupõe ausência de consentimento) ou funciona como justificante supralegal. Não pode autorizar lesão a bem indisponível em termos incompatíveis com a lei, nem substitui requisitos específicos de tipos penais. Por isso, a resposta depende do bem jurídico e da descrição legislativa.\n\nErro sobre os fatos de uma justificante não é justificante real: o agente acredita que ocorre agressão inexistente. A hipótese é erro permissivo do art. 20, §1º. Se o erro era plenamente justificado pelas circunstâncias, o agente fica isento; se derivar de culpa e houver tipo culposo, responde por culpa. Se o agente conhece os fatos, mas acredita equivocadamente que a lei autoriza a reação, a questão se desloca para erro de proibição (CP, art. 21). Essa diferença evita transformar qualquer crença subjetiva em permissão objetiva.\n\nDOUTRINA:\nA doutrina distingue justificantes legais, que afastam ilicitude, de causas de exclusão da culpabilidade, que deixam o fato ilícito mas não censurável. Para legítima defesa, o elemento objetivo (agressão injusta atual ou iminente) é acompanhado de componente subjetivo de conhecimento da situação justificante. Há debate sobre natureza e limites do consentimento, que pode afastar tipicidade ou ilicitude conforme a estrutura do tipo e a disponibilidade do bem. As fichas M-12 indicam GRECO, Rogério, Curso de Direito Penal — Parte Geral, vol. 1, 19ª ed., 2017, e NUCCI, Guilherme de Souza, Curso de Direito Penal — Parte Geral, vol. 1, 2017; não confirmam página, e os manuais não estão acessíveis neste workspace. Não atribuo paginação nem citação literal; a referência deve ser completada pela Manus.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nNa ADPF 779/DF, o STF, por unanimidade, declarou inconstitucional a tese da legítima defesa da honra e conferiu interpretação conforme aos arts. 23, II, e 25 do CP e ao art. 65 do CPP, impedindo sua utilização direta ou indireta em fases pré-processual e processual e no Tribunal do Júri. A proteção constitucional da vida, dignidade e igualdade limita qualquer leitura que transforme honra subjetiva em autorização para violência.\n\nPEGADINHAS:\n1. Estado de necessidade exige perigo atual; legítima defesa exige agressão injusta atual ou iminente. 2. Legítima defesa pode proteger direito próprio ou alheio. 3. A reação deve usar meios necessários moderadamente; excesso doloso ou culposo continua punível. 4. Dever legal não significa autorização fora dos limites da função. 5. Erro sobre pressupostos fáticos de justificante segue art. 20, §1º; erro sobre a proibição segue art. 21. 6. Legítima defesa da honra não é justificante e seu uso é vedado pela ADPF 779.\n\nESQUEMA:\nEstado de necessidade → perigo atual + inevitabilidade + salvamento de direito (CP, art. 24).\nLegítima defesa → agressão injusta atual/iminente + meios necessários moderados (CP, art. 25).\nDever legal/exercício regular → atuação dentro dos limites jurídicos (art. 23, III).\nExcesso doloso ou culposo → responsabilidade (art. 23, parágrafo único).\nLegítima defesa da honra → inconstitucional (STF, ADPF 779/DF).\n\nLIGAÇÕES:\nErro permissivo e erro de tipo (tópico 1.11); culpabilidade e erro de proibição (tópico 1.13).",
+   "flashcards": [
+    {
+     "frente": "Qual é a diferença temporal central entre perigo do estado de necessidade e agressão da legítima defesa?",
+     "verso": "Estado de necessidade: perigo atual; legítima defesa: agressão atual ou iminente.",
+     "dispositivo": "CP, arts. 24 e 25"
+    },
+    {
+     "frente": "Quais direitos podem ser defendidos legitimamente?",
+     "verso": "Direito próprio ou de terceiro, com meios necessários usados moderadamente.",
+     "dispositivo": "CP, art. 25, caput"
+    },
+    {
+     "frente": "O que ocorre se o agente excede dolosa ou culposamente os limites de uma justificante?",
+     "verso": "Responde pelo excesso doloso ou culposo.",
+     "dispositivo": "CP, art. 23, parágrafo único"
+    },
+    {
+     "frente": "A legítima defesa da honra pode ser sustentada no plenário do júri?",
+     "verso": "Não. O STF a declarou inconstitucional e vedou seu uso direto ou indireto.",
+     "dispositivo": "STF, ADPF 779/DF"
+    },
+    {
+     "frente": "Se alguém imagina agressão inexistente por erro fático, qual dispositivo deve ser examinado?",
+     "verso": "Erro permissivo sobre pressuposto fático de justificante.",
+     "dispositivo": "CP, art. 20, §1º"
+    },
+    {
+     "frente": "O consentimento da vítima sempre exclui a ilicitude?",
+     "verso": "Não. Depende da disponibilidade do bem e da estrutura do tipo; pode afastar tipicidade.",
+     "dispositivo": "CP, art. 23; análise do tipo aplicável"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A legítima defesa exige agressão injusta atual ou iminente, mas pode proteger direito de terceiro e requer uso moderado dos meios necessários.",
+     "gabarito": "C",
+     "comentario": "Correta. Esses são os requisitos expressos do CP, art. 25, caput, que admite defesa de direito próprio ou alheio.",
+     "dispositivo": "CP, art. 25, caput"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "O agente que reage após encerrada a agressão pode invocar legítima defesa porque a ameaça inicial foi injusta.",
+     "gabarito": "E",
+     "comentario": "Incorreta. A agressão deve ser atual ou iminente no momento da reação; represália posterior não satisfaz o CP, art. 25, caput.",
+     "dispositivo": "CP, art. 25, caput"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O excesso doloso ou culposo nos limites de uma causa de justificação pode ser punido.",
+     "gabarito": "C",
+     "comentario": "Correta. O CP, art. 23, parágrafo único, prevê responsabilidade pelo excesso doloso ou culposo.",
+     "dispositivo": "CP, art. 23, parágrafo único"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "A tese da legítima defesa da honra permanece autorizada no plenário do júri como consequência da plenitude de defesa.",
+     "gabarito": "E",
+     "comentario": "Incorreta. O STF, na ADPF 779/DF, declarou a tese inconstitucional e impediu sua utilização direta ou indireta inclusive perante o júri; plenitude de defesa não legitima argumento ilícito.",
+     "dispositivo": "STF, ADPF 779/DF; CF, arts. 1º, III, e 5º, caput"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Durante um incêndio atual, Paulo danifica uma porta de R$ 4.000 para retirar uma pessoa em perigo. Não provocou o incêndio e não havia outro meio de salvamento. Qual causa deve ser examinada?",
+     "alternativas": {
+      "A": "Legítima defesa, porque toda situação urgente envolve agressão injusta.",
+      "B": "Estado de necessidade, verificando-se perigo atual, inevitabilidade e ponderação dos bens, nos termos do art. 24.",
+      "C": "Erro de tipo, pois houve dano patrimonial.",
+      "D": "Estrito cumprimento de dever legal, mesmo sem dever jurídico.",
+      "E": "Exercício regular de direito, automaticamente, por haver emergência."
+     },
+     "gabarito": "E",
+     "comentario": "E é correta: os fatos apontam para perigo atual e ação para salvar direito alheio, sujeitos aos demais requisitos do CP, art. 24. A confunde perigo e agressão; C afirma que a emergência automaticamente configura exercício regular, o que não decorre da lei; D exige dever legal; B descreve a causa aplicável.",
+     "dispositivo": "CP, art. 24"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Numa discussão, André empurra Beto, que se afasta e encerra a agressão. Dois minutos depois, André retorna e o golpeia para puni-lo. Qual conclusão melhor se ajusta ao CP?",
+     "alternativas": {
+      "A": "Há legítima defesa porque qualquer agressão anterior permanece atual por cinco minutos.",
+      "B": "O caso é estado de necessidade, por existir conflito entre direitos.",
+      "C": "A reação posterior é legítima se André usou meio necessário.",
+      "D": "A agressão já cessara, e a represália não preenche a atualidade exigida pela legítima defesa.",
+      "E": "O consentimento de Beto é presumido pela discussão."
+     },
+     "gabarito": "D",
+     "comentario": "D é correta: encerrada a agressão, a reação vingativa não atende ao requisito de atualidade do CP, art. 25. A inventa prazo; B não descreve perigo atual inevitável; C ignora o requisito temporal; E presume consentimento inexistente.",
+     "dispositivo": "CP, art. 25, caput"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Uma agente de segurança pública intervém para repelir agressão contra pessoa retida, usando força. Os fatos indicam risco atual, e a defesa discute se a medida era necessária e moderada. Qual regra é correta?",
+     "alternativas": {
+      "A": "O agente de segurança tem imunidade penal sempre que atua em serviço.",
+      "B": "A qualidade funcional elimina o requisito de agressão injusta.",
+      "C": "A função não afasta os requisitos da legítima defesa; deve-se verificar agressão, necessidade, moderação e limites legais do parágrafo único do art. 25.",
+      "D": "A reação só pode proteger direito próprio do agente.",
+      "E": "O resultado lesivo comprova automaticamente excesso culposo."
+     },
+     "gabarito": "C",
+     "comentario": "C é correta: o CP, art. 25, caput e parágrafo único, mantém critérios legais e não cria imunidade geral. A e B inventam privilégio; D contraria a defesa de direito alheio; E presume excesso sem prova.",
+     "dispositivo": "CP, art. 25, caput e parágrafo único"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Uma pessoa imagina que um vizinho vai atacá-la porque interpreta um objeto inofensivo como arma, mas os fatos depois mostram que não existia agressão. Qual distinção é mais importante?",
+     "alternativas": {
+      "A": "Se o erro recai sobre fatos que, se verdadeiros, justificariam a reação, examina-se o art. 20, §1º; se recai sobre a existência jurídica da permissão, pode incidir o art. 21.",
+      "B": "Toda crença subjetiva cria legítima defesa real.",
+      "C": "O art. 25 exige agressão imaginária, não real.",
+      "D": "O erro sempre exclui qualquer responsabilidade, mesmo que evitável e havendo crime culposo previsto.",
+      "E": "A hipótese é necessariamente erro sobre a pessoa, art. 20, §3º."
+     },
+     "gabarito": "A",
+     "comentario": "A é correta: erro fático sobre pressuposto de justificante segue o art. 20, §1º; erro jurídico sobre ilicitude pode seguir o art. 21. B e C transformam justificante real em imaginária; D ignora a ressalva culposa do §1º; E trata de erro sobre a pessoa visada.",
+     "dispositivo": "CP, art. 20, §1º; art. 21; art. 25"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "A legítima defesa requer agressão injusta ___ ou iminente e reação com meios necessários usados ___.",
+     "opcoes": [
+      "atual",
+      "moderadamente",
+      "passada",
+      "ilimitadamente"
+     ],
+     "respostas": [
+      "atual",
+      "moderadamente"
+     ],
+     "explicacao": "O art. 25 exige atualidade ou iminência da agressão e moderação dos meios necessários.",
+     "dispositivo": "CP, art. 25, caput"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "No estado de necessidade, o perigo deve ser ___ e não pode ter sido provocado voluntariamente pelo agente.",
+     "opcoes": [
+      "atual",
+      "pretérito",
+      "presumido",
+      "inevitável em abstrato"
+     ],
+     "respostas": [
+      "atual"
+     ],
+     "explicacao": "O caput do art. 24 exige perigo atual, além das demais condições legais.",
+     "dispositivo": "CP, art. 24, caput"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Analise uma alegação de legítima defesa real.",
+     "itens": [
+      "Verificar se havia agressão injusta atual ou iminente.",
+      "Identificar o direito próprio ou alheio protegido e se havia meio necessário.",
+      "Avaliar a moderação da reação e eventual excesso doloso ou culposo."
+     ],
+     "explicacao": "A ordem segue os requisitos do art. 25 e o limite do art. 23, parágrafo único.",
+     "dispositivo": "CP, art. 25, caput; art. 23, parágrafo único"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Estado de necessidade",
+       "Perigo atual"
+      ],
+      [
+       "Legítima defesa",
+       "Agressão injusta atual/iminente"
+      ],
+      [
+       "Estrito cumprimento",
+       "Dever legal dentro dos limites"
+      ],
+      [
+       "Excesso",
+       "Responsabilidade dolosa ou culposa"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

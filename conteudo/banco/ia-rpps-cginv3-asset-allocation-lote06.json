@@ -1,0 +1,584 @@
+{
+ "assunto": "CP RPPS — Comitê de Investimentos (CGINV III): Asset Allocation 12.2",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 (Resolução CMN nº 5.272/2025, Portaria MTP nº 1.467/2022 e Manual CP RPPS v2.0 consultados em fontes oficiais em 23/11/2026)",
+ "origem": "2026-11-23_banco-rpps-cginv3-asset-allocation-lote06_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "cginv3-alocacao-122-1",
+   "titulo": "Horizonte, passivo e alocação estratégica",
+   "microconteudo": "O QUE A BANCA COBRA:\nO candidato precisa ligar o horizonte do passivo previdenciário à distribuição de longo prazo entre classes, explicar o compromisso entre risco e retorno e reconhecer que a alocação estratégica expressa uma política deliberada, sujeita a limites e revisão. O conteúdo programático também separa essa decisão das alterações táticas e da seleção de classes de ativos. Não há base pública de provas CGINV III para afirmar quantas vezes cada ângulo apareceu.\n\nENTENDA:\nAsset allocation é a decisão de como repartir recursos entre classes para cumprir objetivos ao longo de um horizonte. Para um RPPS, não se começa perguntando qual fundo rendeu mais no mês. Começa-se pela finalidade previdenciária, fluxo esperado de contribuições e benefícios, maturidade do regime, liquidez necessária, tolerância a perdas e restrições legais. A carteira precisa servir às obrigações do plano, ao mesmo tempo que observa segurança, rentabilidade, solvência, liquidez, motivação, adequação à natureza das obrigações e transparência (Resolução CMN 5.272/2025, art. 1º, § 1º).\n\nA alocação estratégica traduz esses elementos em uma combinação de referência para o horizonte de planejamento: por exemplo, faixas de renda fixa, renda variável, exterior, estruturados, fundos imobiliários e empréstimos consignados, sempre dentro dos segmentos e condições autorizados pela norma. Não se trata de uma previsão infalível nem de um percentual universal. Um RPPS jovem, com contribuições estáveis e horizonte longo, pode ter capacidade distinta de suportar volatilidade de um regime maduro com saídas líquidas próximas. A política de investimentos deve explicitar estratégia entre segmentos e carteiras, retorno esperado compatível com obrigações, metodologia de avaliação e análise de riscos (art. 4º, II, III, VI e VII). O conselho deliberativo aprova a política antes da implementação (art. 5º).\n\nUma forma de organizar o raciocínio é comparar retorno esperado de cada classe com seu risco e contribuição ao risco agregado. Se os pesos forem wᵢ e os retornos esperados μᵢ, o retorno esperado da carteira é μp = Σwᵢμᵢ. A variância depende das covariâncias: σ²p = w'Σw. Somar riscos individuais sem considerar correlação pode superestimar ou subestimar a contribuição de cada ativo. A fórmula é ferramenta de análise, não promessa de que médias históricas se repetirão. Estimativas de retorno, volatilidade e correlação são incertas e devem ser testadas em cenários adversos.\n\nConsidere o RPPS municipal de Boa Esperança, com patrimônio de R$ 120 milhões, pagamentos líquidos projetados de R$ 8 milhões nos próximos doze meses e entradas inferiores aos benefícios. Elevar ações de 10% para 25% porque o mercado subiu não constitui justificativa estratégica. O comitê deve perguntar se o fluxo e a avaliação atuarial comportam oscilações, qual reserva cobre pagamentos, como a mudança afeta concentração e limites, e se o retorno esperado compensa o risco no horizonte. O art. 4º, III, exige compatibilidade dos parâmetros de rentabilidade com o perfil das obrigações e o equilíbrio financeiro e atuarial.\n\nA alocação estratégica não significa comprar e esquecer. O peso observado se afasta do alvo por variações de mercado e fluxos. O processo deve prever bandas de tolerância, monitoramento, rebalanceamento e aprovação de mudanças materiais. Se a renda variável cai, seu peso pode ficar abaixo do alvo; rebalancear pode significar comprar ativos depreciados, mas somente se a tese, a liquidez, os limites e as necessidades do regime continuarem válidos. Um rebalanceamento mecânico que ignore mudança do passivo pode ser inadequado.\n\nDOUTRINA:\nA teoria de carteiras trata a alocação como escolha conjunta de retorno esperado e risco, reconhecendo que covariâncias permitem diversificação. A decisão prática difere do modelo simples porque o RPPS enfrenta obrigações, restrições de liquidez, custos, limites regulatórios e incerteza de parâmetros; portanto, uma carteira eficiente matemática não é automaticamente adequada. A ficha M-12 nº 06 descreve o escopo, mas não confirma edição e páginas em biblioteca acessível nesta execução. Registro a lacuna sem atribuir citação ou paginação não verificadas.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nSem precedente judicial específico relevante que determine pesos de asset allocation. O enquadramento é normativo e prudencial: a Resolução CMN 5.272/2025, arts. 1º e 4º, exige princípios de aplicação, estratégia entre segmentos, aderência às obrigações e análise de riscos; arts. 4º e 5º determinam conteúdo mínimo e aprovação prévia da política.\n\nPEGADINHAS:\n1. Alocação estratégica é referência de longo prazo, não previsão certa nem obrigação de manter pesos sem revisão.\n2. Limite máximo regulatório é teto de elegibilidade, não meta recomendada.\n3. Retorno esperado compatível com meta atuarial não elimina risco nem garante resultado.\n4. Diversificação depende de correlações e não apaga risco sistêmico nem necessidade de caixa.\n5. Uma classe com retorno histórico alto pode piorar risco total ou descasamento com benefícios.\n\nESQUEMA:\nPassivo + horizonte + caixa → objetivos e restrições → retorno/risco por classe → pesos estratégicos → limites e aprovação → monitoramento → rebalanceamento ou revisão justificada.\n\nLIGAÇÕES:\nGestão Atuarial 2.1 (projeções e equilíbrio); Teoria Moderna das Carteiras 11.2 (fronteira eficiente); Legislação dos Investimentos 7.1 (segmentos e limites).\n\nPara transformar a orientação em decisão verificável, o comitê pode explicitar faixas estratégicas, limites operacionais e eventos que exigem reavaliação. A análise de passivos deve considerar cenários de inflação, juros, longevidade, arrecadação e atrasos de contribuições, pois esses fatores afetam simultaneamente o valor dos ativos e o momento de pagamento das obrigações. Um estudo de ALM pode comparar o comportamento dos ativos com a trajetória das obrigações e identificar descasamentos, sem prometer imunidade a choques. A distribuição por classe precisa ainda considerar concentração por emissor, gestor e fator de risco. A diversificação por rótulos não basta se várias posições dependem do mesmo fator, como taxa de juros real ou liquidez de crédito. O art. 4º, VIII, exige plano de contingência para exposição excessiva ou potenciais perdas, reforçando que a carteira estratégica deve prever respostas antes que a crise ocorra.",
+   "flashcards": [
+    {
+     "pergunta": "Antes de propor pesos, quais dados previdenciários o comitê deve confrontar?",
+     "resposta": "Fluxos projetados de contribuições e benefícios, maturidade, horizonte, liquidez, tolerância a perdas e limites legais."
+    },
+    {
+     "pergunta": "Por que o risco da carteira não é a soma simples dos riscos individuais?",
+     "resposta": "Porque a variância agregada depende das covariâncias entre ativos, além dos pesos."
+    },
+    {
+     "pergunta": "Qual pegadinha transforma um teto da CMN em falsa recomendação?",
+     "resposta": "Tratar o limite máximo permitido como percentual que o RPPS deve obrigatoriamente investir."
+    },
+    {
+     "pergunta": "O RPPS maduro tem saídas líquidas próximas; que prioridade deve testar?",
+     "resposta": "Suficiência de liquidez e risco de vender ativos em condições desfavoráveis para pagar benefícios."
+    },
+    {
+     "pergunta": "Quem aprova a política anual antes da implantação?",
+     "resposta": "Conselho deliberativo ou órgão equivalente, conforme art. 5º da Resolução CMN 5.272/2025."
+    },
+    {
+     "pergunta": "Uma alta passada de ações prova que a classe deve receber peso maior?",
+     "resposta": "Não. A decisão depende do passivo, risco agregado, horizonte, liquidez, custos, premissas e limites."
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A alocação estratégica deve considerar o perfil de obrigações, liquidez e risco, ainda que o limite regulatório permita exposição superior ao peso escolhido na política.",
+     "gabarito": "C",
+     "comentario": "Correto. O teto delimita elegibilidade; a estratégia deve ser compatível com as obrigações e princípios prudenciais. Resolução 5.272/2025, arts. 1º, § 1º, e 4º, II e III.",
+     "dispositivo": "Resolução CMN 5.272/2025, arts. 1º, § 1º, e 4º, II e III"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Um RPPS com pagamentos líquidos projetados de R$ 8 milhões no próximo ano pode substituir a análise de liquidez por retorno esperado maior, desde que respeite os limites por classe.",
+     "gabarito": "E",
+     "comentario": "Errado. Cumprir limites não substitui avaliar obrigações e liquidez; a política deve considerar adequação ao passivo, solvência e risco. Resolução 5.272/2025, arts. 1º, § 1º, e 4º, III e VI.",
+     "dispositivo": "Resolução CMN 5.272/2025, arts. 1º, § 1º, e 4º, III e VI"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Na análise média-variância, a correlação entre classes pode alterar a variância da carteira mesmo que os pesos e volatilidades individuais permaneçam constantes.",
+     "gabarito": "C",
+     "comentario": "Correto. A variância w′Σw incorpora covariâncias; alteração das correlações muda o risco agregado. A política deve conter metodologia de risco: art. 4º, VI.",
+     "dispositivo": "Resolução CMN 5.272/2025, art. 4º, VI"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "No RPPS fictício de Rio Verde, em 10/03/2026, o atuário projeta passivo de R$ 95 milhões e o comitê define retorno-alvo de 6% real. A aprovação da política garante que a meta será alcançada?",
+     "gabarito": "E",
+     "comentario": "Errado. Meta e política são parâmetros de planejamento, não garantias de retorno. Resolução 5.272/2025, arts. 4º, III e VI, e 5º.",
+     "dispositivo": "Resolução CMN 5.272/2025, arts. 4º, III e VI, e 5º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Boa Esperança tem R$ 120 milhões, saídas líquidas previstas de R$ 8 milhões em 12 meses e proposta de elevar ações de 10% para 25% após alta recente. Qual análise é adequada?",
+     "alternativas": {
+      "A": "Aprovar automaticamente pelo maior retorno passado.",
+      "B": "Testar fluxo, capacidade de suportar perdas, risco agregado, limites e compatibilidade com a política antes da decisão.",
+      "C": "Verificar apenas se 25% está abaixo do teto regulatório.",
+      "D": "Deixar a decisão ao custodiante.",
+      "E": "Usar retorno nominal sem considerar obrigações."
+     },
+     "gabarito": "B",
+     "comentario": "A) Errada: histórico não substitui análise prospectiva. B) Correta: arts. 1º, § 1º, e 4º exigem princípios, estratégia e análise de risco. C) Errada: teto não é objetivo. D) Errada: custódia não substitui governança. E) Errada: omite adequação ao passivo, art. 4º, III.",
+     "dispositivo": "Resolução CMN 5.272/2025, arts. 1º, § 1º, 2º, 4º e 5º; Portaria MTP 1.467/2022, arts. 86–88"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Uma carteira tem pesos 60% e 40%, retornos esperados de 8% e 5% e correlação positiva. Qual afirmação é correta?",
+     "alternativas": {
+      "A": "O retorno esperado ponderado é 6,8%; a variância ainda requer volatilidades e covariância.",
+      "B": "O retorno é 13% pela soma dos retornos.",
+      "C": "A variância depende apenas dos retornos esperados.",
+      "D": "Correlação positiva elimina risco diversificável.",
+      "E": "O retorno é a média simples de 8% e 5%."
+     },
+     "gabarito": "A",
+     "comentario": "A) Correta: 0,6×8% + 0,4×5% = 6,8%; risco requer covariância (art. 4º, VI–VII). B) Errada: ignora os pesos. C) Errada: faltam variâncias e covariância. D) Errada: correlação positiva limita, não elimina, diversificação. E) Errada: pesos não são iguais.",
+     "dispositivo": "Resolução CMN 5.272/2025, art. 4º, VI e VII"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "O conselho de Lago Sereno quer fixar alocação estratégica sem examinar maturidade, projeções de benefícios ou necessidade de caixa. Qual procedimento é adequado?",
+     "alternativas": {
+      "A": "Escolher o portfólio de maior retorno histórico.",
+      "B": "Adotar os tetos regulatórios como pesos obrigatórios.",
+      "C": "Relacionar pesos e retorno esperado às obrigações, analisar risco e liquidez e submeter a política à aprovação prévia.",
+      "D": "Delegar a decisão sem mandato a um agente.",
+      "E": "Presumir que liquidez é irrelevante em horizonte longo."
+     },
+     "gabarito": "C",
+     "comentario": "A) Errada: omite passivo e risco. B) Errada: confunde teto e estratégia. C) Correta: Resolução 5.272/2025, arts. 1º, § 1º, 4º, II, III e VI, e 5º. D) Errada: não afasta governança. E) Errada: liquidez é princípio expresso no art. 1º, § 1º.",
+     "dispositivo": "Resolução CMN 5.272/2025, arts. 1º, § 1º, 4º, II, III e VI, e 5º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Quem implementa e acompanha a política anual, mantendo decisões dentro do mandato aprovado?",
+     "alternativas": {
+      "A": "Conselho fiscal executa ordens de mercado.",
+      "B": "Custodiante redefine os pesos a cada oscilação.",
+      "C": "Instituição financeira escolhe o objetivo previdenciário.",
+      "D": "Responsável pela gestão e participantes decisórios atuam conforme a política, com controles e acompanhamento.",
+      "E": "Atuário executa as aplicações."
+     },
+     "gabarito": "D",
+     "comentario": "A) Errada: confunde fiscalização e gestão. B) Errada: custódia não autoriza alteração de mandato. C) Errada: a instituição não escolhe o objetivo previdenciário. D) Correta: Resolução 5.272/2025, arts. 4º–5º, e Portaria 1.467/2022, arts. 86–88 e 101. E) Errada: confunde avaliação atuarial com gestão de investimentos.",
+     "dispositivo": "Resolução CMN 5.272/2025, arts. 4º e 5º; Portaria MTP 1.467/2022, arts. 86–88 e 101"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "A alocação estratégica começa pela leitura do ___ e das necessidades de ___ do RPPS.",
+     "opcoes": [
+      "passivo",
+      "liquidez",
+      "retorno passado",
+      "corretagem"
+     ],
+     "respostas": [
+      "passivo",
+      "liquidez"
+     ],
+     "explicacao": "Obrigações e caixa orientam horizonte e capacidade de suportar risco.",
+     "dispositivo": "Resolução CMN 5.272/2025, arts. 1º, § 1º, e 4º, III"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "A alocação estratégica deve considerar ___, tolerância a perdas e limites; o conselho aprova a política antes da ___.",
+     "opcoes": [
+      "obrigações",
+      "implementação",
+      "retorno do último mês",
+      "precificação diária"
+     ],
+     "respostas": [
+      "obrigações",
+      "implementação"
+     ],
+     "explicacao": "O perfil do passivo informa estratégia; aprovação precede a execução.",
+     "dispositivo": "Resolução CMN 5.272/2025, arts. 4º, III, e 5º"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene as decisões para estruturar uma alocação de longo prazo.",
+     "itens": [
+      "Ler passivo, horizonte e necessidade de caixa",
+      "Definir objetivos e restrições",
+      "Selecionar classes, pesos e limites de risco",
+      "Obter aprovação e monitorar a carteira"
+     ],
+     "explicacao": "A alocação parte das obrigações e só é implementada após seleção e aprovação.",
+     "dispositivo": "Resolução CMN 5.272/2025, arts. 4º e 5º"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Alocação estratégica",
+       "Composição de referência de longo prazo"
+      ],
+      [
+       "Covariância",
+       "Movimento conjunto de retornos"
+      ],
+      [
+       "Liquidez previdenciária",
+       "Capacidade de pagar benefícios no prazo"
+      ],
+      [
+       "Limite regulatório",
+       "Teto ou condição, não meta automática"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cginv3-alocacao-122-2",
+   "titulo": "Seleção de classes, risco e retorno",
+   "microconteudo": "O QUE A BANCA COBRA:\nÉ necessário reconhecer como selecionar classes a partir de retorno esperado, risco, correlação, liquidez, horizonte e restrições; avaliar o trade-off risco-retorno; e testar coerência com as obrigações do RPPS. Não há provas oficiais CGINV III abertas para medir frequência. Uma questão pode exigir cálculo simples de retorno ponderado ou interpretação de cenário.\n\nENTENDA:\nA seleção de classes não é uma lista de produtos favoritos. É a construção de um conjunto que, em combinação, procure atender objetivos previdenciários. O retorno esperado da carteira depende dos pesos e expectativas de cada classe: E(Rp)=ΣwᵢE(Rᵢ), com Σwᵢ=1. O risco, no modelo de variância, é σ²p=w'Σw, em que Σ contém variâncias e covariâncias. Um ativo volátil pode reduzir risco total se sua correlação com o restante for suficientemente baixa, embora isso não elimine perdas nem torne o ativo adequado por si só.\n\nSuponha que o RPPS de Vale Dourado avalie duas classes com retornos esperados de 7% e 4%, pesos de 50% e 50%. O retorno esperado simplificado é 5,5%. Para inferir volatilidade da carteira não basta conhecer os retornos: são necessários desvios-padrão e correlação. Com correlação próxima de +1, o ganho de diversificação tende a ser pequeno; com correlação menor, a combinação pode reduzir variância, mantidos os demais fatores. Séries curtas podem falhar em crise, quando correlações aumentam e liquidez desaparece. Por isso, o art. 4º, VI, da Resolução CMN 5.272/2025 exige metodologia para análise prévia de riscos e diretrizes de controle e monitoramento.\n\nObjetivos de risco e retorno precisam ser explícitos. Retorno nominal difere do real; o primeiro não mede sozinho preservação de poder de compra. A meta atuarial não é benchmark garantido nem obrigação de uma classe superar a meta em todo período. Horizonte também importa: uma classe oscilante pode ter retorno esperado superior em prazo longo, mas ser inadequada a recursos que precisam de resgate próximo. O comitê estima retorno líquido de custos, mapeia riscos de mercado, crédito e liquidez, verifica concentração e impõe limites compatíveis com a política e com a CMN.\n\nA seleção considera o papel de cada classe: financiar despesas previsíveis, preservar capital, buscar crescimento real, diversificar risco ou proteger exposição específica. O papel deve ser mensurável. Se a classe não atende necessidade identificada, incluí-la apenas para elevar a projeção é frágil. O comitê pode comparar cenários base, otimista e adverso, testar sensibilidades a juros, inflação e câmbio e estimar perdas. Volatilidade não descreve cauda, iliquidez, concentração ou risco de modelo; análise quantitativa e julgamento prudencial se complementam.\n\nO RPPS de Santa Aurora tem patrimônio de R$ 60 milhões e benefícios de R$ 3 milhões por trimestre; propõe investir R$ 6 milhões em classe de maior risco. A conta representa 10% do patrimônio, mas não responde se o risco é aceitável. Deve-se examinar quanto pode ser mantido durante uma queda, se há ativos líquidos para as obrigações, como a posição altera risco agregado e concentração, e se a categoria é permitida e compatível com a política. O art. 4º, II, IV e VI, exige estratégia, limites de concentração e análise de riscos.\n\nA carteira eficiente, no sentido média-variância, oferece maior retorno esperado para risco escolhido ou menor risco para retorno escolhido, sob premissas do modelo. Contudo, fronteira eficiente não é sinônimo de carteira adequada. Restrições legais, caixa, ativos ilíquidos, solvência, custos e erro de estimação podem alterar a solução. Uma otimização pode indicar pesos extremos quando pequenas mudanças nas expectativas mudam o resultado; bandas, cenários e revisão independente ajudam a controlar essa fragilidade.\n\nDOUTRINA:\nNa teoria moderna de carteiras, diversificação é analisada por retorno e covariância, e a fronteira eficiente descreve combinações não dominadas sob certas premissas. Na prática institucional, a decisão ainda considera capacidade de cumprir compromissos, liquidez, restrições e robustez a parâmetros incertos. A ficha M-12 nº 06 não confirma referência bibliográfica paginada para Asset Allocation; os livros especializados não estavam acessíveis em edição verificável nesta execução. Não atribuo páginas ou citações literais.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nSem precedente judicial específico relevante para a fórmula de seleção de classes. A norma exige que a política apresente estratégia por segmentos, parâmetros de rentabilidade compatíveis com obrigações, limites de exposição e metodologias de risco e retorno (Resolução CMN 5.272/2025, art. 4º, II–VIII). O art. 1º, § 1º, fixa princípios orientadores.\n\nPEGADINHAS:\n1. Maior retorno esperado não significa melhor carteira sem comparar risco, custos e passivo.\n2. Diversificação reduz certos riscos específicos, mas não elimina risco sistêmico nem iliquidez.\n3. Retorno histórico é insumo limitado, não previsão.\n4. Peso de 10% do patrimônio não mede sozinho contribuição marginal ao risco.\n5. Fronteira eficiente não substitui limites legais e objetivos previdenciários.\n\nESQUEMA:\nObjetivo → papel da classe → retorno líquido esperado → volatilidade/covariância → liquidez e concentração → cenários e limites → decisão fundamentada.\nRetorno: E(Rp)=ΣwᵢE(Rᵢ). Risco: σ²p=w'Σw. Premissas incertas → stress e monitoramento.\n\nLIGAÇÕES:\nTeoria Moderna das Carteiras 11.2; Gestão de Risco 14.x; Resolução CMN 5.272/2025, arts. 1º e 4º.\n\nA contribuição marginal de uma classe pode ser diferente de sua participação no patrimônio. Um ativo que represente 10% da carteira pode explicar parcela maior do risco se tiver volatilidade alta e correlação elevada com outras posições; outro, com o mesmo peso, pode diversificar fatores existentes. Por isso, convém observar volatilidade total, risco por classe, concentração e cenários conjuntos, em vez de usar apenas o percentual investido. Cenários de estresse não precisam prever o futuro: servem para perguntar se o RPPS mantém caixa e capacidade de suportar perdas quando variáveis se movem adversamente. A Resolução exige metodologia e critérios, o que implica consistência entre premissas, periodicidade de revisão e registro das fontes. A política também prevê contingência; gatilhos de liquidez, concentração ou perda podem indicar quando escalar a decisão para os órgãos competentes. Isso melhora a rastreabilidade sem substituir juízo profissional ou decisão colegiada.",
+   "flashcards": [
+    {
+     "pergunta": "Como calcular retorno esperado simples de carteira com pesos definidos?",
+     "resposta": "Somar cada peso multiplicado pelo retorno esperado de sua classe: E(Rp)=ΣwᵢE(Rᵢ)."
+    },
+    {
+     "pergunta": "Que dados adicionais são necessários para estimar variância da carteira?",
+     "resposta": "Variâncias de cada classe e covariâncias entre pares, reunidas na matriz Σ."
+    },
+    {
+     "pergunta": "Qual pegadinha sobre diversificação aparece em crises?",
+     "resposta": "Correlação e liquidez podem mudar; diversificação histórica não elimina risco sistêmico nem garante liquidez futura."
+    },
+    {
+     "pergunta": "Santa Aurora investiria R$ 6 mi de R$ 60 mi. O que 10% não responde?",
+     "resposta": "Se a posição cabe no risco agregado, caixa, limite legal e política aprovada."
+    },
+    {
+     "pergunta": "Uma carteira na fronteira eficiente é automaticamente adequada?",
+     "resposta": "Não. O modelo não substitui passivo, liquidez, restrições, custos e robustez a erro de estimação."
+    },
+    {
+     "pergunta": "Retorno nominal basta para avaliar preservação de poder de compra?",
+     "resposta": "Não. Deve-se distinguir retorno nominal de retorno real e considerar inflação e obrigações."
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Retorno esperado pode ser calculado pela média ponderada; a variância da carteira exige também covariâncias.",
+     "gabarito": "C",
+     "comentario": "Correto. E(Rp)=ΣwᵢE(Rᵢ); variância incorpora a matriz de covariância. Resolução 5.272/2025, art. 4º, VI e VII.",
+     "dispositivo": "Resolução CMN 5.272/2025, art. 4º, VI e VII"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Correlação histórica baixa entre classes permite presumir correlação baixa em crises e dispensar testes de estresse.",
+     "gabarito": "E",
+     "comentario": "Errado. Correlações podem mudar e riscos devem ser analisados e monitorados; histórico não elimina risco de modelo. Resolução 5.272/2025, art. 4º, VI e VIII.",
+     "dispositivo": "Resolução CMN 5.272/2025, art. 4º, VI e VIII"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Em 15/04/2026, o RPPS fictício de Vila Norte estima precisar de R$ 4 milhões em 90 dias. Uma classe com retorno esperado maior pode ser inadequada se o resgate não estiver disponível nesse prazo?",
+     "gabarito": "C",
+     "comentario": "Correto. Retorno é apenas um fator; liquidez e adequação às obrigações são princípios expressos. Resolução 5.272/2025, art. 1º, § 1º, e art. 4º, III e VI.",
+     "dispositivo": "Resolução CMN 5.272/2025, art. 1º, § 1º, e art. 4º, III e VI"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "O RPPS fictício de Boa Vista recebe, em 02/05/2026, proposta de otimização que aloca R$ 9 milhões de um patrimônio de R$ 30 milhões em um emissor. O resultado numérico dispensa analisar concentração e política?",
+     "gabarito": "E",
+     "comentario": "Errado. O modelo não afasta limites, política nem análise de riscos. Resolução 5.272/2025, art. 4º, II, IV e VI, e art. 5º.",
+     "dispositivo": "Resolução CMN 5.272/2025, arts. 4º, II, IV e VI, e 5º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Vale Dourado pesa igualmente classes com retornos esperados de 7% e 4%. Qual leitura está correta?",
+     "alternativas": {
+      "A": "Retorno ponderado 5,5%; variância ainda requer riscos e covariância.",
+      "B": "Retorno de 11% pela soma.",
+      "C": "Retorno de 7%, ignorando a segunda classe.",
+      "D": "Variância zero por pesos iguais.",
+      "E": "Risco conhecido apenas pelos retornos médios."
+     },
+     "gabarito": "A",
+     "comentario": "A) Correta: retorno ponderado é 5,5%; a variância precisa de covariância (art. 4º, VI–VII). B) Errada: ignora pesos. C) Errada: omite classe. D) Errada: peso igual não zera risco. E) Errada: faltam volatilidades e covariância.",
+     "dispositivo": "Resolução CMN 5.272/2025, art. 4º, VI e VII"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Santa Aurora possui R$ 60 milhões e despesas trimestrais de R$ 3 milhões. A proposta aloca R$ 6 milhões em classe de risco. O que deve orientar a decisão?",
+     "alternativas": {
+      "A": "Aprovar porque 10% é pequeno em qualquer RPPS.",
+      "B": "Usar somente rentabilidade passada.",
+      "C": "Verificar apenas se o produto existe no mercado.",
+      "D": "Ignorar saídas trimestrais.",
+      "E": "Avaliar caixa, contribuição marginal ao risco, concentração, elegibilidade e compatibilidade com a política."
+     },
+     "gabarito": "E",
+     "comentario": "A) Errada: percentual não mede risco. B) Errada: retorno passado não basta. C) Errada: ignora política e limites. D) Errada: desconsidera liquidez. E) Correta: arts. 1º, § 1º, e 4º, II, IV e VI.",
+     "dispositivo": "Resolução CMN 5.272/2025, arts. 1º, § 1º, e 4º, II, IV e VI"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Carteira está na fronteira eficiente calculada com médias e covariâncias históricas. Qual conclusão é defensável?",
+     "alternativas": {
+      "A": "Deve ser implantada sem revisão; eficiência prova o futuro.",
+      "B": "Pode ignorar liquidez porque há variância calculada.",
+      "C": "É não dominada sob as premissas, mas precisa ser testada contra passivo, limites e incerteza.",
+      "D": "É ilegal por definição.",
+      "E": "Comprova que o retorno realizado será igual à expectativa."
+     },
+     "gabarito": "C",
+     "comentario": "A) Errada: histórico não prova desempenho futuro. B) Errada: variância não mede liquidez. C) Correta: resultado condicional ao modelo deve ser confrontado com política e obrigações, arts. 1º e 4º. D) Errada: otimização não é proibida. E) Errada: expectativa não garante realização.",
+     "dispositivo": "Resolução CMN 5.272/2025, arts. 1º, § 1º, e 4º, II–VIII"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Nova classe possui baixa correlação com a carteira, mas resgate incompatível com pagamentos próximos. Qual princípio pesa contra alocação automática?",
+     "alternativas": {
+      "A": "Rentabilidade, como princípio exclusivo.",
+      "B": "Liquidez e adequação às obrigações.",
+      "C": "Transparência, ainda que sem falha de divulgação.",
+      "D": "Motivação, dispensando análise de caixa.",
+      "E": "Diversificação, que supera qualquer restrição de liquidez."
+     },
+     "gabarito": "B",
+     "comentario": "A) Errada: retorno não é exclusivo. B) Correta: liquidez e adequação ao passivo são princípios do art. 1º, § 1º, e art. 4º, III e VI. C) Errada: não há fato de opacidade. D) Errada: motivação não elimina liquidez. E) Errada: correlação não supera obrigações.",
+     "dispositivo": "Resolução CMN 5.272/2025, arts. 1º, § 1º, e 4º, III e VI"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Pesos iguais em retornos 7% e 4% geram retorno esperado ___; variância também requer ___.",
+     "opcoes": [
+      "5,5%",
+      "covariância",
+      "11%",
+      "aprovação judicial"
+     ],
+     "respostas": [
+      "5,5%",
+      "covariância"
+     ],
+     "explicacao": "Retornos são ponderados; risco agregado inclui covariâncias.",
+     "dispositivo": "Resolução CMN 5.272/2025, art. 4º, VI e VII"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "A variância de carteira usa a matriz de ___; a rentabilidade esperada usa pesos e retornos ___.",
+     "opcoes": [
+      "covariância",
+      "esperados",
+      "datas de resgate",
+      "cotação passada"
+     ],
+     "respostas": [
+      "covariância",
+      "esperados"
+     ],
+     "explicacao": "Covariâncias ajudam a estimar risco conjunto; retorno esperado é soma ponderada.",
+     "dispositivo": "Resolução CMN 5.272/2025, art. 4º, VI e VII"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma classe candidata à carteira do RPPS.",
+     "itens": [
+      "Identificar o objetivo e o papel pretendido da classe",
+      "Estimar retorno, risco, covariância, liquidez e custos",
+      "Confrontar com passivo, limites e cenários",
+      "Documentar a decisão e os controles de monitoramento"
+     ],
+     "explicacao": "A escolha deve relacionar papel, risco-retorno, obrigações e controles.",
+     "dispositivo": "Resolução CMN 5.272/2025, art. 4º, II, III, VI e VII"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Retorno ponderado",
+       "Σ pesos × retornos esperados"
+      ],
+      [
+       "Matriz Σ",
+       "Variâncias e covariâncias"
+      ],
+      [
+       "Risco de liquidez",
+       "Dificuldade de realizar ativo no prazo"
+      ],
+      [
+       "Fronteira eficiente",
+       "Combinações não dominadas sob premissas"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cginv3-alocacao-122-3",
+   "titulo": "Processo de construção e gestão da alocação",
+   "microconteudo": "O QUE A BANCA COBRA:\nÉ necessário reconhecer as etapas de construção da alocação, comparar políticas estáticas e dinâmicas e decidir quando monitorar, rebalancear ou rever a estratégia. Para o RPPS, o processo precisa caber na política anual, estar documentado, observar a norma vigente e manter compatibilidade com obrigações. Não existe contagem empírica publicada de itens CGINV III consultável nesta execução.\n\nENTENDA:\nUm processo disciplinado começa com diagnóstico institucional: patrimônio, projeções de contribuições e benefícios, maturidade, liquidez, horizonte, tolerância a perdas, governança e capacidade operacional. Em seguida, define objetivos e métricas; escolhe classes admissíveis; estima retorno, risco, correlações e custos; considera restrições e limites; compara combinações; estabelece pesos ou faixas; documenta justificativas; obtém aprovação; implementa e acompanha. A política anual deve registrar estratégia de alocação, parâmetros de rentabilidade, limites, análise e monitoramento de riscos, retorno esperado e plano de contingência (Resolução CMN 5.272/2025, art. 4º, II–VIII). O conselho deliberativo aprova antes da implementação (art. 5º).\n\nNa alocação estática, a composição de referência permanece relativamente estável e a carteira retorna aos pesos-alvo conforme regra de rebalanceamento. “Estática” não significa imutável: mudanças de passivo, legislação, liquidez ou premissas podem justificar revisão formal. Na alocação dinâmica, pesos variam conforme uma regra ou modelo que reage a fatores como horizonte, condições de mercado ou nível de risco. A regra deve ser explícita, testada, compatível com limites e governável. Uma mudança automática não deve contornar a aprovação exigida para a política ou revisão material.\n\nAlocação estratégica e tática respondem a perguntas diferentes. Estratégica define o arranjo de longo prazo coerente com objetivos e passivo; tática introduz desvios temporários para aproveitar oportunidades ou responder a condições conjunturais, dentro do mandato, faixas e orçamento de risco. Tática não é autorização irrestrita para market timing. O gestor deve indicar hipótese, horizonte, gatilho de saída, impacto no risco, custo e consequência se a previsão falhar. Se o desvio muda a política aprovada ou sai dos limites internos, deve-se seguir o rito de revisão e aprovação.\n\nO rebalanceamento pode ser calendarizado, acionado por bandas ou combinado. No calendário, revisa-se em datas predefinidas; por bandas, a resposta é acionada quando o peso se distancia do alvo em determinada magnitude. Bandas amplas reduzem giro e custos, mas permitem maior deriva de risco. Bandas estreitas preservam o perfil, mas podem elevar operações, custos e impacto de mercado. Fluxos de contribuições e benefícios podem corrigir desvios antes de negociar ativos. O desenho deve levar em conta liquidez, custos transacionais, regra de execução e documentação.\n\nExemplo: o RPPS de Monte Azul tem R$ 100 milhões e aprova peso de referência de 20% em uma classe, com banda operacional de ±3 pontos percentuais. Após valorização, a classe passa a R$ 24 milhões, ou 24% da carteira. A distância é de 4 pontos, além da banda. A equipe valida preços, fluxo de caixa, enquadramento e causa, calcula custo e risco de rebalancear e segue a política. Não deve concluir automaticamente que a classe está cara e vender para prever o mercado; a banda controla o perfil, não mede valuation. Se o desvio decorre de mudança estrutural do passivo, pode ser necessária revisão estratégica com justificativa e aprovação.\n\nA governança fecha o ciclo. A unidade gestora registra alternativas, dados, premissas, riscos, conflitos, custos, decisão e responsáveis; comunica resultados; monitora retorno e risco contra parâmetros coerentes; e atualiza contingência se necessário. A política pode ser revista justificadamente durante a execução para adequação ao mercado ou à nova legislação, conforme art. 4º, § 1º, da Resolução 5.272/2025; a revisão requer aprovação do conselho pelo art. 5º. A Portaria MTP 1.467/2022, arts. 101–102, trata a política como mandato e exige acompanhamento, mas seus dispositivos devem ser lidos à luz da resolução CMN superveniente.\n\nDOUTRINA:\nO processo institucional combina escolha estratégica de longo prazo com disciplina de execução e controle. Teoria de carteiras fornece ferramentas de comparação risco-retorno; a gestão acrescenta passivos, custos, restrições, implementação e governança. Alocação dinâmica é uma família de métodos, não garantia de desempenho superior; depende de regras, estimativas e capacidade de execução. A ficha M-12 nº 06 não informa páginas bibliográficas e a biblioteca especializada não está disponível em edição verificável; por isso não atribuo citações paginadas.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nSem precedente judicial específico relevante sobre bandas de rebalanceamento. A disciplina decorre da Resolução CMN 5.272/2025, arts. 4º e 5º, e da Portaria MTP 1.467/2022, arts. 101–102: política aprovada previamente, mandato decisório, revisões justificadas e acompanhamento. Em divergência normativa, prevalece a resolução CMN vigente, orientação também expressa no Manual CP RPPS v2.0.\n\nPEGADINHAS:\n1. Estática não significa imutável; pode haver revisão formal e rebalanceamento previsto.\n2. Dinâmica não significa decisão sem regra: modelo, limites e governança devem ser explícitos.\n3. Desvio tático não substitui estratégia nem autoriza extrapolar o mandato.\n4. Rebalanceamento controla deriva de pesos; não prova que o ativo esteja caro ou barato.\n5. Banda excedida aciona análise prevista, não necessariamente ordem automática sem considerar custos e caixa.\n\nESQUEMA:\nDiagnóstico → objetivos e restrições → classes e premissas → pesos e faixas → risco e cenários → aprovação → execução → monitoramento → rebalanceamento/revisão → prestação de contas.\nEstratégica = rumo estrutural; tática = desvio temporário; estática/dinâmica = regra de evolução dos pesos.\n\nLIGAÇÕES:\nAlocação 12.1 (ativa/passiva/semiativa); Legislação Específica 7.1 (política e limites); Avaliação de Desempenho 13 (benchmark e atribuição).\n\nUm desenho operacional consistente separa tolerância estratégica de variação normal e autoridade para agir. A política pode estabelecer frequência de avaliação, gatilhos de comunicação, documentos necessários, responsável por recomendar e instância que aprova mudanças. Assim, a equipe identifica o desvio cedo sem transformar toda oscilação em negociação. A escolha entre regra por calendário, banda ou combinação depende de custo, volatilidade, fluxo de benefícios e capacidade da unidade gestora. Em períodos de aportes, direcionar novos recursos para classes abaixo do alvo pode reduzir giro; em períodos de resgates, vender ativos com melhor liquidez pode preservar posições menos líquidas, se isso não distorcer risco e limites. O relatório deve explicar resultado, desvios, medidas corretivas e riscos remanescentes, de modo que conselho deliberativo e fiscal possam acompanhar o mandato. Transparência e documentação tornam a decisão revisável, especialmente quando a regra dinâmica utiliza modelo quantitativo ou julgamento tático.",
+   "flashcards": [
+    {
+     "pergunta": "Quais etapas vão do diagnóstico ao acompanhamento da carteira?",
+     "resposta": "Objetivos, classes, estimativas de risco-retorno-custo, restrições, pesos, aprovação, implementação e monitoramento."
+    },
+    {
+     "pergunta": "Como distinguir alocação estática da dinâmica?",
+     "resposta": "Estática mantém referência relativamente estável e rebalanceia; dinâmica altera pesos por regra ou modelo ao longo do tempo."
+    },
+    {
+     "pergunta": "Qual pegadinha envolve banda excedida no rebalanceamento?",
+     "resposta": "A banda aciona análise prevista, mas não prova que o ativo está caro nem autoriza negociar sem avaliar custo e liquidez."
+    },
+    {
+     "pergunta": "Monte Azul tem alvo de 20%, banda ±3 p.p. e peso de 24%. Qual o sinal?",
+     "resposta": "Desvio de 4 p.p., além da banda; analisar dados e seguir resposta prevista na política."
+    },
+    {
+     "pergunta": "Quando um desvio tático exige rever a estratégia?",
+     "resposta": "Quando altera materialmente a política ou excede mandato e faixas aprovadas, após justificativa e rito decisório."
+    },
+    {
+     "pergunta": "Quem deve aprovar a política anual ou sua revisão antes da implementação?",
+     "resposta": "Conselho deliberativo ou órgão equivalente, conforme art. 5º da Resolução CMN 5.272/2025."
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "No RPPS fictício de Nova Luz, a avaliação de 01/06/2026 atualiza o passivo em R$ 20 milhões. Uma política estática pode prever rebalanceamento e ser revista formalmente diante dessa mudança?",
+     "gabarito": "C",
+     "comentario": "Correto. Estática significa referência relativamente estável, não imutável; revisão justificada e aprovação seguem arts. 4º, § 1º, e 5º.",
+     "dispositivo": "Resolução CMN 5.272/2025, arts. 4º, § 1º, e 5º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "A alocação dinâmica permite alterar pesos sem limites ou aprovação porque o algoritmo recebeu delegação no início do exercício.",
+     "gabarito": "E",
+     "comentario": "Errado. Regras dinâmicas devem operar dentro da política e dos limites; revisão requer justificativa e aprovação prévia. Resolução 5.272/2025, arts. 4º–5º.",
+     "dispositivo": "Resolução CMN 5.272/2025, arts. 4º e 5º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A política anual deve incluir estratégia de alocação e metodologias de análise prévia, controle e monitoramento de riscos e avaliação de retorno esperado.",
+     "gabarito": "C",
+     "comentario": "Correto. Esses elementos integram o conteúdo mínimo. Resolução 5.272/2025, art. 4º, II, VI e VII.",
+     "dispositivo": "Resolução CMN 5.272/2025, art. 4º, II, VI e VII"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Ultrapassar uma banda prova que o ativo está sobreavaliado e deve ser vendido de imediato, sem considerar fluxo de benefícios.",
+     "gabarito": "E",
+     "comentario": "Errado. Banda aciona resposta definida na política; não é juízo de valuation. Custos, caixa, passivo e limites permanecem relevantes. Resolução 5.272/2025, arts. 1º, § 1º, e 4º.",
+     "dispositivo": "Resolução CMN 5.272/2025, arts. 1º, § 1º, e 4º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Monte Azul tem R$ 100 milhões, alvo de 20% e banda de ±3 p.p. A classe subiu a R$ 24 milhões. Qual resposta é adequada?",
+     "alternativas": {
+      "A": "Ignorar porque a carteira valorizou.",
+      "B": "Vender imediatamente todo excesso, sem avaliar custos.",
+      "C": "Tratar 24% como novo alvo sem aprovação.",
+      "D": "Reconhecer desvio de 4 p.p., validar dados e seguir a resposta prevista após avaliar risco, custos, fluxo e enquadramento.",
+      "E": "Presumir que a classe ficou sobreavaliada."
+     },
+     "gabarito": "D",
+     "comentario": "A) Errada: deriva altera risco. B) Errada: custo e liquidez importam. C) Errada: altera política sem rito. D) Correta: arts. 1º, § 1º, 4º e 5º. E) Errada: banda não mede valuation.",
+     "dispositivo": "Resolução CMN 5.272/2025, arts. 1º, § 1º, 4º e 5º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Campo Novo precisa ajustar política anual após mudança legislativa. Qual sequência é correta?",
+     "alternativas": {
+      "A": "Justificar a revisão e obter aprovação do conselho antes de implementar.",
+      "B": "Implementar e pedir ratificação posterior.",
+      "C": "Revisar sem justificativa.",
+      "D": "Obter anuência verbal do custodiante.",
+      "E": "Manter a política antiga mesmo que incompatível."
+     },
+     "gabarito": "A",
+     "comentario": "A) Correta: Resolução 5.272/2025, art. 4º, § 1º, admite revisão justificada, e art. 5º requer aprovação prévia; Portaria 1.467/2022, art. 101, § 2º, deve ser lida com a norma superveniente. B) Errada: inverte aprovação prévia. C) Errada: exige justificativa. D) Errada: órgão incompetente. E) Errada: a norma admite adequação.",
+     "dispositivo": "Resolução CMN 5.272/2025, arts. 4º, § 1º, e 5º; Portaria MTP 1.467/2022, art. 101, § 2º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Qual alternativa diferencia alocação estratégica da tática?",
+     "alternativas": {
+      "A": "Estratégica é decisão diária e tática define o passivo.",
+      "B": "Ambas autorizam ultrapassar limites se houver expectativa de retorno.",
+      "C": "Estratégica define orientação estrutural de longo prazo; tática introduz desvios temporários dentro de objetivos, faixas e governança.",
+      "D": "Tática substitui a política quando o gestor tem certificação.",
+      "E": "Estratégica só vale para renda fixa e tática para renda variável."
+     },
+     "gabarito": "C",
+     "comentario": "A) Errada: inverte funções. B) Errada: limites continuam vinculantes. C) Correta: estratégia e mandato permanecem governados pelos arts. 4º–5º. D) Errada: certificação não substitui mandato. E) Errada: não há essa divisão por classe.",
+     "dispositivo": "Resolução CMN 5.272/2025, arts. 4º e 5º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "O RPPS recebe contribuições extraordinárias e usa os fluxos para aproximar pesos dos alvos, evitando negociar ativos. Qual leitura é adequada?",
+     "alternativas": {
+      "A": "É necessariamente gestão ativa sem controle.",
+      "B": "Pode ser forma de rebalancear com menos operações, se respeitar política, limites e análise de liquidez.",
+      "C": "É proibido porque apenas venda de ativos altera pesos.",
+      "D": "Dispensa monitoramento.",
+      "E": "Transforma automaticamente a política em alocação dinâmica não aprovada."
+     },
+     "gabarito": "B",
+     "comentario": "A) Errada: fluxo pode executar regra disciplinada. B) Correta: atende estratégia sem afastar liquidez e controle (arts. 1º, § 1º, e 4º). C) Errada: novos fluxos alteram pesos relativos. D) Errada: monitoramento permanece obrigatório. E) Errada: fluxo não altera por si só o mandato.",
+     "dispositivo": "Resolução CMN 5.272/2025, arts. 1º, § 1º, e 4º–5º; Portaria MTP 1.467/2022, arts. 101–102"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "A política anual e suas revisões devem ser aprovadas pelo ___ antes da ___.",
+     "opcoes": [
+      "conselho deliberativo",
+      "implementação",
+      "custodiante",
+      "auditoria externa"
+     ],
+     "respostas": [
+      "conselho deliberativo",
+      "implementação"
+     ],
+     "explicacao": "A aprovação prévia é requisito de governança da política.",
+     "dispositivo": "Resolução CMN 5.272/2025, art. 5º"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Desvio tático deve permanecer no ___ aprovado; revisão da política requer justificativa e ___ prévia.",
+     "opcoes": [
+      "mandato",
+      "aprovação",
+      "mercado secundário",
+      "rentabilidade passada"
+     ],
+     "respostas": [
+      "mandato",
+      "aprovação"
+     ],
+     "explicacao": "O gestor atua nos limites e a política revista deve ser aprovada antes da implementação.",
+     "dispositivo": "Resolução CMN 5.272/2025, arts. 4º e 5º"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o ciclo de construção da alocação do RPPS.",
+     "itens": [
+      "Diagnosticar passivo, caixa e restrições",
+      "Definir objetivos, classes e pesos/faixas",
+      "Analisar riscos e submeter a política à aprovação",
+      "Implementar, monitorar e rebalancear/rever"
+     ],
+     "explicacao": "A estratégia parte das obrigações, passa por objetivos e risco, recebe aprovação e então é implementada e acompanhada.",
+     "dispositivo": "Resolução CMN 5.272/2025, arts. 4º e 5º"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Estratégica",
+       "Orientação estrutural de longo prazo"
+      ],
+      [
+       "Tática",
+       "Desvio temporário dentro do mandato"
+      ],
+      [
+       "Rebalanceamento",
+       "Restauração de pesos/faixas conforme regra"
+      ],
+      [
+       "Revisão da política",
+       "Mudança justificada aprovada antes de implementar"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

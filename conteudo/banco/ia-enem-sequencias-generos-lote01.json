@@ -1,0 +1,642 @@
+{
+ "assunto": "ENEM 2026 — Linguagens: modos de organização da composição textual",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 (Matriz de Referência ENEM 2026, INEP, publicada em 17/07/2026; consulta registrada no edital local)",
+ "origem": "2026-11-23_banco-enem-sequencias-generos-lote01_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "enem-linguagens-sequencias-1-1-1",
+   "titulo": "Sequência textual: reconhecer a operação dominante",
+   "microconteudo": "RAIO-X DA PROVA: O objeto ocupa a primeira posição da lista Pareto provisória, mas não há ainda contagem de questões das provas 2021–2025 por objeto; por isso, nenhuma incidência numérica é afirmada. A leitura deve partir da operação que organiza o trecho — narrar, descrever, expor, argumentar, instruir ou dialogar — e observar marcas linguísticas em contexto. Uma confusão recorrente é tomar o assunto ou o gênero pelo modo de composição.\n\nO QUE A BANCA COBRA:\nA Matriz do INEP inclui os modos de organização da composição textual entre os objetos de Linguagens. Em uma questão de leitura, não basta nomear o tema do texto. É preciso perceber que operação o trecho realiza e como ela orienta a compreensão: relata uma mudança no tempo, caracteriza algo, explica uma ideia, defende uma posição, orienta uma ação ou encena uma troca de falas. A habilidade H18, associada à organização e estruturação de textos, ajuda a observar essas escolhas sem transformar o exercício em caça a palavras isoladas.\n\nENTENDA:\nUma sequência textual é um modo de organizar partes do texto. A narrativa dispõe acontecimentos em uma progressão temporal ou causal; pode incluir personagens, mudança de estado e um desfecho. A descrição seleciona traços de pessoas, lugares, objetos ou situações, organizando-os por relações espaciais, sensoriais ou avaliativas. A exposição apresenta informações, define conceitos, compara dados ou explica relações para tornar um assunto compreensível. A argumentação sustenta uma tese por razões, evidências, exemplos ou refutação de uma objeção. A injunção orienta o leitor a agir, com instruções, recomendações, regras ou comandos. O diálogo distribui turnos entre interlocutores e pode fazer avançar uma narrativa, revelar conflito ou construir uma explicação.\n\nEssas categorias não são etiquetas para frases soltas. Uma pergunta do ENEM pode apresentar um cartaz de campanha, uma postagem, uma notícia ou um trecho de reportagem e perguntar como a organização produz determinado efeito. O estudante deve relacionar forma e finalidade. Verbos no imperativo, por exemplo, podem sugerir orientação, mas o contexto decide se há uma instrução, um convite, uma ordem irônica ou uma fala citada. Uma sequência narrativa pode aparecer em poucas linhas dentro de um artigo argumentativo para ilustrar a tese. A presença de um dado numérico não transforma automaticamente o texto em exposição: o dado pode servir como prova argumentativa.\n\nUm procedimento útil tem três passos. Primeiro, pergunte o que o trecho faz com a informação: conta, caracteriza, explica, defende, orienta ou alterna falas? Segundo, procure relações entre partes — antes/depois, causa/efeito, característica/objeto, tese/razão, etapa/resultado. Terceiro, confira a função no conjunto: por que esse trecho foi incluído e como contribui para o gênero e a situação comunicativa? Esse caminho evita responder apenas pelo vocabulário.\n\nExemplo: um aviso de biblioteca informa que a sala fechará às 18h, explica que haverá manutenção e recomenda que os usuários retirem seus materiais até as 17h30. O primeiro enunciado apresenta uma informação; o segundo expõe uma causa; o terceiro orienta uma ação. O aviso continua sendo um gênero reconhecível pela finalidade e circulação, embora reúna mais de uma sequência. O leitor que identifica somente “texto instrucional” perde a informação e a justificativa que dão sentido à recomendação.\n\nDOUTRINA:\nMarcuschi distingue gênero textual de tipo textual: o gênero é uma forma de ação comunicativa recorrente, enquanto os tipos designam construções linguísticas que organizam sequências. Um mesmo gênero pode combinar tipos, e a classificação observa a predominância e a função no texto. Essa distinção é útil para a prova porque impede que se confunda “notícia” com “narração” ou “manual” com “injunção”: o primeiro termo aponta para gênero; o segundo, para uma operação composicional. Referência: MARCUSCHI, Luiz Antônio. Produção textual, análise de gêneros e compreensão. 1. ed. São Paulo: Parábola Editorial, 2008, p. 154–155. Exposição indireta, sem citação literal.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nNão se aplica jurisprudência. A referência avaliativa é a Matriz de Referência do ENEM 2026, Linguagens, Competência 6, com foco na organização de textos.\n\nPEGADINHAS:\n1. Gênero não é sequência: notícia pode narrar, expor e citar falas. 2. Tema não determina o modo: um texto sobre esporte pode argumentar ou descrever. 3. Um verbo no imperativo não prova, sozinho, que todo o texto seja injuntivo. 4. Um exemplo narrado dentro de um artigo pode funcionar como argumento. 5. A sequência dominante não elimina sequências secundárias.\n\nESQUEMA:\nAcontecimentos em progressão → narração; traços de um referente → descrição; conceito, dado ou relação explicada → exposição; tese apoiada por razões → argumentação; orientação de conduta → injunção; alternância de turnos → diálogo. Sempre confirmar a função no contexto.\n\nLIGAÇÕES:\nConecta-se ao tópico 1.2 (leitura e produção de textos em esferas sociais) e ao 1.32 (pontos de vista e organização argumentativa).",
+   "flashcards": [
+    {
+     "frente": "Como distinguir gênero textual de sequência?",
+     "verso": "Gênero é uma prática comunicativa reconhecível; sequência é um modo de organizar trechos do texto.",
+     "dispositivo": "Matriz ENEM 2026, Linguagens, objeto 1.1; Marcuschi, 2008, p. 154–155"
+    },
+    {
+     "frente": "O que caracteriza uma sequência argumentativa?",
+     "verso": "Uma posição é sustentada por razões, evidências, exemplos ou resposta a objeções.",
+     "dispositivo": "Matriz ENEM 2026, Linguagens, objeto 1.1"
+    },
+    {
+     "frente": "Um texto pode combinar narração e exposição?",
+     "verso": "Sim. Uma sequência pode relatar um caso e outra explicar o contexto ou os dados.",
+     "dispositivo": "Matriz ENEM 2026, Linguagens, objeto 1.1"
+    },
+    {
+     "frente": "Qual é a pegadinha ao ver um imperativo?",
+     "verso": "O verbo sugere orientação, mas o contexto pode indicar convite, citação, ordem ou ironia.",
+     "dispositivo": "Matriz ENEM 2026, Linguagens, objeto 1.1"
+    },
+    {
+     "frente": "Um relato dentro de artigo de opinião é necessariamente o gênero do texto?",
+     "verso": "Não. Pode ser uma sequência narrativa usada como exemplo para apoiar a tese.",
+     "dispositivo": "Matriz ENEM 2026, Linguagens, objeto 1.1"
+    },
+    {
+     "frente": "Que pergunta ajuda a localizar a sequência dominante?",
+     "verso": "O que o trecho faz com a informação: conta, caracteriza, explica, defende, orienta ou alterna falas?",
+     "dispositivo": "Matriz ENEM 2026, Linguagens, H18"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-linguagens-seq-111-q1",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "No mural do bairro, uma moradora relata que a praça ficou sem iluminação por três semanas. Em seguida, a associação informa que solicitou reparo à prefeitura.",
+     "enunciado": "No trecho, a passagem que relata a falta de iluminação organiza-se principalmente por sequência narrativa, enquanto a informação sobre a solicitação acrescenta um dado expositivo.",
+     "gabarito": "C",
+     "comentario": "Certa. A primeira frase apresenta situação delimitada no tempo; a segunda informa uma providência. As duas funções coexistem, sem alterar o gênero mural comunitário. Referência: Matriz ENEM 2026, Linguagens, objeto 1.1 e H18.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H18 e objeto 1.1"
+    },
+    {
+     "id": "enem-linguagens-seq-111-q2",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "Uma cartilha descreve o descarte correto de pilhas e, depois, enumera três locais de coleta.",
+     "enunciado": "A enumeração de locais torna necessariamente argumentativa toda a cartilha, pois apresenta evidências em apoio a uma tese.",
+     "gabarito": "E",
+     "comentario": "Errada. Enumerar locais pode organizar informação expositiva ou instrução prática; não basta para caracterizar defesa de uma tese. Seria argumentativa se as razões sustentassem uma posição. Referência: Matriz ENEM 2026, Linguagens, objeto 1.1.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.1"
+    },
+    {
+     "id": "enem-linguagens-seq-111-q3",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "Em uma postagem, a frase “Experimente a rota de bicicleta neste domingo” aparece ao lado de mapa e horário de saída.",
+     "enunciado": "O convite e as informações de horário podem combinar orientação ao leitor e exposição de dados práticos.",
+     "gabarito": "C",
+     "comentario": "Certa. A forma verbal convida à ação, enquanto mapa e horário informam condições da atividade. A função resulta do conjunto, não de uma palavra isolada. Referência: Matriz ENEM 2026, Linguagens, objeto 1.1.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.1"
+    },
+    {
+     "id": "enem-linguagens-seq-111-q4",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "Um artigo de divulgação apresenta uma pesquisadora respondendo às perguntas de um estudante e, entre as respostas, explica um fenômeno climático.",
+     "enunciado": "Como há alternância de falas, a explicação do fenômeno deixa de ser expositiva e passa a ser exclusivamente dialogal.",
+     "gabarito": "E",
+     "comentario": "Errada. A forma de diálogo organiza os turnos, mas o conteúdo das respostas pode cumprir função expositiva. Forma de interação e operação explicativa podem coexistir. Referência: Matriz ENEM 2026, Linguagens, H18.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H18"
+    },
+    {
+     "id": "enem-linguagens-seq-111-q5",
+     "tipo": "multipla_escolha",
+     "dificuldade": "media",
+     "texto_base": "Um folheto de feira comunitária informa que a coleta seletiva começa às 9h, explica quais materiais serão recebidos e pede que os itens sejam separados antes da chegada.",
+     "enunciado": "Qual análise melhor identifica a organização do trecho?",
+     "alternativas": {
+      "A": "É integralmente narrativo, pois apresenta ações em uma ordem temporal.",
+      "B": "Combina exposição das condições da coleta com orientação prática ao público.",
+      "C": "É exclusivamente descritivo, pois nomeia materiais e horários.",
+      "D": "É argumentativo porque qualquer pedido equivale a uma tese defendida.",
+      "E": "É dialogal, já que o folheto se dirige ao leitor."
+     },
+     "gabarito": "B",
+     "comentario": "A correta: B reconhece informação e orientação coexistentes. A erra porque não há relato de acontecimentos como eixo. C confunde dados com descrição de referentes. D toma um pedido por defesa de tese. E confunde interlocução com diálogo entre turnos. Referência: Matriz ENEM 2026, Linguagens, objeto 1.1 e H18.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.1 e H18"
+    },
+    {
+     "id": "enem-linguagens-seq-111-q6",
+     "tipo": "multipla_escolha",
+     "dificuldade": "dificil",
+     "texto_base": "Em uma notícia sobre a cheia de um rio, o primeiro parágrafo relata a retirada de moradores; o seguinte apresenta a altura da água e compara o nível com a média histórica.",
+     "enunciado": "A sequência predominante no segundo parágrafo é mais bem caracterizada como",
+     "alternativas": {
+      "A": "narração, porque qualquer referência a evento passado conta uma história.",
+      "B": "injunção, porque os dados sugerem que moradores devem sair.",
+      "C": "exposição, porque organiza dados e uma comparação para informar o leitor.",
+      "D": "diálogo, porque o texto pressupõe uma conversa com o público.",
+      "E": "descrição física, necessariamente, pois menciona a altura do rio."
+     },
+     "gabarito": "C",
+     "comentario": "A correta: C identifica apresentação e comparação de dados. A reduz passado a narração. B atribui instrução sem comando. D confunde destinatário com alternância de falas. E ignora a função informativa dos dados; a menção de medida não basta para fazer descrição o eixo. Referência: Matriz ENEM 2026, Linguagens, H18.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H18"
+    },
+    {
+     "id": "enem-linguagens-seq-111-q7",
+     "tipo": "multipla_escolha",
+     "dificuldade": "media",
+     "texto_base": "Uma estudante escreve: “A horta escolar reduziu o desperdício. Na turma de Ana, as sobras caíram de 12 para 5 quilos por semana. Por isso, a escola deve ampliar o projeto”.",
+     "enunciado": "Que papel composicional cumprem os dados da turma no argumento?",
+     "alternativas": {
+      "A": "Funcionam como exemplo e evidência para apoiar a recomendação final.",
+      "B": "Transformam o trecho em descrição, porque contêm uma quantidade mensurável.",
+      "C": "São uma sequência injuntiva, pois indicam como pesar os resíduos.",
+      "D": "Eliminam a tese, já que números não podem integrar argumentação.",
+      "E": "Criam diálogo entre a estudante e a turma de Ana."
+     },
+     "gabarito": "A",
+     "comentario": "A correta: o dado concreto dá suporte à proposta. B confunde presença de número com modo dominante. C não há instrução de procedimento. D é falsa porque evidências podem sustentar uma tese. E não há turnos de fala. Referência: Matriz ENEM 2026, Linguagens, objeto 1.1.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.1"
+    },
+    {
+     "id": "enem-linguagens-seq-111-q8",
+     "tipo": "multipla_escolha",
+     "dificuldade": "dificil",
+     "texto_base": "Uma postagem apresenta três falas curtas de passageiros sobre um ônibus lotado e termina informando que a linha terá reforço a partir de segunda-feira.",
+     "enunciado": "Qual leitura considera melhor a combinação das partes?",
+     "alternativas": {
+      "A": "Todo o texto é injuntivo, porque passageiros esperam uma providência.",
+      "B": "As falas são exposição neutra e a informação final é narrativa ficcional.",
+      "C": "A postagem não tem sequência reconhecível, pois mistura falas e informação.",
+      "D": "O diálogo reúne avaliações dos usuários; a informação final acrescenta dado sobre a mudança do serviço.",
+      "E": "A presença de opiniões torna o conjunto exclusivamente argumentativo."
+     },
+     "gabarito": "D",
+     "comentario": "A correta: D separa as funções sem fragmentar o sentido do gênero. A infere comando não expresso. B não há indício de ficção e falas avaliativas não são necessariamente expositivas. C mistura não significa ausência de organização. E opinião pode contribuir para uma sequência argumentativa, mas não apaga a informação final nem define sozinha o conjunto. Referência: Matriz ENEM 2026, Linguagens, H18.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H18"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "A sequência que sustenta uma tese por razões é ___; a que orienta uma conduta é ___.",
+     "opcoes": [
+      "argumentativa",
+      "injuntiva",
+      "descritiva",
+      "dialogal"
+     ],
+     "respostas": [
+      "argumentativa",
+      "injuntiva"
+     ],
+     "explicacao": "A primeira organiza posição e justificativas; a segunda orienta uma ação.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.1"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Uma sequência textual pode aparecer como parte de um ___ maior e coexistir com outras ___.",
+     "opcoes": [
+      "gênero",
+      "sequências",
+      "tema",
+      "suporte"
+     ],
+     "respostas": [
+      "gênero",
+      "sequências"
+     ],
+     "explicacao": "Gênero e sequência pertencem a níveis diferentes de descrição; um gênero pode combinar várias sequências.",
+     "dispositivo": "Marcuschi, 2008, p. 154–155"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Analise um trecho e identifique sua operação composicional sem confundir forma e assunto.",
+     "itens": [
+      "Perguntar o que o trecho faz com a informação.",
+      "Localizar relações entre as partes do trecho.",
+      "Verificar a função no gênero e na situação comunicativa."
+     ],
+     "explicacao": "A sequência deve ser reconhecida por operação, organização e função contextual."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Narração",
+       "Acontecimentos em progressão"
+      ],
+      [
+       "Descrição",
+       "Traços de um referente"
+      ],
+      [
+       "Exposição",
+       "Informação explicada"
+      ],
+      [
+       "Injunção",
+       "Orientação de ação"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "enem-linguagens-sequencias-1-1-2",
+   "titulo": "Sequências combinadas e efeitos de sentido",
+   "microconteudo": "RAIO-X DA PROVA: Não há ainda levantamento quantitativo C-08E por objeto para as provas 2021–2025; o ranking é provisório. Neste recorte, a leitura se concentra na articulação entre sequência dominante e segmentos secundários, perguntando que efeito cada parte produz. A principal armadilha é classificar o texto inteiro por um fragmento ou por uma marca superficial, como número, pergunta ou verbo no imperativo.\n\nO QUE A BANCA COBRA:\nO objeto 1.1 da Matriz do INEP pede atenção aos modos de composição, mas a análise de um texto real raramente termina em uma única etiqueta. Questões de interpretação costumam exigir que o leitor explique a contribuição de um segmento para a finalidade do conjunto. Por isso, a habilidade central é reconhecer a organização e relacioná-la ao efeito produzido: um relato pode aproximar o leitor de um problema; uma descrição pode tornar visível um cenário; uma explicação pode esclarecer a causa; uma fala citada pode dar voz a um grupo; uma recomendação pode conduzir à ação. A frequência específica deste tópico ainda não foi medida por C-08E.\n\nENTENDA:\nSequências se combinam porque os textos realizam tarefas comunicativas complexas. Uma reportagem pode abrir com uma cena curta para situar o leitor, apresentar dados de pesquisa para explicar a dimensão do problema, ouvir uma pessoa afetada e concluir com informação sobre políticas públicas. Há narração, exposição e diálogo, mas isso não significa que as partes foram reunidas ao acaso. A organização corresponde ao propósito informativo do gênero e distribui funções: situar, contextualizar, exemplificar, contrastar e atualizar.\n\nA ideia de sequência dominante não quer dizer que todo o texto tenha uma só forma. Ela ajuda a identificar qual operação organiza o conjunto ou atende à pergunta. Em um editorial, por exemplo, podem aparecer descrição de uma situação, explicação de um dado e narração de um episódio. Se a tese e as razões estruturam a progressão, a orientação global é argumentativa. Em um manual, uma breve justificativa pode anteceder instruções; a injunção tende a orientar o leitor, enquanto a exposição explica por que seguir as etapas. A resposta depende da função, não da contagem mecânica de frases.\n\nTambém é importante distinguir suporte e gênero de sequência. Uma publicação em rede social pode assumir forma de alerta, relato, divulgação científica ou campanha. O formato digital, por si só, não determina se o texto narra ou argumenta. Do mesmo modo, o assunto ambiental, esportivo ou cultural não define a organização. O leitor observa marcas e relações: conectores de causa e conclusão podem ligar argumentos; marcadores temporais podem organizar acontecimentos; verbos de ação em etapas podem orientar procedimentos; adjetivos podem compor uma descrição, mas também expressar avaliação em um argumento.\n\nImagine um boletim de uma escola sobre calor intenso. Ele começa com uma descrição do pátio sem sombra, traz uma fala de estudante que conta a dificuldade de permanecer ali, apresenta a temperatura registrada e finaliza defendendo a instalação de cobertura. O texto usa descrição, diálogo/narração, exposição de dado e argumentação. Se a questão pergunta como o caso pessoal fortalece a conclusão, a resposta deve explicar sua função de exemplo e concretização, não declarar apenas “há narração”. Se pergunta como a temperatura contribui, a resposta deve relacionar dado e justificativa.\n\nPara interpretar efeitos, associe cada segmento a uma pergunta: que cenário a descrição constrói? Que acontecimento a narração coloca em foco? Que relação a exposição torna compreensível? Que posição a argumentação defende? Que ação a injunção propõe? Quem ganha voz no diálogo? Depois, observe se o trecho reforça, limita, contrapõe ou exemplifica outro segmento. Conectores como “por outro lado”, “portanto” e “por exemplo” ajudam, mas não substituem a interpretação semântica. Uma relação causal pode estar implícita mesmo sem “porque”; uma enumeração pode organizar etapas ou razões, conforme a função.\n\nDOUTRINA:\nMarcuschi trata a heterogeneidade tipológica como característica comum: gêneros materializados em situações sociais podem abrigar sequências de tipos distintos. A leitura, então, distingue o gênero da operação linguística local e pergunta como as partes cooperam. A abordagem didática aqui usa essa distinção como ferramenta de análise, sem reduzir o texto a uma lista de categorias. Referência: MARCUSCHI, Luiz Antônio. Produção textual, análise de gêneros e compreensão. 1. ed. São Paulo: Parábola Editorial, 2008, p. 154–155. Exposição indireta, sem citação literal.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nNão se aplica jurisprudência. A referência avaliativa é a Matriz de Referência do ENEM 2026, Linguagens, Competência 6, com foco na organização e estruturação de textos.\n\nPEGADINHAS:\n1. Não classifique o texto inteiro pela primeira frase. 2. A sequência dominante não exclui outras funções locais. 3. Formato digital não define sequência. 4. Número, adjetivo ou imperativo são indícios, não prova conclusiva. 5. Uma fala citada pode narrar uma experiência e também funcionar como evidência.\n\nESQUEMA:\nParte → função local → relação com o trecho seguinte → contribuição para o propósito global. Dominante = eixo de organização; secundárias = recursos que situam, ilustram, explicam ou orientam.\n\nLIGAÇÕES:\nConecta-se ao tópico 1.2 (esferas sociais de leitura e produção) e ao 1.32 (pontos de vista e progressão argumentativa).",
+   "flashcards": [
+    {
+     "frente": "O que significa sequência dominante?",
+     "verso": "É o eixo que organiza o conjunto ou atende à tarefa de leitura; não exclui sequências secundárias.",
+     "dispositivo": "Matriz ENEM 2026, Linguagens, objeto 1.1; Marcuschi, 2008, p. 154–155"
+    },
+    {
+     "frente": "Para que pode servir uma narrativa em um editorial?",
+     "verso": "Pode concretizar o problema por meio de um caso e apoiar a argumentação como exemplo.",
+     "dispositivo": "Matriz ENEM 2026, Linguagens, objeto 1.1"
+    },
+    {
+     "frente": "O suporte digital determina o modo de composição?",
+     "verso": "Não. O suporte não define se a organização é narrativa, expositiva, argumentativa ou outra.",
+     "dispositivo": "Matriz ENEM 2026, Linguagens, objeto 1.1"
+    },
+    {
+     "frente": "Qual é a pegadinha dos números em um texto?",
+     "verso": "Um número pode informar, descrever uma medida ou servir como evidência; a função depende do contexto.",
+     "dispositivo": "Matriz ENEM 2026, Linguagens, H18"
+    },
+    {
+     "frente": "Uma fala citada é sempre apenas dialogal?",
+     "verso": "Não. Ela também pode relatar uma experiência ou fornecer evidência para a tese do texto.",
+     "dispositivo": "Matriz ENEM 2026, Linguagens, objeto 1.1"
+    },
+    {
+     "frente": "Como localizar o efeito de uma sequência secundária?",
+     "verso": "Relacione a função local dela ao trecho anterior, ao seguinte e ao propósito global.",
+     "dispositivo": "Matriz ENEM 2026, Linguagens, H18"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-linguagens-seq-112-q1",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "Uma reportagem sobre enchentes abre com o relato de uma família, apresenta dados de precipitação e explica o funcionamento dos alertas municipais.",
+     "enunciado": "O relato inicial pode situar o problema e dar concretude à reportagem, ainda que o conjunto tenha finalidade predominantemente informativa.",
+     "gabarito": "C",
+     "comentario": "Certa. A sequência narrativa local pode aproximar a situação vivida e contextualizar informação expositiva posterior; uma não elimina a outra. Referência: Matriz ENEM 2026, Linguagens, H18.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H18"
+    },
+    {
+     "id": "enem-linguagens-seq-112-q2",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "Uma campanha digital contém uma tabela, uma frase de efeito e um comando para economizar água.",
+     "enunciado": "Por circular em rede social, a campanha deve ser classificada como dialogal, mesmo sem troca de turnos entre interlocutores.",
+     "gabarito": "E",
+     "comentario": "Errada. O suporte digital não equivale a diálogo. A campanha pode combinar exposição de dados, argumentação e injunção; diálogo pressupõe alternância ou representação de turnos.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.1"
+    },
+    {
+     "id": "enem-linguagens-seq-112-q3",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "Um texto de opinião relata a experiência de uma ciclista e, depois, defende a criação de uma faixa protegida.",
+     "enunciado": "A experiência narrada pode cumprir função de exemplo na argumentação que vem a seguir.",
+     "gabarito": "C",
+     "comentario": "Certa. O episódio concreto pode tornar visível a situação e apoiar a tese, sem que a sequência narrativa substitua o eixo argumentativo do texto.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.1"
+    },
+    {
+     "id": "enem-linguagens-seq-112-q4",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "Um relatório apresenta percentuais de leitura e propõe ampliar o horário da biblioteca.",
+     "enunciado": "A presença de percentuais garante que o relatório é exclusivamente expositivo e impede uma leitura argumentativa da proposta.",
+     "gabarito": "E",
+     "comentario": "Errada. Percentuais podem compor exposição e também sustentar uma recomendação argumentativa. A função depende das relações entre dado, tese e conclusão.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.1"
+    },
+    {
+     "id": "enem-linguagens-seq-112-q5",
+     "tipo": "multipla_escolha",
+     "dificuldade": "media",
+     "texto_base": "No informativo de uma unidade de saúde, uma agente descreve a sala de vacinação, explica a ordem de atendimento e orienta que os visitantes apresentem documento na recepção.",
+     "enunciado": "Qual alternativa interpreta melhor a composição do informativo?",
+     "alternativas": {
+      "A": "A descrição torna impossível que haja instrução no mesmo texto.",
+      "B": "A sequência narrativa predomina porque existe uma ordem de atendimento.",
+      "C": "Há descrição do espaço, exposição do procedimento e orientação prática ao visitante.",
+      "D": "O texto é dialogal porque menciona uma agente de saúde.",
+      "E": "A recomendação é uma tese, portanto o informativo é integralmente argumentativo."
+     },
+     "gabarito": "C",
+     "comentario": "A correta: C reconhece funções distintas em partes complementares. A cria incompatibilidade inexistente. B confunde ordem de procedimento com relato temporal. D presença de personagem não cria diálogo. E recomendação operacional não equivale necessariamente a tese. Referência: Matriz ENEM 2026, Linguagens, H18.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H18"
+    },
+    {
+     "id": "enem-linguagens-seq-112-q6",
+     "tipo": "multipla_escolha",
+     "dificuldade": "dificil",
+     "texto_base": "Uma matéria sobre descarte de óleo usado começa com a fala de um comerciante, apresenta dados sobre entupimentos e termina explicando três pontos de coleta.",
+     "enunciado": "Que função a fala do comerciante pode cumprir na composição?",
+     "alternativas": {
+      "A": "Substituir o gênero jornalístico por uma conversa cotidiana.",
+      "B": "Apresentar uma experiência concreta que contextualiza o tema da matéria.",
+      "C": "Provar sozinha a relação estatística entre descarte e entupimentos.",
+      "D": "Transformar a matéria em texto injuntivo, mesmo antes das instruções.",
+      "E": "Impedir que o restante do texto tenha finalidade informativa."
+     },
+     "gabarito": "B",
+     "comentario": "A correta: a fala contextualiza e dá perspectiva a uma situação concreta. A confunde trecho e gênero. C atribui a um depoimento prova estatística que ele não oferece. D antecipa uma função que não decorre da fala. E supõe incompatibilidade entre testemunho e informação. Referência: Matriz ENEM 2026, Linguagens, objeto 1.1.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.1"
+    },
+    {
+     "id": "enem-linguagens-seq-112-q7",
+     "tipo": "multipla_escolha",
+     "dificuldade": "media",
+     "texto_base": "Uma postagem municipal apresenta a frase “A rua alagou três vezes neste mês”, seguida de um gráfico e da proposta de instalar bueiros maiores.",
+     "enunciado": "Como o gráfico pode contribuir para a proposta?",
+     "alternativas": {
+      "A": "Como dado expositivo que também serve de evidência para defender a intervenção.",
+      "B": "Como sequência narrativa, porque representa acontecimentos passados.",
+      "C": "Como diálogo, pois comunica algo aos moradores.",
+      "D": "Como instrução de instalação dos bueiros.",
+      "E": "Como descrição literária obrigatória do espaço urbano."
+     },
+     "gabarito": "A",
+     "comentario": "A correta: o gráfico organiza informação e pode sustentar o argumento. B confunde registro temporal e narração. C trata comunicação como diálogo. D não há etapas operacionais. E não há exigência de efeito literário. Referência: Matriz ENEM 2026, Linguagens, H18.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H18"
+    },
+    {
+     "id": "enem-linguagens-seq-112-q8",
+     "tipo": "multipla_escolha",
+     "dificuldade": "dificil",
+     "texto_base": "Um guia de trilha apresenta o relevo do percurso, conta como uma comunidade sinalizou um trecho perigoso e ordena aos visitantes que permaneçam na rota demarcada.",
+     "enunciado": "Qual análise evita reduzir o guia a uma única marca superficial?",
+     "alternativas": {
+      "A": "A referência a um perigo faz todo o texto argumentativo.",
+      "B": "O comando final torna irrelevantes as informações anteriores.",
+      "C": "A história da comunidade é necessariamente o gênero inteiro.",
+      "D": "A descrição do relevo impede que haja orientação ao leitor.",
+      "E": "O guia combina caracterização, relato contextual e instrução de conduta."
+     },
+     "gabarito": "E",
+     "comentario": "A correta: E descreve as funções que cooperam no guia. A confunde tema e modo. B ignora a função contextual das partes anteriores. C toma uma sequência local pelo gênero. D trata descrição e instrução como incompatíveis. Referência: Matriz ENEM 2026, Linguagens, objeto 1.1.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.1"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Uma sequência secundária pode ___, explicar ou ___ a ideia defendida pelo texto.",
+     "opcoes": [
+      "exemplificar",
+      "orientar",
+      "apagar",
+      "contradizer"
+     ],
+     "respostas": [
+      "exemplificar",
+      "orientar"
+     ],
+     "explicacao": "A função depende da relação entre a parte e a organização global.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H18"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "O suporte informa onde o texto circula; ele não determina, por si, o ___ de composição.",
+     "opcoes": [
+      "modo",
+      "tema",
+      "autor",
+      "público"
+     ],
+     "respostas": [
+      "modo"
+     ],
+     "explicacao": "Gênero, suporte e sequência são dimensões relacionadas, mas não equivalentes.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.1"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Analise como partes distintas contribuem para o efeito global de um texto.",
+     "itens": [
+      "Identificar a função de cada segmento.",
+      "Verificar se um segmento exemplifica, explica, contrasta ou orienta outro.",
+      "Relacionar a combinação ao propósito do gênero."
+     ],
+     "explicacao": "O efeito emerge da cooperação entre as partes e o propósito comunicativo."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Dado em editorial",
+       "Evidência possível"
+      ],
+      [
+       "Relato em campanha",
+       "Exemplo concreto"
+      ],
+      [
+       "Imperativo em aviso",
+       "Orientação contextual"
+      ],
+      [
+       "Gráfico em notícia",
+       "Informação organizada"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "enem-linguagens-sequencias-1-1-3",
+   "titulo": "Composição textual a serviço do propósito",
+   "microconteudo": "RAIO-X DA PROVA: A posição deste objeto na lista é provisória e ainda não pode ser confirmada por contagem da C-08E. O recorte final treina a relação entre escolhas de composição, interlocutor e propósito: a mesma informação pode ser narrada, explicada, defendida ou convertida em orientação conforme a situação. A armadilha é supor que uma forma seja adequada em qualquer gênero, público ou finalidade.\n\nO QUE A BANCA COBRA:\nO objeto 1.1 não se limita a memorizar nomes de sequências. A leitura precisa mostrar como a organização escolhida torna o texto apropriado à situação: quem fala, para quem, com que propósito, em qual gênero e por qual suporte. A Matriz de Referência do ENEM também orienta a análise de recursos linguísticos em relação ao contexto. A habilidade H18 apoia a observação da estrutura; H19 contribui quando a questão relaciona recursos expressivos e situação comunicativa. O levantamento por objeto das provas recentes ainda está pendente, então esta lição segue a ordem provisória da Matriz, sem afirmar incidência estatística.\n\nENTENDA:\nO mesmo conteúdo pode ser organizado de modos diferentes. Pense em uma interrupção de água programada. Um comunicado pode expor horário e área afetada; um tutorial pode instruir como armazenar água com segurança; uma reportagem pode narrar as providências de moradores e apresentar dados; um artigo pode argumentar sobre a necessidade de manutenção preventiva. A informação básica se mantém, mas seleção, ordem, marcas linguísticas e relação com o leitor mudam. Isso ocorre porque texto não é apenas conteúdo: é ação situada.\n\nA sequência deve ser reconhecida pelo que faz e pela função que assume. Para orientar, o texto pode organizar ações em ordem e empregar verbos de comando, mas também precisa permitir que o leitor execute a tarefa. Para argumentar, deve haver uma posição que se desenvolve por razões; um tom enfático sozinho não constitui argumento. Para expor, a informação é organizada para explicar ou tornar algo conhecido; a presença de opinião pode coexistir com exposição, mas a questão deve ser resolvida observando o eixo dominante. Para narrar, acontecimentos e mudanças de estado precisam sustentar a progressão; uma data isolada não faz narrativa.\n\nA situação comunicativa também afeta o grau de explicitação. Uma instrução dirigida a técnicos pode pressupor vocabulário compartilhado; uma orientação pública precisa explicar termos e etapas. Um texto de divulgação pode recorrer a analogia, pergunta retórica ou relato breve para aproximar assunto complexo do leitor. Uma campanha pode combinar dado, imagem, slogan e comando, mas cada elemento exerce função diferente. O ENEM frequentemente usa suportes e gêneros variados; a resposta não deve se apoiar em preconceito sobre registro formal ou informal. A adequação depende da finalidade e da relação entre interlocutores.\n\nCompare duas versões autorais de uma mesma informação. Versão A: “A coleta do óleo ocorre aos sábados, das 8h às 12h, no centro comunitário.” Versão B: “Guarde o óleo em garrafa fechada e leve-a ao centro comunitário no sábado, entre 8h e 12h.” A primeira principalmente informa; a segunda instrui. Se acrescentarmos “A prática evita que o resíduo alcance a rede de esgoto”, surge uma explicação que justifica a orientação. Se um artigo acrescenta “O município deve ampliar os pontos de coleta porque o trajeto atual exclui moradores distantes”, aparece tese e justificativa. As versões não são intercambiáveis sem considerar o uso.\n\nNa questão, observe pistas combinadas: modalidade verbal, conectores, organização temporal, presença de tese, explicações, etapas, distribuição de falas, imagens e relação com o leitor. Em seguida, pergunte que alternativa explica melhor o efeito e a finalidade do conjunto. Desconfie de respostas absolutas (“sempre”, “somente”, “necessariamente”) quando os gêneros podem combinar recursos. Também evite atribuir intenção que não aparece no texto: interprete marcas e contexto apresentados no item.\n\nDOUTRINA:\nA concepção sociointeracional de gênero em Marcuschi considera que os gêneros se vinculam a práticas comunicativas e que os tipos são categorias de composição, não rótulos de circulação. Essa distinção sustenta a análise: uma campanha é reconhecida pela ação social que realiza, enquanto a sequência argumentativa ou injuntiva descreve como trechos são organizados. O ensino deve observar os textos em uso e não apenas reproduzir listas classificatórias. Referência: MARCUSCHI, Luiz Antônio. Produção textual, análise de gêneros e compreensão. 1. ed. São Paulo: Parábola Editorial, 2008, p. 154–155. Exposição indireta, sem citação literal.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nNão se aplica jurisprudência. Use como referência a Matriz de Referência do ENEM 2026, Linguagens, Competências 6 e 7, especialmente H18 e H19.\n\nPEGADINHAS:\n1. Informação não é sinônimo de exposição em todo contexto; observe sua função. 2. Uma recomendação acompanhada de razões pode integrar argumentação. 3. Imperativo não basta para classificar o conjunto como injuntivo. 4. Registro informal pode ser adequado ao público e ao gênero. 5. Não infira finalidade sem evidência no texto ou na situação dada.\n\nESQUEMA:\nPropósito + interlocutores + gênero + suporte → escolhas composicionais → efeito de leitura. Informar/explicar → exposição; defender uma posição → argumentação; conduzir uma ação → injunção; relatar mudanças → narração; caracterizar → descrição; distribuir falas → diálogo.\n\nLIGAÇÕES:\nConecta-se ao tópico 1.2 (práticas de leitura e escrita nas esferas sociais) e aos tópicos 1.32–1.34 (argumentação, progressão e interlocutores).",
+   "flashcards": [
+    {
+     "frente": "Por que a mesma informação pode gerar textos diferentes?",
+     "verso": "Propósito, público e gênero alteram seleção, ordem e sequência usada para agir comunicativamente.",
+     "dispositivo": "Matriz ENEM 2026, Linguagens, objetos 1.1–1.2; Marcuschi, 2008, p. 154–155"
+    },
+    {
+     "frente": "O que precisa existir para reconhecer argumentação?",
+     "verso": "Uma posição sustentada por razões, evidências ou resposta a objeções; tom enfático não basta.",
+     "dispositivo": "Matriz ENEM 2026, Linguagens, objeto 1.1"
+    },
+    {
+     "frente": "Que sequência tende a organizar etapas para o leitor agir?",
+     "verso": "A injunção, frequentemente apoiada por exposição que explica condições ou motivos.",
+     "dispositivo": "Matriz ENEM 2026, Linguagens, objeto 1.1"
+    },
+    {
+     "frente": "Um imperativo isolado classifica todo o gênero?",
+     "verso": "Não. Ele é uma pista; a finalidade e a organização do conjunto precisam ser verificadas.",
+     "dispositivo": "Matriz ENEM 2026, Linguagens, H18"
+    },
+    {
+     "frente": "Como avaliar a adequação do registro?",
+     "verso": "Relacione as escolhas linguísticas ao público, ao gênero e à finalidade da situação.",
+     "dispositivo": "Matriz ENEM 2026, Linguagens, H19"
+    },
+    {
+     "frente": "Qual é a pegadinha de uma data isolada?",
+     "verso": "A data não cria narrativa sem acontecimentos organizados em progressão temporal ou causal.",
+     "dispositivo": "Matriz ENEM 2026, Linguagens, objeto 1.1"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-linguagens-seq-113-q1",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "Uma secretaria envia mensagem com data, bairro e duração prevista de uma interrupção no abastecimento.",
+     "enunciado": "Se a finalidade é avisar os moradores, a organização expositiva dos dados pode ser central mesmo que a mensagem contenha um pedido de compreensão.",
+     "gabarito": "C",
+     "comentario": "Certa. Os dados concretos cumprem a função de informar; o pedido pode ser um recurso complementar de interlocução, sem converter automaticamente a mensagem em argumentação.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objetos 1.1–1.2"
+    },
+    {
+     "id": "enem-linguagens-seq-113-q2",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "Uma postagem conclui: “Inscreva-se até sexta”. Antes, apresenta motivos para participar e descreve os horários das oficinas.",
+     "enunciado": "A presença da forma imperativa torna irrelevantes as razões e as informações anteriores para interpretar a postagem.",
+     "gabarito": "E",
+     "comentario": "Errada. O comando final é apenas uma parte. As razões podem persuadir e os horários informam condições, compondo a finalidade da postagem.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.1"
+    },
+    {
+     "id": "enem-linguagens-seq-113-q3",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "Um grupo divulga o mesmo mutirão em um relatório para financiadores e em um convite para moradores.",
+     "enunciado": "A alteração de público e propósito pode levar a diferentes escolhas de organização, embora o acontecimento divulgado seja o mesmo.",
+     "gabarito": "C",
+     "comentario": "Certa. O relatório pode priorizar dados e resultados; o convite pode destacar local, horário e orientação ao participante. A situação orienta a composição.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H19"
+    },
+    {
+     "id": "enem-linguagens-seq-113-q4",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "Um texto usa linguagem coloquial em um convite para roda de conversa entre jovens.",
+     "enunciado": "A escolha coloquial demonstra inadequação porque a norma formal é obrigatória em todo gênero escrito.",
+     "gabarito": "E",
+     "comentario": "Errada. Adequação depende da situação, do gênero, do público e do propósito. A escrita pode mobilizar registros variados sem que isso represente erro automático.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H19"
+    },
+    {
+     "id": "enem-linguagens-seq-113-q5",
+     "tipo": "multipla_escolha",
+     "dificuldade": "media",
+     "texto_base": "A cooperativa publica um aviso: “A entrega de sementes será na terça, das 14h às 17h. Traga recipiente identificado”.",
+     "enunciado": "A composição combina principalmente",
+     "alternativas": {
+      "A": "narração de uma entrega já realizada e descrição de personagens.",
+      "B": "argumentação, porque a cooperativa apresenta uma posição controversa.",
+      "C": "diálogo, pois o aviso fala diretamente com o leitor.",
+      "D": "informação sobre data e horário com orientação prática ao destinatário.",
+      "E": "descrição, pois menciona um recipiente."
+     },
+     "gabarito": "D",
+     "comentario": "A correta: D reconhece dado e instrução. A não há acontecimento passado narrado nem personagem. B não aparece tese. C dirigir-se ao leitor não é alternância de falas. E o objeto mencionado não cria descrição como eixo. Referência: Matriz ENEM 2026, Linguagens, H18.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H18"
+    },
+    {
+     "id": "enem-linguagens-seq-113-q6",
+     "tipo": "multipla_escolha",
+     "dificuldade": "dificil",
+     "texto_base": "Em uma carta pública, moradores defendem a instalação de rampas em uma praça. Apresentam uma descrição dos degraus atuais, relatam o percurso de uma usuária de cadeira de rodas e citam a norma municipal de acessibilidade.",
+     "enunciado": "Qual é a função mais provável do relato pessoal no conjunto?",
+     "alternativas": {
+      "A": "Substituir a defesa por uma narrativa sem relação com a proposta.",
+      "B": "Apresentar experiência concreta que evidencia a barreira discutida.",
+      "C": "Transformar o gênero em entrevista, mesmo sem pergunta e resposta.",
+      "D": "Provar sozinho a validade jurídica da norma municipal.",
+      "E": "Impedir o uso de descrição e referência normativa no mesmo texto."
+     },
+     "gabarito": "B",
+     "comentario": "A correta: o relato concretiza a barreira e reforça a argumentação. A ignora sua conexão com a proposta. C não há estrutura de entrevista. D experiência pessoal não prova, por si, a validade da norma. E as sequências podem coexistir. Referência: Matriz ENEM 2026, Linguagens, objeto 1.1.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.1"
+    },
+    {
+     "id": "enem-linguagens-seq-113-q7",
+     "tipo": "multipla_escolha",
+     "dificuldade": "media",
+     "texto_base": "Uma organização envia um áudio para voluntários: primeiro explica o objetivo da campanha; depois enumera as tarefas por ordem; por fim, pede confirmação de presença.",
+     "enunciado": "Por que a enumeração das tarefas é funcional nesse contexto?",
+     "alternativas": {
+      "A": "Porque converte o áudio em diálogo necessariamente.",
+      "B": "Porque descreve as características físicas dos voluntários.",
+      "C": "Porque organiza etapas para orientar a participação dos destinatários.",
+      "D": "Porque uma sequência ordenada sempre narra fatos passados.",
+      "E": "Porque elimina a função explicativa da abertura."
+     },
+     "gabarito": "C",
+     "comentario": "A correta: C identifica organização injuntiva de tarefas. A áudio não implica diálogo. B não há caracterização de pessoas. D ordem de etapas não equivale a narração passada. E a explicação inicial pode fundamentar as instruções. Referência: Matriz ENEM 2026, Linguagens, H18.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H18"
+    },
+    {
+     "id": "enem-linguagens-seq-113-q8",
+     "tipo": "multipla_escolha",
+     "dificuldade": "dificil",
+     "texto_base": "Um podcast de ciência anuncia um episódio, narra a observação feita por uma equipe e explica como a comparação de amostras permitiu formular uma hipótese.",
+     "enunciado": "Qual leitura considera adequadamente a finalidade e as sequências do episódio?",
+     "alternativas": {
+      "A": "A narração pode introduzir o caso e a exposição esclarecer o procedimento científico.",
+      "B": "A existência de áudio obriga a classificar o episódio como diálogo.",
+      "C": "Uma hipótese torna todo o texto injuntivo, pois exige ação do ouvinte.",
+      "D": "A apresentação de método impede o uso de narração.",
+      "E": "A sequência expositiva só ocorre em textos escritos formais."
+     },
+     "gabarito": "A",
+     "comentario": "A correta: o relato situa a observação e a explicação expõe o método. B confunde áudio e diálogo. C hipótese não é comando. D sequências podem ser combinadas. E exposição aparece em diferentes gêneros e modalidades. Referência: Matriz ENEM 2026, Linguagens, H18 e H19.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H18 e H19"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Para julgar a adequação de uma escolha textual, relacione público, gênero e ___.",
+     "opcoes": [
+      "propósito",
+      "quantidade de parágrafos",
+      "data de publicação",
+      "tamanho da fonte"
+     ],
+     "respostas": [
+      "propósito"
+     ],
+     "explicacao": "A escolha composicional é avaliada na situação comunicativa em que atua.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H19"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Uma defesa de posição organizada por razões é ___; uma sequência que orienta procedimentos é ___.",
+     "opcoes": [
+      "argumentativa",
+      "injuntiva",
+      "narrativa",
+      "descritiva"
+     ],
+     "respostas": [
+      "argumentativa",
+      "injuntiva"
+     ],
+     "explicacao": "A primeira sustenta uma tese; a segunda conduz o leitor por ações.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.1"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Compare duas versões de uma mesma informação e avalie sua adequação comunicativa.",
+     "itens": [
+      "Identificar o público e o propósito de cada versão.",
+      "Observar as sequências e escolhas linguísticas usadas.",
+      "Explicar como elas atendem ou não à situação comunicativa."
+     ],
+     "explicacao": "A análise parte da situação e conecta composição ao efeito produzido."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Aviso de horário",
+       "Informar condição"
+      ],
+      [
+       "Manual de montagem",
+       "Orientar etapas"
+      ],
+      [
+       "Artigo de opinião",
+       "Defender posição"
+      ],
+      [
+       "Relato de experiência",
+       "Narrar mudança"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

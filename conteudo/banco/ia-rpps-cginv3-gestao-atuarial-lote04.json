@@ -1,0 +1,606 @@
+{
+ "assunto": "CP RPPS — Comitê de Investimentos (CGINV III): Gestão Atuarial, Portaria MPS nº 1.467/2022",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 (Portaria conferida na Consolidação da Legislação Federal dos RPPS do Ministério da Previdência Social, atualizada até 22/10/2026; página oficial consultada em 23/11/2026)",
+ "origem": "2026-11-23_banco-rpps-cginv3-gestao-atuarial-lote04_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "cginv-gestao-atuarial-2-1-1",
+   "titulo": "Equilíbrio do RPPS e avaliação atuarial anual",
+   "microconteudo": "O QUE A BANCA COBRA:\nA prova de certificação pode exigir que o candidato leia a avaliação atuarial como instrumento de decisão do RPPS, não como planilha isolada. Sem cadernos oficiais públicos do CGINV III que permitam contar ocorrências, não cabe afirmar que um prazo ou inciso “caiu” certo número de vezes. O programa oficial inclui Gestão Atuarial e o tópico Pareto 2.1 está entre os mais prioritários. O roteiro seguro é identificar: data focal; responsável técnico; bases e hipóteses; compromissos e custos; resultado; medidas de custeio e acompanhamento.\n\nENTENDA:\nEquilíbrio financeiro e equilíbrio atuarial se relacionam, mas respondem a perguntas diferentes. Na dimensão financeira, o gestor observa se os recursos e receitas disponíveis acompanham os pagamentos que vencem no curto prazo. Na dimensão atuarial, compara, em uma data de avaliação e sob premissas técnicas explícitas, o conjunto de recursos e fluxos projetados com compromissos de benefícios presentes e futuros. Um regime pode pagar a folha de hoje e ainda revelar insuficiência projetada; também pode apresentar resultado atuarial estimado favorável e enfrentar descasamento de caixa se recursos não tiverem liquidez no momento devido. Por isso a Portaria associa equilíbrio à transparência, solvência e liquidez, e exige avaliação anual para organizar ou revisar os planos de custeio e benefícios (art. 25, caput e § 1º).\n\nA avaliação anual tem data focal em 31 de dezembro de cada exercício, coincidente com o ano civil. Ela calcula custos e compromissos, cujas obrigações se iniciam no primeiro dia do exercício seguinte. Deve ser elaborada por atuário habilitado, apoiar-se na Nota Técnica Atuarial (NTA), considerar a legislação geral e local vigente na data focal e incluir benefícios concedidos e a conceder, seus critérios e os resultados necessários à gestão (art. 26, caput e incisos I a VII). Data focal não é necessariamente o dia em que o estudo foi assinado, enviado ao sistema ou votado pelo conselho. A data organiza a fotografia técnica; o estudo pode ser concluído depois, mas não muda a fotografia para contornar o calendário.\n\nConsidere o RPPS municipal de Ipê Roxo. Em 31/12/2026, o atuário estima contribuições, folha projetada, benefícios concedidos e obrigações futuras. A avaliação é finalizada em fevereiro de 2027. O trabalho continua referenciado à data focal 31/12/2026; não se transforma em avaliação com data focal de fevereiro. O relatório deve permitir que dirigentes, conselhos e gestores acompanhem solvência e liquidez, demonstrar ganhos e perdas atuariais e fundamentar o plano de custeio. O art. 26 também requer projeções para a avaliação financeira e atuarial da LRF e apuração de provisões matemáticas previdenciárias para as demonstrações contábeis.\n\nA NTA explicita a estrutura técnica usada: formulações, premissas e metodologia necessárias para compreender os cálculos. A avaliação não é mera aplicação mecânica de uma taxa. Hipóteses sobre mortalidade, invalidez, composição familiar, crescimento salarial, reposição de servidores e taxa de juros influenciam fluxos e valores presentes. O art. 25, § 4º, exige que responsáveis demonstrem tempestivamente a adequação das hipóteses, premissas, regimes financeiros e métodos, mesmo quando observam parâmetros gerais. Isso requer registrar justificativa, qualidade dos dados e sensibilidade quando pertinente; se a experiência da massa diverge do pressuposto, o gestor não deve esconder a divergência em uma nota genérica.\n\nNa avaliação de Ipê Roxo, a despesa mensal de benefícios é paga sem atraso e o saldo bancário cobre três folhas. Esses números informam liquidez imediata, mas não provam, sozinhos, equilíbrio atuarial. O estudo pode projetar crescimento de aposentadorias ou insuficiência de contribuições ao longo do tempo. Em sentido inverso, um superávit projetado não significa que todo ativo possa ser resgatado sem perda ou que a tesouraria tenha caixa suficiente no mês. A leitura de dirigentes e comitê deve integrar fluxo de caixa, maturidade do passivo, recursos garantidores, política de investimentos e plano de custeio, sem confundir o papel do atuário com a decisão do ente.\n\nO ente federativo permanece responsável por garantir diretamente os riscos cobertos e cobrir eventuais insuficiências financeiras do regime quando houver desequilíbrio (art. 25, § 2º). A avaliação quantifica e fundamenta; ela não transfere a obrigação pública ao atuário, à unidade gestora ou ao conselho. Dirigentes, conselhos e representantes do ente devem pautar ações pela sustentabilidade de longo prazo (art. 25, § 3º). Se a lei local de benefícios ou a estrutura remuneratória puder elevar compromissos, o impacto financeiro e atuarial precisa ser estudado antes da alteração (art. 69). E, se fato relevante deteriorar a situação ou mudar o plano de benefícios entre avaliações anuais, pode ser necessária avaliação atuarial intermediária (art. 68, parágrafo único).\n\nDOUTRINA:\nA lógica atuarial combina valor do dinheiro no tempo, probabilidade de eventos biométricos e projeção de fluxos: compromissos futuros são estimados sob hipóteses e trazidos a uma data de referência, enquanto recursos e contribuições são projetados segundo método de financiamento. Isso torna a avaliação um modelo condicional, e não uma promessa exata de resultado. O princípio de prudência pede que a hipótese seja justificada e adequada à massa, sem escolher premissas apenas para produzir resultado desejado. A distinção entre liquidez de curto prazo e solvência de longo prazo ajuda o comitê a interpretar o efeito de uma decisão de investimento no passivo. A ficha M-12 identificada para este tópico, porém, descreve sobretudo fundos e governança de investimentos, sem referência atuarial verificável; não atribuo a autores ou páginas uma doutrina que a fonte não sustenta. A revisão bibliográfica especializada fica indicada à Manus/Claude antes da publicação.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nNo Informativo GESCON de março de 2026, a DIOIT/CGNAL/DRPPS/MPS, resposta GESCON S717441/2026, reafirmou avaliação anual com data focal em 31 de dezembro, elaboração por atuário habilitado e apoio na NTA; também descreveu coordenação entre ente, unidade gestora, atuário e governança. É orientação técnica administrativa, não precedente judicial vinculante. A fonte normativa central segue sendo a Portaria MTP nº 1.467/2022, especialmente arts. 25, 26, 68 e 69.\n\nPEGADINHAS:\n1. Caixa disponível hoje não prova equilíbrio atuarial; são horizontes diferentes.\n2. Resultado atuarial favorável não garante caixa imediato nem liquidez dos ativos.\n3. Data focal de 31 de dezembro não é a data de assinatura ou envio do relatório.\n4. Cumprir parâmetro geral não dispensa justificar hipóteses e métodos (art. 25, § 4º).\n5. A avaliação técnica não transfere ao atuário a responsabilidade do ente pela cobertura de insuficiências (art. 25, § 2º).\n\nESQUEMA:\nData focal → 31/12 de cada exercício (art. 26).\nResponsável → atuário habilitado; base técnica → NTA (art. 26, I–II).\nEscopo → benefícios atuais e futuros, custos, compromissos e provisões (art. 26, IV–VII).\nResultado → diagnóstico condicional às premissas; relatório informa ganhos e perdas (art. 26, §§ 1º–3º).\nResponsabilidade final → ente mantém garantia e cobre insuficiência financeira (art. 25, § 2º).\n\nLIGAÇÕES:\nConecta-se a base cadastral e hipóteses atuariais (tópico 2.1), a plano de custeio/equacionamento (arts. 52–55) e a alocação/gestão de risco, porque ativos precisam ser compatíveis com fluxos e liquidez do passivo.",
+   "flashcards": [
+    {
+     "frente": "Qual é a data focal obrigatória da avaliação atuarial anual do RPPS?",
+     "verso": "31 de dezembro de cada exercício; as obrigações avaliadas iniciam-se no primeiro dia do exercício seguinte.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 26, caput"
+    },
+    {
+     "frente": "Quais dois requisitos técnicos básicos identificam o profissional e o documento-base da avaliação?",
+     "verso": "Atuário habilitado e fundamentação na Nota Técnica Atuarial (NTA).",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 26, I–II"
+    },
+    {
+     "frente": "O que o relatório deve mostrar sobre a variação entre avaliações?",
+     "verso": "Ganhos e perdas atuariais, além de informações para acompanhar solvência e liquidez.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 26, §§ 1º–2º"
+    },
+    {
+     "frente": "Se a folha está paga em dia, isso prova equilíbrio atuarial?",
+     "verso": "Não; pagamento corrente mede fluxo de caixa, enquanto avaliação atuarial projeta compromissos e recursos.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, arts. 25–26"
+    },
+    {
+     "frente": "Qual dever do ente permanece mesmo após uma avaliação atuarial contratada?",
+     "verso": "Garantir os riscos cobertos e cobrir eventuais insuficiências financeiras do regime.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 25, § 2º"
+    },
+    {
+     "frente": "Parâmetros gerais dispensam justificar premissas e métodos?",
+     "verso": "Não; os responsáveis devem demonstrar tempestivamente a adequação das hipóteses, regimes e métodos.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 25, § 4º"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A avaliação atuarial anual tem data focal em 31 de dezembro e considera os custos e compromissos cujas obrigações se iniciam no primeiro dia do exercício seguinte.",
+     "gabarito": "C",
+     "comentario": "Correto. A data focal é 31 de dezembro e as obrigações avaliadas iniciam no primeiro dia do exercício seguinte; não se confunde data focal com data de elaboração ou envio. Base: Portaria MTP nº 1.467/2022, art. 26, caput.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 26, caput"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Se o município cumprir os parâmetros técnico-atuariais do Anexo VI, fica dispensado de demonstrar a adequação das hipóteses, premissas, regimes financeiros e métodos de financiamento usados.",
+     "gabarito": "E",
+     "comentario": "Errado. O atendimento aos parâmetros não elimina o ônus de demonstrar tempestivamente a adequação das escolhas atuariais. Base: Portaria MTP nº 1.467/2022, art. 25, §§ 1º e 4º.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 25, §§ 1º e 4º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O relatório atuarial deve permitir aos dirigentes e conselhos acompanhar a solvência e a liquidez do plano e demonstrar ganhos e perdas atuariais.",
+     "gabarito": "C",
+     "comentario": "Correto. O relatório registra resultados para acompanhamento contínuo e explicita ganhos e perdas. Base: Portaria MTP nº 1.467/2022, art. 26, §§ 1º e 2º.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 26, §§ 1º e 2º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "O relatório atuarial pode omitir benefícios já concedidos quando o atuário entender que a despesa correspondente é conhecida e não altera a projeção.",
+     "gabarito": "E",
+     "comentario": "Errado. A avaliação abrange benefícios concedidos e a conceder e seus critérios de concessão, manutenção e pagamento. A seleção unilateral do que projetar não substitui o escopo normativo. Base: Portaria MTP nº 1.467/2022, art. 26, IV.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 26, IV"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "A avaliação atuarial de Serra Clara, com data focal em 31/12/2026, foi assinada por consultor sem habilitação atuarial e não se baseou na NTA. Qual providência corrige os dois problemas centrais?",
+     "alternativas": {
+      "A": "Refazer o estudo com atuário habilitado e fundamentá-lo na Nota Técnica Atuarial, observando também os demais requisitos do art. 26.",
+      "B": "Manter o estudo se o conselho fiscal confirmar as premissas por votação.",
+      "C": "Substituir a NTA pelo relatório anual de investimentos, que contém os ativos do regime.",
+      "D": "Adiar a avaliação para 31/03/2027, pois a data focal é livre se houver atraso.",
+      "E": "Aceitar o estudo, pois a contratação pelo ente dispensa habilitação específica."
+     },
+     "gabarito": "A",
+     "comentario": "A é correta: autoria por atuário habilitado e fundamento na NTA são requisitos expressos. B não substitui qualificação ou base técnica; C confunde documentos; D altera a data focal anual fixada; E não cria exceção pela forma de contratação. Base: Portaria MTP nº 1.467/2022, art. 26, caput e I–II.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 26, caput e I–II"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 15/02/2027, o RPPS de Vale Sereno conclui avaliação referente à data focal de 31/12/2026. A equipe registra provisões matemáticas usando método contábil e outro método para análise atuarial. Como deve tratar o segundo resultado?",
+     "alternativas": {
+      "A": "Omiti-lo, porque só pode existir um método em qualquer análise atuarial.",
+      "B": "Usá-lo para substituir as demonstrações contábeis sem nota explicativa.",
+      "C": "Apresentá-lo em notas explicativas às demonstrações contábeis, mantendo para o registro das provisões método alinhado às normas contábeis públicas.",
+      "D": "Apresentá-lo apenas ao conselho, pois a norma não trata de provisões contábeis.",
+      "E": "Converter a data focal para 15/02/2027."
+     },
+     "gabarito": "C",
+     "comentario": "C é correta: o art. 26, § 3º, exige método alinhado às normas contábeis para registro das provisões e apresentação em notas explicativas dos resultados de método adicional de avaliação atuarial. A inventa exclusividade; B dispensa indevidamente nota; D ignora a regra contábil; E confunde data de conclusão e data focal. Base: Portaria MTP nº 1.467/2022, art. 26, caput e § 3º.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 26, caput e § 3º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "O município planeja ampliar benefícios do RPPS por lei local. Qual análise deve orientar os dirigentes antes da decisão?",
+     "alternativas": {
+      "A": "Somente o retorno dos investimentos no último exercício.",
+      "B": "O impacto estimado sobre equilíbrio financeiro e atuarial, calculado em estudo técnico por atuário habilitado com premissas e metodologia explicitadas.",
+      "C": "Apenas a capacidade de pagar a folha no mês da aprovação.",
+      "D": "Somente a manifestação do órgão legislativo, sem avaliação técnica.",
+      "E": "A projeção de benefícios concedidos, excluindo os futuros."
+     },
+     "gabarito": "B",
+     "comentario": "B é correta. Alterações de estrutura funcional, remuneração e políticas de pessoal que possam majorar benefícios requerem estudo técnico atuarial com premissas e metodologia e estimativa do impacto. A, C, D e E ignoram compromissos futuros e o comando técnico. Base: Portaria MTP nº 1.467/2022, art. 69, caput e parágrafo único.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 69, caput e parágrafo único"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em outubro de 2026, um evento relevante deteriora a situação financeira do RPPS de Pedra Clara antes da avaliação anual seguinte. O gestor afirma que nenhuma análise pode ser feita até dezembro. Qual resposta está correta?",
+     "alternativas": {
+      "A": "A afirmação é correta, pois a avaliação anual exclui qualquer avaliação intermediária.",
+      "B": "Basta alterar a política de investimentos, sem revisão atuarial.",
+      "C": "A unidade gestora deve esperar três exercícios e comparar relatórios.",
+      "D": "Deve ser elaborada avaliação atuarial no intervalo entre avaliações anuais se o fato for relevante para a deterioração da situação financeira e atuarial.",
+      "E": "Só o atuário pode decidir sozinho se muda a lei de benefícios."
+     },
+     "gabarito": "D",
+     "comentario": "D é correta: há avaliação no período entre as anuais quando fato relevante deteriora a situação, ou diante de alteração do plano de benefícios. A interpreta o ciclo anual como vedação; B não substitui análise atuarial; C inventa prazo; E confunde avaliação técnica com competência legislativa. Base: Portaria MTP nº 1.467/2022, art. 68, parágrafo único, e art. 69.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 68, parágrafo único, e art. 69"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "A avaliação anual usa data focal em ___ e deve ser elaborada por ___ habilitado.",
+     "opcoes": [
+      "31 de dezembro",
+      "30 de junho",
+      "atuário",
+      "contador público"
+     ],
+     "respostas": [
+      "31 de dezembro",
+      "atuário"
+     ],
+     "explicacao": "O art. 26 fixa a data focal anual e exige autoria técnica por atuário habilitado.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 26, caput e I"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "A avaliação é embasada na ___; o resultado deve apoiar o plano de ___.",
+     "opcoes": [
+      "Nota Técnica Atuarial",
+      "política de investimentos",
+      "custeio",
+      "benefícios fiscais"
+     ],
+     "respostas": [
+      "Nota Técnica Atuarial",
+      "custeio"
+     ],
+     "explicacao": "A NTA embasa a avaliação, que apura custos e compromissos para definir o plano de custeio de equilíbrio.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 26, II e VII"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a trilha mínima de leitura da avaliação anual.",
+     "itens": [
+      "Fixar a data focal e a legislação aplicável",
+      "Validar NTA, hipóteses e base técnica",
+      "Apurar benefícios, custos, compromissos e provisões",
+      "Interpretar resultado e relatório para revisar custeio/benefícios"
+     ],
+     "explicacao": "A data e a base normativa delimitam o cálculo; premissas e dados alimentam a apuração, que subsidia decisões.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, arts. 25–26"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Equilíbrio financeiro",
+       "capacidade de honrar fluxos no horizonte corrente"
+      ],
+      [
+       "Equilíbrio atuarial",
+       "compatibilidade projetada entre recursos e compromissos"
+      ],
+      [
+       "Data focal",
+       "referência temporal comum da avaliação"
+      ],
+      [
+       "NTA",
+       "documento-base técnico do estudo"
+      ]
+     ],
+     "explicacao": "Diferencie a perspectiva de caixa da avaliação de compromissos futuros e do suporte metodológico.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, arts. 25–26"
+    }
+   ]
+  },
+  {
+   "id": "cginv-gestao-atuarial-2-1-2",
+   "titulo": "Base cadastral: abrangência, atualização e qualidade",
+   "microconteudo": "O QUE A BANCA COBRA:\nPara este tópico, a decisão de prova costuma estar na qualidade e na trilha dos dados, não em decorar um conceito abstrato de cadastro. Como não há prova oficial aberta do CGINV III classificada para contagem, não se atribui frequência numérica. O candidato deve verificar quatro perguntas: quem está incluído; de quando são os dados; como se trataram lacunas ou inconsistências; e se o relatório descreve ajustes e providências. A base não é arquivo exclusivo da unidade gestora: depende da cooperação de todos os poderes, órgãos e entidades do ente.\n\nENTENDA:\nUma avaliação pode usar fórmulas corretas e ainda produzir conclusão fraca se os dados de segurados e beneficiários forem incompletos, inconsistentes ou antigos. Idade, sexo quando atuarialmente pertinente, remuneração, tempo de contribuição, dependentes, benefício concedido e histórico funcional afetam fluxos projetados e provisões. Uma massa omitida reduz artificialmente os compromissos; uma remuneração não atualizada distorce contribuições e benefícios calculados sobre a base; dependentes ausentes podem alterar projeções de pensão. Por isso o art. 47, caput, exige informações atualizadas e consistentes de todos os segurados e beneficiários, de quaisquer poderes, órgãos e entidades do ente federativo.\n\nA janela cadastral também é precisa. Para avaliação anual com data focal em 31 de dezembro, a base cadastral, funcional e remuneratória deve estar posicionada entre julho e dezembro do exercício relativo à avaliação (art. 47, § 1º). A norma não diz que todo dado precisa ter sido extraído no próprio dia 31/12. Ela admite critérios de ajuste para posicionar a base na data focal, com adequação do passivo atuarial, desde que os critérios sejam demonstrados no Relatório da Avaliação Atuarial (art. 47, § 2º). Assim, o ajuste é uma técnica controlada, e não uma licença para encobrir defasagem ou fabricar uma fotografia sem explicar o método.\n\nImagine o RPPS de Campo do Sol, cuja avaliação será feita com data focal de 31/12/2026. O Executivo entrega arquivo completo em setembro, mas a Câmara Municipal só encaminha remunerações e afastamentos em dezembro. A unidade gestora deve integrar os grupos pertinentes e permitir análise e correção em tempo hábil; não pode simplesmente excluir a Câmara. Poderes, órgãos e entidades devem encaminhar informações ou franquear acesso aos sistemas para que a unidade gestora analise, corrija, processe e apresente os resultados (art. 47, § 3º). A gestão deve prever calendário de entrega, responsáveis, validação de campos, reconciliação com folha e trilha de alterações.\n\nO relatório atua como trilha de auditoria. Deve descrever a base e informar se todas as informações necessárias foram apresentadas; analisar atualização, amplitude e consistência; explicitar premissas adotadas para ajustar dados que falham nesses atributos; e registrar providências do ente e da unidade gestora para corrigir problemas que foram objeto de ajustes no relatório anterior (art. 47, § 5º, I–IV). Isso cria ciclo contínuo: avaliar, documentar a limitação, ajustar com critério, dimensionar o passivo de modo compatível e cobrar melhoria para a próxima rodada. Uma frase como “a base foi validada” não substitui a análise material se há falta de massa, período incompleto ou remunerações incongruentes.\n\nSuponha que Campo do Sol tenha 2.400 ativos e 730 beneficiários, mas a base enviada contenha apenas 2.280 ativos, porque uma autarquia não entregou seu cadastro. O relatório não pode omitir os 120 ausentes nem presumir que o efeito é zero. A equipe deve buscar os registros, estimar tecnicamente o efeito se persistir limitação, explicitar premissa e ajuste no passivo e registrar as providências para a correção. Mesmo se o prazo apertar, a transparência permite que conselho e ente entendam a margem de incerteza e evitem interpretar o resultado como certeza. Ao relatório seguinte, a unidade gestora precisa informar o que foi feito a partir da recomendação anterior.\n\nA responsabilidade é distribuída. Órgãos de origem fornecem acesso e dados; a unidade gestora organiza, confronta e disponibiliza base com qualidade para o trabalho; o atuário realiza avaliação técnica e descreve hipóteses e ajustes; o ente coordena e garante informações; conselhos acompanham e questionam limitações. O art. 47, § 4º, ainda permite que a SPREV solicite arquivos usados no estudo, reforçando a importância de conservar versões, dicionário de dados, datas de extração, regras de limpeza, correspondências e trilha de autorização. A presença da consultoria não transfere ao atuário o dever de cada órgão sobre seus registros de origem.\n\nUma limitação relevante deve levar a juízo proporcional: avaliar materialidade e direção do possível viés; distinguir erro aleatório de omissão sistemática; identificar população afetada; registrar critério; e propor plano corretivo com responsáveis e prazo. Se o problema tornar as estimativas frágeis, deve ser comunicado aos responsáveis para decisão e complementação do estudo. Quando evento posterior for capaz de deteriorar a condição financeira/atuarial ou houver alteração do plano de benefícios, a regra de avaliação intermediária do art. 68, parágrafo único, pode entrar em cena. O dado cadastral e o gatilho de revisão atuarial pertencem ao mesmo sistema de controle, ainda que tenham dispositivos próprios.\n\nDOUTRINA:\nDo ponto de vista atuarial, a qualidade cadastral é parte do controle de modelo: a saída da avaliação depende da população representada e da qualidade das variáveis que alimentam as hipóteses. Em vez de tratar “limpeza” como operação neutra, a governança deve testar completude, consistência, atualidade e representatividade, pois ajustes podem alterar o passivo estimado. A comparação entre bases e a explicação de mudanças tornam possível atribuir ganhos e perdas a atualização cadastral, alteração de hipótese ou experiência da massa. A ficha M-12 do projeto para Gestão Atuarial não contém bibliografia atuarial específica verificável, e o material-base é um conjunto de slides sem autoria técnica ou paginação doutrinária suficiente para citação acadêmica. Não atribuo estas formulações a autor ou livro sem confirmação; a conferência de literatura especializada fica registrada à Manus/Claude.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nNão foi identificado precedente judicial necessário para interpretar a janela e o conteúdo de qualidade do art. 47. O próprio texto da Portaria MTP nº 1.467/2022, art. 47, §§ 1º–5º, rege o caso. A resposta técnica GESCON S717441/2026, divulgada pelo MPS em março de 2026, enfatizou a coordenação entre ente, unidade gestora e atuário e a organização das bases que subsidiarão o estudo; trata-se de orientação administrativa interpretativa, não de decisão judicial vinculante.\n\nPEGADINHAS:\n1. Cobertura só do Executivo é insuficiente: a base alcança os poderes, órgãos e entidades do ente.\n2. A janela é julho a dezembro do exercício da avaliação; não autoriza usar qualquer base antiga sem critério.\n3. Ajustar dados à data focal é permitido, mas ajuste do passivo e demonstração no relatório são exigidos.\n4. “Base validada” não substitui análise de suficiência, atualização, amplitude e consistência.\n5. A consultoria atuarial não substitui o dever dos órgãos de enviar dados em tempo hábil.\n\nESQUEMA:\nAbrangência → todos os segurados e beneficiários do ente (art. 47, caput).\nPosição temporal → julho a dezembro do exercício avaliado (art. 47, § 1º).\nAjuste → pode projetar à data focal; adequar o passivo e demonstrar no relatório (art. 47, § 2º).\nEntrada → órgãos entregam dados ou dão acesso em tempo hábil (art. 47, § 3º).\nControle → relatório descreve qualidade, ajustes e providências anteriores (art. 47, § 5º).\n\nLIGAÇÕES:\nConecta-se à avaliação anual e à NTA (art. 26), às premissas e hipóteses atuariais (Anexo VI e art. 25, § 4º), e à responsabilidade compartilhada na governança e no acompanhamento do plano (arts. 67–68).",
+   "flashcards": [
+    {
+     "frente": "A base atuarial de um município pode incluir apenas servidores do Executivo?",
+     "verso": "Não. Deve abranger segurados e beneficiários de quaisquer poderes, órgãos e entidades do ente.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 47, caput"
+    },
+    {
+     "frente": "Qual janela de posicionamento vale para base da avaliação anual com data focal em 31/12?",
+     "verso": "Entre julho e dezembro do exercício relativo à avaliação.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 47, § 1º"
+    },
+    {
+     "frente": "A base de setembro pode ser ajustada para a data focal?",
+     "verso": "Sim, com critério técnico, adequação do passivo e demonstração no relatório.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 47, § 2º"
+    },
+    {
+     "frente": "Que providência cabe quando um órgão não envia a folha em tempo hábil?",
+     "verso": "Solicitar o envio ou acesso ao sistema e organizar análise, correção e processamento tempestivos.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 47, § 3º"
+    },
+    {
+     "frente": "Quais atributos de qualidade o relatório destaca?",
+     "verso": "Atualização, amplitude e consistência, além de suficiência e premissas dos ajustes.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 47, § 5º, I–III"
+    },
+    {
+     "frente": "O que o relatório informa sobre falhas corrigidas desde a avaliação anterior?",
+     "verso": "As providências adotadas pelo ente e pela unidade gestora para adequar os dados.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 47, § 5º, IV"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A base cadastral da avaliação deve alcançar segurados e beneficiários de todos os poderes, órgãos e entidades vinculados ao ente, e não apenas a folha do Executivo.",
+     "gabarito": "C",
+     "comentario": "Correto. A abrangência da base inclui todos os segurados e beneficiários, quaisquer que sejam os poderes, órgãos ou entidades do ente. Base: Portaria MTP nº 1.467/2022, art. 47, caput.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 47, caput"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Para avaliação com data focal em 31 de dezembro de 2026, qualquer base anterior a julho é válida desde que o atuário faça uma projeção até dezembro; não é necessário explicar o ajuste no relatório.",
+     "gabarito": "E",
+     "comentario": "Errado. A base deve estar posicionada entre julho e dezembro do exercício da avaliação. Ajustes para data focal podem ser usados com adequação do passivo, desde que demonstrados no Relatório da Avaliação Atuarial. Base: Portaria MTP nº 1.467/2022, art. 47, §§ 1º e 2º.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 47, §§ 1º e 2º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Poderes, órgãos e entidades devem encaminhar as informações ou permitir acesso a sistemas em tempo hábil para análise, correção, processamento e apresentação dos resultados.",
+     "gabarito": "C",
+     "comentario": "Correto. O fluxo tempestivo de dados é dever institucional para viabilizar a avaliação. Base: Portaria MTP nº 1.467/2022, art. 47, § 3º.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 47, § 3º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Uma correção técnica de dados incompletos pode ser feita sem registro quando o atuário entender que o resultado final não muda.",
+     "gabarito": "E",
+     "comentario": "Errado. O relatório deve analisar qualidade, atualização, amplitude e consistência; indicar premissas de ajuste dos dados inadequados e registrar providências tomadas para correções pendentes de avaliações anteriores. Base: Portaria MTP nº 1.467/2022, art. 47, § 5º, II–IV.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 47, § 5º, II–IV"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 2026, Serra Azul prepara a avaliação anual de data focal 31/12/2026. O órgão legislativo informou que enviará cadastro dos servidores somente em fevereiro de 2027. Qual encaminhamento atende melhor ao dever de governança?",
+     "alternativas": {
+      "A": "Excluir os servidores do legislativo, pois a unidade gestora só precisa de dados do Executivo.",
+      "B": "Pedir às instâncias e entidades que encaminhem os dados ou viabilizem acesso aos sistemas em tempo hábil, documentando cobrança e análise de qualidade.",
+      "C": "Usar apenas a base de 2024 e não mencionar a diferença no relatório.",
+      "D": "Substituir a avaliação por estimativa de receita municipal.",
+      "E": "Aguardar fevereiro sem avaliar possível ajuste ou impacto no passivo."
+     },
+     "gabarito": "B",
+     "comentario": "B é correta: a base deve abranger os diferentes poderes e chegar em tempo hábil; a governança deve registrar análise e correções. A contraria a abrangência do art. 47; C oculta defasagem; D não mede compromissos; E posterga o fluxo sem tratamento técnico. Base: Portaria MTP nº 1.467/2022, art. 47, caput e §§ 1º e 3º.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 47, caput e §§ 1º e 3º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "A base de um RPPS está posicionada em setembro de 2026, mas apresenta remunerações inconsistentes e dois órgãos não enviaram dependentes. O atuário propõe ajuste à data focal. O que o relatório deve conter?",
+     "alternativas": {
+      "A": "Apenas o total de servidores ativos, sem descrever limitações.",
+      "B": "Declaração de que todo dado é correto, mesmo sem validação.",
+      "C": "Somente a nova data, sem explicar o ajuste do passivo.",
+      "D": "Descrição da base, suficiência, qualidade, premissas de ajuste, adequação do passivo e providências para sanar lacunas, incluindo acompanhamento de recomendações anteriores.",
+      "E": "Retirada dos dados irregulares sem mencionar quais foram excluídos."
+     },
+     "gabarito": "D",
+     "comentario": "D é correta: art. 47 exige descrição das informações necessárias, qualidade, premissas dos ajustes e providências para adequação; o art. 47, § 2º, exige demonstrar ajuste e adequar passivo. A e E ocultam limitações; B afirma qualidade sem suporte; C omite efeito atuarial e justificativa. Base: Portaria MTP nº 1.467/2022, art. 47, §§ 2º e 5º.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 47, §§ 2º e 5º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Após a avaliação de 2025, o relatório apontou remunerações sem histórico e pediu correção. Na avaliação seguinte, o que se espera da unidade gestora e do ente?",
+     "alternativas": {
+      "A": "Demonstrar no relatório as providências adotadas para adequar a base que foi objeto dos ajustes anteriores.",
+      "B": "Repetir indefinidamente as mesmas premissas, sem plano de correção.",
+      "C": "Excluir automaticamente toda a massa de segurados afetada.",
+      "D": "Transferir o problema para os conselhos, sem informar o atuário.",
+      "E": "Eliminar a necessidade de análise da base, porque houve avaliação no ano anterior."
+     },
+     "gabarito": "A",
+     "comentario": "A é correta: o relatório deve informar as providências adotadas para adequar dados que geraram ajustes no exercício anterior. B normaliza a falha; C não é consequência automática; D rompe a cooperação técnica; E contradiz o caráter anual. Base: Portaria MTP nº 1.467/2022, art. 47, § 5º, IV, e art. 26.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 47, § 5º, IV, e art. 26"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "A prefeitura propõe usar a base de setembro, projetar os registros para 31/12 e ajustar o passivo em R$ 4,2 milhões; o relatório descreverá método e limites. Qual afirmação é adequada?",
+     "alternativas": {
+      "A": "A lei veda qualquer projeção da base para a data focal.",
+      "B": "A base está automaticamente inválida por não ter sido coletada em dezembro.",
+      "C": "O ajuste pode ser empregado se a base estiver entre julho e dezembro e o critério, com a adequação do passivo, for demonstrado no relatório; isso não dispensa análise de qualidade.",
+      "D": "O valor do ajuste pode ser lançado sem indicar hipótese ou método.",
+      "E": "A projeção transfere ao atuário a obrigação dos órgãos de fornecer dados."
+     },
+     "gabarito": "C",
+     "comentario": "C é correta: a base pode ser posicionada por critérios de ajuste, desde que situada no intervalo legal e que ajuste e passivo sejam demonstrados. A e B tornam a regra absoluta; D omite transparência; E confunde o dever de fornecer dados com a responsabilidade técnica. Base: Portaria MTP nº 1.467/2022, art. 47, §§ 1º a 3º.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 47, §§ 1º a 3º"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "A base deve estar posicionada entre ___ e ___ do exercício da avaliação.",
+     "opcoes": [
+      "julho",
+      "dezembro",
+      "janeiro",
+      "março"
+     ],
+     "respostas": [
+      "julho",
+      "dezembro"
+     ],
+     "explicacao": "O art. 47, § 1º, define a janela para a avaliação anual de data focal em 31 de dezembro.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 47, § 1º"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Se houver ajuste cadastral até a data focal, o relatório demonstra o critério e a adequação do ___.",
+     "opcoes": [
+      "passivo atuarial",
+      "orçamento de pessoal",
+      "cadastro eleitoral",
+      "plano de investimentos"
+     ],
+     "respostas": [
+      "passivo atuarial"
+     ],
+     "explicacao": "Ajuste de base é permitido com adequação do passivo e transparência no relatório.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 47, § 2º"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize o ciclo de tratamento de uma base incompleta.",
+     "itens": [
+      "Solicitar dados a todos os poderes, órgãos e entidades",
+      "Validar abrangência, atualização, amplitude e consistência",
+      "Definir e demonstrar eventual ajuste e efeito no passivo",
+      "Registrar lacunas e providências corretivas para o próximo ciclo"
+     ],
+     "explicacao": "O ciclo começa com cobertura institucional, segue com validação e tratamento técnico e termina com trilha de correção.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 47, §§ 2º–5º"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Completude",
+       "informação suficiente para dimensionar custos e compromissos"
+      ],
+      [
+       "Atualização",
+       "posição temporal e vigência dos dados"
+      ],
+      [
+       "Consistência",
+       "coerência entre campos e registros"
+      ],
+      [
+       "Trilha corretiva",
+       "providências adotadas para falhas anteriores"
+      ]
+     ],
+     "explicacao": "Os conceitos ajudam a traduzir o controle qualitativo exigido para a base e o relatório.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 47, § 5º"
+    }
+   ]
+  },
+  {
+   "id": "cginv-gestao-atuarial-2-1-3",
+   "titulo": "Plano de custeio e equacionamento do déficit",
+   "microconteudo": "O QUE A BANCA COBRA:\nO núcleo é encadear resultado atuarial, plano de custeio, autorização legal e monitoramento. Sem cadernos públicos classificados do CGINV III, não se inventa frequência. A armadilha mais produtiva para o estudo é tratar déficit como sinônimo de “subir contribuição” sem avaliar causas e alternativas, ou tomar a proposta do atuário como obrigação já implementada. É preciso separar quem calcula, quem propõe, quem aprecia, quem legisla e quem monitora.\n\nENTENDA:\nO plano de custeio traduz a avaliação em fontes de financiamento para sustentar o plano de benefícios. A avaliação deve indicar a cobertura do custo normal e do custo suplementar (art. 52). O custo normal corresponde ao custeio corrente dos benefícios segundo o regime financeiro e método adotados; o suplementar integra o equacionamento de insuficiências atuariais. O cálculo precisa considerar critérios que preservem equilíbrio, características do método, prudência das hipóteses e qualidade cadastral (art. 52, parágrafo único). O plano de custeio não é simplesmente uma alíquota escolhida pelo orçamento: precisa corresponder ao custo projetado e às obrigações do RPPS.\n\nNo art. 53, a proposta deve cobrir custos de todos os benefícios e contemplar corretamente a taxa de administração, demonstrar viabilidade orçamentária, financeira e fiscal e financiar integralmente o custo total apurado. Contribuições patronais normais e suplementares podem ser diferenciadas por massas com critérios legais de elegibilidade, desde que haja equidade e financiamento integral. Em caso de segregação de massas, a contribuição patronal pode diferir entre Fundo em Repartição e Fundo em Capitalização. O conselho deliberativo aprecia propostas de alteração; para contribuição suplementar diferenciada por massa, aplica-se critério de rateio dos ativos garantidores. A taxa administrativa precisa ser dimensionada para impedir que contribuições destinadas aos benefícios sejam desviadas à administração (art. 53, I–V e §§ 1º–3º).\n\nConsidere o RPPS de Boa Esperança, com data focal em 31/12/2025. A avaliação concluída em 2026 identificou majoração necessária das contribuições. O art. 54 determina implementação por lei do ente, que deve ser editada, publicada e encaminhada à SPREV e ser exigível até 31/12/2026. O cronograma deve respeitar o processo orçamentário e, se houver majoração de contribuições, a publicação deve observar a anterioridade prevista no art. 9º, I. A data limite não significa que a contribuição possa incidir sem aguardar anterioridade; também não autoriza ignorar trâmites legislativos. Para uma data focal em 31/12/2026, o exercício seguinte termina em 31/12/2027. Esse cálculo temporal aparece com frequência em exercícios autorais porque a expressão “exercício seguinte” pode ser confundida com doze meses contados da assinatura.\n\nSe a avaliação apura déficit atuarial, devem ser adotadas medidas para equacioná-lo. O art. 55 admite: plano de amortização por contribuições suplementares, como alíquotas ou aportes mensais preestabelecidos, inclusive ambas as formas; segregação da massa; aporte de bens, direitos e ativos nos critérios do art. 63; e ajustes às regras de concessão, cálculo e reajustamento de benefícios nos termos do art. 164. A redação atual do inciso I decorre da Portaria MPS nº 2.010/2025. Uma apostila antiga que apresente somente alíquotas ou somente aportes não deve ser reproduzida como se a lista não tivesse sido atualizada.\n\nA escolha não pode ser feita por preferência política abstrata. O Relatório da Avaliação Atuarial identifica as causas do déficit a partir do balanço de ganhos e perdas, apresenta cenários e impactos e propõe plano que será estabelecido em lei. Complementarmente, devem ser melhorados processos de benefícios, gestão integrada de ativos e passivos e controle de riscos atuariais (art. 55, §§ 1º–2º). A proposta é apreciada pelo conselho deliberativo e o estudo que a fundamenta deve ser disponibilizado aos beneficiários pela unidade gestora (§ 5º). O plano só é considerado implementado a partir de lei do ente, observado o prazo do art. 54 (§ 6º). Assim, apreciação não equivale a aprovação executiva, e relatório técnico não substitui lei.\n\nUm caso: em 2026, Boa Esperança apura déficit de R$ 42 milhões. Uma previsão de royalties variáveis é oferecida como única receita de amortização. O plano não deve converter fluxo incerto em contribuição suplementar mensal de valor não predeterminado sem analisar a modalidade jurídica apropriada. Pode-se avaliar o aporte de direito ou ativo dentro do art. 63, com estudo e formalização exigidos, mas isso é diferente de uma contribuição suplementar que precisa ser valor preestabelecido. O Informativo GESCON de setembro de 2026 considerou possível cessão de direito sobre parcela futura de royalties, sob condições de lei específica, avaliação atuarial, estudo técnico e viabilidade econômico-financeira, mas considerou inadequada a mera vinculação de percentual variável para o plano de amortização dos arts. 55, I, e 56. É exemplo de por que classificar corretamente a medida muda o teste de requisitos.\n\nDepois de instituído, o custeio deve ser monitorado em várias linhas. O ente avalia impacto orçamentário, financeiro e fiscal e mitiga risco de descumprimento. A unidade gestora confere bases de cálculo, contribuições e aportes recebidos, cobra principal e acréscimos legais em atrasos e comunica descumprimento aos controles e ao Ministério Público competentes. Os conselhos deliberativo e fiscal verificam mensalmente a regularidade dos repasses (art. 54, § 2º). Os órgãos devem permitir acesso às folhas e aos comprovantes de repasse (§ 3º). Para o comitê e o dirigente, olhar apenas a carteira de investimentos sem verificar o fluxo de contribuições e a execução do plano deixa incompleta a governança atuarial.\n\nO equilíbrio também exige disciplina para reduzir custeio. A redução de alíquotas ou aportes precisa observar critérios prudenciais do art. 65 e ser amparada por avaliação e viabilidade, em vez de reação a rentabilidade pontual ou a um mês de arrecadação alta (art. 53, V). O art. 25 mantém a responsabilidade do ente por insuficiências financeiras. Logo, equacionar não é “zerar déficit no papel”, transferir risco ao segurado por ato informal, nem usar rendimento esperado como substituto de fonte legal. O objetivo é plano sustentável, financiável e acompanhado no tempo.\n\nDOUTRINA:\nEm termos de finanças previdenciárias, plano de custeio coerente conecta compromissos estimados, método de financiamento, alíquotas e aportes realizáveis no orçamento. Testar sustentabilidade requer cenários, comparação de custos e análise de sensibilidade: uma medida pode reduzir valor presente do déficit e, ao mesmo tempo, pressionar liquidez ou capacidade fiscal. Essa leitura complementa a norma, que exige viabilidade e prudência e inclui gestão de ativos e passivos. A ficha M-12 atribuída ao tópico contém material sobre investimentos, não bibliografia atuarial especializada, e a apostila do projeto não traz autor, edição e páginas suficientes para citação doutrinária completa. Para evitar referência inventada, a análise é autoral e a checagem bibliográfica foi encaminhada à revisão jurídica/pedagógica.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nO Informativo GESCON MPS de setembro/2026 resume a resposta GESCON L851461/2026: cessão de direito sobre fluxo futuro de royalties pode ser enquadrada como aporte de direito/ativo nos arts. 55, III, e 63, sob requisitos de lei específica e estudos; mera vinculação de percentual variável não serve como plano de amortização com valores preestabelecidos. O informativo também reproduz o entendimento do Parecer nº 00365/2026/CONJUR-MPS/CGU/AGU, GESCON de setembro/2026, de que o plano de equacionamento deve ser instituído em lei e que alterações de alíquotas ou aportes dependem de parâmetros objetivos e autorização normativa para eventual decreto. São orientações administrativas, não julgados judiciais vinculantes. A norma-base é Portaria MTP nº 1.467/2022, arts. 52–55, com alterações posteriores.\n\nPEGADINHAS:\n1. A avaliação propõe o custeio; a proposta não se torna obrigação legal sem implementação exigida.\n2. A lei do plano com majoração deve estar editada, publicada e encaminhada à SPREV, exigível até 31/12 do exercício seguinte à data focal (art. 54).\n3. Conselho aprecia; lei do ente implementa o plano de equacionamento (art. 55, §§ 5º–6º).\n4. A redação atual admite alíquotas, aportes mensais preestabelecidos ou ambas as formas (art. 55, I, redação 2025).\n5. Receita variável futura não se confunde automaticamente com aporte mensal de valor preestabelecido.\n6. Conselho deliberativo e fiscal verificam repasses mensalmente; ente e unidade gestora têm obrigações próprias (art. 54, § 2º).\n\nESQUEMA:\nAvaliação → custo normal + suplementar (art. 52).\nProposta → cobertura, viabilidade, equidade e prudência (art. 53).\nMajoração → lei e anterioridade; exigível até 31/12 do exercício seguinte (art. 54).\nDéficit → amortização, segregação, aporte elegível ou ajustes de benefícios (art. 55).\nGovernança → conselho aprecia; lei implementa; unidade gestora publica estudo e monitora; conselhos verificam repasses mensalmente.\n\nLIGAÇÕES:\nConecta-se ao diagnóstico e à avaliação atuarial anual (arts. 25–26), à base cadastral de qualidade (art. 47), à análise de viabilidade do custeio (art. 53 c/c art. 64), ao aporte de ativos (art. 63) e ao acompanhamento integrado de ativos e passivos (arts. 67–68).",
+   "flashcards": [
+    {
+     "frente": "O que o plano de custeio deve cobrir segundo a avaliação?",
+     "verso": "Os custos normal e suplementar do plano de benefícios.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 52"
+    },
+    {
+     "frente": "Que prova temporal vale para majoração indicada na avaliação com data focal 31/12/2025?",
+     "verso": "Implementação por lei e exigibilidade até 31/12/2026, observada a anterioridade.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 54, caput e § 1º"
+    },
+    {
+     "frente": "Quais modalidades de amortização prevê hoje o art. 55, I?",
+     "verso": "Alíquotas suplementares, aportes mensais preestabelecidos ou ambas as formas.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 55, I, redação da Portaria MPS nº 2.010/2025"
+    },
+    {
+     "frente": "O conselho deliberativo implementa sozinho o plano de equacionamento?",
+     "verso": "Não. Aprecia a proposta; a implementação depende de lei do ente.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 55, §§ 5º–6º"
+    },
+    {
+     "frente": "Quem verifica mensalmente a regularidade dos repasses?",
+     "verso": "Os conselhos deliberativo e fiscal do RPPS.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 54, § 2º, III"
+    },
+    {
+     "frente": "Como diferenciar aporte mensal de receita variável futura?",
+     "verso": "O aporte do plano de amortização tem valor mensal preestabelecido; fluxo variável exige enquadramento e estudo próprios.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, arts. 55, I, e 63"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O plano de custeio proposto deve cobrir custos normal e suplementar e, quando indicar majoração, ser implementado por lei editada, publicada e encaminhada à SPREV, exigível até 31 de dezembro do exercício seguinte à data focal.",
+     "gabarito": "C",
+     "comentario": "Correto. A avaliação indica custeio e a majoração segue a forma e o limite temporal do art. 54, sem afastar anterioridade e processo orçamentário. Base: Portaria MTP nº 1.467/2022, arts. 52 e 54, caput e § 1º.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, arts. 52 e 54, caput e § 1º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "O déficit atuarial pode ser equacionado por decisão administrativa do conselho, sem lei do ente, se o relatório do atuário for favorável.",
+     "gabarito": "E",
+     "comentario": "Errado. O conselho aprecia a proposta, mas o plano de equacionamento somente é considerado implementado quando estabelecido por lei do ente. Base: Portaria MTP nº 1.467/2022, art. 55, §§ 5º e 6º.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 55, §§ 5º e 6º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Um plano de amortização pode usar contribuições suplementares em alíquotas, aportes mensais preestabelecidos ou ambas as formas, nos termos vigentes.",
+     "gabarito": "C",
+     "comentario": "Correto. A redação atual do art. 55, I, admite alíquotas suplementares, aportes mensais com valores preestabelecidos ou ambas as formas. Base: Portaria MTP nº 1.467/2022, art. 55, I, com redação da Portaria MPS nº 2.010/2025.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 55, I, com redação da Portaria MPS nº 2.010/2025"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Após a implementação do plano de custeio, os conselhos deliberativo e fiscal precisam verificar mensalmente os repasses; o conselho fiscal, sozinho, pode fazê-lo apenas uma vez por ano.",
+     "gabarito": "E",
+     "comentario": "Errado. A norma atribui aos conselhos deliberativo e fiscal verificação mensal da regularidade dos repasses; não autoriza reduzir a frequência para anual nem concentrar a função em apenas um conselho. Base: Portaria MTP nº 1.467/2022, art. 54, § 2º, III.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 54, § 2º, III"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "A avaliação de Vale Verde, com data focal em 31/12/2025, indicou majoração de contribuição. Qual é o marco temporal do art. 54 para implementação e exigibilidade?",
+     "alternativas": {
+      "A": "A lei pode ser publicada até 31/12/2027, pois se contam dois exercícios completos.",
+      "B": "A majoração é exigível no mesmo dia da avaliação, ainda que não haja lei.",
+      "C": "O conselho deliberativo fixa diretamente a alíquota em até 90 dias.",
+      "D": "O plano deve ser implementado por lei do ente, editada, publicada e encaminhada à SPREV, e ser exigível até 31/12/2026, com respeito à anterioridade e aos prazos orçamentários.",
+      "E": "Basta enviar a proposta ao atuário, sem lei ou publicação."
+     },
+     "gabarito": "D",
+     "comentario": "D é correta: o exercício seguinte à data focal de 2025 termina em 31/12/2026. A acrescenta exercício; B dispensa lei; C desloca competência; E não implementa o plano. A anterioridade aplicável continua obrigatória. Base: Portaria MTP nº 1.467/2022, art. 54, caput e § 1º.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 54, caput e § 1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Relatório de Pedra Clara apura déficit e recomenda amortização. Qual sequência traduz as salvaguardas legais essenciais?",
+     "alternativas": {
+      "A": "Aumentar a carteira de risco e presumir que a rentabilidade eliminará o déficit.",
+      "B": "Identificar causas com balanço de ganhos e perdas, apresentar cenários e impactos, propor medida de equacionamento, submeter à apreciação do conselho e estabelecer o plano em lei, com divulgação do estudo aos beneficiários.",
+      "C": "O conselho aprova a hipótese atuarial e substitui o atuário.",
+      "D": "Registrar apenas a diferença entre ativos e benefícios sem demonstrar as causas.",
+      "E": "Aprovar um plano sem divulgar estudo nem avaliar impactos."
+     },
+     "gabarito": "B",
+     "comentario": "B é correta. O relatório identifica causas, apresenta cenários/impactos e propõe plano; o conselho aprecia, a unidade gestora disponibiliza estudo aos beneficiários e o plano só se implementa por lei. A confunde rentabilidade com equacionamento; C troca papéis; D e E omitem requisitos expressos. Base: Portaria MTP nº 1.467/2022, art. 55, §§ 2º, 5º e 6º.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 55, §§ 2º, 5º e 6º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "O plano de custeio proposto para Santa Aurora cobre benefícios, mas não demonstra impacto fiscal e a contribuição suplementar do ente é diferenciada entre massas. O que precisa ser ajustado?",
+     "alternativas": {
+      "A": "Nada: estudo atuarial dispensa viabilidade do ente.",
+      "B": "Apenas apresentar rentabilidade esperada da carteira.",
+      "C": "Demonstrar viabilidade orçamentária, financeira e fiscal; se diferenciar contribuições por massa, comprovar equidade e financiamento integral do custo total, com rateio dos ativos garantidores para contribuição suplementar.",
+      "D": "Retirar do cálculo o custo suplementar.",
+      "E": "Substituir a proposta pela taxa de administração."
+     },
+     "gabarito": "C",
+     "comentario": "C é correta. O art. 53, II, requer demonstração de viabilidade; o inciso III condiciona diferenciação por massa à equidade e ao financiamento integral, e o § 2º prevê rateio dos ativos garantidores para a contribuição suplementar. A, B, D e E deixam lacunas regulatórias e técnicas. Base: Portaria MTP nº 1.467/2022, art. 53, II–III e § 2º.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 53, II–III e § 2º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "A prefeitura pretende reduzir aportes suplementares porque as receitas de um ativo vinculado superaram a projeção durante dois meses. A avaliação anual ainda não reviu o custeio. Qual é a resposta mais adequada?",
+     "alternativas": {
+      "A": "Reduzir imediatamente por ordem do gestor, pois qualquer receita acima da projeção autoriza redução.",
+      "B": "Transferir recursos de contribuições para despesas administrativas.",
+      "C": "Dispensar análise fiscal, financeira e atuarial porque se trata de aporte.",
+      "D": "Atribuir ao conselho fiscal a edição de lei municipal.",
+      "E": "Não reduzir automaticamente: revisão com redução de alíquotas ou aportes deve observar os critérios prudenciais, a avaliação atuarial, as regras legais e a apreciação devida."
+     },
+     "gabarito": "E",
+     "comentario": "E é correta. A redução deve seguir os critérios prudenciais do art. 65 e ser sustentada por análise atuarial; mudanças no custeio e no equacionamento não decorrem automaticamente de oscilação temporária. A cria autorização automática; B viola a segregação da taxa administrativa; C ignora viabilidade; D troca competências. Base: Portaria MTP nº 1.467/2022, arts. 53, V, 54 e 55, §§ 5º–6º.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, arts. 53, V, 54 e 55, §§ 5º–6º"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "A avaliação indica custeio para o custo ___ e o custo ___.",
+     "opcoes": [
+      "normal",
+      "suplementar",
+      "administrativo",
+      "aleatório"
+     ],
+     "respostas": [
+      "normal",
+      "suplementar"
+     ],
+     "explicacao": "O art. 52 exige plano de custeio que cubra as duas categorias do plano de benefícios.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 52"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "O plano de equacionamento só é considerado implementado quando estabelecido em ___ do ente federativo.",
+     "opcoes": [
+      "lei",
+      "ata de reunião",
+      "portaria da unidade gestora",
+      "parecer do atuário"
+     ],
+     "respostas": [
+      "lei"
+     ],
+     "explicacao": "A apreciação do conselho e o relatório não substituem o requisito formal de lei.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 55, §§ 5º–6º"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize o processo de resposta a déficit atuarial.",
+     "itens": [
+      "Apurar causas e ganhos/perdas no relatório atuarial",
+      "Comparar cenários e impactos das medidas possíveis",
+      "Submeter proposta e estudo à apreciação do conselho e informar beneficiários",
+      "Instituir plano por lei e acompanhar execução e repasses"
+     ],
+     "explicacao": "A decisão parte do diagnóstico técnico, passa por avaliação institucional e lei, e requer monitoramento continuado.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, arts. 54–55"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Custo normal",
+       "financiamento regular do plano pelo método escolhido"
+      ],
+      [
+       "Custo suplementar",
+       "parcela voltada ao equacionamento atuarial"
+      ],
+      [
+       "Apreciação do conselho",
+       "análise da proposta de alteração do custeio"
+      ],
+      [
+       "Lei do ente",
+       "forma de implementação do plano de déficit"
+      ]
+     ],
+     "explicacao": "Os pares diferenciam componente financeiro, função deliberativa e requisito legal.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, arts. 52–55"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,597 @@
+{
+ "assunto": "Direito Penal — Crimes contra a pessoa (TJSC Pareto 5.38)",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 (Código Penal compilado e legislação correlata conferidos no Planalto; precedentes consultados nos portais oficiais)",
+ "origem": "2026-11-23_banco-penal-crimes-contra-a-pessoa-pareto01_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "tjsc-penal-pessoa-homicidio-feminicidio-1",
+   "titulo": "Homicídio, feminicídio e novas figuras penais",
+   "microconteudo": "O QUE A BANCA COBRA:\nA C-08 encontrou três itens relacionados à tutela penal da vida em provas FGV de MPES/MPRJ: um sobre culpa no homicídio, um sobre homicídio em escola e um sobre feminicídio autônomo. A amostra é pequena e de concursos do Ministério Público, portanto não permite calcular a frequência para juiz substituto do TJSC. Ela sinaliza cobranças de aplicação: identificar o resultado e o elemento subjetivo, separar forma qualificada de majorante e usar a redação vigente no momento do fato.\n\nENTENDA:\nO art. 121 do Código Penal parte do núcleo “matar alguém”. No homicídio doloso, a intenção de matar pode ser direta ou eventual; no culposo, o resultado decorre de imprudência, negligência ou imperícia sem assunção do risco. A fronteira entre dolo eventual e culpa consciente depende da prova sobre a atitude do agente diante do risco, e não de uma etiqueta abstrata. A consumação exige morte; iniciada a execução com dolo homicida, a não ocorrência do resultado por circunstância alheia pode configurar tentativa, conforme CP, art. 14, II.\n\nO homicídio simples tem pena de seis a vinte anos. O privilegiado do §1º admite redução de um sexto a um terço quando o agente atua por relevante valor social ou moral, ou sob domínio de violenta emoção logo após injusta provocação. O homicídio qualificado do §2º tem pena de doze a trinta anos e inclui, entre outras, paga/promessa de recompensa, motivo torpe ou fútil, meio cruel, recurso que dificulta a defesa e finalidade de assegurar outro crime. Privilégio e qualificadora podem coexistir quando a qualificadora for objetiva e a circunstância privilegiadora for subjetiva; a compatibilidade concreta precisa respeitar os fundamentos de cada uma.\n\nA legislação recente tornou indispensável conferir a data do fato. A Lei 14.994/2024 retirou o feminicídio da lista de qualificadoras do art. 121 e criou o tipo autônomo do art. 121-A: matar mulher por razões da condição do sexo feminino. A lei descreve essas razões quando há violência doméstica e familiar ou menosprezo/discriminação à condição de mulher. A pena é de vinte a quarenta anos. As causas do §2º aumentam-na de um terço até a metade, por exemplo quando a vítima está grávida, nos três meses posteriores ao parto, é menor de 14 ou maior de 60 anos, quando há presença física ou virtual de ascendente/descendente ou descumprimento de medidas protetivas especificadas na Lei Maria da Penha. O concurso de pessoas não impede a comunicação das elementares previstas no §1º, conforme o §3º. Não se deve copiar para fatos posteriores a 2024 o antigo art. 121, §2º, VI.\n\nEm 2026, o Código compilado passou a prever ainda o vicaricídio (art. 121-B): matar descendente, ascendente, dependente, enteado ou pessoa sob guarda ou responsabilidade direta da mulher, com finalidade específica de lhe causar sofrimento, punição ou controle, no contexto de violência doméstica e familiar. O tipo exige esse propósito especial; matar parente da mulher por motivo diverso não basta, por si só, para preencher o dispositivo. A pena é de vinte a quarenta anos, com aumento de um terço até a metade em hipóteses legais. A Lei 15.384/2026 também incluiu o vicaricídio no rol dos crimes hediondos. O art. 121, §2º-D, também prevê a pena de vinte a quarenta anos para homicídio doloso ligado ao contexto de organização criminosa ultraviolenta, grupo paramilitar ou milícia descrito no próprio texto. Essas figuras recentes não se confundem entre si nem autorizam analogia incriminadora.\n\nO homicídio cometido nas dependências de instituição de ensino está no art. 121, §2º, X, com pena de doze a trinta anos. O §2º-C prevê aumentos específicos se a vítima tiver deficiência/doença limitante ou se o autor tiver relação de autoridade ou for professor/funcionário da instituição. Não confunda esse aumento com a qualificadora autônoma de homicídio escolar, nem aplique automaticamente a majorante do homicídio contra menor de 14 anos do §2º-B. Para fatos anteriores à lei nova, devem ser examinadas legalidade, irretroatividade da lei mais grave e eventual retroatividade benéfica (CF, art. 5º, XL; CP, art. 2º).\n\nDOUTRINA:\nA dogmática diferencia o dolo de matar, que caracteriza o homicídio doloso, da culpa com resultado morte, em que falta vontade ou aceitação do resultado. Nas qualificadoras, a doutrina separa motivos subjetivos e modos de execução objetivos, distinção relevante para concurso de qualificadoras e para a compatibilidade com privilégio. A autonomia do feminicídio reorganizou a tipicidade: a razão de gênero deixou de operar como qualificadora do homicídio e passou a integrar tipo próprio, sem eliminar a necessidade de provar os elementos legais. O vicaricídio acrescenta finalidade específica e contexto doméstico-familiar, de modo que não se presume pela relação entre autor e vítima. A ficha M-12 do tópico 38 remete a Cezar Roberto Bitencourt, Rogério Greco e Guilherme de Souza Nucci, mas não informa edição completa, capítulo ou página verificável. Os livros locais não estão disponíveis neste ambiente; por isso, apresento síntese autoral, sem citações literais ou paginação fabricada, para complementação bibliográfica pela Manus.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nO STF, na ADPF 779/DF, declarou inconstitucional a tese da legítima defesa da honra e proibiu seu uso direto ou indireto nas fases penal e no Tribunal do Júri. O STJ, no AgRg no AgRg no AREsp 2.474.403/RS, reafirmou que motivo torpe e feminicídio têm fundamentos distintos e seu reconhecimento conjunto não implica bis in idem; o precedente foi construído sob redação anterior e deve ser transposto com cuidado após a autonomia do art. 121-A.\n\nPEGADINHAS:\n1. Feminicídio é tipo autônomo no art. 121-A desde a Lei 14.994/2024, não qualificadora atual do art. 121. 2. “Mulher vítima” isoladamente não substitui as razões legais do sexo feminino. 3. Vicaricídio exige finalidade específica de atingir a mulher por meio da vítima e contexto doméstico-familiar; é crime hediondo. 4. Homicídio em dependência escolar é qualificadora; algumas circunstâncias geram aumento próprio no §2º-C. 5. Lei penal mais grave não retroage.\n\nESQUEMA:\nMorte + dolo → homicídio doloso (CP, art. 121); execução sem morte por fator alheio → tentativa (arts. 14, II, 121).\nMorte + violação do dever de cuidado → homicídio culposo (art. 121, §3º).\nRazões de gênero previstas em lei → feminicídio autônomo (art. 121-A); pena-base de 20–40 anos.\nFinalidade de atingir mulher por meio de vítima próxima + contexto doméstico → vicaricídio (art. 121-B).\nFato novo mais grave → não retroage (CF, art. 5º, XL; CP, art. 2º).\n\nLIGAÇÕES:\nLei Maria da Penha e medidas protetivas; tentativa, concurso de agentes e Tribunal do Júri.",
+   "flashcards": [
+    {
+     "frente": "Qual elemento transforma homicídio em feminicídio no art. 121-A?",
+     "verso": "Matar mulher por razões legais de condição do sexo feminino: violência doméstica/familiar ou menosprezo/discriminação.",
+     "dispositivo": "CP, art. 121-A, caput e §1º"
+    },
+    {
+     "frente": "Qual é a faixa de pena do feminicídio e quanto podem aumentar as causas do §2º?",
+     "verso": "Reclusão de 20 a 40 anos; aumentos de um terço até a metade.",
+     "dispositivo": "CP, art. 121-A, caput e §2º"
+    },
+    {
+     "frente": "O que diferencia vicaricídio de homicídio de familiar sem elemento especial?",
+     "verso": "Finalidade de causar sofrimento, punição ou controle à mulher e contexto doméstico-familiar.",
+     "dispositivo": "CP, art. 121-B"
+    },
+    {
+     "frente": "Qual consequência tem a Lei 14.994/2024 para a antiga qualificadora do feminicídio?",
+     "verso": "Foi revogada no art. 121; feminicídio passou a tipo autônomo no art. 121-A.",
+     "dispositivo": "CP, art. 121, §2º, VI (revogado); art. 121-A"
+    },
+    {
+     "frente": "Uma majorante pode ser aplicada retroativamente se a lei é posterior ao fato?",
+     "verso": "Não, se agrava a situação; só lei penal mais benéfica retroage.",
+     "dispositivo": "CF, art. 5º, XL; CP, art. 2º"
+    },
+    {
+     "frente": "O vicaricídio foi incluído no rol dos crimes hediondos?",
+     "verso": "Sim. A Lei 15.384/2026 inseriu o art. 121-B na Lei 8.072/1990.",
+     "dispositivo": "Lei 8.072/1990, art. 1º, I-C; Lei 15.384/2026, art. 4º"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Após a Lei 14.994/2024, o feminicídio permanece como qualificadora prevista no art. 121, §2º, VI, do Código Penal.",
+     "gabarito": "E",
+     "comentario": "Errado. A Lei 14.994/2024 revogou o inciso VI e criou tipo autônomo no art. 121-A. A antiga localização só pode ser relevante para fatos submetidos à lei anterior, observada a sucessão penal.",
+     "dispositivo": "CP, art. 121, §2º, VI; art. 121-A; Lei 14.994/2024"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "No vicaricídio, o vínculo da vítima com uma mulher, sem finalidade de causar-lhe sofrimento, punição ou controle, basta para caracterizar o tipo penal.",
+     "gabarito": "E",
+     "comentario": "Errado. O art. 121-B exige que a morte seja praticada com o fim específico de causar sofrimento, punição ou controle à mulher e no contexto de violência doméstica e familiar; parentesco isolado não preenche esses elementos.",
+     "dispositivo": "CP, art. 121-B"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A morte é elemento de consumação do homicídio; se a execução dolosa é iniciada e o resultado não ocorre por circunstância alheia à vontade do agente, pode haver tentativa.",
+     "gabarito": "C",
+     "comentario": "Correto. O homicídio consuma-se com a morte, e o art. 14, II, define tentativa quando iniciada a execução o crime não se consuma por circunstância alheia à vontade do agente.",
+     "dispositivo": "CP, art. 14, II; art. 121"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "O §2º-C do art. 121 prevê aumentos vinculados a circunstâncias específicas da vítima ou do autor, além da qualificadora do homicídio ocorrido nas dependências de instituição de ensino prevista no §2º, X.",
+     "gabarito": "C",
+     "comentario": "Correto. O §2º, X, qualifica o homicídio ocorrido nas dependências de instituição de ensino; o §2º-C prevê aumentos adicionais ligados às circunstâncias específicas de seus incisos I e II.",
+     "dispositivo": "CP, art. 121, §2º, X, e §2º-C"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 20/10/2026, Caio, no contexto de violência doméstica, mata a companheira durante a gestação, por menosprezo à condição de mulher. Qual classificação inicial corresponde ao texto vigente?",
+     "alternativas": {
+      "A": "Homicídio simples, pois feminicídio continua apenas como qualificadora do art. 121.",
+      "B": "Feminicídio do art. 121-A, com incidência a examinar do aumento legal ligado à gestação.",
+      "C": "Vicaricídio, porque qualquer morte em contexto doméstico atinge indiretamente a mulher.",
+      "D": "Homicídio culposo com agravante de gravidez.",
+      "E": "Lesão corporal seguida de morte, independentemente do dolo."
+     },
+     "gabarito": "B",
+     "comentario": "B é correta: os fatos descrevem feminicídio autônomo e circunstância do art. 121-A, §2º, I. A usa redação revogada; C erra porque a vítima é a própria mulher e não há o especial modo de execução do art. 121-B; D e E contradizem o dolo de matar narrado.",
+     "dispositivo": "CP, art. 121-A, caput, §1º, I e II, e §2º, I"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 2026, Davi mata o filho adulto de sua ex-companheira para puni-la pelo fim do relacionamento, dentro de contexto de violência doméstica. A acusação demonstra o propósito específico de controlar e causar sofrimento à mulher. Qual figura deve ser examinada?",
+     "alternativas": {
+      "A": "Vicaricídio, sem dispensar prova dos elementos do art. 121-B.",
+      "B": "Homicídio privilegiado obrigatório.",
+      "C": "Homicídio culposo, porque o propósito era atingir outra pessoa.",
+      "D": "Ameaça, pois a mulher não morreu.",
+      "E": "Feminicídio, pois a vítima imediata é necessariamente considerada mulher para o tipo."
+     },
+     "gabarito": "A",
+     "comentario": "A é correta: o art. 121-B descreve matar pessoa do círculo legal com finalidade de causar sofrimento, punição ou controle à mulher, no contexto doméstico-familiar. B confunde a vítima imediata do feminicídio; C ignora dolo de matar a vítima; D não corresponde ao resultado; E não há requisito do privilégio.",
+     "dispositivo": "CP, art. 121-B"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 2026, um agente mata dolosamente um desafeto nas dependências de uma escola e, comprovadamente, integra grupo paramilitar no contexto de atuação descrito no art. 121, §2º-D. Qual resposta respeita o texto legal?",
+     "alternativas": {
+      "A": "A escola exclui qualquer outra regra penal aplicável.",
+      "B": "Aplica-se somente homicídio culposo, porque o local é escolar.",
+      "C": "É preciso examinar a qualificadora do §2º, X, e o enquadramento do §2º-D conforme seus requisitos, sem presumir incompatibilidade ou acumulação automática.",
+      "D": "O §2º-C aumenta a pena em dois terços em qualquer homicídio escolar.",
+      "E": "O caso é feminicídio por ter ocorrido em ambiente público."
+     },
+     "gabarito": "C",
+     "comentario": "C é correta: a lei contém hipótese de homicídio qualificado em dependência escolar e figura específica ligada à organização criminosa no §2º-D; o aplicador deve verificar pressupostos e regras de concurso sem inventar exclusão automática. A afirma incompatibilidade sem base; B confunde dolo; D generaliza majorante de circunstâncias específicas; E não há elemento de gênero.",
+     "dispositivo": "CP, art. 121, §2º, X, §2º-C e §2º-D"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 2023, antes da Lei 14.994/2024, uma pessoa matou a companheira por razões de gênero. A lei posterior cria tipo autônomo com pena mais alta. Qual regra intertemporal se aplica?",
+     "alternativas": {
+      "A": "Não existe sucessão de leis penais para crimes contra a vida.",
+      "B": "Aplica-se obrigatoriamente a lei de 2024 porque o julgamento ocorrerá depois.",
+      "C": "A lei penal mais grave não retroage; compara-se a legislação vigente ao tempo do fato e eventual lei posterior mais benéfica.",
+      "D": "A lei mais grave retroage por tutelar a vida.",
+      "E": "A pena nova incide se a denúncia ainda não foi recebida."
+     },
+     "gabarito": "C",
+     "comentario": "C é correta. A lei penal posterior mais severa não retroage; lei posterior só alcança fato anterior se beneficiar o agente. A, B e E confundem data do processo com garantia intertemporal; D nega indevidamente o CP, art. 2º.",
+     "dispositivo": "CF, art. 5º, XL; CP, art. 2º"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O feminicídio é tipo ___ no art. 121-A, e o vicaricídio exige finalidade de causar ___, punição ou controle à mulher.",
+     "opcoes": [
+      "autônomo",
+      "sofrimento",
+      "qualificadora",
+      "vantagem econômica"
+     ],
+     "respostas": [
+      "autônomo",
+      "sofrimento"
+     ],
+     "explicacao": "A Lei 14.994/2024 criou o art. 121-A; o art. 121-B exige a finalidade especial descrita.",
+     "dispositivo": "CP, arts. 121-A e 121-B"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "A Lei penal mais grave não ___; a mais benéfica pode retroagir.",
+     "opcoes": [
+      "retroage",
+      "prescreve",
+      "qualifica",
+      "consuma"
+     ],
+     "respostas": [
+      "retroage"
+     ],
+     "explicacao": "A garantia intertemporal impede aplicar retroativamente lei penal mais severa.",
+     "dispositivo": "CF, art. 5º, XL; CP, art. 2º"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Analise imputação inicial de feminicídio após identificar morte dolosa de mulher.",
+     "itens": [
+      "Verificar se há violência doméstica/familiar ou menosprezo/discriminação à condição de mulher.",
+      "Examinar o tipo autônomo e a pena-base do art. 121-A.",
+      "Checar causas de aumento e a lei vigente na data do fato."
+     ],
+     "explicacao": "A ordem parte dos elementos típicos e depois examina consequências e sucessão temporal.",
+     "dispositivo": "CP, art. 121-A; CP, art. 2º"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Feminicídio",
+       "Morte de mulher por razões legais de gênero"
+      ],
+      [
+       "Vicaricídio",
+       "Morte instrumental para causar sofrimento à mulher"
+      ],
+      [
+       "Tentativa",
+       "Execução iniciada sem consumação por fator alheio"
+      ],
+      [
+       "Homicídio escolar",
+       "Qualificadora do art. 121, §2º, X"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tjsc-penal-pessoa-lesoes-suicidio-2",
+   "titulo": "Lesões corporais, violência e induzimento ao suicídio",
+   "microconteudo": "O QUE A BANCA COBRA:\nO conjunto C-08 examinado não permite afirmar quantas questões de lesão corporal ou induzimento ao suicídio apareceram em provas de juiz. Nos itens penais correlatos, a banca pede análise de elemento subjetivo, resultado e lei especial. Para enfrentar esse tópico, comece pela conduta e pelo dolo, classifique o resultado médico-legal e confira as alterações legislativas recentes, em vez de deduzir a pena apenas da aparência da lesão.\n\nENTENDA:\nO art. 129 do Código Penal protege a integridade corporal e a saúde. A lesão simples do caput é ofender a integridade corporal ou a saúde de outrem. O §1º descreve lesão grave: incapacidade para ocupações habituais por mais de trinta dias, perigo de vida, debilidade permanente de membro, sentido ou função e aceleração de parto. O §2º prevê lesão gravíssima: incapacidade permanente para o trabalho, enfermidade incurável, perda ou inutilização de membro, sentido ou função, deformidade permanente ou aborto. A expressão “grave” do §1º não é sinônimo de gravíssima do §2º; incapacidade temporária para ocupações habituais tampouco equivale automaticamente à incapacidade permanente para trabalho.\n\nSe resulta morte, mas as circunstâncias evidenciam que o agente não quis o resultado nem assumiu o risco, examina-se a lesão corporal seguida de morte do §3º, figura preterdolosa: dolo na lesão e culpa no resultado mais grave. Se houver dolo de matar, mesmo eventual, o ponto de partida é homicídio, não o §3º. Na lesão culposa, a infração do dever objetivo de cuidado e o nexo precisam ser demonstrados; o resultado isolado não comprova culpa. As formas privilegiadas e substituições dos parágrafos seguintes devem ser aplicadas apenas quando os fatos preencherem sua hipótese textual.\n\nA violência doméstica aparece no §9º, que abrange relações familiares, domésticas ou de coabitação/hospitalidade descritas em lei; o §13 trata lesão contra mulher por razões da condição do sexo feminino e prevê pena própria. Não é necessário que a vítima coabite atualmente com o agressor para que a Lei Maria da Penha possa incidir: o contexto e as relações protegidas pela Lei 11.340/2006 devem ser examinados conforme seus arts. 5º e 7º. A Súmula 542 do STJ estabelece que a ação penal relativa ao crime de lesão corporal resultante de violência doméstica contra a mulher é pública incondicionada. Isso não converte automaticamente em ação pública incondicionada todo crime de ameaça ou perseguição; cada tipo mantém sua regra processual.\n\nO art. 122 pune induzir ou instigar alguém a suicidar-se ou praticar automutilação, ou prestar auxílio material para tanto. A redação após a Lei 13.968/2019 permite reconhecer o crime sem exigir que a vítima morra: a pena básica é reclusão de seis meses a dois anos. Resultando lesão grave/gravíssima, há faixa de um a três anos; consumado o suicídio ou ocorrendo morte por automutilação, dois a seis anos, com causas de aumento previstas nos parágrafos. O julgador deve distinguir influência moral (induzimento/instigação) de contribuição material (auxílio), verificar nexo e resultado e observar hipóteses de vulnerabilidade previstas na lei. A vítima que tenta suicidar-se não é autora de crime.\n\nAs formas de lesão relacionadas a instituições de ensino e agentes públicos foram alteradas pela Lei 15.159/2025; a Lei 15.455/2026 modificou o texto do §9º, e a Lei 15.358/2026 introduziu regras relacionadas à criminalidade organizada violenta. No §12 do art. 129, a lesão dolosa praticada nas dependências escolares gera aumento; certas características da vítima ou do autor elevam o patamar. Não se deve usar redação antiga nem transportar para lesão a majorante do homicídio escolar. Em toda sucessão legislativa, aplique a lei vigente no fato, salvo posterior mais benéfica.\n\nDOUTRINA:\nA classificação da lesão por resultado exige avaliar o elemento subjetivo em relação à conduta e ao resultado. Na lesão seguida de morte, a estrutura preterdolosa limita a responsabilidade: não pode haver dolo ou aceitação do risco de matar; caso contrário, o tipo de homicídio deve ser analisado. A distinção médico-legal entre lesão grave e gravíssima serve à subsunção, mas o juiz deve motivar como os fatos provados correspondem às categorias legais. No art. 122, a autonomia da conduta de induzir, instigar ou auxiliar protege a liberdade de autodeterminação e a vida, com respostas agravadas pelo resultado. A ficha doutrinária M-12 nº 38 não traz dados bibliográficos completos nem páginas para este recorte; não incluo citação literal ou referência paginada sem verificação.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nA Súmula 542/STJ define como pública incondicionada a ação penal por lesão corporal decorrente de violência doméstica contra mulher. A Súmula 536/STJ afasta transação penal e suspensão condicional do processo nos delitos sujeitos à Lei Maria da Penha. O STF, na ADC 19/DF, reconheceu a constitucionalidade dos dispositivos centrais da Lei Maria da Penha.\n\nPEGADINHAS:\n1. “Mais de 30 dias” qualifica como grave; a incapacidade permanente para o trabalho é gravíssima. 2. Morte sem dolo de matar pode configurar lesão seguida de morte; havendo dolo homicida, examina-se homicídio. 3. Lesão doméstica contra mulher tem ação pública incondicionada (Súmula 542), mas não se generaliza essa regra a ameaça. 4. O art. 122 não exige morte para sua forma básica. 5. A lei nova mais grave não alcança fato anterior.\n\nESQUEMA:\nArt. 129, §1º → incapacidade >30 dias/perigo de vida/debilidade permanente/parto antecipado = grave.\nArt. 129, §2º → incapacidade permanente/enfermidade incurável/perda/deformidade/aborto = gravíssima.\nLesão dolosa + morte culposa, sem dolo de matar → §3º.\nInduzir/instigar/auxiliar suicídio ou automutilação → art. 122; pena varia conforme resultado.\nViolência doméstica contra mulher → ação pública incondicionada para lesão (Súmula 542/STJ).\n\nLIGAÇÕES:\nLei Maria da Penha, medidas protetivas e feminicídio; dolo, culpa, nexo e crimes preterdolosos.",
+   "flashcards": [
+    {
+     "frente": "Qual prazo de incapacidade integra a lesão corporal grave?",
+     "verso": "Incapacidade para ocupações habituais por mais de 30 dias.",
+     "dispositivo": "CP, art. 129, §1º, I"
+    },
+    {
+     "frente": "Morte após agressão sempre configura lesão seguida de morte?",
+     "verso": "Não. O §3º exige ausência de dolo ou assunção do risco de matar.",
+     "dispositivo": "CP, art. 129, §3º"
+    },
+    {
+     "frente": "A forma básica do art. 122 depende de suicídio consumado?",
+     "verso": "Não. Induzir, instigar ou auxiliar pode consumar o tipo sem morte.",
+     "dispositivo": "CP, art. 122, caput"
+    },
+    {
+     "frente": "Qual é a natureza da ação penal na lesão doméstica contra mulher?",
+     "verso": "Pública incondicionada, conforme Súmula 542 do STJ.",
+     "dispositivo": "STJ, Súmula 542; Lei 11.340/2006"
+    },
+    {
+     "frente": "Lesão com incapacidade permanente para o trabalho é grave ou gravíssima?",
+     "verso": "Gravíssima, na forma do art. 129, §2º, I.",
+     "dispositivo": "CP, art. 129, §2º, I"
+    },
+    {
+     "frente": "A Súmula 542 torna incondicionada também a ação por ameaça?",
+     "verso": "Não. A súmula refere-se à lesão corporal doméstica; cada outro tipo tem regra própria.",
+     "dispositivo": "STJ, Súmula 542; CP, art. 147"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A incapacidade para ocupações habituais por trinta dias exatos configura, por si, a hipótese do art. 129, §1º, I, do Código Penal.",
+     "gabarito": "E",
+     "comentario": "Errado. A lei exige incapacidade por mais de trinta dias; o marco não é “trinta dias ou mais”. A classificação ainda depende da prova da incapacidade habitual.",
+     "dispositivo": "CP, art. 129, §1º, I"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Na lesão corporal seguida de morte, a imputação do resultado pressupõe que o agente não tenha querido a morte nem assumido o risco de produzi-la.",
+     "gabarito": "C",
+     "comentario": "Correto. O art. 129, §3º, exige que as circunstâncias evidenciem ausência de dolo de matar ou de assunção do risco; caso contrário, deve-se analisar homicídio doloso.",
+     "dispositivo": "CP, art. 129, §3º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O crime do art. 122 só se consuma quando a vítima efetivamente morre por suicídio.",
+     "gabarito": "E",
+     "comentario": "Errado. O caput pune induzir, instigar ou prestar auxílio material; a lei prevê formas qualificadas pelo resultado nos §§1º e 2º, de modo que a morte não é requisito da forma básica.",
+     "dispositivo": "CP, art. 122, caput e §§1º–2º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "A ação penal por lesão corporal resultante de violência doméstica contra mulher é pública incondicionada, ainda que leve, conforme orientação sumulada do STJ.",
+     "gabarito": "C",
+     "comentario": "Correto. A Súmula 542/STJ estabelece a natureza pública incondicionada da ação penal para lesão corporal doméstica contra mulher, sem condicionar a conclusão à gravidade leve da lesão.",
+     "dispositivo": "STJ, Súmula 542; Lei 11.340/2006"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em audiência, o laudo aponta que Joana ficou impossibilitada de exercer suas ocupações habituais por 31 dias. Não houve perigo de vida nem sequela permanente. Qual classificação corresponde ao dado descrito?",
+     "alternativas": {
+      "A": "Lesão grave, pois a incapacidade ultrapassou trinta dias.",
+      "B": "Lesão gravíssima, por qualquer incapacidade superior a um mês.",
+      "C": "Lesão seguida de morte, porque houve afastamento laboral.",
+      "D": "Lesão culposa necessariamente.",
+      "E": "Lesão simples, pois não há sequela permanente."
+     },
+     "gabarito": "A",
+     "comentario": "A é correta: 31 dias satisfazem “mais de 30 dias” do §1º, I. B confunde a gravidade com hipóteses permanentes do §2º; C inventa resultado morte; D não decorre da duração; E ignora hipótese legal expressa de lesão grave.",
+     "dispositivo": "CP, art. 129, §1º, I"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Lívia provoca dolosamente uma lesão em Mauro. A perícia demonstra que a lesão causou a morte, mas a prova afasta que ela quisesse matar ou aceitasse esse risco. Qual tipo deve ser examinado primeiro?",
+     "alternativas": {
+      "A": "Homicídio qualificado, porque toda morte após agressão revela dolo eventual.",
+      "B": "Lesão corporal seguida de morte, observados o nexo e os requisitos do art. 129, §3º.",
+      "C": "Homicídio culposo em concurso necessário com lesão simples.",
+      "D": "Apenas lesão leve, pois a intenção era lesionar.",
+      "E": "Induzimento ao suicídio."
+     },
+     "gabarito": "B",
+     "comentario": "B é correta: dolo na lesão e morte não querida nem assumida correspondem à estrutura do §3º, desde que provados o nexo e os demais elementos. A presume dolo; C cria concurso que não decorre do dispositivo; D desconsidera o resultado; E não tem relação com os fatos.",
+     "dispositivo": "CP, art. 129, §3º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Rafael incentiva repetidamente uma pessoa adulta, capaz e sem vulnerabilidade especial a automutilar-se; ela pratica a automutilação, sem lesão grave. Qual enquadramento básico deve ser considerado?",
+     "alternativas": {
+      "A": "Fato atípico, pois não houve suicídio consumado.",
+      "B": "Homicídio tentado automaticamente.",
+      "C": "Induzimento/instigação à automutilação do art. 122, caput, cuja forma básica não exige lesão grave.",
+      "D": "Lesão corporal praticada por Rafael, ainda que ele não tenha tocado a vítima.",
+      "E": "Apenas contravenção de perturbação do sossego."
+     },
+     "gabarito": "C",
+     "comentario": "C é correta: o art. 122 inclui induzir ou instigar a automutilação e não exige resultado grave para a forma básica. A erra a descrição atual; B supõe dolo de matar; D atribui execução física sem base; E ignora o tipo penal específico.",
+     "dispositivo": "CP, art. 122, caput e §1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em relação de violência doméstica, Pedro causa lesão corporal leve à companheira. Ela não representa criminalmente. Qual é a consequência processual conforme o STJ?",
+     "alternativas": {
+      "A": "A ação depende de representação porque toda lesão leve é condicionada.",
+      "B": "O processo fica extinto por falta de representação.",
+      "C": "O Ministério Público só pode atuar se houver reincidência.",
+      "D": "A ação penal é pública incondicionada; a falta de representação não impede a persecução da lesão doméstica contra mulher.",
+      "E": "Aplica-se a regra de ação privada dos crimes contra a honra."
+     },
+     "gabarito": "D",
+     "comentario": "D é correta, conforme Súmula 542/STJ. A e B aplicam regra geral superada para esse contexto; C cria condição inexistente; E confunde lesão com delitos de honra.",
+     "dispositivo": "STJ, Súmula 542; Lei 11.340/2006"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Lesão grave inclui incapacidade habitual por mais de ___ dias; lesão gravíssima inclui incapacidade ___ para o trabalho.",
+     "opcoes": [
+      "30",
+      "permanente",
+      "15",
+      "temporária"
+     ],
+     "respostas": [
+      "30",
+      "permanente"
+     ],
+     "explicacao": "As duas hipóteses aparecem em parágrafos diferentes do art. 129.",
+     "dispositivo": "CP, art. 129, §1º, I, e §2º, I"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "A forma básica do art. 122 pode se configurar sem morte, por induzir, instigar ou prestar auxílio ___.",
+     "opcoes": [
+      "material",
+      "processual",
+      "médico obrigatório",
+      "financeiro ilícito"
+     ],
+     "respostas": [
+      "material"
+     ],
+     "explicacao": "O tipo descreve as três modalidades de contribuição no caput.",
+     "dispositivo": "CP, art. 122, caput"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Classifique uma lesão corporal com resultado morte.",
+     "itens": [
+      "Identificar o dolo ou culpa quanto à lesão inicial.",
+      "Verificar nexo causal e elemento subjetivo quanto à morte.",
+      "Se não havia dolo/assunção do risco de matar, examinar o art. 129, §3º; se havia, analisar homicídio."
+     ],
+     "explicacao": "O resultado morte não define sozinho o tipo; o elemento subjetivo é decisivo.",
+     "dispositivo": "CP, art. 129, §3º; art. 121"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Lesão grave",
+       "Incapacidade habitual >30 dias"
+      ],
+      [
+       "Lesão gravíssima",
+       "Incapacidade permanente para o trabalho"
+      ],
+      [
+       "Lesão seguida de morte",
+       "Sem dolo/assunção do risco de matar"
+      ],
+      [
+       "Súmula 542/STJ",
+       "Ação incondicionada para lesão doméstica contra mulher"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tjsc-penal-pessoa-honra-liberdade-3",
+   "titulo": "Honra, liberdade individual e perseguição",
+   "microconteudo": "O QUE A BANCA COBRA:\nA classificação disponível da C-08 não permite estimar quantas questões da FGV sobre honra ou liberdade individual incidem no TJSC. Para resolver casos, identifique o objeto da ameaça ou da imputação, o meio empregado, a reiteração exigida, a liberdade efetivamente restringida e a regra de ação penal. A banca pode trocar os elementos de calúnia, difamação e injúria ou tratar um episódio isolado como perseguição, que exige conduta reiterada.\n\nENTENDA:\nOs crimes contra a honra protegem dimensões distintas da honra. Calúnia (CP, art. 138) é imputar falsamente a alguém fato definido como crime; admite-se, nos limites legais, exceção da verdade. Difamação (art. 139) é atribuir fato ofensivo à reputação, ainda que não constitua crime; a exceção da verdade tem hipótese mais restrita, especialmente quando se trata de funcionário público e o fato se relaciona ao exercício funcional. Injúria (art. 140) atinge dignidade ou decoro, em regra sem narrar fato determinado. A classificação é pelo conteúdo e pelo destinatário da manifestação, não por seu tom rude. O Código prevê formas qualificadas e alterações recentes, inclusive no tratamento de injúria racial; verifique a redação compilada e não presuma que todo discurso ofensivo tenha o mesmo tipo ou procedimento.\n\nA ameaça (art. 147) consiste em ameaçar alguém, por palavra, escrito, gesto ou meio simbólico, de mal injusto e grave. A seriedade da promessa, a injustiça e a gravidade do mal são avaliadas no contexto; não se exige que a promessa seja executada. A regra geral de ação é representação; desde a Lei 14.994/2024, não depende de representação a hipótese do §1º, quando praticada contra mulher por razões da condição do sexo feminino nos termos do art. 121-A, §1º. Essa exceção é contextual, não transforma toda ameaça contra mulher em ação pública incondicionada.\n\nA perseguição (stalking, art. 147-A) exige perseguir alguém reiteradamente, por qualquer meio, ameaçando sua integridade física ou psicológica, restringindo sua capacidade de locomoção ou invadindo/perturbando sua esfera de liberdade ou privacidade. Um ato isolado pode configurar ameaça, constrangimento ou outro ilícito, mas não preenche por si só a reiteração típica. Há aumento de metade nas hipóteses legais, entre elas vítima criança/adolescente/idosa, mulher por razões de gênero, concurso de pessoas ou emprego de arma. A perseguição não absorve automaticamente crimes praticados durante os atos; o §2º ressalva as penas correspondentes à violência. A ação depende de representação, conforme §3º.\n\nO constrangimento ilegal (art. 146) é constranger alguém, mediante violência ou grave ameaça, ou depois de reduzir sua capacidade de resistência, a não fazer o que a lei permite ou a fazer o que ela não manda. O crime protege a autodeterminação; a exigência é a finalidade de obrigar a vítima a agir ou se abster fora do dever legal. O sequestro ou cárcere privado (art. 148) requer privar alguém da liberdade, ainda que por curto período, e possui formas qualificadas, entre elas duração superior a quinze dias, vítima menor de 18 anos ou finalidade libidinosa. A ameaça pode ser meio de outro delito e o concurso ou a absorção dependem da autonomia e do contexto das condutas, não de regra automática.\n\nA decisão judicial deve preservar liberdade de expressão, honra e devido processo sem converter crítica, relato verdadeiro ou exercício regular de direito em delito por mera antipatia. Em contrapartida, a liberdade de expressão não dá imunidade para imputar falsamente crime ou perseguir reiteradamente alguém. Para o crime contra a honra, examine dolo e tipicidade; para ameaça, a promessa de mal injusto e grave; para perseguição, reiteração e uma das formas de lesão à liberdade/privacidade; para cárcere, privação efetiva da locomoção. A prova deve descrever fatos individualizados, especialmente em manifestações digitais, em que autoria, contexto, alcance e repetição são relevantes.\n\nDOUTRINA:\nA doutrina diferencia honra objetiva (reputação perante terceiros) de honra subjetiva (estima e dignidade individual), distinção que ajuda a separar difamação/calúnia de injúria, sem substituir os elementos legais. Nos crimes de liberdade, o bem jurídico é a autodeterminação ou a liberdade de locomoção; por isso, ameaça não se confunde com a efetiva privação do cárcere, e perseguição demanda reiteração como elementar expressa. A interpretação deve proteger a legalidade estrita e evitar analogia incriminadora, especialmente em comunicações digitais. A ficha M-12 nº 38 não fornece referência completa e paginada específica para esse conjunto; síntese autoral apresentada para conferência da Manus.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nA ADPF 779/DF, do STF, veda a tese da legítima defesa da honra direta ou indireta em qualquer fase penal, inclusive no Júri. Na Lei Maria da Penha, ADC 19/DF e ADI 4.424/DF do STF reconhecem a constitucionalidade do regime protetivo e a natureza pública incondicionada da lesão corporal doméstica; isso não altera por si a regra específica de representação da perseguição do art. 147-A, §3º.\n\nPEGADINHAS:\n1. Calúnia imputa fato definido como crime; difamação atribui fato ofensivo à reputação; injúria ofende dignidade/decoro. 2. A exceção da verdade não é idêntica nos arts. 138 e 139. 3. Ameaça contra mulher só dispensa representação na hipótese legal de razão de gênero. 4. Perseguição exige reiteração; episódio único não basta ao art. 147-A. 5. Sequestro exige privação real da liberdade; ameaça não é sinônimo de cárcere.\n\nESQUEMA:\nFato falsamente imputado como crime → calúnia (art. 138).\nFato ofensivo à reputação → difamação (art. 139); dignidade/decoro → injúria (art. 140).\nPromessa de mal injusto e grave → ameaça (art. 147); representação como regra, ressalva do §1º.\nPerseguição reiterada + ameaça/restrição/invasão da esfera → art. 147-A; representação (§3º).\nViolência/grave ameaça para compelir → constrangimento (art. 146); privação efetiva → art. 148.\n\nLIGAÇÕES:\nLei Maria da Penha e violência psicológica; liberdade de expressão, prova digital e ação penal privada/pública.",
+   "flashcards": [
+    {
+     "frente": "Qual fato distingue calúnia de difamação?",
+     "verso": "Calúnia imputa fato definido como crime; difamação atribui fato ofensivo à reputação.",
+     "dispositivo": "CP, arts. 138 e 139"
+    },
+    {
+     "frente": "Que requisito objetivo distingue injúria dos crimes de calúnia e difamação?",
+     "verso": "Injúria ofende dignidade ou decoro, sem exigir imputação de fato determinado.",
+     "dispositivo": "CP, art. 140"
+    },
+    {
+     "frente": "A perseguição do art. 147-A pode decorrer de um ato isolado?",
+     "verso": "Não. O tipo exige perseguição reiterada e uma das formas legais de violação da liberdade.",
+     "dispositivo": "CP, art. 147-A, caput"
+    },
+    {
+     "frente": "A ameaça contra qualquer mulher independe de representação?",
+     "verso": "Não; a exceção exige razões da condição do sexo feminino nos termos legais.",
+     "dispositivo": "CP, art. 147, caput e §1º; art. 121-A, §1º"
+    },
+    {
+     "frente": "Que elemento define cárcere privado além da ameaça?",
+     "verso": "Privação efetiva da liberdade de locomoção.",
+     "dispositivo": "CP, art. 148, caput"
+    },
+    {
+     "frente": "Qual tese não pode ser usada, nem indiretamente, perante o Júri?",
+     "verso": "Legítima defesa da honra.",
+     "dispositivo": "STF, ADPF 779/DF"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A difamação exige que o agente atribua à vítima fato definido como crime, ao passo que a calúnia pode envolver fato não criminoso.",
+     "gabarito": "E",
+     "comentario": "Errado. A afirmação inverte os conceitos: calúnia envolve fato definido como crime; difamação, fato ofensivo à reputação, ainda que não criminoso.",
+     "dispositivo": "CP, arts. 138 e 139"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "A perseguição do art. 147-A exige reiteração e pode ocorrer por meio digital se houver ameaça à integridade, restrição de locomoção ou invasão/perturbação da liberdade ou privacidade.",
+     "gabarito": "C",
+     "comentario": "Correto. O caput prevê reiteração, qualquer meio e alternativas típicas de violação. Mensagens digitais podem preencher o meio, mas autoria, contexto, reiteração e demais elementos devem ser provados.",
+     "dispositivo": "CP, art. 147-A, caput"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A ação penal por perseguição é pública incondicionada sempre que a vítima é mulher e a conduta se relaciona à condição do sexo feminino.",
+     "gabarito": "E",
+     "comentario": "Errado. O art. 147-A, §3º, estabelece que somente se procede mediante representação e não prevê a exceção de gênero que consta do art. 147, §1º, para ameaça. A regra de um tipo não pode ser transportada para outro.",
+     "dispositivo": "CP, art. 147-A, §3º; art. 147, §1º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "O sequestro ou cárcere privado exige privação da liberdade, enquanto a ameaça pode consumar-se sem que a vítima seja efetivamente impedida de sair.",
+     "gabarito": "C",
+     "comentario": "Correto. O art. 148 tem como núcleo privar alguém da liberdade; o art. 147 descreve a ameaça de mal injusto e grave, sem exigir execução da promessa ou confinamento.",
+     "dispositivo": "CP, arts. 147 e 148"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em grupo de mensagens, Bruno afirma falsamente que Ana desviou dinheiro da associação, imputando fato específico que, se verdadeiro, configuraria crime. Qual tipo contra a honra deve ser analisado?",
+     "alternativas": {
+      "A": "Calúnia, observados falsidade, dolo e demais elementos legais.",
+      "B": "Difamação, porque a imputação envolve fato criminoso.",
+      "C": "Injúria, porque toda ofensa atinge a dignidade subjetiva.",
+      "D": "Ameaça, ainda que não haja promessa de mal futuro.",
+      "E": "Perseguição, mesmo sendo manifestação única."
+     },
+     "gabarito": "A",
+     "comentario": "A é correta: imputar falsamente fato definido como crime corresponde ao art. 138. C é ofensa à dignidade/decoro; B é fato ofensivo à reputação sem exigir natureza criminosa; D exige ameaça de mal injusto e grave; E exige reiteração.",
+     "dispositivo": "CP, art. 138"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Durante três semanas, Marcos envia dezenas de mensagens, segue Paula no trajeto de casa e publica informações para perturbar sua privacidade. Não há violência física. Qual ponto é indispensável para examinar o art. 147-A?",
+     "alternativas": {
+      "A": "A inexistência de violência física exclui o crime.",
+      "B": "A reiteração e a ameaça/restrição/invasão da esfera de liberdade ou privacidade, além da prova de autoria e dolo.",
+      "C": "A consumação de dano patrimonial.",
+      "D": "O confinamento da vítima por mais de quinze dias.",
+      "E": "A promessa expressa de homicídio em todas as mensagens."
+     },
+     "gabarito": "B",
+     "comentario": "B é correta: a perseguição exige reiteração e uma das formas alternativas do caput; violência física não é requisito. A inventa exigência; C trata de outro bem; D corresponde a hipótese de qualificação do cárcere; E restringe indevidamente a ameaça a homicídio.",
+     "dispositivo": "CP, art. 147-A, caput"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 2026, após discussão, um homem promete causar à ex-companheira mal injusto e grave. A acusação demonstra que agiu por menosprezo à condição de mulher. Qual regra processual específica deve ser aplicada ao art. 147?",
+     "alternativas": {
+      "A": "A ação depende sempre de representação, sem exceção.",
+      "B": "A ação é privada, pois todo crime contra honra depende de queixa.",
+      "C": "A ação depende de autorização judicial prévia.",
+      "D": "A hipótese do art. 147, §1º, não depende de representação, pois presentes as razões legais de gênero.",
+      "E": "A regra de ação incondicionada da lesão corporal da Súmula 542/STJ é a única base aplicável."
+     },
+     "gabarito": "D",
+     "comentario": "D é correta: o §1º excepciona a regra geral da representação para ameaça contra mulher por razões da condição do sexo feminino. A ignora a exceção; B confunde ameaça com honra; C cria requisito; E cita súmula de lesão para tipo diverso.",
+     "dispositivo": "CP, art. 147, caput e §1º; art. 121-A, §1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Um vigilante impede, mediante grave ameaça, que um cliente deixe uma sala por dez minutos para forçá-lo a assinar documento que a lei não exige. Qual distinção orienta a análise?",
+     "alternativas": {
+      "A": "A restrição de liberdade nunca é crime se durar menos de quinze dias.",
+      "B": "É exercício regular de direito do vigilante.",
+      "C": "Só existe perseguição, pois houve repetição por dez minutos.",
+      "D": "É ameaça simples, ainda que a violência/grave ameaça tenha sido usada para compelir a ação.",
+      "E": "Pode haver constrangimento ilegal se presentes seus elementos; cárcere privado requer privação da liberdade, sem prazo mínimo de quinze dias para a forma simples."
+     },
+     "gabarito": "E",
+     "comentario": "E é correta: o art. 146 pode incidir sobre coerção para fazer o que a lei não manda; o art. 148 não exige quinze dias para a forma básica, pois esse prazo qualifica a privação. A confunde qualificação com tipicidade; B erra porque o prazo de quinze dias é hipótese de qualificação, não requisito da forma básica; C exige reiteração em sentido diverso; D ignora o constrangimento.",
+     "dispositivo": "CP, arts. 146 e 148, caput e §1º, III"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "A perseguição exige conduta ___; a ameaça pune a promessa de mal injusto e ___.",
+     "opcoes": [
+      "reiterada",
+      "grave",
+      "única",
+      "lícito"
+     ],
+     "respostas": [
+      "reiterada",
+      "grave"
+     ],
+     "explicacao": "A reiteração é elementar do art. 147-A; o art. 147 requer mal injusto e grave.",
+     "dispositivo": "CP, arts. 147 e 147-A"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Calúnia imputa falsamente fato definido como ___; injúria atinge dignidade ou ___.",
+     "opcoes": [
+      "crime",
+      "decoro",
+      "contravenção sempre",
+      "patrimônio"
+     ],
+     "respostas": [
+      "crime",
+      "decoro"
+     ],
+     "explicacao": "A distinção depende do conteúdo da manifestação e do bem jurídico atingido.",
+     "dispositivo": "CP, arts. 138 e 140"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Classifique uma conduta de perseguição digital.",
+     "itens": [
+      "Verificar reiteração e autoria das condutas.",
+      "Identificar ameaça, restrição de locomoção ou invasão/perturbação da liberdade/privacidade.",
+      "Examinar dolo, causas de aumento e representação."
+     ],
+     "explicacao": "O tipo exige primeiro seus elementos objetivos e subjetivos; depois se verificam consequências legais e procedimento.",
+     "dispositivo": "CP, art. 147-A"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Calúnia",
+       "Imputação falsa de fato criminoso"
+      ],
+      [
+       "Difamação",
+       "Fato ofensivo à reputação"
+      ],
+      [
+       "Injúria",
+       "Ofensa à dignidade ou decoro"
+      ],
+      [
+       "Cárcere privado",
+       "Privação efetiva da liberdade"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

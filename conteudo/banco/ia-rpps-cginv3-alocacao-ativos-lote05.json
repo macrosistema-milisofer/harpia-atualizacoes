@@ -1,0 +1,596 @@
+{
+ "assunto": "CP RPPS — Comitê de Investimentos (CGINV III): Alocação de Ativos 12.1",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 (Resolução CMN nº 5.272/2025 e Portaria MTP nº 1.467/2022 consultadas em fontes oficiais em 23/11/2026)",
+ "origem": "2026-11-23_banco-rpps-cginv3-alocacao-ativos-lote05_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "cginv3-alocacao-121-1",
+   "titulo": "Objetivo, benchmark e estilo de gestão",
+   "microconteudo": "O QUE A BANCA COBRA:\nO foco é identificar o que o gestor pretende alcançar e como compara resultado, risco e custo. Gestão ativa tenta superar um referencial por seleção, alocação tática ou ambos; passiva busca acompanhar um índice com erro de aderência e custo controlados; semia­tiva combina exposição próxima ao índice com desvios limitados para buscar retorno incremental. O índice serve como régua coerente com o mandato, não como promessa de rentabilidade nem substituto da meta atuarial. Não há estatística pública aberta do CGINV III para afirmar quantas vezes cada distinção foi cobrada.\n\nENTENDA:\nA estratégia começa pelo passivo e pela finalidade do dinheiro. Um RPPS municipal precisa pagar benefícios em datas previsíveis e preservar solvência; sua carteira deve considerar segurança, rentabilidade, solvência, liquidez, motivação, adequação às obrigações e transparência (Resolução CMN 5.272/2025, art. 1º, § 1º). O retorno desejado não pode ser isolado da capacidade de suportar perdas, do horizonte, da necessidade de caixa, da política de investimentos e das regras de elegibilidade. O art. 5º exige política anual aprovada pelo conselho deliberativo antes da implementação.\n\nNa gestão ativa, o gestor assume risco ativo: a diferença entre os pesos ou exposições da carteira e do benchmark pode gerar desempenho superior ou inferior. A tese deve ser explícita, mensurável e limitada por orçamento de risco, liquidez, concentração e custos. Se o índice sobe 8% e a carteira sobe 10%, o excesso bruto é 2 pontos percentuais; se taxa, giro e custos somarem 0,7 ponto, o excesso líquido cai para 1,3 ponto. A comparação correta ainda exige período compatível, mesma moeda e tratamento coerente de proventos e fluxos. Um resultado superior em uma janela curta não prova habilidade persistente.\n\nNa gestão passiva, busca-se replicar a composição ou o comportamento de um índice. A vantagem esperada é transparência, disciplina e menor dependência de previsões individuais; permanecem risco de mercado, erro de acompanhamento, custos, diferenças de rebalanceamento e risco de liquidez dos componentes. “Passivo” descreve o método relativo ao índice, não ausência de decisão: alguém escolheu o índice, o veículo, o peso, a frequência de rebalanceamento e a aderência ao passivo previdenciário.\n\nA gestão semia­tiva limita a distância em relação ao benchmark, por exemplo, mantendo exposição estrutural indexada e permitindo pequenas posições táticas sob limites. Ela não é uma categoria legal autônoma da Resolução CMN; é uma descrição de processo. O gestor precisa mostrar como controla tracking error, concentração, custos e risco de modelo. Um índice inadequado pode levar uma estratégia passiva a replicar risco incompatível; uma ativa bem-intencionada também pode falhar se ignorar correlação, liquidez ou horizonte.\n\nImagine o RPPS de Serra Clara, com R$ 80 milhões em uma carteira doméstica de renda fixa. O comitê compara um mandato ativo com meta de superar o IMA-B em 0,5 ponto anual e um mandato passivo que acompanha o índice. A decisão não se reduz a escolher o maior retorno passado: deve avaliar duração e indexação dos títulos, descasamento com benefícios, custos totais, capacidade de monitoramento, volatilidade, drawdown, limites da CMN e compatibilidade da estratégia com o estudo de ALM. Se o fluxo de aposentadorias aumenta em 18 meses, liquidez e sensibilidade a juros podem prevalecer sobre uma pequena expectativa de excesso de retorno.\n\nPara definir um mandato, o comitê também deve especificar horizonte de avaliação, tolerância a desvios, métricas e gatilhos de revisão. Se a estratégia ativa fica abaixo do índice durante três meses, isso não exige automaticamente resgate; exige verificar se a tese continua válida, se o risco permanece dentro do orçamento e se houve mudança estrutural no passivo. Rotação excessiva pode transformar uma estratégia de longo prazo em aposta de curto prazo, elevar custos e dificultar a atribuição de resultados. A documentação deve tornar a decisão reproduzível por conselheiros e auditoria.\n\nDOUTRINA:\nEm finanças, a escolha entre gestão ativa e passiva pode ser lida como escolha entre pagar pelos custos de pesquisa e seleção para buscar alfa e aceitar a exposição sistemática de um referencial com custos de replicação. O alfa é retorno residual em relação ao modelo ou benchmark adotado; não deve ser confundido com excesso bruto nem interpretado sem risco e custos. O debate técnico não estabelece que uma modalidade seja sempre superior: depende de eficiência do mercado, custos, capacidade do gestor, mandato e restrições do investidor. A pasta de fichas M-12 disponível não contém uma ficha doutrinária verificável para este tópico e a biblioteca especializada não está neste workspace; por isso não atribuo posição ou página a autor específico.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nNão há precedente judicial específico relevante sobre nomenclatura ativa/passiva/semiativa. Para a governança do RPPS, a Resolução CMN 5.272/2025 exige observância de princípios, diligência, avaliação de riscos e política anual (arts. 1º e 5º); a Portaria MTP 1.467/2022 requer gestão conforme a política, separação de responsabilidades e processo decisório documentado (arts. 86 a 88).\n\nPEGADINHAS:\n1. Superar o benchmark não significa, por si, cumprir a meta atuarial ou pagar benefícios.\n2. Gestão passiva não elimina risco de mercado, erro de aderência, custos nem decisão de alocação.\n3. O benchmark deve representar o mandato e o risco; escolher o índice depois de ver o resultado cria comparação enviesada.\n4. Retorno maior sem medir risco, prazo e custo não demonstra melhor gestão.\n5. Estratégia semia­tiva limita desvios, mas continua exposta a perdas e risco ativo.\n\nESQUEMA:\nPassiva → acompanhar índice → risco de mercado + tracking error + custos.\nAtiva → buscar excesso → risco ativo + custos + possibilidade de underperformance.\nSemia­tiva → núcleo referenciado + desvios limitados → tracking e orçamento de risco.\nRPPS → passivo, liquidez e norma primeiro; benchmark compatível depois.\n\nLIGAÇÕES:\nConecta-se à política de investimentos e governança decisória (Resolução CMN 5.272/2025, art. 5º; Portaria MTP 1.467/2022, arts. 86–90), à teoria moderna das carteiras e à avaliação de desempenho ajustada ao risco.",
+   "flashcards": [
+    {
+     "frente": "Uma carteira superou o benchmark por 1,3 p.p. líquidos. Isso prova que cumpriu a meta atuarial?",
+     "verso": "Não. Benchmark mede desempenho relativo; meta atuarial e obrigações do RPPS exigem análise própria.",
+     "dispositivo": "Resolução CMN nº 5.272/2025, arts. 1º, §§ 1º e 2º, e 5º; Portaria MTP nº 1.467/2022, arts. 86 a 88."
+    },
+    {
+     "frente": "Que risco distingue mais diretamente a gestão ativa da passiva?",
+     "verso": "Risco ativo: desvios da carteira em relação ao benchmark podem gerar excesso ou déficit de retorno.",
+     "dispositivo": "Conceito de finanças; governança conforme Portaria MTP nº 1.467/2022, arts. 86–88"
+    },
+    {
+     "frente": "O que a gestão passiva ainda precisa controlar?",
+     "verso": "Risco de mercado, tracking error, custos, liquidez, rebalanceamento e adequação do índice ao mandato.",
+     "dispositivo": "Resolução CMN nº 5.272/2025, art. 1º, § 1º"
+    },
+    {
+     "frente": "Qual é a pegadinha de escolher o benchmark depois de observar o resultado?",
+     "verso": "A comparação fica enviesada; o referencial deve decorrer do mandato e ser definido previamente.",
+     "dispositivo": "Boa prática de avaliação; Portaria MTP nº 1.467/2022, art. 102"
+    },
+    {
+     "frente": "Gestão semia­tiva é uma classe normativa da Resolução CMN?",
+     "verso": "Não. É descrição de processo com exposição referenciada e desvios ativos limitados.",
+     "dispositivo": "Resolução CMN nº 5.272/2025, arts. 1º e 5º"
+    },
+    {
+     "frente": "Quem aprova a política anual de investimentos do RPPS antes da implementação?",
+     "verso": "O conselho deliberativo ou órgão equivalente.",
+     "dispositivo": "Resolução CMN nº 5.272/2025, art. 5º"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "No RPPS de Serra Clara, uma carteira passiva que acompanha o IMA-B fica imune a perdas causadas por alta das taxas de juros, pois sua gestão não envolve seleção ativa de títulos.",
+     "gabarito": "E",
+     "comentario": "Errado. A replicação do índice continua exposta ao risco de mercado e à sensibilidade dos títulos; o método passivo reduz decisões de seleção, não elimina perdas. Base normativa: Resolução CMN nº 5.272/2025, art. 1º, § 1º.",
+     "dispositivo": "Resolução CMN nº 5.272/2025, art. 1º, § 1º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "O conselho do RPPS de Serra Clara pode aprovar a política anual depois da primeira aplicação, desde que ratifique a estratégia e publique a decisão no mesmo trimestre.",
+     "gabarito": "E",
+     "comentario": "Errado. A política anual deve ser aprovada pelo conselho deliberativo ou órgão equivalente antes de sua implementação; ratificação posterior não satisfaz a anterioridade. Base: Resolução CMN nº 5.272/2025, art. 5º.",
+     "dispositivo": "Resolução CMN nº 5.272/2025, art. 5º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Se a carteira ativa de Serra Clara rende 10% e seu benchmark 8% no mesmo período, o excesso bruto é de 2 pontos percentuais; custos ainda precisam ser considerados para avaliar o excesso líquido.",
+     "gabarito": "C",
+     "comentario": "Correto. A diferença aritmética é 2 p.p.; taxas e demais custos podem reduzir o resultado líquido. A decisão também deve ponderar risco e adequação às obrigações, conforme os princípios do art. 1º, § 1º.",
+     "dispositivo": "Resolução CMN nº 5.272/2025, art. 1º, § 1º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Uma estratégia semia­tiva com desvios pequenos diante do índice ainda exige monitoramento do risco ativo e das perdas potenciais.",
+     "gabarito": "C",
+     "comentario": "Correto. Pequenos desvios ainda geram tracking error e podem concentrar risco; benchmark não limita automaticamente perdas. A unidade gestora mantém controles e processo decisório diligente (Portaria MTP nº 1.467/2022, arts. 86 e 88).",
+     "dispositivo": "Portaria MTP nº 1.467/2022, arts. 86 e 88"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Serra Clara mantém R$ 80 milhões em mandato ativo. O benchmark rendeu 8,0%, a carteira 10,0% e os custos incrementais foram 0,7 p.p. Qual leitura é correta?",
+     "alternativas": {
+      "A": "O excesso bruto foi 2,0 p.p. e o excesso líquido aproximado, 1,3 p.p.",
+      "B": "A carteira excedeu o índice em 2,7 p.p. líquidos.",
+      "C": "O retorno líquido foi 10,7%.",
+      "D": "A carteira cumpriu necessariamente sua meta atuarial.",
+      "E": "Os custos não entram na avaliação porque o benchmark já os incorpora."
+     },
+     "gabarito": "A",
+     "comentario": "A) Correta: 10,0% − 8,0% = 2,0 p.p.; descontando 0,7 p.p., restam cerca de 1,3 p.p. líquidos.\nB) Incorreta: os custos reduzem, não aumentam, o excesso bruto.\nC) Incorreta: subtrair custos de 10% levaria a retorno menor, não maior.\nD) Incorreta: desempenho relativo não demonstra cumprimento da meta atuarial ou compatibilidade com passivos.\nE) Incorreta: custos incrementais devem ser incluídos na avaliação do mandato.",
+     "dispositivo": "Resolução CMN nº 5.272/2025, art. 1º, § 1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "O comitê de Serra Clara compara gestão passiva e semia­tiva para um índice de renda fixa. Qual proposta descreve melhor a semia­tiva?",
+     "alternativas": {
+      "A": "Replicar integralmente o índice sem tolerância a qualquer desvio.",
+      "B": "Manter núcleo próximo ao índice e autorizar desvios táticos dentro de limites de risco e acompanhamento.",
+      "C": "Escolher ativos sem referencial e comparar a carteira somente ao fim do ano.",
+      "D": "Garantir retorno acima do índice por meio de alavancagem irrestrita.",
+      "E": "Substituir a política anual por decisões individuais do gestor."
+     },
+     "gabarito": "B",
+     "comentario": "A) Incorreta: descreve uma forma passiva de replicação, não desvios ativos limitados.\nB) Correta: combina núcleo referenciado e posições ativas sob limites e monitoramento.\nC) Incorreta: não há referencial ex ante nem controle contínuo, elementos necessários à governança.\nD) Incorreta: não existe garantia de excesso de retorno; alavancagem irrestrita contraria prudência e regras aplicáveis.\nE) Incorreta: as decisões permanecem vinculadas à política aprovada e aos controles do RPPS.",
+     "dispositivo": "Resolução CMN nº 5.272/2025, arts. 1º e 5º; Portaria MTP nº 1.467/2022, arts. 86–88"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "O RPPS de Serra Clara precisa pagar benefícios crescentes em 18 meses. O comitê escolhe entre dois mandatos com expectativa de retorno semelhante, mas um deles tem resgate mais lento e alta sensibilidade a juros. Qual procedimento é mais adequado?",
+     "alternativas": {
+      "A": "Escolher o mandato de maior retorno passado, sem olhar a data dos benefícios.",
+      "B": "Tratar o prazo de resgate como irrelevante por se tratar de investimento previdenciário.",
+      "C": "Substituir o estudo de passivos pelo benchmark do mandato.",
+      "D": "Comparar liquidez, fluxos, risco de mercado e compatibilidade com as obrigações antes de alocar.",
+      "E": "Adotar gestão ativa, pois ela elimina descasamentos de caixa."
+     },
+     "gabarito": "D",
+     "comentario": "A) Incorreta: retorno passado isolado não responde à necessidade de caixa nem garante repetição.\nB) Incorreta: liquidez e prazo de desinvestimento são centrais para pagar benefícios.\nC) Incorreta: benchmark não substitui análise de passivos ou estudo de ALM.\nD) Correta: a decisão deve casar fluxos e liquidez do ativo com obrigações presentes e futuras.\nE) Incorreta: gestão ativa não elimina risco de liquidez ou descasamento.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 115; Resolução CMN nº 5.272/2025, art. 1º, § 1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Na análise anual, um gestor apresenta apenas a afirmação “o fundo passivo acompanha seu índice”. Qual informação adicional melhor permite avaliar a execução?",
+     "alternativas": {
+      "A": "Apenas o nome comercial do fundo.",
+      "B": "A rentabilidade em um dia isolado.",
+      "C": "Uma previsão verbal de que o índice não cairá.",
+      "D": "Somente o retorno nominal desde a criação, sem série do benchmark.",
+      "E": "Tracking error, custos, liquidez, aderência do índice ao mandato e riscos assumidos."
+     },
+     "gabarito": "E",
+     "comentario": "A) Incorreta: nome comercial não demonstra resultado ou aderência.\nB) Incorreta: um dia é insuficiente para medir acompanhamento e risco.\nC) Incorreta: previsão não substitui medição e controle.\nD) Incorreta: sem benchmark comparável, não se verifica a gestão passiva.\nE) Correta: os indicadores e características permitem avaliar aderência, custo e adequação.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, arts. 86–88; Resolução CMN nº 5.272/2025, art. 1º, § 1º"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Na gestão ativa, o gestor busca superar um ___ e assume ___ ativo.",
+     "opcoes": [
+      "benchmark",
+      "passivo atuarial",
+      "risco",
+      "garantia"
+     ],
+     "respostas": [
+      "benchmark",
+      "risco"
+     ],
+     "explicacao": "A estratégia ativa procura excesso relativo e, por isso, pode divergir do benchmark e ficar aquém dele.",
+     "dispositivo": "Conceito de finanças; Resolução CMN nº 5.272/2025, art. 1º, § 1º"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "A política anual do RPPS deve ser aprovada pelo conselho ___ antes de sua ___.",
+     "opcoes": [
+      "deliberativo",
+      "fiscal",
+      "implementação",
+      "auditoria"
+     ],
+     "respostas": [
+      "deliberativo",
+      "implementação"
+     ],
+     "explicacao": "A aprovação prévia pelo conselho deliberativo ou equivalente é exigida pela norma.",
+     "dispositivo": "Resolução CMN nº 5.272/2025, art. 5º"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a avaliação de uma proposta de mandato para o RPPS.",
+     "itens": [
+      "Definir obrigações, horizonte e necessidade de liquidez.",
+      "Escolher benchmark coerente com o mandato e os riscos.",
+      "Comparar estratégia, custos, riscos e limites normativos.",
+      "Submeter a decisão ao processo de governança e monitorar a execução."
+     ],
+     "explicacao": "A análise parte do passivo, define referencial e compara a proposta antes de executá-la e monitorá-la."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Gestão passiva",
+       "Acompanhar um índice"
+      ],
+      [
+       "Gestão ativa",
+       "Buscar excesso sobre referência"
+      ],
+      [
+       "Gestão semia­tiva",
+       "Desvios ativos limitados"
+      ],
+      [
+       "Tracking error",
+       "Variabilidade do retorno relativo"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cginv3-alocacao-121-2",
+   "titulo": "Alocação em renda fixa e gestão de referências",
+   "microconteudo": "O QUE A BANCA COBRA:\nEm renda fixa, a escolha entre acompanhar um índice, selecionar títulos ativamente ou combinar as duas abordagens depende de objetivo, passivo, indexador, prazo, liquidez e risco de taxa. O índice traduz um universo e uma metodologia; não é carteira sem risco. O candidato deve separar retorno nominal, retorno real, risco de mercado, risco de crédito e risco de reinvestimento, além de explicar por que a decisão precisa respeitar a política do RPPS. Não existe frequência empírica pública do CGINV III disponível para quantificar esses ângulos.\n\nENTENDA:\nUma estratégia passiva pode acompanhar índice de títulos públicos prefixados, pós-fixados ou ligados à inflação. O benchmark precisa refletir o mandato: comparar uma carteira de títulos indexados ao IPCA com um índice DI pode esconder exposição e risco diferentes. A gestão ativa pode ajustar duration, vencimentos, indexadores ou emissores para responder a expectativas, mas assume risco de decisão e pode perder do referencial. Uma abordagem semia­tiva mantém uma parcela estrutural próxima ao índice e permite posições táticas sob limites previamente definidos.\n\nPreço e taxa se movem em sentidos opostos nos títulos prefixados e nos títulos indexados à inflação marcados a mercado. Em termos aproximados, a variação percentual do preço é −duration modificada × variação da taxa; a convexidade melhora a aproximação para movimentos maiores. Se uma carteira tem duration modificada de 4,2 e as taxas sobem 0,50 ponto percentual, a aproximação linear estima queda de cerca de 2,1% antes de convexidade, cupom, carrego e outras mudanças. A conta não é previsão exata e não substitui cenários de curva, spread, resgate ou liquidez.\n\nA decisão de manter um título até o vencimento pode reduzir a relevância de oscilações contábeis em uma perspectiva específica, mas não apaga custo de oportunidade, necessidade de vender antes, risco de crédito ou reinvestimento. O RPPS deve observar necessidade de liquidez e compatibilidade de fluxos; a Portaria MTP nº 1.467/2022, art. 115, exige compatibilidade entre pagamentos dos ativos e prazo e montante das obrigações. O § 2º chama atenção ao descasamento que possa levar a reinvestir a taxas inferiores às da carteira corrente.\n\nO benchmark também orienta atribuição de resultado. Uma carteira pode superar o índice por maior exposição a risco de juros, crédito ou vencimento, e não por seleção superior. Por isso, retorno deve ser decomposto entre alocação, seleção e efeitos de interação quando o modelo permitir. O tracking error mede volatilidade do retorno ativo; não é a mesma coisa que perda máxima, volatilidade total ou probabilidade de insuficiência atuarial. Uma carteira pode ter tracking error pequeno e sofrer forte queda se o índice cair.\n\nConsidere o RPPS de Campo Sereno: precisa reservar R$ 12 milhões para pagamentos projetados em 14 meses e tem R$ 40 milhões em carteira de renda fixa. O comitê avalia migrar R$ 10 milhões para uma estratégia de maior duration porque espera queda dos juros. A tese pode gerar ganho se a taxa cair, mas pode produzir perda a mercado se subir e pressionar o caixa se os benefícios vencerem antes do ativo. Uma análise prudente compara fluxo dos ativos, cronograma de benefícios, vencimentos, liquidez de resgate, cenários de curva, custo, limites da Resolução CMN nº 5.272/2025 e fundamento registrado na política.\n\nO risco de curva também importa: duas carteiras com a mesma duration agregada podem reagir de forma diferente a alterações não paralelas, como abertura do trecho longo ou inclinação do trecho curto. A convexidade, a distribuição por vencimentos e a exposição a spreads ajudam a explicar a diferença. Em uma análise prática, o gestor deve apresentar cenários e limites, não somente um número de duration. A expectativa de movimento de juros é hipótese sujeita a erro, devendo ser confrontada com o cronograma atuarial e a capacidade de suportar perdas temporárias sem venda forçada.\n\nDOUTRINA:\nA teoria de renda fixa descreve a duration como medida aproximada de sensibilidade do preço a juros, enquanto a convexidade captura a curvatura da relação preço-taxa. A gestão de passivos adiciona um objetivo: reduzir descasamentos de fluxo e de sensibilidade, sem eliminar a necessidade de retorno e liquidez. Benchmarking é útil para medir risco relativo, mas a carteira previdenciária também precisa de métricas absolutas ligadas aos compromissos. A apostila-parâmetro cobre títulos, indicadores e limites em nível básico, mas não fornece bibliografia autoral paginada; as fichas M-12 consultadas não oferecem referência específica para duration ou alocação. Não invento citação bibliográfica.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nNão há precedente judicial específico relevante para duration ou seleção de benchmark. A disciplina do RPPS decorre da norma administrativa e financeira: a Resolução CMN nº 5.272/2025, art. 1º, exige princípios de segurança, rentabilidade, solvência, liquidez e adequação às obrigações; a Portaria MTP nº 1.467/2022, art. 115, exige compatibilidade dos fluxos e considera risco de reinvestimento.\n\nPEGADINHAS:\n1. Alta de juros tende a reduzir preço de títulos prefixados e de inflação marcados a mercado; queda tende a elevar, mantidas as demais condições.\n2. Duration é sensibilidade aproximada, não prazo de vencimento nem previsão de retorno.\n3. Tracking error mede volatilidade do excesso relativo, não risco total ou perda máxima.\n4. Manter até o vencimento não torna irrelevantes liquidez, crédito, reinvestimento e custo de oportunidade.\n5. Índice de renda fixa e meta atuarial respondem a perguntas diferentes.\n\nESQUEMA:\nTaxa sobe → preço de título prefixado tende a cair.\nDuration maior → sensibilidade aproximada maior.\nAtiva → ajuste de prazo/indexador/seleção; risco de errar o cenário.\nPassiva → replica referência; permanece exposta ao risco do índice.\nRPPS → casar fluxo e liquidez com benefícios (Portaria, art. 115).\n\nLIGAÇÕES:\nConecta-se à gestão atuarial e ALM, à teoria de carteiras, aos instrumentos de renda fixa e às regras da Resolução CMN nº 5.272/2025 para segmentos e limites.",
+   "flashcards": [
+    {
+     "frente": "Se a taxa de mercado sobe 0,50 p.p. e a duration modificada é 4,2, qual a variação linear aproximada do preço?",
+     "verso": "Queda aproximada de 2,1%, antes do ajuste de convexidade e de outros fatores.",
+     "dispositivo": "Relação aproximada preço-taxa: ΔP/P ≈ −Dmod × Δy"
+    },
+    {
+     "frente": "Duration é prazo de vencimento?",
+     "verso": "Não. É medida de sensibilidade do preço a juros; duration modificada aproxima a variação percentual.",
+     "dispositivo": "Conceito de finanças: duration modificada"
+    },
+    {
+     "frente": "O que o tracking error mede?",
+     "verso": "A volatilidade dos retornos relativos à referência, e não a perda máxima nem o risco total.",
+     "dispositivo": "Conceito de avaliação relativa de desempenho"
+    },
+    {
+     "frente": "Qual é a pegadinha de “carregar até o vencimento”?",
+     "verso": "Não elimina custo de oportunidade, risco de crédito, reinvestimento nem necessidade de liquidez se houver venda antecipada.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 115, caput e § 2º"
+    },
+    {
+     "frente": "Como a gestão semia­tiva pode organizar uma carteira de títulos?",
+     "verso": "Manter núcleo próximo ao índice e autorizar ajustes táticos limitados e monitorados.",
+     "dispositivo": "Conceito de estratégia; governança nos arts. 86–88 da Portaria MTP nº 1.467/2022"
+    },
+    {
+     "frente": "Que compatibilidade a unidade gestora precisa avaliar em ativos com prazo de resgate?",
+     "verso": "Liquidez e fluxos dos ativos em relação a prazo e montante das obrigações financeiras e atuariais.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 115"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "No RPPS de Campo Sereno, a duration modificada de 4,2 permite estimar, para alta de 0,50 p.p. nas taxas, variação de preço próxima de −2,1% antes de convexidade e demais fatores.",
+     "gabarito": "C",
+     "comentario": "Correto. A aproximação é −4,2 × 0,005 = −0,021, ou cerca de −2,1%. É aproximação de sensibilidade, não previsão exata.",
+     "dispositivo": "Conceito de finanças: ΔP/P ≈ −Dmod × Δy"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Se Campo Sereno mantém título prefixado até o vencimento, a carteira deixa de ter risco de liquidez, crédito e reinvestimento, ainda que precise vender parte para pagar benefícios.",
+     "gabarito": "E",
+     "comentario": "Errado. A venda antecipada expõe preço e liquidez; risco de crédito e reinvestimento também persistem. O RPPS deve compatibilizar fluxos e necessidades de liquidez com obrigações, conforme art. 115 da Portaria.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 115"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Uma carteira pode ter tracking error baixo e ainda sofrer perda expressiva quando o índice de renda fixa que acompanha cai.",
+     "gabarito": "C",
+     "comentario": "Correto. Tracking error mede a variabilidade do retorno relativo ao benchmark, enquanto a queda do próprio índice gera risco de mercado comum à carteira.",
+     "dispositivo": "Conceito de tracking error; Resolução CMN nº 5.272/2025, art. 1º, § 1º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "A avaliação de uma estratégia ativa de renda fixa pode ignorar fluxos projetados de benefícios se o benchmark escolhido for um índice de títulos públicos.",
+     "gabarito": "E",
+     "comentario": "Errado. O benchmark não substitui a compatibilidade entre fluxos dos ativos e obrigações do RPPS. O art. 115 exige essa avaliação.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 115, caput"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "O comitê de Campo Sereno analisa carteira com duration modificada 4,2. Se as taxas subirem 0,50 p.p., qual é a melhor estimativa inicial da variação de preço, ignorando convexidade?",
+     "alternativas": {
+      "A": "Queda de 2,1%.",
+      "B": "Aumento de 2,1%.",
+      "C": "Queda de 0,21%.",
+      "D": "Aumento de 21%.",
+      "E": "Nenhuma mudança, porque o título é de renda fixa."
+     },
+     "gabarito": "A",
+     "comentario": "A) Correta: −4,2 × 0,005 = −0,021, ou −2,1%.\nB) Incorreta: preço e taxa se movem em sentidos opostos para esses títulos.\nC) Incorreta: desloca a casa decimal; o produto é 0,021.\nD) Incorreta: multiplica por dez o resultado.\nE) Incorreta: renda fixa pode sofrer marcação a mercado.",
+     "dispositivo": "Conceito de finanças: ΔP/P ≈ −Dmod × Δy"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Campo Sereno precisa pagar R$ 12 milhões em 14 meses. Um ativo de resgate demorado oferece retorno esperado maior. O que a unidade gestora deve fazer antes de investir?",
+     "alternativas": {
+      "A": "Aplicar porque a expectativa de retorno é superior.",
+      "B": "Considerar apenas o benchmark do ativo.",
+      "C": "Atestar compatibilidade entre liquidez e fluxos do ativo e as obrigações projetadas.",
+      "D": "Ignorar o prazo, pois o RPPS tem horizonte perpétuo.",
+      "E": "Registrar a decisão apenas depois do primeiro resgate."
+     },
+     "gabarito": "C",
+     "comentario": "A) Incorreta: retorno esperado isolado não demonstra compatibilidade com pagamentos.\nB) Incorreta: índice não substitui fluxo de passivos e liquidez.\nC) Correta: a norma exige análise de liquidez e compatibilidade dos fluxos e prazos.\nD) Incorreta: pagamentos têm datas concretas e o RPPS deve gerir caixa.\nE) Incorreta: a decisão precisa de análise prévia e documentação.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 115, caput e § 1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Uma carteira ativa supera o índice de renda fixa porque alongou a duration. Qual interpretação é mais adequada?",
+     "alternativas": {
+      "A": "O gestor necessariamente demonstrou seleção superior sem risco adicional.",
+      "B": "A meta atuarial foi automaticamente atingida.",
+      "C": "O tracking error será zero se a duration for maior.",
+      "D": "O ganho pode decorrer de maior exposição a risco de juros, devendo ser avaliado junto com risco e passivo.",
+      "E": "A estratégia tornou-se passiva, pois investiu em títulos públicos."
+     },
+     "gabarito": "D",
+     "comentario": "A) Incorreta: alongar duration assume risco de taxa; superar o índice não prova habilidade sem análise de risco.\nB) Incorreta: retorno relativo não prova meta atuarial ou solvência.\nC) Incorreta: diferença de duração pode elevar risco ativo e tracking error.\nD) Correta: a diferença de retorno pode refletir exposição sistemática e precisa ser contextualizada pelo passivo.\nE) Incorreta: investir em títulos públicos não define gestão passiva; importa o processo frente ao referencial.",
+     "dispositivo": "Resolução CMN nº 5.272/2025, art. 1º, § 1º; Portaria MTP nº 1.467/2022, art. 115"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Qual referência é mais coerente para avaliar um mandato cujo objetivo é acompanhar uma carteira de títulos indexados à inflação de prazo intermediário?",
+     "alternativas": {
+      "A": "Uma referência de renda variável, por ser mais conhecida.",
+      "B": "Um índice de inflação ao consumidor sem componente de carteira.",
+      "C": "O retorno de qualquer fundo que tenha performado melhor no ano.",
+      "D": "A meta atuarial escolhida depois de conhecido o resultado.",
+      "E": "Benchmark de renda fixa com composição e sensibilidade compatíveis com o mandato, definido previamente."
+     },
+     "gabarito": "E",
+     "comentario": "A) Incorreta: a classe e o risco não correspondem ao mandato.\nB) Incorreta: inflação isolada não representa carteira de títulos ou seu risco de mercado.\nC) Incorreta: seleção retrospectiva de fundo não constitui referência adequada.\nD) Incorreta: escolher referência após o resultado cria viés e meta atuarial não é automaticamente benchmark.\nE) Correta: benchmark deve refletir universo e exposição relevantes ao mandato e ser definido ex ante.",
+     "dispositivo": "Resolução CMN nº 5.272/2025, arts. 1º e 5º"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Para duration modificada 4,2 e alta de juros de 0,50 p.p., a variação linear aproximada é ___%.",
+     "opcoes": [
+      "+2,1",
+      "−2,1",
+      "−0,21",
+      "+21"
+     ],
+     "respostas": [
+      "−2,1"
+     ],
+     "explicacao": "ΔP/P ≈ −Dmod × Δy = −4,2 × 0,005 = −0,021.",
+     "dispositivo": "Relação aproximada preço-taxa: ΔP/P ≈ −Dmod × Δy"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "A Portaria manda compatibilizar fluxos dos ativos com prazo e montante das ___ do regime.",
+     "opcoes": [
+      "obrigações financeiras e atuariais",
+      "metas de rentabilidade de qualquer fundo",
+      "despesas administrativas apenas",
+      "receitas tributárias do município"
+     ],
+     "respostas": [
+      "obrigações financeiras e atuariais"
+     ],
+     "explicacao": "A compatibilidade com as obrigações e as necessidades de liquidez consta do art. 115.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 115"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise de uma proposta de maior duration para um RPPS.",
+     "itens": [
+      "Projetar benefícios e identificar datas de necessidade de caixa.",
+      "Mensurar sensibilidade, cenários de juros e liquidez da carteira.",
+      "Comparar com benchmark e objetivos de risco/retorno.",
+      "Verificar aderência à política, limites e governança antes de executar."
+     ],
+     "explicacao": "O passivo e o caixa orientam a mensuração e comparação; só depois vem a execução conforme governança."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Duration modificada",
+       "Sensibilidade aproximada a juros"
+      ],
+      [
+       "Convexidade",
+       "Curvatura da relação preço-taxa"
+      ],
+      [
+       "Benchmark",
+       "Régua relativa do mandato"
+      ],
+      [
+       "Risco de reinvestimento",
+       "Aplicar fluxos futuros a taxas menores"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cginv3-alocacao-121-3",
+   "titulo": "Ações, índices e decisão de alocação",
+   "microconteudo": "O QUE A BANCA COBRA:\nA alocação em ações pode ser ativa, passiva ou semia­tiva, mas cada rótulo precisa ser ligado a objetivo, benchmark, risco, custo e limite de decisão. O candidato deve interpretar índice amplo ou setorial como medida de um universo específico, diferenciar risco sistemático de risco específico e explicar por que diversificação reduz parte do risco, sem eliminar a oscilação do mercado. Não há cadernos oficiais abertos para afirmar frequência empírica de questões CGINV III.\n\nENTENDA:\nA gestão passiva de ações busca acompanhar índice com exposição ampla ou segmentada, por replicação integral ou amostragem. Isso pode reduzir giro e custos de seleção, mas o retorno continuará sujeito ao mercado, ao método do índice, à concentração dos maiores constituintes, ao custo do veículo, aos proventos, ao rebalanceamento e ao erro de acompanhamento. O índice é uma carteira teórica com regras próprias; conhecer sua metodologia é essencial para avaliar se representa o mandato do RPPS.\n\nA gestão ativa pode selecionar empresas, setores ou fatores, ou alterar pesos em relação ao benchmark. O gestor procura alfa, mas a diferença relativa é risco ativo: posição subponderada em uma ação que sobe muito pode prejudicar o resultado; sobrepeso em uma ação que cai pode ampliá-lo. A tese exige análise de fundamentos, liquidez, governança, preço e cenários. O excesso de retorno precisa ser analisado líquido de custos e ajustado ao risco, em período suficiente e contra um referencial definido antes da avaliação.\n\nA estratégia semia­tiva usa exposição de base a um índice e pequenas posições táticas, normalmente com bandas ou orçamento de risco. Esse desenho pode tornar o processo mais disciplinado, desde que o comitê defina quem decide, quais limites se aplicam, como se mede desvio e quando a tese é revista. “Semia­tiva” não é escudo regulatório: a política e os limites dos segmentos definidos pela Resolução CMN nº 5.272/2025 continuam aplicáveis. Essa norma organiza os segmentos e exige que recursos sejam aplicados segundo princípios de segurança, rentabilidade, solvência, liquidez, motivação, adequação às obrigações e transparência (arts. 1º e 2º).\n\nDiversificação entre emissores e setores reduz risco específico quando as exposições não se movem perfeitamente juntas. Ela não elimina risco sistemático, como choque macroeconômico que atinge o mercado inteiro. A correlação pode aumentar justamente em crises; por isso, uma carteira que parece diversificada em condições normais pode cair de forma conjunta em estresse. Concentração por emissor, liquidez e exposição indireta via fundos também precisam ser observadas. Um índice ponderado por valor de mercado pode ter peso elevado em poucas empresas; acompanhar o índice não significa ter pesos iguais ou risco disperso.\n\nConsidere o RPPS de Rio do Cedro, com R$ 120 milhões de ativos. O estudo de ALM indica que R$ 9 milhões podem ficar em uma carteira de ações diversificada e líquida, sujeita à política vigente. Um gestor propõe concentrar 40% dessa parcela em quatro companhias porque espera valorização. O comitê deve questionar limite normativo aplicável, concentração direta e indireta, liquidez, correlação, governança, benchmark, cenário de queda, custo e efeito no pagamento de benefícios. Uma expectativa de alta não substitui justificativa documentada nem autoriza extrapolar a política de investimentos aprovada.\n\nÍndices servem a funções diferentes: benchmark de desempenho, proxy de mercado, universo de seleção e instrumento de exposição. Um índice amplo não é necessariamente apropriado para uma carteira de ações de pequenas empresas; um índice setorial pode ser útil para atribuição, mas não representa sozinho o mercado acionário amplo. A escolha deve ser coerente com moeda, universo, horizonte e objetivo. Atribuir retorno à seleção exige separar o que veio da exposição ao mercado, da composição setorial e da escolha de títulos, evitando confundir alta generalizada com habilidade individual.\n\nDOUTRINA:\nA teoria de carteiras distingue risco sistemático, que permanece após diversificação, do risco específico, cuja contribuição pode diminuir ao combinar ativos com correlações imperfeitas. A relação entre risco e retorno não autoriza concluir que um ativo de maior volatilidade será sempre mais rentável; ela descreve compensações esperadas sob hipóteses e horizonte. A gestão ativa é uma decisão de orçamento de risco e custo: a tese precisa justificar por que o desvio esperado compensa taxas e possibilidade de erro. Não localizei ficha M-12 ou livro de investimento com referência paginada verificável para este recorte; a síntese é autoral e não atribui doutrina a autor específico.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nNão há precedente judicial específico relevante para escolha entre estratégia passiva e ativa em ações. A decisão é disciplinada por governança e regulação: Resolução CMN nº 5.272/2025, arts. 1º, 2º e 5º; Portaria MTP nº 1.467/2022, arts. 86–88 e 115. A unidade gestora deve documentar as operações de alocação, manutenção e desinvestimento (art. 88) e compatibilizar liquidez com obrigações (art. 115).\n\nPEGADINHAS:\n1. Diversificar reduz risco específico, mas não elimina risco sistemático de mercado.\n2. Índice amplo pode ser concentrado; passividade não garante diversificação perfeita.\n3. Superar índice por exposição maior ao mercado não prova seleção habilidosa.\n4. Semia­tiva continua sujeita a limites, política, documentação e monitoramento.\n5. Benchmark setorial não deve ser usado como se fosse referência de mercado amplo sem justificar o mandato.\n\nESQUEMA:\nPassiva → replicação do índice → risco de mercado + concentração dos constituintes + tracking.\nAtiva → seleção/pesos diferentes → risco específico e ativo + custo.\nSemia­tiva → núcleo indexado + desvios sob bandas.\nDiversificação → reduz risco específico; risco sistemático permanece.\nRPPS → decisão documentada e aderente a política/limites/fluxos.\n\nLIGAÇÕES:\nConecta-se à teoria moderna de carteiras (diversificação, correlação e beta), à medição de desempenho (alfa e tracking error), ao segmento de renda variável e à política de investimentos do RPPS.",
+   "flashcards": [
+    {
+     "frente": "A diversificação elimina qual risco e qual permanece?",
+     "verso": "Pode reduzir o risco específico; o risco sistemático de mercado permanece.",
+     "dispositivo": "Conceito de teoria moderna das carteiras"
+    },
+    {
+     "frente": "Por que um índice amplo pode ainda apresentar concentração?",
+     "verso": "Se ponderado por valor de mercado, poucas companhias grandes podem representar parcela elevada do índice.",
+     "dispositivo": "Metodologia do índice de referência adotado"
+    },
+    {
+     "frente": "O que precisa explicar uma estratégia ativa de ações?",
+     "verso": "Tese, desvio do benchmark, risco, custos, liquidez, limites, monitoramento e possibilidade de underperformance.",
+     "dispositivo": "Resolução CMN nº 5.272/2025, arts. 1º e 5º"
+    },
+    {
+     "frente": "Qual a pegadinha de uma carteira que supera o índice após alta generalizada?",
+     "verso": "O resultado pode decorrer da exposição ao mercado, sem provar habilidade de seleção ou alfa persistente.",
+     "dispositivo": "Conceito de avaliação relativa de desempenho"
+    },
+    {
+     "frente": "Estratégia semia­tiva afasta os limites regulatórios da alocação?",
+     "verso": "Não. Rótulo de gestão não afasta limites, política aprovada nem controles do RPPS.",
+     "dispositivo": "Resolução CMN nº 5.272/2025, arts. 1º, 2º e 5º"
+    },
+    {
+     "frente": "Quais etapas de investimento o processo decisório do RPPS abrange?",
+     "verso": "Alocação, manutenção de posições e desinvestimento, com qualidade, documentação e revisão.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 88"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "No RPPS de Rio do Cedro, distribuir ações por vários emissores pode reduzir risco específico, mas não impede queda conjunta causada por choque que afete todo o mercado.",
+     "gabarito": "C",
+     "comentario": "Correto. A diversificação reduz risco não sistemático quando há correlação imperfeita, mas risco sistemático permanece. A carteira ainda deve observar segurança, solvência e adequação às obrigações.",
+     "dispositivo": "Conceito de teoria moderna das carteiras; Resolução CMN nº 5.272/2025, art. 1º, § 1º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Se o índice amplo seguido pelo RPPS de Rio do Cedro tem alta concentração nas maiores empresas, a gestão passiva transforma automaticamente os pesos em posições iguais.",
+     "gabarito": "E",
+     "comentario": "Errado. A estratégia de replicação segue os pesos definidos pela metodologia do índice; não os equaliza automaticamente. O índice precisa ser analisado em sua composição e riscos.",
+     "dispositivo": "Metodologia do índice adotado; Resolução CMN nº 5.272/2025, art. 1º, § 1º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "A carteira ativa de ações pode superar seu benchmark por assumir maior exposição ao mercado ou a um setor, sem que isso, isoladamente, comprove habilidade de seleção.",
+     "gabarito": "C",
+     "comentario": "Correto. Atribuição deve separar exposição sistemática, composição setorial e seleção; retorno relativo isolado não demonstra alfa persistente.",
+     "dispositivo": "Conceito de avaliação de desempenho; Resolução CMN nº 5.272/2025, art. 1º, § 1º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "A classificação de uma estratégia como semia­tiva autoriza o comitê a ignorar a política de investimentos e as etapas de documentação das operações.",
+     "gabarito": "E",
+     "comentario": "Errado. O nome da estratégia não afasta política aprovada, governança ou documentação das decisões de alocação, manutenção e desinvestimento. Base: Portaria MTP nº 1.467/2022, arts. 86 e 88; Resolução CMN nº 5.272/2025, art. 5º.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, arts. 86 e 88; Resolução CMN nº 5.272/2025, art. 5º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Rio do Cedro tem R$ 120 milhões e a análise de ALM admite R$ 9 milhões em ações. O gestor propõe concentrar R$ 3,6 milhões em quatro empresas. Qual conduta melhor atende à governança?",
+     "alternativas": {
+      "A": "Aceitar a tese porque R$ 3,6 milhões correspondem a menos de 5% dos ativos totais.",
+      "B": "Avaliar concentração direta e indireta, limites vigentes, liquidez, benchmark, riscos e aderência à política antes de decidir.",
+      "C": "Autorizar sem documentação se o índice acionário estiver em alta.",
+      "D": "Tratar a parcela como sem risco por representar apenas 3% dos ativos totais.",
+      "E": "Comparar a proposta apenas com a rentabilidade da renda fixa no último mês."
+     },
+     "gabarito": "B",
+     "comentario": "A) Incorreta: olhar só o percentual do total ignora concentração dentro da parcela e limites aplicáveis ao segmento/emissor.\nB) Correta: a decisão deve considerar exposições, risco, liquidez e aderência à política e às regras.\nC) Incorreta: cenário de alta não elimina justificativa e documentação.\nD) Incorreta: ações têm risco de mercado e específico, independentemente do peso.\nE) Incorreta: janela curta e classe diferente não formam comparação adequada.",
+     "dispositivo": "Resolução CMN nº 5.272/2025, arts. 1º, 2º e 5º; Portaria MTP nº 1.467/2022, arts. 86–88"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Uma carteira de ações rendeu 15% e o benchmark 12%. Qual conclusão é tecnicamente mais adequada antes de atribuir mérito ao gestor?",
+     "alternativas": {
+      "A": "O gestor obteve necessariamente alfa de 3%, qualquer que seja o risco.",
+      "B": "A carteira cumpriu a meta atuarial, pois superou o índice.",
+      "C": "O resultado precisa ser analisado por exposição de mercado, setores, seleção, custos, período e risco assumido.",
+      "D": "A carteira passiva teve retorno negativo porque não superou 15%.",
+      "E": "O excesso de 3 p.p. elimina a necessidade de monitorar liquidez."
+     },
+     "gabarito": "C",
+     "comentario": "A) Incorreta: diferença bruta não é necessariamente alfa nem está ajustada a risco/custos.\nB) Incorreta: benchmark relativo não equivale automaticamente à meta atuarial.\nC) Correta: atribuição e avaliação precisam explicar fontes de retorno e riscos.\nD) Incorreta: desempenho inferior ao de uma carteira ativa não significa retorno negativo.\nE) Incorreta: retorno relativo não elimina risco de liquidez ou obrigação de controle.",
+     "dispositivo": "Resolução CMN nº 5.272/2025, art. 1º, § 1º; Portaria MTP nº 1.467/2022, arts. 86–88"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Rio do Cedro compara uma carteira de small caps com um índice de mercado amplo. Qual benchmark é mais informativo para avaliar gestão relativa?",
+     "alternativas": {
+      "A": "A meta atuarial redefinida depois de calcular o resultado.",
+      "B": "Qualquer índice de renda fixa que tenha divulgado retorno diário.",
+      "C": "O índice setorial de melhor retorno observado ao fim do período.",
+      "D": "Um referencial compatível com o universo, estilo, moeda e mandato, definido antes da avaliação.",
+      "E": "Uma companhia individual escolhida pelo gestor."
+     },
+     "gabarito": "D",
+     "comentario": "A) Incorreta: redefinir referência a posteriori distorce a avaliação.\nB) Incorreta: classe de ativo não corresponde à carteira acionária.\nC) Incorreta: seleção retrospectiva do melhor resultado cria viés.\nD) Correta: a referência deve representar exposição e objetivo do mandato, com escolha ex ante.\nE) Incorreta: uma empresa não representa benchmark diversificado sem justificativa.",
+     "dispositivo": "Resolução CMN nº 5.272/2025, arts. 1º e 5º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em um estresse macroeconômico, vários setores caem simultaneamente. Qual leitura sobre diversificação é correta?",
+     "alternativas": {
+      "A": "A diversificação falhou em qualquer sentido, pois deveria impedir toda perda.",
+      "B": "A gestão ativa sempre protege contra queda generalizada.",
+      "C": "A carteira deixou de ter risco sistemático porque havia mais de dez ações.",
+      "D": "Uma carteira passiva não sofre o choque se acompanhar índice amplo.",
+      "E": "A correlação pode aumentar no estresse; diversificação reduz alguns riscos, mas não garante proteção contra risco sistemático."
+     },
+     "gabarito": "E",
+     "comentario": "A) Incorreta: diversificação não promete ausência de perdas.\nB) Incorreta: gestão ativa pode reduzir ou ampliar perdas; não há proteção garantida.\nC) Incorreta: quantidade de ações não elimina risco de mercado comum.\nD) Incorreta: índice amplo também cai quando o mercado cai.\nE) Correta: correlações e exposições podem se alterar; choque sistêmico afeta muitos ativos.",
+     "dispositivo": "Conceito de risco sistemático; Resolução CMN nº 5.272/2025, art. 1º, § 1º"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "A diversificação tende a reduzir risco ___; o risco ___ do mercado permanece.",
+     "opcoes": [
+      "específico",
+      "sistemático",
+      "operacional",
+      "atuarial"
+     ],
+     "respostas": [
+      "específico",
+      "sistemático"
+     ],
+     "explicacao": "Ativos com correlações imperfeitas podem reduzir risco próprio dos emissores, mas choques comuns permanecem.",
+     "dispositivo": "Conceito de teoria moderna das carteiras"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "A carteira ativa de ações deve comparar-se a um ___ adequado, definido antes da avaliação.",
+     "opcoes": [
+      "benchmark",
+      "benefício",
+      "passivo de caixa",
+      "contrato"
+     ],
+     "respostas": [
+      "benchmark"
+     ],
+     "explicacao": "O referencial precisa corresponder ao mandato para que a comparação seja interpretável.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, arts. 86–88"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene as etapas de análise de uma proposta ativa de ações para o RPPS.",
+     "itens": [
+      "Definir objetivo, horizonte, liquidez e benchmark do mandato.",
+      "Mensurar posições, riscos, concentração e custos da tese.",
+      "Verificar política, limites e compatibilidade com obrigações.",
+      "Deliberar e documentar; acompanhar exposição e resultado."
+     ],
+     "explicacao": "A decisão começa pelo mandato e termina na execução governada e monitorada."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Risco sistemático",
+       "Choque comum ao mercado"
+      ],
+      [
+       "Risco específico",
+       "Risco próprio de emissor/empresa"
+      ],
+      [
+       "Gestão passiva",
+       "Acompanhamento de índice"
+      ],
+      [
+       "Alfa",
+       "Retorno residual frente a referência/modelo"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

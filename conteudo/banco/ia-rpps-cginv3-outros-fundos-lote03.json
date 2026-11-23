@@ -1,0 +1,605 @@
+{
+ "assunto": "CP RPPS — CGINV III: FIDC, FII, FIP, fundos de índice e fundos previdenciários",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 (Resolução CVM 175/2022 consolidada, incluindo Resoluções CVM 240/2026 e 247/2026; Resolução CMN 5.272/2025 e orientações oficiais do MPS conferidas)",
+ "origem": "2026-11-23_banco-rpps-cginv3-outros-fundos-lote03_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "cginv-outros-fundos-9-3-1",
+   "titulo": "FIDC: recebíveis, subordinação e risco de crédito",
+   "microconteudo": "O QUE A BANCA COBRA:\nO FIDC reúne direitos creditórios em uma classe de cotas, conforme o Anexo Normativo II da Resolução CVM 175. Para o CGINV III, o que merece atenção é a passagem da operação originária para a carteira: quem cedeu o crédito, quem deve pagar, como a cessão foi formalizada, quais evidências demonstram existência e titularidade, como o fluxo será recebido e qual camada de cotas absorve primeiro as perdas. Não há cadernos públicos do CGINV III classificados questão a questão; por isso, não se atribui número de incidências fictício. O Pareto oficial coloca fundos em posição prioritária, e o exame exige compreender o produto e os riscos que a certificação procura que o profissional reconheça.\n\nENTENDA:\nDireito creditório é um direito a receber um valor ou prestação, oriundo de relação econômica identificável. Uma empresa que vende a prazo pode ceder ao fundo parcelas de vendas; uma instituição pode ceder créditos de empréstimos; outros recebíveis também podem se enquadrar nos critérios regulamentares. A cessão transfere o direito, mas não elimina o risco de o devedor atrasar ou não pagar. A classe FIDC precisa atingir o enquadramento de carteira do Anexo II: em até 180 dias do início das atividades, mais de 50% do patrimônio líquido deve estar representado por direitos creditórios. A parcela residual deve seguir as regras de ativos financeiros de liquidez. Uma classe de investimento em cotas, por sua vez, deve aplicar no mínimo 67% em cotas de outros FIDC. Esses percentuais descrevem requisitos regulatórios da classe; não são promessa de retorno nem limite automático de investimento do RPPS.\n\nA arquitetura econômica das subclasses pode distribuir a absorção de perdas. Em termos usuais, a subclasse subordinada recebe perdas antes da sênior, mas essa prioridade contratual não transforma o crédito em garantido. Verifique o regulamento, os eventos de avaliação, a suficiência da subordinação, os gatilhos de amortização, o tratamento de inadimplência e a liquidez das cotas. O direito de receber primeiro depende de haver patrimônio e cobrança suficientes. Não confunda subclasse subordinada com classe de cotas distinta: cada classe tem patrimônio segregado; a subordinação organiza direitos econômicos dentro da estrutura prevista para a classe.\n\nDiligência começa pela carteira, não pela nota de venda. Identifique cedentes, devedores, concentração por grupo econômico, prazo médio, garantias, histórico de inadimplência, pré-pagamento, diluição, contestação judicial e mecanismos de cobrança. Teste a qualidade do lastro: o documento deve ligar uma obrigação real a um devedor, valor e vencimento. Avalie riscos de fraude documental, dupla cessão, falha de registro, cobrança ineficaz e descasamento entre a liquidez prometida e a realização dos recebíveis. Uma carteira pulverizada reduz exposição a um único devedor, mas não elimina risco comum: todos podem depender do mesmo setor, originador, canal de cobrança ou cenário macroeconômico.\n\nPara o RPPS, a análise de produto e a elegibilidade previdenciária são etapas distintas. A Resolução CMN 5.272/2025, vigente desde 2 de fevereiro de 2026, condiciona aplicações a segmentos, limites, certificação institucional, governança e critérios de credenciamento. Seu art. 7º, §4º, estabelece requisitos adicionais para aplicação direta em FIDC, incluindo comprovação de experiência do gestor em ofertas públicas de subclasses seniores encerradas e integralmente liquidadas, além das demais condições do próprio dispositivo. Não se deve reduzir esse conjunto a uma checagem isolada nem presumir que a classe é permitida apenas porque a CVM a registrou. A decisão do RPPS ainda deve respeitar a política de investimentos, o perfil de passivos, o limite aplicável e a análise de custos e prestadores.\n\nDOUTRINA:\nA matéria tem natureza predominantemente regulatória e de análise de crédito. Não localizei, entre os materiais bibliográficos acessíveis nesta execução, obra especializada com edição e página verificáveis para uma citação doutrinária fiel. Para não inventar fonte ou atribuir posição a autor sem conferência, a lição se apoia no Anexo II da Resolução CVM 175, na CMN 5.272/2025 e no Manual de Certificação Profissional RPPS v2.0. Na avaliação profissional, a síntese é tratar FIDC como exposição a fluxo de crédito com estrutura de governança e prioridade de perdas, não como depósito ou título público.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nNão há precedente judicial central necessário para compreender a estrutura básica. A atualização regulatória mais importante para o estudo de 2026 está nas Resoluções CVM 240/2026 e 247/2026, que alteraram o Anexo II. A 240 ajustou o tratamento de direitos creditórios e devedores em recuperação judicial; a 247, vigente desde 1º/11/2026, disciplinou envio e consulta de informações do SCR e revogou dispositivo anterior do art. 31. Use sempre o texto consolidado vigente, especialmente ao analisar deveres de gestor e administrador de FIDC.\n\nPEGADINHAS:\n1. “Cota sênior” não significa risco nulo: significa prioridade relativa conforme regulamento.\n2. O prazo de 180 dias é de enquadramento da classe FIDC; não concede carência ao cotista nem autoriza o RPPS a ignorar seus limites.\n3. 67% em outros FIDC caracteriza classe de investimento em cotas; não é o percentual geral de direitos creditórios de qualquer classe.\n4. Uma classe tem patrimônio segregado; subclasses podem ter direitos econômicos distintos dentro dessa classe.\n5. A Resolução CVM 175 regula o fundo; a CMN 5.272 regula se e como o RPPS pode investir.\n6. Registro e divulgação não certificam a existência, qualidade ou solvência de cada recebível.\n\nESQUEMA:\nRecebível cedido → verificar origem, lastro e titularidade → analisar devedor e concentração → modelar atraso e perda → conferir subordinação e liquidez → checar limites CVM → checar elegibilidade e governança CMN.\nClasse FIDC: mais de 50% em direitos creditórios até 180 dias (Anexo II, art. 44).\nClasse de investimento em cotas: pelo menos 67% em cotas de outros FIDC (Anexo II, arts. 2º, VI, e 44).\nRPPS: aplicação direta sujeita às condições cumulativas do art. 7º, §4º, da CMN 5.272/2025.\n\nLIGAÇÕES:\nEste tópico se conecta à análise de risco de crédito e liquidez (CGINV III 14.26–14.27), à CMN 5.272/2025 (7.1) e à atribuição de deveres de gestor, administrador e custodiante estudada em FIF (9.2).",
+   "flashcards": [
+    {
+     "frente": "Em quanto tempo e com que proporção mínima uma classe FIDC deve enquadrar direitos creditórios?",
+     "verso": "Em até 180 dias do início, mais de 50% do PL em direitos creditórios.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo II, art. 44"
+    },
+    {
+     "frente": "Qual percentual define a classe de investimento em cotas de FIDC?",
+     "verso": "No mínimo 67% do PL em cotas de outros FIDC.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo II, arts. 2º, VI, e 44"
+    },
+    {
+     "frente": "A cota sênior de FIDC elimina o risco de perda?",
+     "verso": "Não. Ela tem prioridade relativa prevista no regulamento, mas depende de patrimônio e recuperação suficientes.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, arts. 5º e 6º; Anexo II"
+    },
+    {
+     "frente": "Que risco a subordinação entre subclasses distribui?",
+     "verso": "A ordem contratual de absorção de perdas e de recebimentos; não cria garantia externa.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 5º; Anexo II"
+    },
+    {
+     "frente": "Quais duas perguntas básicas testam o lastro de um recebível?",
+     "verso": "Se a obrigação existe e se a titularidade/cessão para a classe pode ser comprovada.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo II, arts. 2º e 18 a 20"
+    },
+    {
+     "frente": "O registro CVM do FIDC basta para o RPPS aplicar?",
+     "verso": "Não. Além da regulação CVM, devem ser cumpridos elegibilidade, limites, governança e requisitos da CMN 5.272/2025.",
+     "dispositivo": "Resolução CMN 5.272/2025, arts. 1º, 7º e 21"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Uma classe FIDC iniciou atividades há 181 dias e mantém 54% do patrimônio líquido em direitos creditórios. O prazo regulatório de enquadramento do art. 44 já se esgotou.",
+     "gabarito": "C",
+     "comentario": "Correto. O prazo máximo é de até 180 dias; no 181º dia, o prazo expirou. O percentual acima de 50% está alcançado, mas isso não apaga o atraso temporal. Base: Resolução CVM 175/2022, Anexo II, art. 44.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo II, art. 44"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "A previsão de prioridade de pagamento à subclasse sênior, por si só, converte os recebíveis do FIDC em crédito garantido e sem risco de perda.",
+     "gabarito": "E",
+     "comentario": "Errado. A prioridade é relativa à estrutura e ao regulamento; atraso, inadimplência, falha de lastro ou insuficiência de recuperação podem atingir cotistas. Não existe garantia automática pelo simples rótulo sênior. Base: Resolução CVM 175/2022, Parte Geral, arts. 5º e 6º, e Anexo II.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, arts. 5º e 6º; Anexo II"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A classe FIDC que, após o prazo de enquadramento, mantém 51% do PL em direitos creditórios supera o patamar mínimo regulatório do art. 44.",
+     "gabarito": "C",
+     "comentario": "Correto. O art. 44 exige parcela superior a 50% do PL representada por direitos creditórios; 51% supera o limite, observados os demais requisitos do Anexo II.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo II, art. 44"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Como a classe investidora e a classe investida pertencem ao mesmo fundo, a segregação patrimonial por classe deixa de produzir efeitos na análise de responsabilidade.",
+     "gabarito": "E",
+     "comentario": "Errado. A segregação patrimonial é por classe; a existência de investimento em cotas não extingue a separação nem autoriza tratar ativos e obrigações de classes distintas como um patrimônio único. A consolidação regulatória para certos limites é análise de exposição, não fusão patrimonial. Base: Resolução CVM 175/2022, Parte Geral, art. 5º, e Anexo II, art. 45, §2º.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 5º; Anexo II, art. 45, §2º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Uma classe de cotas do RPPS avalia adquirir cotas de um FIDC. Qual conjunto de verificações é mais adequado antes da decisão?",
+     "alternativas": {
+      "A": "Examinar lastro, cedentes, devedores, concentração, subordinação, liquidez e os requisitos próprios da CMN 5.272/2025.",
+      "B": "Confirmar apenas o nome do fundo e a existência de registro na CVM.",
+      "C": "Usar a classificação de risco como substituta da leitura do regulamento e da carteira.",
+      "D": "Considerar que a cota sênior é equivalente a título público federal.",
+      "E": "Aplicar somente o limite geral de FIF, pois todo FIDC é FIF."
+     },
+     "gabarito": "A",
+     "comentario": "A é correta: combina diligência de crédito e estrutura do fundo com os filtros específicos do RPPS. B não examina a carteira; C não substitui análise independente; D confunde prioridade relativa com garantia soberana; E classifica incorretamente FIDC como FIF e ignora a CMN. Base: Resolução CVM 175/2022, Anexo II, arts. 2º e 44 a 45; Resolução CMN 5.272/2025, art. 7º, §4º.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo II, arts. 2º e 44 a 45; Resolução CMN 5.272/2025, art. 7º, §4º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "O RPPS municipal de Vale Sereno delibera aplicação direta em FIDC. O gestor apresenta registro CVM válido e informa que já realizou ofertas de cotas seniores. Qual encaminhamento é correto?",
+     "alternativas": {
+      "A": "A aprovação do comitê dispensa o atendimento aos limites e condições do CMN.",
+      "B": "A condição de registro torna irrelevantes credenciamento, perfil de passivos e política anual.",
+      "C": "Verificar o atendimento cumulativo a todos os requisitos do art. 7º, §4º, da CMN 5.272/2025, além dos limites e procedimentos de governança; a experiência do gestor isoladamente não basta.",
+      "D": "Basta comprovar uma oferta encerrada, qualquer que seja o tipo de cota.",
+      "E": "A aplicação direta é permitida apenas se o fundo não tiver subclasse subordinada."
+     },
+     "gabarito": "C",
+     "comentario": "C é correta. O art. 7º, §4º, traz requisitos adicionais para aplicação direta em FIDC; a experiência indicada é apenas parte da verificação e não substitui as demais condições. A e B afastam indevidamente a norma previdenciária; D reduz o requisito de experiência; E inventa vedação à subordinação. Base: Resolução CMN 5.272/2025, arts. 1º, 7º, §4º, e 21.",
+     "dispositivo": "Resolução CMN 5.272/2025, arts. 1º, 7º, §4º, e 21"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Uma carteira contém créditos de 20 clínicas distintas, mas 16 delas pertencem ao mesmo grupo econômico e dependem do mesmo originador. Que risco ainda pode estar concentrado?",
+     "alternativas": {
+      "A": "Nenhum, pois há mais de dez devedores nominais.",
+      "B": "Somente risco de taxa de juros, sem relação com crédito.",
+      "C": "A concentração desaparece se as subclasses forem diferentes.",
+      "D": "Risco de concentração por grupo e de fator comum, além da necessidade de consolidar devedores relacionados conforme a norma.",
+      "E": "Apenas risco de mercado do índice de referência."
+     },
+     "gabarito": "D",
+     "comentario": "D é correta: a contagem de pessoas jurídicas não captura automaticamente vínculo econômico nem dependência comum; o Anexo II agrega devedores do mesmo grupo para o limite regulatório e a análise econômica deve considerar fatores comuns. A, B, C e E ignoram esse risco ou o substituem por outro. Base: Resolução CVM 175/2022, Anexo II, art. 45, §1º.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo II, art. 45, §1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Uma classe de investimento em cotas de FIDC iniciou atividades há 90 dias e possui 68% do PL aplicado em cotas de outros FIDC. Qual leitura combina a definição e o prazo regulatório?",
+     "alternativas": {
+      "A": "A exigência é 50% em recebíveis próprios e o prazo é 180 dias.",
+      "B": "O percentual de 67% em cotas de outros FIDC é o patamar definido para essa classe, e o prazo de enquadramento é de até 180 dias.",
+      "C": "O prazo é de 90 dias e o percentual deve ser exatamente 67%.",
+      "D": "O percentual não se aplica quando há duas classes de cotas.",
+      "E": "A classe precisa aplicar 100% em ativos de liquidez."
+     },
+     "gabarito": "B",
+     "comentario": "B é correta: classe de investimento em cotas deve ter pelo menos 67% do PL em cotas de outros FIDC e o art. 44 concede até 180 dias para o enquadramento. A confunde com classe FIDC comum; C altera prazo e transforma mínimo em valor exato; D e E criam exceções ou exigências inexistentes. Base: Resolução CVM 175/2022, Anexo II, arts. 2º, VI, e 44.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo II, arts. 2º, VI, e 44"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Em até ___ dias do início, a classe FIDC deve manter parcela ___ a 50% do PL em direitos creditórios.",
+     "opcoes": [
+      "180",
+      "90",
+      "superior",
+      "igual"
+     ],
+     "respostas": [
+      "180",
+      "superior"
+     ],
+     "explicacao": "O art. 44 exige enquadramento em até 180 dias e patamar superior a 50%.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo II, art. 44"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "A classe de investimento em cotas destina no mínimo ___% do PL a cotas de outros ___ .",
+     "opcoes": [
+      "67",
+      "50",
+      "FIDC",
+      "FII"
+     ],
+     "respostas": [
+      "67",
+      "FIDC"
+     ],
+     "explicacao": "A definição específica consta do art. 2º, VI, e do art. 44.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo II, arts. 2º, VI, e 44"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a triagem inicial de uma proposta de investimento em FIDC.",
+     "itens": [
+      "Identificar a natureza e a origem dos direitos creditórios",
+      "Conferir lastro, cessão, devedores e concentração",
+      "Avaliar subordinação, liquidez e cenários de perda",
+      "Verificar elegibilidade e limites do RPPS",
+      "Documentar decisão e monitoramento"
+     ],
+     "explicacao": "A sequência sai do ativo subjacente, passa pela estrutura e pelo risco e termina no filtro previdenciário e na governança.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo II; Resolução CMN 5.272/2025"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Cedente",
+       "Transfere direitos creditórios ao FIDC"
+      ],
+      [
+       "Devedor",
+       "Deve pagar o recebível"
+      ],
+      [
+       "Subclasse sênior",
+       "Tem prioridade relativa prevista no regulamento"
+      ],
+      [
+       "Classe de investimento em cotas",
+       "Aplica no mínimo 67% em cotas de outros FIDC"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cginv-outros-fundos-9-3-2",
+   "titulo": "FII e FIP: ativos reais e participação empresarial",
+   "microconteudo": "O QUE A BANCA COBRA:\nFII e FIP são veículos diferentes, ainda que ambos possam ter classes fechadas e ativos de difícil venda. O FII financia empreendimentos imobiliários; o FIP investe em participações empresariais e, como regra, busca influenciar a estratégia e a gestão das sociedades investidas. Não há estatística pública de itens do CGINV III para afirmar frequência. A matriz Pareto e o Manual de Certificação Profissional RPPS v2.0 justificam prioridade; a preparação deve comparar composição, público elegível, forma de negociação, horizonte e riscos de cada classe.\n\nENTENDA:\nO FII, disciplinado pelo Anexo Normativo III da CVM 175, aplica em empreendimentos imobiliários. A carteira pode envolver imóveis, direitos reais, valores mobiliários ligados ao setor e cotas de outros fundos, conforme as regras do anexo e o regulamento. As classes de FII são constituídas em regime fechado e podem ter duração indeterminada. Regime fechado significa que o cotista não conta com resgate ordinário a pedido nos moldes de fundo aberto; a saída pode depender de negociação em mercado secundário, amortização, liquidação ou evento regulatório. Negociação em bolsa oferece canal, não garante volume, preço justo nem liquidez em estresse.\n\nO retorno pode vir de aluguéis, exploração do empreendimento, juros de instrumentos imobiliários, valorização ou venda de ativos, conforme a política. Cada fonte traz riscos: vacância, inadimplência de locatários, concentração de imóveis ou regiões, despesas de manutenção, obras, licenças, atraso de construção, revisão de laudos, taxa de juros e desconto da cota no mercado. Se o fundo detém imóveis, valor patrimonial estimado não equivale ao preço pelo qual o ativo será vendido. Se a carteira é de recebíveis, o risco de crédito pode dominar. Se investe em cotas de outros FIIs, surgem camadas de taxa e exposição indireta. Logo, leia composição e estratégia em vez de inferir o risco apenas pela palavra “imobiliário”.\n\nPara o RPPS, a CMN 5.272/2025 trata FII em segmento próprio. O art. 11 prevê até 20% em cotas de classes de FII negociadas em pregões de bolsa; o §1º reserva a aplicação a RPPS com nível III ou superior de aderência ao Pró-Gestão. A aplicação primária depende de previsão regulamentar de que as cotas serão disponibilizadas para negociação em bolsa após a oferta inicial. O §3º prevê tratamento específico para cotas integralizadas com imóveis legalmente vinculados ao RPPS: podem dispensar os limites da resolução e o regime pode ser único cotista da classe, observados os requisitos legais e regulatórios. Não misture essa exceção com aquisição ordinária de cotas no mercado.\n\nO FIP, regulado pelo Anexo Normativo IV, investe em ativos que conferem participação ou exposição societária às companhias elegíveis. Suas classes podem deter ações, títulos conversíveis e outros instrumentos previstos. A marca distintiva é a participação no processo decisório da investida, com influência efetiva sobre política estratégica e gestão, salvo classes de investimento em cotas. O FIP pode apoiar expansão, reorganização ou desenvolvimento de empresas, mas sua carteira concentra risco em poucas investidas, tem avaliação menos frequente que ações listadas e normalmente exige horizonte longo. Riscos incluem execução do plano de negócios, governança, conflito com controlador, alavancagem da investida, diluição, saída difícil e dependência de venda, oferta pública ou evento de liquidez.\n\nA CMN 5.272/2025 classifica FIP como investimento estruturado, com limite de até 10% dos recursos no segmento (art. 10, III), em classes fechadas. A aplicação é reservada a RPPS com nível IV de aderência; a resolução também limita subscrições posteriores, salvo para preservar a proporção já investida, e exige requisitos adicionais para aplicação direta. Entre eles estão condições de qualificação da classe como entidade de investimento e experiências prévias do gestor, detalhadas no art. 10, §1º e incisos aplicáveis. Confira o dispositivo vigente completo no momento da decisão; não resuma elegibilidade a um único requisito. O limite do segmento não elimina limites globais, consolidação de posições, política de investimentos, análise de passivos ou diligência.\n\nDOUTRINA:\nNão foi localizado, nos materiais bibliográficos acessíveis nesta execução, manual especializado de fundos com edição e página confirmáveis para citação literal. Em vez de atribuir uma classificação doutrinária sem fonte verificável, a análise usa as categorias regulatórias: FII como veículo de investimento em empreendimentos imobiliários e FIP como veículo de participação empresarial com influência na investida. A diferença econômica importa mais do que a semelhança formal do regime fechado: o primeiro depende do mercado imobiliário e da renda/valorização associada; o segundo, da criação de valor e do desinvestimento societário.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nNão há precedente judicial central indispensável para a distinção. Para FII, consulte o Anexo III da CVM 175 e o Ofício Circular CVM/SSE 2/2024 sobre assembleias e divulgação de rendimentos. A CVM alterou o Anexo III por meio da Resolução 200/2024, inclusive para refletir permissões legais relativas a garantias e ônus reais em imóveis da carteira. Para FIP, o Anexo IV estabelece a influência efetiva e os ativos permitidos; não confunda evolução normativa com dispensa de análise de governança ou saída. A CMN 5.272/2025 substituiu a Resolução 4.963/2021, portanto tabelas antigas de limites não devem ser usadas como vigentes.\n\nPEGADINHAS:\n1. FII fechado não oferece resgate ordinário diário; a bolsa pode dar saída, sem garantir liquidez.\n2. O limite CMN de até 20% em FII não se aplica indistintamente a qualquer RPPS: exige nível III ou superior e cotas negociadas em bolsa, ressalvada a hipótese legal específica do §3º.\n3. A classe FIP normalmente deve influenciar a sociedade investida; comprar participação passiva em qualquer ação não basta para caracterizá-lo.\n4. FIP e FII são classes fechadas, mas suas fontes de retorno e riscos são distintos.\n5. O limite de 10% para FIP é segmento de investimentos estruturados; não significa que o RPPS pode sempre aplicar esse percentual. O nível IV e os requisitos adicionais também importam.\n6. “Imóvel no patrimônio” não significa liquidez imediata nem valor realizável igual ao laudo.\n\nESQUEMA:\nFII → empreendimento imobiliário → aluguel, recebíveis ou valorização → risco de vacância, crédito, obra, concentração e liquidez → Anexo III/CVM 175.\nFIP → participação em sociedade → influência estratégica e potencial saída futura → risco empresarial, governança, concentração e prazo → Anexo IV/CVM 175.\nRPPS/FII → até 20% em cotas negociadas em bolsa; nível III+; CMN 5.272/2025, art. 11.\nRPPS/FIP → até 10% no segmento estruturado; classe fechada; nível IV; art. 10 e parágrafos da CMN 5.272/2025.\n\nLIGAÇÕES:\nConecte FII à análise de renda variável, renda fixa imobiliária e risco de liquidez; conecte FIP a investimentos estruturados, governança, avaliação de desempenho e desinvestimento (CGINV III 10–14).",
+   "flashcards": [
+    {
+     "frente": "Em que regime são constituídas as classes de FII?",
+     "verso": "Em regime fechado; podem ter prazo de duração indeterminado.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo III, art. 3º"
+    },
+    {
+     "frente": "Qual é o traço regulatório que distingue o FIP de uma carteira passiva de ações?",
+     "verso": "A classe deve participar do processo decisório com influência efetiva na política estratégica e gestão da investida, salvo classe de investimento em cotas.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo IV, art. 5º, §1º"
+    },
+    {
+     "frente": "Que limite e nível do Pró-Gestão se aplicam ao investimento ordinário do RPPS em FII?",
+     "verso": "Até 20% em cotas negociadas em bolsa; exige nível III ou superior.",
+     "dispositivo": "Resolução CMN 5.272/2025, art. 11, caput e §1º"
+    },
+    {
+     "frente": "Em qual segmento previdenciário o FIP é classificado?",
+     "verso": "Investimentos estruturados, com limite específico de até 10% e requisitos adicionais.",
+     "dispositivo": "Resolução CMN 5.272/2025, art. 10, III"
+    },
+    {
+     "frente": "O que regime fechado significa para a liquidez do cotista de FII?",
+     "verso": "Não há resgate ordinário a pedido; a saída depende de negociação, amortização, liquidação ou evento previsto.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo III, art. 3º; Parte Geral"
+    },
+    {
+     "frente": "Quais riscos de FIP permanecem mesmo quando a tese empresarial parece promissora?",
+     "verso": "Execução, governança, concentração, avaliação, diluição e dificuldade ou demora de desinvestimento.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo IV, arts. 5º e 8º; Resolução CMN 5.272/2025, art. 10"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "As classes de cotas de FII devem ser constituídas em regime fechado, embora possam ter prazo de duração indeterminado.",
+     "gabarito": "C",
+     "comentario": "Correto. O Anexo III, art. 3º, prevê regime fechado e admite duração indeterminada. Duração indeterminada não transforma a classe em aberta nem cria direito geral de resgate diário.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo III, art. 3º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Se o RPPS alcança nível III do Pró-Gestão, pode adquirir cotas de qualquer FII, inclusive fora de bolsa e sem atender à regra da oferta primária.",
+     "gabarito": "E",
+     "comentario": "Errado. O nível III ou superior é requisito de acesso, mas o art. 11 exige cotas negociadas nos pregões de bolsa e seu §2º, II, condiciona aquisição primária à previsão de negociação após a oferta inicial. Requisitos adicionais de carteira e governança também permanecem. Base: Resolução CMN 5.272/2025, art. 11, §§1º e 2º.",
+     "dispositivo": "Resolução CMN 5.272/2025, art. 11, §§1º e 2º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A valorização indicada em laudo de imóvel de FII assegura que o cotista obterá esse mesmo valor ao vender sua cota no mercado secundário.",
+     "gabarito": "E",
+     "comentario": "Errado. Laudo estima valor do ativo imobiliário, enquanto a cota negocia segundo oferta, demanda, liquidez, expectativas e composição patrimonial. O Anexo III não transforma laudo em preço de saída garantido.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo III, arts. 2º e 40"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "A classe de FIP deve, como regra, participar do processo decisório das sociedades investidas e exercer influência efetiva na definição de política estratégica e gestão; a norma excetua a classe de investimento em cotas.",
+     "gabarito": "C",
+     "comentario": "Correto. Essa é a exigência expressa do Anexo IV, art. 5º, §1º. Não se deve converter a regra em exigência idêntica para uma classe que investe em cotas de outros FIP.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo IV, art. 5º, §1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Um RPPS com nível III pretende comprar, no mercado secundário, cotas de FII listadas em bolsa; o valor está abaixo de 20% da carteira. Qual conclusão inicial é adequada?",
+     "alternativas": {
+      "A": "A operação está automaticamente vedada porque FII só pode ser adquirido por RPPS nível IV.",
+      "B": "O limite é de 10% e se aplica ao segmento de investimentos estruturados.",
+      "C": "O limite de 20% vale para qualquer FII, mesmo não negociado em bolsa.",
+      "D": "A operação pode ser compatível com o requisito de nível e o limite do art. 11, mas exige verificar a política, demais condições e exposição consolidada do RPPS.",
+      "E": "O nível III dispensa análise de liquidez, preço e passivo atuarial."
+     },
+     "gabarito": "D",
+     "comentario": "D é correta: nível III atende ao patamar do art. 11, §1º, e cotas em bolsa se enquadram na hipótese do caput, sujeitas ao teto de até 20%. Isso não substitui demais verificações. A troca requisito para nível IV; B confunde com limite de FIP; C ignora a negociação em bolsa; E elimina deveres de gestão de risco e adequação. Base: Resolução CMN 5.272/2025, arts. 1º, 6º e 11.",
+     "dispositivo": "Resolução CMN 5.272/2025, arts. 1º, 6º e 11"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "A classe FIP Horizonte detém 28% de uma empresa de tecnologia fechada, mas não possui direitos de governança, assento, veto nem outra forma de influência. Qual análise regulatória deve ser feita?",
+     "alternativas": {
+      "A": "Verificar se a estrutura assegura participação no processo decisório e influência efetiva; o percentual isolado não substitui o requisito do Anexo IV.",
+      "B": "Concluir que todo investimento acima de 20% automaticamente satisfaz o requisito.",
+      "C": "Tratar a classe como FII porque a empresa possui sede própria.",
+      "D": "Dispensar análise porque a classe é fechada.",
+      "E": "Presumir que a influência existe sempre que a investida não tem ações negociadas."
+     },
+     "gabarito": "A",
+     "comentario": "A é correta. O Anexo IV, art. 5º, §1º, exige influência efetiva, não um percentual fixo de participação. B cria presunção quantitativa; C confunde a atividade da investida com categoria do fundo; D troca regime por requisito material; E presume influência sem examinar direitos e prática. Base: Resolução CVM 175/2022, Anexo IV, art. 5º, §1º.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo IV, art. 5º, §1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "O comitê de um RPPS nível IV estuda subscrever uma nova emissão de cotas de FIP para manter a participação proporcional já detida. O fundo é fechado e o limite do segmento ainda comporta a operação. Qual encaminhamento é correto?",
+     "alternativas": {
+      "A": "Toda emissão subsequente é obrigatória para manter os direitos políticos.",
+      "B": "A subscrição subsequente é vedada sem exceção.",
+      "C": "Pode incidir a exceção para manter a proporção já investida, mas devem ser verificados os requisitos específicos de FIP, os limites e a política do RPPS.",
+      "D": "O limite de 10% dispensa nível IV.",
+      "E": "A aprovação da CVM torna desnecessária a diligência sobre a investida."
+     },
+     "gabarito": "C",
+     "comentario": "C é correta. O art. 10, III, admite a subscrição subsequente quando necessária para manter a proporção já investida; isso não afasta nível IV, classe fechada, requisitos adicionais e dever de diligência. A torna exceção obrigação; B omite ressalva expressa; D separa indevidamente limite e nível; E confunde registro e análise do RPPS. Base: Resolução CMN 5.272/2025, art. 10, III e §1º.",
+     "dispositivo": "Resolução CMN 5.272/2025, art. 10, III e §1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Um FII aufere aluguel de um único imóvel em cidade cuja economia depende de uma indústria em retração. Qual leitura de risco é mais completa?",
+     "alternativas": {
+      "A": "Há apenas risco de taxa de juros, porque o imóvel é um ativo real.",
+      "B": "Vacância, concentração de locatário/região/setor, inadimplência e dificuldade de venda podem atuar conjuntamente; o laudo não elimina esses riscos.",
+      "C": "A ausência de resgate de FII fechado significa que o cotista não pode vender a cota a terceiros.",
+      "D": "A renda de aluguel transforma a cota em renda fixa garantida.",
+      "E": "O risco fica limitado ao valor do aluguel mensal e não afeta o preço da cota."
+     },
+     "gabarito": "B",
+     "comentario": "B é correta: fatores imobiliários, de crédito, concentração e liquidez podem coexistir e afetar fluxo e preço. A reduz indevidamente o risco; C confunde ausência de resgate com impossibilidade de negociação; D presume garantia; E ignora vacância, despesas e preço de mercado. Base: Resolução CVM 175/2022, Anexo III, arts. 2º e 3º; Resolução CMN 5.272/2025, art. 6º.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo III, arts. 2º e 3º; Resolução CMN 5.272/2025, art. 6º"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O FII aplica em ___ imobiliários; o FIP busca participação em ___ investidas.",
+     "opcoes": [
+      "empreendimentos",
+      "sociedades",
+      "índices",
+      "recebíveis"
+     ],
+     "respostas": [
+      "empreendimentos",
+      "sociedades"
+     ],
+     "explicacao": "As finalidades específicas estão nos Anexos III e IV da CVM 175.",
+     "dispositivo": "Resolução CVM 175/2022, Anexos III, art. 2º, e IV, art. 5º"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Para aplicação ordinária em FII, a CMN 5.272 exige nível ___ ou superior e cotas negociadas em ___.",
+     "opcoes": [
+      "III",
+      "IV",
+      "bolsa",
+      "balcão"
+     ],
+     "respostas": [
+      "III",
+      "bolsa"
+     ],
+     "explicacao": "O art. 11 combina negociação em bolsa com nível III ou superior, além de outros requisitos.",
+     "dispositivo": "Resolução CMN 5.272/2025, art. 11, caput e §1º"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma proposta de FIP para um RPPS.",
+     "itens": [
+      "Entender a tese, setor e sociedades-alvo",
+      "Conferir governança e influência efetiva do FIP nas investidas",
+      "Avaliar concentração, valuation, prazo e estratégia de saída",
+      "Verificar nível Pró-Gestão, elegibilidade e limites da CMN",
+      "Aprovar, documentar e monitorar a exposição"
+     ],
+     "explicacao": "A análise parte do ativo e dos direitos de governança, passa por risco e saída e só então aplica os filtros previdenciários e a governança decisória.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo IV; Resolução CMN 5.272/2025, art. 10"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "FII",
+       "Empreendimentos imobiliários"
+      ],
+      [
+       "FIP",
+       "Participações com influência na investida"
+      ],
+      [
+       "Vacância",
+       "Risco de imóvel sem ocupação ou renda"
+      ],
+      [
+       "Desinvestimento",
+       "Saída da participação empresarial e realização do valor"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cginv-outros-fundos-9-3-3",
+   "titulo": "ETF e fundos previdenciários: índice, exposição e público",
+   "microconteudo": "O QUE A BANCA COBRA:\nETF é a denominação usual do fundo de índice regulado pelo Anexo Normativo V da CVM 175. O fundo previdenciário do Anexo XI é outra figura: fundo constituído por entidade aberta de previdência complementar ou seguradora e vinculado a plano ou seguro elegível. Não há prova pública do CGINV III que permita quantificar itens; portanto, o raio-x adota o programa oficial e prioriza as confusões de finalidade, negociação, índice, risco de acompanhamento e público-alvo. Para um RPPS, ainda é necessário aplicar os limites próprios da CMN 5.272/2025, independentemente do rótulo comercial do veículo.\n\nENTENDA:\nO ETF aplica em carteira que visa refletir variações e rentabilidade de um índice de referência reconhecido pela CVM. Em estratégia passiva, o gestor pode replicar integralmente a composição do índice ou usar otimização para acompanhar o comportamento do referencial. O objetivo não é necessariamente superar o índice. A diferença entre retorno do fundo e do índice é o erro de aderência; custos, caixa, rebalanceamentos, tributação, indisponibilidade de ativos e método de replicação influenciam o resultado. Um índice pode subir e o ETF render menos; também pode cair e o fundo acompanhar a queda. “Segue o índice” descreve objetivo e método, não garantia de retorno nem de réplica perfeita.\n\nA negociação do ETF em bolsa aproxima a experiência do investidor à compra e venda de cotas como valor mobiliário. O preço em mercado pode se afastar do valor patrimonial da cota e do valor indicativo dos ativos, sobretudo se a liquidez do ETF ou dos componentes for baixa, houver choque de mercado, diferença de fuso ou restrição operacional. A criação e o resgate de cotas em grandes lotes por participantes autorizados sustentam a arbitragem e o alinhamento, mas não eliminam spreads, risco de liquidez, erro de aderência ou risco de mercado. Para avaliar uma classe, examine índice, metodologia, concentração, rebalanceamento, derivativos, exposição cambial, mercado de negociação e custo total. ETF internacional e ETF de ações brasileiros têm enquadramentos previdenciários distintos.\n\nNa Resolução CMN 5.272/2025, ETF aparece em diferentes hipóteses, conforme segmento e composição. O art. 8º permite até 40% em classes de ETF de ações negociáveis em bolsa; prevê até 10% em ETF internacional admitido à negociação em bolsa no Brasil, observados os requisitos regulatórios; e há tratamento próprio para outras exposições. O limite não se lê isolado: confira o segmento, a certificação exigida, limites globais, qualidade de crédito quando aplicável e a consolidação da posição do RPPS. A resolução define no art. 13 que aplicações diretas e exposições indiretas por fundos devem ser consolidadas para verificar limites. Assim, uma exposição por ETF ou por outro fundo pode somar-se a posições da carteira própria.\n\nO Anexo XI regula fundos previdenciários constituídos por entidades abertas de previdência complementar e sociedades seguradoras, vinculados exclusivamente a planos previdenciários ou seguros de pessoas elegíveis. O patrimônio não se comunica com o patrimônio da entidade ou seguradora constituidora, nem responde subsidiariamente por suas dívidas. Apesar do nome, fundo previdenciário não constitui categoria autônoma na classificação geral da CVM: a entidade ou seguradora define a categoria aplicável à carteira, sujeita às regras pertinentes. Participante de plano aberto ou segurado não é automaticamente cotista de um fundo de RPPS; o regime próprio também não vira entidade aberta por aplicar em fundo. A similaridade de objetivo previdenciário não apaga diferenças de regime jurídico, beneficiário e governança.\n\nNo exame profissional, classifique primeiro quem investe e quem é o público. O CGINV III trata do profissional que analisa recursos de RPPS. Já o Anexo XI alcança veículos ligados a planos de previdência complementar aberta e seguros com cobertura por sobrevivência. A norma da CVM sobre fundos e a regulação do CNSP sobre planos/seguros podem interagir, mas não são sinônimos. Verifique a categoria do fundo, o regulamento, a classe, a política de investimentos e as regras do segmento previdenciário correspondente. Em qualquer veículo, o cotista suporta os riscos da carteira nos termos legais e regulamentares; a segregação patrimonial protege contra dívidas da entidade constituidora, mas não garante rentabilidade nem impede perdas do investimento.\n\nDOUTRINA:\nNão foi localizado material doutrinário financeiro com edição e paginação conferíveis na biblioteca acessível nesta execução. A distinção adotada segue a classificação normativa oficial: ETF é fundo cujo objetivo é acompanhar índice de mercado; fundo previdenciário do Anexo XI é veículo conectado a planos de previdência aberta ou seguros de pessoas e não uma categoria autônoma de ativo. Não atribuo a autores uma tese ou citação sem poder conferir a fonte. Para a decisão de investimento, a abordagem prática é separar risco de mercado e tracking error da adequação previdenciária do produto e da elegibilidade do investidor.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nNão há precedente judicial necessário à compreensão dos conceitos. A CVM, em decisão do Colegiado de 19/05/2026, esclareceu que BDR-ETF no regime então vigente só podia ter ETF estrangeiro passivo como lastro, considerando as disposições do Anexo V; a própria decisão indicou que a reforma normativa para ETF ativo estava em andamento. Por isso, não generalize a regra histórica para produtos futuros sem verificar alteração posterior. A Resolução CVM 175 consolidada consultada em 23/11/2026 registra alterações até as Resoluções 240/2026 e 247/2026; a 247 alterou o Anexo II, não muda por si só as regras de ETF.\n\nPEGADINHAS:\n1. ETF busca refletir índice; não promete superar o índice nem acompanha sem erro.\n2. Cotação em bolsa não é necessariamente igual ao valor patrimonial ou ao valor indicativo da carteira.\n3. Negociação secundária não equivale ao mecanismo de criação e resgate primário por lotes.\n4. Limites CMN de ETF variam por segmento e tipo de exposição; não se deve aplicar um único percentual a todos.\n5. O fundo previdenciário do Anexo XI não é uma nova categoria geral nem um fundo de RPPS por definição.\n6. Segregação contra dívidas da entidade instituidora não elimina o risco de mercado dos ativos do fundo.\n\nESQUEMA:\nETF → carteira que busca refletir índice reconhecido → replicação integral ou otimização → preço em bolsa + valor patrimonial → tracking error, liquidez, concentração e risco de mercado.\nRPPS/ETF → classificar segmento e tipo de exposição → aplicar limite específico CMN → consolidar exposições (art. 13) → documentar e monitorar.\nFundo previdenciário (Anexo XI) → entidade aberta/seguradora → plano ou seguro elegível → patrimônio separado da constituidora → não se confunde com RPPS.\n\nLIGAÇÕES:\nConecte ETF à renda variável, índices de referência e tracking error (CGINV III 8.2 e 13.9–13.12); conecte fundo previdenciário à distinção entre RPPS, previdência complementar aberta e seguros de pessoas.",
+   "flashcards": [
+    {
+     "frente": "Qual é a finalidade regulatória básica de um ETF?",
+     "verso": "Aplicar em carteira que vise refletir as variações e rentabilidade de um índice de referência.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo V, art. 2º"
+    },
+    {
+     "frente": "ETF garante resultado idêntico ao índice?",
+     "verso": "Não. Custos, caixa, composição e negociação podem gerar erro de aderência e diferenças de retorno.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo V, arts. 2º e 31"
+    },
+    {
+     "frente": "Qual limite do art. 8º da CMN 5.272/2025 se refere a ETF de ações negociável em bolsa?",
+     "verso": "Até 40%, sujeito às demais condições, limites globais e à política do RPPS.",
+     "dispositivo": "Resolução CMN 5.272/2025, art. 8º, II"
+    },
+    {
+     "frente": "Quem constitui os fundos previdenciários regulados pelo Anexo XI?",
+     "verso": "Entidades abertas de previdência complementar e sociedades seguradoras, vinculados a planos ou seguros elegíveis.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo XI, art. 1º"
+    },
+    {
+     "frente": "O fundo previdenciário do Anexo XI é categoria autônoma na classificação geral da CVM?",
+     "verso": "Não. A entidade ou seguradora define a categoria do fundo, que se sujeita às regras aplicáveis.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo XI, art. 1º, §2º"
+    },
+    {
+     "frente": "A segregação patrimonial do Anexo XI elimina perdas da carteira?",
+     "verso": "Não. Separa o patrimônio de dívidas da entidade/seguradora instituidora, mas a carteira permanece exposta a seus riscos.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo XI, art. 1º, §1º"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Um ETF que acompanha um índice pode empregar otimização de carteira em vez de reproduzir integralmente cada ativo do índice, desde que isso esteja compatível com sua política e divulgação.",
+     "gabarito": "C",
+     "comentario": "Correto. O Anexo V admite explicitar no material do fundo se o acompanhamento ocorre por replicação integral ou por métodos de otimização da carteira. A finalidade continua sendo refletir o índice, não garantir igualdade perfeita diária. Base: Resolução CVM 175/2022, Anexo V, arts. 2º e 31.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo V, arts. 2º e 31"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Como as cotas de ETF são negociadas em bolsa, seu preço de mercado precisa coincidir, em qualquer momento, com o valor patrimonial por cota.",
+     "gabarito": "E",
+     "comentario": "Errado. Oferta, demanda, liquidez, custos e condições do mercado podem afastar o preço do valor patrimonial ou indicativo. O mecanismo de arbitragem reduz desvios, mas não garante coincidência instantânea. Base: Resolução CVM 175/2022, Anexo V, arts. 2º e 31.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo V, arts. 2º e 31"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A Resolução CMN 5.272/2025 prevê até 40% em cotas de classes de ETF de ações negociáveis em bolsa no segmento de renda variável, sem afastar os demais limites e critérios.",
+     "gabarito": "C",
+     "comentario": "Correto. O art. 8º, II, prevê esse limite específico; continuam aplicáveis requisitos do segmento, limites globais e a consolidação de exposições. Base: Resolução CMN 5.272/2025, arts. 8º, 13 e 14.",
+     "dispositivo": "Resolução CMN 5.272/2025, arts. 8º, II, 13 e 14"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "O fundo previdenciário do Anexo XI constitui categoria autônoma de fundo e pode ser criado por qualquer RPPS para abrigar suas reservas.",
+     "gabarito": "E",
+     "comentario": "Errado. O Anexo XI trata de fundos constituídos por entidades abertas de previdência complementar e seguradoras e vinculados a planos ou seguros elegíveis. Não cria categoria autônoma e não caracteriza, por si, fundo de RPPS. Base: Resolução CVM 175/2022, Anexo XI, art. 1º, caput e §2º.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo XI, art. 1º, caput e §2º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Uma classe do RPPS investe em ETF de ações listado em bolsa. Qual análise de limites deve ser iniciada?",
+     "alternativas": {
+      "A": "Aplicar o teto de FIP porque ETF é investimento estruturado.",
+      "B": "Usar até 20% como se toda cota de fundo fosse FII.",
+      "C": "Ignorar a carteira subjacente, porque a compra ocorre em bolsa.",
+      "D": "Usar o limite de 10% de ETF internacional, ainda que o produto seja ETF de ações brasileiro.",
+      "E": "Classificar a exposição no segmento e verificar o limite específico de até 40%, mais a consolidação, elegibilidade e demais condições da CMN."
+     },
+     "gabarito": "E",
+     "comentario": "E é correta. O art. 8º, II, prevê até 40% para ETF de ações negociável em bolsa; os arts. 13 e 14 exigem consolidação e observância de limite global. A confunde com FIP; B troca por FII; C elimina indevidamente a análise da carteira; D aplica limite de ETF internacional a produto diverso. Base: Resolução CMN 5.272/2025, arts. 8º, 13 e 14.",
+     "dispositivo": "Resolução CMN 5.272/2025, arts. 8º, II, 13 e 14"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 2026, o RPPS de Rio Claro possui ETF brasileiro de ações e exposição indireta a esse mesmo índice por outro fundo. Como verificar o limite?",
+     "alternativas": {
+      "A": "Somar as exposições diretas e indiretas nos termos de consolidação da CMN, classificar os segmentos e testar os limites individuais e globais.",
+      "B": "Contar apenas as cotas compradas diretamente na bolsa.",
+      "C": "Contabilizar cada fundo como emissor distinto e ignorar os ativos subjacentes.",
+      "D": "Considerar que a diversificação em dois veículos exclui a concentração econômica.",
+      "E": "Aplicar o limite somente na data da aquisição, sem monitoramento posterior."
+     },
+     "gabarito": "A",
+     "comentario": "A é correta. O art. 13 determina consolidação das posições próprias e das exposições indiretas por fundos para conferir limites; o art. 14 prevê limites globais. B e C ignoram consolidação; D confunde forma jurídica com exposição econômica; E elimina o dever contínuo de controle. Base: Resolução CMN 5.272/2025, arts. 13 e 14.",
+     "dispositivo": "Resolução CMN 5.272/2025, arts. 13 e 14"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Uma seguradora constituiu fundo vinculado a seguro de pessoas com cobertura por sobrevivência. Qual efeito decorre do Anexo XI sobre o patrimônio?",
+     "alternativas": {
+      "A": "O fundo responde subsidiariamente por toda dívida da seguradora.",
+      "B": "O patrimônio não se comunica com o da seguradora constituidora nem responde, sequer subsidiariamente, por suas dívidas; isso não garante o resultado dos ativos da carteira.",
+      "C": "O patrimônio do fundo se confunde com o da entidade, salvo decisão judicial.",
+      "D": "A segregação torna a cota isenta de risco de mercado.",
+      "E": "O veículo se converte automaticamente em RPPS."
+     },
+     "gabarito": "B",
+     "comentario": "B é correta. O Anexo XI, art. 1º, §1º, separa o patrimônio das dívidas da entidade instituidora, mas isso não elimina os riscos da carteira. A e C negam a segregação; D confunde proteção patrimonial com garantia de investimento; E mistura regimes previdenciários. Base: Resolução CVM 175/2022, Anexo XI, art. 1º, §§1º e 2º.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo XI, art. 1º, §§1º e 2º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Uma proposta chama o fundo de “previdenciário”, mas ele não está vinculado a plano aberto nem a seguro de pessoas. Qual passo evita erro de enquadramento?",
+     "alternativas": {
+      "A": "Aceitar o rótulo comercial como prova de incidência do Anexo XI.",
+      "B": "Tratar qualquer fundo com objetivo de longo prazo como fundo previdenciário regulado pelo Anexo XI.",
+      "C": "Considerar o veículo isento das regras da categoria de carteira que efetivamente adota.",
+      "D": "Presumir que o cotista é RPPS porque o objetivo é previdenciário.",
+      "E": "Verificar constituidor, plano/seguro vinculado e categoria regulatória da carteira; o Anexo XI não cria categoria autônoma geral."
+     },
+     "gabarito": "E",
+     "comentario": "E é correta. O Anexo XI delimita os fundos por constituidor e vínculo; seu §2º esclarece que não são categoria específica, cabendo à entidade ou seguradora definir a categoria nos termos da regra. A e B inferem incidência apenas do nome ou objetivo; C dispensa indevidamente a regulamentação da carteira; D presume que o cotista é RPPS sem base normativa. Base: Resolução CVM 175/2022, Anexo XI, art. 1º.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo XI, art. 1º"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O ETF visa refletir a variação e a rentabilidade de um ___ de referência; esse objetivo não garante aderência ___.",
+     "opcoes": [
+      "índice",
+      "ativo",
+      "perfeita",
+      "diária"
+     ],
+     "respostas": [
+      "índice",
+      "perfeita"
+     ],
+     "explicacao": "A finalidade está no art. 2º do Anexo V; diferenças de composição e custo geram tracking error.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo V, arts. 2º e 31"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "O Anexo XI alcança fundos constituídos por entidade aberta de previdência complementar ou ___, vinculados a plano ou ___.",
+     "opcoes": [
+      "seguradora",
+      "RPPS",
+      "seguro",
+      "ETF"
+     ],
+     "respostas": [
+      "seguradora",
+      "seguro"
+     ],
+     "explicacao": "O art. 1º delimita constituidor e vínculo do fundo previdenciário.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo XI, art. 1º"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a checagem de adequação de um ETF para carteira de RPPS.",
+     "itens": [
+      "Identificar índice e política de investimento",
+      "Verificar tipo de ETF, mercado e ativos subjacentes",
+      "Medir concentração, liquidez, custos e erro de aderência",
+      "Classificar segmento e aplicar limites CMN com consolidação",
+      "Registrar decisão, monitorar preço, exposição e aderência"
+     ],
+     "explicacao": "A análise começa pelo mandato do ETF, avalia a carteira e termina nos filtros previdenciários e no monitoramento.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo V; Resolução CMN 5.272/2025, arts. 8º, 13 e 14"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Índice de referência",
+       "Parâmetro cuja variação o ETF busca refletir"
+      ],
+      [
+       "Tracking error",
+       "Diferença de aderência entre fundo e índice"
+      ],
+      [
+       "Mercado secundário",
+       "Negociação de cotas entre investidores"
+      ],
+      [
+       "Anexo XI",
+       "Fundos ligados a planos de previdência aberta ou seguros elegíveis"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

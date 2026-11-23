@@ -1,0 +1,599 @@
+{
+ "assunto": "Direito Penal — aplicação da lei no tempo e no espaço; teoria do delito",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 (CF e Código Penal compilados conferidos no Planalto; jurisprudência STF/STJ oficial conferida)",
+ "origem": "2026-11-23_banco-penal-aplicacao-da-lei-e-teoria-delito_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "tjsc-penal-lei-tempo-1",
+   "titulo": "Sucessão de leis penais e tempo do crime",
+   "microconteudo": "O QUE A BANCA COBRA:\nA amostra C-08 consultada não permite dizer que a FGV cobra com frequência estatística própria, em concurso de juiz, cada subtema da lei penal no tempo. Ela mostra preferência por casos concretos e por consequências jurídicas. Para este tópico, resolva primeiro três perguntas: quando ocorreu a ação ou omissão, se o delito se prolongou e qual lei é mais favorável. Não confunda o momento do resultado com o tempo do crime, nem a extinção dos efeitos penais com o desaparecimento automático de efeitos civis.\n\nENTENDA:\nA regra constitucional é que a lei penal mais severa não retroage; a lei posterior mais benéfica alcança fatos anteriores, inclusive depois do trânsito em julgado (CF, art. 5º, XL; CP, art. 2º, parágrafo único). A abolitio criminis ocorre quando lei posterior deixa de considerar criminosa a conduta: extingue a punibilidade e faz cessar execução e efeitos penais da condenação. Os efeitos civis, como reparação do dano, não são automaticamente apagados pela regra penal (CP, art. 2º). A novatio legis incriminadora e a lex gravior só alcançam fatos praticados depois de entrarem em vigor; a lei intermediária mais benéfica pode incidir porque foi vigente no intervalo do fato e da decisão, desde que seja a solução mais favorável.\n\nQuando duas leis sucessivas regulam o mesmo fato, a comparação deve ser concreta e integral. O juiz identifica as consequências de cada regime e não combina livremente trechos de leis para formar uma terceira disciplina sem base legislativa. A lei temporária ou excepcional continua aplicável ao fato praticado durante sua vigência mesmo depois de encerrado o prazo ou a circunstância que a justificava: é ultratividade expressa do art. 3º do CP. Não se trata de aplicar lei nova a fato passado, mas de preservar a disciplina vigente na data da conduta, conforme a previsão legal.\n\nO tempo do crime segue a teoria da atividade: considera-se praticado no momento da ação ou omissão, ainda que o resultado apareça depois (CP, art. 4º). Isso resolve, por exemplo, qual lei em princípio incide se a conduta ocorreu antes da alteração normativa e o resultado só veio depois; ainda é preciso examinar se o crime é permanente ou continuado. No crime permanente, a consumação se prolonga por vontade do agente; no continuado, há pluralidade de infrações ligadas pela ficção do art. 71. Segundo a Súmula 711 do STF, a lei mais grave aplica-se ao crime continuado ou permanente se sua vigência começa antes da cessação da continuidade ou permanência. O enunciado não autoriza retroagir a lei gravosa para conduta já encerrada.\n\nImagine que Helena mantém uma vítima privada de liberdade de 2 a 8 de março. Uma lei mais severa entra em vigor em 5 de março e a privação termina no dia 8. A análise da Súmula 711 considera que a permanência cessou depois da vigência; não basta olhar apenas o início da conduta. Se, ao contrário, o fato instantâneo se consumou em 2 de março e só deixou consequências duradouras, não se transforma por isso em crime permanente. O juiz deve classificar o delito a partir do tipo e dos fatos provados, sem usar o efeito prolongado como atalho.\n\nDOUTRINA:\nRogério Greco trata a sucessão de leis, a lei intermediária e a ultratividade como problemas de incidência temporal; Guilherme de Souza Nucci destaca a retroatividade benéfica como garantia constitucional e questão jurídica a ser aplicada, não favor discricionário. Referências indicadas nas fichas M-12: GRECO, Rogério. Curso de Direito Penal — Parte Geral, vol. 1, 19ª ed., 2017, seção sobre aplicação da lei penal; NUCCI, Guilherme de Souza. Curso de Direito Penal — Parte Geral, vol. 1, 2017, seção correspondente. As fichas não confirmam paginação e os manuais não estão acessíveis neste workspace; por isso não atribuo página nem cito literalmente. Essa limitação bibliográfica deve ser conferida antes da publicação definitiva. A legislação posterior e a jurisprudência oficial prevalecem sobre exemplos de obras de 2017.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nSTF, Súmula 711: a lei penal mais grave alcança crime continuado ou permanente quando entra em vigor antes de cessar a continuidade ou permanência. Base normativa: CF, art. 5º, XL; CP, arts. 2º a 4º. A súmula não transforma crime instantâneo de efeitos permanentes em delito permanente.\n\nPEGADINHAS:\n1. Lei benéfica retroage, ainda que haja trânsito em julgado; a gravosa não. 2. Abolitio criminis cessa efeitos penais, não extingue por si só reparação civil. 3. Lei temporária pode ser ultrativa por previsão do art. 3º. 4. Tempo do crime é ação ou omissão; lugar do crime usa outra regra. 5. A Súmula 711 exige permanência ou continuidade até a vigência da lei mais severa.\n\nESQUEMA:\nLei posterior benéfica → retroage → CP, art. 2º, parágrafo único.\nAbolitio criminis → cessam execução e efeitos penais → CP, art. 2º, caput.\nLei temporária/excepcional → ultratividade → CP, art. 3º.\nTempo do crime → atividade → CP, art. 4º.\nCrime permanente/continuado + lei gravosa antes da cessação → Súmula 711/STF.\n\nLIGAÇÕES:\nLegalidade e anterioridade penal (tópicos 1.4–1.6); classificação dos delitos e distinção entre permanência e efeitos duradouros (tópico 1.9).",
+   "flashcards": [
+    {
+     "frente": "Uma lei penal mais benéfica entra em vigor depois do trânsito em julgado. Ela pode alcançar o condenado?",
+     "verso": "Sim. A lei posterior benéfica retroage, mesmo após trânsito em julgado.",
+     "dispositivo": "CF, art. 5º, XL; CP, art. 2º, parágrafo único"
+    },
+    {
+     "frente": "A abolitio criminis apaga também a obrigação civil de reparar o dano?",
+     "verso": "Não automaticamente; cessam execução e efeitos penais, sem apagar por si só efeitos civis.",
+     "dispositivo": "CP, art. 2º, caput"
+    },
+    {
+     "frente": "Lei temporária expirou antes da sentença. Qual lei rege o fato praticado durante sua vigência?",
+     "verso": "A lei temporária pode continuar aplicável por ultratividade expressa.",
+     "dispositivo": "CP, art. 3º"
+    },
+    {
+     "frente": "A lei mais grave entra em vigor durante crime permanente. Qual marco a Súmula 711 exige?",
+     "verso": "Que a vigência seja anterior à cessação da permanência.",
+     "dispositivo": "STF, Súmula 711"
+    },
+    {
+     "frente": "Qual é o tempo do crime quando ação e resultado ocorrem em datas distintas?",
+     "verso": "O momento da ação ou omissão, pela teoria da atividade.",
+     "dispositivo": "CP, art. 4º"
+    },
+    {
+     "frente": "Efeito prolongado basta para classificar delito instantâneo como permanente?",
+     "verso": "Não. A permanência depende da estrutura do tipo e da consumação prolongada.",
+     "dispositivo": "CP, arts. 4º e 148"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Lei publicada depois do trânsito em julgado reduz a pena do delito e é mais benéfica no caso concreto. O juízo deve aplicá-la ao condenado.",
+     "gabarito": "C",
+     "comentario": "Correta. A lei posterior que favorece o agente alcança fatos anteriores ainda que a condenação tenha transitado em julgado; CP, art. 2º, parágrafo único, e CF, art. 5º, XL.",
+     "dispositivo": "CP, art. 2º, parágrafo único; CF, art. 5º, XL"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Quando lei posterior deixa de considerar o fato criminoso, desaparecem necessariamente a obrigação de reparar o dano e todos os efeitos civis da condenação.",
+     "gabarito": "E",
+     "comentario": "Incorreta. A abolitio criminis extingue punibilidade e efeitos penais; não apaga automaticamente efeitos civis. Base: CP, art. 2º, caput.",
+     "dispositivo": "CP, art. 2º, caput"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Se a lei temporária expira antes do julgamento, ela deixa de incidir sobre fatos praticados durante sua vigência, salvo se o juiz demonstrar perigo atual.",
+     "gabarito": "E",
+     "comentario": "Incorreta. O art. 3º prevê aplicação ao fato praticado durante a vigência mesmo após seu término; a condição adicional indicada não consta da lei.",
+     "dispositivo": "CP, art. 3º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "No crime permanente, a lei mais grave que passa a vigorar antes de cessada a permanência pode alcançar o fato, conforme a Súmula 711 do STF.",
+     "gabarito": "C",
+     "comentario": "Correta. A Súmula 711 admite incidência quando a lei entra em vigor antes da cessação da permanência; isso não autoriza retroatividade para fato já encerrado.",
+     "dispositivo": "Súmula 711/STF"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 2 de maio de 2026, Rafael praticou um fato instantâneo que causou prejuízo de R$ 1.200. Uma lei mais grave entrou em vigor em 5 de maio; o resultado só foi percebido em 9 de maio. Qual regra temporal se aplica?",
+     "alternativas": {
+      "A": "O tempo do crime é o da ação ou omissão; a lei mais grave posterior não retroage.",
+      "B": "Vale a lei vigente quando a vítima percebe o resultado.",
+      "C": "Aplica-se necessariamente a lei mais grave por ser o resultado posterior.",
+      "D": "O juiz pode escolher o regime mais rigoroso por prevenção.",
+      "E": "O fato se torna permanente até ser percebido."
+     },
+     "gabarito": "A",
+     "comentario": "A é correta: o CP, art. 4º, fixa o tempo do crime na ação ou omissão; a lei mais gravosa posterior não retroage (CF, art. 5º, XL). B usa percepção do dano, marco sem previsão; C confunde resultado com momento do crime; D substitui a legalidade por prevenção; E confunde efeito duradouro com permanência.",
+     "dispositivo": "CP, art. 4º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "A lei X vigorava quando Lia praticou, em 2024, fato que causou prejuízo de R$ 8.000; lei Y, vigente entre 2025 e 2026, reduziu a resposta penal; antes da sentença, lei Z restabeleceu pena maior que Y. Qual critério deve orientar o juiz?",
+     "alternativas": {
+      "A": "Aplicar sempre Z por ser a lei atual.",
+      "B": "Examinar a lei intermediária mais favorável e aplicar a disciplina benéfica cabível, sem combinar fragmentos para criar um regime novo.",
+      "C": "Somar as penas de X e Y.",
+      "D": "Desconsiderar qualquer lei que tenha deixado de vigorar.",
+      "E": "Aplicar Z retroativamente por segurança jurídica."
+     },
+     "gabarito": "B",
+     "comentario": "B é correta: a lei intermediária mais favorável pode alcançar o fato, mas o juiz compara regimes sem compor uma terceira disciplina (CP, art. 2º, parágrafo único; CF, art. 5º, XL). A e E aplicam lei mais gravosa retroativamente; C soma respostas sem base; D ignora a retroatividade benéfica.",
+     "dispositivo": "CP, art. 2º, parágrafo único; CF, art. 5º, XL"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 1º de junho de 2026, começou privação de liberdade de Bruno; o agente exigiu R$ 5.000 e a situação cessou em 12 de junho. Lei mais severa entrou em vigor no dia 6. À luz da Súmula 711, qual afirmação está correta?",
+     "alternativas": {
+      "A": "A lei nova não pode incidir porque a conduta começou antes.",
+      "B": "A lei nova incide em todo crime instantâneo com resultado duradouro.",
+      "C": "A lei mais severa pode incidir porque a permanência cessou depois de sua vigência, conforme a Súmula 711.",
+      "D": "Somente a lei do dia da denúncia pode ser aplicada.",
+      "E": "A retroatividade da lei mais gravosa é sempre autorizada em crimes contra a liberdade."
+     },
+     "gabarito": "C",
+     "comentario": "C é correta: a permanência cessou após a vigência da lei nova, situação abrangida pela Súmula 711/STF (CP, art. 2º; CF, art. 5º, XL). A ignora a consumação que continua; B confunde crime permanente com efeito duradouro; D usa marco sem relação com a regra; E inventa exceção ampla à irretroatividade.",
+     "dispositivo": "Súmula 711/STF"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 2026, uma lei excepcional vigorou de 1º de agosto a 30 de setembro para situação temporária. Em 15 de outubro, o juiz julga fato praticado em 20 de agosto, com proveito de R$ 3.000. Qual disciplina deve considerar?",
+     "alternativas": {
+      "A": "A lei excepcional nunca pode ser ultrativa.",
+      "B": "A lei mais benéfica sempre se aplica, mesmo que não exista.",
+      "C": "O juiz usa apenas a norma vigente na data da sentença.",
+      "D": "O art. 3º do CP conserva a aplicação da lei excepcional ao fato ocorrido durante sua vigência, sem prejuízo de eventual lei posterior benéfica.",
+      "E": "O encerramento da situação elimina retroativamente o fato."
+     },
+     "gabarito": "D",
+     "comentario": "D é correta: a lei excepcional continua aplicável ao fato ocorrido durante sua vigência, conforme CP, art. 3º; a retroatividade benéfica segue o art. 2º, parágrafo único. A nega a ultratividade expressa; B presume uma lei mais favorável inexistente; C escolhe a lei da sentença; E confunde o fim da situação com descriminalização.",
+     "dispositivo": "CP, art. 3º"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O CP adota a teoria da ___ para fixar o tempo do crime: considera a ação ou ___.",
+     "opcoes": [
+      "atividade",
+      "ubiquidade",
+      "omissão",
+      "resultado"
+     ],
+     "respostas": [
+      "atividade",
+      "omissão"
+     ],
+     "explicacao": "O art. 4º considera praticado o crime no momento da ação ou omissão.",
+     "dispositivo": "CP, art. 4º"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Lei posterior que favorece o agente retroage mesmo após o ___ em julgado.",
+     "opcoes": [
+      "trânsito",
+      "recebimento",
+      "recurso",
+      "acórdão"
+     ],
+     "respostas": [
+      "trânsito"
+     ],
+     "explicacao": "A garantia está no art. 2º, parágrafo único, do CP e no art. 5º, XL, da CF.",
+     "dispositivo": "CP, art. 2º, parágrafo único; CF, art. 5º, XL"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize o exame de sucessão de leis penais no tempo.",
+     "itens": [
+      "Fixar quando ocorreu a ação ou omissão e se a consumação se prolongou.",
+      "Identificar as leis vigentes e comparar seus efeitos concretos.",
+      "Verificar abolitio criminis, lei temporária ou crime permanente/continuado.",
+      "Aplicar irretroatividade gravosa e retroatividade benéfica com fundamentação."
+     ],
+     "explicacao": "A cronologia e a classificação do delito definem a incidência das regras temporais.",
+     "dispositivo": "CP, arts. 2º a 4º; STF, Súmula 711"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Abolitio criminis",
+       "Cessam efeitos penais"
+      ],
+      [
+       "Lei benéfica posterior",
+       "Retroage ao fato anterior"
+      ],
+      [
+       "Lei temporária",
+       "Pode ser ultrativa"
+      ],
+      [
+       "Tempo do crime",
+       "Ação ou omissão"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tjsc-penal-lei-espaco-1",
+   "titulo": "Territorialidade e extraterritorialidade",
+   "microconteudo": "O QUE A BANCA COBRA:\nA classificação C-08 examinou 41 questões penais FGV de concursos do Ministério Público. Essa amostra serve para observar o estilo aplicado da banca, mas não mede incidência própria de magistratura nem demonstrou frequência isolada suficiente sobre extraterritorialidade. Em casos, marque separadamente onde ocorreu a ação, onde se produziu ou deveria produzir-se o resultado, o vínculo do agente ou da vítima com o Brasil e as condições legais para punir.\n\nENTENDA:\nO CP adota como regra a territorialidade temperada: aplica-se a lei brasileira ao crime cometido no território nacional, sem prejuízo de convenções, tratados e regras de direito internacional (art. 5º). Território jurídico não se limita ao solo. Para efeitos penais, o §1º inclui embarcações e aeronaves brasileiras públicas ou a serviço do governo onde quer que estejam; embarcações e aeronaves brasileiras privadas em alto-mar ou no espaço aéreo correspondente; e, sob reciprocidade, aeronaves e embarcações estrangeiras privadas em pouso no Brasil ou no espaço aéreo nacional e embarcações em porto ou mar territorial brasileiro. O §2º prevê a aplicação da lei brasileira a crimes em aeronaves ou embarcações estrangeiras privadas quando aquelas estejam em pouso no território nacional ou em voo no espaço aéreo correspondente, e estas em porto ou mar territorial do Brasil. A hipótese concreta precisa ser enquadrada no texto, sem ampliar o rol por analogia.\n\nPara determinar o lugar do crime, o art. 6º usa a teoria da ubiquidade: considera-se praticado onde ocorreu a ação ou omissão, no todo ou em parte, e também onde o resultado ocorreu ou deveria ocorrer. Assim, um ato executório no Brasil com resultado no exterior pode atrair incidência da lei brasileira pelo art. 6º; não é necessário recorrer automaticamente à extraterritorialidade do art. 7º. A ubiquidade resolve a localização jurídica do crime, enquanto o art. 4º fixa seu tempo pela teoria da atividade. São regras distintas e muito cobradas em situações com ação e resultado em países diferentes.\n\nA extraterritorialidade do art. 7º é exceção prevista em lei. O inciso I estabelece hipóteses incondicionadas, como crimes contra a vida ou liberdade do Presidente da República, contra patrimônio ou fé pública de entes públicos ali enumerados e contra a administração pública por quem está a seu serviço, além de genocídio quando o agente é brasileiro ou domiciliado no Brasil. O inciso II prevê hipóteses condicionadas, incluindo crimes que o Brasil se obrigou a reprimir por tratado, crimes praticados por brasileiro e crimes em aeronaves ou embarcações brasileiras mercantes ou privadas no estrangeiro quando não julgados no local. Nessas hipóteses, observam-se as condições cumulativas do §2º: ingresso do agente no Brasil; dupla tipicidade; admissibilidade da extradição; inexistência de absolvição ou cumprimento de pena no estrangeiro pelo mesmo fato; e ausência de perdão ou extinção da punibilidade segundo a lei mais favorável. O §3º traz condições adicionais para o crime cometido por estrangeiro contra brasileiro fora do Brasil, inclusive requisição ministerial. O rol e suas condições não podem ser substituídos por mera gravidade do fato.\n\nPena cumprida no estrangeiro pelo mesmo crime atenua a pena imposta no Brasil, se diversas, ou nela é computada, se idênticas, conforme art. 8º. Isso não se confunde com a regra que impede dupla persecução em certas hipóteses do art. 7º, §2º: é necessário verificar qual hipótese de extraterritorialidade está em jogo e os requisitos correspondentes. Extradição também é instituto diferente da aplicação da lei penal: a Constituição proíbe extraditar brasileiro nato, disciplina o naturalizado e veda extradição de estrangeiro por crime político ou de opinião (CF, art. 5º, LI e LII). Deportação, expulsão e entrega a tribunal internacional têm regimes próprios e não são sinônimos de extradição.\n\nDOUTRINA:\nGreco organiza a incidência espacial segundo territorialidade, personalidade, proteção, justiça universal e representação; Nucci destaca que aplicação da lei, competência jurisdicional e cooperação internacional são planos que não se confundem. Referências segundo as fichas M-12: GRECO, Rogério. Curso de Direito Penal — Parte Geral, vol. 1, 19ª ed., 2017, capítulo de aplicação da lei penal; NUCCI, Guilherme de Souza. Curso de Direito Penal — Parte Geral, vol. 1, 2017, seção correspondente. Página não confirmada nas fichas e livros não disponíveis aqui; não invento paginação nem citação literal. A biblioteca indicada não está montada neste workspace. O CP, a CF e os tratados vigentes devem prevalecer sobre formulações doutrinárias desatualizadas.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nSTJ, RHC 88.432/AP, Sexta Turma, rel. Min. Nefi Cordeiro, julgado em 19/02/2019: aplicou a extraterritorialidade condicionada a crime praticado integralmente no exterior por brasileiros, com base nas hipóteses do art. 7º, II, a e b, e no tratado pertinente; o julgamento também tratou da competência federal após negativa de extradição. Para ubiquidade, a base é diretamente o CP, art. 6º. A incidência depende dos fatos e da hipótese legal, não só da nacionalidade das partes.\n\nPEGADINHAS:\n1. Lugar do crime: ubiquidade (ação/omissão ou resultado); tempo: atividade (ação/omissão). 2. Crime com parcela executória no Brasil pode ser territorial; não é sempre extraterritorialidade. 3. Art. 7º, I, e art. 7º, II, têm regimes diferentes. 4. No inciso II, as condições do §2º são cumulativas. 5. Pena estrangeira deve ser considerada pelo art. 8º; isso não equivale a imunidade geral.\n\nESQUEMA:\nTerritório nacional → territorialidade temperada → CP, art. 5º.\nLugar do delito → ação/omissão ou resultado → ubiquidade → CP, art. 6º.\nFato no exterior → hipóteses legais de extraterritorialidade → CP, art. 7º.\nCondições adicionais → §2º (e §3º, quando cabível).\nPena cumprida fora → computa ou atenua → CP, art. 8º.\n\nLIGAÇÕES:\nLei penal no tempo e teoria da atividade (tópico 1.7); princípios constitucionais de legalidade e limites à extradição (tópicos 1.4–1.6).",
+   "flashcards": [
+    {
+     "frente": "Como localizar um crime com execução no Brasil e resultado no exterior?",
+     "verso": "Pela ubiquidade: lugar da ação ou omissão, no todo ou em parte, e do resultado.",
+     "dispositivo": "CP, art. 6º"
+    },
+    {
+     "frente": "Qual diferença central entre o art. 7º, I, e o art. 7º, II, do CP?",
+     "verso": "O inciso I prevê hipóteses incondicionadas; o inciso II depende das condições legais do §2º.",
+     "dispositivo": "CP, art. 7º, I e II, §2º"
+    },
+    {
+     "frente": "Uma pessoa cumpre pena no exterior pelo mesmo crime. O que o juiz brasileiro faz?",
+     "verso": "Computa a pena idêntica ou atenua a diversa, conforme o art. 8º.",
+     "dispositivo": "CP, art. 8º"
+    },
+    {
+     "frente": "A lei brasileira sempre se aplica a fato cometido no exterior por brasileiro?",
+     "verso": "Não; verifique hipótese do art. 7º e condições do §2º.",
+     "dispositivo": "CP, art. 7º, II, b e §2º"
+    },
+    {
+     "frente": "Ação em território brasileiro e resultado em outro país exigem extraterritorialidade?",
+     "verso": "Não necessariamente; o art. 6º adota ubiquidade e pode situar aqui o crime.",
+     "dispositivo": "CP, arts. 5º e 6º"
+    },
+    {
+     "frente": "O Brasil pode extraditar brasileiro nato?",
+     "verso": "Não. A Constituição veda extradição de brasileiro nato.",
+     "dispositivo": "CF, art. 5º, LI"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Se parte da execução ocorre em território brasileiro e o resultado se produz no exterior, o art. 6º pode considerar o crime praticado no Brasil.",
+     "gabarito": "C",
+     "comentario": "Correta. A teoria da ubiquidade considera lugar tanto o da ação/omissão, no todo ou em parte, quanto o do resultado ou onde deveria ocorrer. Base: CP, art. 6º.",
+     "dispositivo": "CP, art. 6º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Qualquer crime cometido por brasileiro no exterior submete-se automaticamente à lei brasileira, independentemente das condições do art. 7º, §2º.",
+     "gabarito": "E",
+     "comentario": "Incorreta. A hipótese do art. 7º, II, b, é condicionada aos requisitos cumulativos do §2º; nacionalidade isolada não basta.",
+     "dispositivo": "CP, art. 7º, II, b e §2º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Para fixar o lugar do crime, o CP considera o local da ação ou omissão e também o local em que se produziu ou deveria produzir-se o resultado.",
+     "gabarito": "C",
+     "comentario": "Correta. É a teoria da ubiquidade prevista no art. 6º, distinta da teoria da atividade usada para o tempo do crime.",
+     "dispositivo": "CP, arts. 4º e 6º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Pena cumprida no estrangeiro pelo mesmo crime nunca repercute na pena aplicada no Brasil, pois cada Estado exerce soberania independente.",
+     "gabarito": "E",
+     "comentario": "Incorreta. O CP determina que a pena estrangeira seja computada se idêntica ou atenuada se diversa. Base: art. 8º.",
+     "dispositivo": "CP, art. 8º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 4 de abril de 2026, Lara executa no Brasil uma fraude digital de R$ 2.500 que causa prejuízo em conta de pessoa localizada no Chile. Qual critério espacial deve ser considerado primeiro?",
+     "alternativas": {
+      "D": "A nacionalidade da vítima, exclusivamente.",
+      "E": "Somente o lugar em que a vítima percebeu o prejuízo.",
+      "A": "A teoria da atividade, pois define o lugar do crime.",
+      "B": "A teoria da ubiquidade: ação/omissão no Brasil ou resultado no exterior pode situar o crime no Brasil.",
+      "C": "A extradição da vítima ao Brasil."
+     },
+     "gabarito": "B",
+     "comentario": "B é correta: a ubiquidade considera ação/omissão e resultado (CP, art. 6º). A e C substituem o critério legal por nacionalidade ou percepção do dano; D confunde lugar com tempo do crime; E trata de extradição, irrelevante à localização.",
+     "dispositivo": "CP, art. 6º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 10 de janeiro de 2026, um brasileiro pratica no exterior crime comum previsto também na lei brasileira, causando dano avaliado em R$ 10.000. Ele ingressa no Brasil em 20 de fevereiro; não foi absolvido nem cumpriu pena fora. Qual análise é correta?",
+     "alternativas": {
+      "C": "O art. 7º, II, b, pode incidir, desde que todas as condições cumulativas do §2º sejam atendidas, inclusive dupla tipicidade e admissibilidade da extradição.",
+      "D": "A nacionalidade brasileira torna irrelevantes todas as condições do §2º.",
+      "E": "A lei brasileira não pode incidir sobre fato ocorrido fora do território em hipótese alguma.",
+      "A": "A incidência decorre do art. 8º, mesmo sem pena estrangeira.",
+      "B": "Basta o ingresso no Brasil, ainda que a conduta não seja crime aqui."
+     },
+     "gabarito": "C",
+     "comentario": "C é correta: a hipótese do brasileiro que pratica crime no exterior está no CP, art. 7º, II, b, e depende de todas as condições do §2º; o art. 8º regula a pena cumprida no exterior. A ignora os requisitos; B e E dispensam dupla tipicidade e outras condições; D trata de pena estrangeira, não da hipótese de extraterritorialidade.",
+     "dispositivo": "CP, art. 7º, II, b"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 2026, uma embarcação estrangeira privada, avaliada em R$ 400.000, encontra-se atracada em porto brasileiro e ocorre crime a bordo. O juiz avalia a aplicação da lei penal brasileira. Qual alternativa apresenta a regra correta?",
+     "alternativas": {
+      "C": "Embarcação privada estrangeira nunca pode ser considerada para aplicação da lei brasileira.",
+      "D": "O art. 5º, §2º, prevê aplicação da lei brasileira nas hipóteses descritas para embarcação estrangeira privada em porto ou mar territorial brasileiro, observados tratados e direito internacional.",
+      "E": "A lei brasileira incide automaticamente sobre qualquer navio estrangeiro, inclusive em alto-mar.",
+      "A": "Aplica-se apenas a lei da bandeira, sem exceções.",
+      "B": "A regra depende da nacionalidade da vítima e não da localização da embarcação."
+     },
+     "gabarito": "D",
+     "comentario": "D é correta: CP, art. 5º, §2º, alcança a hipótese legal de embarcação estrangeira privada em porto brasileiro, ressalvadas convenções e regras internacionais previstas no caput. A e B negam a previsão; C amplia para toda embarcação estrangeira em alto-mar; E substitui a localização legalmente relevante.",
+     "dispositivo": "CP, art. 5º, §2º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 2026, Mateus, brasileiro nato, é acusado no exterior de fato que causou prejuízo de R$ 6.000. O Estado estrangeiro solicita sua entrega para julgamento. Qual regra constitucional se aplica ao pedido de extradição?",
+     "alternativas": {
+      "C": "O brasileiro nato pode ser extraditado se o fato for grave.",
+      "D": "A extradição depende apenas do Código Penal, art. 6º.",
+      "E": "A Constituição veda a extradição de brasileiro nato.",
+      "A": "Todo estrangeiro pode ser extraditado, inclusive por crime político.",
+      "B": "Deportação e extradição são a mesma medida."
+     },
+     "gabarito": "E",
+     "comentario": "E é correta: a Constituição veda extraditar brasileiro nato (CF, art. 5º, LI). A cria exceção por gravidade; B confunde lugar do crime e extradição; C afirma o oposto da regra constitucional; D ignora a vedação de extradição de estrangeiro por crime político ou de opinião (inciso LII).",
+     "dispositivo": "CF, art. 5º, LI"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O lugar do crime segue a teoria da ___; o tempo do crime segue a teoria da ___.",
+     "opcoes": [
+      "ubiquidade",
+      "atividade",
+      "territorialidade",
+      "personalidade"
+     ],
+     "respostas": [
+      "ubiquidade",
+      "atividade"
+     ],
+     "explicacao": "O CP adota art. 6º para lugar e art. 4º para tempo.",
+     "dispositivo": "CP, arts. 4º e 6º"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Pena estrangeira idêntica é ___ no Brasil; se diversa, a pena é ___.",
+     "opcoes": [
+      "computada",
+      "atenuada",
+      "extinta",
+      "duplicada"
+     ],
+     "respostas": [
+      "computada",
+      "atenuada"
+     ],
+     "explicacao": "O art. 8º distingue a natureza das penas aplicadas.",
+     "dispositivo": "CP, art. 8º"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize o exame de fato com elemento transnacional.",
+     "itens": [
+      "Localizar ação ou omissão e resultado segundo o art. 6º.",
+      "Verificar se há territorialidade ou território por extensão do art. 5º.",
+      "Se o fato ocorreu fora, testar hipótese do art. 7º e suas condições.",
+      "Considerar pena estrangeira e limites constitucionais pertinentes."
+     ],
+     "explicacao": "A análise começa pela localização e passa às hipóteses de incidência e consequências.",
+     "dispositivo": "CP, arts. 5º a 8º; CF, art. 5º, LI e LII"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Art. 5º CP",
+       "Territorialidade temperada"
+      ],
+      [
+       "Art. 6º CP",
+       "Teoria da ubiquidade"
+      ],
+      [
+       "Art. 7º CP",
+       "Extraterritorialidade"
+      ],
+      [
+       "Art. 8º CP",
+       "Pena cumprida no exterior"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tjsc-penal-delito-1",
+   "titulo": "Conceito analítico e classificações dos delitos",
+   "microconteudo": "O QUE A BANCA COBRA:\nA classificação C-08 das 41 questões penais disponíveis apontou preferência por aplicação da lei a situações e consequências, não por perguntas abstratas que permitam estimar a frequência de cada classificação de delitos em magistratura. Em caso concreto, identifique o que o tipo exige, quando se consuma, se o resultado naturalístico é necessário, se a omissão depende de dever especial e se a consumação se prolonga. A etiqueta doutrinária só importa quando altera a solução jurídica.\n\nENTENDA:\nHá três planos úteis para conceituar crime. O formal observa a definição legal; o material pergunta se há lesão ou perigo relevante a bem jurídico; o analítico organiza os elementos necessários à responsabilização. A construção tripartida predominante examina fato típico, ilicitude e culpabilidade. Parte da doutrina adota concepção bipartida, considerando culpabilidade pressuposto de aplicação da pena, e não elemento do crime. A escolha terminológica não dispensa examinar lei e prova. A Constituição e o CP exigem legalidade, descrição típica e responsabilidade pessoal; o art. 13 disciplina causalidade e relevância da omissão, o art. 18 diferencia dolo e culpa, e o art. 29 trata do concurso de pessoas.\n\nA tipicidade objetiva compara a conduta e o resultado descritos na lei; a subjetiva verifica dolo ou culpa quando previstos. Crime material exige resultado naturalístico para consumar-se; crime formal descreve resultado, mas antecipa a consumação à conduta; crime de mera conduta não exige resultado naturalístico. Isso não significa ausência de lesividade em toda infração formal, nem dispensa os elementos subjetivos. Crimes de dano requerem lesão ao bem, enquanto crimes de perigo podem antecipar a tutela: no perigo concreto é preciso provar risco real conforme o tipo; no perigo abstrato o legislador presume o risco a partir da conduta tipificada, sem abolir prova de autoria, materialidade e demais elementos. O magistrado não deve substituir o texto legal por uma exigência de dano que ele não contém.\n\nQuanto à conduta, crimes comissivos resultam de ação; omissivos próprios descrevem a abstenção proibida e, em regra, não dependem de resultado naturalístico. Omissivos impróprios ou comissivos por omissão atribuem o resultado a quem tinha dever jurídico de agir, podia agir e não o fez. O art. 13, §2º, restringe a posição de garantidor a quem tem dever legal de cuidado, proteção ou vigilância; assumiu responsabilidade de impedir o resultado; ou criou previamente o risco. Não basta proximidade moral ou capacidade genérica de ajudar. Em crime culposo, além de resultado e nexo, devem ser provados violação do dever objetivo de cuidado e previsibilidade nos limites legais; responsabilidade objetiva é vedada.\n\nCrimes instantâneos consumam-se em momento determinado; permanentes mantêm a consumação enquanto o agente sustenta a situação ilícita; instantâneos de efeitos permanentes produzem consequências que duram, mas a conduta consumativa não continua. A distinção altera prescrição, flagrante, competência e aplicação temporal. O sequestro é exemplo legal de delito permanente enquanto a privação persiste (CP, art. 148); a permanência não se presume pelo fato de o dano continuar. Crimes habituais exigem reiteração para formar a conduta típica; crimes unissubjetivos podem ser praticados por uma pessoa, ainda que admitam concurso; plurissubjetivos exigem pluralidade. A classificação é combinável: um delito pode ser especial, permanente e de perigo, conforme seus elementos, sem exclusividade entre categorias.\n\nDOUTRINA:\nGreco e Nucci apresentam as categorias de crime como instrumentos para solucionar consumação, tentativa, causalidade, concurso e imputação; as fichas M-12 também alertam que um mesmo tipo pode pertencer simultaneamente a mais de uma classe. A corrente tripartida considera culpabilidade elemento do conceito analítico; a bipartida a trata como pressuposto da pena. Referências conforme fichas: GRECO, Rogério. Curso de Direito Penal — Parte Geral, vol. 1, 19ª ed., 2017, capítulos sobre teoria do delito; NUCCI, Guilherme de Souza. Curso de Direito Penal — Parte Geral, vol. 1, 2017, seções correspondentes. Não há paginação confirmada nem acesso aos manuais neste workspace, portanto sem citação literal ou página inventada. Confira a edição e as reformas posteriores antes de publicação.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nO CP, arts. 13 e 18, fornece os critérios normativos centrais para causalidade, omissão imprópria, dolo e culpa; art. 148 exemplifica privação de liberdade. A Súmula 711/STF pressupõe crime permanente ou continuado e torna relevante a data de cessação; ela não define por si só a natureza do delito. Não utilizo precedente específico não confirmado para as demais classificações.\n\nPEGADINHAS:\n1. Conceito analítico tripartido inclui culpabilidade; posição bipartida diverge sobre esse ponto. 2. Crime formal pode consumar sem resultado naturalístico, mas exige elementos do tipo. 3. Perigo abstrato não elimina prova do fato e da autoria. 4. Omissão imprópria exige dever jurídico e possibilidade de agir. 5. Efeito duradouro não equivale a consumação permanente. 6. Classificações são cumuláveis quando respondem a critérios distintos.\n\nESQUEMA:\nMaterial → exige resultado naturalístico; formal → resultado é previsto, mas consumação antecipada; mera conduta → sem resultado naturalístico.\nOmissivo impróprio → dever de garantidor + possibilidade concreta de agir + resultado imputável → CP, art. 13, §2º.\nPermanente → consumação se prolonga; efeito permanente → resultado dura, consumação não.\nDolo/culpa → CP, art. 18; concurso → art. 29.\n\nLIGAÇÕES:\nLei penal no tempo e Súmula 711 (tópico 1.7); causalidade, dolo, culpa e erro na teoria do crime (tópicos subsequentes do edital).",
+   "flashcards": [
+    {
+     "frente": "Na concepção analítica tripartida, quais elementos estruturam o crime?",
+     "verso": "Fato típico, ilicitude e culpabilidade.",
+     "dispositivo": "CP, arts. 13, 18 e 23"
+    },
+    {
+     "frente": "O que diferencia crime formal de crime material?",
+     "verso": "No formal, a consumação pode anteceder o resultado naturalístico; no material, depende dele.",
+     "dispositivo": "CP, arts. 13 e 14, I"
+    },
+    {
+     "frente": "Quando a omissão pode equivaler à causação do resultado?",
+     "verso": "Quando havia dever jurídico e possibilidade de agir, conforme uma hipótese do art. 13, §2º.",
+     "dispositivo": "CP, art. 13, §2º"
+    },
+    {
+     "frente": "Efeito duradouro torna o crime permanente?",
+     "verso": "Não. Permanência exige que a consumação continue por vontade do agente.",
+     "dispositivo": "CP, art. 148; STF, Súmula 711"
+    },
+    {
+     "frente": "Qual o erro em dizer que crime de perigo abstrato dispensa prova?",
+     "verso": "A presunção de risco não elimina prova da conduta, autoria e elementos do tipo.",
+     "dispositivo": "CF, art. 5º, XXXIX; CP, art. 1º"
+    },
+    {
+     "frente": "O mesmo delito pode ser permanente e especial?",
+     "verso": "Sim. As classificações usam critérios diferentes e podem coexistir.",
+     "dispositivo": "CP, arts. 148 e 312"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Na concepção analítica tripartida predominante, o conceito de crime é estruturado por fato típico, ilicitude e culpabilidade.",
+     "gabarito": "C",
+     "comentario": "Correta. Essa é a formulação tripartida predominante; a posição bipartida diverge sobre a localização da culpabilidade. Base normativa relevante: CP, arts. 13, 18 e 23.",
+     "dispositivo": "CP, arts. 13, 18 e 23"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Se o resultado de um crime instantâneo continua produzindo efeitos por meses, a consumação necessariamente permanece aberta durante todo esse período.",
+     "gabarito": "E",
+     "comentario": "Incorreta. Resultado duradouro não transforma automaticamente o delito em permanente; deve-se examinar a estrutura típica e a continuidade da consumação. Base comparativa: CP, art. 148.",
+     "dispositivo": "CP, art. 148"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Para imputar resultado por omissão imprópria, é preciso verificar o dever jurídico de agir e a possibilidade concreta de atuação do garantidor.",
+     "gabarito": "C",
+     "comentario": "Correta. O art. 13, §2º, delimita as fontes do dever de agir e pressupõe possibilidade de evitar o resultado.",
+     "dispositivo": "CP, art. 13, §2º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "A classificação de um delito como de perigo abstrato permite condenar sem prova da conduta, da autoria ou dos demais elementos do tipo.",
+     "gabarito": "E",
+     "comentario": "Incorreta. A classificação diz respeito à estrutura da tutela do risco; não afasta legalidade nem prova dos elementos da imputação. Base: CF, art. 5º, XXXIX; CP, art. 1º.",
+     "dispositivo": "CF, art. 5º, XXXIX; CP, art. 1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Entre 3 e 9 de março de 2026, um agente manteve Bruno privado de liberdade e exigiu R$ 12.000 para libertá-lo. Lei mais grave entrou em vigor no dia 6. Como o juiz deve classificar a situação temporal?",
+     "alternativas": {
+      "E": "Crime instantâneo de efeitos permanentes, necessariamente.",
+      "A": "Crime permanente enquanto a privação se prolonga; a vigência antes da cessação pode atrair a Súmula 711.",
+      "B": "Crime formal sem resultado ou consumação.",
+      "C": "Crime impossível porque a vítima foi localizada.",
+      "D": "Crime habitual, que exige repetição de episódios autônomos."
+     },
+     "gabarito": "A",
+     "comentario": "A é correta: a privação de liberdade pode caracterizar delito permanente enquanto mantida (CP, art. 148), e a lei mais severa vigente antes da cessação é alcançada pela Súmula 711/STF. B confunde permanência e efeitos; C e D não correspondem aos fatos ou ao tipo; E exigiria reiteração de condutas autônomas.",
+     "dispositivo": "CP, art. 148"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 12 de abril de 2026, Ana, cuidadora contratada por R$ 3.000 mensais e responsável pela proteção de uma criança, percebe risco de afogamento e, podendo agir sem perigo pessoal, deixa deliberadamente de intervir; a criança morre. Qual ponto é indispensável à análise de omissão imprópria?",
+     "alternativas": {
+      "C": "A simples reprovação moral basta para imputar qualquer resultado.",
+      "D": "A condição profissional gera responsabilidade objetiva.",
+      "E": "É necessário apurar hipótese de garantidora, possibilidade de agir, nexo de imputação e elemento subjetivo.",
+      "A": "Toda omissão é atípica se não houver ordem judicial individual.",
+      "B": "O resultado basta, sem prova de causalidade ou dolo/culpa."
+     },
+     "gabarito": "E",
+     "comentario": "E é correta: omissão imprópria exige dever jurídico de garantidora e possibilidade de agir, além de imputação do resultado e análise subjetiva (CP, arts. 13, §2º, e 18). A reduz o caso à moral; B cria responsabilidade objetiva; C não é crime formal; D exige requisitos não previstos e exclui indevidamente fontes legais do dever.",
+     "dispositivo": "CP, arts. 13, §2º, e 18"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 7 de maio de 2026, Caio é acusado de delito formal após receber vantagem de R$ 4.000; o resultado naturalístico descrito pela figura não ocorreu, mas há prova da conduta e dos demais elementos típicos. Qual conclusão dogmática é correta?",
+     "alternativas": {
+      "A": "Todo crime formal depende do resultado para consumar.",
+      "B": "A ausência de resultado naturalístico impede sempre tipicidade.",
+      "C": "Crime formal é sinônimo de crime de perigo abstrato.",
+      "D": "A consumação pode ocorrer antes do resultado naturalístico, sem dispensar os demais elementos exigidos pelo tipo.",
+      "E": "Crime formal não admite dolo."
+     },
+     "gabarito": "D",
+     "comentario": "D é correta: em crime formal, a consumação pode anteceder o resultado naturalístico, mas os demais elementos típicos continuam necessários (CP, arts. 13 e 14, I). A e B descrevem crime material; C confunde critérios classificatórios; E exclui dolo sem fundamento legal.",
+     "dispositivo": "CP, arts. 13 e 14"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em audiência realizada em 9 de junho de 2026, discute-se se o delito atribuído a um servidor que desviou R$ 2.000 exige qualidade especial do autor e se a consumação se prolongou por período demonstrado nos autos. Como podem coexistir as classificações?",
+     "alternativas": {
+      "E": "O delito pode ser especial e permanente, porque as categorias usam critérios distintos.",
+      "A": "A classificação especial exclui a permanência.",
+      "B": "Permanente é sempre crime comum.",
+      "C": "Só se admite uma classificação por tipo penal.",
+      "D": "A qualidade do agente é irrelevante para crime especial."
+     },
+     "gabarito": "E",
+     "comentario": "E é correta: qualidade do sujeito ativo e duração da consumação são critérios independentes; as classificações podem coexistir se o tipo as admitir. A, B e C criam incompatibilidades inexistentes; D transforma em única categoria o que é classificação por critérios distintos. Base: CP, arts. 148 e 312.",
+     "dispositivo": "CP, arts. 148 e 312"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Na omissão imprópria, o dever de agir e a possibilidade de atuação são examinados pelo art. 13, §__.",
+     "opcoes": [
+      "1º",
+      "2º",
+      "3º",
+      "4º"
+     ],
+     "respostas": [
+      "2º"
+     ],
+     "explicacao": "O §2º prevê hipóteses de posição de garantidor.",
+     "dispositivo": "CP, art. 13, §2º"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "No crime material, a consumação exige resultado ___; no crime formal, pode ocorrer antes dele.",
+     "opcoes": [
+      "naturalístico",
+      "jurídico",
+      "presumido",
+      "processual"
+     ],
+     "respostas": [
+      "naturalístico"
+     ],
+     "explicacao": "A distinção depende da necessidade de resultado naturalístico para consumação.",
+     "dispositivo": "CP, arts. 13 e 14, I"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise de imputação por omissão imprópria.",
+     "itens": [
+      "Identificar o resultado e o tipo penal aplicável.",
+      "Verificar se o acusado tinha dever jurídico de agir nos termos do art. 13, §2º.",
+      "Examinar se podia agir e se a ação teria relevância para evitar o resultado.",
+      "Analisar dolo ou culpa e os demais elementos de responsabilidade pessoal."
+     ],
+     "explicacao": "A imputação exige ligar tipo, garantia, possibilidade, nexo e elemento subjetivo.",
+     "dispositivo": "CP, arts. 13, §2º, e 18"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Crime material",
+       "Resultado naturalístico necessário"
+      ],
+      [
+       "Crime formal",
+       "Consumação pode ser antecipada"
+      ],
+      [
+       "Omissivo impróprio",
+       "Garantidor que podia agir"
+      ],
+      [
+       "Crime permanente",
+       "Consumação prolongada"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

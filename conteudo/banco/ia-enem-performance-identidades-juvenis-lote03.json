@@ -1,0 +1,646 @@
+{
+ "assunto": "ENEM — Linguagens — Performance corporal e identidades juvenis",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 (Matriz de Referência ENEM 2026 consultada no portal oficial do Inep)",
+ "origem": "2026-11-23_banco-enem-performance-identidades-juvenis-lote03_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "enem-linguagens-corpo-juvenil-131",
+   "titulo": "Corpo, pertencimento e identidades juvenis",
+   "microconteudo": "RAIO-X DA PROVA: A contagem de incidência por objeto nas provas regulares de 2021–2025 ainda não foi concluída pela C-08E; portanto, não há frequência empírica a declarar para este tópico. A Matriz 2026 delimita o estudo das práticas corporais como linguagem que integra grupos e participa da formação de identidades. O ângulo de treino é interpretar como gestos, estilos e formas de participação comunicam pertencimento e diferenças, sem reduzir identidade a uma característica isolada.\n\nO QUE A BANCA COBRA:\nNeste objeto, a leitura deve conectar uma prática corporal ao grupo, ao contexto e aos sentidos construídos por quem participa. Em vez de perguntar se um gesto é natural, belo ou tecnicamente correto, uma situação pode mostrar jovens ocupando uma praça, treinando uma modalidade ou criando uma coreografia e pedir que se reconheça o que essa ação expressa na vida coletiva. O foco adequado aproxima-se de H9, que relaciona manifestações corporais às necessidades cotidianas de grupos sociais, e de H11, que trata o corpo como meio de interação, considerando possibilidades de participação.\n\nENTENDA:\nO corpo não aparece na vida social como uma tela neutra. Modos de andar, dançar, vestir-se para uma prática, organizar rodas, escolher músicas e ocupar espaços são aprendidos, compartilhados e transformados em relações. Isso não significa que cada gesto tenha um significado fixo: uma mesma dança pode ser lazer, memória familiar, expressão artística, trabalho ou afirmação de pertencimento, conforme o contexto. Para interpretar uma cena, observe quem participa, onde, com quem, por qual motivo e sob quais regras.\n\nImagine que um grupo de estudantes de bairros diferentes combina encontros semanais de skate numa pista pública. Alguns chegam para praticar manobras; outros filmam, cuidam da segurança e ajudam iniciantes. A pista torna-se lugar de convivência e troca de conhecimentos, e não apenas superfície para desempenho atlético. As roupas e gírias podem sinalizar afinidades, mas não autorizam concluir que todos os participantes pensam ou vivem da mesma forma. O texto ou imagem da questão precisa oferecer pistas para uma leitura; não se deve importar estereótipos sobre juventude, classe ou território.\n\nIdentidades juvenis também são múltiplas e móveis. Uma pessoa pode pertencer a um coletivo de dança, jogar futebol com colegas, participar de uma tradição religiosa e preferir atividades individuais. As identificações se articulam sem se anularem. Grupos constroem repertórios e regras, mas os indivíduos negociam esses sentidos, criam variações ou se afastam. Assim, uma performance pode aproximar pessoas e, ao mesmo tempo, marcar diferenças. A interpretação mais consistente explica a relação entre gesto, situação e interação, em lugar de tratar aparência como prova definitiva de personalidade.\n\nDOUTRINA:\nA perspectiva cultural de Jocimar Daolio recusa a explicação do corpo apenas pela biologia: gestos e técnicas corporais são também atravessados por significados sociais. Em seu balanço sobre a obra, Daolio reafirma a importância de considerar a construção cultural do corpo e a atuação pedagógica como prática cultural. Para a leitura escolar, isso permite reconhecer repertórios diversos sem presumir que uma forma de movimento seja universal ou superior. A análise não apaga condicionantes físicos; pergunta como capacidades, aprendizagem e valores sociais se relacionam em cada experiência. Referência: DAOLIO, Jocimar. ‘Da Cultura do Corpo’: 30 anos depois. Motricidades, v. 6, n. 3, 2022, p. 229–235.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nNão se aplica jurisprudência como eixo deste conteúdo. A referência avaliativa é a Matriz de Referência do Enem 2026, especialmente H9 e H11; a habilidade se demonstra pela interpretação de práticas corporais em situação, não pela memorização de uma definição.\n\nPEGADINHAS:\n1. Tratar um estilo como identidade completa de cada jovem: a identificação é situada e pode ser múltipla.\n2. Atribuir sentido universal a um gesto: observe o contexto e as pistas do material.\n3. Confundir desempenho técnico com valor social: participar e produzir sentidos também são dimensões da prática.\n4. Presumir que a prática pertence naturalmente a um grupo: identifique sua história e circulação na cena apresentada.\n\nESQUEMA:\nCena corporal → participantes + espaço + regras + propósito → sentidos compartilhados e disputados → pertencimento/identificação (sem determinismo).\nH9 → manifestações relacionadas às necessidades de grupos. H11 → corpo como interação e participação, com atenção a diferenças e adaptações.\n\nLIGAÇÕES:\nCruza-se com o objeto 1.8, corpo como símbolo e produção cultural, e com o objeto 1.14, jogos, quando a situação enfatiza regras, cooperação e pertencimento.",
+   "flashcards": [
+    {
+     "frente": "Por que uma prática corporal pode expressar pertencimento?",
+     "verso": "Porque gestos e regras compartilhados criam vínculos e sentidos em um grupo, sem definir por completo cada participante.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H9"
+    },
+    {
+     "frente": "Que pistas ajudam a interpretar uma performance juvenil?",
+     "verso": "Participantes, espaço, propósito, regras, repertório de gestos e relações mostradas no material.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H9 e H11"
+    },
+    {
+     "frente": "Um estilo corporal revela toda a identidade de alguém?",
+     "verso": "Não. Identificações são múltiplas, situadas e podem mudar entre contextos.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3"
+    },
+    {
+     "frente": "Como diferenciar técnica de sentido cultural?",
+     "verso": "Técnica organiza a execução; sentido cultural depende também da história, do uso e das relações da prática.",
+     "dispositivo": "Daolio, 2022, p. 229–235; Matriz ENEM 2026, H9"
+    },
+    {
+     "frente": "Uma prática corporal sempre tem um significado fixo?",
+     "verso": "Não. O mesmo movimento pode cumprir funções distintas em contextos diferentes.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H9"
+    },
+    {
+     "frente": "Qual inferência é indevida ao ver uma roupa ou gíria?",
+     "verso": "Concluir personalidade ou modo de vida sem apoio nas pistas da situação.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-linguagens-corpo-juvenil-131-q1",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "Estudantes de três escolas organizam uma roda de breaking no pátio, alternam apresentações e ensinam passos básicos a quem chega pela primeira vez.",
+     "enunciado": "A cena permite interpretar a prática como espaço de expressão e construção de vínculos, e não somente como demonstração de habilidade individual.",
+     "gabarito": "C",
+     "comentario": "A alternância entre apresentações e ensino a iniciantes evidencia interação e produção compartilhada de sentidos; por isso, a cena vai além da habilidade individual (H9 e H11).",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H9 e H11"
+    },
+    {
+     "id": "enem-linguagens-corpo-juvenil-131-q2",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "Um cartaz apresenta jovens de uma comunidade treinando capoeira numa praça e informa que os encontros reúnem moradores de diferentes idades.",
+     "enunciado": "A prática deve ser entendida como exclusiva de uma identidade juvenil, pois a presença de jovens elimina a participação de outros grupos.",
+     "gabarito": "E",
+     "comentario": "O cartaz inclui pessoas de várias idades. A presença de jovens não torna a prática exclusiva nem define uma identidade única (H9).",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H9"
+    },
+    {
+     "id": "enem-linguagens-corpo-juvenil-131-q3",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "Num vídeo de uma batalha de dança, a descrição informa que as equipes criam movimentos a partir de referências musicais e experiências de seus bairros.",
+     "enunciado": "Relacionar a criação dos movimentos às referências locais permite reconhecer que a performance participa da construção de identificações coletivas.",
+     "gabarito": "C",
+     "comentario": "A descrição associa criação corporal, música e experiência territorial. Isso sustenta a leitura de identificação coletiva, sem afirmar que todos os moradores compartilhem o repertório (H9).",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H9"
+    },
+    {
+     "id": "enem-linguagens-corpo-juvenil-131-q4",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "Uma reportagem mostra duas pessoas usando roupas semelhantes numa pista de patinação, mas não informa se pertencem ao mesmo coletivo ou têm trajetórias parecidas.",
+     "enunciado": "A semelhança de vestuário, sozinha, comprova que ambas têm a mesma identidade e atribuem o mesmo sentido à prática.",
+     "gabarito": "E",
+     "comentario": "A reportagem não oferece elementos para concluir que as duas pessoas compartilham identidade ou atribuem sentido idêntico à prática; aparência isolada não basta (H11).",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    },
+    {
+     "id": "enem-linguagens-corpo-juvenil-131-q5",
+     "tipo": "multipla_escolha",
+     "dificuldade": "media",
+     "texto_base": "No intervalo, Lia convida colegas para aprender uma sequência de passos criada por seu grupo de dança. Alguns repetem os movimentos; outros sugerem variações inspiradas em festas da família.",
+     "enunciado": "Qual interpretação melhor relaciona a cena à formação de identidades juvenis?",
+     "alternativas": {
+      "A": "A sequência prova que todos os estudantes pertencem à mesma comunidade familiar.",
+      "B": "A troca de movimentos permite compartilhar repertórios e negociar sentidos sem apagar diferenças.",
+      "C": "A atividade deixa de ser corporal quando recebe sugestões verbais.",
+      "D": "A identidade juvenil depende de executar cada passo de modo tecnicamente idêntico.",
+      "E": "As referências familiares impedem que a dança seja praticada em ambiente escolar."
+     },
+     "gabarito": "B",
+     "comentario": "A) Errada: participação não comprova vínculo familiar comum. B) Correta: repetição e variação mostram circulação e negociação de repertórios. C) Errada: fala e movimento podem integrar a interação. D) Errada: a cena admite criação, não uniformidade técnica. E) Errada: não há incompatibilidade entre referências familiares e espaço escolar. H9 e H11 orientam a leitura da prática situada.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H9 e H11"
+    },
+    {
+     "id": "enem-linguagens-corpo-juvenil-131-q6",
+     "tipo": "multipla_escolha",
+     "dificuldade": "dificil",
+     "texto_base": "Um coletivo de skate divulga: ‘A pista é ponto de encontro. As manobras são diferentes; o cuidado com quem está aprendendo é responsabilidade de todos’.",
+     "enunciado": "A mensagem destaca principalmente que a prática corporal",
+     "alternativas": {
+      "A": "vale apenas quando todos realizam manobras de igual dificuldade.",
+      "B": "separa necessariamente iniciantes de participantes experientes.",
+      "C": "articula expressão individual, convivência e aprendizagem coletiva.",
+      "D": "substitui a interação por uma avaliação de resultados.",
+      "E": "restringe a participação a quem já domina as regras não escritas."
+     },
+     "gabarito": "C",
+     "comentario": "A) Errada: o anúncio reconhece manobras diferentes. B) Errada: cuidado entre participantes sugere aproximação. C) Correta: a pista é lugar de encontro e a aprendizagem é compartilhada. D) Errada: a interação é explicitamente central. E) Errada: a responsabilidade coletiva acolhe quem aprende. A interpretação relaciona linguagem corporal e interação (H11).",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    },
+    {
+     "id": "enem-linguagens-corpo-juvenil-131-q7",
+     "tipo": "multipla_escolha",
+     "dificuldade": "media",
+     "texto_base": "Uma mostra escolar reúne vídeos de jovens praticando passinho, maracatu, basquete e trilha de bicicleta. Cada grupo apresenta como conheceu a atividade e por que a mantém.",
+     "enunciado": "A organização da mostra favorece compreender as práticas corporais como",
+     "alternativas": {
+      "A": "modalidades esportivas que precisam de competição formal.",
+      "B": "movimentos universais cujo significado independe de quem pratica.",
+      "C": "atividades comparáveis somente pela quantidade de esforço físico.",
+      "D": "marcas naturais que determinam a personalidade de cada grupo.",
+      "E": "repertórios situados, ligados a experiências e sentidos diversos."
+     },
+     "gabarito": "E",
+     "comentario": "A) Errada: as imagens não descrevem movimentos universais nem independentes de quem pratica. B) Errada: os relatos incluem histórias e razões, não apenas esforço. C) Errada: a mostra destaca sentidos, além da exigência física. D) Errada: uma prática não determina naturalmente a personalidade de um grupo. E) Correta: os depoimentos mostram repertórios situados em trajetórias e experiências diversas. H9 permite relacionar manifestações a grupos sem apagar a pluralidade interna.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H9"
+    },
+    {
+     "id": "enem-linguagens-corpo-juvenil-131-q8",
+     "tipo": "multipla_escolha",
+     "dificuldade": "dificil",
+     "texto_base": "Uma estudante participa de um grupo de corrida, dança com amigas e prefere observar antes de entrar em jogos coletivos. Em entrevista, ela descreve essas escolhas como parte de momentos diferentes de sua vida.",
+     "enunciado": "A fala da estudante contraria a ideia de que",
+     "alternativas": {
+      "A": "a identificação com uma prática pode mudar ao longo do tempo.",
+      "B": "uma pessoa pode participar de mais de um repertório corporal.",
+      "C": "o sentido de uma prática depende também da experiência de quem participa.",
+      "D": "a identidade de alguém precisa ser deduzida de uma única preferência corporal.",
+      "E": "participar e observar podem ocupar lugares diferentes numa experiência."
+     },
+     "gabarito": "D",
+     "comentario": "A) Errada: a fala confirma que as escolhas se situam em momentos diferentes. B) Errada: ela descreve diversas práticas. C) Errada: o relato explicita experiências pessoais. D) Correta: várias práticas e preferências mostram que uma única escolha não resume a identidade. E) Errada: observar antes de entrar também integra a relação com a atividade. H11 favorece leitura sem inferência estereotipada.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Uma performance pode criar ___ entre participantes sem tornar suas identidades ___.",
+     "opcoes": [
+      "vínculos",
+      "idênticas",
+      "distâncias obrigatórias",
+      "naturais"
+     ],
+     "respostas": [
+      "vínculos",
+      "idênticas"
+     ],
+     "explicacao": "Compartilhar uma prática pode aproximar jovens sem eliminar diferenças individuais.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H9"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Para interpretar uma cena, observe quem participa, o espaço e os ___ atribuídos à prática.",
+     "opcoes": [
+      "sentidos",
+      "estereótipos prévios",
+      "resultados obrigatórios",
+      "rótulos fixos"
+     ],
+     "respostas": [
+      "sentidos"
+     ],
+     "explicacao": "O contexto e as pistas orientam a leitura de gestos e interações.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene os passos de uma leitura contextual da performance.",
+     "itens": [
+      "Identificar participantes e espaço",
+      "Observar gestos e relações mostrados",
+      "Relacionar pistas aos sentidos indicados no material",
+      "Evitar generalizações que o material não sustenta"
+     ],
+     "explicacao": "A interpretação parte da cena concreta e só então formula uma conclusão delimitada.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H9 e H11"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Pertencimento",
+       "Vínculo construído em práticas e relações"
+      ],
+      [
+       "Contexto",
+       "Condições em que a cena acontece"
+      ],
+      [
+       "Repertório",
+       "Gestos e saberes mobilizados"
+      ],
+      [
+       "Estereótipo",
+       "Generalização sem apoio suficiente"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "enem-linguagens-corpo-juvenil-132",
+   "titulo": "Gestos, estilos e sentidos culturais",
+   "microconteudo": "RAIO-X DA PROVA: A classificação das provas regulares ENEM 2021–2025 por objeto não está concluída (C-08E), de modo que não se afirma número de ocorrências ou padrão estatístico. A Matriz 2026 oferece o recorte provisório: manifestações corporais vinculadas a necessidades cotidianas de grupos e linguagem corporal em interação. Este treino destaca a leitura de gestos e performances como signos situados, com atenção a propósito, circulação e mudanças de sentido.\n\nO QUE A BANCA COBRA:\nA questão pode apresentar uma cena, uma fotografia descrita, um depoimento ou um anúncio de atividade e pedir que se reconheça a função dos movimentos naquele contexto. O ponto é compreender que gestos corporais comunicam e participam da vida social, mas seu significado não vem pronto nem vale igualmente em toda situação. A Matriz 2026 dá sustentação ao recorte por H9 e H11: relacionar práticas às necessidades e aos grupos, e ler o corpo como meio de interação.\n\nENTENDA:\nPerformance corporal é uma ação expressiva organizada para alguém, mesmo quando não ocorre num palco. Um passinho gravado para circular numa rede, uma coreografia de torcida, a roda de capoeira numa celebração e uma apresentação de dança na escola envolvem escolhas de movimento, espaço, ritmo e relação com espectadores. O gesto pode comunicar humor, desafio, memória, celebração ou pertencimento; para afirmar qual desses sentidos prevalece, é necessário observar os indícios fornecidos pelo texto.\n\nEstilo não significa simples embalagem individual. Uma forma de dançar ou vestir-se para dançar pode dialogar com músicas, técnicas aprendidas, mídias, histórias de um bairro e influências de outras regiões. A circulação produz encontros e transformações: jovens podem aprender movimentos em redes digitais, reelaborá-los em encontros presenciais e criar versões próprias. Não se deve, porém, tratar uma prática contemporânea como se tivesse origem exclusivamente on-line ou como se a circulação eliminasse suas histórias e comunidades anteriores.\n\nConsidere uma escola que organiza uma mostra com coreografias produzidas pelos estudantes. Um grupo começa com passos populares em vídeos curtos, combina-os com gestos de uma festa local e explica as referências no programa. Se a pergunta é sobre o sentido da apresentação, a resposta deve mencionar essa combinação e a comunicação com o público. Dizer apenas que os jovens ‘seguem tendências’ ignora o trabalho de seleção e criação; dizer que cada gesto representa toda a comunidade também extrapola as informações. A leitura exige distinguir referência, apropriação, transformação e afirmação de identidade conforme os dados efetivamente apresentados.\n\nA atenção ao destinatário também importa. Uma performance pode mudar quando é apresentada em uma roda de colegas, num festival, numa competição ou num vídeo editado. O enquadramento da câmera, a legenda, a música e a ordem das imagens direcionam a leitura. Às vezes a questão pergunta sobre a função de um gesto para quem assiste; outras vezes, o material relata o significado atribuído pelos próprios praticantes. Não confunda a interpretação do observador com a intenção comprovada dos participantes: use marcas explícitas de propósito, fala ou contexto.\n\nDOUTRINA:\nJocimar Daolio enfatiza a dimensão cultural do corpo e das técnicas corporais, propondo olhar para os sentidos sociais do movimento em vez de reduzi-lo a mecanismo biológico. Esse enfoque permite analisar estilos como práticas aprendidas e interpretadas em contextos históricos, sem presumir que todos os membros de um grupo executem ou compreendam os gestos da mesma maneira. A perspectiva cultural complementa a observação da execução: pergunta o que circula, quem atribui sentido e como a prática se transforma. Referência: DAOLIO, Jocimar. ‘Da Cultura do Corpo’: 30 anos depois. Motricidades, v. 6, n. 3, 2022, p. 229–235.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nNão se aplica jurisprudência como fundamento deste objeto. A referência curricular é a Matriz de Referência ENEM 2026; a inferência deve apoiar-se na cena e nos sinais de interação, circulação e sentido cultural oferecidos pelo enunciado.\n\nPEGADINHAS:\n1. Supor que a divulgação digital criou sozinha uma prática: diferencie meio de circulação e trajetória cultural.\n2. Tratar estilo como significado universal: relacione gesto a contexto e finalidade.\n3. Atribuir uma intenção não mencionada: separe evidência textual de hipótese.\n4. Confundir referência cultural com cópia passiva: procure sinais de seleção, combinação e transformação.\n\nESQUEMA:\nPerformance = movimento + composição + contexto de apresentação + relação com participantes/espectadores.\nSentido provável → sustentado por pistas do material; circulação → pode conservar, combinar ou transformar repertórios.\n\nLIGAÇÕES:\nCruza-se com o objeto 1.37, gêneros digitais, quando vídeos fazem circular performances, e com o objeto 1.7, corpo e expressão artística e cultural.",
+   "flashcards": [
+    {
+     "frente": "O que transforma um gesto em signo social numa performance?",
+     "verso": "O sentido atribuído em uma situação de interação, com participantes, propósito e contexto identificáveis.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    },
+    {
+     "frente": "Por que circulação digital não apaga a história de uma prática?",
+     "verso": "A mídia é um meio de circulação; repertórios e comunidades podem anteceder e transformar sua difusão.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H9"
+    },
+    {
+     "frente": "Como evitar atribuir intenção sem evidência?",
+     "verso": "Distinguir fala explícita, contexto e composição das hipóteses do observador.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    },
+    {
+     "frente": "O que observar numa dança apresentada ao público?",
+     "verso": "Movimentos, música, espaço, enquadramento, destinatários e explicações dos participantes.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    },
+    {
+     "frente": "Referência cultural significa repetição sem criação?",
+     "verso": "Não. Uma referência pode ser escolhida, combinada e transformada na composição.",
+     "dispositivo": "Daolio, 2022, p. 229–235; Matriz ENEM 2026, H9"
+    },
+    {
+     "frente": "O mesmo movimento comunica igual em qualquer lugar?",
+     "verso": "Não. O sentido depende do contexto, da finalidade e das relações envolvidas.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-linguagens-corpo-juvenil-132-q1",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "Num festival escolar, um grupo combina passos que aprendeu em vídeos com movimentos usados numa festa do bairro; o programa explica as duas referências.",
+     "enunciado": "A apresentação pode ser lida como seleção e combinação de repertórios, desde que a interpretação se apoie nas informações do programa.",
+     "gabarito": "C",
+     "comentario": "O programa confirma que o grupo articulou duas referências; isso permite falar em combinação sem supor origem única ou representação integral do bairro (H9 e H11).",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H9 e H11"
+    },
+    {
+     "id": "enem-linguagens-corpo-juvenil-132-q2",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "Um vídeo mostra uma jovem executando uma sequência de movimentos diante da câmera. Não há fala, legenda nem informação sobre o local ou a ocasião.",
+     "enunciado": "É possível afirmar com certeza que a performance protesta contra uma regra escolar, mesmo sem pistas sobre esse propósito.",
+     "gabarito": "E",
+     "comentario": "Sem contexto, legenda ou fala, a imagem não informa intenção de protesto. A interpretação precisa ficar nos sinais observáveis (H11).",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    },
+    {
+     "id": "enem-linguagens-corpo-juvenil-132-q3",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "Uma reportagem relata que jovens de uma cidade adaptaram uma dança conhecida para apresentá-la numa festa comunitária, incorporando ritmos escolhidos por moradores.",
+     "enunciado": "A adaptação mostra que a circulação de uma prática pode envolver transformação de repertório em resposta a um contexto local.",
+     "gabarito": "C",
+     "comentario": "A reportagem relata adaptação e escolha de ritmos locais; assim, apresenta transformação situada, sem exigir participação de toda a comunidade (H9).",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H9"
+    },
+    {
+     "id": "enem-linguagens-corpo-juvenil-132-q4",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "Uma competição transmite a mesma coreografia em dois canais: a câmera de um mostra os dançarinos; o outro alterna planos dos movimentos e reações do público.",
+     "enunciado": "Como a coreografia é a mesma, enquadramento e relação com o público não interferem na leitura da performance.",
+     "gabarito": "E",
+     "comentario": "Mesmo com a sequência de passos constante, os enquadramentos destacam aspectos diferentes e orientam a leitura do público (H11).",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    },
+    {
+     "id": "enem-linguagens-corpo-juvenil-132-q5",
+     "tipo": "multipla_escolha",
+     "dificuldade": "media",
+     "texto_base": "Para divulgar uma oficina, o centro cultural publica uma sequência de fotos de jovens ensaiando. A legenda diz: ‘Cada participante trouxe um movimento aprendido em casa; juntos, criamos uma dança para a festa do bairro’. ",
+     "enunciado": "A legenda apresenta a performance como",
+     "alternativas": {
+      "A": "reprodução obrigatória de uma coreografia profissional.",
+      "B": "atividade privada, sem relação com o espaço comunitário.",
+      "C": "competição em que apenas o melhor movimento permanece.",
+      "D": "expressão cujo sentido independe de quem participou.",
+      "E": "criação coletiva que articula experiências e ocasião local."
+     },
+     "gabarito": "E",
+     "comentario": "A) Errada: não há modelo profissional citado. B) Errada: a dança foi criada para uma festa do bairro. C) Errada: o texto fala em criação conjunta, não seleção competitiva. D) Errada: as experiências dos participantes integram a composição. E) Correta: movimentos trazidos pelos jovens são articulados numa produção coletiva para uma ocasião local. H9 relaciona prática, grupo e necessidade social.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H9"
+    },
+    {
+     "id": "enem-linguagens-corpo-juvenil-132-q6",
+     "tipo": "multipla_escolha",
+     "dificuldade": "dificil",
+     "texto_base": "Ao comentar um vídeo, uma estudante escreve: ‘O corte rápido mostra o início da sequência e depois a reação da plateia. A legenda chama o encontro de batalha, embora os grupos também troquem dicas’. ",
+     "enunciado": "Para interpretar a circulação da performance, é adequado considerar",
+     "alternativas": {
+      "A": "que o rótulo ‘batalha’ elimina qualquer cooperação entre grupos.",
+      "B": "somente os passos, pois edição, legenda e plateia não produzem sentidos.",
+      "C": "como enquadramento, legenda e interação apresentada orientam a leitura.",
+      "D": "que a reação da plateia prova a intenção original de todos os dançarinos.",
+      "E": "que todo vídeo de dança pertence ao mesmo gênero e tem idêntica finalidade."
+     },
+     "gabarito": "C",
+     "comentario": "A) Errada: a própria descrição relata troca de dicas. B) Errada: edição e legenda direcionam a atenção. C) Correta: os elementos da publicação e a relação mostrada afetam a interpretação. D) Errada: reação do público não comprova intenção de cada participante. E) Errada: suporte semelhante não torna finalidade e gênero idênticos. H11 enfatiza a linguagem corporal em interação.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    },
+    {
+     "id": "enem-linguagens-corpo-juvenil-132-q7",
+     "tipo": "multipla_escolha",
+     "dificuldade": "media",
+     "texto_base": "Um grupo de estudantes ensaia uma sequência aprendida em uma plataforma digital. Durante o ensaio, substitui movimentos que não combinam com o espaço reduzido do salão e explica a mudança na apresentação.",
+     "enunciado": "A decisão do grupo evidencia que",
+     "alternativas": {
+      "A": "o espaço e as condições de realização participam da composição corporal.",
+      "B": "uma prática deixa de ter valor quando seus movimentos são adaptados.",
+      "C": "a plataforma determina completamente como cada corpo deve se mover.",
+      "D": "a adaptação elimina toda relação entre a sequência e sua referência inicial.",
+      "E": "apenas movimentos executados em palco podem ser performances."
+     },
+     "gabarito": "A",
+     "comentario": "A) Correta: o salão reduzido é condição concreta considerada na adaptação. B) Errada: ajustar não invalida a prática. C) Errada: os estudantes tomam decisões próprias. D) Errada: a apresentação mantém uma referência, ainda que transformada. E) Errada: performance pode ocorrer em diferentes espaços. A leitura articula prática e circunstâncias sociais (H9/H11).",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H9 e H11"
+    },
+    {
+     "id": "enem-linguagens-corpo-juvenil-132-q8",
+     "tipo": "multipla_escolha",
+     "dificuldade": "dificil",
+     "texto_base": "Um mural contrapõe duas imagens da mesma roda de capoeira: uma mostra participantes em festa; outra, jovens treinando para ensinar movimentos a crianças. O texto pergunta como a prática se relaciona à comunidade.",
+     "enunciado": "A comparação sugere que a roda",
+     "alternativas": {
+      "A": "deve ser classificada exclusivamente como esporte competitivo.",
+      "B": "pode assumir funções diversas, conforme a ocasião e as relações construídas.",
+      "C": "perde seu sentido comunitário quando inclui aprendizagem técnica.",
+      "D": "tem um propósito idêntico em todas as situações representadas.",
+      "E": "só forma identidade quando não há espectadores."
+     },
+     "gabarito": "B",
+     "comentario": "A) Errada: nenhuma imagem a reduz à competição. B) Correta: festa e ensino são funções diferentes que o mural põe em relação. C) Errada: ensinar pode fortalecer relações comunitárias. D) Errada: as duas legendas mostram ocasiões distintas. E) Errada: espectadores não impedem construção de vínculos. H9 permite relacionar prática e necessidades sociais situadas.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H9"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Na análise de um vídeo, a ___ e a legenda podem orientar a leitura da performance.",
+     "opcoes": [
+      "edição",
+      "origem presumida",
+      "personalidade do espectador",
+      "regra universal"
+     ],
+     "respostas": [
+      "edição"
+     ],
+     "explicacao": "Escolha de planos e legendas destaca elementos e oferece um enquadramento interpretativo.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Adaptar movimentos às condições de espaço pode ser uma forma de ___ situada.",
+     "opcoes": [
+      "criação",
+      "desvalorização automática",
+      "uniformização",
+      "prova de origem"
+     ],
+     "respostas": [
+      "criação"
+     ],
+     "explicacao": "A adaptação considera a situação concreta sem necessariamente romper com as referências da prática.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H9"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene as etapas para inferir o sentido de uma performance apresentada em vídeo.",
+     "itens": [
+      "Descrever o que aparece e o que é dito",
+      "Identificar edição, legenda e público",
+      "Relacionar esses sinais à ocasião e aos participantes",
+      "Formular uma interpretação compatível com as evidências"
+     ],
+     "explicacao": "A descrição separa observação de hipótese e sustenta uma conclusão delimitada.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Enquadramento",
+       "Recorte visual que orienta atenção"
+      ],
+      [
+       "Adaptação",
+       "Ajuste a condições concretas"
+      ],
+      [
+       "Referência",
+       "Repertório que inspira escolhas"
+      ],
+      [
+       "Público",
+       "Pessoas que recebem a apresentação"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "enem-linguagens-corpo-juvenil-133",
+   "titulo": "Identidade, diferença e participação",
+   "microconteudo": "RAIO-X DA PROVA: A C-08E ainda não fechou o levantamento quantitativo por objeto das provas regulares de 2021–2025, logo este raio-x não inventa frequência nem tendência de banca. A Matriz 2026 indica abordagem das práticas corporais como interação e formação de identidade. O treino privilegia a leitura de barreiras, regras de participação e possibilidades de adaptação, distinguindo inclusão efetiva de mera presença física e evitando generalizações sobre grupos juvenis.\n\nO QUE A BANCA COBRA:\nUma situação sobre práticas corporais pode destacar quem consegue participar, quais regras organizam o encontro e como os integrantes lidam com diferenças. O item pode pedir que se reconheça uma barreira, uma adaptação ou uma forma de interação que amplia a participação. H11 é especialmente útil quando o corpo aparece como linguagem e a cena considera diferentes condições de desempenho; H9 ajuda a compreender por que a prática responde a necessidades e relações de um grupo.\n\nENTENDA:\nParticipar não significa que todos executem os mesmos movimentos da mesma maneira. Em um jogo, uma dança ou uma atividade de lazer, pessoas podem precisar de ajustes no espaço, nos materiais, no ritmo ou na comunicação. A adaptação é significativa quando permite que cada participante se relacione com a atividade e com os demais; não é necessariamente uma versão inferior. Para interpretar um enunciado, procure quem propõe a mudança, que barreira ela enfrenta e se a pessoa continua tendo escolhas e papel ativo.\n\nSuponha que estudantes queiram organizar um torneio recreativo na quadra. Uma aluna com mobilidade reduzida aponta que a circulação entre bancos e área de jogo está bloqueada. O grupo afasta obstáculos, ajusta a área e combina regras que permitem diferentes formas de deslocamento. Se a questão pergunta sobre linguagem corporal como interação, a leitura central é que a organização coletiva altera condições de acesso e possibilita participação. Não basta dizer que a aluna foi convidada: é preciso observar se o espaço e as regras permitem que ela atue, comunique decisões e influencie o jogo.\n\nA diferença não deve ser convertida em estigma. Um limite de desempenho numa situação não define o valor da pessoa nem determina que ela permaneça como espectadora. Ao mesmo tempo, não se deve presumir qual adaptação alguém deseja: a voz dos participantes e as informações do material importam. Uma questão bem respondida distingue condições concretas de rótulos generalizantes e reconhece que as próprias regras podem ser discutidas. Esse tipo de leitura conecta corpo, convivência e organização social, em vez de atribuir todo resultado a esforço individual.\n\nIdentidade juvenil também se constrói em experiências de reconhecimento e conflito. Uma equipe pode acolher diferentes repertórios, mas também pode reproduzir expectativas de gênero, aparência, habilidade ou origem. Se um cartaz apresenta apenas um tipo corporal como representação de quem pratica, a análise pode questionar essa seleção quando o texto fornece elementos para isso. Não se conclui automaticamente que houve exclusão apenas porque uma imagem é limitada; observe linguagem, regras, depoimentos e oportunidades mostradas. O caminho é apontar evidências e explicar como afetam a participação ou a representação.\n\nDOUTRINA:\nA abordagem cultural de Daolio chama atenção para diferenças corporais e culturais como parte da experiência humana, evitando impor um padrão universal de movimento. Aplicada à leitura de práticas juvenis, a perspectiva recomenda observar como condições e significados se formam nas relações, sem naturalizar desigualdades nem tratar adaptação como desvio. O texto de referência discute a construção cultural do corpo e as implicações pedagógicas de reconhecer diferenças na prática escolar. Referência: DAOLIO, Jocimar. ‘Da Cultura do Corpo’: 30 anos depois. Motricidades, v. 6, n. 3, 2022, p. 229–235.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nNão se aplica precedente jurídico ao foco desta lição. A Matriz de Referência ENEM 2026, em H11, oferece o critério avaliativo: considerar limites de desempenho e alternativas de adaptação na interação corporal.\n\nPEGADINHAS:\n1. Confundir convite com participação: verifique se espaço, regras e interação permitem atuação real.\n2. Tratar adaptação como privilégio ou diminuição: analise a barreira que ela remove e o papel que preserva.\n3. Supor o que a pessoa deseja sem evidência: considere sua fala e as pistas do caso.\n4. Atribuir exclusão ou inclusão somente pela imagem: leia também regras, legendas e depoimentos.\n5. Explicar toda diferença por esforço individual: considere organização do ambiente e da atividade.\n\nESQUEMA:\nBarreira observável → necessidade expressa/contextualizada → ajuste de espaço, regra, material ou comunicação → participação e interação possíveis.\nH11 → limites + alternativas de adaptação; identidade → reconhecimento e negociação, sem estereótipos.\n\nLIGAÇÕES:\nCruza-se com o objeto 1.4, vivência crítica e emancipada do lazer, e com o objeto 1.9, práticas corporais e autonomia.",
+   "flashcards": [
+    {
+     "frente": "Como diferenciar presença física de participação?",
+     "verso": "Participar envolve acesso às ações e interação com papel ativo, não apenas estar no mesmo espaço.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    },
+    {
+     "frente": "O que observar numa adaptação de atividade corporal?",
+     "verso": "A barreira enfrentada, o ajuste realizado e as possibilidades de escolha e interação mantidas.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    },
+    {
+     "frente": "Um limite numa atividade define o valor de alguém?",
+     "verso": "Não. É uma condição situada e não autoriza reduzir a pessoa a um rótulo.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    },
+    {
+     "frente": "Como avaliar se uma regra afeta participação?",
+     "verso": "Veja quem pode agir, comunicar decisões e influenciar o desenvolvimento da prática.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    },
+    {
+     "frente": "O que evitar ao propor adaptação para outra pessoa?",
+     "verso": "Presumir preferências sem escutar a pessoa ou sem pistas no caso.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    },
+    {
+     "frente": "Como a diferença se relaciona à identidade juvenil?",
+     "verso": "Experiências de reconhecimento e conflito podem fortalecer ou limitar pertencimento e expressão.",
+     "dispositivo": "Daolio, 2022, p. 229–235; Matriz ENEM 2026, H9 e H11"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-linguagens-corpo-juvenil-133-q1",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "Para uma gincana, a turma escolhe uma quadra, mas percebe que caixas de material bloqueiam o acesso à área de jogo. Os estudantes reorganizam o espaço após conversar com os colegas que usarão a quadra.",
+     "enunciado": "A reorganização pode ampliar as condições de participação ao responder a uma barreira identificada pelos próprios participantes.",
+     "gabarito": "C",
+     "comentario": "A barreira descrita é física e o grupo modifica o espaço após ouvir seus usuários; a alteração oferece condição mais favorável de participação (H11).",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    },
+    {
+     "id": "enem-linguagens-corpo-juvenil-133-q2",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "Um convite para uma atividade diz que ‘todos podem assistir’. A regra, porém, reserva os materiais e as decisões de jogo somente aos participantes considerados mais habilidosos.",
+     "enunciado": "A permissão para assistir, por si só, demonstra que o convite garante participação efetiva na atividade.",
+     "gabarito": "E",
+     "comentario": "Assistir não equivale a agir na prática. A regra restringe acesso aos materiais e decisões, logo o convite não assegura participação efetiva (H11).",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    },
+    {
+     "id": "enem-linguagens-corpo-juvenil-133-q3",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "Uma oficina de dança oferece música em volume ajustável e combina sinais visuais com instruções faladas. Os participantes escolhem qual sinal funciona melhor para cada sequência.",
+     "enunciado": "A variedade de sinais pode adaptar a comunicação corporal às condições de interação descritas.",
+     "gabarito": "C",
+     "comentario": "Volume ajustável e sinais escolhidos pelos participantes oferecem meios diferentes para acompanhar e interagir na oficina (H11).",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    },
+    {
+     "id": "enem-linguagens-corpo-juvenil-133-q4",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "Uma reportagem descreve que um estudante prefere começar observando uma nova modalidade antes de entrar na atividade. Depois, ele escolhe participar de uma etapa com colegas.",
+     "enunciado": "A observação inicial permite concluir que o estudante não deseja integrar qualquer prática corporal coletiva.",
+     "gabarito": "E",
+     "comentario": "O estudante escolhe participar depois de observar; a informação contraria a conclusão de rejeição permanente (H11).",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    },
+    {
+     "id": "enem-linguagens-corpo-juvenil-133-q5",
+     "tipo": "multipla_escolha",
+     "dificuldade": "dificil",
+     "texto_base": "Na preparação de uma partida recreativa, Caio sugere dividir a turma por experiência. Bia propõe que todos testem as regras primeiro e depois indiquem quais ajustes tornam o jogo mais acessível, sem retirar dos participantes a escolha de posições.",
+     "enunciado": "A proposta de Bia enfatiza que a participação pode ser ampliada por meio de",
+     "alternativas": {
+      "A": "seleção prévia dos estudantes com maior rendimento.",
+      "B": "manutenção de regras idênticas, independentemente das condições.",
+      "C": "substituição do jogo por uma demonstração feita pelo professor.",
+      "D": "ajustes negociados que preservam escolhas e interação.",
+      "E": "separação permanente entre iniciantes e experientes."
+     },
+     "gabarito": "D",
+     "comentario": "A) Errada: a proposta não seleciona por rendimento. B) Errada: Bia considera ajustes. C) Errada: a turma continua jogando e decidindo. D) Correta: regras são experimentadas e discutidas, mantendo escolha de posições. E) Errada: não há separação permanente. H11 considera adaptações e interação entre diferentes desempenhos.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    },
+    {
+     "id": "enem-linguagens-corpo-juvenil-133-q6",
+     "tipo": "multipla_escolha",
+     "dificuldade": "media",
+     "texto_base": "Um cartaz mostra três jovens praticando atividades diferentes e informa: ‘A praça terá rodas abertas de dança, caminhada e jogos. A programação foi montada com sugestões de moradores’. ",
+     "enunciado": "A informação sobre a programação permite reconhecer que",
+     "alternativas": {
+      "A": "as atividades foram definidas para excluir quem prefere modalidades individuais.",
+      "B": "o cartaz associa a oferta de práticas a demandas e decisões coletivas.",
+      "C": "a praça substitui todo espaço de convivência juvenil.",
+      "D": "os moradores precisam competir para escolher uma atividade.",
+      "E": "a identidade dos participantes decorre exclusivamente da modalidade escolhida."
+     },
+     "gabarito": "B",
+     "comentario": "A) Errada: caminhada pode ser feita individualmente ou em grupo, mas exclusão não é indicada. B) Correta: sugestões de moradores orientaram a programação. C) Errada: não há afirmação de substituição de espaços. D) Errada: o cartaz não descreve disputa. E) Errada: escolha de atividade não determina identidade completa. H9 relaciona prática e necessidades de grupos.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H9"
+    },
+    {
+     "id": "enem-linguagens-corpo-juvenil-133-q7",
+     "tipo": "multipla_escolha",
+     "dificuldade": "dificil",
+     "texto_base": "Um grupo planeja uma apresentação em que estudantes possam escolher entre executar movimentos, produzir a trilha sonora ou sinalizar as mudanças de ritmo. A proposta nasceu após conversa sobre formas diferentes de contribuir.",
+     "enunciado": "A proposta amplia a participação porque",
+     "alternativas": {
+      "A": "reconhece funções diversas na composição e na interação da performance.",
+      "B": "define uma única forma correta de expressão corporal.",
+      "C": "substitui a escolha individual por uma avaliação de aptidão.",
+      "D": "elimina a necessidade de colaboração entre estudantes.",
+      "E": "considera que apenas quem executa movimentos integra a criação."
+     },
+     "gabarito": "A",
+     "comentario": "A) Correta: executar, produzir som e sinalizar são papéis que contribuem para a apresentação. B) Errada: há mais de uma função. C) Errada: os estudantes escolhem formas de contribuir. D) Errada: as funções compõem uma apresentação conjunta. E) Errada: a descrição reconhece contribuições além da execução. H11 orienta considerar alternativas de interação corporal.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    },
+    {
+     "id": "enem-linguagens-corpo-juvenil-133-q8",
+     "tipo": "multipla_escolha",
+     "dificuldade": "media",
+     "texto_base": "Num relato sobre um campeonato estudantil, a organização alterou o tempo das rodadas após ouvir equipes que precisavam de pausas adicionais. O formato continuou coletivo e as equipes mantiveram decisões estratégicas.",
+     "enunciado": "A mudança descrita indica que adaptar uma prática",
+     "alternativas": {
+      "A": "necessariamente elimina o desafio da atividade.",
+      "B": "significa retirar das equipes qualquer poder de decisão.",
+      "C": "pode modificar condições para favorecer participação sem extinguir o caráter coletivo.",
+      "D": "só é válida quando todos precisam exatamente da mesma pausa.",
+      "E": "transforma a atividade em assistência sem interação."
+     },
+     "gabarito": "C",
+     "comentario": "A) Errada: o caso não diz que o desafio desapareceu. B) Errada: decisões estratégicas foram mantidas. C) Correta: a pausa ajusta condição de participação e preserva organização coletiva. D) Errada: necessidades podem variar. E) Errada: equipes continuam decidindo e interagindo. H11 envolve limites de desempenho e alternativas de adaptação.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Uma adaptação é relevante quando enfrenta uma ___ e favorece interação com papel ___.",
+     "opcoes": [
+      "barreira",
+      "ativo",
+      "preferência presumida",
+      "passivo"
+     ],
+     "respostas": [
+      "barreira",
+      "ativo"
+     ],
+     "explicacao": "O ajuste deve ser lido em relação à condição observada e às possibilidades de atuação que oferece.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Assistir à atividade não é o mesmo que ___ nela.",
+     "opcoes": [
+      "participar",
+      "ser definido",
+      "ser rotulado",
+      "ser excluído automaticamente"
+     ],
+     "respostas": [
+      "participar"
+     ],
+     "explicacao": "A presença como espectador não garante acesso às ações, decisões ou interações da prática.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene uma análise de barreira e adaptação numa prática coletiva.",
+     "itens": [
+      "Localizar a barreira ou limite descrito",
+      "Identificar quem participa e como a necessidade aparece",
+      "Examinar o ajuste proposto e as escolhas preservadas",
+      "Concluir como a interação e a participação são afetadas"
+     ],
+     "explicacao": "A conclusão deve relacionar a alteração às condições concretas do caso.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.3; H11"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Barreira",
+       "Condição que restringe acesso ou ação"
+      ],
+      [
+       "Adaptação",
+       "Ajuste frente a uma condição"
+      ],
+      [
+       "Interação",
+       "Relação entre participantes"
+      ],
+      [
+       "Estereótipo",
+       "Rótulo generalizante sem evidência"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

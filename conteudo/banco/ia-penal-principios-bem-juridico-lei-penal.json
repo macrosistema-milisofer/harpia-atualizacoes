@@ -1,0 +1,599 @@
+{
+ "assunto": "Direito Penal — princípios, bem jurídico e teoria da lei penal",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 (Constituição e Código Penal compilados no Planalto; jurisprudência STF/STJ consultada em fontes oficiais)",
+ "origem": "2026-11-23_banco-penal-principios-bem-juridico-lei-penal_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "tjsc-penal-principios-1",
+   "titulo": "Princípios penais e controle da intervenção punitiva",
+   "microconteudo": "O QUE A BANCA COBRA:\nNa amostra C-08 consultada, os princípios não apareceram como bloco teórico autônomo. A FGV trabalhou questões próximas por meio de fatos concretos: erro, culpabilidade, elementos do tipo, consequências penais e incidência de precedentes. Na prova de magistratura, a utilidade está em identificar qual garantia limita a decisão e qual princípio apenas orienta a interpretação, sem substituir a lei. A banca costuma aproximar legalidade e anterioridade, confundir pena pessoal com efeitos patrimoniais da condenação e tratar insignificância como cálculo exclusivamente monetário.\n\nENTENDA:\nOs princípios delimitam tanto a criação quanto a aplicação da lei penal. A legalidade possui dimensão formal e material: crime e pena dependem de lei anterior, escrita, estrita e suficientemente determinada. A reserva legal impede que costume crie delito ou agrave pena; a taxatividade exige descrição minimamente certa; a anterioridade impede surpresa punitiva. A Constituição, art. 5º, XXXIX e XL, e o Código Penal, arts. 1º e 2º, fornecem as referências centrais. A lei posterior mais benéfica retroage, inclusive após trânsito em julgado; a prejudicial não. O juiz pode interpretar o alcance de um tipo, mas não pode ampliar seu sentido para alcançar situação fora do campo semântico possível em prejuízo do acusado.\n\nCulpabilidade é limite à responsabilidade objetiva. Uma condenação exige atribuição pessoal do fato culpável, não bastando resultado socialmente grave, vínculo familiar ou posição hierárquica. A responsabilidade da pessoa jurídica só existe nas hipóteses constitucionais e legais próprias; no caso das pessoas naturais, o juiz deve examinar os elementos da culpabilidade pertinentes ao tipo e à situação concreta. A pessoalidade do art. 5º, XLV, impede transmitir a pena criminal a terceiros, embora a Constituição permita estender aos sucessores, dentro do patrimônio transferido, a obrigação de reparar dano e o perdimento de bens nos termos legais. Essa ressalva não converte sucessor em condenado.\n\nA individualização do art. 5º, XLVI, atua na lei, na sentença e na execução. O legislador prevê espécies e limites; o juiz aplica a sanção conforme o caso e fundamenta cada circunstância; a execução ajusta o cumprimento nos termos legais. Igualdade não exige penas idênticas para fatos diferentes, e individualização tampouco autoriza arbitrariedade. A proporcionalidade controla adequação, necessidade e equilíbrio da resposta, sem criar uma tabela judicial geral que a lei não instituiu. Humanidade veda penas constitucionalmente proibidas e exige execução compatível com direitos fundamentais.\n\nIntervenção mínima, fragmentariedade e subsidiariedade explicam por que a tutela penal deve recair sobre ataques relevantes a bens jurídicos e não sobre toda infração moral, contratual ou administrativa. São orientações importantes para o legislador e para interpretação constitucional, mas não estabelecem, sem base normativa, uma obrigação universal de esgotar vias civis antes de toda ação penal. A adequação social pode auxiliar a compreensão de uma conduta, mas não revoga tipo legal por decisão isolada quando o comportamento permanece formalmente previsto.\n\nA insignificância opera no plano da tipicidade material: mesmo presentes adequação formal e dolo, a lesão pode ser tão reduzida que não justifique resposta penal. No HC 84.412/SP, o STF consolidou quatro vetores de análise: mínima ofensividade, ausência de periculosidade social da ação, reduzido grau de reprovabilidade e inexpressividade da lesão. Não é uma fórmula de valor fixo nem sinônimo de pequeno preço; devem ser examinados o bem atingido, modo de agir, contexto e efeitos. A Súmula 599 do STJ enuncia a inaplicabilidade aos crimes contra a Administração Pública; a própria jurisprudência já reconheceu que peculiaridades excepcionais podem exigir exame concreto, razão para não transformar a súmula em dispensa de fundamentação.\n\nDOUTRINA:\nAs fichas de M-12 sintetizam Greco como defensor dos princípios limitadores do poder punitivo e da intervenção mínima; Nucci enfatiza a distinção entre tipicidade formal e material e a avaliação contextual da bagatela. Uma leitura garantista destaca a contenção do Estado; abordagens funcionalistas lembram a proteção de expectativas normativas. Para o juiz, a controvérsia não autoriza substituir a Constituição e os tipos vigentes por preferências pessoais. A biblioteca indicada no índice local não está disponível neste workspace e as fichas não confirmam página nem fornecem trecho literal verificável; por isso, não reproduzo citação direta nem invento paginação. A síntese doutrinária é própria e a paginação deve ser confirmada antes da publicação definitiva.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nSTF, HC 84.412/SP: vetores jurisprudenciais da insignificância. STJ, Súmula 599: regra de inaplicabilidade da bagatela aos crimes contra a Administração Pública, sem dispensar análise dos precedentes e circunstâncias concretas.\n\nPEGADINHAS:\n1. Legalidade contém reserva, anterioridade e exigência de determinação; analogia prejudicial não pode criar crime. 2. A pena não passa ao sucessor, mas reparação e perdimento podem alcançá-lo dentro do limite constitucional. 3. Individualização não significa liberdade sem critérios. 4. Insignificância não se decide apenas pelo valor econômico. 5. Súmula 599 não transforma todo ilícito administrativo em crime nem elimina a necessidade de identificar o tipo penal.\n\nESQUEMA:\nLei anterior, escrita e certa → tipicidade formal → culpabilidade pessoal → pena individualizada e proporcional.\nBagatela → tipicidade material → quatro vetores STF → exame do caso concreto.\nPena pessoal → CF, art. 5º, XLV; reparação/perdimento → exceção até o limite da herança.\n\nLIGAÇÕES:\nTeoria do delito: tipicidade e culpabilidade. Dosimetria: individualização judicial da pena.",
+   "flashcards": [
+    {
+     "frente": "Quais quatro vetores o STF examina na insignificância?",
+     "verso": "Ofensividade mínima, baixa periculosidade social, reduzida reprovabilidade e lesão inexpressiva.",
+     "dispositivo": "STF, HC 84.412/SP; CF, art. 5º, XXXIX"
+    },
+    {
+     "frente": "A lei penal posterior mais benéfica alcança condenação definitiva?",
+     "verso": "Sim. A retroatividade benéfica alcança fatos já julgados, conforme a lei penal.",
+     "dispositivo": "CF, art. 5º, XL; CP, art. 2º, parágrafo único"
+    },
+    {
+     "frente": "O que pode ser estendido aos sucessores do condenado?",
+     "verso": "Reparação e perdimento, nos termos legais, até o limite do patrimônio transferido; pena não.",
+     "dispositivo": "CF, art. 5º, XLV"
+    },
+    {
+     "frente": "A insignificância depende só do preço do bem?",
+     "verso": "Não. Exige avaliação contextual dos quatro vetores firmados pelo STF.",
+     "dispositivo": "STF, HC 84.412/SP"
+    },
+    {
+     "frente": "A analogia pode criar crime para preencher lacuna?",
+     "verso": "Não. Analogia prejudicial viola legalidade; a favor do acusado pode ser admitida.",
+     "dispositivo": "CF, art. 5º, XXXIX; CP, art. 1º"
+    },
+    {
+     "frente": "Qual cautela a Súmula 599 do STJ exige no caso concreto?",
+     "verso": "Aponta regra contra bagatela em crimes administrativos; precedentes e circunstâncias ainda devem ser examinados.",
+     "dispositivo": "STJ, Súmula 599; CP, art. 312"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Um juiz considera atípica a subtração porque o objeto tinha baixo preço, sem examinar a forma de execução, a reprovabilidade ou o impacto da conduta. A fundamentação basta para reconhecer insignificância.",
+     "gabarito": "E",
+     "comentario": "Incorreta. O valor econômico isolado não substitui os quatro vetores de análise estabelecidos pelo STF. O magistrado deve examinar ofensividade, periculosidade social, reprovabilidade e expressão da lesão no contexto. Base: STF, HC 84.412/SP.",
+     "dispositivo": "STF, HC 84.412/SP"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Lei penal posterior que favorece o condenado deve retroagir ainda que a condenação tenha transitado em julgado.",
+     "gabarito": "C",
+     "comentario": "Correta. A Constituição assegura retroatividade da lei penal benéfica, e o CP explicita que ela se aplica mesmo após decisão definitiva. Base: CF, art. 5º, XL; CP, art. 2º, parágrafo único.",
+     "dispositivo": "CF, art. 5º, XL; CP, art. 2º, parágrafo único"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "A pessoalidade da pena impede qualquer efeito patrimonial da condenação contra sucessores, inclusive a reparação do dano e o perdimento previstos em lei.",
+     "gabarito": "E",
+     "comentario": "Incorreta. A pena criminal não passa da pessoa do condenado, mas a CF permite estender reparação e perdimento nos termos da lei, limitados ao patrimônio transferido. Base: CF, art. 5º, XLV.",
+     "dispositivo": "CF, art. 5º, XLV"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "A reserva legal impede analogia que amplie tipo penal contra o acusado, mas não impede interpretação sistemática que permaneça dentro do sentido possível da lei.",
+     "gabarito": "C",
+     "comentario": "Correta. A interpretação identifica o alcance possível do texto; a analogia prejudicial supre lacuna para ampliar a punição e é vedada pela legalidade. Base: CF, art. 5º, XXXIX; CP, art. 1º.",
+     "dispositivo": "CF, art. 5º, XXXIX; CP, art. 1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 12/03/2026, Rafael foi condenado por levar uma carteira avaliada em R$ 18 de uma loja, sem violência. Na revisão criminal, o juiz avalia insignificância, mas há elementos contextuais que podem elevar a reprovabilidade. Qual método é adequado?",
+     "alternativas": {
+      "A": "Aplicar o exame contextual dos quatro vetores do STF, sem transformar preço, violência ou reincidência isoladamente em regra universal.",
+      "B": "Afastá-la automaticamente porque todo antecedente impede o princípio.",
+      "C": "Reconhecer insignificância automaticamente porque não houve violência.",
+      "D": "Usar apenas o valor do objeto, pois os demais fatores são irrelevantes.",
+      "E": "Declarar extinta a punibilidade sem analisar tipicidade material."
+     },
+     "gabarito": "A",
+     "comentario": "A é correta: o STF exige consideração conjunta dos quatro vetores e o contexto. C e D reduzem o exame a um fator. B converte dado pessoal em impedimento automático. E confunde tipicidade material com extinção da punibilidade. Base: STF, HC 84.412/SP.",
+     "dispositivo": "STF, HC 84.412/SP"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 10/04/2026, transitou em julgado a condenação de Marina; em 20/05/2026, lei nova reduziu a resposta penal para o fato. A defesa pede aplicação imediata da norma. Qual solução constitucional é correta?",
+     "alternativas": {
+      "A": "Negar, porque o trânsito em julgado torna imutável a lei aplicada.",
+      "B": "Aplicar a lei benéfica ao fato anterior, mesmo depois do trânsito em julgado.",
+      "C": "Aplicar a lei nova apenas se o Ministério Público concordar.",
+      "D": "Aplicar retroativamente apenas se a lei disser expressamente que alcança condenações definitivas.",
+      "E": "Suspender a execução e aguardar lei complementar."
+     },
+     "gabarito": "B",
+     "comentario": "B é correta: a retroatividade benéfica é garantia constitucional e está no art. 2º, parágrafo único, do CP. A, C e D criam limitações não previstas; E inventa condição suspensiva. Base: CF, art. 5º, XL; CP, art. 2º, parágrafo único.",
+     "dispositivo": "CF, art. 5º, XL; CP, art. 2º, parágrafo único"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 08/06/2026, um servidor utilizou por cinco minutos equipamento municipal avaliado em R$ 35 em benefício próprio. A defesa invoca insignificância. Qual referência jurisprudencial deve orientar inicialmente a decisão?",
+     "alternativas": {
+      "A": "STJ, Súmula 231, que extingue tipicidade em todo dano inferior ao salário mínimo.",
+      "B": "STF, Súmula Vinculante 11, que fixa valor máximo para delitos administrativos.",
+      "C": "STJ, Súmula 599, que enuncia inaplicabilidade da insignificância aos crimes contra a Administração Pública, devendo o caso ser fundamentado à luz da jurisprudência pertinente.",
+      "D": "STF, HC 84.412/SP, que torna obrigatória a insignificância em todo crime sem violência.",
+      "E": "CF, art. 5º, XLV, que transforma a reparação em causa automática de atipicidade."
+     },
+     "gabarito": "C",
+     "comentario": "C é correta: a Súmula 599 do STJ enuncia a regra para crimes contra a Administração Pública. B atribui conteúdo inexistente à SV 11; A inventa regra de valor; D transforma vetores em automatismo; E trata de pessoalidade e efeitos patrimoniais, não de atipicidade. Base: STJ, Súmula 599.",
+     "dispositivo": "STJ, Súmula 599"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 01/07/2026, Paulo faleceu durante a execução; deixou R$ 40 mil ao filho e multa penal pendente de R$ 2 mil, além de reparação civil de R$ 8 mil. Qual conclusão se ajusta à pessoalidade?",
+     "alternativas": {
+      "A": "Ambos os efeitos passam integralmente ao herdeiro, sem limite.",
+      "B": "A morte extingue toda consequência patrimonial, mesmo a reparação constitucionalmente prevista.",
+      "C": "A reparação não pode alcançar sucessores, mas a multa pode ser cobrada sem limite.",
+      "D": "A pena criminal não pode ser transmitida; a reparação pode alcançar sucessores nos termos legais e até o limite do patrimônio transferido.",
+      "E": "A pena pode ser cobrada se o sucessor participou do inventário."
+     },
+     "gabarito": "D",
+     "comentario": "D é correta: pena não ultrapassa a pessoa do condenado; reparação e perdimento têm ressalva constitucional limitada à herança. A e C ignoram limite e pessoalidade; B apaga a ressalva; E cria hipótese de sucessão penal. Base: CF, art. 5º, XLV.",
+     "dispositivo": "CF, art. 5º, XLV"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Não há crime sem ___ anterior nem pena sem prévia ___.",
+     "opcoes": [
+      "lei",
+      "cominação legal",
+      "costume",
+      "analogia"
+     ],
+     "respostas": [
+      "lei",
+      "cominação legal"
+     ],
+     "explicacao": "A legalidade penal exige lei anterior e sanção previamente cominada.",
+     "dispositivo": "CF, art. 5º, XXXIX; CP, art. 1º"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "A insignificância exige exame contextual dos ___ vetores do STF.",
+     "opcoes": [
+      "quatro",
+      "dois",
+      "valor do bem",
+      "antecedentes"
+     ],
+     "respostas": [
+      "quatro"
+     ],
+     "explicacao": "O HC 84.412/SP consolidou quatro critérios, analisados no caso concreto.",
+     "dispositivo": "STF, HC 84.412/SP"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a verificação judicial de uma alegação de insignificância.",
+     "itens": [
+      "Verificar a tipicidade formal e o bem atingido.",
+      "Examinar ofensividade, periculosidade social, reprovabilidade e expressão da lesão.",
+      "Avaliar as circunstâncias concretas sem adotar critério monetário automático.",
+      "Fundamentar o reconhecimento ou afastamento da tipicidade material."
+     ],
+     "explicacao": "A conclusão exige identificar o tipo, aplicar os vetores e justificar o efeito jurídico.",
+     "dispositivo": "STF, HC 84.412/SP"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Legalidade",
+       "Crime e pena exigem lei anterior"
+      ],
+      [
+       "Pessoalidade",
+       "Pena não passa ao condenado"
+      ],
+      [
+       "Individualização",
+       "Sanção ajustada ao caso"
+      ],
+      [
+       "Insignificância",
+       "Exclusão da tipicidade material"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tjsc-penal-bem-juridico-1",
+   "titulo": "Bem jurídico, objeto do crime e limites de tutela",
+   "microconteudo": "O QUE A BANCA COBRA:\nA C-08 indica cobrança penal por subsunção a tipos específicos, não por definição abstrata de bem jurídico. Em provas FGV, o candidato precisa separar o interesse protegido da coisa ou pessoa sobre a qual recai a ação, e reconhecer quando a tutela é individual ou coletiva. A pegadinha recorrente é supor que toda infração de perigo exige dano consumado ou que a referência genérica à ordem pública basta para ampliar um tipo.\n\nENTENDA:\nBem jurídico-penal é o interesse ou condição relevante cuja proteção ajuda a explicar e delimitar a norma incriminadora. Vida, liberdade e patrimônio são exemplos individuais; meio ambiente, fé pública e regularidade da Administração podem ter dimensão coletiva ou supraindividual. A categoria tem função interpretativa: diante de elemento ambíguo, ajuda a compreender o alcance da norma; também orienta a crítica à criminalização excessiva e a identificação do resultado juridicamente relevante. Não é autorização judicial para declarar inválida qualquer incriminação com a qual o julgador discorde.\n\nÉ essencial distinguir objeto jurídico e objeto material. O objeto jurídico é o bem ou interesse protegido; o material é a pessoa ou coisa sobre a qual recai a conduta. No furto, a coisa móvel é objeto material e o patrimônio, objeto jurídico. No homicídio, a pessoa viva é o objeto material da ação e a vida humana é o interesse protegido. Há tipos em que o objeto material não é um bem corpóreo, ou em que a vítima não coincide com o titular imediato do bem. Essa distinção auxilia a resolver consumação, tentativa, concurso de crimes e conflito aparente de normas.\n\nA classificação do delito revela a forma como o bem jurídico é protegido. Crimes de dano exigem lesão; crimes de perigo podem antecipar a intervenção para evitar risco, com modalidades concretas ou abstratas conforme a descrição legal e a interpretação constitucional. Perigo abstrato não significa ausência de qualquer finalidade de tutela, mas opção legislativa por considerar determinada conduta perigosa segundo critérios gerais. O juiz não deve acrescentar elemento de dano que a lei não exige, nem presumir por analogia um perigo que o tipo não descreve. Deve verificar o texto, a natureza do bem e a interpretação vinculante aplicável.\n\nBens supraindividuais não são interesses fictícios: podem pertencer à coletividade e proteger condições de vida compartilhadas. Ainda assim, a invocação de um bem coletivo deve ser concreta o suficiente para explicar a norma e limitar seu alcance. A tutela da Administração, por exemplo, pode proteger probidade, patrimônio público e regularidade funcional; por isso, a insignificância não se transfere automaticamente de delitos patrimoniais privados para crimes funcionais. A Súmula 599 do STJ expressa a regra de não aplicação da bagatela em crimes contra a Administração Pública. A ficha M-12 recomenda leitura cuidadosa: precedentes excepcionais dependem do contexto, sem revogar por si só o enunciado.\n\nA concepção funcionalista normativa pode explicar o delito como violação da vigência da norma; leituras centradas no bem jurídico insistem que a tutela penal precisa se relacionar com interesses relevantes e limites constitucionais. Para o magistrado, não se escolhe entre teoria abstrata e tipo legal: usa-se a doutrina para compreender o elemento normativo, examina-se a prova e aplica-se a Constituição. A mera imoralidade, antipatia ou desaprovação social não substitui a descrição legal; ao mesmo tempo, bem jurídico coletivo pode justificar proteção mesmo sem vítima individual identificável.\n\nDOUTRINA:\nAs fichas de M-12 apresentam Greco associando bem jurídico à limitação material e à fragmentariedade. Nucci enfatiza sua utilidade na interpretação dos elementos do tipo. A corrente funcionalista de Jakobs desloca o foco para a proteção da vigência normativa; abordagens garantistas respondem que essa função não pode afastar exigências de legalidade e de lesão ou perigo penalmente relevantes. Não atribuo páginas ou citação literal: o arquivo doutrinário informa que a paginação dos manuais não foi confirmada, e a biblioteca mencionada não está disponível neste workspace. A exposição é autoral e deve receber conferência bibliográfica antes de publicação definitiva.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nSTF, HC 84.412/SP: a bagatela exige avaliação da ofensividade e da expressão material da lesão. STJ, Súmula 599: regra jurisprudencial específica para crimes contra a Administração Pública. A natureza do bem jurídico orienta a aplicação, mas não substitui análise do tipo concreto.\n\nPEGADINHAS:\n1. Objeto jurídico não é a coisa atingida. 2. Crime de perigo pode consumar sem dano, mas depende da estrutura legal do tipo. 3. Bem coletivo não é sinônimo de interesse vago ou ilimitado. 4. Proteção do bem jurídico orienta interpretação, mas não permite ao juiz criar crime. 5. A bagatela em crime administrativo não segue automaticamente o raciocínio de furto privado.\n\nESQUEMA:\nObjeto jurídico → interesse protegido. Objeto material → pessoa/coisa sobre a qual recai a ação.\nCrime de dano → lesão exigida. Crime de perigo → antecipação da tutela conforme o tipo.\nBem individual ou coletivo → interpretar sem superar legalidade e taxatividade.\n\nLIGAÇÕES:\nTeoria do delito: tipicidade material e consumação. Princípios: fragmentariedade e insignificância.",
+   "flashcards": [
+    {
+     "frente": "No furto, qual é o objeto material e qual o bem jurídico?",
+     "verso": "A coisa móvel é o objeto material; o patrimônio é o bem jurídico protegido.",
+     "dispositivo": "Código Penal, art. 155"
+    },
+    {
+     "frente": "Crime de perigo exige dano efetivo para consumar?",
+     "verso": "Não necessariamente; depende da estrutura do tipo, concreto ou abstrato.",
+     "dispositivo": "Código Penal, tipo penal aplicável; legalidade do art. 1º"
+    },
+    {
+     "frente": "Um bem jurídico coletivo pode ser objeto de tutela penal?",
+     "verso": "Sim. Meio ambiente e regularidade administrativa são exemplos de interesses supraindividuais.",
+     "dispositivo": "CF, arts. 37 e 225; CP, arts. 312 e seguintes"
+    },
+    {
+     "frente": "O bem jurídico permite ao juiz criar incriminação diante de interesse relevante?",
+     "verso": "Não. A incriminação depende de lei anterior e determinada.",
+     "dispositivo": "CF, art. 5º, XXXIX; CP, art. 1º"
+    },
+    {
+     "frente": "O objeto jurídico se confunde com a vítima?",
+     "verso": "Não. É o interesse protegido; a vítima pode não coincidir com seu titular imediato.",
+     "dispositivo": "Código Penal, art. 155 e seguintes"
+    },
+    {
+     "frente": "A insignificância aplicada ao patrimônio privado se transfere automaticamente à Administração?",
+     "verso": "Não. A Súmula 599 do STJ enuncia regra própria para crimes administrativos.",
+     "dispositivo": "STJ, Súmula 599"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Em um furto, a bicicleta subtraída é o objeto jurídico e o patrimônio é o objeto material do delito.",
+     "gabarito": "E",
+     "comentario": "Incorreta. A bicicleta é a coisa sobre a qual recai a conduta, portanto objeto material; o patrimônio é o bem jurídico. Base: CP, art. 155.",
+     "dispositivo": "CP, art. 155"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A classificação de um tipo como crime de perigo pode explicar a consumação antes de dano efetivo, desde que essa estrutura resulte da lei aplicável.",
+     "gabarito": "C",
+     "comentario": "Correta. Crimes de perigo antecipam a tutela, mas o intérprete deve verificar os elementos descritos pelo legislador, sem criar requisito ou perigo por analogia. Base: CF, art. 5º, XXXIX; CP, art. 1º.",
+     "dispositivo": "CF, art. 5º, XXXIX; CP, art. 1º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Por proteger bem coletivo, um tipo penal pode ser estendido por analogia a condutas não descritas, se o magistrado entender que são socialmente danosas.",
+     "gabarito": "E",
+     "comentario": "Incorreta. A relevância do bem coletivo não supera a legalidade nem autoriza analogia prejudicial. O juiz deve respeitar o texto penal. Base: CF, art. 5º, XXXIX; CP, art. 1º.",
+     "dispositivo": "CF, art. 5º, XXXIX; CP, art. 1º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "A natureza coletiva do bem jurídico não dispensa a identificação dos elementos do tipo e a prova; ela pode auxiliar a compreender a finalidade e o alcance da norma.",
+     "gabarito": "C",
+     "comentario": "Correta. A natureza coletiva do bem não dispensa subsunção, prova ou legalidade; ela auxilia a compreender a finalidade e o alcance do tipo. Base: CF, art. 5º, XXXIX; CP, art. 1º.",
+     "dispositivo": "CF, art. 5º, XXXIX; CP, art. 1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 14/02/2026, Joana foi denunciada por subtrair uma ferramenta avaliada em R$ 120 de uma oficina. Qual distinção entre objetos do delito é correta?",
+     "alternativas": {
+      "A": "A ferramenta é objeto jurídico e o patrimônio é objeto material.",
+      "B": "Não existe objeto material em crimes patrimoniais.",
+      "C": "A pessoa investigada é sempre o objeto jurídico.",
+      "D": "O processo penal é o bem jurídico do furto.",
+      "E": "A ferramenta é objeto material e o patrimônio é objeto jurídico."
+     },
+     "gabarito": "E",
+     "comentario": "E é correta: a coisa subtraída é o objeto material e o patrimônio o bem jurídico. A inverte os conceitos. C confunde autor com objeto. D confunde instrumento processual e interesse protegido. B ignora o objeto corpóreo do furto. Base: CP, art. 155.",
+     "dispositivo": "CP, art. 155"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 22/03/2026, a empresa de Caio armazenou 15 litros de produto cujo uso pode gerar risco ambiental; não houve dano final apurado. Qual providência judicial é correta ao examinar crime de perigo?",
+     "alternativas": {
+      "A": "Identificar a estrutura legal do tipo e verificar se exige perigo concreto ou considera a conduta perigosa nos termos da lei, sem presumir elemento ausente.",
+      "B": "Condenar sempre que a acusação mencione risco social.",
+      "C": "Absolver sempre, pois todo crime exige dano consumado.",
+      "D": "Substituir o tipo por outro semelhante para proteger o mesmo bem.",
+      "E": "Desconsiderar a prova, pois a classificação doutrinária resolve o caso."
+     },
+     "gabarito": "A",
+     "comentario": "A é correta: consumação e exigência de perigo dependem dos elementos do tipo e da interpretação válida. C generaliza o dano; B toma alegação como prova; D viola legalidade; E ignora prova e subsunção. Base: CF, art. 5º, XXXIX; CP, art. 1º.",
+     "dispositivo": "CF, art. 5º, XXXIX; CP, art. 1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 02/05/2026, André usou por dez minutos uma impressora municipal avaliada em R$ 90, sem autorização. Qual orientação inicial é mais adequada para a alegação de insignificância?",
+     "alternativas": {
+      "A": "Aplicar automaticamente o entendimento de qualquer furto privado de pequeno valor.",
+      "B": "Examinar a Súmula 599 do STJ e os precedentes pertinentes sobre crimes contra a Administração, com fundamentação específica.",
+      "C": "Reconhecer atipicidade porque bens públicos não possuem titular.",
+      "D": "Usar o art. 5º, XLV, da CF como causa automática de insignificância.",
+      "E": "Condenar sem identificar qual tipo penal foi imputado."
+     },
+     "gabarito": "B",
+     "comentario": "B é correta: a Súmula 599 enuncia inaplicabilidade da bagatela aos crimes contra a Administração, e a decisão deve identificar o tipo e a orientação jurisprudencial aplicável. A transfere mecanicamente parâmetro privado; C é falsa; D trata da pessoalidade; E viola subsunção e defesa. Base: STJ, Súmula 599; CP, arts. 312 e seguintes, conforme imputação.",
+     "dispositivo": "STJ, Súmula 599; CP, art. 312, conforme o tipo imputado"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 19/06/2026, Beatriz apresentou documento falso para obter vantagem de R$ 300, sem apontar pessoa lesada individualmente. Qual análise é mais precisa sobre o bem jurídico?",
+     "alternativas": {
+      "A": "A tese procede: todo crime exige prejuízo econômico individual quantificável.",
+      "B": "A acusação pode dispensar prova porque bens coletivos são presumidos.",
+      "C": "A tese não procede necessariamente: a fé pública pode constituir bem jurídico coletivo, mas a condenação ainda exige prova dos elementos legais do tipo.",
+      "D": "A fé pública autoriza analogia para qualquer falsidade socialmente reprovável.",
+      "E": "O documento é sempre o bem jurídico, e a confiança não pode ser protegida."
+     },
+     "gabarito": "C",
+     "comentario": "C é correta: existem bens jurídicos supraindividuais; sua tutela não exige vítima individual com prejuízo econômico, mas continuam necessários tipo e prova. A restringe indevidamente a tutela; B dispensa prova; D viola legalidade; E confunde objeto material e jurídico. Base: CP, arts. 297 e seguintes, conforme tipo aplicável; CF, art. 5º, XXXIX.",
+     "dispositivo": "CP, arts. 297 e seguintes, conforme tipo aplicável; CF, art. 5º, XXXIX"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O interesse protegido é o objeto ___; a pessoa ou coisa atingida é o objeto ___.",
+     "opcoes": [
+      "jurídico",
+      "material",
+      "processual",
+      "subjetivo"
+     ],
+     "respostas": [
+      "jurídico",
+      "material"
+     ],
+     "explicacao": "A distinção facilita interpretar o tipo e seus elementos.",
+     "dispositivo": "CP, art. 155"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Crimes de ___ podem antecipar a tutela antes de dano final, conforme o tipo.",
+     "opcoes": [
+      "perigo",
+      "dano",
+      "resultado necessário",
+      "omissão"
+     ],
+     "respostas": [
+      "perigo"
+     ],
+     "explicacao": "A exigência de risco ou lesão decorre da descrição legal concreta.",
+     "dispositivo": "CF, art. 5º, XXXIX; CP, art. 1º"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise do bem jurídico em um caso penal.",
+     "itens": [
+      "Identificar o tipo e seus elementos legais.",
+      "Separar objeto jurídico de objeto material.",
+      "Determinar se a tutela exige dano ou abrange perigo nos termos da lei.",
+      "Aplicar a norma ao fato provado sem ampliar o tipo por analogia."
+     ],
+     "explicacao": "O exame parte da lei, identifica o interesse protegido e então confronta tipo e prova.",
+     "dispositivo": "CF, art. 5º, XXXIX; CP, art. 1º"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Vida",
+       "Bem jurídico individual"
+      ],
+      [
+       "Meio ambiente",
+       "Bem jurídico transindividual"
+      ],
+      [
+       "Bicicleta subtraída",
+       "Objeto material do furto"
+      ],
+      [
+       "Patrimônio",
+       "Objeto jurídico do furto"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tjsc-penal-lei-penal-1",
+   "titulo": "Fontes, estrutura e interpretação da lei penal",
+   "microconteudo": "O QUE A BANCA COBRA:\nA prova FGV tende a exigir aplicação da norma a um caso em vez de pedir classificações sem consequência. Nos cadernos penais examinados pela C-08, as questões cobraram compreensão exata do tipo e das regras legais, o que recomenda atenção a expressões, elementos normativos e complementos. A pegadinha clássica é trocar interpretação analógica por analogia ou afirmar que costume, jurisprudência ou equidade podem criar incriminação.\n\nENTENDA:\nA lei penal é fonte formal direta da incriminação e da pena; norma penal é o comando interpretado a partir do texto, em conjunto com Constituição e sistema jurídico. Costume, jurisprudência e doutrina podem auxiliar a compreender usos, conceitos e alcance, mas não substituem lei anterior para criar crime ou agravar sanção. O art. 5º, XXXIX, da Constituição e o art. 1º do CP consagram reserva legal. A consequência prática é institucional: se um comportamento é censurável, mas não está descrito como delito, o juiz não pode preencher a lacuna com costume social ou analogia desfavorável.\n\nO preceito primário descreve a conduta proibida ou ordenada; o secundário estabelece a sanção. Nem todo tipo aparece como frase simples: pode conter remissões, elementos normativos ou depender de complemento. A lei penal em branco exige complementação por outra norma. A validade depende de a lei formal fixar o núcleo essencial da proibição e de o complemento ser identificável e acessível. Mudanças no complemento podem repercutir na aplicação temporal, mas não se presume retroatividade benéfica ou prejudicial sem analisar a natureza da alteração e a orientação jurisprudencial aplicável.\n\nInterpretar não é integrar. Interpretação gramatical considera o texto; sistemática o relaciona com outros dispositivos; histórica considera contexto de edição; teleológica examina a finalidade; conforme a Constituição seleciona sentido compatível entre possibilidades sem reescrever a lei. Interpretação extensiva reconhece que o texto comporta sentido mais amplo que sua leitura inicial. Interpretação analógica ocorre quando a lei enumera hipóteses e inclui cláusula aberta de semelhança dentro de critério legal. Analogia, em sentido próprio, supre lacuna com regra de caso semelhante; em direito penal material, não pode ser usada in malam partem. A favor do réu, pode-se admitir integração benéfica, desde que não se contrarie proibição legal específica.\n\nPrincípios gerais e equidade podem orientar a interpretação e a integração nos limites do ordenamento, não afastar reserva legal. A jurisprudência interpreta e estabiliza o direito, inclusive por precedentes vinculantes, mas não é fonte legislativa apta a inaugurar tipo penal. Se uma decisão judicial muda o entendimento, o magistrado deve examinar o precedente e seus efeitos temporais, sem equiparar automaticamente toda mudança interpretativa à lei posterior. A questão depende de segurança jurídica, proteção da confiança e natureza do pronunciamento.\n\nA lei penal também se articula com as regras temporais dos arts. 2º a 4º do CP. Abolitio criminis faz cessar execução e efeitos penais da condenação; lei posterior mais benéfica retroage; lei excepcional ou temporária conserva aplicação aos fatos praticados durante sua vigência nos termos do art. 3º. O tempo do crime segue a teoria da atividade: considera-se praticado no momento da ação ou omissão, ainda que o resultado ocorra depois (art. 4º). Essas regras exemplificam por que fontes, interpretação e aplicação temporal devem ser tratadas conjuntamente.\n\nDOUTRINA:\nGreco distingue analogia de interpretação extensiva e analógica, relacionando a diferença à legalidade; Nucci enfatiza que a analogia favorável não pode servir para contornar vedação expressa. A teoria das normas também distingue texto legislado e norma interpretada, o que explica o papel criativo limitado da jurisdição. O material M-12 informa que as páginas dos manuais locais não foram confirmadas e que as obras datam de 2017; não transcrevo citação literal nem invento páginas. A exposição é síntese autoral; alterações normativas posteriores devem prevalecer sobre exemplos doutrinários antigos.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nA reserva legal decorre da CF, art. 5º, XXXIX, e CP, art. 1º. Os arts. 2º a 4º do CP disciplinam sucessão de leis, lei temporária e tempo do crime. Não uso precedente não verificado para ampliar o tema; a conferência jurídica pode acrescentar julgado específico sobre complementação de norma penal em branco, se necessário.\n\nPEGADINHAS:\n1. Norma é o sentido jurídico; lei é fonte formal. 2. Costume pode esclarecer significado, mas não criar crime. 3. Interpretação analógica opera dentro de cláusula legal; analogia preenche lacuna. 4. Analogia contra o réu é vedada. 5. Lei temporária não deixa de ser aplicada só porque expirou depois do fato.\n\nESQUEMA:\nReserva legal → lei formal anterior → tipo e pena.\nInterpretação → sentido possível do texto. Analogia → integração de lacuna, nunca prejudicial.\nLei benéfica → retroage. Lei temporária → ultratividade nos termos legais. Tempo do crime → ação ou omissão.\n\nLIGAÇÕES:\nPrincípios penais: legalidade e taxatividade. Aplicação da lei no tempo: abolitio criminis e sucessão de leis.",
+   "flashcards": [
+    {
+     "frente": "Costume pode criar crime ou agravar pena?",
+     "verso": "Não. A incriminação e a sanção exigem lei anterior.",
+     "dispositivo": "CF, art. 5º, XXXIX; CP, art. 1º"
+    },
+    {
+     "frente": "Como distinguir interpretação analógica de analogia?",
+     "verso": "A primeira segue abertura prevista no tipo; a segunda integra lacuna por semelhança.",
+     "dispositivo": "CF, art. 5º, XXXIX; CP, art. 1º"
+    },
+    {
+     "frente": "Quando a analogia penal é vedada?",
+     "verso": "Quando prejudica o acusado, criando ou ampliando incriminação ou sanção.",
+     "dispositivo": "CF, art. 5º, XXXIX; CP, art. 1º"
+    },
+    {
+     "frente": "Qual teoria define o tempo do crime no CP?",
+     "verso": "Teoria da atividade: momento da ação ou omissão, ainda que o resultado seja posterior.",
+     "dispositivo": "CP, art. 4º"
+    },
+    {
+     "frente": "O fim da vigência de lei temporária apaga sua aplicação ao fato praticado durante a vigência?",
+     "verso": "Não. A lei temporária conserva ultratividade conforme o art. 3º do CP.",
+     "dispositivo": "CP, art. 3º"
+    },
+    {
+     "frente": "O que a lei penal em branco precisa preservar?",
+     "verso": "A lei formal deve definir o núcleo essencial da proibição e permitir identificar o complemento.",
+     "dispositivo": "CF, art. 5º, XXXIX; CP, art. 1º"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Um costume local passa a reprovar intensamente determinada conduta não prevista como crime. O juiz pode condenar com base na prática reiterada da comunidade.",
+     "gabarito": "E",
+     "comentario": "Incorreta. Costume não pode criar incriminação, ainda que seja elemento interpretativo em contexto juridicamente permitido. Base: CF, art. 5º, XXXIX; CP, art. 1º.",
+     "dispositivo": "CF, art. 5º, XXXIX; CP, art. 1º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A interpretação analógica pode ser admitida quando a própria lei, após hipóteses enumeradas, fornece critério de extensão a situações semelhantes.",
+     "gabarito": "C",
+     "comentario": "Correta. A extensão decorre da abertura prevista pelo legislador e permanece nos limites semânticos e sistemáticos do tipo, ao contrário da integração de lacuna por analogia. Base: CF, art. 5º, XXXIX; CP, art. 1º.",
+     "dispositivo": "CF, art. 5º, XXXIX; CP, art. 1º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "A analogia in malam partem pode ser usada se o bem jurídico for relevante e a conduta socialmente reprovável.",
+     "gabarito": "E",
+     "comentario": "Incorreta. Relevância do interesse não afasta reserva legal. Analogia prejudicial não pode criar ou ampliar crime ou pena. Base: CF, art. 5º, XXXIX; CP, art. 1º.",
+     "dispositivo": "CF, art. 5º, XXXIX; CP, art. 1º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Para determinar o tempo do crime, o Código Penal considera praticado o delito no momento da ação ou omissão, ainda que o resultado ocorra depois.",
+     "gabarito": "C",
+     "comentario": "Correta. O art. 4º do CP adota a teoria da atividade para o tempo do crime. Base: CP, art. 4º.",
+     "dispositivo": "CP, art. 4º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 03/01/2026, Davi praticou conduta não prevista como crime; em 18/02/2026, um costume local passou a reprová-la intensamente. O juiz pode condenar com base na prática comunitária?",
+     "alternativas": {
+      "A": "O fato deixa de ser punível automaticamente com o término do prazo.",
+      "B": "A lei temporária só vale se houver prorrogação antes da denúncia.",
+      "C": "Aplica-se sempre a lei posterior mais gravosa.",
+      "D": "A lei temporária pode continuar aplicável ao fato praticado durante sua vigência, nos termos do CP.",
+      "E": "A Constituição proíbe ultratividade de qualquer lei penal."
+     },
+     "gabarito": "D",
+     "comentario": "D é correta: o art. 3º do CP prevê aplicação ao fato praticado durante a vigência mesmo depois de cessada a duração. A confunde expiração posterior com abolitio criminis; C não decorre da regra; B e E criam requisitos inexistentes. Base: CP, art. 3º.",
+     "dispositivo": "CP, art. 3º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 09/04/2026, Luiza praticou fato sujeito a lei temporária, em período no qual a norma cominava pena de até 2 anos; a lei expirou em maio, antes da sentença. Qual regra se aplica?",
+     "alternativas": {
+      "A": "Toda remissão torna o tipo automaticamente inconstitucional.",
+      "B": "A remissão dispensa publicidade e acessibilidade do complemento.",
+      "C": "O ato técnico pode definir livremente a pena, mesmo sem lei.",
+      "D": "O costume pode substituir o complemento se houver prática administrativa uniforme.",
+      "E": "O complemento pode ser considerado se a lei formal preservar núcleo essencial da proibição e o complemento for identificável, sem delegar integralmente a criação do crime."
+     },
+     "gabarito": "E",
+     "comentario": "E é correta: a análise exige núcleo legal suficiente e complemento normativo reconhecível. A generaliza; C entrega sanção sem lei; D cria fonte incriminadora; B viola segurança e publicidade. Base: CF, art. 5º, XXXIX; CP, art. 1º.",
+     "dispositivo": "CF, art. 5º, XXXIX; CP, art. 1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 11/05/2026, uma lei remeteu a ato técnico que identifica substância proibida; em 01/06/2026, Bruno foi acusado por portar 4 gramas dessa substância. Qual critério avalia a legalidade?",
+     "alternativas": {
+      "A": "O momento do resultado, em todos os delitos.",
+      "B": "O momento da denúncia.",
+      "C": "O momento da ação ou omissão, ainda que outro seja o momento do resultado.",
+      "D": "O momento em que a vítima percebeu o dano.",
+      "E": "O trânsito em julgado da sentença."
+     },
+     "gabarito": "C",
+     "comentario": "C é correta: o CP adota a teoria da atividade. A corresponde à teoria do resultado; B, D e E são marcos sem base no art. 4º. Base: CP, art. 4º.",
+     "dispositivo": "CP, art. 4º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 08/07/2026, Marcos praticou a ação; o resultado ocorreu em 10/07/2026, após alteração legal. Para determinar o tempo do crime, qual marco adota o Código Penal?",
+     "alternativas": {
+      "A": "Toda ampliação interpretativa é analogia, sem exceção.",
+      "B": "A cláusula permite criar nova pena sem previsão legal.",
+      "C": "Analogia é sempre permitida, mesmo que aumente a pena.",
+      "D": "A solução depende apenas da equidade do juiz.",
+      "E": "Se a cláusula e o critério legal cobrem a hipótese, pode haver interpretação analógica; a analogia própria pressupõe lacuna e não pode prejudicar o acusado."
+     },
+     "gabarito": "E",
+     "comentario": "E é correta: interpretação analógica opera dentro da abertura textual; analogia preenche lacuna e não pode ser usada contra o réu. A apaga distinção dogmática; C viola legalidade; D substitui lei por equidade; B cria sanção sem cominação. Base: CF, art. 5º, XXXIX; CP, art. 1º.",
+     "dispositivo": "CF, art. 5º, XXXIX; CP, art. 1º"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "A analogia contra o acusado é vedada; a favor pode ser admitida para integrar ___ em benefício da defesa.",
+     "opcoes": [
+      "lacuna",
+      "pena",
+      "tipo novo",
+      "costume"
+     ],
+     "respostas": [
+      "lacuna"
+     ],
+     "explicacao": "A legalidade impede integração prejudicial, sem excluir interpretação e integração benéficas nos limites jurídicos.",
+     "dispositivo": "CF, art. 5º, XXXIX; CP, art. 1º"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "O CP considera o tempo do crime no momento da ___ ou ___.",
+     "opcoes": [
+      "ação",
+      "omissão",
+      "denúncia",
+      "sentença"
+     ],
+     "respostas": [
+      "ação",
+      "omissão"
+     ],
+     "explicacao": "É a teoria da atividade prevista no art. 4º.",
+     "dispositivo": "CP, art. 4º"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise de uma alegação de analogia proibida.",
+     "itens": [
+      "Identificar a descrição legal e seus elementos.",
+      "Verificar se a hipótese cabe no sentido possível ou em cláusula legal de extensão.",
+      "Se houver lacuna, distinguir integração benéfica de ampliação prejudicial.",
+      "Fundamentar a solução conforme reserva legal e texto vigente."
+     ],
+     "explicacao": "A qualificação depende primeiro do texto e depois de saber se há interpretação ou integração.",
+     "dispositivo": "CF, art. 5º, XXXIX; CP, art. 1º"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Lei penal",
+       "Fonte formal direta do crime e da pena"
+      ],
+      [
+       "Norma penal",
+       "Comando jurídico interpretado do texto"
+      ],
+      [
+       "Interpretação analógica",
+       "Extensão prevista por critério legal"
+      ],
+      [
+       "Analogia",
+       "Integração de lacuna por semelhança"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

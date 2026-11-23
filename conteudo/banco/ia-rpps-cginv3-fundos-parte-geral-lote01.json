@@ -1,0 +1,600 @@
+{
+ "assunto": "Fundos de Investimentos — Resolução CVM 175/2022, Parte Geral",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 (Parte Geral conferida na página e consolidação oficiais da CVM; alterações 240/2026 e 247/2026 identificadas como relativas ao Anexo II; CMN 5.272/2025 e Ofício CVM 1/2026 conferidos em fontes oficiais)",
+ "origem": "2026-11-23_banco-rpps-cginv3-fundos-parte-geral-lote01_v2.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "cginv3-fundos-parte-geral-1",
+   "titulo": "Natureza do fundo, classes e patrimônio segregado",
+   "microconteudo": "O QUE A BANCA COBRA:\nO programa posiciona a Parte Geral da Resolução CVM 175 antes dos anexos porque ela contém a gramática comum dos fundos. A resolução não deve ser lida como mera lista de produtos: ela organiza um veículo coletivo, disciplina suas classes e subclasses, distribui deveres entre prestadores e protege cotistas por regras de informação e patrimônio. Em casos, identifique primeiro o nível jurídico envolvido — fundo, classe ou subclasse — antes de decidir quem responde, qual regulamento vale ou a que patrimônio a obrigação pode ser cobrada. A C-08 ainda não contém contagem pública de questões CGINV III; o peso elevado deriva do Pareto da matriz de certificação, e não de frequência inventada.\n\nENTENDA:\nA Resolução CVM 175, Parte Geral, art. 4º, define o fundo como comunhão de recursos sob condomínio de natureza especial, destinada a aplicações previstas para sua categoria. “Condomínio especial” não significa sociedade empresária. Cotistas não se tornam sócios de uma pessoa jurídica operacional, nem recebem a propriedade direta de cada título da carteira. Eles mantêm cotas, cuja classe determina direitos e obrigações conforme o regulamento, a lei e o anexo normativo aplicável. A figura combina investimento coletivo e administração profissional sob regulação pública.\n\nO art. 2º estabelece uma regra de leitura em camadas: Parte Geral para o regime transversal; anexos normativos para a categoria específica; regras setoriais adicionais para situações especiais. Em conflito, prevalece a disciplina específica do anexo. O fundo pode ter diferentes classes, desde que da mesma categoria, e o administrador deve manter patrimônio segregado para cada classe (art. 5º). A segregação faz com que cada patrimônio responda somente por obrigações daquela classe. Portanto, não basta ver a marca ou o nome do fundo no contrato: é necessário identificar a classe cuja obrigação foi assumida.\n\nExemplo: o RPPS fictício de Serra Azul aplica R$ 8 milhões na classe Renda Longa de um fundo que também possui classe Crédito Privado. A carteira de Renda Longa tem seus próprios ativos e obrigações; uma dívida da classe Crédito Privado não se transforma automaticamente em passivo da primeira. A regra não torna a classe imune a perdas de seus próprios ativos, nem elimina riscos de liquidez, crédito, mercado ou falha dos prestadores. Ela impede a confusão patrimonial regulatória entre classes.\n\nA classe é a unidade com direitos e obrigações próprios e patrimônio segregado. A subclasse é uma camada interna que pode diferenciar atributos limitados. Na classe comum, o art. 5º, §5º, permite distinguir subclasses por público-alvo, condições de aplicação/amortização/resgate e taxas indicadas no dispositivo. Não se pode atribuir a uma subclasse patrimônio separado: a vedação está no §4º. Classes restritas admitem maior liberdade para direitos econômicos e políticos, nos limites do §6º; essa exceção não deve ser generalizada a todo fundo aberto ao público.\n\nA reforma da CVM 175 substituiu a antiga linguagem de “fundo único com cotas” por arquitetura que explicita classe e, quando cabível, subclasse. O regulamento rege a constituição e funcionamento do fundo; o anexo descritivo integra o regulamento e disciplina cada classe; apêndice trata das subclasses (art. 3º, IV, V e XXXI, e parágrafo único). Não são três nomes para o mesmo documento. Se um edital ou caso fala em remuneração diferenciada, janela de resgate ou público-alvo, a pergunta pode estar no nível da subclasse; se fala em patrimônio responsável, política ou classe distinta, trata-se da classe.\n\nAs cotas representam frações do patrimônio da classe e têm valor apurado nos termos do regulamento e da regulação. A cota dá posição econômica definida no regulamento; não equivale a ação societária, título de dívida contra o administrador ou garantia de retorno. O cotista assume o risco do investimento compatível com as características da classe, sem prejuízo de deveres de diligência, lealdade, informação e controles exigíveis dos prestadores. O valor de cota pode cair; segregação patrimonial não é seguro contra desvalorização.\n\nO conceito importa à decisão do comitê de investimentos de RPPS. Antes de aprovar uma aplicação, o comitê precisa conferir a classe exata, categoria, política de investimento, público-alvo, regulamento e risco. A Resolução CMN 5.272/2025 disciplina a elegibilidade e limites de aplicação do RPPS; a CVM 175 disciplina constituição e operação do fundo. Estar registrado na CVM não significa que o produto seja automaticamente permitido ao RPPS. São controles cumulativos e cada um protege um interesse diferente: regularidade do veículo perante a CVM e compatibilidade do investimento com a norma previdenciária.\n\nDOUTRINA:\nA construção jurídica combina patrimônio coletivo, titularidade de cotas e gestão por prestadores regulados; não se deve importar sem ressalvas o modelo societário. A biblioteca local disponível não contém manual especializado em fundos de investimento com paginação verificável. Para não atribuir tese ou página não conferida, a exposição doutrinária é conceitual e autoral, ancorada nos arts. 4º e 5º da Resolução CVM 175; a conferência de referência bibliográfica especializada fica para Manus/M-07. O ponto de divergência interpretativa mais útil para prova é a extensão da autonomia patrimonial da classe: a regra regulamentar é segregação e responsabilidade intraclasse, mas isso não apaga obrigações próprias dos cotistas ou ilícitos de prestadores.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nNão há precedente vinculante relevante sobre os conceitos estruturais do art. 4º. A própria CVM mantém a Resolução 175 consolidada e indica alterações até as Resoluções 240/2026 e 247/2026; elas alteraram o Anexo II, enquanto este recorte estuda a Parte Geral. Para o RPPS, a verificação de elegibilidade e limites deve ainda observar a Resolução CMN 5.272/2025, sem transportar regras de anexos de FIDC para o regime comum.\n\nPEGADINHAS:\n1. Fundo é condomínio especial regulado, não sociedade por ações (art. 4º). 2. Segregação de classe limita a responsabilidade ao patrimônio da classe, mas não garante rentabilidade nem elimina risco. 3. Subclasse não tem patrimônio segregado; sua diferenciação é limitada (art. 5º, §§4º–6º). 4. Classes distintas devem pertencer à mesma categoria e não podem alterar o tratamento tributário em relação ao fundo ou às demais classes (art. 5º, §1º). 5. Registro CVM e elegibilidade para RPPS são exames diferentes: CVM 175 não substitui CMN 5.272/2025.\n\nESQUEMA:\nFundo → comunhão de recursos/condomínio especial → art. 4º.\nClasse → direitos/obrigações próprios + patrimônio segregado → art. 5º, caput e §2º.\nSubclasse → diferenciação restrita; sem patrimônio próprio → art. 5º, §§4º–6º.\nRegra geral + anexo específico → prevalece especialidade do anexo em conflito → art. 2º.\n\nLIGAÇÕES:\nFundos de Investimento Financeiro e prestadores (CGINV III 9.2); limites de alocação de RPPS na Resolução CMN 5.272/2025 (7.1).",
+   "flashcards": [
+    {
+     "frente": "Como a Resolução define fundo de investimento?",
+     "verso": "Comunhão de recursos em condomínio de natureza especial destinada à aplicação em ativos, bens e direitos.",
+     "dispositivo": "CVM 175, art. 4º"
+    },
+    {
+     "frente": "Que patrimônio responde pelas obrigações de uma classe?",
+     "verso": "Somente o patrimônio segregado daquela classe.",
+     "dispositivo": "CVM 175, art. 5º, §2º"
+    },
+    {
+     "frente": "Quais atributos podem distinguir subclasses comuns?",
+     "verso": "Público-alvo, condições de aplicação/amortização/resgate e taxas previstas no §5º.",
+     "dispositivo": "CVM 175, art. 5º, §5º"
+    },
+    {
+     "frente": "Pegadinha: a subclasse possui patrimônio separado?",
+     "verso": "Não; é vedada a afetação de parcela patrimonial a subclasse.",
+     "dispositivo": "CVM 175, art. 5º, §4º"
+    },
+    {
+     "frente": "Pegadinha: todas as classes do mesmo fundo podem ser de categorias diferentes?",
+     "verso": "Não. Devem pertencer à mesma categoria, observadas regras específicas.",
+     "dispositivo": "CVM 175, art. 5º, §1º"
+    },
+    {
+     "frente": "O registro CVM torna a aplicação automaticamente elegível ao RPPS?",
+     "verso": "Não. O RPPS também deve cumprir a Resolução CMN 5.272/2025.",
+     "dispositivo": "CVM 175, art. 2º; CMN 5.272/2025"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Em 7/2/2026, o RPPS de Serra Azul aplica R$ 8 milhões na classe A de um fundo; a classe B contrai dívida própria de R$ 3 milhões. A regra geral permite cobrar automaticamente o patrimônio da classe A por obrigação exclusiva da classe B.",
+     "gabarito": "E",
+     "comentario": "Incorreta. Cada patrimônio segregado responde somente por obrigações da respectiva classe; art. 5º, §2º. A classe A continua exposta às próprias perdas e obrigações.",
+     "dispositivo": "Resolução CVM 175, Parte Geral, art. 5º, §2º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Em 12/3/2026, a classe aberta Sol Nascente cria subclasse para cobrar taxa de gestão diferente, prevista no apêndice do regulamento. A distinção pode ser admitida sem criar patrimônio separado para a subclasse.",
+     "gabarito": "C",
+     "comentario": "Correta. A taxa de gestão pode distinguir subclasses nos limites do art. 5º, §5º; o §4º veda vincular patrimônio da classe a subclasse.",
+     "dispositivo": "Resolução CVM 175, Parte Geral, art. 5º, §§4º–5º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Em 1/4/2026, o gestor do RPPS municipal decide que o fundo registrado na CVM pode receber recursos previdenciários sem verificação adicional, pois o registro regulatório é autorização específica do CMN. A decisão está correta.",
+     "gabarito": "E",
+     "comentario": "Incorreta. O registro e regime do fundo na CVM não substituem os requisitos e limites previdenciários da Resolução CMN 5.272/2025.",
+     "dispositivo": "Resolução CVM 175, arts. 2º e 4º; Resolução CMN 5.272/2025"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Em 18/5/2026, uma classe restrita diferencia subclasses por direitos econômicos e políticos adicionais, e o administrador mantém o patrimônio segregado apenas no nível da classe. A estrutura pode ser válida nos termos da Parte Geral.",
+     "gabarito": "C",
+     "comentario": "Correta. Classes restritas podem ter diferenciação mais ampla conforme art. 5º, §6º; a segregação de patrimônio continua no nível da classe e é vedada por subclasse (§4º).",
+     "dispositivo": "Resolução CVM 175, Parte Geral, art. 5º, §§2º, 4º e 6º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 10/6/2026, o RPPS de Vale Verde avalia investir R$ 12 milhões na Classe Horizonte de um fundo com duas classes. O material afirma que cotistas são proprietários diretos de cada título e que a classe responde por todas as dívidas do fundo. Qual análise está correta?",
+     "alternativas": {
+      "A": "O fundo é condomínio especial; o cotista detém cotas, e cada patrimônio de classe responde apenas por obrigações da própria classe.",
+      "B": "O fundo é sociedade anônima, e cada cotista detém ações ordinárias sobre cada ativo.",
+      "C": "A classe só possui segregação se for fechada e limitada a investidor profissional.",
+      "D": "O administrador pode transferir qualquer passivo entre classes por deliberação simples.",
+      "E": "O registro CVM garante ao RPPS ausência de perdas e a solvência de todas as classes."
+     },
+     "gabarito": "A",
+     "comentario": "A é correta: arts. 4º e 5º caracterizam condomínio especial e segregação patrimonial. B confunde fundo com sociedade; C inventa requisito; D viola patrimônio segregado; E confunde registro com garantia de retorno.",
+     "dispositivo": "Resolução CVM 175, Parte Geral, arts. 4º e 5º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 14/7/2026, um administrador apresenta regulamento, anexo da classe e apêndice da subclasse como se fossem documentos intercambiáveis. Qual descrição está de acordo com a Parte Geral?",
+     "alternativas": {
+      "A": "O apêndice rege o fundo inteiro; o regulamento trata somente de prestadores.",
+      "B": "Regulamento rege o fundo; anexo descreve a classe; apêndice disciplina a subclasse, se houver.",
+      "C": "Anexo e apêndice só existem em fundos fechados.",
+      "D": "O regulamento é documento facultativo se houver classe única.",
+      "E": "A subclasse substitui o regulamento e tem personalidade jurídica própria."
+     },
+     "gabarito": "B",
+     "comentario": "B é correta conforme art. 3º, IV, V e XXXI, e parágrafo único. A inverte níveis; C cria condição inexistente; D ignora art. 7º; E atribui personalidade e substituição sem base legal.",
+     "dispositivo": "Resolução CVM 175, Parte Geral, art. 3º, IV, V e XXXI, e parágrafo único"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 9/9/2026, um fundo pretende criar classe de renda fixa e classe de ações, ambas sob o mesmo fundo, sem enquadramento em categoria comum. O pedido respeita a regra geral?",
+     "alternativas": {
+      "A": "Sim, desde que cada classe tenha nome próprio.",
+      "B": "Sim, pois o regulamento pode afastar qualquer limite de categoria.",
+      "C": "Não: todas as classes de um fundo devem pertencer à mesma categoria, sem prejuízo das regras específicas.",
+      "D": "Não, porque a resolução proíbe qualquer fundo com mais de uma classe.",
+      "E": "Sim, se a CVM aprovar previamente cada ativo da carteira."
+     },
+     "gabarito": "C",
+     "comentario": "C é correta: art. 5º, §1º, exige mesma categoria. A e B omitem requisito; D contradiz expressamente a possibilidade de classes; E transforma registro em aprovação de carteira.",
+     "dispositivo": "Resolução CVM 175, Parte Geral, art. 5º, §1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 16/10/2026, o comitê do RPPS de Campo Sereno compara classe aberta e fechada para uma reserva de liquidez de R$ 4,5 milhões. Qual afirmação diferencia corretamente esses tipos?",
+     "alternativas": {
+      "A": "Classe aberta é a que admite resgate conforme regulamento; classe fechada não o admite.",
+      "B": "Classe fechada garante resgate imediato após 30 dias.",
+      "C": "Classe aberta permite apenas distribuição privada.",
+      "D": "A distinção decorre da existência de cotistas institucionais.",
+      "E": "Classe fechada não emite cotas nem admite integralização."
+     },
+     "gabarito": "A",
+     "comentario": "A é correta conforme art. 5º, §7º. B inventa prazo e garantia; C trata de distribuição, não de resgate; D não define o regime; E é falsa porque classes fechadas emitem cotas e recebem subscrição/integralização segundo regras aplicáveis.",
+     "dispositivo": "Resolução CVM 175, Parte Geral, art. 5º, §7º"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O fundo é uma comunhão de recursos sob condomínio de natureza ___; cada ___ possui patrimônio segregado.",
+     "opcoes": [
+      "especial",
+      "sociedade",
+      "classe",
+      "subclasse"
+     ],
+     "respostas": [
+      "especial",
+      "classe"
+     ],
+     "explicacao": "A natureza e a segregação estão nos arts. 4º e 5º.",
+     "dispositivo": "CVM 175, arts. 4º e 5º"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "A classe aberta admite ___ de cotas; a subclasse não possui patrimônio ___.",
+     "opcoes": [
+      "resgate",
+      "amortização",
+      "segregado",
+      "próprio"
+     ],
+     "respostas": [
+      "resgate",
+      "próprio"
+     ],
+     "explicacao": "A definição de aberta/fechada está no art. 5º, §7º; subclasse não separa patrimônio (§4º).",
+     "dispositivo": "CVM 175, art. 5º, §§4º e 7º"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Na análise do investimento, organize a identificação do veículo até a regra aplicável.",
+     "itens": [
+      "Identificar o fundo e a categoria.",
+      "Identificar a classe e seu patrimônio/regulamento.",
+      "Verificar eventual subclasse e seus direitos específicos.",
+      "Aplicar a Parte Geral e as regras específicas do anexo."
+     ],
+     "explicacao": "A análise parte do veículo e desce à unidade de cotas e ao regime normativo aplicável.",
+     "dispositivo": "CVM 175, arts. 2º–5º"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Fundo",
+       "Comunhão em condomínio especial"
+      ],
+      [
+       "Classe",
+       "Patrimônio segregado"
+      ],
+      [
+       "Subclasse",
+       "Diferenciação sem patrimônio separado"
+      ],
+      [
+       "Anexo normativo",
+       "Regra específica da categoria"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cginv3-fundos-parte-geral-2",
+   "titulo": "Constituição, registro e manutenção do funcionamento",
+   "microconteudo": "O QUE A BANCA COBRA:\nA constituição e o registro podem ser cobrados por sequência de atos, autoridade competente e efeito jurídico. O candidato deve distinguir deliberação conjunta dos prestadores essenciais, aprovação do regulamento, envio eletrônico pelo administrador e concessão automática do registro de funcionamento. A questão mais traiçoeira trata o registro como autorização substantiva da carteira ou aprovação de mérito pela CVM. Outro núcleo é a classe: um fundo pode obter registro primeiro e requerer o registro de classe depois, mas a classe não pode iniciar funcionamento sem seu próprio registro.\n\nENTENDA:\nA constituição nasce da deliberação conjunta do administrador fiduciário e do gestor, prestadores essenciais, que aprovam simultaneamente o regulamento (art. 7º). Não basta um cotista, distribuidor ou conselho municipal declarar criado o fundo. A CVM não escolhe os ativos nem substitui o dever de diligência dos prestadores. O funcionamento depende de prévio registro na CVM (art. 8º), automaticamente concedido a partir do envio eletrônico dos documentos e informações exigidos pelo administrador, conforme as especificações gerais e da categoria. “Automático” descreve o mecanismo administrativo, não elimina a obrigação de enviar informação correta nem equivale a certificação de qualidade ou ausência de risco.\n\nSe houver múltiplas classes, cada uma deve obter seu próprio registro de funcionamento, simultaneamente ao do fundo ou posteriormente (art. 8º, §2º). Portanto, fundo registrado não autoriza operação de classe ainda não registrada. O registro da classe tampouco substitui os registros e controles que outra norma exige. Em investimento previdenciário, o comitê deve conferir o registro CVM do fundo e da classe, categoria, política, prestadores e permissibilidade nos limites da Resolução CMN 5.272/2025.\n\nA regra de classe pequena é frequentemente confundida com capital mínimo inicial. Após 90 dias do início das atividades, se a classe mantiver patrimônio líquido diário abaixo de R$ 1 milhão por 90 dias consecutivos, deve ser imediatamente liquidada ou incorporada a outra classe (art. 8º, §3º). A contagem não começa simplesmente na data da constituição, mas após o início das atividades; são necessários os dois períodos descritos e a permanência diária abaixo do limite. A superintendência pode dispensar a liquidação/incorporação mediante pedido circunstanciado de prestador essencial, aprovação da maioria simples dos cotistas presentes, situação excepcional que impeça liquidação de todos os ativos remanescentes e encerramento da oferta pública de cotas (art. 8º, §5º). A exceção não é automática nem pode ser concedida pelo comitê de investimentos do RPPS.\n\nCaso: a classe Previdenciária Horizonte iniciou atividades em 3 de fevereiro de 2026. Depois de transcorridos 90 dias, em 4 de maio, passou a manter R$ 920 mil diariamente por 90 dias consecutivos. A obrigação de liquidar/incorporar aparece após a sequência legal, salvo se a CVM deferir a dispensa nas condições do §5º. Se a classe teve um único dia com R$ 1,02 milhão antes de completar a sequência, o requisito de patrimônio “inferior” durante 90 dias consecutivos não se completa; a leitura depende dos dados diários e das regras de contabilidade aplicáveis.\n\nDepois do registro, o administrador mantém documentos e informações perante a CVM e assegura comunicação aos cotistas. O art. 10 exige documentos e informações para registro; os capítulos sobre regulamento, divulgação, assembleia e prestação de serviços completam o regime. As comunicações seguem a forma da resolução, do regulamento e dos sistemas autorizados; silêncio ou atraso não altera o fato material nem sana informação falsa. Em questões, separar (a) ato de constituição, (b) requisito para funcionamento, (c) registro individual da classe e (d) dever contínuo de informar.\n\nA resolução prevê comunicação sobre eventos relacionados à constituição, classes e documentos por sistemas eletrônicos, e atribui ao administrador deveres de atualização e publicidade. A pessoa que envia é o administrador; prestadores essenciais aprovam conjuntamente o fundo e regulamento. A prova pode deslocar o dever para o gestor, custodiante ou distribuidor. O gestor executa a gestão da carteira; não substitui o administrador no protocolo registral. O distribuidor comercializa cotas segundo contrato e regras aplicáveis, sem ser autoridade registradora.\n\nA comunicação regulatória da CVM em 17 de novembro de 2026 esclareceu a aplicação do art. 69, parágrafo único, para fundos e classes em atividade há menos de 90 dias quanto a demonstrações contábeis, apresentação comparativa e auditoria independente. É orientação técnica contemporânea que afeta a aplicação prática da Parte Geral, mas não muda os requisitos básicos de constituição e registro do art. 8º. No caso de uma classe recém-iniciada, não se deve extrapolar a dispensa específica de demonstrações para outros deveres de comunicação ou para todas as obrigações de auditoria.\n\nDOUTRINA:\nA regulação separa criação privada do veículo e autorização pública para início do funcionamento: a primeira deriva do ato conjunto dos prestadores; a segunda decorre do registro regulatório condicionado à entrega dos dados. Essa arquitetura reduz assimetria informacional e atribui deveres verificáveis ao administrador, sem transformar a CVM em garantidora do investimento. Não localizei na biblioteca autorizada obra especializada com páginas confirmáveis sobre registro automatizado na CVM 175; não atribuo essa leitura a autor ou edição sem conferência. A referência verificável é o Manual de Certificação Profissional RPPS, v. 2.0 (2026), que serve de matriz de exame, combinado com os arts. 7º–10 da norma vigente; a citação doutrinária especializada fica sinalizada à Manus.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nO registro é ato regulatório previsto nos arts. 7º–10, não decisão de mérito sobre a política de investimento. A página oficial da CVM publica texto consolidado da Resolução 175 com alterações até 247/2026. A alteração 247/2026 trata de deveres de comunicação ao SCR no Anexo II; não muda a sequência de constituição/registro da Parte Geral. O Ofício Circular Conjunto CVM/SNC/SSE/SIN 1/2026, publicado em 17/11/2026, esclarece art. 69, parágrafo único, para demonstrações de períodos inferiores a 90 dias.\n\nPEGADINHAS:\n1. Constituição não é registro: o ato conjunto dos prestadores essenciais cria a estrutura; o registro é prévio ao funcionamento. 2. Registro automático não equivale a aprovação de mérito dos ativos nem garantia de rentabilidade. 3. Fundo com mais de uma classe precisa de registro individual para cada classe. 4. O limite de R$ 1 milhão não é requisito inicial absoluto: conta-se após 90 dias de atividade e exige 90 dias consecutivos abaixo do limite. 5. A dispensa de liquidação exige condições cumulativas e decisão da superintendência competente.\n\nESQUEMA:\nPrestadores essenciais deliberam conjuntamente e aprovam regulamento → art. 7º.\nAdministrador envia documentos por sistema CVM → registro automático → funcionamento prévio → arts. 8º–10.\nFundo multiclasses → cada classe tem registro próprio → art. 8º, §2º.\nApós 90 dias de início + PL diário < R$ 1 mi por 90 dias consecutivos → liquidar/incorporar; dispensa excepcional sob requisitos cumulativos → art. 8º, §§3º–5º.\n\nLIGAÇÕES:\nPrestadores essenciais e obrigações do administrador/gestor (CGINV III 9.2); divulgação contábil e auditoria de fundos (CVM 175, arts. 68–69).",
+   "flashcards": [
+    {
+     "frente": "Quem constitui o fundo e aprova o regulamento?",
+     "verso": "Administrador e gestor, em deliberação conjunta e no mesmo ato.",
+     "dispositivo": "CVM 175, art. 7º"
+    },
+    {
+     "frente": "O registro automático da CVM é garantia de retorno?",
+     "verso": "Não. É consequência do envio documental e requisito regulatório para funcionamento.",
+     "dispositivo": "CVM 175, art. 8º"
+    },
+    {
+     "frente": "Fundo com várias classes precisa registrar cada uma?",
+     "verso": "Sim, cada classe obtém registro próprio antes do funcionamento.",
+     "dispositivo": "CVM 175, art. 8º, §2º"
+    },
+    {
+     "frente": "Qual evento aciona a regra de PL inferior a R$ 1 milhão?",
+     "verso": "Após 90 dias do início, PL diário abaixo do limite por 90 dias consecutivos.",
+     "dispositivo": "CVM 175, art. 8º, §3º"
+    },
+    {
+     "frente": "Pegadinha: o comitê do RPPS pode dispensar a liquidação?",
+     "verso": "Não; a dispensa é analisada pela superintendência competente, após requisitos cumulativos.",
+     "dispositivo": "CVM 175, art. 8º, §5º"
+    },
+    {
+     "frente": "O Ofício CVM 1/2026 afasta todas as obrigações dos fundos novos?",
+     "verso": "Não. Esclarece demonstrações, comparativos e auditoria para períodos inferiores a 90 dias.",
+     "dispositivo": "Ofício CVM/SNC/SSE/SIN 1/2026"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Em 4/2/2026, a administradora de carteira Aurora e a gestora Boreal deliberam juntas pela criação do Fundo Horizonte, destinado a receber R$ 6 milhões do RPPS de Serra Alta, e aprovam o regulamento no mesmo ato. Um distribuidor que captará investidores não precisa aprovar essa deliberação constitutiva.",
+     "gabarito": "C",
+     "comentario": "Correta. A constituição compete aos prestadores essenciais em deliberação conjunta, com aprovação simultânea do regulamento; distribuidor não é prestador essencial para esse ato.",
+     "dispositivo": "Resolução CVM 175, Parte Geral, art. 7º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Em 9/3/2026, o administrador do Fundo Brisa envia os documentos por sistema eletrônico; a classe tem R$ 2,3 milhões em ativos. O registro de funcionamento é automaticamente concedido. Isso significa que a CVM avaliou e garantiu a qualidade econômica dos ativos da carteira.",
+     "gabarito": "E",
+     "comentario": "Incorreta. O registro automático é efeito do envio documental exigido; não representa garantia de mérito, retorno ou solvência.",
+     "dispositivo": "Resolução CVM 175, Parte Geral, arts. 8º–10"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Em 6/5/2026, o RPPS de Vila Nova mantém R$ 980 mil diariamente na classe Ativo Curto, já após 90 dias do início das atividades, por 90 dias consecutivos. Em princípio, o administrador deve liquidá-la ou incorporá-la a outra classe, salvo dispensa válida.",
+     "gabarito": "C",
+     "comentario": "Correta. Requisitos do art. 8º, §3º; eventual dispensa depende de pedido, aprovação dos cotistas presentes, excepcionalidade, não oferta pública e decisão da CVM (§5º).",
+     "dispositivo": "Resolução CVM 175, Parte Geral, art. 8º, §§3º–5º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Em 17/11/2026, a CVM publicou orientação sobre demonstrações de classe com menos de 90 dias. O ofício extinguiu para essas classes todos os deveres de registro, informação e auditoria.",
+     "gabarito": "E",
+     "comentario": "Incorreta. O Ofício Circular 1/2026 esclarece o alcance do art. 69, parágrafo único, quanto a demonstrações de período inferior a 90 dias, comparativos e auditoria; não extingue deveres gerais.",
+     "dispositivo": "Resolução CVM 175, art. 69, parágrafo único; Ofício Circular Conjunto CVM/SNC/SSE/SIN 1/2026"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 11/1/2026, Carla, gestora do RPPS de Pinhal Novo, recebe minuta de fundo preparada apenas pelo distribuidor. Ela quer iniciar aplicações antes do registro, pois o comitê aprovou a política. O que deve ser observado?",
+     "alternativas": {
+      "A": "A constituição depende da deliberação conjunta dos prestadores essenciais e da aprovação do regulamento; o funcionamento exige registro prévio na CVM.",
+      "B": "A aprovação pelo comitê do RPPS substitui a deliberação dos prestadores.",
+      "C": "A contratação do distribuidor constitui o fundo automaticamente.",
+      "D": "O fundo pode operar antes do registro se não tiver cotistas externos.",
+      "E": "A CVM deve aprovar previamente cada ativo antes da constituição."
+     },
+     "gabarito": "A",
+     "comentario": "A é correta: arts. 7º e 8º. B confunde governança previdenciária com constituição; C desloca competência; D contraria o requisito prévio; E confunde registro de funcionamento com aprovação de cada ativo.",
+     "dispositivo": "Resolução CVM 175, Parte Geral, arts. 7º–8º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "A classe municipal “Reserva Azul”, do RPPS de Lago Claro, iniciou atividades em 2/1/2026. A partir de 2/4/2026, seu patrimônio ficou em R$ 990 mil por 90 dias consecutivos. Sem pedido de dispensa, qual consequência decorre do art. 8º, §3º?",
+     "alternativas": {
+      "A": "A CVM deve elevar o PL ao mínimo com recursos públicos.",
+      "B": "O administrador deve liquidar a classe ou incorporá-la a outra.",
+      "C": "O comitê do RPPS pode dispensar diretamente a exigência.",
+      "D": "A classe passa automaticamente a fechada e pode seguir operando.",
+      "E": "O prazo é de 90 dias desde a constituição, ainda que não tenha iniciado atividades."
+     },
+     "gabarito": "B",
+     "comentario": "B é correta, presentes mais de 90 dias desde o início e 90 dias consecutivos abaixo de R$ 1 milhão. A, C e D inventam medidas/competências; E troca início das atividades por constituição.",
+     "dispositivo": "Resolução CVM 175, Parte Geral, art. 8º, §§3º–5º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 20/8/2026, um fundo registrado tem três classes, mas somente duas constam no sistema da CVM. A terceira pretende iniciar operações em 25/8. Qual afirmação é correta?",
+     "alternativas": {
+      "A": "O registro do fundo cobre automaticamente qualquer classe futura.",
+      "B": "A classe pode operar se todos os cotistas assinarem termo de ciência.",
+      "C": "A classe deve obter seu próprio registro de funcionamento antes de operar.",
+      "D": "O registro individual é exigido apenas para classe fechada.",
+      "E": "A CVM registra classes apenas depois do primeiro resgate."
+     },
+     "gabarito": "C",
+     "comentario": "C é correta: cada classe deve obter registro, simultâneo ou posterior ao registro do fundo, antes de funcionar (art. 8º, caput e §2º). A, B, D e E criam exceções não previstas.",
+     "dispositivo": "Resolução CVM 175, Parte Geral, art. 8º, caput e §2º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 18/11/2026, o auditor de um fundo novo invoca o Ofício Circular 1/2026 para deixar de cumprir qualquer dever até completar 90 dias. Qual resposta é mais precisa?",
+     "alternativas": {
+      "A": "O ofício dispensa registro e todas as comunicações.",
+      "B": "O ofício trata especificamente de demonstrações contábeis abaixo de 90 dias, comparabilidade no exercício subsequente e escopo de auditoria; não afasta o restante da Parte Geral.",
+      "C": "O ofício revogou os arts. 7º e 8º.",
+      "D": "O documento criou imunidade de responsabilidade para classes recentes.",
+      "E": "O documento só se aplica a fundos de RPPS."
+     },
+     "gabarito": "B",
+     "comentario": "B é correta, conforme o objeto expresso do Ofício Circular CVM/SNC/SSE/SIN 1/2026 e art. 69, parágrafo único. As demais alternativas extrapolam o alcance da orientação.",
+     "dispositivo": "CVM, Ofício Circular Conjunto CVM/SNC/SSE/SIN 1/2026; Resolução CVM 175, art. 69, parágrafo único"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "A constituição exige deliberação conjunta do ___ e do ___, com aprovação simultânea do regulamento.",
+     "opcoes": [
+      "administrador",
+      "gestor",
+      "distribuidor",
+      "custodiante"
+     ],
+     "respostas": [
+      "administrador",
+      "gestor"
+     ],
+     "explicacao": "Ambos são prestadores essenciais para a constituição prevista no art. 7º.",
+     "dispositivo": "Resolução CVM 175, art. 7º"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Cada classe obtém registro próprio; o limite de R$ 1 milhão considera PL diário por ___ dias consecutivos, após 90 dias de início.",
+     "opcoes": [
+      "30",
+      "90",
+      "180",
+      "365"
+     ],
+     "respostas": [
+      "90"
+     ],
+     "explicacao": "A regra combina os dois marcos temporais do art. 8º, §3º.",
+     "dispositivo": "Resolução CVM 175, art. 8º, §§2º–3º"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a sequência regular de criação e funcionamento.",
+     "itens": [
+      "Deliberação conjunta dos prestadores essenciais.",
+      "Aprovação do regulamento no mesmo ato.",
+      "Envio de documentos pelo administrador no sistema eletrônico.",
+      "Registro de funcionamento antes do início das operações."
+     ],
+     "explicacao": "Arts. 7º–10 definem o ato constitutivo, os documentos e o registro prévio.",
+     "dispositivo": "Resolução CVM 175, arts. 7º–10"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Administrador",
+       "Envia documentação para registro"
+      ],
+      [
+       "Prestador essencial",
+       "Administrador ou gestor"
+      ],
+      [
+       "Registro CVM",
+       "Condição prévia de funcionamento"
+      ],
+      [
+       "Regra de PL mínimo",
+       "R$ 1 mi por 90 dias consecutivos após 90 dias de atividade"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cginv3-fundos-parte-geral-3",
+   "titulo": "Categorias, liquidez e camadas regulatórias",
+   "microconteudo": "O QUE A BANCA COBRA:\nO tópico 9.1 introduz a arquitetura da Resolução CVM 175 e prepara os anexos. Em exame avançado, a cobrança tende a misturar definições com pequenas decisões de governança: qual regra vale quando Parte Geral e anexo parecem divergir, quem comunica a CVM, como fundo/classe/subclasse aparecem no regulamento e que direitos dependem de classe aberta ou fechada. Não há prova CGINV III classificada na C-08 para contar ocorrências; o peso Pareto reflete a relevância de Fundos no Manual CP RPPS, não uma estatística de questões já observadas. Evite misturar a estrutura da CVM com os limites que o RPPS deve observar na Resolução CMN 5.272/2025.\n\nENTENDA:\nA Parte Geral é o piso comum de constituição, funcionamento, informação e serviços. Ela se completa com anexos normativos que tipificam cada categoria. O art. 2º resolve conflitos: aplica-se o regime específico do anexo quando incompatível com o texto geral, além das normas externas aplicáveis. Isso não permite escolher a regra mais conveniente; primeiro deve-se caracterizar corretamente o produto e sua categoria. Por exemplo, não se importa um prazo especial de fundo imobiliário para um FIF sem base normativa.\n\nO administrador e o gestor são prestadores essenciais (art. 3º, XXX), cada qual com esfera funcional própria. O administrador fiduciário administra o fundo, organiza a estrutura, representa a atividade de administração e cumpre deveres de registro e informação; o gestor toma decisões de carteira conforme a política, instruções e limites regulatórios. Outros prestadores, como custodiante, distribuidor e escriturador, têm funções delimitadas e contratos. O comitê de investimentos do RPPS é órgão interno do regime previdenciário, não prestador do fundo nem parte automática do contrato de gestão. Ele analisa e delibera no espaço conferido pela norma previdenciária local e pela CMN, mas não substitui administrador ou gestor.\n\nA categoria decorre da política de investimentos e é definida nos anexos; classes de um mesmo fundo devem permanecer na mesma categoria. A classe concentra patrimônio segregado, direitos e obrigações. O regulamento comum estabelece a arquitetura e as normas gerais. O anexo descritivo completa a regra para cada classe; o apêndice descreve eventual subclasse. Assim, a assembleia ou prestador não pode usar apêndice para criar uma nova categoria, transferir risco patrimonial entre classes ou afastar regra de anexo obrigatório.\n\nA distinção entre classe aberta e fechada depende do resgate previsto no regulamento, não de a oferta ser pública ou privada nem de o cotista ser pessoa física ou entidade pública. Classe aberta admite resgate; fechada não admite resgate de cotas (art. 5º, §7º). Isso não significa que a classe fechada nunca devolva recursos: pode haver amortização se prevista e realizada segundo a regulação, ou liquidação/encerramento conforme o rito. Resgate é operação definida pelo regulamento; amortização é pagamento uniforme de parte do valor das cotas sem reduzir o número de cotas emitidas (art. 3º, III). A distinção importa à liquidez de um RPPS, sobretudo diante de benefícios previdenciários e compromissos de curto prazo.\n\nEm 29/6/2026, o comitê fictício de Rio Claro examina resgate de uma classe fechada que precisa pagar R$ 400 mil em benefícios. O regulamento não prevê resgate, mas contempla amortização em condições delimitadas. O comitê não pode chamar a amortização de resgate para obter liquidez imediata; deve verificar se a hipótese e o procedimento de amortização foram satisfeitos. Também não pode presumir que uma cota possa ser negociada livremente sem observar regras de distribuição/negociação e o público-alvo.\n\nComunicações são parte da proteção informacional. O administrador deve enviar os documentos de registro e manter os dados exigidos, informar fatos e divulgar documentos conforme a Parte Geral. O art. 3º define distribuidor como intermediário contratado pelo gestor em nome do fundo para distribuir cotas; não converte o distribuidor em administrador. A existência de classes pode exigir registro e documentação separados. Em matéria de comunicação, indique o sujeito responsável, o destinatário, o evento, o prazo e o canal normativo. A regra geral não deve ser inventada quando o caso depende de anexo específico ou suplemento.\n\nA CVM publicou o Ofício Circular Conjunto 1/2026 em 17/11/2026, esclarecendo demonstrações contábeis para fundos e classes com menos de 90 dias em atividade. Seu alcance recai sobre elaboração/divulgação de demonstrações de período curto, comparabilidade no exercício seguinte e extensão da auditoria. A orientação ilustra que a Parte Geral se aplica dinamicamente por ofícios e anexos atualizados, mas um ofício técnico não revoga o regulamento nem substitui a resolução. Na data consultada, a página oficial listava alterações da Resolução 175 pelas Resoluções 181/23, 184/23, 187/23, 200/24, 206/24, 209/24, 214/24, 240/26 e 247/26; as duas últimas alteraram o Anexo II. A seção estudada é Parte Geral, mas o aluno deve sempre conferir o anexo pertinente.\n\nPara o RPPS, CVM e CMN operam em camadas. A CVM regula o fundo, prestadores, informação e condições da classe; a CMN estabelece os ativos elegíveis, concentração, prudência e limites para aplicação de recursos previdenciários. O certificado do fundo ou seu registro CVM não responde se o RPPS pode investir aquele percentual ou se a classe atende às regras de seu segmento. O processo de análise deve mapear categoria, classe, prazo de saída, risco, prestadores, remunerações, política, registro e limites da CMN antes da ordem de aplicação.\n\nDOUTRINA:\nO arcabouço combina autonomia do patrimônio de classe e unidade funcional do fundo: a classe segrega risco obrigacional, mas a administração, os documentos e a categoria pertencem a uma estrutura regulada comum. A interpretação correta não é transpor analogicamente todo o direito societário, nem presumir que a copropriedade condominial civil ordinária descreva os deveres do cotista. A biblioteca local autorizada não tem obra especializada em fundos com edição e páginas confirmáveis para este tópico; não invento autor, página nem citação. A síntese é autoral e deve receber conferência bibliográfica da Manus/M-07. Para a prova, a posição normativa vinculante está na Parte Geral e no anexo específico, não em analogias soltas.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nSem precedente judicial relevante para a classificação inicial de classe/subclasse. Fontes regulatórias a priorizar: Resolução CVM 175, Parte Geral, arts. 2º–8º e 14; página oficial da CVM com texto consolidado, atualizada até as alterações 240/26 e 247/26; Ofício Circular Conjunto CVM/SNC/SSE/SIN 1/2026, publicado em 17/11/2026; Resolução CMN 5.272/2025 para limites previdenciários.\n\nPEGADINHAS:\n1. A Parte Geral vale a todas as categorias, mas o anexo específico prevalece em conflito (art. 2º). 2. A classe fechada não admite resgate, mas isso não elimina amortização ou liquidação nas hipóteses normativas. 3. Amortização reduz o valor pago por cota sem reduzir a quantidade emitida; resgate cancela cotas conforme a regra aplicável (art. 3º, III e XVIII–XX). 4. Administrador e gestor são prestadores essenciais; custodiante, distribuidor e comitê do RPPS têm outros papéis. 5. Registro CVM não substitui elegibilidade e limites CMN.\n\nESQUEMA:\nParte Geral → regra comum; anexo → disciplina específica da categoria; em conflito, especial prevalece (art. 2º).\nAdministrador + gestor → prestadores essenciais; responsabilidades próprias (art. 3º, I, XXVII e XXX).\nClasse aberta → admite resgate; fechada → não admite resgate (art. 5º, §7º).\nRPPS: regularidade do fundo na CVM + elegibilidade/limites do investimento na CMN 5.272/2025.\n\nLIGAÇÕES:\nObrigações e vedações dos prestadores no FIF (CGINV III 9.2); política e limites de investimento dos RPPS (CGINV III 7.1).",
+   "flashcards": [
+    {
+     "frente": "Quem são prestadores essenciais?",
+     "verso": "Administrador e gestor; cada qual atua em sua esfera regulatória.",
+     "dispositivo": "CVM 175, art. 3º, XXX"
+    },
+    {
+     "frente": "Quando a regra específica do anexo prevalece?",
+     "verso": "Em conflito com a regra geral para a categoria.",
+     "dispositivo": "CVM 175, art. 2º, parágrafo único"
+    },
+    {
+     "frente": "O que define classe aberta ou fechada?",
+     "verso": "Se o regulamento admite ou não resgate de cotas.",
+     "dispositivo": "CVM 175, art. 5º, §7º"
+    },
+    {
+     "frente": "Pegadinha: classe fechada não pode realizar amortização?",
+     "verso": "Pode, se prevista e conforme o regime; amortização não é resgate.",
+     "dispositivo": "CVM 175, art. 3º, III; art. 5º, §7º"
+    },
+    {
+     "frente": "Quem decide a carteira do fundo?",
+     "verso": "Gestor autorizado, conforme política e limites; não o comitê do RPPS.",
+     "dispositivo": "CVM 175, art. 3º, XXVII"
+    },
+    {
+     "frente": "CVM 175 substitui limites prudenciais do RPPS?",
+     "verso": "Não. Aplicam-se também os requisitos da Resolução CMN 5.272/2025.",
+     "dispositivo": "CMN 5.272/2025"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Em 25/3/2026, o comitê do RPPS de Pedra Branca ordena ao custodiante que compre R$ 2 milhões em ativos para o fundo. Como o comitê é órgão público, ele se torna prestador essencial da classe.",
+     "gabarito": "E",
+     "comentario": "Incorreta. Prestadores essenciais são administrador e gestor; comitê do RPPS é órgão do regime e não assume função contratual do fundo.",
+     "dispositivo": "Resolução CVM 175, Parte Geral, art. 3º, I, XXVII e XXX"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Em 17/11/2026, a classe Crédito Novo, que recebeu R$ 1,4 milhão de investidores e iniciou atividades há 45 dias, utiliza o Ofício Circular 1/2026 apenas sobre demonstrações contábeis de período inferior a 90 dias. A orientação não dispensa o registro de funcionamento prévio.",
+     "gabarito": "C",
+     "comentario": "Correta. O Ofício Circular 1/2026 trata de demonstrações contábeis, comparativos e auditoria de períodos curtos; não dispensa o registro exigido no art. 8º.",
+     "dispositivo": "Resolução CVM 175, arts. 8º e 69; Ofício CVM/SNC/SSE/SIN 1/2026"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Em 18/4/2026, o fundo Serra Azul, com carteira de R$ 3 milhões, tem Parte Geral e Anexo Normativo aplicável com regras incompatíveis para a categoria. Deve prevalecer a regra específica do anexo, nos termos do art. 2º.",
+     "gabarito": "C",
+     "comentario": "Correta. A Parte Geral é complementada pelos anexos; em conflito, prevalece regra específica da categoria.",
+     "dispositivo": "Resolução CVM 175, art. 2º, parágrafo único"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Em 29/6/2026, o RPPS de Rio Claro precisa de R$ 400 mil em liquidez, e a classe fechada não admite resgate, embora seu regulamento preveja amortização em hipótese específica. O comitê pode tratar amortização como resgate irrestrito.",
+     "gabarito": "E",
+     "comentario": "Incorreta. Amortização e resgate têm conceitos distintos; a classe fechada não admite resgate, e a amortização depende do regulamento e das condições legais.",
+     "dispositivo": "Resolução CVM 175, arts. 3º, III, XVIII–XX e 5º, §7º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 5/5/2026, a administradora de carteira Rio Sul distribui R$ 5 milhões em cotas da classe aberta Mosaico para o RPPS de Nova União. O contrato a denomina “gestora” e lhe atribui decisão discricionária da carteira. Qual alternativa está correta?",
+     "alternativas": {
+      "A": "O comitê do RPPS assume a gestão da carteira ao aprovar a aplicação.",
+      "B": "Distribuidor e gestor são sempre a mesma pessoa jurídica por definição.",
+      "C": "O administrador não é prestador essencial quando há distribuição terceirizada.",
+      "D": "O distribuidor é o intermediário de distribuição; gestão da carteira cabe ao gestor autorizado, e o administrador mantém suas atribuições próprias.",
+      "E": "O custodiante define a política de investimento do fundo."
+     },
+     "gabarito": "D",
+     "comentario": "D é correta: arts. 3º, I, XXI, XXVII e XXX. A confunde a governança do RPPS com gestão da carteira; B diz indevidamente que distribuidor e gestor sempre se confundem; C nega o papel do administrador como prestador essencial; E atribui ao custodiante função de gestão.",
+     "dispositivo": "Resolução CVM 175, Parte Geral, art. 3º, I, XXI, XXVII e XXX"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 30/6/2026, um fundo tem classe aberta e classe fechada. A equipe do RPPS quer classificar os regimes para projetar liquidez de R$ 2,4 milhões no ano seguinte. Qual critério usa a resolução?",
+     "alternativas": {
+      "A": "Oferta pública define classe aberta; distribuição privada, classe fechada.",
+      "B": "A classe fechada permite resgate, mas apenas na assembleia anual.",
+      "C": "A classe com patrimônio maior é automaticamente aberta.",
+      "D": "Classe aberta permite resgate conforme regulamento; classe fechada não admite resgate de cotas.",
+      "E": "Público-alvo institucional é o único critério regulatório."
+     },
+     "gabarito": "D",
+     "comentario": "D é correta pelo art. 5º, §7º: a classe fechada não admite resgate. A confunde regime com forma de distribuição; B inventa resgate em assembleia; C cria critério de patrimônio; E usa público-alvo como definição.",
+     "dispositivo": "Resolução CVM 175, Parte Geral, art. 5º, §7º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 7/7/2026, o Fundo Aurora, com patrimônio de R$ 12 milhões, tem regulamento comum e anexo de categoria divergentes sobre uma obrigação de comunicação específica. Qual interpretação deve ser aplicada?",
+     "alternativas": {
+      "A": "Sempre prevalece o regulamento por ser aprovado pelos prestadores.",
+      "B": "Prevalece a Parte Geral, porque é aplicável a todas as categorias.",
+      "C": "A regra mais favorável ao administrador prevalece.",
+      "D": "A assembleia de cotistas pode escolher qualquer texto.",
+      "E": "Prevalece a regra específica do anexo normativo em caso de conflito com a regra geral."
+     },
+     "gabarito": "E",
+     "comentario": "E é correta pelo art. 2º, parágrafo único. A, B, C e D não respeitam a regra expressa de especialidade do anexo.",
+     "dispositivo": "Resolução CVM 175, art. 2º, parágrafo único"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 12/8/2026, o RPPS de Campo Alto verifica que a classe está registrada na CVM e que sua política admite determinado ativo. O gestor afirma que isso basta para aplicar 15% da carteira previdenciária. Qual resposta é correta?",
+     "alternativas": {
+      "A": "Sim, registro na CVM substitui qualquer limite do RPPS.",
+      "B": "Sim, desde que o comitê aprove por unanimidade.",
+      "C": "Não: é preciso conferir separadamente elegibilidade e limites da Resolução CMN 5.272/2025.",
+      "D": "Não, porque RPPS nunca pode aplicar em fundos.",
+      "E": "Apenas o custodiante define o limite previdenciário."
+     },
+     "gabarito": "C",
+     "comentario": "C é correta: a regulação do veículo pela CVM e as regras prudenciais de investimento do RPPS são controles cumulativos. A e B afastam indevidamente o limite regulatório; D proíbe aplicação permitida em condições; E desloca competência ao custodiante.",
+     "dispositivo": "Resolução CVM 175, Parte Geral, arts. 2º e 4º; Resolução CMN 5.272/2025"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Em conflito entre a regra geral e o anexo da categoria, prevalece a regra ___.",
+     "opcoes": [
+      "geral",
+      "específica",
+      "mais conveniente",
+      "do distribuidor"
+     ],
+     "respostas": [
+      "específica"
+     ],
+     "explicacao": "A resolução estabelece prevalência da regra específica do anexo.",
+     "dispositivo": "Resolução CVM 175, art. 2º, parágrafo único"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Classe aberta admite ___; classe fechada não admite ___ de cotas.",
+     "opcoes": [
+      "resgate",
+      "amortização",
+      "resgate",
+      "distribuição"
+     ],
+     "respostas": [
+      "resgate",
+      "resgate"
+     ],
+     "explicacao": "A definição do regime está no art. 5º, §7º.",
+     "dispositivo": "Resolução CVM 175, art. 5º, §7º"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Antes de uma aplicação de RPPS em fundo, organize os controles essenciais.",
+     "itens": [
+      "Identificar categoria, classe e regulamento da aplicação.",
+      "Verificar registro CVM e prestadores do fundo.",
+      "Analisar política, liquidez, riscos e remunerações da classe.",
+      "Conferir elegibilidade e limites da Resolução CMN 5.272/2025."
+     ],
+     "explicacao": "O exame combina características do produto e limites previdenciários, sem confundir as competências.",
+     "dispositivo": "Resolução CVM 175, arts. 2º–8º; Resolução CMN 5.272/2025"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Administrador",
+       "Administração fiduciária e deveres regulatórios"
+      ],
+      [
+       "Gestor",
+       "Decisão e gestão da carteira"
+      ],
+      [
+       "Distribuidor",
+       "Distribuição/intermediação de cotas"
+      ],
+      [
+       "Comitê do RPPS",
+       "Governança interna do regime, não prestador do fundo"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

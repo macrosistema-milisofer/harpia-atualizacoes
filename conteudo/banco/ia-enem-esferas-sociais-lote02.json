@@ -1,0 +1,638 @@
+{
+ "assunto": "ENEM 2026 — Linguagens: leitura e produção de textos nas esferas sociais",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 (Matriz de Referência ENEM 2026, Inep, publicada em 17/07/2026; consulta registrada em 2026-11-23)",
+ "origem": "2026-11-23_banco-enem-esferas-sociais-lote02_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "enem-linguagens-esferas-1-2-1",
+   "titulo": "Ler considerando esfera, gênero e propósito",
+   "microconteudo": "RAIO-X DA PROVA: A matriz de 2026 situa a leitura e a produção em diferentes esferas sociais entre os objetos de Linguagens, mas a contagem por objeto das provas 2021–2025 ainda não está disponível na C-08E. A análise deve relacionar propósito, interlocutores, suporte e escolhas de linguagem. Um erro típico é identificar apenas o assunto ou o formato visual e ignorar que uma mesma informação muda de função quando circula em contextos distintos.\n\nO QUE A BANCA COBRA:\nA leitura em diferentes esferas pede que o estudante interprete textos como ações dirigidas a alguém, em uma situação concreta. Uma notícia, um comunicado escolar, uma campanha de saúde, uma postagem de coletivo cultural e um formulário podem tratar do mesmo tema, mas organizam a informação de maneiras diferentes porque seus propósitos, destinatários e condições de circulação mudam. H19 permite analisar a função da linguagem em situações de interlocução; H18 ajuda a observar como a organização e a progressão do texto constroem essa função. Não há contagem empírica por objeto a declarar antes da C-08E.\n\nENTENDA:\nPara interpretar um texto socialmente situado, examine quatro elementos em conjunto: quem enuncia, a quem se dirige, para que age e por qual suporte circula. A esfera social é um campo de atividade, como a vida pública, a escola, o trabalho, a ciência, a imprensa, a família, a cultura ou o comércio. Cada campo reúne práticas recorrentes. O gênero é uma forma relativamente reconhecível de realizar essas práticas: ata, notícia, campanha, tutorial, relato, requerimento, resenha ou mensagem institucional. O gênero não é definido somente pela aparência. Uma peça pode usar imagem e poucas palavras tanto para mobilizar doações quanto para divulgar um evento; a função depende das pistas presentes no texto e da situação apresentada.\n\nConsidere um aviso fictício de uma escola: “A biblioteca ficará fechada na quinta-feira para reorganização do acervo. Os empréstimos vencidos podem ser renovados pelo portal até as 20h”. O primeiro período informa uma interrupção e sua causa; o segundo antecipa uma consequência para o público e oferece uma ação. Para compreender o aviso, o leitor precisa inferir que os destinatários são usuários da biblioteca, que a finalidade é orientar e reduzir dúvidas, e que o portal é um canal alternativo. A questão pode perguntar qual escolha torna a comunicação adequada: a resposta deve apoiar-se no texto, não em uma suposição sobre o que a escola “deveria” fazer.\n\nA situação comunicativa também orienta registro, vocabulário, grau de explicitação e seleção de dados. Uma mensagem entre colegas pode empregar abreviações compartilhadas; um relatório destinado a uma secretaria precisa identificar datas, procedimentos e responsáveis com clareza. Isso não autoriza dizer que existe uma oposição simples entre linguagem formal correta e linguagem informal errada. Adequação significa avaliar escolhas em relação a propósito, gênero, público e canal. Uma forma coloquial pode ser precisa e eficaz em uma campanha dirigida a adolescentes; um termo técnico pode ser necessário em um documento profissional, desde que o público esperado o compreenda.\n\nEm itens de leitura, textos verbais e não verbais frequentemente se completam. Título, legenda, fotografia, ícone, cor, disposição espacial e link podem hierarquizar informação ou indicar uma ação. Um cartaz com QR code, por exemplo, pode anunciar um serviço presencial e encaminhar o leitor a um formulário. O código não substitui a leitura: sua função depende do enunciado e da relação entre os modos. A resposta mais segura aponta uma evidência concreta — um verbo, um dado, uma imagem ou uma relação entre partes — e explica como ela contribui para a finalidade.\n\nDOUTRINA:\nA abordagem sociointeracional de Marcuschi trata os gêneros como formas de ação comunicativa ligadas a práticas sociais. Essa perspectiva ajuda a evitar duas reduções: classificar gênero apenas pelo formato externo e tratar a leitura como decodificação independente da situação. A circulação, os interlocutores e o propósito influem na composição, sem tornar o gênero uma forma rígida: práticas sociais podem combinar recursos e transformar convenções. Referência: MARCUSCHI, Luiz Antônio. Produção textual, análise de gêneros e compreensão. 1. ed. São Paulo: Parábola Editorial, 2008. Exposição indireta, sem citação literal.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nNão se aplica jurisprudência. A referência avaliativa é a Matriz de Referência do ENEM 2026, Linguagens, objeto 1.2 e habilidades H18–H19.\n\nPEGADINHAS:\n1. Tema não revela sozinho o propósito comunicativo. 2. Suporte digital não transforma automaticamente um texto em gênero específico. 3. Linguagem informal não é erro por definição; avalie sua adequação à situação. 4. Um destinatário implícito pode ser identificado por marcas do texto, mas não deve ser inventado. 5. Imagem e legenda devem ser lidas em conjunto quando o item constrói sentido multimodal.\n\nESQUEMA:\nEsfera → prática recorrente → gênero → interlocutores e propósito → escolhas linguísticas e multissemióticas → efeito de leitura. Justifique a interpretação com pistas do texto e da situação dada.\n\nLIGAÇÕES:\nConecta-se ao tópico 1.1 (sequências e gêneros) e aos tópicos 1.32–1.34 (argumentação, progressão e papéis dos interlocutores).",
+   "flashcards": [
+    {
+     "frente": "Que elementos ajudam a interpretar um texto situado em uma esfera social?",
+     "verso": "Esfera, gênero, enunciador, destinatário, propósito, suporte e pistas linguísticas ou visuais.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.2; H19"
+    },
+    {
+     "frente": "O mesmo assunto garante que dois textos tenham a mesma finalidade?",
+     "verso": "Não. Destinatários, práticas e propósitos podem mudar a organização e o efeito.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.2"
+    },
+    {
+     "frente": "Como verificar a função de um recurso visual?",
+     "verso": "Relacione-o ao texto verbal, ao público e à ação comunicativa apresentada.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H18–H19"
+    },
+    {
+     "frente": "A linguagem coloquial é sempre inadequada em texto escrito?",
+     "verso": "Não. A adequação depende da situação, do gênero, do público e do propósito.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.2"
+    },
+    {
+     "frente": "Pegadinha: o suporte define sozinho o gênero?",
+     "verso": "Não. Uma rede social abriga gêneros distintos; observe finalidade e composição.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.2"
+    },
+    {
+     "frente": "Pegadinha: como evitar inferir destinatário sem base?",
+     "verso": "Aponte marcas do texto ou dados explícitos da situação comunicativa.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H19"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-linguagens-esf-121-q1",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "A associação de moradores envia um aviso: “A reunião sobre a iluminação da rua será na quarta, às 19h, no salão comunitário. Traga o número do protocolo de sua solicitação”.",
+     "enunciado": "A indicação de horário e local, somada ao pedido de levar o protocolo, organiza o aviso para facilitar a participação e a discussão de casos concretos.",
+     "gabarito": "C",
+     "comentario": "Certa. Data e local reduzem dúvidas práticas; o protocolo prepara os participantes para tratar de solicitações específicas. A finalidade se infere das informações do próprio aviso, conforme o objeto 1.2 e H19 da Matriz.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.2 e H19"
+    },
+    {
+     "id": "enem-linguagens-esf-121-q2",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "Uma unidade de saúde publica card com o horário da vacinação, faixa etária atendida e endereço da sala. A legenda pede que o usuário leve documento de identificação.",
+     "enunciado": "Como o card circula em rede social, sua única finalidade possível é entretenimento, independentemente das informações apresentadas.",
+     "gabarito": "E",
+     "comentario": "Errada. A plataforma não fixa a finalidade: horário, público, endereço e orientação indicam serviço informativo e convocatório. A situação comunicativa deve ser lida pelas pistas do conjunto. Matriz, objeto 1.2 e H19.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.2 e H19"
+    },
+    {
+     "id": "enem-linguagens-esf-121-q3",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "Um museu envia aos professores um guia com objetivos da visita e perguntas para discutir as obras. Em cartaz no transporte público, anuncia a mesma exposição com data, local e entrada gratuita.",
+     "enunciado": "A diferença de público e propósito ajuda a explicar por que os dois materiais selecionam informações distintas sobre a mesma exposição.",
+     "gabarito": "C",
+     "comentario": "Certa. O guia apoia planejamento pedagógico; o cartaz busca informar e atrair visitantes. A seleção se ajusta às práticas e aos destinatários indicados. Matriz, objeto 1.2.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.2"
+    },
+    {
+     "id": "enem-linguagens-esf-121-q4",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "Uma campanha juvenil usa a frase “Chega junto: a quadra também é sua” sobre uma fotografia de jovens organizando um torneio aberto.",
+     "enunciado": "A expressão coloquial prova inadequação, pois toda comunicação pública exige construções formais e impessoais.",
+     "gabarito": "E",
+     "comentario": "Errada. A frase aproxima a campanha do público e convida à participação; coloquialidade não equivale a inadequação automática. A análise depende da situação, da função e das marcas do item. Matriz, objeto 1.2 e H19.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.2 e H19"
+    },
+    {
+     "id": "enem-linguagens-esf-121-q5",
+     "tipo": "multipla_escolha",
+     "dificuldade": "media",
+     "texto_base": "Uma cooperativa divulga no mural do mercado: “As inscrições para o curso de compostagem vão até 12 de maio. Procure a equipe no balcão ou preencha o formulário pelo QR code”.",
+     "enunciado": "Qual análise explica melhor a relação entre a mensagem e sua situação de circulação?",
+     "alternativas": {
+      "A": "O texto narra a história da cooperativa e dispensa instruções ao leitor.",
+      "B": "O QR code torna a mensagem inacessível e elimina o contato presencial.",
+      "C": "É argumentativo porque qualquer pedido equivale a uma tese defendida.",
+      "D": "Combina exposição das condições da coleta com orientação prática ao público.",
+      "E": "O mural impede que a mensagem desempenhe função de divulgação."
+     },
+     "gabarito": "D",
+     "comentario": "A) Errada: não há relato histórico da cooperativa. B) Errada: a inscrição presencial continua disponível. C) Errada: um pedido não é necessariamente uma tese. D) Correta: o texto informa prazo e duas vias de inscrição. E) Errada: o mural pode divulgar atividade comunitária. Matriz, objeto 1.2 e H19.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.2 e H19"
+    },
+    {
+     "id": "enem-linguagens-esf-121-q6",
+     "tipo": "multipla_escolha",
+     "dificuldade": "dificil",
+     "texto_base": "Um relatório escolar destinado ao conselho registra que 38 estudantes participaram de uma oficina, descreve as atividades realizadas e recomenda repetir a experiência no semestre seguinte.",
+     "enunciado": "Que leitura considera melhor a finalidade e a organização do documento?",
+     "alternativas": {
+      "A": "É uma narrativa ficcional, pois apresenta participantes e atividades.",
+      "B": "Relato e descrição contextualizam dados que fundamentam uma recomendação dirigida ao conselho.",
+      "C": "É exclusivamente injuntivo, já que a recomendação final ordena uma ação aos estudantes.",
+      "D": "Os números impedem qualquer posicionamento avaliativo.",
+      "E": "O texto não pode combinar exposição e argumentação por ser relatório."
+     },
+     "gabarito": "B",
+     "comentario": "A) Errada: o texto não apresenta ficção. B) Correta: dados e atividades contextualizam a recomendação ao conselho. C) Errada: não se ordenam ações aos estudantes. D) Errada: números podem apoiar avaliação. E) Errada: um relatório pode combinar exposição e argumentação. Matriz, objeto 1.2 e H18.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.2 e H18"
+    },
+    {
+     "id": "enem-linguagens-esf-121-q7",
+     "tipo": "multipla_escolha",
+     "dificuldade": "media",
+     "texto_base": "Uma biblioteca envia a cada usuário uma mensagem privada: “Seu empréstimo vence amanhã. Se já devolveu o livro, desconsidere este lembrete; se precisar de mais tempo, renove no aplicativo”.",
+     "enunciado": "Qual aspecto torna a mensagem adequada à interação com o destinatário?",
+     "alternativas": {
+      "A": "A orientação prevê situações diferentes e oferece uma ação compatível para cada uma.",
+      "B": "A mensagem tenta persuadir o leitor a abandonar a leitura.",
+      "C": "O aviso omite o prazo para criar suspense narrativo.",
+      "D": "O uso de segunda pessoa transforma o lembrete em diálogo presencial.",
+      "E": "O aplicativo faz da mensagem um texto literário."
+     },
+     "gabarito": "A",
+     "comentario": "A) Correta: prazo e instrução condicional atendem a diferentes situações do usuário. B) Errada: a mensagem não sugere abandonar a leitura. C) Errada: o vencimento está explícito. D) Errada: segunda pessoa não implica diálogo presencial. E) Errada: o canal digital não transforma o lembrete em texto literário. Matriz, objeto 1.2 e H19.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.2 e H19"
+    },
+    {
+     "id": "enem-linguagens-esf-121-q8",
+     "tipo": "multipla_escolha",
+     "dificuldade": "dificil",
+     "texto_base": "A secretaria municipal publica nota sobre uma obra na avenida. Um mapa destaca o trecho interditado, enquanto o texto indica rotas alternativas e os horários de maior restrição.",
+     "enunciado": "Como o mapa participa da construção do sentido da nota?",
+     "alternativas": {
+      "A": "Como elemento ornamental sem relação com a informação verbal.",
+      "B": "Como substituto de todas as instruções e dos horários informados.",
+      "C": "Como prova de que a nota se dirige somente a engenheiros.",
+      "D": "Como recurso que localiza espacialmente a interdição e complementa as orientações escritas.",
+      "E": "Como elemento que converte a nota em narrativa de viagem."
+     },
+     "gabarito": "D",
+     "comentario": "A) Errada: não há narrativa de entrega passada. B) Errada: não aparece posição controversa sustentada por razões. C) Errada: o pedido não é a função central; o aviso informa e orienta. D) Correta: horário e pedido de identificação orientam a coleta. E) Errada: mencionar um recipiente não organiza uma descrição. Matriz, objeto 1.2 e H19.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.2 e H18–H19"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Para interpretar um gênero, relacione a esfera, o propósito e os ___.",
+     "opcoes": [
+      "interlocutores",
+      "números de páginas",
+      "autores favoritos",
+      "tipos de papel"
+     ],
+     "respostas": [
+      "interlocutores"
+     ],
+     "explicacao": "Quem enuncia e a quem se dirige são parte da situação comunicativa.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.2"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "A adequação de um registro depende do público, do gênero e da ___.",
+     "opcoes": [
+      "situação comunicativa",
+      "quantidade de imagens",
+      "popularidade do autor",
+      "extensão do arquivo"
+     ],
+     "respostas": [
+      "situação comunicativa"
+     ],
+     "explicacao": "As escolhas linguísticas são avaliadas em relação às condições de uso.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H19"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Analise como um texto age em sua situação social.",
+     "itens": [
+      "Identificar o campo de atividade e os interlocutores apresentados.",
+      "Reconhecer o propósito e o gênero pelas pistas disponíveis.",
+      "Relacionar escolhas verbais e visuais ao efeito produzido."
+     ],
+     "explicacao": "A leitura parte da situação e chega à função dos recursos no conjunto."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Aviso de serviço",
+       "Orientar usuário"
+      ],
+      [
+       "Relatório",
+       "Registrar e avaliar atividade"
+      ],
+      [
+       "Campanha",
+       "Mobilizar público"
+      ],
+      [
+       "Formulário",
+       "Reunir informações"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "enem-linguagens-esferas-1-2-2",
+   "titulo": "Produção escrita: escolhas que atendem ao leitor",
+   "microconteudo": "RAIO-X DA PROVA: A matriz inclui atividades de produção escrita e leitura em esferas públicas e privadas, sem que a classificação C-08E tenha quantificado as provas por objeto. Na produção, é central verificar se o texto oferece as informações, a organização e o registro necessários ao leitor e à finalidade. Uma pegadinha recorrente é confundir correção gramatical isolada com eficácia comunicativa: um texto pode estar formalmente correto e ainda omitir dado decisivo ou não orientar a ação esperada.\n\nO QUE A BANCA COBRA:\nO estudante precisa compreender como decisões de escrita respondem a uma tarefa social. A questão pode apresentar versões de um convite, instrução, carta, postagem ou explicação e perguntar qual atende melhor ao público e ao propósito. O foco não é decorar uma lista de gêneros, mas reconhecer que seleção, ordem, registro e explicitação de informações têm consequências para o leitor. A matriz de 2026 situa essas práticas no objeto 1.2; H19 permite relacioná-las à interlocução e H18, à organização textual. A frequência por objeto permanece não verificada até a C-08E.\n\nENTENDA:\nProduzir um texto envolve imaginar uma situação e tomar decisões para que o leitor possa agir ou compreender. Antes de redigir, quem escreve define o propósito — informar, solicitar, convidar, explicar, registrar ou defender uma proposta — e considera o destinatário, o canal e o gênero mais adequado. Depois, escolhe quais dados são indispensáveis, em que ordem apresentá-los, que vocabulário será compreensível e quais recursos visuais ou links ajudam. Revisar também significa testar se o leitor consegue realizar a tarefa com o que foi escrito.\n\nVeja o caso de um grêmio que organiza uma oficina de reparo de bicicletas. Uma postagem diz: “Sábado tem oficina. Venha!”. Ela desperta interesse, mas não informa o local, o horário, se é preciso levar bicicleta ou se haverá inscrição. Para um convite informal a colegas que já conhecem os detalhes, pode bastar. Para divulgação pública, a equipe deve acrescentar as informações necessárias: data completa, endereço, faixa etária, custo e forma de inscrição, se forem relevantes. A revisão não serve para tornar todo texto longo; serve para preencher lacunas que impediriam o destinatário de entender ou participar.\n\nA progressão da informação também afeta a leitura. Em uma instrução, pré-requisitos e etapas devem aparecer em sequência utilizável; em uma solicitação, o pedido deve ser identificável e vir acompanhado dos motivos ou documentos necessários; em uma notícia, o leitor precisa distinguir o fato principal de contexto e desdobramentos. Conectivos, títulos, listas e parágrafos ajudam a sinalizar relações. Uma lista numerada é útil quando a ordem importa; tópicos sem numeração podem funcionar melhor quando as informações são paralelas. A forma deve servir à tarefa, não apenas parecer organizada.\n\nO registro é outra decisão situada. Uma mensagem dirigida a uma equipe pode usar vocabulário familiar, mas ainda deve dizer o que precisa ser feito e até quando. Um requerimento a uma instituição exige identificação e pedido claro, sem que fórmulas rebuscadas substituam o conteúdo. Para leitores com diferentes níveis de familiaridade, convém explicar siglas e termos técnicos ou fornecer uma definição. Em canais digitais, o hiperlink pode ampliar informação, mas não deve esconder o dado essencial se o leitor precisa dele para decidir.\n\nA revisão pode seguir três perguntas: o propósito aparece? O destinatário encontra o que precisa, no momento certo? O tom e o formato combinam com a situação? No ENEM, a resposta deve identificar o efeito de uma escolha concreta e evitar critérios absolutos como “texto público sempre formal” ou “postagem deve ser curta”. Uma escolha é funcional quando responde à situação descrita e sustenta a compreensão ou a ação pretendida.\n\nDOUTRINA:\nA abordagem de gêneros como práticas sociais, associada a Marcuschi, permite entender a escrita como participação em atividades recorrentes, e não como simples preenchimento de moldes. A relativa estabilidade de um gênero ajuda os participantes a antecipar sua organização; ainda assim, propósito, suporte e interlocutores influenciam escolhas e podem produzir adaptações. Essa visão explica por que duas versões sobre o mesmo evento podem ser adequadas a públicos diferentes. Referência: MARCUSCHI, Luiz Antônio. Produção textual, análise de gêneros e compreensão. 1. ed. São Paulo: Parábola Editorial, 2008. Exposição indireta, sem citação literal.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nNão se aplica jurisprudência. A Matriz de Referência do ENEM 2026, Linguagens, objeto 1.2 e habilidades H18–H19, orienta a leitura pedagógica deste tópico.\n\nPEGADINHAS:\n1. Correção formal não garante que o texto cumpra a tarefa. 2. Ser conciso não significa omitir dados necessários. 3. Um gênero não impõe sempre o mesmo nível de formalidade. 4. Link pode complementar, mas não necessariamente substituir informação essencial. 5. A ordem adequada depende da ação que o leitor precisa realizar.\n\nESQUEMA:\nTarefa → leitor → dados necessários → ordem → registro e suporte → revisão pelo efeito. Em instruções, privilegie etapas; em pedidos, explicite solicitação e justificativa; em divulgação, forneça condições de participação.\n\nLIGAÇÕES:\nConecta-se aos tópicos 1.1 (gêneros e sequências), 1.32 (pontos de vista) e 1.34 (papéis e propósitos dos interlocutores).",
+   "flashcards": [
+    {
+     "frente": "Quais perguntas iniciam o planejamento de um texto social?",
+     "verso": "Para que escrevo, a quem, por qual canal e que informação essa pessoa precisa?",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.2; H19"
+    },
+    {
+     "frente": "O que uma revisão funcional procura além de erros gramaticais?",
+     "verso": "Lacunas de informação, ordem, clareza do pedido e adequação ao destinatário.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objetos 1.2 e 1.34"
+    },
+    {
+     "frente": "Quando uma lista numerada é especialmente útil?",
+     "verso": "Quando a sequência das etapas influencia a realização correta da tarefa.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H18"
+    },
+    {
+     "frente": "Uma sigla pode ser mantida sem explicação para qualquer público?",
+     "verso": "Não; avalie se o destinatário conhece o termo ou precisa de explicação.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.2"
+    },
+    {
+     "frente": "Pegadinha: concisão sempre melhora um convite?",
+     "verso": "Não se omitir local, horário, custo ou inscrição quando o leitor precisa desses dados.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.2 e H19"
+    },
+    {
+     "frente": "Pegadinha: um link pode esconder qualquer dado essencial?",
+     "verso": "Não. O dado necessário para decidir ou agir pode precisar estar visível no próprio texto.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H18–H19"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-linguagens-esf-122-q1",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "A biblioteca do bairro prepara um convite para oficina gratuita de leitura, mas não informa em qual sala do centro cultural ocorrerá o encontro.",
+     "enunciado": "Mesmo que o texto esteja bem escrito, a ausência do local pode frustrar o propósito de orientar a participação de quem não conhece o espaço.",
+     "gabarito": "C",
+     "comentario": "Certa. A clareza gramatical não supre uma informação logística necessária ao destinatário. A lacuna afeta a finalidade do convite, conforme objeto 1.2 e H19 da Matriz.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.2 e H19"
+    },
+    {
+     "id": "enem-linguagens-esf-122-q2",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "Um tutorial para montar uma horta apresenta os materiais e, em seguida, orienta a preparar o recipiente antes de acrescentar a terra e as sementes.",
+     "enunciado": "A ordem das etapas é apenas estética; trocar a preparação do recipiente para o final não poderia afetar a compreensão do leitor.",
+     "gabarito": "E",
+     "comentario": "Errada. Quando as ações dependem umas das outras, a sequência sinaliza condições e reduz erro na execução. A organização contribui para a função instrucional. Matriz, objeto 1.2 e H18.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.2 e H18"
+    },
+    {
+     "id": "enem-linguagens-esf-122-q3",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "Uma mensagem da escola informa mudança de sala, data e horário e acrescenta que os responsáveis devem confirmar o recebimento pelo aplicativo.",
+     "enunciado": "O canal digital e a confirmação solicitada integram a situação comunicativa e orientam a ação do destinatário.",
+     "gabarito": "C",
+     "comentario": "Certa. A mensagem combina informação sobre a mudança com uma resposta esperada no canal indicado. As escolhas devem ser relacionadas à função de comunicação. Matriz, objeto 1.2 e H19.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.2 e H19"
+    },
+    {
+     "id": "enem-linguagens-esf-122-q4",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "Um formulário público pede “CPF” sem explicar a sigla, embora seja destinado a pessoas que solicitam pela primeira vez uma credencial municipal.",
+     "enunciado": "Se a sigla é conhecida por parte dos usuários, ela não pode constituir barreira para nenhum outro destinatário.",
+     "gabarito": "E",
+     "comentario": "Errada. O conhecimento prévio varia. Se a compreensão do campo for necessária, uma explicação ou exemplo pode tornar o formulário mais acessível. A adequação considera destinatários reais, não um leitor universal. Matriz, objeto 1.2.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.2"
+    },
+    {
+     "id": "enem-linguagens-esf-122-q5",
+     "tipo": "multipla_escolha",
+     "dificuldade": "media",
+     "texto_base": "Uma associação redige um convite: “A conversa sobre o uso do parque será dia 9, às 18h, na quadra coberta. Crianças podem participar com um adulto. Confirme pelo telefone 3333-1200”.",
+     "enunciado": "Que revisão seria mais pertinente para tornar o convite publicamente utilizável?",
+     "alternativas": {
+      "A": "Substituir data e horário por uma descrição da história do parque.",
+      "B": "Retirar o telefone, pois todo convite deve depender de aplicativo.",
+      "C": "Eliminar a indicação de público para manter o texto impessoal.",
+      "D": "Eliminar a indicação de público para manter o texto impessoal.",
+      "E": "Acrescentar informações apenas se forem necessárias ao acesso, preservando os dados de local, tempo e confirmação."
+     },
+     "gabarito": "E",
+     "comentario": "A) Errada: uma história do parque não ajuda a localizar a conversa. B) Errada: o telefone é um canal acessível descrito no convite. C) Errada: retirar a orientação de público elimina informação útil. D) Errada: trocar os dados essenciais por formalidade não melhora a tarefa. E) Correta: preserva local, tempo e confirmação, e admite acrescentar dado de acesso pertinente. Matriz, objeto 1.2 e H19.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.2 e H19"
+    },
+    {
+     "id": "enem-linguagens-esf-122-q6",
+     "tipo": "multipla_escolha",
+     "dificuldade": "dificil",
+     "texto_base": "Uma equipe de estudantes vai enviar proposta de horta à direção. O rascunho descreve o terreno, enumera benefícios e termina com “esperamos que gostem”, mas não formula o que solicita nem indica quem cuidará do espaço.",
+     "enunciado": "Qual alteração tornaria a proposta mais eficaz para a interlocução com a direção?",
+     "alternativas": {
+      "A": "Retirar todos os benefícios e manter somente a descrição do terreno.",
+      "B": "Explicitar o pedido, os responsáveis e um plano inicial, usando os benefícios como justificativa.",
+      "C": "Trocar o destinatário por leitores de uma revista de jardinagem.",
+      "D": "Acrescentar adjetivos elogiosos sem esclarecer a ação esperada.",
+      "E": "Apagar o texto e enviar apenas uma fotografia do terreno."
+     },
+     "gabarito": "B",
+     "comentario": "A) Errada: a descrição do terreno não basta para formular a proposta. B) Correta: explicitar pedido e responsáveis torna a proposta avaliável; benefícios justificam a solicitação. C) Errada: isso troca o destinatário e a situação. D) Errada: elogios não esclarecem a ação solicitada. E) Errada: foto pode complementar, mas não substitui pedido e plano. Matriz, objeto 1.2 e H19.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.2 e H19"
+    },
+    {
+     "id": "enem-linguagens-esf-122-q7",
+     "tipo": "multipla_escolha",
+     "dificuldade": "media",
+     "texto_base": "Uma equipe envia instruções para retirada de livros: escolha o título no catálogo, solicite a reserva e aguarde a mensagem de confirmação antes de ir à unidade.",
+     "enunciado": "Por que a orientação sobre aguardar a confirmação deve aparecer antes da visita?",
+     "alternativas": {
+      "A": "Porque explica uma condição necessária para que a ida tenha utilidade e evita deslocamento sem reserva concluída.",
+      "B": "Porque transforma qualquer instrução em narrativa retrospectiva.",
+      "C": "Porque a ordem temporal deve ser ignorada em textos curtos.",
+      "D": "Porque o destinatário não participa da ação descrita.",
+      "E": "Porque a confirmação elimina a necessidade de escolher um título."
+     },
+     "gabarito": "A",
+     "comentario": "A) Correta: a confirmação condiciona a visita e evita deslocamento sem reserva concluída. B) Errada: as etapas orientam uma ação, não narram fatos passados. C) Errada: aqui a ordem interfere no procedimento. D) Errada: o usuário realiza as etapas. E) Errada: escolher o título continua sendo o primeiro passo. Matriz, objeto 1.2 e H18.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.2 e H18"
+    },
+    {
+     "id": "enem-linguagens-esf-122-q8",
+     "tipo": "multipla_escolha",
+     "dificuldade": "dificil",
+     "texto_base": "Um aviso sobre entrega de documentos traz a lista completa no cartaz e um link para consulta. No celular, porém, o cartaz aparece reduzido, e o link não informa quais documentos são necessários.",
+     "enunciado": "Qual solução melhora a experiência de leitura sem abandonar o suporte digital?",
+     "alternativas": {
+      "A": "Deixar apenas a imagem pequena, pois o leitor pode ampliá-la em qualquer aparelho.",
+      "B": "Remover a lista e presumir que todos já conhecem os documentos.",
+      "C": "Apresentar os itens essenciais em texto legível e manter o link para detalhes complementares.",
+      "D": "Substituir o aviso por uma frase vaga para caber em uma tela.",
+      "E": "Tornar obrigatório o uso de computador mesmo quando a mensagem é distribuída por celular."
+     },
+     "gabarito": "C",
+     "comentario": "A) Errada: o cenário mostra que o cartaz reduzido não é suficiente. B) Errada: presumir conhecimento cria uma lacuna. C) Correta: dados essenciais legíveis permitem agir, e o link amplia detalhes. D) Errada: uma frase vaga omite o que o público precisa. E) Errada: obrigar o uso de computador não atende ao canal usado. Matriz, objeto 1.2 e H18–H19.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.2 e H18–H19"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Na revisão, confirme se o propósito está claro e se o leitor encontra os dados de que ___.",
+     "opcoes": [
+      "precisa",
+      "não gosta",
+      "se lembra",
+      "discorda"
+     ],
+     "respostas": [
+      "precisa"
+     ],
+     "explicacao": "A revisão considera as necessidades do destinatário para cumprir a tarefa comunicativa.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.2"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Quando a ordem das ações é importante, uma lista ___ pode orientar a execução.",
+     "opcoes": [
+      "numerada",
+      "decorativa",
+      "aleatória",
+      "oculta"
+     ],
+     "respostas": [
+      "numerada"
+     ],
+     "explicacao": "A numeração sinaliza sequência quando a realização de uma etapa depende da anterior.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H18"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Revise uma mensagem para garantir que o público consiga agir.",
+     "itens": [
+      "Definir a ação ou compreensão pretendida.",
+      "Conferir quais dados o destinatário precisa e em que ordem.",
+      "Revisar registro, formato e eventuais lacunas."
+     ],
+     "explicacao": "A revisão testa a adequação da forma à tarefa e ao leitor."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Convite",
+       "Informar como participar"
+      ],
+      [
+       "Requerimento",
+       "Formular pedido"
+      ],
+      [
+       "Tutorial",
+       "Orientar etapas"
+      ],
+      [
+       "Relatório",
+       "Registrar resultados"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "enem-linguagens-esferas-1-2-3",
+   "titulo": "Leitura crítica: circulação, vozes e efeitos",
+   "microconteudo": "RAIO-X DA PROVA: A matriz de 2026 prevê a leitura de textos em diferentes esferas, e a análise quantitativa por objeto das provas ainda depende da C-08E. A leitura crítica considera quem fala, para quem, com que interesse e por quais recursos; também distingue informação, opinião, citação e chamada para ação. Uma confusão recorrente é atribuir neutralidade a todo texto informativo ou tomar compartilhamento e popularidade como prova de confiabilidade.\n\nO QUE A BANCA COBRA:\nO item de leitura crítica pode apresentar notícia, anúncio, postagem, campanha, relato ou texto institucional e pedir que se reconheça uma posição, uma finalidade ou um efeito. H4 orienta o reconhecimento de posições críticas sobre usos sociais das linguagens e dos sistemas de comunicação; H19 apoia a análise da função em uma situação de interlocução; H18 ajuda a identificar como organização e progressão direcionam a interpretação. Como a C-08E ainda não forneceu uma contagem por objeto, não se atribui frequência numérica.\n\nENTENDA:\nLer criticamente não significa desconfiar de tudo nem declarar que todo texto é falso. Significa observar como a mensagem foi construída, quais vozes aparecem, o que se afirma, que evidências são oferecidas e o que se espera que o leitor pense ou faça. Um texto pode trazer dados corretos e ainda selecionar apenas parte do contexto; uma opinião pode ser legítima sem ser apresentada como fato; uma citação pode representar uma fonte ou ser usada para contestá-la. A interpretação precisa distinguir esses papéis.\n\nConsidere uma postagem fictícia de uma campanha de bairro: “Mais árvores, ruas mais frescas. O levantamento da associação registrou poucas áreas sombreadas em três quarteirões. Participe da reunião de sábado para escolher os locais de plantio”. A mensagem apresenta uma avaliação, menciona um levantamento e convoca à participação. O leitor deve identificar quem produziu o dado e seu alcance: a observação em três quarteirões não prova, sozinha, a situação de toda a cidade. Também deve perceber a finalidade mobilizadora e a contribuição da convocação final. Não é preciso classificar a campanha como enganosa; basta interpretar o que as evidências permitem afirmar.\n\nEm ambientes digitais, a circulação pode alterar o sentido. Um trecho compartilhado fora da publicação original perde título, data, autoria ou ressalvas. Um comentário pode ser confundido com a voz do perfil; um meme pode citar um slogan para criticá-lo; um link pode remeter a uma fonte que contradiz o resumo. A análise deve perguntar quem publicou, quando, qual texto está sendo retomado e se as pistas de contexto estão presentes. Curtidas e encaminhamentos informam circulação, mas não demonstram, por si, que a afirmação é verdadeira.\n\nRecursos de linguagem também orientam a resposta do público. Verbos no imperativo podem convocar, aconselhar ou advertir; pronomes inclusivos podem construir pertencimento; perguntas retóricas podem sugerir uma avaliação; imagens podem enfatizar consequências ou associar um produto a valores. Essas pistas não devem ser lidas isoladamente. Uma campanha pode combinar informação, relato e persuasão. Pergunte que efeito o recurso produz naquele público e como se relaciona com a finalidade apresentada.\n\nUma leitura crítica responsável separa três níveis: o que o texto afirma explicitamente; o que permite inferir com base em evidências; e o que não se pode concluir. Em uma questão, prefira a alternativa que explica a relação entre pista e efeito sem inventar intenção oculta. Se o texto cita uma pesquisa, verifique quais participantes ou locais são descritos; se uma campanha pede ação, identifique a ação e o destinatário; se há crítica, localize a prática ou consequência criticada. Assim, a análise permanece ancorada no material.\n\nDOUTRINA:\nA noção de gênero como prática social em Marcuschi favorece a leitura da circulação e dos interlocutores junto à forma linguística. Uma abordagem crítica acrescenta que textos participam de relações sociais: escolhas de voz, evidência e visibilidade podem orientar interpretações e ações. Isso não autoriza afirmar uma intenção não demonstrada; a inferência deve se apoiar em marcas observáveis e no contexto oferecido. Referência: MARCUSCHI, Luiz Antônio. Produção textual, análise de gêneros e compreensão. 1. ed. São Paulo: Parábola Editorial, 2008. Exposição indireta, sem citação literal.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nNão se aplica jurisprudência. A matriz oficial do ENEM 2026, Linguagens, objeto 1.2 e habilidades H4, H18 e H19, é a referência pedagógica.\n\nPEGADINHAS:\n1. Popularidade não prova veracidade. 2. Citação não significa que o autor do texto endosse a voz citada. 3. Um dado localizado não sustenta automaticamente uma conclusão geral. 4. Informação e persuasão podem coexistir. 5. Inferência crítica não permite inventar intenção sem marcas textuais.\n\nESQUEMA:\nAutoria e data → público e esfera → afirmações e vozes → evidências e limites → recursos expressivos → finalidade e efeito. Separar explícito, inferível e não demonstrado.\n\nLIGAÇÕES:\nConecta-se a 1.1 (gêneros e composição), 1.32–1.34 (argumentação, progressão e interlocutores) e 1.37 (gêneros digitais).",
+   "flashcards": [
+    {
+     "frente": "Que níveis convém separar numa leitura crítica?",
+     "verso": "O explícito, o inferível com evidência e o que não se pode concluir.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H4 e H19"
+    },
+    {
+     "frente": "O que curtidas e compartilhamentos demonstram?",
+     "verso": "Circulação ou engajamento; não comprovam sozinhos a veracidade da afirmação.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H4"
+    },
+    {
+     "frente": "Como interpretar uma citação dentro de uma postagem?",
+     "verso": "Identifique quem enuncia a citação e se o autor a apoia, relata ou contesta.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H18–H19"
+    },
+    {
+     "frente": "O que verificar antes de generalizar um dado?",
+     "verso": "Origem, recorte, período e população ou área efetivamente descrita.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H4"
+    },
+    {
+     "frente": "Pegadinha: um texto informativo é sempre neutro?",
+     "verso": "Não necessariamente; observe seleção, enquadramento e finalidade sem presumir falsidade.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H4 e objeto 1.2"
+    },
+    {
+     "frente": "Pegadinha: como evitar atribuir intenção oculta?",
+     "verso": "Explique o efeito com base em marcas e contexto que o texto realmente oferece.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H19"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-linguagens-esf-123-q1",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "Uma postagem do conselho escolar apresenta o calendário de reuniões e informa que estudantes podem enviar perguntas até a véspera por formulário eletrônico.",
+     "enunciado": "A combinação de calendário e canal de envio amplia a possibilidade de participação dos estudantes na atividade anunciada.",
+     "gabarito": "C",
+     "comentario": "Certa. A informação sobre prazo e formulário abre uma via de participação antes da reunião. O efeito decorre das orientações explícitas, não de uma intenção presumida. Matriz, objeto 1.2 e H19.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.2 e H19"
+    },
+    {
+     "id": "enem-linguagens-esf-123-q2",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "Uma notícia sobre uma pesquisa informa que 62 participantes de um bairro responderam a um questionário sobre transporte. A manchete diz: “Cidade inteira aprova nova linha”.",
+     "enunciado": "O recorte da pesquisa descrito sustenta automaticamente uma conclusão sobre todos os moradores do município.",
+     "gabarito": "E",
+     "comentario": "Errada. O texto-base delimita 62 respondentes de um bairro; não permite generalizar sem informação sobre amostra e representatividade. A manchete amplia o alcance além do que foi descrito. Matriz, H4.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H4"
+    },
+    {
+     "id": "enem-linguagens-esf-123-q3",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "Em uma campanha contra o desperdício, uma estudante é citada dizendo: “Na nossa turma, começamos a medir as sobras”. O parágrafo seguinte compara os registros semanais.",
+     "enunciado": "A fala citada apresenta uma voz atribuída à estudante, enquanto a comparação posterior acrescenta informação produzida pela campanha.",
+     "gabarito": "C",
+     "comentario": "Certa. As aspas e a atribuição marcam a voz citada; o parágrafo seguinte oferece dados do registro. Diferenciar essas vozes ajuda a interpretar a composição. Matriz, H18–H19.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H18–H19"
+    },
+    {
+     "id": "enem-linguagens-esf-123-q4",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "Um perfil publica um gráfico sobre coleta seletiva sem indicar data nem origem. A legenda afirma que a cidade “sempre” reciclou mais que seus vizinhos.",
+     "enunciado": "A ausência de data e fonte comprova, por si só, que os números foram inventados.",
+     "gabarito": "E",
+     "comentario": "Errada. Falta de origem e período limita a verificação e recomenda cautela, mas não demonstra, isoladamente, fabricação dos números. É preciso separar uma limitação de evidência de uma conclusão que o texto não autoriza. Matriz, H4.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H4"
+    },
+    {
+     "id": "enem-linguagens-esf-123-q5",
+     "tipo": "multipla_escolha",
+     "dificuldade": "media",
+     "texto_base": "Uma campanha de doação de sangue publica: “Uma hora pode ajudar alguém. Veja os critérios no site e agende a triagem na unidade mais próxima”.",
+     "enunciado": "Que relação entre recursos e finalidade está mais bem apoiada pelo texto?",
+     "alternativas": {
+      "A": "A frase busca mobilizar o leitor, enquanto as instruções oferecem passos para conhecer critérios e agendar triagem.",
+      "B": "O texto apenas relata uma doação já ocorrida e não propõe ação.",
+      "C": "A referência ao site prova que o serviço não possui unidades presenciais.",
+      "D": "A palavra “alguém” transforma a peça em relato autobiográfico.",
+      "E": "A mensagem é neutra porque não contém números estatísticos."
+     },
+     "gabarito": "A",
+     "comentario": "A) Correta: o apelo mobiliza; as instruções indicam como consultar critérios e agendar. B) Errada: o texto não relata uma doação já ocorrida. C) Errada: há menção a uma unidade próxima. D) Errada: não se conta experiência autobiográfica. E) Errada: a ausência de números não determina neutralidade. Matriz, objeto 1.2 e H19.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.2 e H19"
+    },
+    {
+     "id": "enem-linguagens-esf-123-q6",
+     "tipo": "multipla_escolha",
+     "dificuldade": "dificil",
+     "texto_base": "Uma publicação compartilha fotografia antiga de uma ponte alagada e a apresenta como registro da chuva de ontem. No rodapé da imagem original aparece o ano de 2019.",
+     "enunciado": "Qual pista permite questionar a legenda que acompanha a imagem?",
+     "alternativas": {
+      "A": "O número de comentários, por indicar desacordo entre usuários.",
+      "B": "A presença de uma ponte, elemento comum em muitas cidades.",
+      "C": "A data de 2019 visível no original, que contradiz a atribuição ao evento de ontem.",
+      "D": "O fato de a publicação ser digital e, portanto, necessariamente falsa.",
+      "E": "A ausência de um relato pessoal do autor da postagem."
+     },
+     "gabarito": "C",
+     "comentario": "A) Errada: comentários não estabelecem a data da imagem. B) Errada: a ponte não resolve quando a foto foi feita. C) Correta: a marca de 2019 contradiz a legenda sobre o evento de ontem. D) Errada: conteúdo digital não é necessariamente falso. E) Errada: a data pode ser comparada sem relato pessoal do autor. Matriz, H4 e H19.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H4 e H19"
+    },
+    {
+     "id": "enem-linguagens-esf-123-q7",
+     "tipo": "multipla_escolha",
+     "dificuldade": "media",
+     "texto_base": "Uma campanha do parque informa que a trilha estará fechada durante a recuperação do solo e convida visitantes a usar o caminho sinalizado no mapa ao lado.",
+     "enunciado": "Qual efeito cumpre a combinação do aviso e do mapa?",
+     "alternativas": {
+      "A": "O mapa contesta a existência do fechamento sem apresentar texto.",
+      "B": "O aviso explica a restrição, e o mapa apoia uma alternativa de circulação.",
+      "C": "A imagem converte a campanha em narrativa histórica.",
+      "D": "A recomendação prova que visitantes causaram todo o dano ambiental.",
+      "E": "A frase e o mapa são incompatíveis por pertencerem a linguagens diferentes."
+     },
+     "gabarito": "B",
+     "comentario": "A) Errada: o texto explica o fechamento e indica alternativa, sem negar a interdição. B) Correta: aviso e mapa combinam justificativa e rota de circulação. C) Errada: não há sequência histórica. D) Errada: o texto não responsabiliza visitantes pelo dano. E) Errada: linguagens verbal e visual podem cooperar. Matriz, objeto 1.2 e H18.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, objeto 1.2 e H18"
+    },
+    {
+     "id": "enem-linguagens-esf-123-q8",
+     "tipo": "multipla_escolha",
+     "dificuldade": "dificil",
+     "texto_base": "Um anúncio de curso diz que “nove em cada dez participantes conseguiram emprego”, mas não informa quantos alunos foram consultados, quando nem como o resultado foi medido.",
+     "enunciado": "Qual avaliação crítica é mais consistente com as informações disponíveis?",
+     "alternativas": {
+      "A": "A afirmação é necessariamente falsa porque usa uma proporção.",
+      "B": "O anúncio prova eficácia universal do curso em qualquer área.",
+      "C": "A proporção, sem contexto metodológico, é suficiente para avaliar a qualidade do curso.",
+      "D": "A proporção é suficiente para avaliar o curso, ainda que faltem critérios de medição.",
+      "E": "Faltam dados sobre amostra, período e critério de emprego para avaliar o alcance da afirmação."
+     },
+     "gabarito": "E",
+     "comentario": "A) Errada: usar uma proporção não torna a afirmação necessariamente falsa. B) Errada: o dado não sustenta universalidade. C) Errada: sem método, a proporção não basta para avaliar o curso. D) Errada: seria necessário conhecer também a amostra, período e critério. E) Correta: esses dados delimitam o alcance da afirmação. Matriz, H4.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H4"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Uma inferência crítica deve se apoiar em pistas e no ___ apresentado.",
+     "opcoes": [
+      "contexto",
+      "número de curtidas",
+      "gosto pessoal",
+      "tamanho da tela"
+     ],
+     "respostas": [
+      "contexto"
+     ],
+     "explicacao": "O contexto ajuda a relacionar marcas textuais à situação de interlocução.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H19"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Compartilhamento indica circulação, mas não comprova por si só a ___.",
+     "opcoes": [
+      "veracidade",
+      "popularidade",
+      "existência do perfil",
+      "quantidade de leitores"
+     ],
+     "respostas": [
+      "veracidade"
+     ],
+     "explicacao": "Engajamento e comprovação da informação são questões distintas.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens, H4"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Avalie o alcance de uma afirmação publicada em rede.",
+     "itens": [
+      "Localizar autoria, data, público e situação de circulação.",
+      "Separar afirmações, vozes citadas e evidências oferecidas.",
+      "Indicar o que é explícito, inferível e não demonstrado."
+     ],
+     "explicacao": "A análise parte do contexto, examina as evidências e delimita as conclusões."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Manchete",
+       "Destacar enquadramento"
+      ],
+      [
+       "Citação",
+       "Representar voz atribuída"
+      ],
+      [
+       "Gráfico",
+       "Apresentar dados"
+      ],
+      [
+       "Chamada",
+       "Convidar à ação"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
