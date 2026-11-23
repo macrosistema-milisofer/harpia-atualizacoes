@@ -38,9 +38,9 @@
  },
  "app": {
   "android": {
-   "build": 4,
-   "versao": "1.2.0",
-   "url": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-4.apk",
+   "build": 5,
+   "versao": "1.3.0",
+   "url": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-5.apk",
    "notas": "Lições com flashcards e questões, revisão espaçada e atualização automática."
   }
  }
