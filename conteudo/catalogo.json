@@ -1,0 +1,354 @@
+{
+ "atualizado_em": "2026-11-23",
+ "itens": [
+  {
+   "id": "rpps-dirig-1",
+   "nome": "CP RPPS DIRIG I — Dirigente (básico)",
+   "categoria": "Previdência — RPPS (certificação profissional)",
+   "tipo": "outra",
+   "edital": "rpps-dirig-1",
+   "orgao": "entidades credenciadas (MPS)"
+  },
+  {
+   "id": "rpps-dirig-2",
+   "nome": "CP RPPS DIRIG II — Dirigente (intermediário)",
+   "categoria": "Previdência — RPPS (certificação profissional)",
+   "tipo": "outra",
+   "edital": "rpps-dirig-2",
+   "orgao": "entidades credenciadas (MPS)"
+  },
+  {
+   "id": "rpps-dirig-3",
+   "nome": "CP RPPS DIRIG III — Dirigente (avançado)",
+   "categoria": "Previdência — RPPS (certificação profissional)",
+   "tipo": "outra",
+   "edital": "rpps-dirig-3",
+   "orgao": "entidades credenciadas (MPS)"
+  },
+  {
+   "id": "rpps-codef-1",
+   "nome": "CP RPPS CODEF I — Conselho Deliberativo e Fiscal (básico)",
+   "categoria": "Previdência — RPPS (certificação profissional)",
+   "tipo": "outra",
+   "edital": "rpps-codef-1",
+   "orgao": "entidades credenciadas (MPS)"
+  },
+  {
+   "id": "rpps-codef-2",
+   "nome": "CP RPPS CODEF II — Conselho Deliberativo e Fiscal (intermediário)",
+   "categoria": "Previdência — RPPS (certificação profissional)",
+   "tipo": "outra",
+   "edital": "rpps-codef-2",
+   "orgao": "entidades credenciadas (MPS)"
+  },
+  {
+   "id": "rpps-cginv-1",
+   "nome": "CP RPPS CGINV I — Comitê de Investimentos (básico)",
+   "categoria": "Previdência — RPPS (certificação profissional)",
+   "tipo": "outra",
+   "edital": "rpps-cginv-1",
+   "orgao": "entidades credenciadas (MPS)"
+  },
+  {
+   "id": "rpps-cginv-2",
+   "nome": "CP RPPS CGINV II — Comitê de Investimentos (intermediário)",
+   "categoria": "Previdência — RPPS (certificação profissional)",
+   "tipo": "outra",
+   "edital": "rpps-cginv-2",
+   "orgao": "entidades credenciadas (MPS)"
+  },
+  {
+   "id": "rpps-cginv-3",
+   "nome": "CP RPPS CGINV III — Comitê de Investimentos (avançado)",
+   "categoria": "Previdência — RPPS (certificação profissional)",
+   "tipo": "outra",
+   "edital": "rpps-cginv-3",
+   "orgao": "entidades credenciadas (MPS)"
+  },
+  {
+   "id": "magistratura-tjsc-2026",
+   "nome": "Juiz Substituto — TJSC 2026",
+   "categoria": "Magistratura estadual",
+   "tipo": "concurso",
+   "edital": "magistratura-tjsc-2026",
+   "orgao": "FGV"
+  },
+  {
+   "id": "magistratura-tjrs-2026",
+   "nome": "Juiz de Direito Substituto — TJRS 2026",
+   "categoria": "Magistratura estadual",
+   "tipo": "concurso",
+   "edital": "magistratura-tjrs-2026",
+   "orgao": "FGV"
+  },
+  {
+   "id": "magistratura-tjba-2026",
+   "nome": "Juiz Substituto — TJBA 2026",
+   "categoria": "Magistratura estadual",
+   "tipo": "concurso",
+   "edital": "magistratura-tjba-2026",
+   "orgao": "FGV"
+  },
+  {
+   "id": "magistratura-tjpe-2026",
+   "nome": "Juiz Substituto — TJPE 2026",
+   "categoria": "Magistratura estadual",
+   "tipo": "concurso",
+   "edital": "magistratura-tjpe-2026",
+   "orgao": "FGV"
+  },
+  {
+   "id": "magistratura-tjap-2026",
+   "nome": "Juiz de Direito Substituto — TJAP 2026",
+   "categoria": "Magistratura estadual",
+   "tipo": "concurso",
+   "edital": "magistratura-tjap-2026",
+   "orgao": "FGV"
+  },
+  {
+   "id": "magistratura-tjgo-2025",
+   "nome": "Juiz Substituto — TJGO 2025",
+   "categoria": "Magistratura estadual",
+   "tipo": "concurso",
+   "edital": "magistratura-tjgo-2025",
+   "orgao": "FGV"
+  },
+  {
+   "id": "juiz-federal-trf5-2026",
+   "nome": "Juiz Federal Substituto — TRF5 2026",
+   "categoria": "Magistratura federal e do trabalho",
+   "tipo": "concurso",
+   "edital": "juiz-federal-trf5-2026",
+   "orgao": "FGV"
+  },
+  {
+   "id": "juiz-trabalho-csjt-2023",
+   "nome": "Juiz do Trabalho Substituto — Concurso Nacional Unificado",
+   "categoria": "Magistratura federal e do trabalho",
+   "tipo": "concurso",
+   "edital": "juiz-trabalho-csjt-2023",
+   "orgao": "FGV"
+  },
+  {
+   "id": "mpf-procurador-republica-31",
+   "nome": "Procurador da República — MPF",
+   "categoria": "Carreiras jurídicas federais",
+   "tipo": "concurso",
+   "edital": "mpf-procurador-republica-31"
+  },
+  {
+   "id": "agu-advogado-uniao-2022",
+   "nome": "Advogado da União — AGU",
+   "categoria": "Carreiras jurídicas federais",
+   "tipo": "concurso",
+   "edital": "agu-advogado-uniao-2022",
+   "orgao": "Cebraspe"
+  },
+  {
+   "id": "agu-procurador-federal-2022",
+   "nome": "Procurador Federal — AGU",
+   "categoria": "Carreiras jurídicas federais",
+   "tipo": "concurso",
+   "edital": "agu-procurador-federal-2022",
+   "orgao": "Cebraspe"
+  },
+  {
+   "id": "pgfn-procurador",
+   "nome": "Procurador da Fazenda Nacional — PGFN",
+   "categoria": "Carreiras jurídicas federais",
+   "tipo": "concurso",
+   "obs": "edital em levantamento"
+  },
+  {
+   "id": "dpu-defensor",
+   "nome": "Defensor Público Federal — DPU",
+   "categoria": "Carreiras jurídicas federais",
+   "tipo": "concurso",
+   "obs": "edital em levantamento"
+  },
+  {
+   "id": "mpt-procurador",
+   "nome": "Procurador do Trabalho — MPT",
+   "categoria": "Carreiras jurídicas federais",
+   "tipo": "concurso",
+   "obs": "edital em levantamento"
+  },
+  {
+   "id": "tjro-tecnico-analista",
+   "nome": "Técnico e Analista Judiciário — TJRO",
+   "categoria": "Tribunais",
+   "tipo": "concurso",
+   "edital": "tjro-tecnico-analista"
+  },
+  {
+   "id": "pcro-2022-agente-escrivao",
+   "nome": "Agente e Escrivão — Polícia Civil de RO",
+   "categoria": "Policiais",
+   "tipo": "concurso",
+   "edital": "pcro-2022-agente-escrivao"
+  },
+  {
+   "id": "pf-ou-prf",
+   "nome": "Polícia Federal / PRF",
+   "categoria": "Policiais",
+   "tipo": "concurso",
+   "edital": "pf-ou-prf"
+  },
+  {
+   "id": "inss-tecnico-seguro-social",
+   "nome": "Técnico do Seguro Social — INSS",
+   "categoria": "Previdência",
+   "tipo": "concurso",
+   "edital": "inss-tecnico-seguro-social"
+  },
+  {
+   "id": "enam-2026.2",
+   "nome": "ENAM — Exame Nacional da Magistratura",
+   "categoria": "Exames nacionais",
+   "tipo": "outra",
+   "edital": "enam-2026.2",
+   "orgao": "FGV/ENFAM"
+  },
+  {
+   "id": "enap-advocacia-publica",
+   "nome": "ENAP — Exame Nacional da Advocacia Pública (AGU)",
+   "categoria": "Exames nacionais",
+   "tipo": "outra",
+   "obs": "aguardando edital"
+  },
+  {
+   "id": "enem-2026",
+   "nome": "ENEM 2026 — todos os conteúdos",
+   "categoria": "ENEM",
+   "tipo": "enem",
+   "edital": "enem-2026",
+   "orgao": "INEP"
+  },
+  {
+   "id": "oab-1-fase",
+   "nome": "Exame de Ordem — OAB (1ª fase)",
+   "categoria": "Ordens e conselhos profissionais",
+   "tipo": "oab",
+   "edital": "oab-1-fase",
+   "orgao": "FGV"
+  },
+  {
+   "id": "oab-2-fase",
+   "nome": "Exame de Ordem — OAB (2ª fase)",
+   "categoria": "Ordens e conselhos profissionais",
+   "tipo": "oab",
+   "obs": "edital em levantamento"
+  },
+  {
+   "id": "cfc-suficiencia",
+   "nome": "Exame de Suficiência — CFC (Contabilidade)",
+   "categoria": "Ordens e conselhos profissionais",
+   "tipo": "outra",
+   "orgao": "CFC"
+  },
+  {
+   "id": "cfc-eqt",
+   "nome": "Exame de Qualificação Técnica — CFC (perito e auditor)",
+   "categoria": "Ordens e conselhos profissionais",
+   "tipo": "outra",
+   "orgao": "CFC"
+  },
+  {
+   "id": "revalida",
+   "nome": "Revalida — diplomas médicos (INEP)",
+   "categoria": "Saúde",
+   "tipo": "outra",
+   "orgao": "INEP"
+  },
+  {
+   "id": "enare",
+   "nome": "ENARE — Exame Nacional de Residência",
+   "categoria": "Saúde",
+   "tipo": "outra"
+  },
+  {
+   "id": "encceja",
+   "nome": "ENCCEJA",
+   "categoria": "Educação",
+   "tipo": "outra",
+   "orgao": "INEP"
+  },
+  {
+   "id": "celpe-bras",
+   "nome": "Celpe-Bras — proficiência em português",
+   "categoria": "Educação",
+   "tipo": "outra",
+   "orgao": "INEP"
+  },
+  {
+   "id": "anbima-cpa",
+   "nome": "CPA — Certificação Profissional ANBIMA",
+   "categoria": "Mercado financeiro",
+   "tipo": "outra",
+   "orgao": "ANBIMA"
+  },
+  {
+   "id": "anbima-cpro-r",
+   "nome": "C-Pro R — Certificação de Relacionamento ANBIMA",
+   "categoria": "Mercado financeiro",
+   "tipo": "outra",
+   "orgao": "ANBIMA"
+  },
+  {
+   "id": "anbima-cpro-i",
+   "nome": "C-Pro I — Certificação de Investimentos ANBIMA",
+   "categoria": "Mercado financeiro",
+   "tipo": "outra",
+   "orgao": "ANBIMA"
+  },
+  {
+   "id": "anbima-cfg",
+   "nome": "CFG — Certificação de Fundamentos em Gestão ANBIMA",
+   "categoria": "Mercado financeiro",
+   "tipo": "outra",
+   "orgao": "ANBIMA"
+  },
+  {
+   "id": "anbima-cga",
+   "nome": "CGA — Certificação de Gestores ANBIMA",
+   "categoria": "Mercado financeiro",
+   "tipo": "outra",
+   "orgao": "ANBIMA"
+  },
+  {
+   "id": "anbima-cge",
+   "nome": "CGE — Certificação de Gestores (estruturados) ANBIMA",
+   "categoria": "Mercado financeiro",
+   "tipo": "outra",
+   "orgao": "ANBIMA"
+  },
+  {
+   "id": "ancord-assessor",
+   "nome": "Assessor de Investimentos — Ancord",
+   "categoria": "Mercado financeiro",
+   "tipo": "outra",
+   "orgao": "Ancord"
+  },
+  {
+   "id": "apimec-cnpi",
+   "nome": "CNPI — Analista de Valores Mobiliários (APIMEC)",
+   "categoria": "Mercado financeiro",
+   "tipo": "outra",
+   "orgao": "APIMEC"
+  },
+  {
+   "id": "planejar-cfp",
+   "nome": "CFP — Planejador Financeiro (Planejar)",
+   "categoria": "Mercado financeiro",
+   "tipo": "outra",
+   "orgao": "Planejar"
+  },
+  {
+   "id": "b3-pqo",
+   "nome": "PQO — Programa de Qualificação Operacional (B3)",
+   "categoria": "Mercado financeiro",
+   "tipo": "outra",
+   "orgao": "B3"
+  }
+ ]
+}
