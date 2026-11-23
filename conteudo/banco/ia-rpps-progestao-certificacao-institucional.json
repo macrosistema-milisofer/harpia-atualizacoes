@@ -133,7 +133,8 @@
      "comentario": "A correta é D: a certificação envolve ações nas três dimensões, planejadas e demonstradas segundo o nível pretendido. A e B inventam atalho por nível ou CRP; C posterga uma dimensão que integra o Programa; E confunde qualificação individual com avaliação institucional. (Manual do Pró-Gestão RPPS v4.2, itens 2.2.2 e 2.3.1)",
      "dispositivo": "Manual do Pró-Gestão RPPS v4.2, itens 2.2.2 e 2.3.1"
     }
-   ]
+   ],
+   "exercicios": []
   },
   {
    "id": "rpps-progestao-2",
@@ -264,7 +265,8 @@
      "comentario": "A correta é D: constatada conformidade, a entidade certificadora emite a certificação e encaminha o certificado e o Termo de Concessão à SRPC pelo Cadprev. A e B trocam as competências; C confunde CRP com concessão institucional; E substitui a auditoria e a certificação por contrato e pagamento. (Manual do Pró-Gestão RPPS v4.2, item 2.3.1)",
      "dispositivo": "Manual do Pró-Gestão RPPS v4.2, item 2.3.1"
     }
-   ]
+   ],
+   "exercicios": []
   },
   {
    "id": "rpps-progestao-3",
@@ -395,7 +397,8 @@
      "comentario": "A correta é A: níveis I e II têm supervisão documental remota voltada às 13 ações obrigatórias, e desconformidades devem ser corrigidas em até 90 dias. B troca prazo e modalidade aplicável a níveis III e IV; C inventa prazo e restringe a revisão; D ignora monitoramento; E contradiz a modalidade prevista. (Manual do Pró-Gestão RPPS v4.2, item 2.3.2)",
      "dispositivo": "Manual do Pró-Gestão RPPS v4.2, item 2.3.2"
     }
-   ]
+   ],
+   "exercicios": []
   }
  ]
 }

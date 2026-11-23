@@ -1,0 +1,601 @@
+{
+ "assunto": "Direito Penal — fundamentos, escolas e evolução epistemológica",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 (CF/1988 e Código Penal compilados conferidos em fontes oficiais do Planalto)",
+ "origem": "2026-11-23_banco-penal-fundamentos-escolas-evolucao_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "tjsc-penal-fundamentos-1",
+   "titulo": "Funções do Direito Penal e limites da punição",
+   "microconteudo": "O QUE A BANCA COBRA:\nA FGV tende a transformar categorias gerais em uma decisão concreta: qual elemento do delito está presente, qual consequência decorre da classificação ou se a resposta estatal respeita as garantias. Nas 41 questões penais identificadas na amostra C-08, os assuntos próximos dos fundamentos incluem erro, dolo e culpa, imputabilidade, crime progressivo, reincidência, concurso e responsabilidade penal. Não houve questão diretamente dedicada a definir o Direito Penal ou enumerar ciências auxiliares; estudar as definições sem compreender seu uso deixa o candidato vulnerável.\n\nENTENDA:\nDireito Penal, em sentido objetivo, é o conjunto de normas que seleciona condutas como infrações e estabelece consequências jurídicas. Em sentido subjetivo, a expressão descreve o poder estatal de investigar, acusar e punir, mas esse poder não é originário nem ilimitado: existe dentro de competências, procedimentos e garantias constitucionais. Na sentença, a existência de um tipo não basta para justificar qualquer sanção. O juiz examina lei anterior, prova, tipicidade, ilicitude, culpabilidade e consequências legalmente previstas. A Constituição veda crime e pena sem lei anterior, proíbe retroatividade prejudicial e protege pessoalidade, individualização e humanidade da pena (art. 5º, XXXIX a XLVII). O Código Penal explicita a legalidade no art. 1º.\n\nA função de proteção de bens jurídicos explica por que a lei penal tutela interesses relevantes, como vida, liberdade e patrimônio. Ela não converte toda desaprovação moral, descumprimento contratual ou risco remoto em crime. Fragmentariedade significa que o sistema seleciona apenas ataques especialmente relevantes; subsidiariedade indica que a intervenção penal deve ser justificada quando instrumentos menos gravosos não oferecem proteção suficiente. Essas ideias, usualmente resumidas como ultima ratio, não autorizam o magistrado a afastar um tipo válido apenas porque prefere outra política pública. Elas orientam interpretação compatível com Constituição e controle de validade, sempre dentro das competências judiciais.\n\nAs finalidades da pena são debatidas. Teorias absolutas a compreendem como resposta retributiva ao injusto culpável; teorias relativas justificam prevenção geral ou especial; posições mistas combinam fundamentos e finalidades. A prevenção geral pode ser negativa, dirigida à dissuasão, ou positiva, ligada à reafirmação da norma. A prevenção especial procura evitar novos delitos pelo condenado, com dimensão de intimidação, neutralização ou reintegração. No direito vigente, o art. 59 do CP manda que o juiz fixe a pena necessária e suficiente para reprovação e prevenção do crime. Isso não é licença para agravar a pena por prognóstico abstrato ou por personalidade presumida: a fundamentação deve ligar dados provados às circunstâncias legais e evitar duplicar elemento já considerado no tipo.\n\nDOUTRINA:\nUma linha garantista destaca a contenção do poder punitivo como função central; outra enfatiza a proteção social por meio da prevenção e da tutela de bens jurídicos. As duas podem ser articuladas sob a Constituição: a proteção não legitima sanção fora da lei, e a garantia não elimina a aplicação da lei penal válida. A ficha doutrinária local registra em Rogério Greco, Curso de Direito Penal — Parte Geral, vol. 1, 19ª ed., 2017, e Guilherme de Souza Nucci, Curso de Direito Penal — Parte Geral, vol. 1, 2017, abordagens distintas sobre limitação e proteção. A biblioteca acessível nesta execução não permitiu confirmar páginas com segurança; por isso não reproduzo citação literal nem invento paginação. A síntese é autoral.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nA Constituição e o art. 1º do CP fornecem a base direta da legalidade. O art. 59 do CP exige individualização fundamentada na reprovação e prevenção, em diálogo com o art. 5º, XLVI, da CF. Não há precedente vinculante que imponha uma teoria geral única sobre todas as funções do Direito Penal; questões concretas devem ser resolvidas a partir do texto legal e de precedentes específicos pertinentes.\n\nPEGADINHAS:\n1. Poder punitivo estatal não significa liberdade para punir: depende de lei, prova, processo e competência. 2. Fragmentariedade não equivale a irrelevância da vítima; delimita a seleção legislativa de ataques penalmente relevantes. 3. Subsidiariedade não autoriza o juiz a criar requisito de exaurimento de toda via civil ou administrativa sem base legal. 4. Prevenção geral positiva não é prevenção especial: a primeira se refere à confiança na norma; a segunda, ao autor. 5. O art. 59 não permite aumentar a pena por gravidade abstrata ou elemento inerente ao tipo.\n\nESQUEMA:\nPoder punitivo → limitado pela Constituição e pela legalidade → CP, art. 1º; CF, art. 5º, XXXIX.\nProteção de bens jurídicos → seleção fragmentária e subsidiária → intervenção proporcional.\nPena → reprovação e prevenção no caso concreto → CP, art. 59; CF, art. 5º, XLVI.\nGarantias de aplicação → irretroatividade prejudicial, pessoalidade, humanidade → CF, art. 5º, XL a XLVII.\n\nLIGAÇÕES:\nConstitucional: direitos fundamentais e individualização da pena. Direito Penal: teoria do delito e dosimetria.",
+   "flashcards": [
+    {
+     "frente": "O que limita o poder estatal de punir?",
+     "verso": "Legalidade, Constituição, prova e devido processo condicionam a imposição de sanção.",
+     "dispositivo": "CF, art. 5º, XXXIX a XLVII; CP, art. 1º"
+    },
+    {
+     "frente": "Como distinguir prevenção geral positiva da especial?",
+     "verso": "A geral positiva reafirma a norma; a especial dirige-se à prevenção de novos delitos pelo condenado.",
+     "dispositivo": "CP, art. 59"
+    },
+    {
+     "frente": "A subsidiariedade permite ao juiz afastar um crime válido por preferência de política criminal?",
+     "verso": "Não. Interpretação e controle seguem Constituição, lei e competência judicial.",
+     "dispositivo": "CF, art. 5º, XXXIX; CP, art. 1º"
+    },
+    {
+     "frente": "Que base deve sustentar a pena-base negativa?",
+     "verso": "Circunstância concreta provada, prevista no art. 59 e fundamentada sem duplicar elementar do tipo.",
+     "dispositivo": "CP, art. 59"
+    },
+    {
+     "frente": "O Direito Penal protege qualquer interesse social por meio de pena?",
+     "verso": "Não. A tutela penal é seletiva e recai sobre ataques legalmente definidos a bens relevantes.",
+     "dispositivo": "CF, art. 5º, XXXIX; CP, art. 1º"
+    },
+    {
+     "frente": "Qual é a diferença entre Direito Penal objetivo e subjetivo?",
+     "verso": "Objetivo é o sistema de normas; subjetivo é o poder estatal de punir, limitado por garantias.",
+     "dispositivo": "CF, art. 5º, XXXIX a XLVII"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Em sentença, a juíza reconhece que o art. 59 do Código Penal combina reprovação e prevenção, mas afirma que a prevenção autoriza elevar a pena-base com fundamento exclusivo na repercussão social abstrata do tipo. A conclusão está correta.",
+     "gabarito": "E",
+     "comentario": "Incorreta. O art. 59 orienta a individualização, mas não transforma gravidade abstrata em fundamento concreto para exasperação. A motivação deve indicar circunstância judicial do caso e não repetir elemento inerente ao tipo. Base: Código Penal, art. 59; Constituição Federal, art. 5º, XLVI.",
+     "dispositivo": "Código Penal, art. 59; Constituição Federal, art. 5º, XLVI"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Uma conduta socialmente reprovada, mas não abrangida por lei penal anterior, não pode receber pena criminal por analogia desfavorável, ainda que outras áreas do direito permitam resposta estatal.",
+     "gabarito": "C",
+     "comentario": "Correta. A reserva legal exige lei anterior que defina o crime e comine a pena. A analogia in malam partem não pode suprir a ausência de tipo penal. Base: Constituição Federal, art. 5º, XXXIX; Código Penal, art. 1º.",
+     "dispositivo": "Constituição Federal, art. 5º, XXXIX; Código Penal, art. 1º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "A fragmentariedade e a subsidiariedade vinculam exclusivamente o legislador; depois de aprovada a lei penal, o juiz não precisa observar garantias constitucionais ao aplicá-la.",
+     "gabarito": "E",
+     "comentario": "Incorreta. A seleção primária é legislativa, mas a aplicação judicial continua submetida à Constituição, legalidade, proporcionalidade e individualização. A lei não elimina o dever de interpretar e fundamentar conforme garantias. Base: Constituição Federal, art. 5º, XXXIX, XLVI e LIV; Código Penal, arts. 1º e 59.",
+     "dispositivo": "Constituição Federal, art. 5º, XXXIX, XLVI e LIV; Código Penal, arts. 1º e 59"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Ao diferenciar criminologia e dogmática penal, o magistrado pode considerar que a primeira investiga empiricamente crime, autor, vítima e controle social, enquanto a segunda sistematiza normas para interpretar e aplicar o direito vigente.",
+     "gabarito": "C",
+     "comentario": "Correta. A criminologia adota perspectiva empírica sobre fenômenos criminais e controle; a dogmática examina sistematicamente normas e categorias jurídicas. Política criminal, por sua vez, formula estratégias de prevenção e reação. Base: CF, art. 5º, XXXIX; Código Penal, art. 1º.",
+     "dispositivo": "CF, art. 5º, XXXIX; Código Penal, art. 1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em audiência de custódia, a defesa sustenta que o fato é moralmente censurável, mas nenhuma lei anterior o descreve como infração penal. Qual fundamento resolve diretamente a pretensão de impor pena?",
+     "alternativas": {
+      "A": "A reserva legal impede a pena criminal sem lei anterior que defina o crime e a sanção.",
+      "B": "A prevenção geral permite ao juiz criar proibição diante de perigo social comprovado.",
+      "C": "A fragmentariedade autoriza analogia desfavorável quando o bem jurídico é importante.",
+      "D": "A prevenção especial permite punir para evitar a repetição de condutas semelhantes por terceiros.",
+      "E": "A dogmática penal pode suprir a lacuna com costume incriminador."
+     },
+     "gabarito": "A",
+     "comentario": "A correta é A: a Constituição, art. 5º, XXXIX, e o CP, art. 1º, consagram anterioridade e reserva legal. B está errada porque finalidade preventiva não cria tipo. C está errada porque analogia prejudicial viola legalidade. D confunde prevenção especial com geral e tampouco cria crime. E está errada porque costume não pode instituir infração penal. Base: Constituição Federal, art. 5º, XXXIX; Código Penal, art. 1º.",
+     "dispositivo": "Constituição Federal, art. 5º, XXXIX; Código Penal, art. 1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em revisão criminal, discute-se se a sentença poderia justificar a pena-base usando apenas a necessidade de reafirmar a norma, sem individualizar fato desfavorável. Qual resposta melhor se ajusta ao sistema legal?",
+     "alternativas": {
+      "A": "Sim, porque prevenção geral positiva sempre basta para aumentar qualquer pena.",
+      "B": "Não: o art. 59 exige fixação fundamentada da pena necessária e suficiente, com análise concreta das circunstâncias judiciais.",
+      "C": "Sim, desde que a repercussão do crime tenha sido noticiada pela imprensa.",
+      "D": "Não, porque o Código Penal adota exclusivamente retribuição e proíbe fins preventivos.",
+      "E": "Sim, porque o juiz pode substituir as circunstâncias legais por política criminal própria."
+     },
+     "gabarito": "B",
+     "comentario": "A correta é B: CP, art. 59, exige individualização e fundamentação. A e C apoiam aumento em razões gerais ou midiáticas, sem circunstância concreta suficiente. D erra porque o texto menciona reprovação e prevenção. E viola legalidade e dever de motivação; política criminal própria não substitui lei. Base: Código Penal, art. 59; Constituição Federal, art. 5º, XLVI.",
+     "dispositivo": "Código Penal, art. 59; Constituição Federal, art. 5º, XLVI"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Uma equipe judicial precisa classificar três atividades de apoio: coleta empírica sobre vítimas e controle social; desenho de políticas de prevenção; sistematização dos elementos do crime. Qual associação é adequada?",
+     "alternativas": {
+      "A": "Dogmática; criminologia; política criminal.",
+      "B": "Política criminal; dogmática; criminologia.",
+      "C": "Criminologia; política criminal; dogmática penal.",
+      "D": "Vitimologia; dogmática; medicina legal.",
+      "E": "Política criminal; vitimologia; criminologia."
+     },
+     "gabarito": "C",
+     "comentario": "A correta é C: criminologia investiga empiricamente o fenômeno; política criminal propõe estratégias; dogmática sistematiza e interpreta o direito positivo. A inverte o primeiro e o terceiro campos. B atribui desenho de políticas à dogmática. D e E confundem campos especializados e não correspondem às três tarefas descritas. Base: Código Penal, art. 1º; Constituição Federal, art. 5º, XXXIX.",
+     "dispositivo": "Código Penal, art. 1º; Constituição Federal, art. 5º, XXXIX"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "A defesa alega que o caráter subsidiário do Direito Penal obriga o juiz a exigir o esgotamento de toda via civil e administrativa antes de aplicar qualquer tipo penal. Qual é a resposta mais precisa?",
+     "alternativas": {
+      "A": "A tese procede sempre, por força direta do princípio da intervenção mínima.",
+      "B": "A tese procede apenas quando houver reparação civil parcial.",
+      "C": "A subsidiariedade orienta a legitimidade e a interpretação da intervenção, mas não cria requisito universal de exaurimento de outras vias sem previsão legal.",
+      "D": "O esgotamento de toda via civil e administrativa é requisito processual universal para aplicar qualquer tipo penal.",
+      "E": "A tese procede para crimes dolosos e não para crimes culposos."
+     },
+     "gabarito": "C",
+     "comentario": "A correta é C. A subsidiariedade tem relevância interpretativa, mas não impõe exaurimento universal de outras vias. A alternativa A generaliza uma condição inexistente; B e E inventam distinções. D cria requisito processual sem previsão legal e, por isso, está errada. Base: Constituição Federal, art. 5º, XXXIX e LIV; Código Penal, art. 1º.",
+     "dispositivo": "Constituição Federal, art. 5º, XXXIX e LIV; Código Penal, art. 1º"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Não há crime sem ___ anterior que o defina; a pena exige prévia ___.",
+     "opcoes": [
+      "lei",
+      "cominação legal",
+      "prova pericial",
+      "denúncia"
+     ],
+     "respostas": [
+      "lei",
+      "cominação legal"
+     ],
+     "explicacao": "Reserva legal e anterioridade condicionam a punição.",
+     "dispositivo": "CF, art. 5º, XXXIX; CP, art. 1º"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "O art. 59 manda fixar pena necessária e suficiente para ___ e ___ do crime.",
+     "opcoes": [
+      "reprovação",
+      "prevenção",
+      "reparação civil",
+      "publicidade"
+     ],
+     "respostas": [
+      "reprovação",
+      "prevenção"
+     ],
+     "explicacao": "A individualização reúne as finalidades textuais previstas no Código Penal.",
+     "dispositivo": "CP, art. 59"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise judicial antes de impor uma pena criminal.",
+     "itens": [
+      "Identificar lei anterior aplicável.",
+      "Examinar fatos e elementos legais do delito.",
+      "Reconhecer responsabilidade com respeito às garantias.",
+      "Individualizar e fundamentar a sanção legal."
+     ],
+     "explicacao": "A sanção pressupõe legalidade, análise do caso e responsabilidade; a dosimetria vem depois.",
+     "dispositivo": "CF, art. 5º, XXXIX, XLVI e LIV; CP, arts. 1º e 59"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Criminologia",
+       "Pesquisa empírica do fenômeno criminal"
+      ],
+      [
+       "Política criminal",
+       "Estratégia de prevenção e reação"
+      ],
+      [
+       "Dogmática penal",
+       "Sistematização e aplicação das normas"
+      ],
+      [
+       "Vitimologia",
+       "Estudo da vítima no fenômeno criminal"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tjsc-penal-escolas-1",
+   "titulo": "Escolas penais e seus pressupostos",
+   "microconteudo": "O QUE A BANCA COBRA:\nA incidência direta das escolas históricas não apareceu nos CSVs da C-08 examinados. A transferência pedagógica mais segura é dominar as premissas e verificar se uma afirmação atribui a cada movimento o objeto, método ou consequência que de fato defendia. Nas questões FGV próximas, a decisão depende de regras atuais e de prova, não do rótulo de uma corrente.\n\nENTENDA:\nA escola clássica, ligada a Beccaria e Carrara, reage ao arbítrio e às penas cruéis. Parte da liberdade moral, toma o fato como centro e exige legalidade, proporcionalidade e responsabilidade. Beccaria defende leis claras e limites à pena; não propõe estudar o criminoso como produto biológico. A escola positiva, associada a Lombroso, Ferri e Garofalo, desloca o foco para o autor e para fatores que explicariam o delito, com linguagem determinista e preocupação de defesa social. A contribuição histórica para observação empírica não autoriza tratar a pessoa como perigosa por natureza nem é fundamento constitucional de responsabilidade objetiva.\n\nA escola crítica questiona a ideia de neutralidade do sistema penal e examina seleção de condutas, seletividade de aplicação e relações de poder. Ela não se confunde com escola positiva: a crítica analisa instituições e processos de criminalização, enquanto o positivismo clássico buscava explicar o delito e o delinquente por fatores causais. Também não significa que toda norma penal seja inválida ou que o juiz possa ignorar uma lei vigente sem fundamento constitucional.\n\nOutras correntes acrescentam perspectivas. A moderna alemã procurou combinar a sistematização jurídica com considerações de política criminal. A escola técnico-jurídica concentra-se na interpretação da norma positiva e evita transformar o direito penal em especulação sociológica. O correcionalismo vê a sanção como oportunidade de correção do indivíduo, visão que precisa ser filtrada por dignidade, culpabilidade e limites da pena. O movimento de defesa social é plural: pode adotar respostas autoritárias que priorizam neutralização, ou propostas humanistas voltadas à prevenção e reintegração. Por isso, o nome do movimento não determina sozinho seu conteúdo político.\n\nPara o juiz, história das ideias funciona como instrumento analítico, não como fonte autônoma de incriminação ou pena. A Constituição brasileira não adota uma escola em bloco. Legalidade (CF, art. 5º, XXXIX), individualização (XLVI), pessoalidade (XLV) e proibição de penas cruéis (XLVII) filtram qualquer teoria. No caso concreto, o magistrado aplica tipos e consequências previstos em lei, avalia culpabilidade com base nos elementos jurídicos pertinentes e fundamenta a decisão. Não pode substituir culpabilidade por periculosidade presumida, nem agravar a pena para produzir um exemplo público dissociado das regras de individualização.\n\nDOUTRINA:\nA ficha doutrinária local apresenta a clássica como centrada no livre-arbítrio, fato e legalidade; a positiva como determinista e voltada ao autor; a crítica como exame de seletividade e poder. Greco descreve a passagem histórica entre modelos e a dogmática atual; Nucci ressalta que o sistema constitucional brasileiro não reproduz integralmente uma escola. Referências disponíveis na ficha: Rogério Greco, Curso de Direito Penal — Parte Geral, vol. 1, 19ª ed., 2017; Guilherme de Souza Nucci, Curso de Direito Penal — Parte Geral, vol. 1, 2017. A paginação não pôde ser confirmada com segurança na biblioteca acessível; não incluo citação literal nem atribuo página presumida.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nNão há precedente vinculante do STF ou STJ que adote integralmente uma escola penal histórica. O parâmetro jurídico vinculante é o texto constitucional e legal: responsabilidade penal pessoal, pena individualizada e legalidade. Em matéria de dosimetria, o art. 59 do CP exige exame das circunstâncias judiciais concretas, e não adesão abstrata a um movimento.\n\nPEGADINHAS:\n1. Clássica: livre-arbítrio e fato, não determinismo biológico. 2. Positiva: autor e determinismo, não estudo crítico da seletividade institucional. 3. Escola crítica não equivale à defesa necessária do encarceramento, nem à abolição automática de toda lei penal. 4. Defesa social comporta versões diversas; não significa sempre neutralização. 5. Escola técnico-jurídica enfatiza norma e método jurídico, não investigação empírica como função central.\n\nESQUEMA:\nClássica → liberdade, fato, legalidade → limite ao arbítrio.\nPositiva → autor, determinismo, defesa social → rejeição de responsabilidade objetiva no direito vigente.\nCrítica → seletividade e poder → análise institucional.\nModerna alemã → dogmática em diálogo com política criminal.\nConstituição → legalidade, individualização, pessoalidade e humanidade → CF, art. 5º, XXXIX e XLV a XLVII.\n\nLIGAÇÕES:\nNoções Gerais: história das ideias jurídicas. Direito Penal: culpabilidade, prevenção e individualização da pena.",
+   "flashcards": [
+    {
+     "frente": "Qual eixo diferencia a escola clássica da positiva?",
+     "verso": "A clássica centra-se no fato, liberdade e legalidade; a positiva, no autor e em explicações deterministas.",
+     "dispositivo": "CF, art. 5º, XXXIX e XLVI"
+    },
+    {
+     "frente": "O que investiga a perspectiva crítica?",
+     "verso": "Seletividade, criminalização e relações de poder no funcionamento do sistema penal.",
+     "dispositivo": "CF, art. 5º, caput, XXXIX e XLVI"
+    },
+    {
+     "frente": "A escola positiva autoriza condenação por periculosidade presumida?",
+     "verso": "Não. A responsabilidade penal exige fato típico e culpabilidade nos termos da lei.",
+     "dispositivo": "CF, art. 5º, XXXIX, XLV e XLVI; CP, arts. 1º e 59"
+    },
+    {
+     "frente": "Defesa social sempre significa neutralização e encarceramento?",
+     "verso": "Não. Há correntes autoritárias e humanistas, inclusive orientadas à reintegração.",
+     "dispositivo": "CF, art. 5º, XLVI e XLVII"
+    },
+    {
+     "frente": "Que aspecto marca a escola técnico-jurídica?",
+     "verso": "A centralidade da norma positiva e do método jurídico na análise penal.",
+     "dispositivo": "CP, art. 1º"
+    },
+    {
+     "frente": "A Constituição brasileira adotou uma única escola penal?",
+     "verso": "Não. Suas garantias filtram teorias sem consagrar um movimento histórico em bloco.",
+     "dispositivo": "CF, art. 5º, XXXIX e XLV a XLVII"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Em decisão, o juiz afirma que a escola clássica explicava o delito por determinismo biológico e estudava empiricamente o criminoso, enquanto a positiva se concentrava no fato e no livre-arbítrio. A associação está correta.",
+     "gabarito": "E",
+     "comentario": "Incorreta. A associação está invertida: a clássica é ligada à liberdade, ao fato e à legalidade; a positiva deslocou o foco para o autor e explicações deterministas. Essa classificação é histórica e não substitui a lei vigente. Base: CF, art. 5º, XXXIX; Código Penal, art. 1º.",
+     "dispositivo": "CF, art. 5º, XXXIX; Código Penal, art. 1º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A análise crítica da seletividade penal não equivale, por si, a negar a existência de normas penais válidas ou a autorizar o magistrado a afastá-las sem fundamento jurídico.",
+     "gabarito": "C",
+     "comentario": "Correta. A perspectiva crítica examina o funcionamento e os efeitos do sistema; decisões judiciais permanecem vinculadas à legalidade, Constituição e fundamentação. Base: Constituição Federal, art. 5º, XXXIX e LIV; Código Penal, art. 1º.",
+     "dispositivo": "Constituição Federal, art. 5º, XXXIX e LIV; Código Penal, art. 1º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Como o movimento de defesa social busca proteger a coletividade, toda corrente que utiliza essa expressão necessariamente rejeita garantias individuais e exige neutralização do acusado.",
+     "gabarito": "E",
+     "comentario": "Incorreta. O movimento reúne versões diferentes, inclusive propostas humanistas de prevenção e reintegração. Nenhuma delas pode afastar as garantias constitucionais brasileiras. Base: Constituição Federal, art. 5º, XLV a XLVII.",
+     "dispositivo": "Constituição Federal, art. 5º, XLV a XLVII"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "A escola técnico-jurídica privilegia a norma positiva e a análise jurídica; a moderna alemã procurou dialogar a elaboração dogmática com considerações de política criminal.",
+     "gabarito": "C",
+     "comentario": "Correta. A distinção corresponde às linhas históricas gerais. São categorias doutrinárias, não fontes que permitam criar crimes ou penas sem previsão legal. Base: Constituição Federal, art. 5º, XXXIX; Código Penal, art. 1º.",
+     "dispositivo": "Constituição Federal, art. 5º, XXXIX; Código Penal, art. 1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em uma questão, afirma-se que a escola clássica centra-se no fato e na liberdade moral, enquanto a positiva procura explicar o delito a partir do autor e de fatores determinantes. Como classificar a proposição?",
+     "alternativas": {
+      "A": "Incorreta: a positiva se centra exclusivamente na legalidade formal.",
+      "B": "Correta como distinção histórica geral, sem força para substituir o direito constitucional vigente.",
+      "C": "Incorreta: as duas escolas adotam determinismo biológico.",
+      "D": "Correta e implica que a responsabilidade atual pode prescindir de culpabilidade.",
+      "E": "Incorreta: a clássica estuda apenas a vítima e o controle social."
+     },
+     "gabarito": "B",
+     "comentario": "A correta é B. A alternativa A atribui à positiva foco formal que não a caracteriza; C apaga a diferença; D extrai consequência incompatível com culpabilidade e pessoalidade; E atribui à escola clássica objeto que não define sua matriz. A distinção histórica não afasta legalidade e garantias. Base: Constituição Federal, art. 5º, XXXIX, XLV e XLVI; Código Penal, art. 1º.",
+     "dispositivo": "Constituição Federal, art. 5º, XXXIX, XLV e XLVI; Código Penal, art. 1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Ao sentenciar, uma magistrada considera a condenação necessária porque o réu seria, segundo um laudo genérico, pessoa perigosa, embora não individualize as circunstâncias legais da pena. Qual crítica é mais consistente?",
+     "alternativas": {
+      "A": "A escola positiva autoriza a decisão por focar no autor.",
+      "B": "A defesa social torna dispensável a prova do fato típico.",
+      "C": "A decisão deve ser fundamentada em lei e elementos concretos, com responsabilidade pessoal e individualização; rótulos históricos não substituem esses requisitos.",
+      "D": "A decisão é válida se a opinião pública espera punição severa.",
+      "E": "A escola crítica exige que o juiz absolva em todo caso com impacto social."
+     },
+     "gabarito": "C",
+     "comentario": "A correta é C: a CF protege legalidade, pessoalidade e individualização, e o CP, art. 59, exige análise concreta das circunstâncias. A e B transformam escolas em autorização para punir por perfil ou dispensar elementos do crime. D substitui fundamento jurídico por opinião pública. E atribui à crítica uma consequência automática inexistente. Base: Constituição Federal, art. 5º, XXXIX, XLV e XLVI; Código Penal, arts. 1º e 59.",
+     "dispositivo": "Constituição Federal, art. 5º, XXXIX, XLV e XLVI; Código Penal, arts. 1º e 59"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Uma banca pede a corrente que investiga o sistema penal e suas formas de seleção, perguntando como criminalização e relações de poder influenciam quem sofre controle penal. Qual resposta é adequada?",
+     "alternativas": {
+      "A": "Escola crítica.",
+      "B": "Escola clássica.",
+      "C": "Escola técnico-jurídica.",
+      "D": "Escola correcionalista.",
+      "E": "Escola positiva lombrosiana."
+     },
+     "gabarito": "A",
+     "comentario": "A correta é A: a corrente crítica examina seletividade e relações de poder. B se relaciona a fato, liberdade e legalidade. C privilegia interpretação da norma positiva. D concebe a sanção como correção. E se associa a explicações deterministas centradas no autor. Base: Constituição Federal, art. 5º, caput e XXXIX.",
+     "dispositivo": "Constituição Federal, art. 5º, caput e XXXIX"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Um candidato lê que a defesa social surgiu com uma preocupação de proteção da comunidade e conclui que todo autor que use essa expressão sustenta pena cruel e encarceramento automático. Qual avaliação deve ser feita?",
+     "alternativas": {
+      "A": "Correta, pois a expressão possui sentido único e necessariamente autoritário.",
+      "B": "Correta, desde que o crime cause repercussão pública.",
+      "C": "Incorreta porque proteção social nunca é finalidade penal.",
+      "D": "Incorreta: defesa social reúne versões diferentes; qualquer proposta deve ser filtrada por legalidade, humanidade e individualização.",
+      "E": "Correta apenas para crimes dolosos contra a vida."
+     },
+     "gabarito": "D",
+     "comentario": "A correta é D. A e B atribuem sentido único ou condição não prevista; C nega qualquer finalidade de proteção e está errada; E inventa recorte por espécie de crime. A leitura apropriada reconhece pluralidade histórica e subordinação das propostas às garantias constitucionais. Base: Constituição Federal, art. 5º, XXXIX e XLV a XLVII; Código Penal, art. 59.",
+     "dispositivo": "Constituição Federal, art. 5º, XXXIX e XLV a XLVII; Código Penal, art. 59"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "A escola clássica enfatiza o ___ e a liberdade; a positiva desloca o foco ao ___.",
+     "opcoes": [
+      "fato",
+      "autor",
+      "controle difuso",
+      "costume"
+     ],
+     "respostas": [
+      "fato",
+      "autor"
+     ],
+     "explicacao": "É a distinção histórica nuclear entre as duas escolas.",
+     "dispositivo": "CF, art. 5º, XXXIX"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "A escola crítica examina seletividade e relações de ___.",
+     "opcoes": [
+      "poder",
+      "culpa presumida",
+      "pena fixa",
+      "analogia"
+     ],
+     "respostas": [
+      "poder"
+     ],
+     "explicacao": "O foco crítico recai sobre os processos sociais e institucionais de criminalização.",
+     "dispositivo": "CF, art. 5º, caput e XXXIX"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Associe as escolas às suas premissas históricas gerais.",
+     "itens": [
+      "Clássica: fato, liberdade e legalidade.",
+      "Positiva: autor e explicações deterministas.",
+      "Crítica: seletividade e relações de poder.",
+      "Constitucionalismo atual: garantias legais filtram qualquer corrente."
+     ],
+     "explicacao": "A sequência distingue três tradições e termina com o parâmetro normativo vigente.",
+     "dispositivo": "CF, art. 5º, XXXIX e XLV a XLVII; CP, art. 1º"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Clássica",
+       "Fato, liberdade, legalidade"
+      ],
+      [
+       "Positiva",
+       "Autor e determinismo"
+      ],
+      [
+       "Crítica",
+       "Seletividade e poder"
+      ],
+      [
+       "Técnico-jurídica",
+       "Norma e método jurídico"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tjsc-penal-evolucao-1",
+   "titulo": "Causalismo, neokantismo, finalismo e funcionalismos",
+   "microconteudo": "O QUE A BANCA COBRA:\nNão encontrei, nos 41 itens penais deduplicados da C-08, cobrança nominal de causalismo, neokantismo, finalismo, Roxin ou Jakobs. Há cobrança adjacente de dolo e culpa, erro, imputabilidade, causalidade e classificações do delito. Para o TJSC, a utilidade desse conteúdo é explicar por que as categorias atuais se organizam de determinada forma e evitar trocas conceituais em casos práticos.\n\nENTENDA:\nO causalismo clássico concebe ação como movimento voluntário que produz modificação externa e tende a descrever o tipo por dados objetivos, deixando dolo e culpa na culpabilidade. A separação entre descrição e valoração marcou essa construção. O neokantismo critica a pretensão de uma ciência penal puramente natural: compreender o direito exige categorias valorativas e consideração de fins. Ele torna mais visível que conceitos jurídicos não são simples cópias de fatos físicos.\n\nO finalismo de Hans Welzel parte da ideia de ação dirigida a fins. Como o agente antecipa mentalmente consequências e orienta sua conduta, o dolo passa a integrar o tipo subjetivo, e a culpa também se estrutura na tipicidade, embora sua análise dependa de violação do dever objetivo de cuidado e previsibilidade. A culpabilidade deixa de carregar dolo e culpa como espécies psicológicas e passa a funcionar como juízo normativo de reprovação, que envolve imputabilidade, potencial consciência da ilicitude e exigibilidade de conduta diversa. O Código Penal brasileiro, sobretudo após a reforma de 1984, é geralmente explicado por matriz finalista, embora a interpretação dependa do texto legal e não de adesão dogmática automática. Os arts. 18 e 20 a 22 oferecem exemplos normativos para estudar dolo, culpa e erro.\n\nO funcionalismo questiona se as categorias devem ser interpretadas apenas pela estrutura ontológica da ação ou também pelas funções do sistema. Claus Roxin conecta a dogmática à política criminal e à proteção de bens jurídicos, sem abandonar legalidade e culpabilidade. Günther Jakobs dá destaque à vigência da norma e à estabilização das expectativas normativas. O chamado Direito Penal do Inimigo é associado a uma descrição ou proposta de tratamento mais severo de certos agentes considerados persistentes na ruptura normativa; é objeto de fortes críticas constitucionais por risco de reduzir garantias com base em identidade ou prognóstico. Em prova, é essencial separar a descrição de uma teoria da sua aprovação normativa.\n\nA passagem entre modelos não significa que o juiz escolha a teoria que mais convenha ao resultado do processo. A dogmática organiza perguntas; a lei e a Constituição delimitam respostas. Se o caso envolver erro sobre elemento do tipo, o art. 20 do CP estabelece consequências diferentes conforme o erro seja evitável ou inevitável e conforme recaia sobre circunstância fática. Se envolver erro sobre a ilicitude, o art. 21 disciplina a potencial consciência. Se a discussão for dolo ou culpa, o art. 18 prevê essas modalidades. O intérprete não pode deslocar o elemento subjetivo para outra categoria apenas para facilitar condenação ou absolvição; deve explicitar o modelo analítico e justificar sua leitura com a norma.\n\nDOUTRINA:\nA ficha TJSC sintetiza a sequência como causalismo, neokantismo, finalismo e funcionalismos. Greco apresenta a mudança do dolo e da culpa para o tipo e a reorganização da culpabilidade; Nucci expõe a estrutura do delito com influência finalista e filtro constitucional. Roxin relaciona sistema penal e política criminal; Jakobs enfatiza a função de manutenção da vigência normativa. Referências locais indicadas: Rogério Greco, Curso de Direito Penal — Parte Geral, vol. 1, 19ª ed., 2017; Guilherme de Souza Nucci, Curso de Direito Penal — Parte Geral, vol. 1, 2017. As páginas específicas não estavam confirmáveis nos arquivos consultáveis; não incluo transcrição literal ou paginação inventada.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nNão há precedente vinculante que imponha a adoção integral de um sistema epistemológico para toda a teoria do delito. O juiz aplica as regras positivas do CP sobre dolo e culpa (art. 18), erro de tipo (art. 20), erro de proibição (art. 21) e culpabilidade, interpretadas sob legalidade e devido processo. A jurisprudência sobre casos concretos deve ser consultada para cada instituto, sem atribuir a um julgado inexistente uma adesão total ao finalismo ou ao funcionalismo.\n\nPEGADINHAS:\n1. Causalismo clássico coloca dolo e culpa na culpabilidade; finalismo os compreende no tipo. 2. Finalismo não elimina culpabilidade; reorganiza seus componentes. 3. Neokantismo reinsere valores, não é sinônimo de funcionalismo. 4. Roxin e Jakobs são ambos associados ao funcionalismo, mas atribuem ênfases diferentes. 5. Direito Penal do Inimigo não é princípio constitucional que autorize reduzir garantias.\n\nESQUEMA:\nCausalismo → ação causal; dolo/culpa na culpabilidade.\nNeokantismo → categorias valorativas e fins.\nFinalismo → ação final; dolo/culpa no tipo; culpabilidade normativa.\nFuncionalismo → categorias orientadas às funções do sistema; Roxin: política criminal/bens jurídicos; Jakobs: vigência normativa.\nDireito vigente → tipicidade e elemento subjetivo sob lei → CP, arts. 18 e 20 a 22; CF, art. 5º, XXXIX e LIV.\n\nLIGAÇÕES:\nDireito Penal: dolo, culpa, erro, culpabilidade e tentativa. Teoria do Direito: método, interpretação e relação entre ser e dever-ser.",
+   "flashcards": [
+    {
+     "frente": "Onde o causalismo clássico situa dolo e culpa?",
+     "verso": "Na culpabilidade, como elementos psicológicos, ao contrário da reorganização finalista.",
+     "dispositivo": "Código Penal, arts. 18 e 20"
+    },
+    {
+     "frente": "Que mudança o finalismo promove na teoria do delito?",
+     "verso": "Integra dolo e culpa ao tipo e concebe culpabilidade como juízo normativo de reprovação.",
+     "dispositivo": "Código Penal, arts. 18 e 20 a 22"
+    },
+    {
+     "frente": "Roxin e Jakobs enfatizam a mesma função do sistema?",
+     "verso": "Não. Roxin aproxima dogmática e política criminal; Jakobs destaca a vigência normativa.",
+     "dispositivo": "CF, art. 5º, XXXIX e LIV"
+    },
+    {
+     "frente": "O juiz pode escolher a escola teórica para alcançar o resultado desejado?",
+     "verso": "Não. A dogmática organiza a análise; lei e Constituição limitam a decisão.",
+     "dispositivo": "CF, art. 5º, XXXIX e LIV; CP, art. 1º"
+    },
+    {
+     "frente": "Erro sobre elemento do tipo e erro sobre ilicitude são disciplinados pelo mesmo artigo?",
+     "verso": "Não. Erro de tipo está no art. 20; erro sobre ilicitude, no art. 21 do CP.",
+     "dispositivo": "Código Penal, arts. 20 e 21"
+    },
+    {
+     "frente": "A teoria do Direito Penal do Inimigo autoriza reduzir garantias na sentença?",
+     "verso": "Não. Uma teoria descritiva ou crítica não afasta garantias constitucionais vigentes.",
+     "dispositivo": "CF, art. 5º, XXXIX, LIV e LV"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "No modelo causalista clássico, dolo e culpa são tradicionalmente examinados na culpabilidade; no finalismo, passam a integrar o tipo subjetivo, sem que isso elimine a culpabilidade.",
+     "gabarito": "C",
+     "comentario": "Correta. A passagem do causalismo ao finalismo desloca o conteúdo subjetivo da culpabilidade para o tipo e transforma a culpabilidade em juízo normativo. O CP, art. 18, disciplina dolo e culpa na legislação vigente. Base: Código Penal, art. 18; Constituição Federal, art. 5º, XXXIX.",
+     "dispositivo": "Código Penal, art. 18; Constituição Federal, art. 5º, XXXIX"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O neokantismo e o funcionalismo são expressões equivalentes para a teoria final da ação, pois ambos situam necessariamente dolo e culpa na culpabilidade.",
+     "gabarito": "E",
+     "comentario": "Incorreta. São construções distintas na evolução dogmática. O finalismo situa dolo e culpa no tipo; o neokantismo introduz dimensão valorativa; o funcionalismo interpreta categorias segundo funções do sistema. Base: Código Penal, arts. 18 e 20 a 22.",
+     "dispositivo": "Código Penal, arts. 18 e 20 a 22"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Se o acusado supõe, por erro sobre circunstância fática, que atua em situação justificante, a análise deve distinguir erro sobre pressuposto fático da justificante e erro sobre a existência ou os limites jurídicos da permissão.",
+     "gabarito": "C",
+     "comentario": "Correta. O art. 20, § 1º, disciplina descriminante putativa por erro sobre situação de fato; erro sobre ilicitude é tratado pelo art. 21. A distinção afeta a consequência jurídica e não pode ser ignorada. Base: Código Penal, arts. 20, § 1º, e 21.",
+     "dispositivo": "Código Penal, arts. 20, § 1º, e 21"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "A associação de Jakobs ao funcionalismo permite ao juiz afastar legalidade e culpabilidade sempre que entenda necessária a estabilização de expectativas sociais.",
+     "gabarito": "E",
+     "comentario": "Incorreta. A exposição de uma teoria não cria autorização para afastar garantias constitucionais. Legalidade e devido processo permanecem vinculantes; a referência doutrinária não substitui norma positiva. Base: Constituição Federal, art. 5º, XXXIX e LIV; Código Penal, art. 1º.",
+     "dispositivo": "Constituição Federal, art. 5º, XXXIX e LIV; Código Penal, art. 1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em sentença, o juiz analisa se o agente quis o resultado ou assumiu o risco, e depois examina se o resultado decorreu de negligência, imprudência ou imperícia. Qual localização dogmática é mais compatível com o finalismo e com a legislação?",
+     "alternativas": {
+      "A": "Dolo e culpa são condições objetivas de punibilidade, conforme o art. 59 do CP.",
+      "B": "Dolo e culpa integram a culpabilidade e não têm previsão no Código Penal.",
+      "C": "Dolo e culpa são espécies de ilicitude descritas no art. 23 do CP.",
+      "D": "Dolo e culpa são espécies de ilicitude descritas no art. 23 do CP.",
+      "E": "Dolo e culpa são modalidades legais previstas no art. 18 do CP e examinadas no tipo subjetivo em leitura finalista."
+     },
+     "gabarito": "E",
+     "comentario": "A correta é E: o art. 18 do CP prevê crime doloso e culposo, e a construção finalista localiza esses elementos no tipo. A e B trocam a categoria ou negam a previsão legal. C erra o dispositivo e a categoria. D nega os crimes culposos expressamente previstos em lei. Base: Código Penal, arts. 18 e 23.",
+     "dispositivo": "Código Penal, arts. 18 e 23"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Uma decisão cita Roxin e Jakobs como funcionalistas. Qual distinção de ênfase é adequada para fins de estudo?",
+     "alternativas": {
+      "A": "Roxin privilegia política criminal e proteção de bens jurídicos; Jakobs enfatiza vigência da norma e expectativas normativas.",
+      "B": "Roxin é causalista clássico; Jakobs é representante da escola positiva italiana.",
+      "C": "Ambos defendem que a lei penal pode retroagir para agravar a pena.",
+      "D": "Jakobs relaciona-se ao neokantismo e Roxin ao correcionalismo.",
+      "E": "Roxin e Jakobs rejeitam qualquer função normativa do Direito Penal."
+     },
+     "gabarito": "A",
+     "comentario": "A correta é A, que sintetiza as ênfases doutrinárias comumente apresentadas. B confunde autores e escolas. C contraria a garantia constitucional de irretroatividade prejudicial. D mistura correntes distintas. E contradiz o próprio ponto comum funcionalista, embora haja divergência quanto à função destacada. Base: Constituição Federal, art. 5º, XL; Código Penal, art. 2º.",
+     "dispositivo": "Constituição Federal, art. 5º, XL; Código Penal, art. 2º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "A acusação sustenta que o réu conhecia os fatos, mas acreditava que sua conduta era juridicamente permitida. Qual dispositivo deve orientar o exame principal?",
+     "alternativas": {
+      "A": "CP, art. 18, exclusivamente, porque todo erro exclui dolo.",
+      "B": "CP, art. 20, sobre erro de tipo, sem possibilidade de examinar consciência da ilicitude.",
+      "C": "CP, art. 20, sobre erro de tipo, sem possibilidade de examinar consciência da ilicitude.",
+      "D": "CP, art. 21, sobre erro sobre a ilicitude do fato, com consequências conforme inevitabilidade ou evitabilidade.",
+      "E": "CP, art. 59, que resolve erro sobre a consciência da ilicitude na dosimetria."
+     },
+     "gabarito": "D",
+     "comentario": "A correta é D: CP, art. 21, disciplina o erro sobre a ilicitude e diferencia suas consequências. A generaliza os efeitos do erro. B trata de erro sobre elemento do tipo. C também se refere a erro de tipo, não à consciência da ilicitude. E trata da aplicação da pena, não da potencial consciência da ilicitude. Base: Código Penal, arts. 20 e 21.",
+     "dispositivo": "Código Penal, arts. 20 e 21"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Uma questão afirma que a evolução da dogmática penal é uma sucessão de teorias e que o julgador pode afastar o texto do CP quando adota uma compreensão funcionalista mais adequada à política criminal. Qual avaliação é correta?",
+     "alternativas": {
+      "A": "Correta, pois teorias dogmáticas prevalecem sobre lei formal.",
+      "B": "Correta apenas quando o resultado evitar impunidade.",
+      "C": "Incorreta porque a dogmática não tem qualquer papel interpretativo.",
+      "D": "Incorreta porque a dogmática não tem qualquer papel interpretativo.",
+      "E": "Incorreta: teorias ajudam a organizar categorias, mas a decisão permanece vinculada à Constituição e à lei penal."
+     },
+     "gabarito": "E",
+     "comentario": "A correta é E. A e B atribuem prevalência automática à teoria ou ao resultado; C nega o papel interpretativo da dogmática; D transforma uma maioria em autorização para afastar lei. A resposta adequada mantém o diálogo teórico subordinado à Constituição e à lei. Base: Constituição Federal, art. 5º, XXXIX e LIV; Código Penal, art. 1º.",
+     "dispositivo": "Constituição Federal, art. 5º, XXXIX e LIV; Código Penal, art. 1º"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "No finalismo, dolo e culpa integram o ___; culpabilidade permanece juízo normativo de ___.",
+     "opcoes": [
+      "tipo",
+      "reprovação",
+      "resultado",
+      "punibilidade"
+     ],
+     "respostas": [
+      "tipo",
+      "reprovação"
+     ],
+     "explicacao": "O finalismo reorganiza a estrutura do delito sem eliminar a culpabilidade.",
+     "dispositivo": "Código Penal, arts. 18 e 20 a 22"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "O erro sobre elemento do tipo é disciplinado no art. ___; o erro sobre ilicitude, no art. ___.",
+     "opcoes": [
+      "20",
+      "21",
+      "18",
+      "23"
+     ],
+     "respostas": [
+      "20",
+      "21"
+     ],
+     "explicacao": "O Código Penal diferencia erro de tipo de erro de proibição.",
+     "dispositivo": "Código Penal, arts. 20 e 21"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene as principais correntes da sequência didática da evolução da teoria do delito.",
+     "itens": [
+      "Causalismo: ação causal e dolo/culpa tradicionalmente na culpabilidade.",
+      "Neokantismo: reintrodução de valores na análise jurídica.",
+      "Finalismo: ação final e dolo/culpa no tipo.",
+      "Funcionalismos: categorias interpretadas segundo funções do sistema."
+     ],
+     "explicacao": "A sequência acompanha as mudanças de método e estrutura da teoria do delito.",
+     "dispositivo": "Código Penal, arts. 18 e 20 a 22"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Causalismo",
+       "Ação causal; dolo/culpa na culpabilidade"
+      ],
+      [
+       "Neokantismo",
+       "Valoração e fins jurídicos"
+      ],
+      [
+       "Finalismo",
+       "Ação final; dolo/culpa no tipo"
+      ],
+      [
+       "Funcionalismo",
+       "Funções do sistema penal"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
