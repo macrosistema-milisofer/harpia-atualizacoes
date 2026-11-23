@@ -1,0 +1,519 @@
+{
+ "assunto": "ENEM — Matemática (proporção, porcentagem, estatística, probabilidade, gráficos) e Redação (Competência V)",
+ "atualizado_em": "2026-11-23",
+ "origem": "Claude, lote piloto; questões autorais",
+ "licoes": [
+  {
+   "id": "mat-prop-direta",
+   "titulo": "Grandezas diretamente proporcionais",
+   "microconteudo": "Duas grandezas são diretamente proporcionais quando, ao multiplicar uma delas por um número, a outra fica multiplicada pelo mesmo número. Em termos práticos, a razão entre elas é constante: y ÷ x = k. O ENEM usa isso em receitas, consumo de combustível, produção de fábricas e misturas. O caminho seguro é descobrir o valor por unidade (por pessoa, por litro, por hora) e depois multiplicar. Atenção à armadilha: se existe uma parte fixa, como a bandeirada do táxi, o total cresce com a distância, mas não é proporcional a ela.",
+   "flashcards": [
+    {
+     "frente": "O que caracteriza grandezas diretamente proporcionais?",
+     "verso": "A razão entre elas é constante: se uma dobra, a outra também dobra."
+    },
+    {
+     "frente": "Uma receita para 4 pessoas usa 300 g de farinha. Quanto usar para 10 pessoas?",
+     "verso": "750 g. São 75 g por pessoa (300 ÷ 4), e 75 × 10 = 750."
+    },
+    {
+     "frente": "Quando uma relação que cresce NÃO é proporcional?",
+     "verso": "Quando há uma parte fixa: y = a + b·x com a diferente de zero (ex.: bandeirada + valor por km)."
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "me",
+     "enunciado": "Um carro percorre 180 km gastando 15 litros de combustível. Mantido o mesmo consumo, quantos litros ele gastará para percorrer 300 km?",
+     "alternativas": {
+      "A": "20",
+      "B": "22,5",
+      "C": "24",
+      "D": "27",
+      "E": "25"
+     },
+     "gabarito": "E",
+     "comentario": "O carro faz 180 ÷ 15 = 12 km por litro. Para 300 km, gasta 300 ÷ 12 = 25 litros. Conferência: 300 km é 5/3 de 180 km, e 5/3 de 15 L também é 25 L."
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma corrida de táxi custa R$ 5,00 de bandeirada mais R$ 2,50 por quilômetro rodado. Sobre o valor pago e a distância percorrida, é correto afirmar que",
+     "alternativas": {
+      "A": "são diretamente proporcionais, porque o valor sempre aumenta com a distância.",
+      "B": "não são proporcionais: 10 km custam R$ 30,00 e 20 km custam R$ 55,00, que não é o dobro.",
+      "C": "são diretamente proporcionais, com constante igual a 2,50.",
+      "D": "são inversamente proporcionais, porque a bandeirada é fixa.",
+      "E": "são diretamente proporcionais, porque a razão valor/distância é sempre 2,50."
+     },
+     "gabarito": "B",
+     "comentario": "Crescer junto não basta. Com a bandeirada, 10 km custam 5 + 25 = R$ 30,00 e 20 km custam 5 + 50 = R$ 55,00. Dobrar a distância não dobrou o preço, então a razão não é constante e não há proporcionalidade."
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma fábrica produz 1.200 peças em 8 horas, em ritmo constante. Quantas peças ela produz em 5 horas?",
+     "alternativas": {
+      "A": "600",
+      "B": "650",
+      "C": "700",
+      "D": "720",
+      "E": "750"
+     },
+     "gabarito": "E",
+     "comentario": "O ritmo é 1.200 ÷ 8 = 150 peças por hora. Em 5 horas: 150 × 5 = 750 peças."
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Um suco é preparado misturando concentrado e água na razão de 1 para 3. Para obter 2 litros de suco pronto, a quantidade de concentrado necessária é",
+     "alternativas": {
+      "A": "400 mL.",
+      "B": "500 mL.",
+      "C": "600 mL.",
+      "D": "666 mL.",
+      "E": "750 mL."
+     },
+     "gabarito": "B",
+     "comentario": "A razão 1 para 3 divide o suco em 4 partes iguais: 1 de concentrado e 3 de água. Assim, 2.000 mL ÷ 4 = 500 mL de concentrado. Erro comum: dividir por 3 e marcar 666 mL."
+    }
+   ]
+  },
+  {
+   "id": "mat-prop-inversa",
+   "titulo": "Grandezas inversamente proporcionais e regra de três composta",
+   "microconteudo": "Duas grandezas são inversamente proporcionais quando o produto entre elas é constante: x · y = k. Se uma dobra, a outra cai pela metade. Exemplos típicos: velocidade e tempo para a mesma distância, vazão e tempo para encher o mesmo tanque, número de trabalhadores e prazo para a mesma obra no mesmo ritmo. Na regra de três composta, compare cada grandeza com a incógnita separadamente, imaginando as outras fixas. Um atalho confiável é calcular a quantidade por unidade combinada, como peças por máquina por hora.",
+   "flashcards": [
+    {
+     "frente": "O que caracteriza grandezas inversamente proporcionais?",
+     "verso": "O produto entre elas é constante: se uma dobra, a outra cai pela metade."
+    },
+    {
+     "frente": "A 60 km/h um trajeto leva 2 horas. Quanto tempo leva a 80 km/h?",
+     "verso": "1,5 hora. A distância é 120 km, e 120 ÷ 80 = 1,5."
+    },
+    {
+     "frente": "Na regra de três composta, como saber se cada grandeza é direta ou inversa?",
+     "verso": "Compara-se cada grandeza com a incógnita, mantendo as demais fixas."
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "me",
+     "enunciado": "Seis pedreiros constroem um muro em 10 dias. Trabalhando no mesmo ritmo, em quantos dias 4 pedreiros construiriam o mesmo muro?",
+     "alternativas": {
+      "A": "6",
+      "B": "12",
+      "C": "14",
+      "D": "15",
+      "E": "20"
+     },
+     "gabarito": "D",
+     "comentario": "O trabalho total é 6 × 10 = 60 pedreiro-dias. Com 4 pedreiros: 60 ÷ 4 = 15 dias. Menos trabalhadores, mais dias: relação inversa."
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma torneira com vazão de 12 litros por minuto enche um tanque em 25 minutos. Com vazão de 20 litros por minuto, o mesmo tanque fica cheio em",
+     "alternativas": {
+      "A": "12 minutos.",
+      "B": "15 minutos.",
+      "C": "18 minutos.",
+      "D": "20 minutos.",
+      "E": "41 minutos."
+     },
+     "gabarito": "B",
+     "comentario": "O tanque tem 12 × 25 = 300 litros. Com 20 L/min, leva 300 ÷ 20 = 15 minutos."
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Cinco máquinas iguais produzem 400 peças em 4 horas. Quantas peças 8 dessas máquinas produzem em 6 horas, no mesmo ritmo?",
+     "alternativas": {
+      "A": "640",
+      "B": "800",
+      "C": "960",
+      "D": "1.120",
+      "E": "1.200"
+     },
+     "gabarito": "C",
+     "comentario": "Cada máquina faz 400 ÷ (5 × 4) = 20 peças por hora. Então 8 máquinas em 6 horas fazem 8 × 6 × 20 = 960 peças. As duas grandezas (máquinas e horas) são diretas em relação à produção."
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma estudante planejou ler um livro em 12 dias, lendo 25 páginas por dia. Para terminar em 10 dias, quantas páginas por dia ela deve ler?",
+     "alternativas": {
+      "A": "27",
+      "B": "28",
+      "C": "29",
+      "D": "30",
+      "E": "32"
+     },
+     "gabarito": "D",
+     "comentario": "O livro tem 12 × 25 = 300 páginas. Em 10 dias: 300 ÷ 10 = 30 páginas por dia."
+    }
+   ]
+  },
+  {
+   "id": "mat-porcentagem",
+   "titulo": "Porcentagem e variações sucessivas",
+   "microconteudo": "Porcentagem é uma razão com denominador 100: 15% = 0,15. Para aplicar aumentos e descontos, use fatores: aumentar p% é multiplicar por (1 + p/100); descontar p% é multiplicar por (1 − p/100). Variações sucessivas se multiplicam, não se somam: dois aumentos de 10% dão 1,1 × 1,1 = 1,21, ou seja, 21%. Um aumento de 10% seguido de desconto de 10% resulta em 0,99 do valor inicial. A variação percentual é calculada sobre o valor antigo: (novo − antigo) ÷ antigo.",
+   "flashcards": [
+    {
+     "frente": "Qual é o fator de um aumento de 25%?",
+     "verso": "1,25."
+    },
+    {
+     "frente": "Dois aumentos sucessivos de 20% equivalem a qual aumento total?",
+     "verso": "44%, porque 1,2 × 1,2 = 1,44."
+    },
+    {
+     "frente": "Um preço caiu de R$ 80 para R$ 60. Qual a variação percentual?",
+     "verso": "Queda de 25%: 20 ÷ 80 = 0,25."
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "me",
+     "enunciado": "Um produto custava R$ 200,00. Sofreu aumento de 15% e, depois, desconto de 10% sobre o novo preço. O preço final é",
+     "alternativas": {
+      "A": "R$ 205,00.",
+      "B": "R$ 207,00.",
+      "C": "R$ 210,00.",
+      "D": "R$ 215,00.",
+      "E": "R$ 230,00."
+     },
+     "gabarito": "B",
+     "comentario": "200 × 1,15 = 230; 230 × 0,90 = 207. Somar 15% − 10% = 5% (R$ 210,00) é o erro mais comum: o desconto incide sobre o valor já aumentado."
+    },
+    {
+     "tipo": "me",
+     "enunciado": "A população de uma cidade passou de 50.000 para 56.000 habitantes. O crescimento percentual foi de",
+     "alternativas": {
+      "A": "6%.",
+      "B": "10,7%.",
+      "C": "12%.",
+      "D": "14%.",
+      "E": "16%."
+     },
+     "gabarito": "C",
+     "comentario": "Aumento de 6.000 sobre a base antiga de 50.000: 6.000 ÷ 50.000 = 0,12 = 12%. Dividir pelo valor novo (56.000) daria cerca de 10,7%, que é a armadilha."
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Um salário recebeu dois reajustes sucessivos de 10%. O aumento acumulado foi de",
+     "alternativas": {
+      "A": "19%.",
+      "B": "20%.",
+      "C": "20,5%.",
+      "D": "21%.",
+      "E": "22%."
+     },
+     "gabarito": "D",
+     "comentario": "1,10 × 1,10 = 1,21, ou seja, 21%. O segundo reajuste incide sobre o salário já reajustado."
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma loja dá 30% de desconto sobre um preço de R$ 150,00 e mais 10% para pagamento à vista, aplicado sobre o preço já descontado. Quem paga à vista desembolsa",
+     "alternativas": {
+      "A": "R$ 90,00.",
+      "B": "R$ 94,50.",
+      "C": "R$ 97,50.",
+      "D": "R$ 100,00.",
+      "E": "R$ 105,00."
+     },
+     "gabarito": "B",
+     "comentario": "150 × 0,70 = 105; 105 × 0,90 = 94,50. Os descontos são sucessivos, não um desconto único de 40% (que daria R$ 90,00)."
+    }
+   ]
+  },
+  {
+   "id": "mat-medidas-centrais",
+   "titulo": "Média, mediana e moda",
+   "microconteudo": "Média aritmética é a soma dos valores dividida pela quantidade de valores. Mediana é o valor central quando os dados estão em ordem; se a quantidade é par, é a média dos dois centrais. Moda é o valor que mais se repete. A média é puxada por valores extremos; a mediana não, por isso representa melhor dados com um valor muito fora do padrão, como salários. Na média ponderada, cada valor é multiplicado pelo seu peso e a soma é dividida pela soma dos pesos. Em tabelas de frequência, a frequência funciona como peso.",
+   "flashcards": [
+    {
+     "frente": "Qual é a mediana de 3, 9, 4 e 7?",
+     "verso": "5,5. Em ordem: 3, 4, 7, 9; média dos centrais (4 + 7) ÷ 2."
+    },
+    {
+     "frente": "Qual medida é menos afetada por um valor extremo?",
+     "verso": "A mediana."
+    },
+    {
+     "frente": "Nota 6 com peso 2 e nota 9 com peso 1. Qual a média ponderada?",
+     "verso": "7, porque (6 × 2 + 9 × 1) ÷ 3 = 21 ÷ 3."
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "me",
+     "enunciado": "Para o conjunto de dados 2, 3, 3, 5, 7 e 10, a média, a mediana e a moda são, respectivamente,",
+     "alternativas": {
+      "A": "5, 4 e 3.",
+      "B": "5, 3 e 4.",
+      "C": "4, 5 e 3.",
+      "D": "5, 4 e 10.",
+      "E": "3, 4 e 5."
+     },
+     "gabarito": "A",
+     "comentario": "Média: 30 ÷ 6 = 5. Mediana: com 6 valores, média dos centrais 3 e 5, ou seja, 4. Moda: 3, que aparece duas vezes."
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Cinco funcionários de uma empresa recebem R$ 2.000, R$ 2.000, R$ 2.500, R$ 3.000 e R$ 20.000. A medida que melhor representa o salário típico desse grupo é a",
+     "alternativas": {
+      "A": "média, de R$ 5.900.",
+      "B": "mediana, de R$ 2.500.",
+      "C": "moda, de R$ 3.000.",
+      "D": "média, de R$ 2.500.",
+      "E": "amplitude, de R$ 18.000."
+     },
+     "gabarito": "B",
+     "comentario": "O salário de R$ 20.000 puxa a média para R$ 5.900 (29.500 ÷ 5), valor que quatro dos cinco não chegam perto de receber. A mediana, R$ 2.500, não é afetada pelo extremo. A moda é R$ 2.000, não R$ 3.000."
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Um aluno tirou 5, 7 e 8 em três provas de mesmo peso. Que nota ele precisa na quarta prova para ficar com média 7?",
+     "alternativas": {
+      "A": "6",
+      "B": "7",
+      "C": "7,5",
+      "D": "8",
+      "E": "9"
+     },
+     "gabarito": "D",
+     "comentario": "Média 7 em 4 provas exige soma 28. Ele já tem 5 + 7 + 8 = 20, então precisa de 28 − 20 = 8."
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Em uma pesquisa com 20 famílias, 4 não têm filhos, 6 têm 1 filho, 8 têm 2 filhos e 2 têm 3 filhos. A média de filhos por família é",
+     "alternativas": {
+      "A": "0,7.",
+      "B": "1,0.",
+      "C": "1,2.",
+      "D": "1,3.",
+      "E": "1,4."
+     },
+     "gabarito": "E",
+     "comentario": "Total de filhos: 0 × 4 + 1 × 6 + 2 × 8 + 3 × 2 = 28. Média: 28 ÷ 20 = 1,4. A frequência funciona como peso."
+    }
+   ]
+  },
+  {
+   "id": "mat-probabilidade",
+   "titulo": "Probabilidade",
+   "microconteudo": "Quando todos os resultados são igualmente prováveis, a probabilidade de um evento é o número de casos favoráveis dividido pelo número de casos possíveis. A probabilidade de um evento não ocorrer é 1 menos a probabilidade de ele ocorrer (evento complementar). Para eventos independentes, a chance de ambos acontecerem é o produto das probabilidades. Perguntas com 'pelo menos um' quase sempre ficam mais fáceis pelo complementar: calcule a chance de nenhum acontecer e subtraia de 1. Se o enunciado já informa um grupo ('sorteia-se uma menina'), esse grupo passa a ser o total de casos possíveis.",
+   "flashcards": [
+    {
+     "frente": "Qual a probabilidade de sair número par em um dado comum?",
+     "verso": "1/2: são 3 pares (2, 4, 6) em 6 faces."
+    },
+    {
+     "frente": "Ao lançar duas moedas, qual a probabilidade de duas caras?",
+     "verso": "1/4, porque 1/2 × 1/2."
+    },
+    {
+     "frente": "Como calcular 'pelo menos uma cara' em 3 lançamentos de moeda?",
+     "verso": "Pelo complementar: 1 − (1/2)³ = 7/8."
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "me",
+     "enunciado": "Uma urna tem 5 bolas vermelhas, 3 azuis e 2 verdes, todas iguais exceto na cor. Retirando-se uma bola ao acaso, a probabilidade de ela ser azul é",
+     "alternativas": {
+      "A": "1/5",
+      "B": "3/10",
+      "C": "1/3",
+      "D": "2/5",
+      "E": "1/2"
+     },
+     "gabarito": "B",
+     "comentario": "São 3 bolas azuis em um total de 5 + 3 + 2 = 10 bolas: 3/10."
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Ao lançar dois dados comuns, a probabilidade de a soma dos resultados ser 7 é",
+     "alternativas": {
+      "A": "1/6",
+      "B": "1/12",
+      "C": "1/9",
+      "D": "7/36",
+      "E": "1/4"
+     },
+     "gabarito": "A",
+     "comentario": "Há 36 resultados possíveis. Somam 7: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1), ou seja, 6 casos. 6/36 = 1/6."
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Em certa cidade, a probabilidade de chover em um dia é 0,3, independentemente dos outros dias. A probabilidade de chover em pelo menos um de dois dias seguidos é",
+     "alternativas": {
+      "A": "0,09",
+      "B": "0,40",
+      "C": "0,49",
+      "D": "0,51",
+      "E": "0,60"
+     },
+     "gabarito": "D",
+     "comentario": "Pelo complementar: a chance de não chover em nenhum dos dois dias é 0,7 × 0,7 = 0,49. Logo, chover em pelo menos um é 1 − 0,49 = 0,51. Somar 0,3 + 0,3 = 0,60 conta duas vezes o caso de chover nos dois dias."
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma turma tem 40 alunos, dos quais 24 são meninas. Entre as meninas, 10 usam óculos. Sorteando-se uma menina da turma, a probabilidade de ela usar óculos é",
+     "alternativas": {
+      "A": "1/4",
+      "B": "1/3",
+      "C": "5/12",
+      "D": "1/2",
+      "E": "3/5"
+     },
+     "gabarito": "C",
+     "comentario": "O sorteio é entre as meninas, então o total de casos possíveis é 24, não 40. Probabilidade: 10/24 = 5/12. Usar 10/40 = 1/4 é o erro de não restringir ao grupo informado."
+    }
+   ]
+  },
+  {
+   "id": "mat-tabelas-graficos",
+   "titulo": "Leitura de tabelas e gráficos",
+   "microconteudo": "Antes de calcular, leia o título, a unidade (mil, milhões, %), a fonte e a escala dos eixos. Diferencie valor absoluto (quantidade) de valor relativo (percentual em relação a um total): quem tem mais casos pode ter a menor taxa. Para comparar períodos, calcule a variação (diferença) e, se pedido, a variação percentual sobre o valor anterior. Desconfie de eixos que não começam em zero: eles aumentam visualmente diferenças pequenas. No ENEM, muitas alternativas erradas vêm de ler o período errado ou de dividir pela base errada.",
+   "flashcards": [
+    {
+     "frente": "Qual o primeiro passo ao ler um gráfico?",
+     "verso": "Ler título, unidade e escala dos eixos (e a fonte)."
+    },
+    {
+     "frente": "Por que um eixo vertical que começa em 90, e não em 0, pode enganar?",
+     "verso": "Porque exagera visualmente diferenças pequenas."
+    },
+    {
+     "frente": "Qual a diferença entre valor absoluto e percentual?",
+     "verso": "Absoluto é a quantidade; percentual compara essa quantidade com um total."
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "me",
+     "enunciado": "Uma loja vendeu, em unidades: janeiro, 120; fevereiro, 150; março, 90; abril, 180. O maior aumento de vendas em relação ao mês anterior ocorreu em",
+     "alternativas": {
+      "A": "janeiro.",
+      "B": "fevereiro.",
+      "C": "abril.",
+      "D": "março.",
+      "E": "fevereiro e abril, empatados."
+     },
+     "gabarito": "C",
+     "comentario": "Variações: fevereiro +30 (150 − 120), março −60, abril +90 (180 − 90). O maior aumento foi em abril. Janeiro não tem mês anterior na tabela."
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Com os dados da loja (120, 150, 90 e 180 unidades de janeiro a abril), a média mensal de vendas foi de",
+     "alternativas": {
+      "A": "130 unidades.",
+      "B": "135 unidades.",
+      "C": "140 unidades.",
+      "D": "145 unidades.",
+      "E": "150 unidades."
+     },
+     "gabarito": "B",
+     "comentario": "Soma: 120 + 150 + 90 + 180 = 540. Média: 540 ÷ 4 = 135 unidades."
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Ainda com os dados da loja, a variação percentual das vendas de março (90) para abril (180) foi de",
+     "alternativas": {
+      "A": "45%.",
+      "B": "50%.",
+      "C": "90%.",
+      "D": "100%.",
+      "E": "200%."
+     },
+     "gabarito": "D",
+     "comentario": "(180 − 90) ÷ 90 = 1 = 100%: as vendas dobraram. Dividir pelo valor novo daria 50%, e confundir com a razão 180/90 levaria a 200%."
+    },
+    {
+     "tipo": "me",
+     "enunciado": "A escola A tem 300 alunos, dos quais 60 foram aprovados em um vestibular; a escola B tem 120 alunos, com 36 aprovados. Sobre a taxa de aprovação, conclui-se que",
+     "alternativas": {
+      "A": "a escola A teve a maior taxa, pois aprovou mais alunos.",
+      "B": "a escola B teve a maior taxa: 30% contra 20% da escola A.",
+      "C": "as taxas são iguais.",
+      "D": "a escola A teve a maior taxa: 30% contra 20%.",
+      "E": "não é possível comparar escolas de tamanhos diferentes."
+     },
+     "gabarito": "B",
+     "comentario": "Taxas: A = 60 ÷ 300 = 20%; B = 36 ÷ 120 = 30%. A escola A aprovou mais em número absoluto, mas a B aprovou proporcionalmente mais. Percentuais existem justamente para comparar grupos de tamanhos diferentes."
+    }
+   ]
+  },
+  {
+   "id": "red-competencia-5",
+   "titulo": "Proposta de intervenção: os cinco elementos",
+   "microconteudo": "A Competência V avalia a proposta de intervenção para o problema discutido, que deve respeitar os direitos humanos. A proposta completa traz cinco elementos: ação (o que fazer), agente (quem faz), modo ou meio (como fazer), efeito ou finalidade (para quê) e detalhamento (uma informação a mais sobre qualquer um dos outros). A proposta precisa estar ligada ao problema que o texto desenvolveu, não a um tema genérico. Proposta que desrespeita os direitos humanos, por exemplo incitando violência, recebe nota zero nesta competência. Fonte: INEP, A Redação do Enem — Cartilha do Participante.",
+   "atualizado_em": "2026-11-23 (Cartilha do Participante do INEP)",
+   "flashcards": [
+    {
+     "frente": "Quais são os cinco elementos da proposta de intervenção?",
+     "verso": "Ação, agente, modo ou meio, efeito ou finalidade e detalhamento."
+    },
+    {
+     "frente": "Qual pergunta identifica o agente?",
+     "verso": "Quem vai executar a ação?"
+    },
+    {
+     "frente": "O que acontece se a proposta desrespeitar os direitos humanos?",
+     "verso": "A Competência V recebe nota zero."
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "me",
+     "enunciado": "No trecho 'o Ministério da Educação deve criar campanhas nas escolas, por meio de palestras com psicólogos, a fim de reduzir o cyberbullying', o elemento 'por meio de palestras com psicólogos' corresponde ao",
+     "alternativas": {
+      "A": "modo ou meio.",
+      "B": "agente.",
+      "C": "efeito.",
+      "D": "detalhamento do agente.",
+      "E": "tema."
+     },
+     "gabarito": "A",
+     "comentario": "'Por meio de' introduz como a ação será executada: é o modo ou meio. O agente é o Ministério da Educação, a ação é criar campanhas e a finalidade é reduzir o cyberbullying."
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma proposta afirma apenas: 'É preciso que todos se conscientizem para resolver o problema'. A principal deficiência dela é",
+     "alternativas": {
+      "A": "desrespeitar os direitos humanos.",
+      "B": "não ter relação com qualquer tema.",
+      "C": "ser vaga: não indica com clareza agente, meio e finalidade da ação.",
+      "D": "usar linguagem informal.",
+      "E": "apresentar detalhamento excessivo."
+     },
+     "gabarito": "C",
+     "comentario": "A frase não diz quem fará o quê, como e para quê. Falta concretude, o que a Competência V pede. Não há ofensa a direitos humanos nem informalidade."
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Entre as propostas abaixo, a que receberia nota zero na Competência V é a que",
+     "alternativas": {
+      "A": "propõe ampliar o transporte público noturno por meio de parcerias com prefeituras.",
+      "B": "sugere campanhas educativas em escolas, coordenadas pelas secretarias de educação.",
+      "C": "defende que a população faça justiça com as próprias mãos contra suspeitos de crimes.",
+      "D": "recomenda ao Congresso aprovar lei de incentivo à leitura.",
+      "E": "propõe que ONGs ofereçam cursos gratuitos de capacitação digital."
+     },
+     "gabarito": "C",
+     "comentario": "Incitar a população a 'fazer justiça com as próprias mãos' é incitação à violência, exemplo de desrespeito aos direitos humanos. Pela regra do INEP, isso zera a Competência V."
+    },
+    {
+     "tipo": "me",
+     "enunciado": "No trecho 'o Governo Federal, órgão responsável pelas políticas de saúde, deve ampliar o atendimento psicológico gratuito', a expressão 'órgão responsável pelas políticas de saúde' cumpre o papel de",
+     "alternativas": {
+      "A": "ação.",
+      "B": "detalhamento do agente.",
+      "C": "efeito.",
+      "D": "modo ou meio.",
+      "E": "finalidade."
+     },
+     "gabarito": "B",
+     "comentario": "A expressão acrescenta uma informação sobre quem age (o Governo Federal). Uma informação a mais sobre qualquer elemento conta como detalhamento."
+    }
+   ]
+  }
+ ]
+}

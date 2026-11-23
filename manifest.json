@@ -1,0 +1,27 @@
+{
+ "conteudo": {
+  "conteudo/banco/cf-arts1a17.json": 2,
+  "conteudo/banco/enem-piloto.json": 1,
+  "conteudo/mapas/enam-2026.2.json": 1,
+  "conteudo/mapas/enem-matriz.json": 1,
+  "conteudo/mapas/magistratura-tjrs-2026.json": 1,
+  "editais/_indice.json": 1,
+  "editais/enam-2026.2.json": 1,
+  "editais/enem-matriz.json": 1,
+  "editais/inss-tecnico-seguro-social.json": 1,
+  "editais/magistratura-tjrs-2026.json": 1,
+  "editais/oab-1-fase.json": 1,
+  "editais/pcro-2022-agente-escrivao.json": 1,
+  "editais/pf-ou-prf.json": 1,
+  "editais/pre-edital-caso.json": 1,
+  "editais/tjro-tecnico-analista.json": 1
+ },
+ "app": {
+  "android": {
+   "build": 3,
+   "versao": "1.1.0",
+   "url": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-3.apk",
+   "notas": "Lições com flashcards e questões, revisão espaçada e atualização automática."
+  }
+ }
+}

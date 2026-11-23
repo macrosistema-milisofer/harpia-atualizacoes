@@ -1,0 +1,2648 @@
+{
+ "assunto": "Direito Constitucional — CF/88, arts. 1º a 17",
+ "fonte": "Constituição da República Federativa do Brasil de 1988, texto compilado consultado em 2026-11-23 no Portal da Legislação da Presidência da República (Planalto): https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm. Dispositivos dos arts. 1º a 17 conferidos na compilação vigente na data, inclusive alterações das ECs 131/2023 (art. 12) e 141/2026 (art. 7º).",
+ "atualizado_em": "2026-11-23 (texto compilado do Planalto; art. 7º conferido após a EC 141/2026)",
+ "origem": "ChatGPT C-02 v9, revisado e corrigido pelo Claude em 2026-11-23",
+ "licoes": [
+  {
+   "id": "u1l1",
+   "titulo": "Fundamentos da República",
+   "microconteudo": "A Constituição define o Brasil como Estado Democrático de Direito e enumera cinco fundamentos: soberania, cidadania, dignidade da pessoa humana, valores sociais do trabalho e da livre iniciativa e pluralismo político. O poder emana do povo, que o exerce por representantes eleitos ou diretamente, nos termos constitucionais.",
+   "flashcards": [
+    {
+     "frente": "Como a Constituição qualifica a República Federativa do Brasil?",
+     "verso": "Estado Democrático de Direito, formada pela união indissolúvel dos Estados, Municípios e Distrito Federal.",
+     "dispositivo": "CF, art. 1º, caput"
+    },
+    {
+     "frente": "Quais são os fundamentos ligados à pessoa e à organização política?",
+     "verso": "Cidadania, dignidade da pessoa humana e pluralismo político.",
+     "dispositivo": "CF, art. 1º, II, III e V"
+    },
+    {
+     "frente": "Como o povo exerce o poder?",
+     "verso": "Por representantes eleitos ou diretamente, nos termos da Constituição.",
+     "dispositivo": "CF, art. 1º, parágrafo único"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A dignidade da pessoa humana figura entre os fundamentos da República.",
+     "gabarito": "C",
+     "comentario": "Certo. A dignidade da pessoa humana figura entre os fundamentos da República (CF, art. 1º, III).",
+     "dispositivo": "CF, art. 1º, III"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição prevê exercício do poder pelo povo por representantes eleitos ou diretamente.",
+     "gabarito": "C",
+     "comentario": "Certo. A Constituição prevê exercício do poder pelo povo por representantes eleitos ou diretamente (CF, art. 1º, parágrafo único).",
+     "dispositivo": "CF, art. 1º, parágrafo único"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição enumera a religião oficial como fundamento da República.",
+     "gabarito": "E",
+     "comentario": "A religião oficial não integra os fundamentos constitucionais; o art. 1º enumera soberania, cidadania, dignidade da pessoa humana, valores sociais do trabalho e da livre iniciativa e pluralismo político (CF, art. 1º, I a V).",
+     "dispositivo": "CF, art. 1º, I a V"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O parágrafo único atribui a titularidade originária do poder a autoridades nomeadas.",
+     "gabarito": "E",
+     "comentario": "A titularidade do poder é do povo, que o exerce por representantes eleitos ou diretamente nos termos constitucionais, e não de autoridades nomeadas (CF, art. 1º, parágrafo único).",
+     "dispositivo": "CF, art. 1º, parágrafo único"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual alternativa reúne apenas fundamentos do art. 1º?",
+     "alternativas": {
+      "A": "Soberania, cidadania e dignidade da pessoa humana.",
+      "B": "Separação dos Poderes, defesa da paz e garantia do desenvolvimento.",
+      "C": "Erradicação da pobreza, pluralismo religioso e livre concorrência.",
+      "D": "Legalidade, eficiência e publicidade.",
+      "E": "Independência nacional, não intervenção e igualdade entre Estados."
+     },
+     "gabarito": "A",
+     "comentario": "A alternativa A é correta: Soberania, cidadania e dignidade da pessoa humana. Base legal: CF, art. 1º, I.",
+     "dispositivo": "CF, art. 1º, I"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Segundo o parágrafo único do art. 1º, o poder emana do povo e é exercido:",
+     "alternativas": {
+      "A": "exclusivamente pelo Congresso Nacional.",
+      "B": "por representantes eleitos ou diretamente, nos termos da Constituição.",
+      "C": "somente por plebiscito.",
+      "D": "por órgãos internacionais e representantes eleitos.",
+      "E": "diretamente, sem possibilidade de representação."
+     },
+     "gabarito": "B",
+     "comentario": "A alternativa B é correta: por representantes eleitos ou diretamente, nos termos da Constituição. Base legal: CF, art. 1º, parágrafo único.",
+     "dispositivo": "CF, art. 1º, parágrafo único"
+    }
+   ]
+  },
+  {
+   "id": "u1l2",
+   "titulo": "Separação dos Poderes",
+   "microconteudo": "Legislativo, Executivo e Judiciário são Poderes da União. A Constituição os declara independentes e harmônicos entre si, combinando autonomia institucional com convivência coordenada.",
+   "flashcards": [
+    {
+     "frente": "Quais são os Poderes da União?",
+     "verso": "Legislativo, Executivo e Judiciário.",
+     "dispositivo": "CF, art. 2º"
+    },
+    {
+     "frente": "Como se relacionam os Poderes?",
+     "verso": "São independentes e harmônicos entre si.",
+     "dispositivo": "CF, art. 2º"
+    },
+    {
+     "frente": "O art. 2º se refere a Poderes da União ou a órgãos subordinados entre si?",
+     "verso": "A Poderes da União, sem relação constitucional de subordinação entre eles.",
+     "dispositivo": "CF, art. 2º"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição identifica Legislativo, Executivo e Judiciário como Poderes da União.",
+     "gabarito": "C",
+     "comentario": "Certo. A Constituição identifica Legislativo, Executivo e Judiciário como Poderes da União (CF, art. 2º).",
+     "dispositivo": "CF, art. 2º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A independência dos Poderes aparece acompanhada da exigência de harmonia entre eles.",
+     "gabarito": "C",
+     "comentario": "Certo. A independência dos Poderes aparece acompanhada da exigência de harmonia entre eles (CF, art. 2º).",
+     "dispositivo": "CF, art. 2º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O art. 2º qualifica os Poderes como hierarquicamente subordinados ao Executivo.",
+     "gabarito": "E",
+     "comentario": "O art. 2º estabelece que Legislativo, Executivo e Judiciário são independentes e harmônicos entre si; não prevê subordinação hierárquica ao Executivo (CF, art. 2º).",
+     "dispositivo": "CF, art. 2º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A harmonia prevista no art. 2º elimina a independência dos Poderes.",
+     "gabarito": "E",
+     "comentario": "A harmonia convive com a independência dos Poderes, ambas expressamente previstas no art. 2º (CF, art. 2º).",
+     "dispositivo": "CF, art. 2º"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual frase corresponde ao art. 2º?",
+     "alternativas": {
+      "A": "O Executivo é superior aos demais Poderes.",
+      "B": "O Judiciário exerce a direção administrativa dos outros Poderes.",
+      "C": "São Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário.",
+      "D": "Os Poderes são independentes, mas não devem atuar harmonicamente.",
+      "E": "A União possui apenas dois Poderes."
+     },
+     "gabarito": "C",
+     "comentario": "A alternativa C é correta: São Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário. Base legal: CF, art. 2º.",
+     "dispositivo": "CF, art. 2º"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "A fórmula constitucional de separação dos Poderes combina:",
+     "alternativas": {
+      "A": "subordinação do Legislativo ao Judiciário.",
+      "B": "harmonia com concentração das funções no Executivo.",
+      "C": "independência apenas dos Poderes estaduais.",
+      "D": "independência e harmonia entre Legislativo, Executivo e Judiciário.",
+      "E": "alternância obrigatória das funções entre os Poderes."
+     },
+     "gabarito": "D",
+     "comentario": "A alternativa D é correta: independência e harmonia entre Legislativo, Executivo e Judiciário. Base legal: CF, art. 2º.",
+     "dispositivo": "CF, art. 2º"
+    }
+   ]
+  },
+  {
+   "id": "u1l3",
+   "titulo": "Objetivos fundamentais da República",
+   "microconteudo": "O art. 3º reúne objetivos que orientam a atuação estatal: construir uma sociedade livre, justa e solidária, garantir o desenvolvimento nacional, reduzir pobreza e desigualdades e promover o bem de todos sem preconceitos. São objetivos constitucionais, não fundamentos do art. 1º.",
+   "flashcards": [
+    {
+     "frente": "Que objetivo o inciso I estabelece?",
+     "verso": "Construir uma sociedade livre, justa e solidária.",
+     "dispositivo": "CF, art. 3º, I"
+    },
+    {
+     "frente": "O que prevê o inciso III em relação à pobreza e às desigualdades?",
+     "verso": "Erradicar a pobreza e a marginalização e reduzir desigualdades sociais e regionais.",
+     "dispositivo": "CF, art. 3º, III"
+    },
+    {
+     "frente": "Como deve ser promovido o bem de todos?",
+     "verso": "Sem preconceitos de origem, raça, sexo, cor, idade ou outras formas de discriminação.",
+     "dispositivo": "CF, art. 3º, IV"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "Garantir o desenvolvimento nacional é objetivo fundamental da República.",
+     "gabarito": "C",
+     "comentario": "Certo. Garantir o desenvolvimento nacional é objetivo fundamental da República (CF, art. 3º, II).",
+     "dispositivo": "CF, art. 3º, II"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O inciso III menciona desigualdades sociais e regionais.",
+     "gabarito": "C",
+     "comentario": "Certo. O inciso III menciona desigualdades sociais e regionais (CF, art. 3º, III).",
+     "dispositivo": "CF, art. 3º, III"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O art. 3º lista a soberania e a cidadania como objetivos fundamentais.",
+     "gabarito": "E",
+     "comentario": "Soberania e cidadania são fundamentos do art. 1º; os objetivos do art. 3º incluem sociedade livre, justa e solidária, desenvolvimento nacional, redução das desigualdades e promoção do bem de todos (CF, arts. 1º e 3º).",
+     "dispositivo": "CF, arts. 1º e 3º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A promoção do bem de todos admite preconceitos quando baseados em idade.",
+     "gabarito": "E",
+     "comentario": "O objetivo constitucional é promover o bem de todos sem preconceito de idade nem outras formas de discriminação (CF, art. 3º, IV).",
+     "dispositivo": "CF, art. 3º, IV"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual opção contém objetivo fundamental do art. 3º?",
+     "alternativas": {
+      "A": "Conceder asilo político.",
+      "B": "Assegurar a propriedade como direito individual.",
+      "C": "Manter os Poderes da União independentes.",
+      "D": "Garantir a livre associação sindical.",
+      "E": "Erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais."
+     },
+     "gabarito": "E",
+     "comentario": "A alternativa E é correta: Erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais. Base legal: CF, art. 3º, III.",
+     "dispositivo": "CF, art. 3º, III"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "A diferença central entre os arts. 1º e 3º é que:",
+     "alternativas": {
+      "A": "o art. 1º enumera fundamentos e o art. 3º enuncia objetivos fundamentais.",
+      "B": "ambos enumeram apenas direitos individuais.",
+      "C": "o art. 3º trata dos Poderes e o art. 1º da ordem econômica.",
+      "D": "o art. 1º contém objetivos e o art. 3º, fundamentos.",
+      "E": "o art. 3º regula exclusivamente relações internacionais."
+     },
+     "gabarito": "A",
+     "comentario": "A alternativa A é correta: o art. 1º enumera fundamentos e o art. 3º enuncia objetivos fundamentais. Base legal: CF, arts. 1º e 3º.",
+     "dispositivo": "CF, arts. 1º e 3º"
+    }
+   ]
+  },
+  {
+   "id": "u1l4",
+   "titulo": "Princípios das relações internacionais",
+   "microconteudo": "O Brasil rege suas relações internacionais por princípios como independência nacional, prevalência dos direitos humanos, autodeterminação dos povos, não intervenção e igualdade entre os Estados. O artigo também prevê repúdio ao racismo e ao terrorismo, solução pacífica dos conflitos e concessão de asilo político. A integração latino-americana é uma diretriz do parágrafo único.",
+   "flashcards": [
+    {
+     "frente": "Qual princípio internacional trata da escolha política de cada povo?",
+     "verso": "Autodeterminação dos povos.",
+     "dispositivo": "CF, art. 4º, III"
+    },
+    {
+     "frente": "Que orientação o parágrafo único estabelece para os povos da América Latina?",
+     "verso": "Buscar integração econômica, política, social e cultural para formar uma comunidade latino-americana de nações.",
+     "dispositivo": "CF, art. 4º, parágrafo único"
+    },
+    {
+     "frente": "O asilo político é fundamento do art. 1º ou princípio do art. 4º?",
+     "verso": "É princípio que rege as relações internacionais do Brasil.",
+     "dispositivo": "CF, art. 4º, X"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A prevalência dos direitos humanos consta entre os princípios das relações internacionais.",
+     "gabarito": "C",
+     "comentario": "Certo. A prevalência dos direitos humanos consta entre os princípios das relações internacionais (CF, art. 4º, II).",
+     "dispositivo": "CF, art. 4º, II"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição determina o repúdio ao terrorismo e ao racismo nas relações internacionais.",
+     "gabarito": "C",
+     "comentario": "Certo. A Constituição determina o repúdio ao terrorismo e ao racismo nas relações internacionais (CF, art. 4º, VIII).",
+     "dispositivo": "CF, art. 4º, VIII"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A intervenção obrigatória nos assuntos internos de outros Estados é princípio do art. 4º.",
+     "gabarito": "E",
+     "comentario": "O princípio aplicável é a não intervenção nas relações internacionais, ao lado dos demais princípios enumerados no art. 4º (CF, art. 4º, IV).",
+     "dispositivo": "CF, art. 4º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O parágrafo único do art. 4º trata de integração de todos os continentes em uma única comunidade.",
+     "gabarito": "E",
+     "comentario": "O parágrafo único prevê a integração dos povos da América Latina para formar uma comunidade latino-americana de nações (CF, art. 4º, parágrafo único).",
+     "dispositivo": "CF, art. 4º, parágrafo único"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual alternativa traz princípio do art. 4º?",
+     "alternativas": {
+      "A": "Dignidade da pessoa humana.",
+      "B": "Prevalência dos direitos humanos.",
+      "C": "Pluralismo político.",
+      "D": "Garantia do desenvolvimento nacional.",
+      "E": "Separação dos Poderes."
+     },
+     "gabarito": "B",
+     "comentario": "A alternativa B é correta: Prevalência dos direitos humanos. Base legal: CF, art. 4º, II.",
+     "dispositivo": "CF, art. 4º, II"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "A política constitucional de integração regional dirige-se especialmente:",
+     "alternativas": {
+      "A": "a todos os Estados, somente para fins militares.",
+      "B": "aos países europeus, em dimensão exclusivamente econômica.",
+      "C": "aos povos da América Latina, em dimensões econômica, política, social e cultural.",
+      "D": "aos Municípios brasileiros, para formar federação independente.",
+      "E": "à integração judicial obrigatória dos países do Mercosul."
+     },
+     "gabarito": "C",
+     "comentario": "A alternativa C é correta: aos povos da América Latina, em dimensões econômica, política, social e cultural. Base legal: CF, art. 4º, parágrafo único.",
+     "dispositivo": "CF, art. 4º, parágrafo único"
+    }
+   ]
+  },
+  {
+   "id": "u1l5",
+   "titulo": "Igualdade e direitos individuais",
+   "microconteudo": "O caput do art. 5º declara a igualdade perante a lei e protege vida, liberdade, igualdade, segurança e propriedade. A regra alcança brasileiros e estrangeiros residentes no País, conforme o texto constitucional. Os incisos I e II tratam, respectivamente, da igualdade de direitos e obrigações entre homens e mulheres e da legalidade.",
+   "flashcards": [
+    {
+     "frente": "Quais direitos o caput enumera como invioláveis?",
+     "verso": "Vida, liberdade, igualdade, segurança e propriedade.",
+     "dispositivo": "CF, art. 5º, caput"
+    },
+    {
+     "frente": "O que o inciso I estabelece para homens e mulheres?",
+     "verso": "Igualdade em direitos e obrigações, nos termos da Constituição.",
+     "dispositivo": "CF, art. 5º, I"
+    },
+    {
+     "frente": "Qual é a regra de legalidade do inciso II?",
+     "verso": "Ninguém será obrigado a fazer ou deixar de fazer algo senão em virtude de lei.",
+     "dispositivo": "CF, art. 5º, II"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "O caput do art. 5º afirma que todos são iguais perante a lei.",
+     "gabarito": "C",
+     "comentario": "Certo. O caput do art. 5º afirma que todos são iguais perante a lei (CF, art. 5º, caput).",
+     "dispositivo": "CF, art. 5º, caput"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O inciso II prevê que obrigações devem decorrer de lei.",
+     "gabarito": "C",
+     "comentario": "Certo. O inciso II prevê que obrigações devem decorrer de lei (CF, art. 5º, II).",
+     "dispositivo": "CF, art. 5º, II"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O inciso I determina que homens e mulheres tenham apenas direitos iguais, sem igualdade de obrigações.",
+     "gabarito": "E",
+     "comentario": "Homens e mulheres são iguais em direitos e obrigações, nos termos da Constituição (CF, art. 5º, I).",
+     "dispositivo": "CF, art. 5º, I"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A igualdade perante a lei é mencionada somente para brasileiros natos.",
+     "gabarito": "E",
+     "comentario": "O caput garante igualdade perante a lei a todos e assegura direitos fundamentais aos brasileiros e aos estrangeiros residentes no País (CF, art. 5º, caput).",
+     "dispositivo": "CF, art. 5º, caput"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Quais direitos aparecem expressamente no caput do art. 5º?",
+     "alternativas": {
+      "A": "Saúde, educação, moradia, transporte e lazer.",
+      "B": "Soberania, cidadania, pluralismo, trabalho e livre iniciativa.",
+      "C": "Petição, certidões, herança e propriedade industrial.",
+      "D": "Vida, liberdade, igualdade, segurança e propriedade.",
+      "E": "Nacionalidade, voto, associação e greve."
+     },
+     "gabarito": "D",
+     "comentario": "A alternativa D é correta: Vida, liberdade, igualdade, segurança e propriedade. Base legal: CF, art. 5º, caput.",
+     "dispositivo": "CF, art. 5º, caput"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma obrigação dirigida a qualquer pessoa encontra no inciso II a seguinte baliza:",
+     "alternativas": {
+      "A": "pode decorrer apenas de ordem verbal de agente público.",
+      "B": "é válida quando baseada em costume administrativo.",
+      "C": "só exige lei para servidores públicos.",
+      "D": "depende de autorização judicial em todos os casos.",
+      "E": "deve ser instituída em virtude de lei."
+     },
+     "gabarito": "E",
+     "comentario": "A alternativa E é correta: deve ser instituída em virtude de lei. Base legal: CF, art. 5º, II.",
+     "dispositivo": "CF, art. 5º, II"
+    }
+   ]
+  },
+  {
+   "id": "u1l6",
+   "titulo": "Liberdades de consciência e expressão",
+   "microconteudo": "Os incisos III a IX protegem a integridade contra tortura e tratamento degradante, manifestação do pensamento sem anonimato, resposta proporcional, crença e culto, expressão intelectual, artística, científica e de comunicação sem censura ou licença. Também disciplinam assistência religiosa em internação coletiva e a objeção de consciência com prestação alternativa prevista em lei.",
+   "flashcards": [
+    {
+     "frente": "O que o inciso III proíbe?",
+     "verso": "Submeter alguém a tortura ou a tratamento desumano ou degradante.",
+     "dispositivo": "CF, art. 5º, III"
+    },
+    {
+     "frente": "Que condição acompanha a liberdade de manifestação do pensamento?",
+     "verso": "É vedado o anonimato.",
+     "dispositivo": "CF, art. 5º, IV"
+    },
+    {
+     "frente": "Quando a objeção de consciência pode levar à privação de direitos?",
+     "verso": "Quando invocada para escapar de obrigação legal geral e a pessoa também recusa prestação alternativa fixada em lei.",
+     "dispositivo": "CF, art. 5º, VIII"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A expressão intelectual, artística, científica e de comunicação é livre independentemente de censura ou licença.",
+     "gabarito": "C",
+     "comentario": "Certo. A expressão intelectual, artística, científica e de comunicação é livre independentemente de censura ou licença (CF, art. 5º, IX).",
+     "dispositivo": "CF, art. 5º, IX"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A assistência religiosa é prevista em entidades civis e militares de internação coletiva.",
+     "gabarito": "C",
+     "comentario": "Certo. A assistência religiosa é prevista em entidades civis e militares de internação coletiva (CF, art. 5º, VII).",
+     "dispositivo": "CF, art. 5º, VII"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O inciso IV permite manifestação anônima como regra constitucional.",
+     "gabarito": "E",
+     "comentario": "A manifestação do pensamento é livre, mas o anonimato é vedado (CF, art. 5º, IV).",
+     "dispositivo": "CF, art. 5º, IV"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A mera invocação de convicção, mesmo sem recusa de prestação alternativa, basta para a exceção do inciso VIII.",
+     "gabarito": "E",
+     "comentario": "A exceção exige que a pessoa invoque convicção para se eximir de obrigação legal e também recuse a prestação alternativa fixada em lei (CF, art. 5º, VIII).",
+     "dispositivo": "CF, art. 5º, VIII"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual alternativa reúne garantias dos incisos IV e V?",
+     "alternativas": {
+      "A": "Manifestação do pensamento vedado o anonimato e resposta proporcional ao agravo, além de indenização.",
+      "B": "Manifestação somente após licença e resposta fixada pelo ofensor.",
+      "C": "Anonimato garantido e indenização apenas por dano material.",
+      "D": "Censura livre e resposta sem relação com o agravo.",
+      "E": "Liberdade de expressão limitada à atividade artística."
+     },
+     "gabarito": "A",
+     "comentario": "A alternativa A é correta: Manifestação do pensamento vedado o anonimato e resposta proporcional ao agravo, além de indenização. Base legal: CF, art. 5º, IV e V.",
+     "dispositivo": "CF, art. 5º, IV e V"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "A prestação alternativa no inciso VIII está relacionada:",
+     "alternativas": {
+      "A": "à liberdade de culto do inciso VI, sempre sem previsão legal.",
+      "B": "à invocação de crença ou convicção para eximir-se de obrigação legal geral, nas condições do texto.",
+      "C": "à manifestação anônima do inciso IV.",
+      "D": "ao acesso à informação do inciso XIV.",
+      "E": "à reunião pública do inciso XVI."
+     },
+     "gabarito": "B",
+     "comentario": "A alternativa B é correta: à invocação de crença ou convicção para eximir-se de obrigação legal geral, nas condições do texto. Base legal: CF, art. 5º, VIII.",
+     "dispositivo": "CF, art. 5º, VIII"
+    }
+   ]
+  },
+  {
+   "id": "u1l7",
+   "titulo": "Intimidade, casa, sigilos e profissão",
+   "microconteudo": "O art. 5º protege intimidade, vida privada, honra e imagem, além da inviolabilidade da casa e de sigilos de comunicação. A entrada domiciliar sem consentimento tem exceções textuais, incluindo flagrante delito, desastre, socorro e, durante o dia, ordem judicial. O texto também assegura exercício profissional, observadas qualificações que a lei estabelecer, e acesso à informação com proteção do sigilo da fonte quando necessário ao exercício profissional.",
+   "flashcards": [
+    {
+     "frente": "Quais direitos da personalidade são listados no inciso X?",
+     "verso": "Intimidade, vida privada, honra e imagem.",
+     "dispositivo": "CF, art. 5º, X"
+    },
+    {
+     "frente": "Em que hipóteses o inciso XI admite entrada na casa sem consentimento?",
+     "verso": "Flagrante delito, desastre, prestação de socorro ou, durante o dia, determinação judicial.",
+     "dispositivo": "CF, art. 5º, XI"
+    },
+    {
+     "frente": "Quando o sigilo da fonte é resguardado pelo inciso XIV?",
+     "verso": "Quando necessário ao exercício profissional.",
+     "dispositivo": "CF, art. 5º, XIV"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A casa é asilo inviolável, sujeita às exceções expressamente previstas no inciso XI.",
+     "gabarito": "C",
+     "comentario": "Certo. A casa é asilo inviolável, sujeita às exceções expressamente previstas no inciso XI (CF, art. 5º, XI).",
+     "dispositivo": "CF, art. 5º, XI"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O exercício de qualquer trabalho, ofício ou profissão pode atender qualificações profissionais estabelecidas em lei.",
+     "gabarito": "C",
+     "comentario": "Certo. O exercício de qualquer trabalho, ofício ou profissão pode atender qualificações profissionais estabelecidas em lei (CF, art. 5º, XIII).",
+     "dispositivo": "CF, art. 5º, XIII"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O inciso X assegura inviolabilidade da honra, mas exclui intimidade e vida privada.",
+     "gabarito": "E",
+     "comentario": "O inciso X protege intimidade, vida privada, honra e imagem e assegura indenização quando houver violação (CF, art. 5º, X).",
+     "dispositivo": "CF, art. 5º, X"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A ordem judicial autoriza ingresso domiciliar a qualquer hora do dia ou da noite segundo o texto do inciso XI.",
+     "gabarito": "E",
+     "comentario": "Por determinação judicial, o ingresso na casa é permitido durante o dia; à noite, o texto prevê as exceções de flagrante delito, desastre ou prestação de socorro (CF, art. 5º, XI).",
+     "dispositivo": "CF, art. 5º, XI"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual hipótese permite entrada em casa sem consentimento segundo o inciso XI?",
+     "alternativas": {
+      "A": "Por ordem judicial durante a noite, sem outra condição.",
+      "B": "Por solicitação de qualquer vizinho.",
+      "C": "Para prestar socorro.",
+      "D": "Para inspeção administrativa de rotina a qualquer hora.",
+      "E": "Por decisão verbal de autoridade policial, em qualquer situação."
+     },
+     "gabarito": "C",
+     "comentario": "A alternativa C é correta: Para prestar socorro. Base legal: CF, art. 5º, XI.",
+     "dispositivo": "CF, art. 5º, XI"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "A liberdade profissional do inciso XIII é:",
+     "alternativas": {
+      "A": "dependente de licença prévia para toda atividade.",
+      "B": "restrita às profissões regulamentadas por decreto municipal.",
+      "C": "incondicionada mesmo diante de qualificações previstas em lei.",
+      "D": "livre, atendidas as qualificações profissionais que a lei estabelecer.",
+      "E": "garantida apenas a brasileiros natos."
+     },
+     "gabarito": "D",
+     "comentario": "A alternativa D é correta: livre, atendidas as qualificações profissionais que a lei estabelecer. Base legal: CF, art. 5º, XIII.",
+     "dispositivo": "CF, art. 5º, XIII"
+    }
+   ]
+  },
+  {
+   "id": "u1l8",
+   "titulo": "Locomoção, reunião e associação",
+   "microconteudo": "Em tempo de paz, o inciso XV garante a locomoção nacional nos termos da lei. A reunião em local aberto ao público dispensa autorização, mas deve ser pacífica, sem armas, previamente avisada e não frustrar reunião anterior no mesmo local. A liberdade de associação protege fins lícitos e veda caráter paramilitar; associação e cooperativa têm regras específicas de criação e interferência estatal.",
+   "flashcards": [
+    {
+     "frente": "Quais condições o inciso XVI estabelece para reunião em local aberto ao público?",
+     "verso": "Deve ser pacífica e sem armas, sem autorização, com prévio aviso e sem frustrar reunião anteriormente convocada para o mesmo local.",
+     "dispositivo": "CF, art. 5º, XVI"
+    },
+    {
+     "frente": "Que associações são vedadas pelo inciso XVII?",
+     "verso": "As de caráter paramilitar; a liberdade é para fins lícitos.",
+     "dispositivo": "CF, art. 5º, XVII"
+    },
+    {
+     "frente": "Quando entidades associativas podem representar filiados?",
+     "verso": "Quando expressamente autorizadas.",
+     "dispositivo": "CF, art. 5º, XXI"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A reunião pública prevista no inciso XVI independe de autorização.",
+     "gabarito": "C",
+     "comentario": "Certo. A reunião pública prevista no inciso XVI independe de autorização (CF, art. 5º, XVI).",
+     "dispositivo": "CF, art. 5º, XVI"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Ninguém pode ser compelido a associar-se ou a permanecer associado.",
+     "gabarito": "C",
+     "comentario": "Certo. Ninguém pode ser compelido a associar-se ou a permanecer associado (CF, art. 5º, XX).",
+     "dispositivo": "CF, art. 5º, XX"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O direito de reunião permite armas e dispensa aviso prévio.",
+     "gabarito": "E",
+     "comentario": "A reunião deve ser pacífica e sem armas, em local aberto ao público, e exige prévio aviso à autoridade competente, sem necessidade de autorização (CF, art. 5º, XVI).",
+     "dispositivo": "CF, art. 5º, XVI"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição admite interferência estatal livre no funcionamento das associações.",
+     "gabarito": "E",
+     "comentario": "A Constituição veda interferência estatal no funcionamento das associações (CF, art. 5º, XVIII).",
+     "dispositivo": "CF, art. 5º, XVIII"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "A reunião em local aberto ao público exige, conforme o inciso XVI:",
+     "alternativas": {
+      "A": "autorização individual e lista completa de participantes.",
+      "B": "comunicação posterior e presença de armas.",
+      "C": "apenas que os organizadores sejam brasileiros.",
+      "D": "licença judicial e ausência de outras reuniões em toda a cidade.",
+      "E": "aviso prévio, mas não autorização, além das demais condições constitucionais."
+     },
+     "gabarito": "E",
+     "comentario": "A alternativa E é correta: aviso prévio, mas não autorização, além das demais condições constitucionais. Base legal: CF, art. 5º, XVI.",
+     "dispositivo": "CF, art. 5º, XVI"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "A representação judicial ou extrajudicial de filiados por entidade associativa depende de:",
+     "alternativas": {
+      "A": "autorização expressa dos filiados.",
+      "B": "aprovação do Poder Executivo.",
+      "C": "decisão judicial prévia para cada ato.",
+      "D": "registro como partido político.",
+      "E": "autorização tácita presumida pela filiação."
+     },
+     "gabarito": "A",
+     "comentario": "A alternativa A é correta: autorização expressa dos filiados. Base legal: CF, art. 5º, XXI.",
+     "dispositivo": "CF, art. 5º, XXI"
+    }
+   ]
+  },
+  {
+   "id": "u1l9",
+   "titulo": "Propriedade e direitos autorais",
+   "microconteudo": "O art. 5º garante a propriedade e exige que cumpra sua função social. A desapropriação por necessidade ou utilidade pública ou interesse social segue procedimento legal e, como regra constitucional, prevê justa e prévia indenização em dinheiro, ressalvadas hipóteses previstas na própria Constituição. O artigo protege direitos autorais, propriedade industrial e herança, além de prever usos temporários específicos da propriedade em perigo público.",
+   "flashcards": [
+    {
+     "frente": "Qual exigência acompanha o direito de propriedade?",
+     "verso": "A propriedade deve atender à sua função social.",
+     "dispositivo": "CF, art. 5º, XXIII"
+    },
+    {
+     "frente": "Qual é a regra geral de indenização na desapropriação descrita no inciso XXIV?",
+     "verso": "Justa e prévia indenização em dinheiro, ressalvados os casos previstos na Constituição.",
+     "dispositivo": "CF, art. 5º, XXIV"
+    },
+    {
+     "frente": "O que pode fazer a autoridade diante de iminente perigo público?",
+     "verso": "Usar propriedade particular, assegurada indenização ulterior se houver dano.",
+     "dispositivo": "CF, art. 5º, XXV"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "O direito de propriedade está garantido no inciso XXII.",
+     "gabarito": "C",
+     "comentario": "Certo. O direito de propriedade está garantido no inciso XXII (CF, art. 5º, XXII).",
+     "dispositivo": "CF, art. 5º, XXII"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O inciso XXVII prevê direito exclusivo do autor de utilizar, publicar ou reproduzir sua obra.",
+     "gabarito": "C",
+     "comentario": "Certo. O inciso XXVII prevê direito exclusivo do autor de utilizar, publicar ou reproduzir sua obra (CF, art. 5º, XXVII).",
+     "dispositivo": "CF, art. 5º, XXVII"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição proíbe qualquer desapropriação por interesse social.",
+     "gabarito": "E",
+     "comentario": "A Constituição admite desapropriação por necessidade ou utilidade pública, ou por interesse social, mediante justa e prévia indenização em dinheiro, ressalvados os casos nela previstos (CF, art. 5º, XXIV).",
+     "dispositivo": "CF, art. 5º, XXIV"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O uso de propriedade particular em iminente perigo público exige sempre indenização prévia, mesmo que não haja dano.",
+     "gabarito": "E",
+     "comentario": "Em iminente perigo público, a autoridade pode usar propriedade particular; a indenização é ulterior e devida se houver dano (CF, art. 5º, XXV).",
+     "dispositivo": "CF, art. 5º, XXV"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "No caso de iminente perigo público, o inciso XXV prevê:",
+     "alternativas": {
+      "A": "perda definitiva da propriedade sem reparação.",
+      "B": "uso da propriedade particular pela autoridade, com indenização ulterior se houver dano.",
+      "C": "uso apenas após desapropriação e pagamento prévio.",
+      "D": "requisição de bem sem risco público.",
+      "E": "indenização automática ainda que não haja dano."
+     },
+     "gabarito": "B",
+     "comentario": "A alternativa B é correta: uso da propriedade particular pela autoridade, com indenização ulterior se houver dano. Base legal: CF, art. 5º, XXV.",
+     "dispositivo": "CF, art. 5º, XXV"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual direito é assegurado pelo inciso XXX?",
+     "alternativas": {
+      "A": "A propriedade coletiva obrigatória.",
+      "B": "A imunidade tributária de toda herança.",
+      "C": "O direito de herança.",
+      "D": "A sucessão sempre regida pela lei estrangeira.",
+      "E": "A transmissão ilimitada de direitos autorais a qualquer pessoa."
+     },
+     "gabarito": "C",
+     "comentario": "A alternativa C é correta: O direito de herança. Base legal: CF, art. 5º, XXX.",
+     "dispositivo": "CF, art. 5º, XXX"
+    }
+   ]
+  },
+  {
+   "id": "u1l10",
+   "titulo": "Consumidor, informação e acesso à Justiça",
+   "microconteudo": "Entre as garantias do art. 5º estão a defesa do consumidor pelo Estado, o acesso a informações públicas dentro dos prazos legais com exceção de sigilo imprescindível à segurança da sociedade e do Estado, e direitos de petição e de certidão sem pagamento de taxas. O inciso XXXV assegura que lesão ou ameaça a direito possa ser apreciada pelo Poder Judiciário.",
+   "flashcards": [
+    {
+     "frente": "Quem deve promover a defesa do consumidor?",
+     "verso": "O Estado, na forma da lei.",
+     "dispositivo": "CF, art. 5º, XXXII"
+    },
+    {
+     "frente": "Que exceção o inciso XXXIII admite ao acesso a informações públicas?",
+     "verso": "Sigilo imprescindível à segurança da sociedade e do Estado.",
+     "dispositivo": "CF, art. 5º, XXXIII"
+    },
+    {
+     "frente": "O direito de petição e a obtenção de certidões são sujeitos a taxa constitucional?",
+     "verso": "Não; o inciso XXXIV assegura ambos independentemente do pagamento de taxas, nas finalidades indicadas.",
+     "dispositivo": "CF, art. 5º, XXXIV"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A lei não excluirá da apreciação do Judiciário lesão ou ameaça a direito.",
+     "gabarito": "C",
+     "comentario": "Certo. A lei não excluirá da apreciação do Judiciário lesão ou ameaça a direito (CF, art. 5º, XXXV).",
+     "dispositivo": "CF, art. 5º, XXXV"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O direito de petição alcança defesa de direitos ou reação a ilegalidade ou abuso de poder.",
+     "gabarito": "C",
+     "comentario": "Certo. O direito de petição alcança defesa de direitos ou reação a ilegalidade ou abuso de poder (CF, art. 5º, XXXIV, a).",
+     "dispositivo": "CF, art. 5º, XXXIV, a"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O acesso a qualquer informação pública é absoluto, mesmo quando o sigilo seja imprescindível à segurança do Estado.",
+     "gabarito": "E",
+     "comentario": "O acesso à informação admite ressalva quando o sigilo for imprescindível à segurança da sociedade e do Estado (CF, art. 5º, XXXIII).",
+     "dispositivo": "CF, art. 5º, XXXIII"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O inciso XXXIV condiciona o direito de petição ao pagamento de taxa.",
+     "gabarito": "E",
+     "comentario": "O direito de petição aos Poderes Públicos e a obtenção de certidões para defesa de direitos ou esclarecimento de situações são assegurados independentemente de taxas (CF, art. 5º, XXXIV).",
+     "dispositivo": "CF, art. 5º, XXXIV"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual garantia do inciso XXXV é correta?",
+     "alternativas": {
+      "A": "O Judiciário só aprecia lesão já consumada.",
+      "B": "A lei pode excluir ameaças a direito da apreciação judicial.",
+      "C": "Somente brasileiros podem buscar tutela judicial.",
+      "D": "A lei não excluirá da apreciação do Judiciário lesão ou ameaça a direito.",
+      "E": "O acesso ao Judiciário depende de taxa constitucional."
+     },
+     "gabarito": "D",
+     "comentario": "A alternativa D é correta: A lei não excluirá da apreciação do Judiciário lesão ou ameaça a direito. Base legal: CF, art. 5º, XXXV.",
+     "dispositivo": "CF, art. 5º, XXXV"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Segundo o inciso XXXIV, é assegurado sem pagamento de taxas:",
+     "alternativas": {
+      "A": "o direito de obter qualquer documento de empresa privada.",
+      "B": "o acesso irrestrito a informação classificada.",
+      "C": "a revisão judicial obrigatória de toda decisão administrativa.",
+      "D": "a emissão de certidões para qualquer finalidade sem restrições.",
+      "E": "o direito de petição para defesa de direitos ou contra ilegalidade ou abuso de poder."
+     },
+     "gabarito": "E",
+     "comentario": "A alternativa E é correta: o direito de petição para defesa de direitos ou contra ilegalidade ou abuso de poder. Base legal: CF, art. 5º, XXXIV, a.",
+     "dispositivo": "CF, art. 5º, XXXIV, a"
+    }
+   ]
+  },
+  {
+   "id": "u1l11",
+   "titulo": "Segurança jurídica e Tribunal do Júri",
+   "microconteudo": "O art. 5º protege direito adquirido, ato jurídico perfeito e coisa julgada contra prejuízo causado por lei. Também veda juízo ou tribunal de exceção e reconhece o Tribunal do Júri, assegurando plenitude de defesa, sigilo das votações, soberania dos veredictos e competência para crimes dolosos contra a vida.",
+   "flashcards": [
+    {
+     "frente": "Quais situações jurídicas o inciso XXXVI protege?",
+     "verso": "Direito adquirido, ato jurídico perfeito e coisa julgada.",
+     "dispositivo": "CF, art. 5º, XXXVI"
+    },
+    {
+     "frente": "Quais garantias do Júri estão listadas no inciso XXXVIII?",
+     "verso": "Plenitude de defesa, sigilo das votações, soberania dos veredictos e competência para crimes dolosos contra a vida.",
+     "dispositivo": "CF, art. 5º, XXXVIII"
+    },
+    {
+     "frente": "Qual é a competência constitucional do Tribunal do Júri expressamente prevista?",
+     "verso": "O julgamento dos crimes dolosos contra a vida.",
+     "dispositivo": "CF, art. 5º, XXXVIII, d"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição veda tribunal de exceção.",
+     "gabarito": "C",
+     "comentario": "Certo. A Constituição veda tribunal de exceção (CF, art. 5º, XXXVII).",
+     "dispositivo": "CF, art. 5º, XXXVII"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O sigilo das votações é uma garantia constitucional do Júri.",
+     "gabarito": "C",
+     "comentario": "Certo. O sigilo das votações é uma garantia constitucional do Júri (CF, art. 5º, XXXVIII, b).",
+     "dispositivo": "CF, art. 5º, XXXVIII, b"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição assegura ao Júri apenas ampla defesa, sem soberania dos veredictos.",
+     "gabarito": "E",
+     "comentario": "A Constituição reconhece ao Júri plenitude de defesa, sigilo das votações, soberania dos veredictos e competência para crimes dolosos contra a vida (CF, art. 5º, XXXVIII).",
+     "dispositivo": "CF, art. 5º, XXXVIII"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A coisa julgada não recebe proteção no inciso XXXVI.",
+     "gabarito": "E",
+     "comentario": "A lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada (CF, art. 5º, XXXVI).",
+     "dispositivo": "CF, art. 5º, XXXVI"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual é a competência do Júri expressamente indicada no art. 5º?",
+     "alternativas": {
+      "A": "Julgar crimes dolosos contra a vida.",
+      "B": "Julgar todos os crimes contra o patrimônio.",
+      "C": "Rever decisões de tribunais superiores.",
+      "D": "Processar exclusivamente crimes militares.",
+      "E": "Julgar qualquer infração penal praticada por agente público."
+     },
+     "gabarito": "A",
+     "comentario": "A alternativa A é correta: Julgar crimes dolosos contra a vida. Base legal: CF, art. 5º, XXXVIII, d.",
+     "dispositivo": "CF, art. 5º, XXXVIII, d"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "O inciso XXXVI determina que a lei:",
+     "alternativas": {
+      "A": "pode desfazer coisa julgada sem limite.",
+      "B": "não prejudicará direito adquirido, ato jurídico perfeito e coisa julgada.",
+      "C": "sempre retroagirá para atingir atos perfeitos.",
+      "D": "não protege direitos reconhecidos judicialmente.",
+      "E": "pode criar tribunal de exceção em lei complementar."
+     },
+     "gabarito": "B",
+     "comentario": "A alternativa B é correta: não prejudicará direito adquirido, ato jurídico perfeito e coisa julgada. Base legal: CF, art. 5º, XXXVI.",
+     "dispositivo": "CF, art. 5º, XXXVI"
+    }
+   ]
+  },
+  {
+   "id": "u1l12",
+   "titulo": "Legalidade penal e discriminação",
+   "microconteudo": "O inciso XXXIX consagra legalidade e anterioridade penal: não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal. O inciso XL impede a retroatividade prejudicial da lei penal e admite a retroatividade para beneficiar o réu. Os incisos seguintes determinam punição legal à discriminação atentatória e classificam constitucionalmente crimes específicos.",
+   "flashcards": [
+    {
+     "frente": "Que duas exigências constam no inciso XXXIX?",
+     "verso": "Lei anterior que defina o crime e prévia cominação legal da pena.",
+     "dispositivo": "CF, art. 5º, XXXIX"
+    },
+    {
+     "frente": "Quando pode retroagir a lei penal?",
+     "verso": "Quando beneficiar o réu.",
+     "dispositivo": "CF, art. 5º, XL"
+    },
+    {
+     "frente": "Como o inciso XLII qualifica a prática do racismo?",
+     "verso": "Crime inafiançável e imprescritível, sujeito à pena de reclusão, nos termos da lei.",
+     "dispositivo": "CF, art. 5º, XLII"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A lei penal pode retroagir para beneficiar o réu.",
+     "gabarito": "C",
+     "comentario": "Certo. A lei penal pode retroagir para beneficiar o réu (CF, art. 5º, XL).",
+     "dispositivo": "CF, art. 5º, XL"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O inciso XLI determina que a lei punirá discriminação atentatória dos direitos e liberdades fundamentais.",
+     "gabarito": "C",
+     "comentario": "Certo. O inciso XLI determina que a lei punirá discriminação atentatória dos direitos e liberdades fundamentais (CF, art. 5º, XLI).",
+     "dispositivo": "CF, art. 5º, XLI"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O inciso XXXIX admite pena sem previsão legal anterior quando houver costume reiterado.",
+     "gabarito": "E",
+     "comentario": "Não há crime sem lei anterior que o defina nem pena sem prévia cominação legal; costume não substitui a lei exigida (CF, art. 5º, XXXIX).",
+     "dispositivo": "CF, art. 5º, XXXIX"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Todos os crimes inafiançáveis previstos no art. 5º são também imprescritíveis.",
+     "gabarito": "E",
+     "comentario": "A Constituição declara imprescritíveis o racismo e a ação de grupos armados contra a ordem constitucional e o Estado Democrático; outros crimes inafiançáveis não se tornam imprescritíveis por essa condição (CF, art. 5º, XLII a XLIV).",
+     "dispositivo": "CF, art. 5º, XLII a XLIV"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual frase reflete o princípio da legalidade penal?",
+     "alternativas": {
+      "A": "Crime pode ser criado por ato administrativo posterior.",
+      "B": "A pena pode ser fixada depois do fato por costume judicial.",
+      "C": "Não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal.",
+      "D": "A lei penal prejudicial sempre retroage.",
+      "E": "Somente crimes dolosos exigem previsão legal."
+     },
+     "gabarito": "C",
+     "comentario": "A alternativa C é correta: Não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal. Base legal: CF, art. 5º, XXXIX.",
+     "dispositivo": "CF, art. 5º, XXXIX"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "A Constituição qualifica expressamente o racismo como:",
+     "alternativas": {
+      "A": "crime afiançável e imprescritível.",
+      "B": "infração administrativa imprescritível.",
+      "C": "crime sujeito apenas a multa.",
+      "D": "crime inafiançável e imprescritível, sujeito à reclusão, nos termos da lei.",
+      "E": "crime inafiançável, mas prescritível."
+     },
+     "gabarito": "D",
+     "comentario": "A alternativa D é correta: crime inafiançável e imprescritível, sujeito à reclusão, nos termos da lei. Base legal: CF, art. 5º, XLII.",
+     "dispositivo": "CF, art. 5º, XLII"
+    }
+   ]
+  },
+  {
+   "id": "u1l13",
+   "titulo": "Penas e garantias das pessoas presas",
+   "microconteudo": "A Constituição limita a responsabilidade penal individual: a pena não passa da pessoa do condenado, embora reparação do dano e perdimento de bens possam alcançar sucessores até o valor transferido. O art. 5º lista penas admitidas e veda, com exceção constitucional da morte em guerra declarada, pena de morte, perpétua, trabalhos forçados, banimento e penas cruéis. Também prevê critérios para estabelecimentos prisionais, integridade e amamentação.",
+   "flashcards": [
+    {
+     "frente": "Até que limite podem alcançar sucessores a reparação do dano e o perdimento de bens?",
+     "verso": "Até o valor do patrimônio transferido.",
+     "dispositivo": "CF, art. 5º, XLV"
+    },
+    {
+     "frente": "Qual exceção à vedação de pena de morte consta no inciso XLVII?",
+     "verso": "Guerra declarada, nos termos do art. 84, XIX.",
+     "dispositivo": "CF, art. 5º, XLVII, a"
+    },
+    {
+     "frente": "Que critérios orientam estabelecimentos distintos para cumprimento da pena?",
+     "verso": "Natureza do delito, idade e sexo do apenado.",
+     "dispositivo": "CF, art. 5º, XLVIII"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição assegura aos presos respeito à integridade física e moral.",
+     "gabarito": "C",
+     "comentario": "Certo. A Constituição assegura aos presos respeito à integridade física e moral (CF, art. 5º, XLIX).",
+     "dispositivo": "CF, art. 5º, XLIX"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O inciso L protege condições para que presidiárias permaneçam com filhos durante a amamentação.",
+     "gabarito": "C",
+     "comentario": "Certo. O inciso L protege condições para que presidiárias permaneçam com filhos durante a amamentação (CF, art. 5º, L).",
+     "dispositivo": "CF, art. 5º, L"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A pena pode passar aos sucessores sem limite patrimonial quando há reparação do dano.",
+     "gabarito": "E",
+     "comentario": "A obrigação de reparar o dano e o perdimento de bens podem alcançar sucessores nos termos da lei, mas somente até o limite do valor do patrimônio transferido (CF, art. 5º, XLV).",
+     "dispositivo": "CF, art. 5º, XLV"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A pena de caráter perpétuo é permitida para crimes hediondos.",
+     "gabarito": "E",
+     "comentario": "A Constituição proíbe penas de caráter perpétuo, sem exceção para crimes hediondos (CF, art. 5º, XLVII, b).",
+     "dispositivo": "CF, art. 5º, XLVII, b"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual item está entre as modalidades de pena do inciso XLVI?",
+     "alternativas": {
+      "A": "Pena de caráter perpétuo.",
+      "B": "Trabalhos forçados.",
+      "C": "Banimento.",
+      "D": "Pena cruel.",
+      "E": "Prestação social alternativa."
+     },
+     "gabarito": "E",
+     "comentario": "A alternativa E é correta: Prestação social alternativa. Base legal: CF, art. 5º, XLVI, d.",
+     "dispositivo": "CF, art. 5º, XLVI, d"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "A separação dos estabelecimentos de cumprimento de pena deve considerar:",
+     "alternativas": {
+      "A": "natureza do delito, idade e sexo do apenado.",
+      "B": "somente a duração da pena.",
+      "C": "exclusivamente a situação econômica.",
+      "D": "a profissão anterior e o local de nascimento.",
+      "E": "apenas a reincidência."
+     },
+     "gabarito": "A",
+     "comentario": "A alternativa A é correta: natureza do delito, idade e sexo do apenado. Base legal: CF, art. 5º, XLVIII.",
+     "dispositivo": "CF, art. 5º, XLVIII"
+    }
+   ]
+  },
+  {
+   "id": "u1l14",
+   "titulo": "Nacionalidade e extradição",
+   "microconteudo": "O inciso LI proíbe a extradição de brasileiro, mas prevê hipóteses para o naturalizado: crime comum praticado antes da naturalização ou comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei. O inciso LII impede extradição de estrangeiro por crime político ou de opinião.",
+   "flashcards": [
+    {
+     "frente": "Brasileiro nato pode ser extraditado?",
+     "verso": "Não, conforme o inciso LI.",
+     "dispositivo": "CF, art. 5º, LI"
+    },
+    {
+     "frente": "Quais hipóteses permitem extradição do brasileiro naturalizado previstas no inciso LI?",
+     "verso": "Crime comum praticado antes da naturalização ou comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei.",
+     "dispositivo": "CF, art. 5º, LI"
+    },
+    {
+     "frente": "Por quais crimes a Constituição veda extradição de estrangeiro?",
+     "verso": "Por crime político ou de opinião.",
+     "dispositivo": "CF, art. 5º, LII"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição veda extradição de estrangeiro por crime político ou de opinião.",
+     "gabarito": "C",
+     "comentario": "Certo. A Constituição veda extradição de estrangeiro por crime político ou de opinião (CF, art. 5º, LII).",
+     "dispositivo": "CF, art. 5º, LII"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O inciso LI admite extradição de naturalizado por crime comum praticado antes da naturalização.",
+     "gabarito": "C",
+     "comentario": "Certo. O inciso LI admite extradição de naturalizado por crime comum praticado antes da naturalização (CF, art. 5º, LI).",
+     "dispositivo": "CF, art. 5º, LI"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O brasileiro nato pode ser extraditado se houver tratado bilateral.",
+     "gabarito": "E",
+     "comentario": "O brasileiro nato não será extraditado; o inciso prevê hipóteses específicas de extradição para brasileiro naturalizado (CF, art. 5º, LI).",
+     "dispositivo": "CF, art. 5º, LI"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A extradição de naturalizado por crime comum pode ocorrer mesmo se o crime foi praticado após naturalização, sem qualquer outra hipótese.",
+     "gabarito": "E",
+     "comentario": "A extradição do naturalizado por crime comum só é admitida se o crime for anterior à naturalização; a outra hipótese constitucional é comprovado envolvimento com tráfico ilícito de entorpecentes e drogas afins (CF, art. 5º, LI).",
+     "dispositivo": "CF, art. 5º, LI"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual situação está prevista como hipótese de extradição de brasileiro naturalizado?",
+     "alternativas": {
+      "A": "Qualquer crime de opinião.",
+      "B": "Crime comum praticado antes da naturalização.",
+      "C": "Crime comum praticado depois da naturalização, independentemente de outros fatores.",
+      "D": "Infração administrativa anterior à naturalização.",
+      "E": "Crime político praticado após naturalização."
+     },
+     "gabarito": "B",
+     "comentario": "A alternativa B é correta: Crime comum praticado antes da naturalização. Base legal: CF, art. 5º, LI.",
+     "dispositivo": "CF, art. 5º, LI"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "O inciso LII estabelece que não será concedida extradição de estrangeiro por:",
+     "alternativas": {
+      "A": "crime comum contra o patrimônio.",
+      "B": "qualquer crime praticado fora do Brasil.",
+      "C": "crime político ou de opinião.",
+      "D": "tráfico de drogas em qualquer hipótese.",
+      "E": "crime doloso contra a vida."
+     },
+     "gabarito": "C",
+     "comentario": "A alternativa C é correta: crime político ou de opinião. Base legal: CF, art. 5º, LII.",
+     "dispositivo": "CF, art. 5º, LII"
+    }
+   ]
+  },
+  {
+   "id": "u1l15",
+   "titulo": "Devido processo e defesa",
+   "microconteudo": "Os incisos LIII a LVII reúnem garantias processuais: autoridade competente, devido processo legal, contraditório e ampla defesa em processos judiciais e administrativos e inadmissibilidade de provas ilícitas. A Constituição também presume a não culpabilidade até o trânsito em julgado de sentença penal condenatória.",
+   "flashcards": [
+    {
+     "frente": "O que protege o inciso LIII?",
+     "verso": "Ninguém será processado nem sentenciado senão pela autoridade competente.",
+     "dispositivo": "CF, art. 5º, LIII"
+    },
+    {
+     "frente": "Em que âmbitos o inciso LV assegura contraditório e ampla defesa?",
+     "verso": "Em processo judicial ou administrativo e aos acusados em geral.",
+     "dispositivo": "CF, art. 5º, LV"
+    },
+    {
+     "frente": "Até quando ninguém será considerado culpado pelo inciso LVII?",
+     "verso": "Até o trânsito em julgado de sentença penal condenatória.",
+     "dispositivo": "CF, art. 5º, LVII"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "O inciso LVI declara inadmissíveis no processo provas obtidas por meios ilícitos.",
+     "gabarito": "C",
+     "comentario": "Certo. O inciso LVI declara inadmissíveis no processo provas obtidas por meios ilícitos (CF, art. 5º, LVI).",
+     "dispositivo": "CF, art. 5º, LVI"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O devido processo legal protege a liberdade e os bens contra privação sem processo devido.",
+     "gabarito": "C",
+     "comentario": "Certo. O devido processo legal protege a liberdade e os bens contra privação sem processo devido (CF, art. 5º, LIV).",
+     "dispositivo": "CF, art. 5º, LIV"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Contraditório e ampla defesa são assegurados apenas em processos judiciais.",
+     "gabarito": "E",
+     "comentario": "Contraditório e ampla defesa são assegurados aos litigantes em processo judicial ou administrativo e aos acusados em geral (CF, art. 5º, LV).",
+     "dispositivo": "CF, art. 5º, LV"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição considera culpado o acusado desde a sentença de primeira instância, ainda sem trânsito em julgado.",
+     "gabarito": "E",
+     "comentario": "Ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória (CF, art. 5º, LVII).",
+     "dispositivo": "CF, art. 5º, LVII"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual garantia processual alcança processos administrativos?",
+     "alternativas": {
+      "A": "Julgamento apenas por autoridade eleita.",
+      "B": "Sigilo obrigatório de todo procedimento.",
+      "C": "Proibição de defesa técnica.",
+      "D": "Contraditório e ampla defesa, com meios e recursos inerentes.",
+      "E": "Admissão de provas ilícitas se forem úteis."
+     },
+     "gabarito": "D",
+     "comentario": "A alternativa D é correta: Contraditório e ampla defesa, com meios e recursos inerentes. Base legal: CF, art. 5º, LV.",
+     "dispositivo": "CF, art. 5º, LV"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "A regra do inciso LVII determina que:",
+     "alternativas": {
+      "A": "toda investigação exige sentença condenatória.",
+      "B": "a condenação se presume antes do processo.",
+      "C": "o trânsito em julgado não tem relevância constitucional.",
+      "D": "a regra vale somente para processos administrativos.",
+      "E": "ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória."
+     },
+     "gabarito": "E",
+     "comentario": "A alternativa E é correta: ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória. Base legal: CF, art. 5º, LVII.",
+     "dispositivo": "CF, art. 5º, LVII"
+    }
+   ]
+  },
+  {
+   "id": "u1l16",
+   "titulo": "Identificação, ação privada e publicidade",
+   "microconteudo": "O art. 5º dispensa identificação criminal de quem já está civilmente identificado, salvo hipóteses legais. Prevê ação privada subsidiária quando a ação pública não é intentada no prazo legal. A publicidade processual só pode ser restringida por lei quando a defesa da intimidade ou o interesse social o exigirem.",
+   "flashcards": [
+    {
+     "frente": "Quando pode haver identificação criminal de pessoa civilmente identificada?",
+     "verso": "Nas hipóteses previstas em lei.",
+     "dispositivo": "CF, art. 5º, LVIII"
+    },
+    {
+     "frente": "Quando se admite ação privada em crime de ação pública?",
+     "verso": "Se a ação pública não for intentada no prazo legal.",
+     "dispositivo": "CF, art. 5º, LIX"
+    },
+    {
+     "frente": "Quando a lei pode restringir a publicidade dos atos processuais?",
+     "verso": "Quando a defesa da intimidade ou o interesse social o exigirem.",
+     "dispositivo": "CF, art. 5º, LX"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "O inciso LIX prevê ação privada se a ação pública não for intentada no prazo legal.",
+     "gabarito": "C",
+     "comentario": "Certo. O inciso LIX prevê ação privada se a ação pública não for intentada no prazo legal (CF, art. 5º, LIX).",
+     "dispositivo": "CF, art. 5º, LIX"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A defesa da intimidade pode justificar restrição legal à publicidade processual.",
+     "gabarito": "C",
+     "comentario": "Certo. A defesa da intimidade pode justificar restrição legal à publicidade processual (CF, art. 5º, LX).",
+     "dispositivo": "CF, art. 5º, LX"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A identificação civil impede identificação criminal em qualquer circunstância, sem exceção.",
+     "gabarito": "E",
+     "comentario": "A identificação civil não impede identificação criminal nas hipóteses previstas em lei (CF, art. 5º, LVIII).",
+     "dispositivo": "CF, art. 5º, LVIII"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O sigilo processual pode ser imposto sem qualquer fundamento legal.",
+     "gabarito": "E",
+     "comentario": "A lei só pode restringir a publicidade dos atos processuais quando a defesa da intimidade ou o interesse social o exigirem (CF, art. 5º, LX).",
+     "dispositivo": "CF, art. 5º, LX"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "A ação privada subsidiária prevista no inciso LIX surge quando:",
+     "alternativas": {
+      "A": "a ação pública não é intentada no prazo legal.",
+      "B": "a vítima prefere sempre substituir o Ministério Público.",
+      "C": "há absolvição definitiva.",
+      "D": "o acusado é civilmente identificado.",
+      "E": "a autoridade competente solicita."
+     },
+     "gabarito": "A",
+     "comentario": "A alternativa A é correta: a ação pública não é intentada no prazo legal. Base legal: CF, art. 5º, LIX.",
+     "dispositivo": "CF, art. 5º, LIX"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual fundamento aparece no inciso LX para restringir publicidade processual?",
+     "alternativas": {
+      "A": "Conveniência privada de qualquer parte, sem lei.",
+      "B": "Defesa da intimidade ou interesse social, nos termos da lei.",
+      "C": "Pedido da imprensa.",
+      "D": "Natureza necessariamente penal do processo.",
+      "E": "Desejo da autoridade administrativa."
+     },
+     "gabarito": "B",
+     "comentario": "A alternativa B é correta: Defesa da intimidade ou interesse social, nos termos da lei. Base legal: CF, art. 5º, LX.",
+     "dispositivo": "CF, art. 5º, LX"
+    }
+   ]
+  },
+  {
+   "id": "u1l17",
+   "titulo": "Prisão e direitos da pessoa presa",
+   "microconteudo": "A Constituição condiciona a prisão a flagrante delito ou ordem judicial escrita e fundamentada, ressalvadas transgressão militar e crime propriamente militar definidos em lei. Determina comunicação imediata da prisão, informação de direitos — incluindo permanecer calado —, identificação dos responsáveis, relaxamento da prisão ilegal e liberdade provisória quando a lei a admitir. A prisão civil por dívida tem exceção textual para inadimplemento voluntário e inescusável de obrigação alimentícia e depositário infiel.",
+   "flashcards": [
+    {
+     "frente": "Quais fundamentos permitem prisão pelo inciso LXI?",
+     "verso": "Flagrante delito ou ordem escrita e fundamentada de autoridade judiciária competente, ressalvados os casos militares definidos em lei.",
+     "dispositivo": "CF, art. 5º, LXI"
+    },
+    {
+     "frente": "A quem deve ser comunicada imediatamente a prisão e o local da pessoa presa?",
+     "verso": "Ao juiz competente e à família do preso ou à pessoa por ele indicada.",
+     "dispositivo": "CF, art. 5º, LXII"
+    },
+    {
+     "frente": "Que direito deve ser informado à pessoa presa?",
+     "verso": "Entre outros, o direito de permanecer calada, com assistência da família e de advogado.",
+     "dispositivo": "CF, art. 5º, LXIII"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A prisão ilegal deve ser imediatamente relaxada pela autoridade judiciária.",
+     "gabarito": "C",
+     "comentario": "Certo. A prisão ilegal deve ser imediatamente relaxada pela autoridade judiciária (CF, art. 5º, LXV).",
+     "dispositivo": "CF, art. 5º, LXV"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A pessoa presa tem direito de identificar os responsáveis por sua prisão ou interrogatório policial.",
+     "gabarito": "C",
+     "comentario": "Certo. A pessoa presa tem direito de identificar os responsáveis por sua prisão ou interrogatório policial (CF, art. 5º, LXIV).",
+     "dispositivo": "CF, art. 5º, LXIV"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição permite prisão por ordem verbal de qualquer autoridade administrativa.",
+     "gabarito": "E",
+     "comentario": "A prisão só pode ocorrer em flagrante delito ou por ordem escrita e fundamentada de autoridade judiciária competente, ressalvadas as hipóteses militares definidas em lei (CF, art. 5º, LXI).",
+     "dispositivo": "CF, art. 5º, LXI"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A liberdade provisória é vedada sempre que a lei a admitir, com ou sem fiança.",
+     "gabarito": "E",
+     "comentario": "Ninguém será levado à prisão ou nela mantido quando a lei admitir liberdade provisória, com ou sem fiança (CF, art. 5º, LXVI).",
+     "dispositivo": "CF, art. 5º, LXVI"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "A prisão de qualquer pessoa e o local onde se encontre devem ser comunicados:",
+     "alternativas": {
+      "A": "apenas ao Ministério Público após 48 horas.",
+      "B": "somente à família, quando houver pedido.",
+      "C": "imediatamente ao juiz competente e à família ou pessoa indicada.",
+      "D": "ao juiz ao fim do inquérito.",
+      "E": "exclusivamente à autoridade policial responsável."
+     },
+     "gabarito": "C",
+     "comentario": "A alternativa C é correta: imediatamente ao juiz competente e à família ou pessoa indicada. Base legal: CF, art. 5º, LXII.",
+     "dispositivo": "CF, art. 5º, LXII"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "A Constituição admite prisão civil por dívida, em seu texto, nas hipóteses do inciso LXVII ligadas a:",
+     "alternativas": {
+      "A": "qualquer dívida tributária não paga.",
+      "B": "dívida contratual reconhecida.",
+      "C": "débito trabalhista sem limite.",
+      "D": "inadimplemento voluntário e inescusável de obrigação alimentícia e depositário infiel.",
+      "E": "multa administrativa vencida."
+     },
+     "gabarito": "D",
+     "comentario": "A alternativa D é correta: inadimplemento voluntário e inescusável de obrigação alimentícia e depositário infiel. Base legal: CF, art. 5º, LXVII.",
+     "dispositivo": "CF, art. 5º, LXVII"
+    }
+   ]
+  },
+  {
+   "id": "u1l18",
+   "titulo": "Remédios constitucionais: HC, MS e MI",
+   "microconteudo": "O habeas corpus protege a liberdade de locomoção contra violência ou coação ilegal ou abusiva. O mandado de segurança tutela direito líquido e certo não amparado por habeas corpus ou habeas data diante de ato de autoridade pública ou agente no exercício de atribuições públicas. O mandado de injunção responde à falta de norma regulamentadora que inviabilize direitos, liberdades e prerrogativas constitucionais indicados no inciso LXXI.",
+   "flashcards": [
+    {
+     "frente": "Que direito o habeas corpus protege?",
+     "verso": "A liberdade de locomoção diante de violência ou coação por ilegalidade ou abuso de poder.",
+     "dispositivo": "CF, art. 5º, LXVIII"
+    },
+    {
+     "frente": "Qual é o campo do mandado de segurança individual?",
+     "verso": "Direito líquido e certo não amparado por habeas corpus ou habeas data contra ilegalidade ou abuso de autoridade competente.",
+     "dispositivo": "CF, art. 5º, LXIX"
+    },
+    {
+     "frente": "Quando cabe mandado de injunção?",
+     "verso": "Quando a falta de norma regulamentadora torna inviável o exercício dos direitos e prerrogativas indicados no inciso LXXI.",
+     "dispositivo": "CF, art. 5º, LXXI"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "O habeas corpus alcança ameaça à liberdade de locomoção.",
+     "gabarito": "C",
+     "comentario": "Certo. O habeas corpus alcança ameaça à liberdade de locomoção (CF, art. 5º, LXVIII).",
+     "dispositivo": "CF, art. 5º, LXVIII"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O mandado de segurança tem caráter residual em relação a habeas corpus e habeas data, conforme o inciso LXIX.",
+     "gabarito": "C",
+     "comentario": "Certo. O mandado de segurança tem caráter residual em relação a habeas corpus e habeas data, conforme o inciso LXIX (CF, art. 5º, LXIX).",
+     "dispositivo": "CF, art. 5º, LXIX"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O mandado de injunção exige lesão patrimonial já consumada.",
+     "gabarito": "E",
+     "comentario": "O mandado de injunção cabe quando a falta de norma regulamentadora inviabiliza o exercício de direitos e liberdades constitucionais ou prerrogativas ligadas à nacionalidade, soberania e cidadania; não exige dano patrimonial consumado (CF, art. 5º, LXXI).",
+     "dispositivo": "CF, art. 5º, LXXI"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O habeas corpus serve para proteger exclusivamente direito líquido e certo sem relação com locomoção.",
+     "gabarito": "E",
+     "comentario": "O habeas corpus protege a liberdade de locomoção contra ilegalidade ou abuso de poder; o direito líquido e certo sem essa relação é tutelado por outros meios, como o mandado de segurança (CF, art. 5º, LXVIII e LXIX).",
+     "dispositivo": "CF, art. 5º, LXVIII"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual situação corresponde ao habeas corpus?",
+     "alternativas": {
+      "A": "Pedido de retificação de dado pessoal em banco público.",
+      "B": "Falta de norma que inviabiliza prerrogativa constitucional.",
+      "C": "Anulação de ato lesivo ao meio ambiente por cidadão.",
+      "D": "Defesa de direito coletivo por partido político.",
+      "E": "Ameaça ilegal à liberdade de locomoção."
+     },
+     "gabarito": "E",
+     "comentario": "A alternativa E é correta: Ameaça ilegal à liberdade de locomoção. Base legal: CF, art. 5º, LXVIII.",
+     "dispositivo": "CF, art. 5º, LXVIII"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "O mandado de injunção relaciona-se à:",
+     "alternativas": {
+      "A": "falta de norma regulamentadora que inviabiliza exercício constitucional.",
+      "B": "privação de liberdade por prisão ilegal.",
+      "C": "obtenção de dados pessoais de registros públicos.",
+      "D": "reparação de dano à imagem.",
+      "E": "contestação de qualquer sentença transitada em julgado."
+     },
+     "gabarito": "A",
+     "comentario": "A alternativa A é correta: falta de norma regulamentadora que inviabiliza exercício constitucional. Base legal: CF, art. 5º, LXXI.",
+     "dispositivo": "CF, art. 5º, LXXI"
+    }
+   ]
+  },
+  {
+   "id": "u1l19",
+   "titulo": "Remédios constitucionais: MS coletivo, HD e ação popular",
+   "microconteudo": "A Constituição indica legitimados para mandado de segurança coletivo, incluindo partido com representação no Congresso e certas organizações. O habeas data permite conhecer informações pessoais em registros governamentais ou de caráter público e retificá-las nas condições do inciso LXXII. A ação popular pode ser proposta por cidadão para anular atos lesivos a bens e valores públicos enumerados, com proteção contra custos e sucumbência salvo má-fé comprovada.",
+   "flashcards": [
+    {
+     "frente": "Que partido pode impetrar mandado de segurança coletivo?",
+     "verso": "Partido político com representação no Congresso Nacional.",
+     "dispositivo": "CF, art. 5º, LXX, a"
+    },
+    {
+     "frente": "Para que serve habeas data?",
+     "verso": "Para conhecer dados pessoais em registros públicos indicados e retificá-los nos termos do inciso LXXII.",
+     "dispositivo": "CF, art. 5º, LXXII"
+    },
+    {
+     "frente": "Quem pode propor ação popular?",
+     "verso": "Qualquer cidadão.",
+     "dispositivo": "CF, art. 5º, LXXIII"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "Associação legalmente constituída e em funcionamento há pelo menos um ano pode impetrar mandado de segurança coletivo em defesa de membros ou associados, segundo o inciso LXX.",
+     "gabarito": "C",
+     "comentario": "Certo. Associação legalmente constituída e em funcionamento há pelo menos um ano pode impetrar mandado de segurança coletivo em defesa de membros ou associados, segundo o inciso LXX (CF, art. 5º, LXX, b).",
+     "dispositivo": "CF, art. 5º, LXX, b"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O autor da ação popular fica isento de custas e sucumbência, salvo comprovada má-fé.",
+     "gabarito": "C",
+     "comentario": "Certo. O autor da ação popular fica isento de custas e sucumbência, salvo comprovada má-fé (CF, art. 5º, LXXIII).",
+     "dispositivo": "CF, art. 5º, LXXIII"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Habeas data serve para obter qualquer informação empresarial sigilosa de terceiro.",
+     "gabarito": "E",
+     "comentario": "O habeas data assegura conhecimento ou retificação de informações relativas à própria pessoa em registros ou bancos de dados governamentais ou de caráter público (CF, art. 5º, LXXII).",
+     "dispositivo": "CF, art. 5º, LXXII"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A ação popular pode ser proposta por qualquer pessoa, ainda que não seja cidadã.",
+     "gabarito": "E",
+     "comentario": "A ação popular pode ser proposta por qualquer cidadão para anular ato lesivo aos bens e valores indicados na Constituição (CF, art. 5º, LXXIII).",
+     "dispositivo": "CF, art. 5º, LXXIII"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual legitimado consta no inciso LXX para mandado de segurança coletivo?",
+     "alternativas": {
+      "A": "Qualquer sociedade empresária.",
+      "B": "Partido político com representação no Congresso Nacional.",
+      "C": "Toda pessoa jurídica estrangeira.",
+      "D": "Qualquer grupo informal sem requisitos.",
+      "E": "Somente o Presidente da República."
+     },
+     "gabarito": "B",
+     "comentario": "A alternativa B é correta: Partido político com representação no Congresso Nacional. Base legal: CF, art. 5º, LXX, a.",
+     "dispositivo": "CF, art. 5º, LXX, a"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "A ação popular constitucional tem por finalidade, entre outras, anular ato lesivo:",
+     "alternativas": {
+      "A": "a qualquer interesse exclusivamente privado.",
+      "B": "a contrato particular sem vínculo com bens públicos.",
+      "C": "ao patrimônio público, à moralidade administrativa, ao meio ambiente ou ao patrimônio histórico e cultural.",
+      "D": "a decisão judicial em qualquer hipótese.",
+      "E": "a toda política pública de que o autor discorde."
+     },
+     "gabarito": "C",
+     "comentario": "A alternativa C é correta: ao patrimônio público, à moralidade administrativa, ao meio ambiente ou ao patrimônio histórico e cultural. Base legal: CF, art. 5º, LXXIII.",
+     "dispositivo": "CF, art. 5º, LXXIII"
+    }
+   ]
+  },
+  {
+   "id": "u1l20",
+   "titulo": "Assistência, indenização e direitos de cidadania",
+   "microconteudo": "O Estado deve prestar assistência jurídica integral e gratuita a quem comprovar insuficiência de recursos e indenizar condenado por erro judiciário ou preso além do tempo fixado. O art. 5º também prevê gratuidade de registro de nascimento e certidão de óbito para reconhecidamente pobres na forma da lei, gratuidade de habeas corpus e habeas data e duração razoável dos processos judiciais e administrativos.",
+   "flashcards": [
+    {
+     "frente": "Quem tem direito à assistência jurídica integral e gratuita?",
+     "verso": "Quem comprovar insuficiência de recursos.",
+     "dispositivo": "CF, art. 5º, LXXIV"
+    },
+    {
+     "frente": "Em quais hipóteses o Estado deve indenizar segundo o inciso LXXV?",
+     "verso": "Erro judiciário e prisão além do tempo fixado na sentença.",
+     "dispositivo": "CF, art. 5º, LXXV"
+    },
+    {
+     "frente": "Quais ações são gratuitas pelo inciso LXXVII?",
+     "verso": "Habeas corpus e habeas data; também, na forma da lei, atos necessários ao exercício da cidadania.",
+     "dispositivo": "CF, art. 5º, LXXVII"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição assegura razoável duração do processo nos âmbitos judicial e administrativo.",
+     "gabarito": "C",
+     "comentario": "Certo. A Constituição assegura razoável duração do processo nos âmbitos judicial e administrativo (CF, art. 5º, LXXVIII).",
+     "dispositivo": "CF, art. 5º, LXXVIII"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O registro civil de nascimento é gratuito para reconhecidamente pobres, na forma da lei.",
+     "gabarito": "C",
+     "comentario": "Certo. O registro civil de nascimento é gratuito para reconhecidamente pobres, na forma da lei (CF, art. 5º, LXXVI).",
+     "dispositivo": "CF, art. 5º, LXXVI"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A assistência jurídica integral e gratuita é garantida independentemente de comprovação de insuficiência.",
+     "gabarito": "E",
+     "comentario": "O Estado prestará assistência jurídica integral e gratuita a quem comprovar insuficiência de recursos (CF, art. 5º, LXXIV).",
+     "dispositivo": "CF, art. 5º, LXXIV"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A indenização por erro judiciário só é devida a pessoa presa além da sentença.",
+     "gabarito": "E",
+     "comentario": "O Estado indenizará tanto o condenado por erro judiciário quanto quem permanecer preso além do tempo fixado na sentença (CF, art. 5º, LXXV).",
+     "dispositivo": "CF, art. 5º, LXXV"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual condição o inciso LXXIV prevê para assistência jurídica integral e gratuita?",
+     "alternativas": {
+      "A": "Residência em capital.",
+      "B": "Autorização do Poder Executivo.",
+      "C": "Condenação penal anterior.",
+      "D": "Comprovação de insuficiência de recursos.",
+      "E": "Representação por associação há um ano."
+     },
+     "gabarito": "D",
+     "comentario": "A alternativa D é correta: Comprovação de insuficiência de recursos. Base legal: CF, art. 5º, LXXIV.",
+     "dispositivo": "CF, art. 5º, LXXIV"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "O direito à razoável duração do processo alcança:",
+     "alternativas": {
+      "A": "somente ações penais.",
+      "B": "apenas processos nos tribunais superiores.",
+      "C": "exclusivamente procedimentos eleitorais.",
+      "D": "somente pessoas reconhecidamente pobres.",
+      "E": "âmbitos judicial e administrativo."
+     },
+     "gabarito": "E",
+     "comentario": "A alternativa E é correta: âmbitos judicial e administrativo. Base legal: CF, art. 5º, LXXVIII.",
+     "dispositivo": "CF, art. 5º, LXXVIII"
+    }
+   ]
+  },
+  {
+   "id": "u1l21",
+   "titulo": "Proteção de dados e eficácia dos direitos fundamentais",
+   "microconteudo": "O inciso LXXIX assegura, nos termos da lei, o direito à proteção dos dados pessoais, inclusive nos meios digitais. O § 1º estabelece aplicação imediata às normas definidoras de direitos e garantias fundamentais. O § 2º esclarece que os direitos expressos não excluem outros decorrentes do regime e dos princípios constitucionais ou de tratados internacionais de que o Brasil participe.",
+   "flashcards": [
+    {
+     "frente": "O direito à proteção de dados pessoais abrange quais meios?",
+     "verso": "Inclusive os meios digitais, nos termos da lei.",
+     "dispositivo": "CF, art. 5º, LXXIX"
+    },
+    {
+     "frente": "Qual é a regra do § 1º do art. 5º?",
+     "verso": "Normas definidoras dos direitos e garantias fundamentais têm aplicação imediata.",
+     "dispositivo": "CF, art. 5º, § 1º"
+    },
+    {
+     "frente": "Os direitos expressos excluem outros direitos fundamentais?",
+     "verso": "Não; o § 2º preserva outros decorrentes do regime, princípios e tratados internacionais pertinentes.",
+     "dispositivo": "CF, art. 5º, § 2º"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A proteção de dados pessoais consta expressamente no inciso LXXIX.",
+     "gabarito": "C",
+     "comentario": "Certo. A proteção de dados pessoais consta expressamente no inciso LXXIX (CF, art. 5º, LXXIX).",
+     "dispositivo": "CF, art. 5º, LXXIX"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O § 1º atribui aplicação imediata às normas definidoras de direitos e garantias fundamentais.",
+     "gabarito": "C",
+     "comentario": "Certo. O § 1º atribui aplicação imediata às normas definidoras de direitos e garantias fundamentais (CF, art. 5º, § 1º).",
+     "dispositivo": "CF, art. 5º, § 1º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O § 2º limita os direitos fundamentais somente aos que aparecem literalmente no art. 5º.",
+     "gabarito": "E",
+     "comentario": "O rol do art. 5º não exclui outros direitos decorrentes do regime e dos princípios constitucionais ou de tratados internacionais de que o Brasil seja parte (CF, art. 5º, § 2º).",
+     "dispositivo": "CF, art. 5º, § 2º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição exclui proteção de dados pessoais quando tratados em meios digitais.",
+     "gabarito": "E",
+     "comentario": "A Constituição assegura o direito à proteção dos dados pessoais, inclusive nos meios digitais (CF, art. 5º, LXXIX).",
+     "dispositivo": "CF, art. 5º, LXXIX"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "O § 2º do art. 5º afirma que os direitos expressos:",
+     "alternativas": {
+      "A": "não excluem outros decorrentes do regime, princípios constitucionais ou tratados internacionais pertinentes.",
+      "B": "esgotam integralmente os direitos reconhecidos no Brasil.",
+      "C": "só podem ser ampliados por lei ordinária.",
+      "D": "excluem direitos previstos em tratados.",
+      "E": "valem apenas quando repetidos em lei complementar."
+     },
+     "gabarito": "A",
+     "comentario": "A alternativa A é correta: não excluem outros decorrentes do regime, princípios constitucionais ou tratados internacionais pertinentes. Base legal: CF, art. 5º, § 2º.",
+     "dispositivo": "CF, art. 5º, § 2º"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "A proteção constitucional de dados pessoais:",
+     "alternativas": {
+      "A": "se aplica somente a dados impressos.",
+      "B": "é assegurada nos termos da lei, inclusive nos meios digitais.",
+      "C": "foi excluída do catálogo de direitos fundamentais.",
+      "D": "vale apenas para órgãos públicos.",
+      "E": "depende de tratado internacional específico."
+     },
+     "gabarito": "B",
+     "comentario": "A alternativa B é correta: é assegurada nos termos da lei, inclusive nos meios digitais. Base legal: CF, art. 5º, LXXIX.",
+     "dispositivo": "CF, art. 5º, LXXIX"
+    }
+   ]
+  },
+  {
+   "id": "u1l22",
+   "titulo": "Direitos sociais e proteção da vulnerabilidade",
+   "microconteudo": "Os direitos sociais do art. 6º incluem educação, saúde, alimentação, trabalho, moradia, transporte, lazer, segurança, previdência, proteção à maternidade e à infância e assistência aos desamparados. O parágrafo único assegura renda básica familiar ao brasileiro em situação de vulnerabilidade social, conforme normas legais e observadas as regras fiscais e orçamentárias.",
+   "flashcards": [
+    {
+     "frente": "Que áreas o art. 6º reconhece como direitos sociais?",
+     "verso": "Educação, saúde, alimentação, trabalho, moradia, transporte, lazer, segurança, previdência, proteção à maternidade e à infância e assistência aos desamparados.",
+     "dispositivo": "CF, art. 6º"
+    },
+    {
+     "frente": "Quem tem direito à renda básica familiar prevista no parágrafo único?",
+     "verso": "Brasileiro em situação de vulnerabilidade social, segundo requisitos legais e observadas as regras fiscais e orçamentárias.",
+     "dispositivo": "CF, art. 6º, parágrafo único"
+    },
+    {
+     "frente": "A renda básica familiar tem acesso e requisitos inteiramente independentes de lei?",
+     "verso": "Não. O parágrafo único remete suas normas e requisitos de acesso à lei e às regras fiscais e orçamentárias.",
+     "dispositivo": "CF, art. 6º, parágrafo único"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "O transporte consta expressamente entre os direitos sociais do art. 6º.",
+     "gabarito": "C",
+     "comentario": "O transporte está incluído na enumeração atual do art. 6º (CF, art. 6º).",
+     "dispositivo": "CF, art. 6º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O parágrafo único prevê renda básica familiar para brasileiro em situação de vulnerabilidade social.",
+     "gabarito": "C",
+     "comentario": "A garantia constitucional destina-se ao brasileiro vulnerável e depende dos requisitos legais (CF, art. 6º, parágrafo único).",
+     "dispositivo": "CF, art. 6º, parágrafo único"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição exclui a alimentação do rol de direitos sociais.",
+     "gabarito": "E",
+     "comentario": "A alimentação integra expressamente o rol de direitos sociais (CF, art. 6º).",
+     "dispositivo": "CF, art. 6º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O parágrafo único assegura renda básica sem observar a legislação fiscal e orçamentária.",
+     "gabarito": "E",
+     "comentario": "A renda básica familiar deve ser garantida em programa permanente de transferência de renda, observadas as normas fiscais e orçamentárias (CF, art. 6º, parágrafo único).",
+     "dispositivo": "CF, art. 6º, parágrafo único"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual direito foi acrescentado expressamente ao art. 6º pela EC 90/2015?",
+     "alternativas": {
+      "A": "Propriedade.",
+      "B": "Nacionalidade.",
+      "C": "Transporte.",
+      "D": "Livre iniciativa.",
+      "E": "Autodeterminação."
+     },
+     "gabarito": "C",
+     "comentario": "A alternativa C é correta: Transporte. Base legal: CF, art. 6º.",
+     "dispositivo": "CF, art. 6º"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "A renda básica familiar do parágrafo único destina-se a:",
+     "alternativas": {
+      "A": "qualquer pessoa jurídica com sede no Brasil.",
+      "B": "somente brasileiro maior de 70 anos.",
+      "C": "apenas trabalhador desempregado involuntariamente.",
+      "D": "brasileiro em situação de vulnerabilidade social, segundo normas legais.",
+      "E": "todo estrangeiro em trânsito."
+     },
+     "gabarito": "D",
+     "comentario": "A alternativa D é correta: brasileiro em situação de vulnerabilidade social, segundo normas legais. Base legal: CF, art. 6º, parágrafo único.",
+     "dispositivo": "CF, art. 6º, parágrafo único"
+    }
+   ]
+  },
+  {
+   "id": "u1l23",
+   "titulo": "Direitos dos trabalhadores: proteção e remuneração",
+   "microconteudo": "O art. 7º assegura direitos a trabalhadores urbanos e rurais. A EC 141/2026 alterou a jornada normal para até 8 horas diárias e 40 semanais e prevê repouso remunerado em dois dias, um preferencialmente aos domingos; a implantação é progressiva: após dois meses da publicação, limite de 42 horas semanais e vigência dos dois dias de repouso; após mais um ano, limite de 40 horas. Em 23/11/2026, ainda vigorava o limite semanal anterior de 44 horas durante a transição; também estão assegurados seguro-desemprego por desemprego involuntário, FGTS, 13º salário e irredutibilidade salarial, ressalvada negociação coletiva.",
+   "flashcards": [
+    {
+     "frente": "A quem se dirigem os direitos do art. 7º?",
+     "verso": "Aos trabalhadores urbanos e rurais, além de outros direitos que melhorem sua condição social.",
+     "dispositivo": "CF, art. 7º, caput"
+    },
+    {
+     "frente": "Qual é a jornada semanal final prevista pela EC 141/2026?",
+     "verso": "Até 40 horas, com redução progressiva: 42 horas dois meses após a publicação e 40 horas um ano depois desse marco.",
+     "dispositivo": "CF, art. 7º, XIII e EC 141/2026, arts. 6º e 10"
+    },
+    {
+     "frente": "Como fica o repouso semanal remunerado após a EC 141/2026?",
+     "verso": "Dois dias remunerados, um preferencialmente aos domingos; a alteração entra em vigor dois meses após a publicação.",
+     "dispositivo": "CF, art. 7º, XV e EC 141/2026, art. 10, I"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "O art. 7º admite direitos adicionais voltados à melhoria da condição social dos trabalhadores.",
+     "gabarito": "C",
+     "comentario": "O caput abre espaço a outros direitos que melhorem a condição social (CF, art. 7º, caput).",
+     "dispositivo": "CF, art. 7º, caput"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O trabalho noturno deve receber remuneração superior à do diurno.",
+     "gabarito": "C",
+     "comentario": "O inciso IX estabelece expressamente a superioridade remuneratória do trabalho noturno (CF, art. 7º, IX).",
+     "dispositivo": "CF, art. 7º, IX"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O seguro-desemprego é devido constitucionalmente em qualquer pedido de demissão voluntária.",
+     "gabarito": "E",
+     "comentario": "O seguro-desemprego é assegurado em caso de desemprego involuntário (CF, art. 7º, II).",
+     "dispositivo": "CF, art. 7º, II"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O salário mínimo pode ser vinculado livremente para qualquer fim.",
+     "gabarito": "E",
+     "comentario": "O salário mínimo é vedado como forma de vinculação para qualquer fim (CF, art. 7º, IV).",
+     "dispositivo": "CF, art. 7º, IV"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual situação corresponde ao inciso II do art. 7º?",
+     "alternativas": {
+      "A": "Estabilidade absoluta em todo contrato de trabalho.",
+      "B": "Salário noturno inferior ao diurno.",
+      "C": "Redução salarial unilateral sem ressalvas.",
+      "D": "Salário mínimo fixado por cada município.",
+      "E": "Seguro-desemprego em caso de desemprego involuntário."
+     },
+     "gabarito": "E",
+     "comentario": "A alternativa E é correta: Seguro-desemprego em caso de desemprego involuntário. Base legal: CF, art. 7º, II.",
+     "dispositivo": "CF, art. 7º, II"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "A Constituição permite redução salarial:",
+     "alternativas": {
+      "A": "conforme convenção ou acordo coletivo, ressalvando a irredutibilidade.",
+      "B": "por decisão unilateral do empregador.",
+      "C": "somente por costume da empresa.",
+      "D": "por decreto municipal.",
+      "E": "sem qualquer limite ou negociação."
+     },
+     "gabarito": "A",
+     "comentario": "A alternativa A é correta: conforme convenção ou acordo coletivo, ressalvando a irredutibilidade. Base legal: CF, art. 7º, VI.",
+     "dispositivo": "CF, art. 7º, VI"
+    }
+   ]
+  },
+  {
+   "id": "u1l24",
+   "titulo": "Direitos dos trabalhadores: duração e proteção",
+   "microconteudo": "A Constituição limita a duração normal do trabalho a oito horas diárias e 44 semanais, admitida compensação e redução por negociação coletiva. Garante repouso semanal remunerado, preferencialmente aos domingos, férias anuais com pelo menos um terço a mais e licença à gestante de 120 dias, sem prejuízo do emprego e do salário.",
+   "flashcards": [
+    {
+     "frente": "Qual limite geral de jornada consta do inciso XIII?",
+     "verso": "Oito horas diárias e 44 semanais, facultadas compensação de horários e redução da jornada por acordo ou convenção coletiva.",
+     "dispositivo": "CF, art. 7º, XIII"
+    },
+    {
+     "frente": "Como a Constituição define o repouso semanal remunerado?",
+     "verso": "Preferencialmente aos domingos.",
+     "dispositivo": "CF, art. 7º, XV"
+    },
+    {
+     "frente": "Qual duração mínima de licença à gestante está no inciso XVIII?",
+     "verso": "Cento e vinte dias, sem prejuízo do emprego e do salário.",
+     "dispositivo": "CF, art. 7º, XVIII"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A jornada normal não pode superar oito horas diárias e 44 semanais, ressalvada a disciplina constitucional de compensação e redução coletiva.",
+     "gabarito": "C",
+     "comentario": "O inciso XIII estabelece esses limites e admite compensação ou redução coletiva (CF, art. 7º, XIII). A EC 141/2026 prevê transição: teto de 42 horas semanais a partir de 17/12/2026 e de 40 horas a partir de 17/12/2027 (EC 141/2026, art. 6º, I e II).",
+     "dispositivo": "CF, art. 7º, XIII"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O adicional de férias é de pelo menos um terço do salário normal.",
+     "gabarito": "C",
+     "comentario": "O inciso XVII assegura férias anuais com adicional mínimo de um terço (CF, art. 7º, XVII).",
+     "dispositivo": "CF, art. 7º, XVII"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A licença à gestante prevista no inciso XVIII é de 60 dias.",
+     "gabarito": "E",
+     "comentario": "A licença à gestante tem duração mínima de 120 dias (CF, art. 7º, XVIII).",
+     "dispositivo": "CF, art. 7º, XVIII"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O repouso semanal remunerado deve ocorrer obrigatoriamente em qualquer dia, sem preferência constitucional.",
+     "gabarito": "E",
+     "comentario": "O repouso semanal remunerado corresponde a dois dias, um deles preferencialmente aos domingos; a EC 141/2026 entra em vigor quanto a esse inciso em 17/12/2026 (CF, art. 7º, XV; EC 141/2026, arts. 1º e 10, II).",
+     "dispositivo": "CF, art. 7º, XV"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual duração de licença à gestante prevê o art. 7º?",
+     "alternativas": {
+      "A": "90 dias.",
+      "B": "120 dias.",
+      "C": "100 dias.",
+      "D": "110 dias.",
+      "E": "180 dias."
+     },
+     "gabarito": "B",
+     "comentario": "A alternativa B é correta: 120 dias. Base legal: CF, art. 7º, XVIII.",
+     "dispositivo": "CF, art. 7º, XVIII"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "O repouso semanal remunerado é previsto:",
+     "alternativas": {
+      "A": "obrigatoriamente às segundas-feiras.",
+      "B": "apenas após 14 dias consecutivos de trabalho.",
+      "C": "preferencialmente aos domingos.",
+      "D": "sem remuneração.",
+      "E": "somente para trabalhadores rurais."
+     },
+     "gabarito": "C",
+     "comentario": "A alternativa C é correta: preferencialmente aos domingos. Base legal: CF, art. 7º, XV.",
+     "dispositivo": "CF, art. 7º, XV"
+    }
+   ]
+  },
+  {
+   "id": "u1l25",
+   "titulo": "Direitos dos trabalhadores: proteção especial",
+   "microconteudo": "O art. 7º proíbe diferenças salariais e de critérios de admissão por sexo, idade, cor ou estado civil, bem como discriminação salarial ou profissional por deficiência. Também proíbe trabalho noturno, perigoso ou insalubre a menores de 18 anos e qualquer trabalho a menores de 16, salvo aprendizagem a partir dos 14.",
+   "flashcards": [
+    {
+     "frente": "A partir de que idade se admite trabalho como aprendiz?",
+     "verso": "A partir dos 14 anos.",
+     "dispositivo": "CF, art. 7º, XXXIII"
+    },
+    {
+     "frente": "Qual proteção o inciso XXXI assegura à pessoa com deficiência?",
+     "verso": "Proíbe discriminação quanto a salário e critérios de admissão.",
+     "dispositivo": "CF, art. 7º, XXXI"
+    },
+    {
+     "frente": "Menor de 18 anos pode exercer trabalho noturno, perigoso ou insalubre?",
+     "verso": "Não. Essas modalidades são vedadas a menores de 18 anos.",
+     "dispositivo": "CF, art. 7º, XXXIII"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição permite aprendizagem a partir dos 14 anos.",
+     "gabarito": "C",
+     "comentario": "O inciso XXXIII excepciona a aprendizagem a partir dos 14 anos (CF, art. 7º, XXXIII).",
+     "dispositivo": "CF, art. 7º, XXXIII"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "É proibida diferença salarial por motivo de sexo, idade, cor ou estado civil.",
+     "gabarito": "C",
+     "comentario": "O inciso XXX proíbe essas diferenças e distinções (CF, art. 7º, XXX).",
+     "dispositivo": "CF, art. 7º, XXX"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "É permitido qualquer trabalho a partir dos 13 anos, inclusive noturno.",
+     "gabarito": "E",
+     "comentario": "A Constituição admite aprendizagem a partir dos 14 anos e veda trabalho noturno, perigoso ou insalubre a menores de 18 anos (CF, art. 7º, XXXIII).",
+     "dispositivo": "CF, art. 7º, XXXIII"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição autoriza discriminação salarial por deficiência.",
+     "gabarito": "E",
+     "comentario": "A Constituição proíbe diferença de salários e critérios de admissão por motivo de deficiência (CF, art. 7º, XXXI).",
+     "dispositivo": "CF, art. 7º, XXXI"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "A Constituição admite trabalho de adolescente de 15 anos:",
+     "alternativas": {
+      "A": "em qualquer atividade noturna.",
+      "B": "em atividade perigosa sem exceção.",
+      "C": "apenas se não houver frequência escolar.",
+      "D": "como aprendiz, pois a aprendizagem pode começar aos 14 anos.",
+      "E": "somente após autorização judicial individual."
+     },
+     "gabarito": "D",
+     "comentario": "A alternativa D é correta: como aprendiz, pois a aprendizagem pode começar aos 14 anos. Base legal: CF, art. 7º, XXXIII.",
+     "dispositivo": "CF, art. 7º, XXXIII"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual conduta é vedada pelo inciso XXX?",
+     "alternativas": {
+      "A": "Pagamento de salário mínimo nacional.",
+      "B": "Férias anuais remuneradas.",
+      "C": "Licença-paternidade nos termos da lei.",
+      "D": "Repouso semanal remunerado.",
+      "E": "Diferença salarial por sexo, idade, cor ou estado civil."
+     },
+     "gabarito": "E",
+     "comentario": "A alternativa E é correta: Diferença salarial por sexo, idade, cor ou estado civil. Base legal: CF, art. 7º, XXX.",
+     "dispositivo": "CF, art. 7º, XXX"
+    }
+   ]
+  },
+  {
+   "id": "u1l26",
+   "titulo": "Liberdade sindical e greve",
+   "microconteudo": "O art. 8º garante liberdade de associação profissional e sindical, vedando ao poder público interferir ou intervir na organização sindical. A Constituição não exige autorização estatal para fundação de sindicato, ressalvado o registro no órgão competente e a unicidade sindical na mesma base territorial. O art. 9º atribui aos trabalhadores a decisão sobre oportunidade e interesses defendidos pela greve.",
+   "flashcards": [
+    {
+     "frente": "A fundação de sindicato depende de autorização estatal?",
+     "verso": "Não; a Constituição veda autorização do Estado, ressalvado o registro no órgão competente.",
+     "dispositivo": "CF, art. 8º, I"
+    },
+    {
+     "frente": "Quem decide sobre a oportunidade de exercer greve?",
+     "verso": "Os trabalhadores.",
+     "dispositivo": "CF, art. 9º, caput"
+    },
+    {
+     "frente": "A base territorial sindical pode ser inferior à área de um município?",
+     "verso": "Não. A Constituição estabelece limite mínimo de um município.",
+     "dispositivo": "CF, art. 8º, II"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A lei não pode exigir autorização do Estado para fundar sindicato, ressalvado o registro no órgão competente.",
+     "gabarito": "C",
+     "comentario": "O inciso I proíbe autorização estatal e ressalva registro (CF, art. 8º, I).",
+     "dispositivo": "CF, art. 8º, I"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Cabe aos trabalhadores decidir a oportunidade de exercer o direito de greve.",
+     "gabarito": "C",
+     "comentario": "O caput do art. 9º atribui essa decisão aos trabalhadores (CF, art. 9º, caput).",
+     "dispositivo": "CF, art. 9º, caput"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição admite mais de um sindicato da mesma categoria na mesma base territorial.",
+     "gabarito": "E",
+     "comentario": "O princípio da unicidade sindical veda mais de uma organização sindical representativa da mesma categoria na mesma base territorial (CF, art. 8º, II).",
+     "dispositivo": "CF, art. 8º, II"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Em serviços essenciais, a greve pode ser exercida sem que a lei disponha sobre atendimento das necessidades inadiáveis da comunidade.",
+     "gabarito": "E",
+     "comentario": "A lei definirá os serviços ou atividades essenciais e disporá sobre o atendimento das necessidades inadiáveis da comunidade durante a greve (CF, art. 9º, § 1º).",
+     "dispositivo": "CF, art. 9º, § 1º"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "A base territorial mínima de organização sindical é:",
+     "alternativas": {
+      "A": "um município.",
+      "B": "um bairro.",
+      "C": "uma região metropolitana.",
+      "D": "um estado.",
+      "E": "todo o território nacional."
+     },
+     "gabarito": "A",
+     "comentario": "A alternativa A é correta: um município. Base legal: CF, art. 8º, II.",
+     "dispositivo": "CF, art. 8º, II"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Quem define a oportunidade da greve e os interesses defendidos?",
+     "alternativas": {
+      "A": "O Poder Executivo.",
+      "B": "Os trabalhadores.",
+      "C": "O sindicato patronal.",
+      "D": "O Poder Judiciário antes de cada paralisação.",
+      "E": "O Ministério Público."
+     },
+     "gabarito": "B",
+     "comentario": "A alternativa B é correta: Os trabalhadores. Base legal: CF, art. 9º, caput.",
+     "dispositivo": "CF, art. 9º, caput"
+    }
+   ]
+  },
+  {
+   "id": "u1l27",
+   "titulo": "Participação de trabalhadores e empregadores",
+   "microconteudo": "O art. 10 assegura participação de trabalhadores e empregadores em colegiados públicos nos quais seus interesses profissionais ou previdenciários sejam discutidos. O art. 11 determina que, em empresas com mais de 200 empregados, seja eleito um representante para promover entendimento direto com o empregador.",
+   "flashcards": [
+    {
+     "frente": "Quando trabalhadores e empregadores participam de colegiados públicos?",
+     "verso": "Quando seus interesses profissionais ou previdenciários sejam objeto de discussão e deliberação.",
+     "dispositivo": "CF, art. 10"
+    },
+    {
+     "frente": "Em que empresa é assegurada eleição de representante dos empregados?",
+     "verso": "Na empresa com mais de 200 empregados.",
+     "dispositivo": "CF, art. 11"
+    },
+    {
+     "frente": "Quantos representantes o art. 11 prevê por empresa?",
+     "verso": "Um representante, com a finalidade de promover entendimento direto com o empregador.",
+     "dispositivo": "CF, art. 11"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "O art. 10 prevê participação de trabalhadores e empregadores em colegiados públicos que discutam seus interesses.",
+     "gabarito": "C",
+     "comentario": "A participação ocorre nos colegiados em que esses interesses sejam discutidos e deliberados (CF, art. 10).",
+     "dispositivo": "CF, art. 10"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A empresa com mais de 200 empregados deve assegurar eleição de um representante dos empregados.",
+     "gabarito": "C",
+     "comentario": "O art. 11 fixa o limiar em mais de 200 empregados (CF, art. 11).",
+     "dispositivo": "CF, art. 11"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O art. 11 assegura representação em empresas com exatamente 200 empregados.",
+     "gabarito": "E",
+     "comentario": "A eleição do representante dos empregados é assegurada em empresas com mais de 200 empregados (CF, art. 11).",
+     "dispositivo": "CF, art. 11"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O representante dos empregados é indicado diretamente pelo empregador.",
+     "gabarito": "E",
+     "comentario": "O representante é eleito pelos empregados com a finalidade exclusiva de promover o entendimento direto com o empregador (CF, art. 11).",
+     "dispositivo": "CF, art. 11"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "O art. 11 da Constituição exige eleição de representante em empresa com:",
+     "alternativas": {
+      "A": "mais de 50 empregados.",
+      "B": "mais de 100 empregados.",
+      "C": "mais de 200 empregados.",
+      "D": "pelo menos 200 empregados.",
+      "E": "qualquer número de empregados."
+     },
+     "gabarito": "C",
+     "comentario": "A alternativa C é correta: mais de 200 empregados. Base legal: CF, art. 11.",
+     "dispositivo": "CF, art. 11"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "A função do representante previsto no art. 11 é:",
+     "alternativas": {
+      "A": "substituir o sindicato em toda negociação coletiva.",
+      "B": "fiscalizar eleições gerais.",
+      "C": "representar empregadores em colegiado previdenciário.",
+      "D": "promover o entendimento direto com o empregador.",
+      "E": "presidir o sindicato da categoria."
+     },
+     "gabarito": "D",
+     "comentario": "A alternativa D é correta: promover o entendimento direto com o empregador. Base legal: CF, art. 11.",
+     "dispositivo": "CF, art. 11"
+    }
+   ]
+  },
+  {
+   "id": "u1l28",
+   "titulo": "Nacionalidade: brasileiros natos e naturalizados",
+   "microconteudo": "O art. 12 distingue brasileiros natos e naturalizados. Há hipóteses de nacionalidade nata por nascimento no Brasil, com ressalva para pais estrangeiros a serviço de seu país, e por nascimento no exterior em situações ligadas a pai ou mãe brasileiros. A naturalização ordinária segue a lei; para originários de países de língua portuguesa, a Constituição prevê residência por um ano ininterrupto e idoneidade moral.",
+   "flashcards": [
+    {
+     "frente": "Quem nasce no Brasil de pais estrangeiros pode ser brasileiro nato?",
+     "verso": "Sim, salvo se os pais estiverem a serviço de seu país.",
+     "dispositivo": "CF, art. 12, I, a"
+    },
+    {
+     "frente": "Qual condição especial de naturalização é prevista para originário de país de língua portuguesa?",
+     "verso": "Residência por um ano ininterrupto e idoneidade moral, na forma da lei.",
+     "dispositivo": "CF, art. 12, II, a"
+    },
+    {
+     "frente": "O registro em repartição brasileira competente pode configurar hipótese de nacionalidade nata para quem nasce no exterior de pai ou mãe brasileiros?",
+     "verso": "Sim.",
+     "dispositivo": "CF, art. 12, I, c"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "É brasileiro nato quem nasce no Brasil, ainda que de pais estrangeiros, se eles não estiverem a serviço de seu país.",
+     "gabarito": "C",
+     "comentario": "Essa é a hipótese territorial de nacionalidade nata prevista no texto (CF, art. 12, I, a).",
+     "dispositivo": "CF, art. 12, I, a"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Aos originários de países de língua portuguesa exige-se apenas residência de um ano ininterrupto e idoneidade moral, na forma da lei.",
+     "gabarito": "C",
+     "comentario": "O texto constitucional prevê esses requisitos específicos (CF, art. 12, II, a).",
+     "dispositivo": "CF, art. 12, II, a"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição considera sempre brasileiro nato quem nasce no Brasil de pais estrangeiros a serviço de seu país.",
+     "gabarito": "E",
+     "comentario": "A exceção ocorre quando os pais estrangeiros estão a serviço de seu país; fora dela, o nascimento no Brasil é hipótese de nacionalidade nata (CF, art. 12, I, a).",
+     "dispositivo": "CF, art. 12, I, a"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Para naturalização extraordinária, bastam cinco anos de residência e ausência de processo civil.",
+     "gabarito": "E",
+     "comentario": "A naturalização extraordinária requer residência no Brasil por mais de 15 anos ininterruptos, ausência de condenação penal e requerimento (CF, art. 12, II, b).",
+     "dispositivo": "CF, art. 12, II, b"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "É brasileiro nato, pela regra territorial, quem nasce no Brasil de pais estrangeiros quando:",
+     "alternativas": {
+      "A": "um dos pais tem visto permanente.",
+      "B": "os pais requerem naturalização em até um ano.",
+      "C": "a criança opta pela nacionalidade aos 18 anos.",
+      "D": "a família reside em capital.",
+      "E": "os pais não estão a serviço de seu país."
+     },
+     "gabarito": "E",
+     "comentario": "A alternativa E é correta: os pais não estão a serviço de seu país. Base legal: CF, art. 12, I, a.",
+     "dispositivo": "CF, art. 12, I, a"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Para naturalização extraordinária, a Constituição prevê residência no Brasil por:",
+     "alternativas": {
+      "A": "mais de quinze anos ininterruptos, sem condenação penal, mediante requerimento.",
+      "B": "cinco anos, independentemente de condenação.",
+      "C": "um ano, sem necessidade de requerimento.",
+      "D": "dez anos, com aprovação do Congresso.",
+      "E": "trinta anos, ainda que não seja requerida."
+     },
+     "gabarito": "A",
+     "comentario": "A alternativa A é correta: mais de quinze anos ininterruptos, sem condenação penal, mediante requerimento. Base legal: CF, art. 12, II, b.",
+     "dispositivo": "CF, art. 12, II, b"
+    }
+   ]
+  },
+  {
+   "id": "u1l29",
+   "titulo": "Nacionalidade: cargos, perda e mudança constitucional",
+   "microconteudo": "A Constituição reserva determinados cargos a brasileiros natos, como Presidente da República, diplomata, oficial das Forças Armadas e Ministro da Defesa. Desde a EC 131/2023, a perda da nacionalidade ocorre nas hipóteses do § 4º, incluindo cancelamento judicial da naturalização por fraude ou atentado constitucional e pedido expresso de perda, ressalvada situação de apatridia; adquirir outra nacionalidade, por si só, não é causa de perda.",
+   "flashcards": [
+    {
+     "frente": "O cargo de Ministro de Estado da Defesa é privativo de brasileiro nato?",
+     "verso": "Sim.",
+     "dispositivo": "CF, art. 12, § 3º, VII"
+    },
+    {
+     "frente": "Adquirir voluntariamente outra nacionalidade, por si só, causa perda da nacionalidade brasileira?",
+     "verso": "Não. A EC 131/2023 retirou essa hipótese; há perda por pedido expresso ou cancelamento da naturalização nas condições constitucionais.",
+     "dispositivo": "CF, art. 12, § 4º"
+    },
+    {
+     "frente": "O pedido expresso de perda pode ser deferido se causar apatridia?",
+     "verso": "Não. A Constituição ressalva situações que acarretem apatridia.",
+     "dispositivo": "CF, art. 12, § 4º, II"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "O cargo de Ministro da Defesa figura entre os privativos de brasileiro nato.",
+     "gabarito": "C",
+     "comentario": "O inciso VII inclui Ministro de Estado da Defesa (CF, art. 12, § 3º, VII).",
+     "dispositivo": "CF, art. 12, § 3º, VII"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O brasileiro pode readquirir a nacionalidade brasileira originária após renúncia, nos termos da lei.",
+     "gabarito": "C",
+     "comentario": "O § 5º preserva essa possibilidade (CF, art. 12, § 5º).",
+     "dispositivo": "CF, art. 12, § 5º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A simples aquisição voluntária de nacionalidade estrangeira continua sendo causa automática de perda da brasileira.",
+     "gabarito": "E",
+     "comentario": "A aquisição de outra nacionalidade não causa, por si só, perda automática da brasileira; a perda depende de pedido expresso, ressalvada a apatridia (CF, art. 12, § 4º, II, com redação da EC 131/2023).",
+     "dispositivo": "CF, art. 12, § 4º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Pedido de perda da nacionalidade será aceito mesmo quando gerar apatridia.",
+     "gabarito": "E",
+     "comentario": "O pedido expresso de perda não será aceito se gerar apatridia (CF, art. 12, § 4º, II, incluído pela EC 131/2023).",
+     "dispositivo": "CF, art. 12, § 4º, II"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual cargo é privativo de brasileiro nato?",
+     "alternativas": {
+      "A": "Ministro da Justiça.",
+      "B": "Ministro de Estado da Defesa.",
+      "C": "Governador de Estado.",
+      "D": "Prefeito.",
+      "E": "Deputado Estadual."
+     },
+     "gabarito": "B",
+     "comentario": "A alternativa B é correta: Ministro de Estado da Defesa. Base legal: CF, art. 12, § 3º, VII.",
+     "dispositivo": "CF, art. 12, § 3º, VII"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Após a EC 131/2023, qual situação pode levar à perda da nacionalidade por iniciativa do brasileiro?",
+     "alternativas": {
+      "A": "A obtenção de passaporte estrangeiro.",
+      "B": "Residência no exterior por mais de um ano.",
+      "C": "Pedido expresso à autoridade brasileira, salvo risco de apatridia.",
+      "D": "Casamento com pessoa estrangeira.",
+      "E": "Dupla nacionalidade reconhecida por lei estrangeira."
+     },
+     "gabarito": "C",
+     "comentario": "A alternativa C é correta: Pedido expresso à autoridade brasileira, salvo risco de apatridia. Base legal: CF, art. 12, § 4º, II.",
+     "dispositivo": "CF, art. 12, § 4º, II"
+    }
+   ]
+  },
+  {
+   "id": "u1l30",
+   "titulo": "Idioma e símbolos nacionais",
+   "microconteudo": "O português é o idioma oficial da República. São símbolos nacionais a bandeira, o hino, as armas e o selo; Estados, Distrito Federal e Municípios podem adotar símbolos próprios.",
+   "flashcards": [
+    {
+     "frente": "Qual é o idioma oficial da República Federativa do Brasil?",
+     "verso": "A língua portuguesa.",
+     "dispositivo": "CF, art. 13, caput"
+    },
+    {
+     "frente": "Quais símbolos da República aparecem no § 1º?",
+     "verso": "Bandeira, hino, armas e selo nacionais.",
+     "dispositivo": "CF, art. 13, § 1º"
+    },
+    {
+     "frente": "Estados, Distrito Federal e Municípios podem ter símbolos próprios?",
+     "verso": "Sim.",
+     "dispositivo": "CF, art. 13, § 2º"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A língua portuguesa é o idioma oficial da República.",
+     "gabarito": "C",
+     "comentario": "O caput declara o português como idioma oficial (CF, art. 13, caput).",
+     "dispositivo": "CF, art. 13, caput"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Os municípios podem ter símbolos próprios.",
+     "gabarito": "C",
+     "comentario": "O § 2º estende essa possibilidade aos municípios (CF, art. 13, § 2º).",
+     "dispositivo": "CF, art. 13, § 2º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O brasão municipal substitui o selo nacional como símbolo da República.",
+     "gabarito": "E",
+     "comentario": "Os símbolos da República são a bandeira, o hino, as armas e o selo nacionais; símbolos de Estados, Distrito Federal e Municípios são admitidos separadamente (CF, art. 13, §§ 1º e 2º).",
+     "dispositivo": "CF, art. 13, §§ 1º e 2º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição proíbe símbolos próprios de Estados e Municípios.",
+     "gabarito": "E",
+     "comentario": "Estados, Distrito Federal e Municípios podem ter símbolos próprios (CF, art. 13, § 2º).",
+     "dispositivo": "CF, art. 13, § 2º"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual conjunto contém apenas símbolos da República?",
+     "alternativas": {
+      "A": "Bandeira, moeda, língua e brasão estadual.",
+      "B": "Hino, Constituição, moeda e brasão municipal.",
+      "C": "Armas, moeda, lema e bandeira de cada município.",
+      "D": "Bandeira, hino, armas e selo nacionais.",
+      "E": "Selo, passaporte, idioma e brasão nacional."
+     },
+     "gabarito": "D",
+     "comentario": "A alternativa D é correta: Bandeira, hino, armas e selo nacionais. Base legal: CF, art. 13, § 1º.",
+     "dispositivo": "CF, art. 13, § 1º"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual afirmação sobre símbolos locais está correta?",
+     "alternativas": {
+      "A": "Somente a União pode adotar símbolos.",
+      "B": "Municípios podem substituir o hino nacional.",
+      "C": "Estados não podem criar bandeira própria.",
+      "D": "Símbolos locais são definidos pelo Congresso Nacional.",
+      "E": "Estados, Distrito Federal e Municípios podem ter símbolos próprios."
+     },
+     "gabarito": "E",
+     "comentario": "A alternativa E é correta: Estados, Distrito Federal e Municípios podem ter símbolos próprios. Base legal: CF, art. 13, § 2º.",
+     "dispositivo": "CF, art. 13, § 2º"
+    }
+   ]
+  },
+  {
+   "id": "u1l31",
+   "titulo": "Soberania popular e formas de participação",
+   "microconteudo": "O art. 14 concretiza a soberania popular por sufrágio universal e voto direto e secreto, de igual valor, e prevê plebiscito, referendo e iniciativa popular. O voto é obrigatório para maiores de 18 anos e facultativo para analfabetos, maiores de 70 e jovens de 16 e 17 anos. Estrangeiros e conscritos durante o serviço militar obrigatório não podem alistar-se.",
+   "flashcards": [
+    {
+     "frente": "Quais formas de exercício da soberania popular o art. 14 enumera além do voto?",
+     "verso": "Plebiscito, referendo e iniciativa popular.",
+     "dispositivo": "CF, art. 14, I a III"
+    },
+    {
+     "frente": "Para quem o voto é facultativo?",
+     "verso": "Analfabetos, maiores de 70 anos e maiores de 16 e menores de 18 anos.",
+     "dispositivo": "CF, art. 14, § 1º, II"
+    },
+    {
+     "frente": "Conscritos durante o serviço militar obrigatório podem alistar-se eleitores?",
+     "verso": "Não.",
+     "dispositivo": "CF, art. 14, § 2º"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A soberania popular pode ser exercida por plebiscito, referendo e iniciativa popular, nos termos da lei.",
+     "gabarito": "C",
+     "comentario": "O art. 14 enumera essas três formas (CF, art. 14, I a III).",
+     "dispositivo": "CF, art. 14, I a III"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O alistamento e o voto são facultativos para pessoas analfabetas.",
+     "gabarito": "C",
+     "comentario": "A alínea a inclui os analfabetos entre os casos facultativos (CF, art. 14, § 1º, II, a).",
+     "dispositivo": "CF, art. 14, § 1º, II, a"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O voto é facultativo para todos os brasileiros maiores de 18 anos.",
+     "gabarito": "E",
+     "comentario": "O alistamento e o voto são obrigatórios para maiores de 18 anos, com as exceções constitucionais para analfabetos, maiores de 70 anos e pessoas entre 16 e 18 anos (CF, art. 14, § 1º).",
+     "dispositivo": "CF, art. 14, § 1º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Estrangeiros podem alistar-se eleitores no Brasil.",
+     "gabarito": "E",
+     "comentario": "Estrangeiros não podem alistar-se como eleitores (CF, art. 14, § 2º).",
+     "dispositivo": "CF, art. 14, § 2º"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual grupo tem voto facultativo?",
+     "alternativas": {
+      "A": "Analfabetos, maiores de 70 anos e jovens de 16 e 17 anos.",
+      "B": "Maiores de 18 e menores de 70 anos alfabetizados.",
+      "C": "Todos os estrangeiros residentes.",
+      "D": "Conscritos durante o serviço obrigatório.",
+      "E": "Todos os brasileiros de 18 a 21 anos."
+     },
+     "gabarito": "A",
+     "comentario": "A alternativa A é correta: Analfabetos, maiores de 70 anos e jovens de 16 e 17 anos. Base legal: CF, art. 14, § 1º, II.",
+     "dispositivo": "CF, art. 14, § 1º, II"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual mecanismo consulta previamente a população sobre determinada questão?",
+     "alternativas": {
+      "A": "Referendo.",
+      "B": "Plebiscito.",
+      "C": "Iniciativa popular.",
+      "D": "Ação popular.",
+      "E": "Mandado de injunção."
+     },
+     "gabarito": "B",
+     "comentario": "A alternativa B é correta: Plebiscito. Base legal: CF, art. 14, I.",
+     "dispositivo": "CF, art. 14, I"
+    }
+   ]
+  },
+  {
+   "id": "u1l32",
+   "titulo": "Elegibilidade e inelegibilidade",
+   "microconteudo": "Entre as condições de elegibilidade estão nacionalidade brasileira, pleno exercício dos direitos políticos, alistamento, domicílio eleitoral na circunscrição, filiação partidária e idade mínima. São inelegíveis os inalistáveis e os analfabetos. A idade varia conforme o cargo: 35 anos para Presidente, Vice-Presidente e Senador; 30 para Governador; 21 para vários cargos; e 18 para Vereador.",
+   "flashcards": [
+    {
+     "frente": "A filiação partidária é condição de elegibilidade?",
+     "verso": "Sim, na forma da lei.",
+     "dispositivo": "CF, art. 14, § 3º, V"
+    },
+    {
+     "frente": "Qual é a idade mínima para Vereador?",
+     "verso": "Dezoito anos.",
+     "dispositivo": "CF, art. 14, § 3º, VI, d"
+    },
+    {
+     "frente": "Os analfabetos são elegíveis?",
+     "verso": "Não. A Constituição os declara inelegíveis.",
+     "dispositivo": "CF, art. 14, § 4º"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "O domicílio eleitoral na circunscrição é condição de elegibilidade.",
+     "gabarito": "C",
+     "comentario": "O inciso IV inclui o domicílio eleitoral entre as condições (CF, art. 14, § 3º, IV).",
+     "dispositivo": "CF, art. 14, § 3º, IV"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A idade mínima para o cargo de Senador é 35 anos.",
+     "gabarito": "C",
+     "comentario": "A alínea a fixa 35 anos para Senador (CF, art. 14, § 3º, VI, a).",
+     "dispositivo": "CF, art. 14, § 3º, VI, a"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A idade mínima para Vereador é 21 anos.",
+     "gabarito": "E",
+     "comentario": "A idade mínima para Vereador é 18 anos (CF, art. 14, § 3º, VI, d).",
+     "dispositivo": "CF, art. 14, § 3º, VI, d"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição permite que analfabetos sejam eleitos se tiverem filiação partidária.",
+     "gabarito": "E",
+     "comentario": "Analfabetos são inelegíveis (CF, art. 14, § 4º).",
+     "dispositivo": "CF, art. 14, § 4º"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual é a idade mínima constitucional para candidatura a Vereador?",
+     "alternativas": {
+      "A": "16 anos.",
+      "B": "21 anos.",
+      "C": "18 anos.",
+      "D": "30 anos.",
+      "E": "35 anos."
+     },
+     "gabarito": "C",
+     "comentario": "A alternativa C é correta: 18 anos. Base legal: CF, art. 14, § 3º, VI, d.",
+     "dispositivo": "CF, art. 14, § 3º, VI, d"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual condição de elegibilidade aparece expressamente no § 3º?",
+     "alternativas": {
+      "A": "Ser brasileiro nato para todos os cargos.",
+      "B": "Ter mais de 70 anos.",
+      "C": "Ser filiado há pelo menos cinco anos.",
+      "D": "Domicílio eleitoral na circunscrição.",
+      "E": "Ter ensino superior completo."
+     },
+     "gabarito": "D",
+     "comentario": "A alternativa D é correta: Domicílio eleitoral na circunscrição. Base legal: CF, art. 14, § 3º, IV.",
+     "dispositivo": "CF, art. 14, § 3º, IV"
+    }
+   ]
+  },
+  {
+   "id": "u1l33",
+   "titulo": "Perda de direitos políticos e partidos",
+   "microconteudo": "O art. 15 proíbe cassação de direitos políticos e admite perda ou suspensão apenas nas hipóteses enumeradas, como cancelamento de naturalização por sentença transitada em julgado, incapacidade civil absoluta e condenação criminal transitada em julgado enquanto durarem seus efeitos. O art. 16 consagra anterioridade eleitoral; o art. 17 garante liberdade de criação partidária com limites constitucionais.",
+   "flashcards": [
+    {
+     "frente": "A condenação criminal transitada em julgado pode suspender direitos políticos?",
+     "verso": "Sim, enquanto durarem seus efeitos.",
+     "dispositivo": "CF, art. 15, III"
+    },
+    {
+     "frente": "Uma lei que altera o processo eleitoral pode ser aplicada à eleição que ocorra no mesmo ano?",
+     "verso": "Não. Não se aplica à eleição ocorrida até um ano da vigência.",
+     "dispositivo": "CF, art. 16"
+    },
+    {
+     "frente": "A liberdade partidária é ilimitada e dispensa respeito aos direitos fundamentais?",
+     "verso": "Não. A criação partidária observa o regime democrático e os direitos fundamentais.",
+     "dispositivo": "CF, art. 17, caput"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição veda a cassação de direitos políticos.",
+     "gabarito": "C",
+     "comentario": "O caput veda a cassação (CF, art. 15, caput).",
+     "dispositivo": "CF, art. 15, caput"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A lei que altera o processo eleitoral não se aplica à eleição que ocorra até um ano de sua vigência.",
+     "gabarito": "C",
+     "comentario": "O art. 16 estabelece a anterioridade de um ano (CF, art. 16).",
+     "dispositivo": "CF, art. 16"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A condenação criminal suspende direitos políticos apenas antes do trânsito em julgado.",
+     "gabarito": "E",
+     "comentario": "A condenação criminal transitada em julgado suspende direitos políticos enquanto durarem seus efeitos (CF, art. 15, III).",
+     "dispositivo": "CF, art. 15, III"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Partidos políticos podem receber recursos financeiros de entidade ou governo estrangeiro.",
+     "gabarito": "E",
+     "comentario": "Partidos políticos não podem receber recursos financeiros de entidade ou governo estrangeiros (CF, art. 17, II).",
+     "dispositivo": "CF, art. 17, II"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual fato pode gerar suspensão de direitos políticos?",
+     "alternativas": {
+      "A": "Crítica pública a autoridade.",
+      "B": "Mudança de domicílio eleitoral.",
+      "C": "Filiação partidária.",
+      "D": "Ausência em uma eleição.",
+      "E": "Condenação criminal transitada em julgado, enquanto durarem seus efeitos."
+     },
+     "gabarito": "E",
+     "comentario": "A alternativa E é correta: Condenação criminal transitada em julgado, enquanto durarem seus efeitos. Base legal: CF, art. 15, III.",
+     "dispositivo": "CF, art. 15, III"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma lei que modifica o processo eleitoral entra em vigor:",
+     "alternativas": {
+      "A": "sem aplicação à eleição que ocorra até um ano de sua vigência.",
+      "B": "sem produzir efeitos na data de sua publicação.",
+      "C": "aplicando-se imediatamente à eleição do mês seguinte.",
+      "D": "apenas depois de dois pleitos.",
+      "E": "somente após aprovação do TSE."
+     },
+     "gabarito": "A",
+     "comentario": "A alternativa A é correta: sem aplicação à eleição que ocorra até um ano de sua vigência. Base legal: CF, art. 16.",
+     "dispositivo": "CF, art. 16"
+    }
+   ]
+  }
+ ]
+}
