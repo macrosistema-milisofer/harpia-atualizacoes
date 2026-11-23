@@ -1,0 +1,328 @@
+{
+ "assunto": "Direitos Humanos — Sistema regional interamericano de proteção dos direitos humanos",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 (Convenção Americana, Estatuto e Regulamento da CIDH e materiais oficiais da Corte IDH conferidos em fontes oficiais)",
+ "origem": "2026-11-23_banco-direitos-humanos-sistema-interamericano_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "dh-interamericano-1",
+   "titulo": "Órgãos e instrumentos do sistema interamericano",
+   "microconteudo": "O sistema interamericano de direitos humanos se desenvolve no âmbito da Organização dos Estados Americanos e reúne instrumentos regionais e órgãos com funções próprias. A Comissão Interamericana de Direitos Humanos promove e protege direitos, recebe petições e acompanha situações nos Estados membros, conforme a Carta da OEA, seu Estatuto e os tratados aplicáveis. A Convenção Americana sobre Direitos Humanos organiza deveres estatais e direitos protegidos e prevê a Corte Interamericana. A Comissão e a Corte não são o mesmo órgão: a primeira recebe petições e pode encaminhar casos à Corte; esta exerce funções contenciosa e consultiva nos limites de sua competência. A Declaração Americana também é relevante no sistema, inclusive em relação a Estados da OEA que não são partes da Convenção. O alcance jurídico concreto depende do instrumento aplicável e da aceitação de competência pertinente pelo Estado.",
+   "flashcards": [
+    {
+     "frente": "Qual é a função geral da CIDH?",
+     "verso": "Promover e proteger direitos humanos nas Américas, inclusive mediante petições e monitoramento.",
+     "dispositivo": "Carta da OEA, art. 106; Estatuto da CIDH, arts. 1º e 18"
+    },
+    {
+     "frente": "A CIDH e a Corte IDH são o mesmo órgão?",
+     "verso": "Não. Têm composição, funções e competências distintas no sistema interamericano.",
+     "dispositivo": "Convenção Americana, arts. 33 e 61–64"
+    },
+    {
+     "frente": "A Declaração Americana pode ser relevante fora da Convenção?",
+     "verso": "Sim. A CIDH também examina alegações relativas à Declaração em relação a membros da OEA não partes da Convenção.",
+     "dispositivo": "Estatuto da CIDH, art. 20"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A Comissão Interamericana e a Corte Interamericana têm funções distintas, embora integrem o sistema regional de proteção dos direitos humanos.",
+     "gabarito": "C",
+     "comentario": "A Convenção distingue a Comissão e a Corte como órgãos competentes do sistema; a Comissão processa petições e pode submeter casos à Corte, enquanto esta exerce jurisdição contenciosa e consultiva nos termos convencionais.",
+     "dispositivo": "Convenção Americana, arts. 33, 41, 44 e 61–64"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Corte Interamericana recebe diretamente qualquer petição individual apresentada por uma pessoa, sem etapa perante a Comissão.",
+     "gabarito": "E",
+     "comentario": "A Convenção atribui à Comissão competência para receber petições individuais. Apenas Estados-partes e a Comissão podem submeter casos à Corte, observados os requisitos convencionais.",
+     "dispositivo": "Convenção Americana, arts. 44 e 61.1"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Declaração Americana dos Direitos e Deveres do Homem pode integrar o parâmetro de atuação da Comissão em relação a membros da OEA que não ratificaram a Convenção Americana.",
+     "gabarito": "C",
+     "comentario": "O Estatuto da CIDH prevê competência para atender petições e outras comunicações sobre direitos da Declaração Americana em relação a Estados membros da OEA que não são partes da Convenção.",
+     "dispositivo": "Estatuto da CIDH, art. 20"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Convenção Americana atribui à Corte competência consultiva apenas quando o Estado solicitante já reconheceu a jurisdição contenciosa do Tribunal.",
+     "gabarito": "E",
+     "comentario": "A competência consultiva está prevista no art. 64 e pode ser provocada pelos Estados membros da OEA e por órgãos indicados da Organização, sem a condição descrita sobre reconhecimento da jurisdição contenciosa.",
+     "dispositivo": "Convenção Americana, art. 64.1"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma pessoa que alega violação de direito protegido pela Convenção pretende iniciar uma petição individual no sistema. Qual órgão recebe essa petição?",
+     "alternativas": {
+      "A": "A Corte Interamericana, diretamente, em qualquer hipótese.",
+      "B": "A Assembleia Geral da OEA, que decide o mérito da reclamação.",
+      "C": "O Conselho Permanente da OEA, que substitui a Comissão.",
+      "D": "A Comissão Interamericana de Direitos Humanos.",
+      "E": "A Secretaria-Geral da OEA, que profere sentença internacional."
+     },
+     "gabarito": "D",
+     "comentario": "A Convenção autoriza qualquer pessoa, grupo de pessoas ou entidade não governamental legitimada a apresentar petição à Comissão. A Corte não recebe a petição individual como via inicial direta.",
+     "dispositivo": "Convenção Americana, art. 44"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual alternativa descreve corretamente a relação entre a Comissão e a Corte Interamericanas?",
+     "alternativas": {
+      "A": "A Comissão recebe petições individuais e pode submeter casos à Corte, enquanto esta exerce competências próprias previstas na Convenção.",
+      "B": "A Comissão profere sentenças contenciosas vinculantes e a Corte apenas acompanha recomendações.",
+      "C": "A Corte escolhe os membros da Comissão e revisa todas as decisões nacionais como instância recursal.",
+      "D": "Os dois órgãos têm composição e competências idênticas, variando apenas o nome.",
+      "E": "A Comissão atua somente em consultas abstratas e a Corte recebe denúncias individuais diretamente."
+     },
+     "gabarito": "A",
+     "comentario": "O desenho convencional separa as atribuições: a Comissão recebe e examina petições e pode remeter casos; a Corte decide casos contenciosos submetidos por legitimados e também emite opiniões consultivas.",
+     "dispositivo": "Convenção Americana, arts. 41, 44, 61 e 64"
+    }
+   ]
+  },
+  {
+   "id": "dh-interamericano-2",
+   "titulo": "Petição individual e admissibilidade",
+   "microconteudo": "A petição individual prevista no art. 44 da Convenção pode ser apresentada por pessoa, grupo de pessoas ou entidade não governamental legalmente reconhecida em Estado membro da OEA. A admissibilidade é examinada pela Comissão, não se confundindo com o julgamento definitivo da alegada violação. Em regra, exige-se o esgotamento dos recursos internos adequados e efetivos e a apresentação dentro de seis meses da decisão definitiva. A Convenção prevê exceções quando não existe devido processo para proteger o direito, quando se impede acesso aos recursos ou quando há demora injustificada. Também se verificam duplicidade internacional e elementos que possam caracterizar violação. A decisão de admissibilidade é preliminar: não declara, por si, responsabilidade internacional. Após admitida a petição, a Comissão examina o mérito, busca solução amistosa quando cabível e pode formular recomendações ou, observadas as regras, submeter o caso à Corte. Por isso, a análise deve distinguir requisito processual, alegação inicial e conclusão de mérito.",
+   "flashcards": [
+    {
+     "frente": "Quem pode apresentar petição individual à CIDH?",
+     "verso": "Pessoa, grupo de pessoas ou entidade não governamental reconhecida em Estado membro da OEA.",
+     "dispositivo": "Convenção Americana, art. 44"
+    },
+    {
+     "frente": "Qual é o prazo ordinário após decisão interna definitiva?",
+     "verso": "Seis meses, ressalvadas as exceções convencionais ao esgotamento dos recursos internos.",
+     "dispositivo": "Convenção Americana, arts. 46.1.b e 46.2"
+    },
+    {
+     "frente": "Admissibilidade significa que a violação já foi provada?",
+     "verso": "Não. É exame preliminar distinto da análise de mérito.",
+     "dispositivo": "Convenção Americana, arts. 46–47"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "Como regra, a petição à Comissão deve ser apresentada em até seis meses da notificação da decisão interna definitiva.",
+     "gabarito": "C",
+     "comentario": "O art. 46.1.b estabelece o prazo de seis meses contado da notificação da decisão que esgota os recursos internos, sujeito às exceções previstas no próprio artigo.",
+     "dispositivo": "Convenção Americana, art. 46.1.b"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Convenção não prevê qualquer exceção ao requisito de esgotamento dos recursos internos.",
+     "gabarito": "E",
+     "comentario": "A afirmação é incorreta: a Convenção prevê exceções quando não há devido processo para proteger o direito, quando o acesso aos recursos é impedido ou quando existe demora injustificada.",
+     "dispositivo": "Convenção Americana, art. 46.2"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O relatório de admissibilidade da Comissão equivale a uma sentença da Corte que reconhece a responsabilidade internacional do Estado.",
+     "gabarito": "E",
+     "comentario": "Admissibilidade é uma etapa preliminar da petição. A análise sobre existência de violação pertence ao exame de mérito e a Comissão não profere sentença da Corte.",
+     "dispositivo": "Convenção Americana, arts. 46–47 e 50–51"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A existência de duplicação de procedimento internacional sobre a mesma matéria pode impedir a admissibilidade, conforme os requisitos da Convenção.",
+     "gabarito": "C",
+     "comentario": "O art. 46.1.c prevê que a matéria não esteja pendente de outro processo de solução internacional; o art. 47.d também trata de repetição substancial de petição já examinada.",
+     "dispositivo": "Convenção Americana, arts. 46.1.c e 47.d"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma petição alega violação, mas a pessoa não conseguiu acessar os recursos internos por impedimento concreto. Qual afirmação é correta?",
+     "alternativas": {
+      "A": "A petição é inadmissível em qualquer hipótese, pois o esgotamento não admite exceções.",
+      "B": "O impedimento de acesso pode constituir exceção ao requisito de esgotamento, a ser apreciada pela Comissão.",
+      "C": "A Comissão deve declarar imediatamente a responsabilidade estatal, sem examinar outros requisitos.",
+      "D": "A pessoa deve protocolar a petição diretamente perante a Corte Interamericana.",
+      "E": "A falta de acesso elimina toda análise de prazo, duplicidade e competência."
+     },
+     "gabarito": "B",
+     "comentario": "A Convenção afasta o requisito de esgotamento quando o interessado é impedido de acessar os recursos internos. Os demais requisitos e o exame preliminar continuam sujeitos à apreciação da Comissão.",
+     "dispositivo": "Convenção Americana, art. 46.2.b"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Na fase de admissibilidade, a Comissão verifica principalmente se",
+     "alternativas": {
+      "A": "a Corte já proferiu sentença sobre a responsabilidade do Estado.",
+      "B": "a reparação integral foi paga antes de qualquer análise internacional.",
+      "C": "há requisitos como competência, esgotamento ou exceção, prazo, ausência de duplicidade e possível caracterização de violação.",
+      "D": "o peticionário tem nacionalidade do Estado denunciado.",
+      "E": "a decisão doméstica deve ser reformada como se a Comissão fosse tribunal recursal."
+     },
+     "gabarito": "C",
+     "comentario": "O exame de admissibilidade considera competência, esgotamento ou suas exceções, prazo, duplicidade internacional e se os fatos alegados podem caracterizar violação, sem funcionar como recurso contra decisões nacionais.",
+     "dispositivo": "Convenção Americana, arts. 46–47; Regulamento da CIDH, arts. 28–36"
+    }
+   ]
+  },
+  {
+   "id": "dh-interamericano-3",
+   "titulo": "Mérito, solução amistosa e recomendações da Comissão",
+   "microconteudo": "Superada a admissibilidade, a Comissão examina o mérito à luz das informações das partes e do marco interamericano aplicável. A tramitação não é um recurso para simplesmente substituir a interpretação de tribunais nacionais: o foco é verificar se o Estado cumpriu obrigações internacionais de direitos humanos. Em qualquer fase apropriada, a Comissão pode colocar-se à disposição das partes para uma solução amistosa fundada no respeito aos direitos reconhecidos nos instrumentos pertinentes. Esse mecanismo depende da vontade das partes e deve respeitar garantias e direitos. Se não houver solução, a Comissão pode aprovar relatório com conclusões e recomendações ao Estado; a Convenção estabelece etapas posteriores e possibilidade de submissão do caso à Corte nas condições previstas. A petição, portanto, pode passar por admissibilidade, mérito, tentativa de solução amistosa e acompanhamento. Relatórios da Comissão e sentenças da Corte são atos diferentes, com bases e efeitos próprios. Estudar essa sequência ajuda a evitar a ideia equivocada de que toda petição termina automaticamente em julgamento judicial internacional.",
+   "flashcards": [
+    {
+     "frente": "A solução amistosa é imposta pela Comissão?",
+     "verso": "Não. A Comissão facilita o procedimento, que depende de solução aceita pelas partes.",
+     "dispositivo": "Convenção Americana, art. 48.1.f; Regulamento da CIDH, art. 40"
+    },
+    {
+     "frente": "O que pode ocorrer após o exame de mérito da Comissão?",
+     "verso": "Relatório com conclusões e recomendações e, conforme as regras, eventual submissão do caso à Corte.",
+     "dispositivo": "Convenção Americana, arts. 50–51"
+    },
+    {
+     "frente": "A CIDH é tribunal de apelação de decisões nacionais?",
+     "verso": "Não. Examina possível responsabilidade internacional do Estado, segundo os instrumentos aplicáveis.",
+     "dispositivo": "Convenção Americana, arts. 44–51"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A Comissão pode colocar-se à disposição das partes para buscar uma solução amistosa em qualquer fase apropriada do exame da petição ou do caso.",
+     "gabarito": "C",
+     "comentario": "A Convenção prevê a atuação da Comissão para facilitar solução amistosa, fundada no respeito aos direitos humanos reconhecidos nos instrumentos aplicáveis.",
+     "dispositivo": "Convenção Americana, art. 48.1.f"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A solução amistosa permite encerrar a matéria mediante acordo incompatível com os direitos humanos reconhecidos no sistema, pois a vontade das partes é suficiente.",
+     "gabarito": "E",
+     "comentario": "A solução amistosa deve fundar-se no respeito aos direitos humanos reconhecidos na Convenção, na Declaração e em outros instrumentos aplicáveis; a autonomia das partes não remove esse parâmetro.",
+     "dispositivo": "Convenção Americana, art. 48.1.f"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Comissão pode emitir relatório com conclusões e recomendações ao Estado, o que não se confunde com sentença da Corte Interamericana.",
+     "gabarito": "C",
+     "comentario": "Os arts. 50 e 51 disciplinam relatórios da Comissão e as etapas subsequentes; a sentença contenciosa é ato da Corte após caso submetido à sua jurisdição.",
+     "dispositivo": "Convenção Americana, arts. 50–51 e 63"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A competência da Comissão consiste em reformar decisões judiciais nacionais como instância recursal ordinária.",
+     "gabarito": "E",
+     "comentario": "O sistema examina o cumprimento de obrigações internacionais pelo Estado; não converte a Comissão em instância recursal para reapreciar ordinariamente o direito interno ou substituir os tribunais nacionais.",
+     "dispositivo": "Convenção Americana, arts. 41 e 44–51"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "As partes aceitam discutir uma solução amistosa durante a tramitação de uma petição. Qual descrição corresponde ao sistema?",
+     "alternativas": {
+      "A": "A Comissão pode facilitar a solução, que deve respeitar os direitos humanos reconhecidos nos instrumentos aplicáveis.",
+      "B": "A Comissão encerra o caso e declara automaticamente que não houve violação.",
+      "C": "A Corte passa a negociar como órgão administrativo da OEA, mesmo sem caso submetido.",
+      "D": "O acordo pode afastar qualquer obrigação internacional, ainda que viole direitos protegidos.",
+      "E": "A solução amistosa só pode ser tentada antes de a petição ser registrada."
+     },
+     "gabarito": "A",
+     "comentario": "A Comissão pode colocar-se à disposição das partes durante a tramitação para buscar solução amistosa baseada no respeito aos direitos protegidos; isso não equivale a julgamento de mérito pela Corte.",
+     "dispositivo": "Convenção Americana, art. 48.1.f"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual sequência descreve melhor o processamento de uma petição individual na Comissão?",
+     "alternativas": {
+      "A": "Sentença da Corte, recurso nacional e protocolo da petição na Comissão.",
+      "B": "Protocolo direto na Corte, julgamento e posterior admissibilidade na Comissão.",
+      "C": "Admissibilidade, eventual exame de mérito, possível solução amistosa e etapas de relatório ou submissão à Corte conforme o caso.",
+      "D": "Revisão obrigatória de todos os fatos pela Assembleia Geral e arquivamento automático.",
+      "E": "Condenação individual do agente público pela Comissão e execução penal pelo Estado."
+     },
+     "gabarito": "C",
+     "comentario": "A Convenção e o Regulamento da Comissão distinguem admissibilidade, mérito e solução amistosa, e preveem relatórios e eventual encaminhamento à Corte dentro das condições convencionais.",
+     "dispositivo": "Convenção Americana, arts. 46–51; Regulamento da CIDH, arts. 30–42"
+    }
+   ]
+  },
+  {
+   "id": "dh-interamericano-4",
+   "titulo": "Competências e decisões da Corte Interamericana",
+   "microconteudo": "A Corte Interamericana exerce jurisdição contenciosa sobre casos relativos à interpretação e aplicação da Convenção que lhe sejam submetidos por legitimados, desde que o Estado tenha reconhecido sua competência nos termos convencionais. Pessoas e representantes participam do processo conforme o Regulamento, mas não submetem sozinhos um caso à Corte: a Convenção reserva essa iniciativa aos Estados-partes e à Comissão. Ao decidir que houve violação, a Corte pode determinar que se assegure ao lesado o gozo do direito e, quando cabível, reparação das consequências e indenização. Suas sentenças são definitivas e os Estados-partes comprometem-se a cumpri-las nos casos em que forem partes. A Corte também possui competência consultiva para interpretar a Convenção e outros tratados de direitos humanos nos termos do art. 64. As opiniões consultivas não são sentenças de um caso contencioso; respondem a consultas autorizadas. Distinguir jurisdição contenciosa, medidas provisórias, reparações e função consultiva é essencial para compreender o papel judicial do órgão.",
+   "flashcards": [
+    {
+     "frente": "Quem pode submeter caso contencioso à Corte IDH?",
+     "verso": "Somente Estados-partes e a Comissão, após os requisitos convencionais.",
+     "dispositivo": "Convenção Americana, art. 61.1"
+    },
+    {
+     "frente": "O que pode determinar a Corte se reconhecer violação?",
+     "verso": "Restabelecimento do direito, reparação das consequências e indenização, quando cabível.",
+     "dispositivo": "Convenção Americana, art. 63.1"
+    },
+    {
+     "frente": "Qual a função consultiva da Corte?",
+     "verso": "Interpretar a Convenção e tratados de direitos humanos nas condições do art. 64.",
+     "dispositivo": "Convenção Americana, art. 64"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "Pessoas podem apresentar observações e participar do processo perante a Corte conforme as regras aplicáveis, mas a Convenção não lhes confere, por si, legitimidade para submeter diretamente o caso contencioso.",
+     "gabarito": "C",
+     "comentario": "O art. 61.1 reserva a submissão de casos à Corte aos Estados-partes e à Comissão. A participação de vítimas e representantes no processo decorre das regras processuais da Corte, sem alterar essa legitimidade de submissão.",
+     "dispositivo": "Convenção Americana, art. 61.1; Regulamento da Corte IDH, art. 25"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Corte não pode determinar reparação das consequências da violação nem pagamento de indenização à parte lesada.",
+     "gabarito": "E",
+     "comentario": "A afirmação é incorreta: reconhecida a violação, a Corte pode assegurar o gozo do direito, reparar as consequências e determinar justa indenização, se cabível.",
+     "dispositivo": "Convenção Americana, art. 63.1"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A opinião consultiva da Corte é uma sentença contenciosa que condena um Estado específico por fatos de uma vítima individual.",
+     "gabarito": "E",
+     "comentario": "A função consultiva responde a consultas sobre interpretação de instrumentos; sentença contenciosa pressupõe caso submetido à jurisdição da Corte e decisão sobre responsabilidade no caso concreto.",
+     "dispositivo": "Convenção Americana, arts. 64.1 e 63.1"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A jurisdição contenciosa da Corte depende do reconhecimento de sua competência pelo Estado, conforme as condições previstas na Convenção.",
+     "gabarito": "C",
+     "comentario": "O reconhecimento da competência contenciosa é regido pelo art. 62, que permite declaração estatal nos termos convencionais.",
+     "dispositivo": "Convenção Americana, art. 62"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Após reconhecer violação de direito protegido, a Corte pode",
+     "alternativas": {
+      "A": "anular automaticamente todas as decisões internas do Estado em qualquer matéria.",
+      "B": "processar criminalmente e condenar diretamente a pessoa agente da violação.",
+      "C": "encerrar o caso sem decisão, pois não tem competência reparatória.",
+      "D": "substituir o legislador nacional em toda política pública futura.",
+      "E": "determinar que se assegure o gozo do direito violado e, se cabível, reparação e indenização."
+     },
+     "gabarito": "E",
+     "comentario": "A Convenção prevê medidas de restituição do gozo do direito e reparação das consequências, incluindo justa indenização quando cabível; a Corte julga a responsabilidade internacional estatal, não a responsabilidade penal individual.",
+     "dispositivo": "Convenção Americana, art. 63.1"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Um Estado membro da OEA solicita interpretação de tratado de direitos humanos. Qual atuação se enquadra na competência consultiva da Corte?",
+     "alternativas": {
+      "A": "Receber a solicitação como petição individual e declarar inadmissibilidade.",
+      "B": "Emitir parecer consultivo nos limites dos tratados e da competência definidos pela Convenção.",
+      "C": "Condenar o Estado sem processo contencioso e impor indenização a uma vítima não identificada.",
+      "D": "Revisar qualquer decisão interna como tribunal de quarta instância.",
+      "E": "Substituir a Comissão na investigação de toda denúncia individual."
+     },
+     "gabarito": "B",
+     "comentario": "O art. 64 autoriza a Corte a emitir opiniões consultivas sobre interpretação da Convenção e de outros tratados de direitos humanos, a pedido dos sujeitos ali indicados.",
+     "dispositivo": "Convenção Americana, art. 64.1"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,328 @@
+{
+ "assunto": "Direitos Humanos — teoria geral e empresas",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 (CF/1988 conferida no Planalto; Decreto 11.772/2023 confirma a revogação do Decreto 9.571/2018; Declaração Universal e Princípios Orientadores da ONU consultados em fontes oficiais)",
+ "origem": "2026-11-23_banco-direitos-humanos-teoria-empresas_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "dh-teoria-empresas-1",
+   "titulo": "Fundamentos e princípios dos direitos humanos",
+   "microconteudo": "Direitos humanos são posições e garantias inerentes à dignidade de toda pessoa, reconhecidas em normas internacionais e nacionais. Sua titularidade não depende de nacionalidade, renda, origem ou aprovação estatal: a universalidade afirma que todos os indivíduos os possuem. A indivisibilidade impede tratar direitos civis e políticos como superiores, por natureza, aos econômicos, sociais e culturais; a interdependência mostra que a fruição de um direito pode depender de outros. A igualdade e a não discriminação atravessam todo o sistema. A historicidade ajuda a compreender que a linguagem e os instrumentos de proteção se desenvolveram diante de conflitos e demandas concretas, sem tornar a dignidade uma concessão ocasional do poder. No Brasil, a Constituição funda a República na dignidade da pessoa humana (art. 1º, III), estabelece como objetivo reduzir desigualdades e combater discriminações (art. 3º, III e IV) e reconhece direitos expressos e decorrentes do regime, dos princípios e dos tratados (art. 5º, §§ 2º e 3º). A classificação em dimensões serve ao estudo histórico; não autoriza hierarquia nem separação rígida entre direitos.",
+   "flashcards": [
+    {
+     "frente": "O que expressa a universalidade?",
+     "verso": "Toda pessoa é titular de direitos humanos, sem distinção de origem ou condição.",
+     "dispositivo": "Declaração Universal dos Direitos Humanos, arts. 1º e 2º"
+    },
+    {
+     "frente": "Indivisibilidade significa hierarquia entre direitos?",
+     "verso": "Não. Direitos civis, políticos, econômicos, sociais e culturais recebem igual consideração.",
+     "dispositivo": "Declaração e Programa de Ação de Viena, 1993, § 5º"
+    },
+    {
+     "frente": "Qual fundamento constitucional liga direitos humanos à ordem brasileira?",
+     "verso": "A dignidade da pessoa humana é fundamento da República.",
+     "dispositivo": "CF, art. 1º, III"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A universalidade dos direitos humanos significa que sua titularidade pertence a todas as pessoas, embora o exercício concreto possa sujeitar-se a limites previstos em lei e compatíveis com as garantias aplicáveis.",
+     "gabarito": "C",
+     "comentario": "A titularidade não depende de cidadania ou condição social. Limites ao exercício de certos direitos não apagam essa titularidade e devem respeitar a ordem jurídica e as garantias pertinentes.",
+     "dispositivo": "Declaração Universal dos Direitos Humanos, arts. 1º e 2º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Como direitos civis e políticos são classificados como direitos de primeira dimensão, eles prevalecem juridicamente sobre direitos sociais e culturais quando houver conflito entre eles.",
+     "gabarito": "E",
+     "comentario": "A divisão em dimensões é recurso histórico e didático; não cria precedência abstrata. Os direitos são indivisíveis e devem ser considerados em conjunto, com solução do caso concreto segundo parâmetros jurídicos.",
+     "dispositivo": "Declaração e Programa de Ação de Viena, 1993, § 5º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A cláusula do art. 5º, § 2º, da Constituição admite direitos decorrentes do regime e dos princípios constitucionais ou de tratados de que o Brasil seja parte, além dos direitos expressamente enumerados.",
+     "gabarito": "C",
+     "comentario": "O catálogo constitucional não é fechado: o § 2º preserva direitos implícitos e os provenientes de tratados, sem eliminar os requisitos próprios de incorporação e hierarquia.",
+     "dispositivo": "CF, art. 5º, § 2º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A interdependência exige que cada direito humano seja interpretado isoladamente, pois a relação entre direitos distintos comprometeria a autonomia de seu conteúdo.",
+     "gabarito": "E",
+     "comentario": "A interdependência aponta justamente que a realização de um direito pode afetar ou depender da realização de outros; ela favorece uma leitura integrada, sem fundir os conteúdos jurídicos.",
+     "dispositivo": "Declaração e Programa de Ação de Viena, 1993, § 5º"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma política pública melhora o acesso à escola, mas ignora barreiras que impedem meninas de frequentá-la. Qual leitura melhor aplica os princípios dos direitos humanos?",
+     "alternativas": {
+      "A": "A avaliação deve considerar igualdade e não discriminação, pois uma medida formalmente geral pode produzir exclusão concreta.",
+      "B": "A universalidade exige aplicar medidas idênticas, sem considerar obstáculos distintos enfrentados por grupos.",
+      "C": "Direitos sociais são objetivos políticos, por isso não integram a análise de direitos humanos.",
+      "D": "A interdependência impede examinar separadamente qualquer direito à educação.",
+      "E": "A política só envolve direitos humanos se houver tratado internacional específico sobre educação."
+     },
+     "gabarito": "A",
+     "comentario": "A universalidade convive com a análise de discriminação e de barreiras efetivas; medidas adequadas podem exigir atenção às condições que impedem o acesso igualitário.",
+     "dispositivo": "CF, arts. 3º, IV, e 205; Declaração Universal dos Direitos Humanos, arts. 2º e 26"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Em uma revisão constitucional, discute-se se a lista de direitos do art. 5º esgota as garantias fundamentais reconhecidas no país. Qual resposta corresponde ao texto constitucional?",
+     "alternativas": {
+      "A": "Sim. A Constituição proíbe reconhecer qualquer direito fora dos incisos do art. 5º.",
+      "B": "Não. O art. 5º, § 2º, admite direitos decorrentes do regime, dos princípios e de tratados, nos termos constitucionais.",
+      "C": "Sim. Tratados de direitos humanos só produzem efeitos após lei estadual específica.",
+      "D": "Não. Todo tratado internacional tem automaticamente equivalência a emenda constitucional.",
+      "E": "Sim. Direitos implícitos são incompatíveis com a separação de Poderes."
+     },
+     "gabarito": "B",
+     "comentario": "O § 2º afasta a ideia de catálogo exaustivo. O § 3º estabelece procedimento qualificado para que tratados de direitos humanos sejam equivalentes a emendas constitucionais; isso não se presume para todo tratado.",
+     "dispositivo": "CF, art. 5º, §§ 2º e 3º"
+    }
+   ]
+  },
+  {
+   "id": "dh-teoria-empresas-2",
+   "titulo": "Declaração Universal e estrutura internacional de proteção",
+   "microconteudo": "A Declaração Universal dos Direitos Humanos foi proclamada pela Assembleia Geral da ONU em 10 de dezembro de 1948, pela Resolução 217 A (III). Ela reúne direitos civis, políticos, econômicos, sociais e culturais e se tornou referência para tratados e constituições posteriores. Não é, por si só, um tratado internacional; sua relevância jurídica e histórica não deve ser confundida com a forma de incorporação de um pacto vinculante. A Declaração, o Pacto Internacional sobre Direitos Civis e Políticos e o Pacto Internacional sobre Direitos Econômicos, Sociais e Culturais são conhecidos conjuntamente como Carta Internacional dos Direitos Humanos. Os pactos foram adotados em 1966 e criam obrigações convencionais para os Estados que a eles se vinculam. No plano internacional, os tratados costumam estabelecer órgãos de monitoramento e procedimentos próprios; esses mecanismos complementam, mas não substituem automaticamente, as instituições nacionais. A análise deve identificar o instrumento aplicável, o Estado parte, as obrigações assumidas e o mecanismo de supervisão previsto. A Declaração fornece um padrão comum e orienta a interpretação, enquanto a força e os efeitos de cada instrumento dependem de sua natureza e das regras pertinentes.",
+   "flashcards": [
+    {
+     "frente": "Quando e por qual ato foi proclamada a DUDH?",
+     "verso": "Em 10 de dezembro de 1948, pela Resolução 217 A (III) da Assembleia Geral da ONU.",
+     "dispositivo": "ONU, Assembleia Geral, Resolução 217 A (III), 1948"
+    },
+    {
+     "frente": "Quais instrumentos formam a Carta Internacional dos Direitos Humanos?",
+     "verso": "A DUDH, o PIDCP e o PIDESC.",
+     "dispositivo": "OHCHR, About the Covenants"
+    },
+    {
+     "frente": "A DUDH é um tratado?",
+     "verso": "Não; é uma declaração da Assembleia Geral, com influência histórica e normativa própria.",
+     "dispositivo": "ONU, Assembleia Geral, Resolução 217 A (III), 1948"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A Declaração Universal foi proclamada em 1948 por resolução da Assembleia Geral da ONU e não deve ser descrita tecnicamente como um tratado celebrado entre Estados.",
+     "gabarito": "C",
+     "comentario": "A DUDH foi adotada pela Resolução 217 A (III). Seu caráter de declaração não reduz sua importância, mas distingue sua forma jurídica dos pactos internacionais posteriores.",
+     "dispositivo": "ONU, Assembleia Geral, Resolução 217 A (III), 1948"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Carta Internacional dos Direitos Humanos corresponde exclusivamente ao Pacto Internacional sobre Direitos Civis e Políticos, sem incluir a Declaração Universal ou o pacto social e cultural.",
+     "gabarito": "E",
+     "comentario": "A designação abrange a Declaração Universal e os dois pactos: o de Direitos Civis e Políticos e o de Direitos Econômicos, Sociais e Culturais.",
+     "dispositivo": "OHCHR, About the Covenants"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A existência de um mecanismo internacional de monitoramento torna desnecessário oferecer proteção e remédios no sistema jurídico nacional.",
+     "gabarito": "E",
+     "comentario": "Os mecanismos internacionais complementam a proteção interna conforme os instrumentos aplicáveis; não eliminam as responsabilidades estatais de prevenir violações e assegurar meios de proteção.",
+     "dispositivo": "Pacto Internacional sobre Direitos Civis e Políticos, art. 2º, itens 1 e 3"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O fato de a DUDH não ser um tratado não impede que ela sirva de referência para a elaboração de normas e para a interpretação de direitos humanos.",
+     "gabarito": "C",
+     "comentario": "A Declaração é um marco histórico e um padrão comum, que inspirou tratados vinculantes e textos constitucionais; isso é distinto da natureza formal de tratado.",
+     "dispositivo": "ONU, Assembleia Geral, Resolução 217 A (III), 1948"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma equipe jurídica precisa distinguir os instrumentos que compõem a Carta Internacional dos Direitos Humanos. Qual composição está correta?",
+     "alternativas": {
+      "A": "Carta da ONU, Convenção de Genebra e Estatuto de Roma.",
+      "B": "DUDH, Convenção Europeia de Direitos Humanos e Convenção Americana.",
+      "C": "DUDH, PIDCP e PIDESC.",
+      "D": "PIDCP, Convenção contra a Tortura e Convenção sobre os Direitos da Criança.",
+      "E": "DUDH, Carta da OEA e Convenção de Viena sobre Direito dos Tratados."
+     },
+     "gabarito": "C",
+     "comentario": "A ONU identifica a Declaração Universal e os dois pactos de 1966 como a Carta Internacional dos Direitos Humanos.",
+     "dispositivo": "OHCHR, About the Covenants"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Em uma petição, a parte chama a DUDH de tratado ratificado pelo Brasil em 1948. Qual ajuste técnico é necessário?",
+     "alternativas": {
+      "A": "Nenhum; a Resolução 217 A (III) é um tratado multilateral.",
+      "B": "Substituir DUDH por PIDCP, pois ambos foram aprovados na mesma resolução.",
+      "C": "Afirmar que a DUDH só existe como costume regional europeu.",
+      "D": "Indicar que a DUDH foi proclamada por resolução da Assembleia Geral, distinguindo-a de tratados como os Pactos de 1966.",
+      "E": "Retirar qualquer referência à Declaração, pois resoluções da Assembleia Geral não têm relevância interpretativa."
+     },
+     "gabarito": "D",
+     "comentario": "A correção separa a forma da DUDH — uma declaração proclamada por resolução — da natureza convencional dos pactos, sem negar o papel orientador da Declaração.",
+     "dispositivo": "ONU, Assembleia Geral, Resolução 217 A (III), 1948; OHCHR, About the Covenants"
+    }
+   ]
+  },
+  {
+   "id": "dh-teoria-empresas-3",
+   "titulo": "Dever estatal e responsabilidade empresarial",
+   "microconteudo": "A estrutura internacional sobre empresas e direitos humanos distingue deveres estatais e responsabilidades empresariais. Os Princípios Orientadores das Nações Unidas, endossados pelo Conselho de Direitos Humanos em 2011, organizam a abordagem em três pilares: proteger, respeitar e reparar. O Estado tem o dever de proteger pessoas contra abusos cometidos por terceiros, inclusive empresas, mediante medidas adequadas de prevenção, investigação, punição e reparação. Empresas, por sua vez, têm a responsabilidade de respeitar os direitos humanos: devem evitar causar ou contribuir para impactos adversos e enfrentar os impactos diretamente ligados às suas operações, produtos ou serviços por relações comerciais. Essa responsabilidade se aplica a empresas de diferentes portes, setores, estruturas e locais de operação; a capacidade pode influenciar a forma e a complexidade dos processos, mas não elimina a expectativa de respeito. Os Princípios Orientadores não são um tratado que, por si só, crie obrigações convencionais para empresas. Eles oferecem um padrão global de conduta e implementação, assentado em obrigações estatais já existentes e em responsabilidade corporativa. O acesso a mecanismos efetivos de reparação completa a estrutura; canais empresariais não afastam o acesso à justiça ou a outros remédios legítimos.",
+   "flashcards": [
+    {
+     "frente": "Quais são os três pilares dos Princípios Orientadores da ONU?",
+     "verso": "Proteger, respeitar e reparar.",
+     "dispositivo": "Princípios Orientadores da ONU sobre Empresas e Direitos Humanos, estrutura geral"
+    },
+    {
+     "frente": "A responsabilidade empresarial depende de o Estado cumprir seu dever?",
+     "verso": "Não. A responsabilidade de respeitar é independente do cumprimento estatal.",
+     "dispositivo": "Princípios Orientadores da ONU, Princípio 11 e comentário"
+    },
+    {
+     "frente": "Qual é o dever estatal diante de abusos empresariais?",
+     "verso": "Adotar medidas adequadas para prevenir, investigar, punir e reparar abusos.",
+     "dispositivo": "Princípios Orientadores da ONU, Princípio 1"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "Nos Princípios Orientadores da ONU, a responsabilidade empresarial de respeitar os direitos humanos subsiste mesmo quando o Estado deixa de cumprir adequadamente seu dever de proteção.",
+     "gabarito": "C",
+     "comentario": "O Princípio 11 prevê responsabilidade própria das empresas, independente da capacidade ou disposição estatal para cumprir suas obrigações de direitos humanos.",
+     "dispositivo": "Princípios Orientadores da ONU, Princípio 11 e comentário"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Os Princípios Orientadores da ONU transformaram diretamente as empresas em partes de um tratado internacional vinculante, com obrigações convencionais idênticas às dos Estados.",
+     "gabarito": "E",
+     "comentario": "Os Princípios Orientadores são um padrão global endossado pelo Conselho de Direitos Humanos, não um tratado que transforme empresas em partes convencionais. Obrigações empresariais podem decorrer de outras normas internas ou internacionais aplicáveis.",
+     "dispositivo": "Princípios Orientadores da ONU, Introdução e Princípios Gerais"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A responsabilidade empresarial de respeitar os direitos humanos abrange impactos adversos que a empresa cause, para os quais contribua ou que estejam diretamente ligados às suas operações, produtos ou serviços por uma relação comercial.",
+     "gabarito": "C",
+     "comentario": "O escopo está descrito nos Princípios 13 e 17: a empresa deve evitar causar ou contribuir para impactos adversos e buscar prevenir ou mitigar impactos diretamente ligados às suas atividades comerciais.",
+     "dispositivo": "Princípios Orientadores da ONU, Princípios 13 e 17"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O dever estatal de proteção deixa de existir quando uma empresa adota código voluntário de conduta e mecanismo interno de reclamação.",
+     "gabarito": "E",
+     "comentario": "Mecanismos empresariais podem complementar os remédios, mas não substituem o dever estatal de proteger nem dispensam remédios judiciais e extrajudiciais legítimos.",
+     "dispositivo": "Princípios Orientadores da ONU, Princípios 1 e 25"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma fornecedora terceirizada de uma empresa causa grave impacto trabalhista em uma comunidade. À luz dos Princípios Orientadores, como a empresa contratante deve avaliar a situação?",
+     "alternativas": {
+      "A": "A relação comercial exclui qualquer responsabilidade de análise, porque só o empregador direto pode causar impacto relevante.",
+      "B": "A empresa deve transferir ao Estado toda a responsabilidade, pois empresas não têm papel em direitos humanos.",
+      "C": "A empresa só precisa atuar se houver sentença transitada em julgado contra o fornecedor.",
+      "D": "A empresa deve avaliar o vínculo do impacto com suas operações e relações comerciais e adotar medidas de prevenção, mitigação e resposta adequadas.",
+      "E": "A empresa pode encerrar a relação sem avaliar se isso agrava o dano ou afeta os titulares de direitos."
+     },
+     "gabarito": "D",
+     "comentario": "Os Princípios 13 e 19 orientam a identificação do vínculo empresarial com o impacto e a adoção de medidas apropriadas; a resposta deve considerar a gravidade e evitar agravar a situação dos titulares.",
+     "dispositivo": "Princípios Orientadores da ONU, Princípios 13 e 19"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma empresa alega que seu porte pequeno a exclui integralmente dos Princípios Orientadores. Qual leitura é mais precisa?",
+     "alternativas": {
+      "A": "Somente o Estado pode avaliar impactos ligados a atividades econômicas.",
+      "B": "A responsabilidade existe apenas para empresas multinacionais e controladas pelo Estado.",
+      "C": "Os Princípios se aplicam apenas a sociedades abertas com ações negociadas em bolsa.",
+      "D": "O porte define se os direitos humanos se aplicam ou não às pessoas afetadas.",
+      "E": "Toda empresa tem responsabilidade de respeitar, embora a escala e a complexidade dos processos de implementação possam variar segundo porte, setor e contexto."
+     },
+     "gabarito": "E",
+     "comentario": "O Princípio 14 aplica a responsabilidade a todas as empresas, mas reconhece que a escala e complexidade dos meios de implementação podem variar conforme fatores como porte e estrutura.",
+     "dispositivo": "Princípios Orientadores da ONU, Princípio 14"
+    }
+   ]
+  },
+  {
+   "id": "dh-teoria-empresas-4",
+   "titulo": "Diligência em direitos humanos e reparação",
+   "microconteudo": "A diligência devida em direitos humanos é um processo contínuo para identificar, prevenir, mitigar e prestar contas sobre impactos adversos ligados à atividade empresarial. Segundo o Princípio 17 dos Princípios Orientadores da ONU, ela deve alcançar impactos que a empresa cause ou para os quais contribua e aqueles diretamente relacionados às suas operações, produtos ou serviços por relações comerciais. O processo inclui integrar conclusões às decisões e ações internas, acompanhar a eficácia das respostas e comunicar como os impactos são enfrentados. A avaliação deve ser proporcional ao contexto, à gravidade e à probabilidade dos efeitos; riscos mais graves podem exigir atenção prioritária. Não basta publicar uma política ou realizar auditoria isolada: a diligência precisa informar medidas concretas e revisão contínua. Quando a empresa identifica que causou ou contribuiu para impacto adverso, deve providenciar ou cooperar com sua reparação, conforme o Princípio 22. O Princípio 29 recomenda mecanismos operacionais de reclamação em nível empresarial, que devem ser legítimos, acessíveis, previsíveis, equitativos, transparentes, compatíveis com direitos e fontes de aprendizagem. Eles complementam mecanismos estatais e não devem bloquear o acesso das pessoas afetadas a tribunais ou outras vias de reparação.",
+   "flashcards": [
+    {
+     "frente": "Quais etapas compõem a diligência em direitos humanos?",
+     "verso": "Identificar, prevenir, mitigar e prestar contas; acompanhar e comunicar respostas.",
+     "dispositivo": "Princípios Orientadores da ONU, Princípio 17"
+    },
+    {
+     "frente": "Quando a empresa deve reparar impacto adverso?",
+     "verso": "Quando o causou ou para ele contribuiu, deve reparar ou cooperar com a reparação.",
+     "dispositivo": "Princípios Orientadores da ONU, Princípio 22"
+    },
+    {
+     "frente": "Um canal de queixas da empresa substitui o Judiciário?",
+     "verso": "Não. Mecanismos operacionais complementam, sem impedir acesso a remédios legítimos.",
+     "dispositivo": "Princípios Orientadores da ONU, Princípios 27 e 29"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A diligência devida em direitos humanos é um procedimento contínuo que envolve identificar impactos, integrar conclusões às decisões, acompanhar respostas e comunicar como os impactos são tratados.",
+     "gabarito": "C",
+     "comentario": "O Princípio 17 descreve diligência contínua, com avaliação, integração, acompanhamento e comunicação; uma verificação isolada não satisfaz o processo.",
+     "dispositivo": "Princípios Orientadores da ONU, Princípios 17 a 21"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Se uma empresa contribuiu para uma violação, basta encerrar o contrato com o parceiro; a reparação das consequências nunca integra sua responsabilidade.",
+     "gabarito": "E",
+     "comentario": "Quando causou ou contribuiu para impactos adversos, a empresa deve providenciar ou cooperar com a reparação. Desligar-se da relação pode ser medida pertinente em certas circunstâncias, mas não apaga automaticamente danos já causados.",
+     "dispositivo": "Princípios Orientadores da ONU, Princípios 19 e 22"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Os mecanismos operacionais de reclamação devem ser acessíveis e previsíveis e podem servir como fonte de aprendizagem para aperfeiçoar a prevenção de danos.",
+     "gabarito": "C",
+     "comentario": "O Princípio 31 estabelece critérios de efetividade, incluindo legitimidade, acessibilidade, previsibilidade, equidade, transparência e aprendizagem contínua.",
+     "dispositivo": "Princípios Orientadores da ONU, Princípio 31"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Uma política corporativa de direitos humanos torna dispensável avaliar impactos concretos, desde que seja divulgada publicamente.",
+     "gabarito": "E",
+     "comentario": "A política é apenas um componente. O Princípio 17 exige processo de diligência que identifique e enfrente impactos reais ou potenciais, com integração, acompanhamento e comunicação.",
+     "dispositivo": "Princípios Orientadores da ONU, Princípios 16 e 17"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma mineradora identifica risco de deslocamento de comunidade tradicional por empreendimento ainda em fase de planejamento. Qual conduta melhor corresponde à diligência devida?",
+     "alternativas": {
+      "A": "Esperar o dano ocorrer para avaliar se haverá responsabilidade civil.",
+      "B": "Publicar um código genérico e tratar o risco como questão exclusivamente estatal.",
+      "C": "Mapear o impacto com participação dos grupos potencialmente afetados, incorporá-lo às decisões, adotar prevenção e acompanhar a eficácia das medidas.",
+      "D": "Transferir a avaliação ao fornecedor e encerrar o acompanhamento após a assinatura do contrato.",
+      "E": "Aguardar a conclusão de processo judicial para iniciar qualquer comunicação."
+     },
+     "gabarito": "C",
+     "comentario": "A diligência é preventiva e contínua. A avaliação deve identificar impactos, integrar resultados às decisões, acompanhar a resposta e comunicar, com atenção a grupos potencialmente afetados e à gravidade do risco.",
+     "dispositivo": "Princípios Orientadores da ONU, Princípios 17, 18, 19, 20 e 21"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma trabalhadora denuncia assédio por canal interno e teme retaliação. Qual desenho de mecanismo de reclamação é compatível com os parâmetros da ONU?",
+     "alternativas": {
+      "A": "Canal inacessível a terceiros e sem prazo de resposta, para preservar a discricionariedade empresarial.",
+      "B": "Procedimento previsível, acessível, equitativo e transparente, com proteção contra retaliação e sem impedir outros meios de reparação.",
+      "C": "Cláusula que exige renúncia ao Judiciário como condição para apresentar reclamação.",
+      "D": "Investigação conduzida exclusivamente pelo gestor denunciado, sem prestação de contas.",
+      "E": "Proibição de registrar queixas para evitar impactos sobre a reputação da empresa."
+     },
+     "gabarito": "B",
+     "comentario": "A efetividade exige critérios como acessibilidade, previsibilidade, equidade e transparência. O mecanismo não pode servir para impedir o acesso a outras vias de reparação.",
+     "dispositivo": "Princípios Orientadores da ONU, Princípios 29 e 31"
+    }
+   ]
+  }
+ ]
+}

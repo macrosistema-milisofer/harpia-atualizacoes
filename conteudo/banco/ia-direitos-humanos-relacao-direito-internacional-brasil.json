@@ -1,0 +1,328 @@
+{
+ "assunto": "Direitos Humanos — Relação entre o direito internacional dos direitos humanos e o direito brasileiro",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 (CF, Decreto 678/1992 e Decreto 6.949/2009 conferidos no Planalto; jurisprudência consultada no STF)",
+ "origem": "2026-11-23_banco-direitos-humanos-relacao-direito-internacional-brasil_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "dh-relacao-internacional-brasil-1",
+   "titulo": "Formação e ingresso dos tratados no direito brasileiro",
+   "microconteudo": "A participação do Brasil em tratado de direitos humanos envolve atos internacionais e competências constitucionais internas. O Presidente da República mantém relações com Estados estrangeiros e celebra tratados, sujeitos ao referendo do Congresso, conforme o art. 84, VIII, da Constituição; cabe ao Congresso resolver definitivamente sobre compromissos internacionais nas hipóteses do art. 49, I. A aprovação parlamentar, a ratificação pelo Executivo e a promulgação/publicação são etapas distintas: o decreto de promulgação torna o texto acessível e executável internamente, como ocorreu com a Convenção Americana pelo Decreto 678/1992. A aprovação pelo Congresso, por si só, não deve ser confundida com a ratificação internacional nem com a publicação do decreto. Depois de incorporado, o tratado passa a integrar o conjunto normativo que autoridades nacionais devem aplicar segundo sua posição hierárquica e seu âmbito. A Constituição continua sendo o parâmetro superior do processo; a celebração internacional não autoriza o Executivo a contornar competências internas. Para resolver um caso, identifique primeiro o instrumento, sua vigência para o Brasil e os atos internos de aprovação e promulgação, antes de discutir conteúdo ou hierarquia.",
+   "flashcards": [
+    {
+     "frente": "Quem celebra tratados em nome do Brasil?",
+     "verso": "O Presidente da República, sujeitos os atos ao referendo do Congresso Nacional.",
+     "dispositivo": "CF, art. 84, VIII"
+    },
+    {
+     "frente": "Qual competência do Congresso aparece no art. 49, I?",
+     "verso": "Resolver definitivamente sobre tratados que acarretem encargos ou compromissos gravosos ao patrimônio nacional.",
+     "dispositivo": "CF, art. 49, I"
+    },
+    {
+     "frente": "O Decreto 678/1992 promulgou qual tratado?",
+     "verso": "A Convenção Americana sobre Direitos Humanos, também chamada Pacto de São José da Costa Rica.",
+     "dispositivo": "Decreto 678/1992, art. 1º"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A competência presidencial para celebrar tratados está sujeita ao referendo do Congresso Nacional, conforme a Constituição.",
+     "gabarito": "C",
+     "comentario": "A atribuição de manter relações e celebrar tratados é privativa do Presidente, mas o próprio texto constitucional submete esses atos ao referendo congressual. Base: CF, art. 84, VIII.",
+     "dispositivo": "CF, art. 84, VIII"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A aprovação congressual de um tratado e sua promulgação por decreto são um único ato, praticado exclusivamente pelo Congresso.",
+     "gabarito": "E",
+     "comentario": "A aprovação parlamentar e a promulgação executiva são atos distintos no procedimento brasileiro; a Constituição distribui competências entre Congresso e Presidente. Referências: CF, arts. 49, I, e 84, VIII; Decreto 678/1992, art. 1º.",
+     "dispositivo": "CF, arts. 49, I, e 84, VIII; Decreto 678/1992, art. 1º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O Decreto 678/1992 determinou que a Convenção Americana seja cumprida no Brasil conforme seu conteúdo.",
+     "gabarito": "C",
+     "comentario": "O art. 1º do decreto de promulgação dispõe que a Convenção Americana deverá ser cumprida tão inteiramente como nela se contém. Fonte normativa: Decreto 678/1992, art. 1º.",
+     "dispositivo": "Decreto 678/1992, art. 1º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Uma vez assinado pelo Presidente, qualquer tratado de direitos humanos pode ser aplicado internamente sem considerar aprovação parlamentar ou promulgação.",
+     "gabarito": "E",
+     "comentario": "A assinatura não elimina as competências constitucionais do Congresso nem torna dispensáveis as etapas internas pertinentes; o caso da Convenção Americana registra promulgação específica pelo Decreto 678/1992. Base: CF, arts. 49, I, e 84, VIII; Decreto 678/1992, art. 1º.",
+     "dispositivo": "CF, arts. 49, I, e 84, VIII; Decreto 678/1992, art. 1º"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma assessoria precisa descrever corretamente as competências constitucionais na celebração de tratado. Qual formulação está correta?",
+     "alternativas": {
+      "A": "O Presidente celebra tratados sujeitos ao referendo do Congresso; o Congresso exerce a competência do art. 49, I, nos casos ali previstos.",
+      "B": "O Congresso negocia e ratifica sozinho todos os tratados, sem participação presidencial.",
+      "C": "O Presidente pode afastar a Constituição ao celebrar acordo de direitos humanos.",
+      "D": "A publicação de um decreto substitui automaticamente toda aprovação congressual exigida.",
+      "E": "A assinatura presidencial, em qualquer hipótese, torna o tratado equivalente a emenda constitucional."
+     },
+     "gabarito": "A",
+     "comentario": "A alternativa reproduz a repartição constitucional: a celebração compete ao Presidente, sujeita ao referendo, e o Congresso resolve definitivamente as hipóteses do art. 49, I. Fundamento: CF, arts. 49, I, e 84, VIII.",
+     "dispositivo": "CF, arts. 49, I, e 84, VIII"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Ao estudar a incorporação da Convenção Americana, uma candidata consulta o decreto que a promulgou no Brasil. Qual ato deve localizar?",
+     "alternativas": {
+      "A": "Decreto 6.949/2009, que promulgou a Convenção Americana.",
+      "B": "Decreto Legislativo 186/2008, que aprovou a Convenção Americana pelo rito de emenda.",
+      "C": "Lei ordinária 678/1992, que substituiu o texto da Constituição.",
+      "D": "Decreto 678/1992, cujo art. 1º determina o cumprimento da Convenção Americana.",
+      "E": "Resolução do STF que ratificou internacionalmente o tratado."
+     },
+     "gabarito": "D",
+     "comentario": "O Decreto 678, de 6 de novembro de 1992, promulgou a Convenção Americana; o Decreto 6.949/2009 trata de outro instrumento, a Convenção sobre os Direitos das Pessoas com Deficiência. Referência: Decreto 678/1992, art. 1º.",
+     "dispositivo": "Decreto 678/1992, art. 1º"
+    }
+   ]
+  },
+  {
+   "id": "dh-relacao-internacional-brasil-2",
+   "titulo": "Posição hierárquica dos tratados de direitos humanos",
+   "microconteudo": "A Constituição oferece dois caminhos relevantes para a posição dos tratados de direitos humanos. O art. 5º, § 3º, atribui equivalência às emendas constitucionais aos tratados aprovados em cada Casa do Congresso, em dois turnos, por três quintos dos votos dos respectivos membros. O procedimento qualificado foi usado para a Convenção sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo, aprovados pelo Decreto Legislativo 186/2008 e promulgados pelo Decreto 6.949/2009. Para tratados de direitos humanos incorporados sem esse rito, o STF consolidou no RE 466.343/SP a posição supralegal: abaixo da Constituição e acima das leis ordinárias. Essa distinção não depende apenas do tema do tratado; importa também o procedimento constitucional de aprovação. O art. 5º, § 2º, preserva a abertura do catálogo de direitos a fontes internacionais, mas não declara que todo tratado seja emenda. Ao examinar uma norma, identifique a matéria e o rito de aprovação. Assim se evita tanto rebaixar tratado qualificado quanto atribuir hierarquia constitucional automática a instrumentos que não passaram pelo quórum especial.",
+   "flashcards": [
+    {
+     "frente": "Qual rito confere equivalência a emenda a tratado de direitos humanos?",
+     "verso": "Aprovação em cada Casa, em dois turnos, por três quintos dos votos dos membros.",
+     "dispositivo": "CF, art. 5º, § 3º"
+    },
+    {
+     "frente": "Qual posição o STF reconhece aos tratados de direitos humanos sem rito qualificado?",
+     "verso": "Caráter supralegal: abaixo da Constituição e acima da legislação infraconstitucional.",
+     "dispositivo": "STF, RE 466.343/SP, Tribunal Pleno, julgamento em 3/12/2008"
+    },
+    {
+     "frente": "Qual convenção foi aprovada conforme o art. 5º, § 3º?",
+     "verso": "A Convenção sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo.",
+     "dispositivo": "Decreto Legislativo 186/2008; Decreto 6.949/2009"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "Tratado de direitos humanos aprovado em cada Casa, em dois turnos, por três quintos dos votos tem equivalência às emendas constitucionais.",
+     "gabarito": "C",
+     "comentario": "O § 3º estabelece precisamente o quórum, o número de turnos e a aprovação em cada Casa necessários para essa equivalência. Base: CF, art. 5º, § 3º.",
+     "dispositivo": "CF, art. 5º, § 3º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Todo tratado de direitos humanos incorporado ao Brasil tem hierarquia de emenda, mesmo quando aprovado pelo rito legislativo ordinário.",
+     "gabarito": "E",
+     "comentario": "A equivalência constitucional depende do rito qualificado do § 3º; no RE 466.343/SP, o STF reconheceu caráter supralegal aos tratados de direitos humanos que não o observaram. Fontes: CF, art. 5º, § 3º; STF, RE 466.343/SP, Tribunal Pleno, julgamento em 3/12/2008.",
+     "dispositivo": "CF, art. 5º, § 3º; STF, RE 466.343/SP, Tribunal Pleno, julgamento em 3/12/2008"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Convenção sobre os Direitos das Pessoas com Deficiência foi aprovada pelo Congresso conforme o rito do art. 5º, § 3º.",
+     "gabarito": "C",
+     "comentario": "O Decreto 6.949/2009 registra que o Decreto Legislativo 186/2008 aprovou a Convenção e seu Protocolo segundo o procedimento qualificado. Referências: CF, art. 5º, § 3º; Decreto 6.949/2009, preâmbulo.",
+     "dispositivo": "CF, art. 5º, § 3º; Decreto 6.949/2009, preâmbulo"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Na jurisprudência do STF, o caráter supralegal coloca o tratado de direitos humanos abaixo de uma lei ordinária posterior.",
+     "gabarito": "E",
+     "comentario": "A supralegalidade situa o tratado acima da legislação infraconstitucional e abaixo da Constituição; o STF descreveu essa posição no RE 466.343/SP. Referência: STF, RE 466.343/SP, Tribunal Pleno, julgamento em 3/12/2008.",
+     "dispositivo": "STF, RE 466.343/SP, Tribunal Pleno, julgamento em 3/12/2008"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Um tratado de direitos humanos foi aprovado sem o rito do art. 5º, § 3º. Segundo a jurisprudência do STF, qual hierarquia se aplica?",
+     "alternativas": {
+      "A": "Constitucional, idêntica a emenda, em todos os casos.",
+      "B": "Inferior a qualquer regulamento administrativo.",
+      "C": "Supralegal, entre a Constituição e a legislação infraconstitucional.",
+      "D": "Superior à Constituição por decorrer do direito internacional.",
+      "E": "Sem efeito no direito interno após a promulgação."
+     },
+     "gabarito": "C",
+     "comentario": "O STF distinguiu os tratados qualificados, equivalentes a emendas, dos demais tratados de direitos humanos, aos quais atribuiu posição supralegal. Parâmetros: CF, art. 5º, § 3º; STF, RE 466.343/SP, Tribunal Pleno, julgamento em 3/12/2008.",
+     "dispositivo": "CF, art. 5º, § 3º; STF, RE 466.343/SP, Tribunal Pleno, julgamento em 3/12/2008"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma equipe compara a Convenção sobre os Direitos das Pessoas com Deficiência com o Pacto de São José. Qual afirmação está de acordo com Constituição e atos oficiais?",
+     "alternativas": {
+      "A": "Ambos foram aprovados automaticamente como emendas pelo simples ato de assinatura.",
+      "B": "A Convenção sobre deficiência foi aprovada pelo rito qualificado; a Convenção Americana, promulgada pelo Decreto 678/1992, recebeu do STF status supralegal.",
+      "C": "A Convenção Americana foi aprovada por rito qualificado no Decreto 6.949/2009.",
+      "D": "Nenhum tratado pode integrar o direito brasileiro antes de decisão da Corte IDH.",
+      "E": "O § 3º impede que qualquer tratado seja incorporado por outro rito."
+     },
+     "gabarito": "B",
+     "comentario": "O Decreto 6.949/2009 documenta o rito qualificado da Convenção sobre deficiência; o STF descreve a Convenção Americana como supralegal, pois não passou pelo procedimento de emenda. Referências: CF, art. 5º, § 3º; Decretos 678/1992 e 6.949/2009; STF, RE 466.343/SP, Tribunal Pleno, julgamento em 3/12/2008.",
+     "dispositivo": "CF, art. 5º, § 3º; Decretos 678/1992 e 6.949/2009; STF, RE 466.343/SP, Tribunal Pleno, julgamento em 3/12/2008"
+    }
+   ]
+  },
+  {
+   "id": "dh-relacao-internacional-brasil-3",
+   "titulo": "Aplicação interna e diálogo entre normas",
+   "microconteudo": "Tratados de direitos humanos vinculam o Brasil no plano internacional e, uma vez incorporados, integram o quadro normativo doméstico. A Constituição afirma que as normas definidoras de direitos e garantias fundamentais têm aplicação imediata (art. 5º, § 1º) e que os direitos constitucionais não excluem outros decorrentes de tratados de que o Brasil seja parte (§ 2º). Isso orienta a leitura conjunta de Constituição, legislação e tratado, com proteção efetiva da pessoa. A incidência concreta depende do texto da norma, da necessidade de medidas de implementação e da posição hierárquica do instrumento; nem todo dispositivo convencional resolve sozinho todos os detalhes de um caso. Quando houver mais de uma interpretação juridicamente possível, autoridades devem buscar coerência com os compromissos internacionais, respeitando as competências e garantias processuais. A incorporação tampouco apaga leis internas: exige identificar conflitos e aplicar critérios constitucionais e jurisprudenciais pertinentes. A Convenção Americana, promulgada pelo Decreto 678/1992, exemplifica um instrumento utilizado por tribunais brasileiros. Na análise, diferencie a existência de obrigação internacional, a vigência interna do tratado e a possibilidade de invocar sua regra específica no processo, explicando qualquer necessidade de providência legislativa ou administrativa adicional.",
+   "flashcards": [
+    {
+     "frente": "O que prevê o art. 5º, § 1º, sobre direitos fundamentais?",
+     "verso": "As normas definidoras desses direitos e garantias têm aplicação imediata.",
+     "dispositivo": "CF, art. 5º, § 1º"
+    },
+    {
+     "frente": "O § 2º fecha o catálogo constitucional de direitos?",
+     "verso": "Não; preserva direitos decorrentes do regime, princípios e tratados de que o Brasil seja parte.",
+     "dispositivo": "CF, art. 5º, § 2º"
+    },
+    {
+     "frente": "A incorporação torna dispensável analisar o conteúdo de cada regra?",
+     "verso": "Não. A incidência depende do texto, contexto, hierarquia e necessidade de implementação.",
+     "dispositivo": "CF, art. 5º, §§ 1º e 2º"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição estabelece aplicação imediata às normas definidoras de direitos e garantias fundamentais.",
+     "gabarito": "C",
+     "comentario": "A regra consta do § 1º do art. 5º e deve orientar a efetividade dos direitos fundamentais, sem dispensar a leitura do conteúdo de cada norma. Base: CF, art. 5º, § 1º.",
+     "dispositivo": "CF, art. 5º, § 1º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O catálogo constitucional exclui necessariamente qualquer direito que esteja previsto somente em tratado internacional.",
+     "gabarito": "E",
+     "comentario": "O § 2º afirma que os direitos expressos não excluem outros decorrentes de tratados de que o Brasil seja parte. Referência: CF, art. 5º, § 2º.",
+     "dispositivo": "CF, art. 5º, § 2º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A incorporação de um tratado dispensa o intérprete de verificar sua hierarquia e o alcance do dispositivo invocado.",
+     "gabarito": "E",
+     "comentario": "Para decidir um caso ainda é necessário identificar o alcance da regra, sua posição normativa e eventual necessidade de implementação; a incorporação não resolve automaticamente todas as questões de aplicação. Referências: CF, art. 5º, §§ 1º a 3º.",
+     "dispositivo": "CF, art. 5º, §§ 1º a 3º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição permite considerar direitos previstos em tratados na interpretação do sistema brasileiro de direitos fundamentais.",
+     "gabarito": "C",
+     "comentario": "O § 2º impede tratar a lista constitucional como fechada e reconhece a relevância de direitos oriundos de tratados ratificados pelo Brasil. Base: CF, art. 5º, § 2º.",
+     "dispositivo": "CF, art. 5º, § 2º"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Em ação sobre garantia protegida pela Convenção Americana, a parte cita o tratado promulgado pelo Brasil. Qual análise judicial é mais completa?",
+     "alternativas": {
+      "A": "Recusar a referência porque tratados nunca integram o direito interno.",
+      "B": "Aplicar qualquer trecho sem examinar seu conteúdo ou a situação concreta.",
+      "C": "Tratar o tratado como norma sempre superior à Constituição.",
+      "D": "Aguardar uma condenação internacional individual para que o tratado tenha validade interna.",
+      "E": "Considerar o tratado no quadro normativo, identificar o alcance da regra e relacioná-la à Constituição e às normas aplicáveis."
+     },
+     "gabarito": "E",
+     "comentario": "A Constituição abre o catálogo a direitos convencionais e o Decreto 678/1992 promulgou a Convenção Americana; a análise deve especificar a regra e seu alcance no caso concreto. Referências: CF, art. 5º, §§ 1º e 2º; Decreto 678/1992, art. 1º.",
+     "dispositivo": "CF, art. 5º, §§ 1º e 2º; Decreto 678/1992, art. 1º"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma juíza encontra duas leituras plausíveis de uma lei doméstica, uma das quais protege melhor direito previsto em tratado vigente. Qual método é compatível com o sistema?",
+     "alternativas": {
+      "A": "Examinar o texto convencional e buscar coerência interpretativa, sem ignorar Constituição, competência e garantias do processo.",
+      "B": "Presumir que a lei interna sempre prevalece, qualquer que seja a hierarquia do tratado.",
+      "C": "Declarar inválida toda lei nacional que se relacione com direitos humanos.",
+      "D": "Delegar a decisão a órgão internacional sem resolver a demanda interna.",
+      "E": "Desconsiderar o art. 5º, § 2º, por ser norma sem conteúdo jurídico."
+     },
+     "gabarito": "A",
+     "comentario": "A interpretação sistemática considera a abertura constitucional aos direitos convencionais, mas exige respeito à hierarquia, à competência e ao processo. Fundamentos: CF, art. 5º, §§ 1º e 2º; Convenção Americana, arts. 1.1 e 2.",
+     "dispositivo": "CF, art. 5º, §§ 1º e 2º; Convenção Americana, arts. 1.1 e 2"
+    }
+   ]
+  },
+  {
+   "id": "dh-relacao-internacional-brasil-4",
+   "titulo": "Responsabilidade internacional e cumprimento interno",
+   "microconteudo": "A organização federativa brasileira não divide a responsabilidade internacional do Estado perante os demais sujeitos internacionais. A União, os Estados, o Distrito Federal e os Municípios exercem competências internas próprias, mas atos ou omissões de autoridades de qualquer nível podem envolver obrigação internacional atribuída ao Brasil. A Convenção Americana exige respeito e garantia dos direitos reconhecidos (art. 1.1) e medidas legislativas ou de outra natureza para torná-los efetivos (art. 2). Por isso, o cumprimento pode exigir atuação coordenada de órgãos federais, estaduais e municipais, conforme a competência constitucional de cada um. Uma dificuldade administrativa ou repartição doméstica de atribuições não altera o compromisso internacional assumido pelo país. No plano interno, a solução deve identificar qual autoridade pode adotar a providência, qual medida é juridicamente cabível e como preservar direitos e garantias. No plano internacional, a Corte Interamericana pode declarar responsabilidade e ordenar reparações dentro de sua competência; isso não a transforma em instância recursal geral de toda decisão nacional. Distinguir os planos ajuda a evitar dois erros: atribuir automaticamente a obrigação a um único ente interno e supor que a supervisão internacional substitui a implementação nacional.",
+   "flashcards": [
+    {
+     "frente": "A federação permite ao Brasil opor sua divisão interna para afastar dever convencional?",
+     "verso": "Não; a repartição doméstica de competências não elimina o compromisso internacional do Estado.",
+     "dispositivo": "Convenção Americana, arts. 1.1 e 2"
+    },
+    {
+     "frente": "Que obrigações gerais constam dos arts. 1.1 e 2 da Convenção Americana?",
+     "verso": "Respeitar e garantir direitos e adotar medidas internas para torná-los efetivos.",
+     "dispositivo": "Convenção Americana, arts. 1.1 e 2; Decreto 678/1992"
+    },
+    {
+     "frente": "A Corte IDH funciona como tribunal recursal geral do Brasil?",
+     "verso": "Não; examina responsabilidade internacional nos limites da competência que lhe foi reconhecida.",
+     "dispositivo": "Convenção Americana, arts. 62 e 63; Decreto Legislativo 89/1998"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A Convenção Americana impõe aos Estados-partes deveres de respeito e garantia dos direitos reconhecidos.",
+     "gabarito": "C",
+     "comentario": "O art. 1.1 compromete os Estados a respeitar os direitos e a garantir seu livre e pleno exercício às pessoas sob sua jurisdição. Referência: Convenção Americana, art. 1.1; Decreto 678/1992, art. 1º.",
+     "dispositivo": "Convenção Americana, art. 1.1; Decreto 678/1992, art. 1º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O Brasil pode afastar responsabilidade internacional quando a autoridade envolvida pertence a Estado ou Município, e não à União.",
+     "gabarito": "E",
+     "comentario": "A distribuição interna de atribuições não transforma o ente federativo em sujeito internacional distinto perante o tratado; o compromisso vincula o Brasil como Estado-parte. Base: Convenção Americana, arts. 1.1 e 2; Decreto 678/1992, art. 1º.",
+     "dispositivo": "Convenção Americana, arts. 1.1 e 2; Decreto 678/1992, art. 1º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A obrigação convencional de adotar medidas internas pode demandar providências legislativas ou de outra natureza.",
+     "gabarito": "C",
+     "comentario": "O art. 2º da Convenção prevê medidas legislativas ou de outra natureza necessárias para tornar efetivos os direitos e liberdades. Fonte: Convenção Americana, art. 2; Decreto 678/1992, art. 1º.",
+     "dispositivo": "Convenção Americana, art. 2; Decreto 678/1992, art. 1º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A existência de mecanismo internacional torna desnecessária qualquer providência de implementação por autoridades brasileiras.",
+     "gabarito": "E",
+     "comentario": "Os arts. 1.1 e 2 impõem deveres ao Estado-parte, inclusive medidas internas; a supervisão internacional não substitui o cumprimento nacional. Referência: Convenção Americana, arts. 1.1 e 2; Decreto 678/1992, art. 1º.",
+     "dispositivo": "Convenção Americana, arts. 1.1 e 2; Decreto 678/1992, art. 1º"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma violação de direito convencional decorreu de omissão de órgão estadual. Qual abordagem melhor concilia federalismo e compromisso internacional?",
+     "alternativas": {
+      "A": "Afirmar que apenas a União pode responder, mesmo que outro ente tenha competência para agir.",
+      "B": "Reconhecer que o Brasil permanece vinculado e identificar, no plano interno, a autoridade competente para adotar a medida necessária.",
+      "C": "Concluir que a federação extingue a obrigação do tratado dentro dos Estados.",
+      "D": "Transferir automaticamente a competência do órgão estadual à Corte IDH.",
+      "E": "Aguardar alteração formal do tratado antes de reparar a violação."
+     },
+     "gabarito": "B",
+     "comentario": "O Estado brasileiro responde pelo cumprimento do compromisso, enquanto a execução doméstica deve respeitar a repartição constitucional de competências e indicar a autoridade apta. Fundamento: Convenção Americana, arts. 1.1 e 2; CF, art. 18.",
+     "dispositivo": "Convenção Americana, arts. 1.1 e 2; CF, art. 18"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Após reconhecer violação da Convenção Americana em caso sob sua jurisdição, a Corte IDH avalia reparações. Qual descrição corresponde ao sistema?",
+     "alternativas": {
+      "A": "A Corte atua como tribunal de apelação obrigatório de todo processo brasileiro.",
+      "B": "A Corte pode apenas recomendar que o Legislativo reexamine a matéria, sem reparação.",
+      "C": "A Corte pode assegurar o gozo do direito violado, reparar consequências e fixar justa indenização, se cabível.",
+      "D": "A Corte julga diretamente a responsabilidade criminal individual de qualquer agente público nacional.",
+      "E": "A Corte não pode determinar reparação porque isso pertence exclusivamente aos tribunais internos."
+     },
+     "gabarito": "C",
+     "comentario": "O art. 63.1 autoriza a Corte, ao reconhecer violação, a assegurar o gozo do direito, reparar as consequências e determinar justa indenização quando cabível. Essa competência internacional não equivale a apelação geral. Referência: Convenção Americana, art. 63.1; Decreto 678/1992, art. 1º.",
+     "dispositivo": "Convenção Americana, art. 63.1; Decreto 678/1992, art. 1º"
+    }
+   ]
+  }
+ ]
+}

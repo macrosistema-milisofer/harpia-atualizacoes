@@ -1,0 +1,328 @@
+{
+ "assunto": "Direitos Humanos — Sistema global de proteção dos direitos humanos",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 (mecanismos e procedimentos conferidos em fontes oficiais da ONU/OHCHR)",
+ "origem": "2026-11-23_banco-direitos-humanos-sistema-global_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "dh-sistema-global-1",
+   "titulo": "Arquitetura global: Carta da ONU, Conselho e OHCHR",
+   "microconteudo": "A proteção global dos direitos humanos na ONU combina órgãos políticos, serviços técnicos e mecanismos de monitoramento. A Assembleia Geral criou o Conselho de Direitos Humanos em 2006; ele é órgão intergovernamental subsidiário da Assembleia, composto por Estados, e conduz a Revisão Periódica Universal. O Alto Comissariado das Nações Unidas para os Direitos Humanos (OHCHR) integra o Secretariado da ONU: presta apoio técnico, acompanha situações e auxilia os mecanismos, mas não é tribunal nem substitui o Conselho. A estrutura também inclui órgãos de tratados, formados por especialistas independentes com atribuições previstas em convenções específicas, e procedimentos especiais, cujos titulares são especialistas independentes com mandatos temáticos ou por país. É importante separar a fonte do mandato: alguns mecanismos decorrem da Carta da ONU e podem tratar de padrões gerais; outros recebem competência de um tratado e monitoram os Estados que o aceitaram. Relatórios e recomendações ajudam a identificar falhas e orientar reformas, mas cada mecanismo tem poderes e procedimentos próprios. A existência de supervisão internacional não elimina a obrigação estatal de proteger direitos nem transforma automaticamente recomendações em decisões judiciais executáveis.",
+   "flashcards": [
+    {
+     "frente": "O Conselho de Direitos Humanos é um tribunal?",
+     "verso": "Não. É órgão intergovernamental da ONU, subsidiário da Assembleia Geral.",
+     "dispositivo": "ONU, Resolução da Assembleia Geral 60/251, §§ 1 e 5"
+    },
+    {
+     "frente": "Qual é o papel geral do OHCHR?",
+     "verso": "Apoiar e promover o trabalho de direitos humanos da ONU; não julga casos como tribunal.",
+     "dispositivo": "OHCHR, About the Office of the High Commissioner for Human Rights, https://www.ohchr.org/en/about-us"
+    },
+    {
+     "frente": "Quem compõe os órgãos de tratados?",
+     "verso": "Comitês de especialistas independentes, com mandatos estabelecidos nos tratados pertinentes.",
+     "dispositivo": "OHCHR, Human Rights Treaty Bodies, https://www.ohchr.org/en/treaty-bodies"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "O Conselho de Direitos Humanos é um órgão intergovernamental subsidiário da Assembleia Geral da ONU, com funções próprias de promoção e proteção dos direitos humanos.",
+     "gabarito": "C",
+     "comentario": "A Assembleia Geral instituiu o Conselho como órgão subsidiário e lhe atribuiu, entre outras funções, promover o respeito universal e tratar de situações de violações de direitos humanos.",
+     "dispositivo": "ONU, Resolução da Assembleia Geral 60/251, §§ 1 e 3"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O OHCHR é uma corte internacional que profere sentenças vinculantes contra Estados em processos individuais.",
+     "gabarito": "E",
+     "comentario": "O Alto Comissariado é parte do Secretariado e presta liderança, apoio e assistência técnica; não exerce jurisdição contenciosa nem profere sentenças como uma corte.",
+     "dispositivo": "OHCHR, About the Office of the High Commissioner for Human Rights, https://www.ohchr.org/en/about-us"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Órgãos de tratados e procedimentos especiais possuem mandatos e bases institucionais distintos dentro do sistema global da ONU.",
+     "gabarito": "C",
+     "comentario": "Os comitês monitoram tratados determinados, enquanto os procedimentos especiais recebem mandatos do Conselho e atuam por tema ou país; a competência de um não se presume da outra.",
+     "dispositivo": "OHCHR, Human Rights Mechanisms, https://europe.ohchr.org/human-rights/human-rights-mechanism; OHCHR, Special Procedures, https://www.ohchr.org/en/special-procedures-human-rights-council"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A criação de mecanismos internacionais transfere a eles toda a responsabilidade primária de proteger direitos humanos dentro do território de cada Estado.",
+     "gabarito": "E",
+     "comentario": "A supervisão internacional complementa os deveres estatais; os tratados impõem aos Estados partes obrigações de respeitar, proteger e assegurar os direitos previstos.",
+     "dispositivo": "Carta das Nações Unidas, arts. 55 e 56; OHCHR, Human Rights Treaty Bodies, https://www.ohchr.org/en/treaty-bodies"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma equipe quer identificar qual mecanismo examina periodicamente a situação de direitos humanos de todos os Estados-membros, por avaliação entre Estados. Qual opção corresponde a essa descrição?",
+     "alternativas": {
+      "A": "A Revisão Periódica Universal, conduzida sob os auspícios do Conselho de Direitos Humanos.",
+      "B": "O Comitê de Direitos Humanos, que julga toda denúncia individual sem depender de tratado.",
+      "C": "O OHCHR, atuando como corte permanente de apelação das decisões nacionais.",
+      "D": "A Corte Internacional de Justiça, em processos individuais apresentados por qualquer pessoa.",
+      "E": "O Conselho de Segurança, por meio de pareceres obrigatórios sobre cada Estado."
+     },
+     "gabarito": "A",
+     "comentario": "A Revisão Periódica Universal é o mecanismo de avaliação entre pares do Conselho que examina o histórico de direitos humanos de todos os Estados-membros da ONU.",
+     "dispositivo": "OHCHR, Universal Periodic Review, https://www.ohchr.org/en/hr-bodies/upr/basic-facts"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Ao preparar uma nota institucional, uma assessoria precisa descrever corretamente o OHCHR. Qual formulação é adequada?",
+     "alternativas": {
+      "A": "É o órgão que ratifica tratados em nome dos Estados.",
+      "B": "É um tribunal que anula leis nacionais incompatíveis com tratados.",
+      "C": "É um comitê formado por representantes governamentais que substitui o Conselho.",
+      "D": "É o órgão do Secretariado que apoia e promove a atuação da ONU em direitos humanos, sem exercer função de corte.",
+      "E": "É uma organização não governamental externa ao sistema das Nações Unidas."
+     },
+     "gabarito": "D",
+     "comentario": "O OHCHR é o escritório do Alto Comissário no âmbito do Secretariado da ONU e oferece apoio e liderança; não tem competência judicial para invalidar normas nacionais.",
+     "dispositivo": "OHCHR, About the Office of the High Commissioner for Human Rights, https://www.ohchr.org/en/about-us"
+    }
+   ]
+  },
+  {
+   "id": "dh-sistema-global-2",
+   "titulo": "Órgãos de tratados e monitoramento convencional",
+   "microconteudo": "Os órgãos de tratados são comitês de especialistas independentes que monitoram a aplicação de convenções internacionais de direitos humanos pelos respectivos Estados partes. O acompanhamento costuma incluir análise de relatórios estatais, diálogo com o governo e publicação de observações finais, que apontam avanços, lacunas e recomendações. Alguns comitês também podem examinar comunicações individuais, conduzir inquéritos ou realizar visitas, mas somente quando o tratado ou um protocolo aplicável lhes confere essa atribuição e o Estado a aceitou. No caso do Comitê de Direitos Humanos, por exemplo, o Pacto Internacional sobre Direitos Civis e Políticos institui o Comitê, enquanto o Primeiro Protocolo Facultativo estabelece a competência para receber comunicações de pessoas sujeitas à jurisdição de um Estado parte naquele protocolo. A via individual tem requisitos próprios de admissibilidade; em regra, exige que os recursos internos disponíveis tenham sido esgotados, salvo exceções reconhecidas pelo instrumento. Os comitês não são tribunais nacionais de apelação e não repetem automaticamente o julgamento dos fatos. Suas interpretações e recomendações auxiliam o cumprimento das obrigações convencionais, sem dispensar a análise do texto do tratado e do procedimento aceito pelo Estado.",
+   "flashcards": [
+    {
+     "frente": "O que os órgãos de tratados monitoram?",
+     "verso": "O cumprimento, pelos Estados partes, das convenções que instituem seus mandatos.",
+     "dispositivo": "OHCHR, Human Rights Treaty Bodies, https://www.ohchr.org/en/treaty-bodies"
+    },
+    {
+     "frente": "A denúncia individual é automática em todo tratado?",
+     "verso": "Não. É preciso que o Estado tenha aceitado o procedimento aplicável.",
+     "dispositivo": "OHCHR, Treaty Body Complaint Procedures FAQ, https://www.ohchr.org/Documents/HRBodies/TB/23FAQ.pdf"
+    },
+    {
+     "frente": "O que é uma observação final?",
+     "verso": "Conclusão do comitê após examinar o relatório estatal e dialogar sobre a implementação do tratado.",
+     "dispositivo": "OHCHR, Treaty Bodies, https://www.ohchr.org/en/treaty-bodies"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "Os comitês de tratados são compostos por especialistas independentes e monitoram a implementação dos instrumentos internacionais que lhes atribuem competência.",
+     "gabarito": "C",
+     "comentario": "O mandato dos treaty bodies deriva dos tratados centrais e de protocolos pertinentes; seus integrantes são especialistas independentes, e cada comitê acompanha o instrumento correspondente.",
+     "dispositivo": "OHCHR, Human Rights Treaty Bodies, https://www.ohchr.org/en/treaty-bodies"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A ratificação de um tratado torna, sem qualquer condição adicional, todos os seus comitês competentes para receber petições individuais contra o Estado.",
+     "gabarito": "E",
+     "comentario": "A competência para comunicações individuais depende de previsão e aceitação do procedimento específico; alguns mecanismos são facultativos e podem estar em protocolo separado.",
+     "dispositivo": "OHCHR, Treaty Body Complaint Procedures FAQ, https://www.ohchr.org/Documents/HRBodies/TB/23FAQ.pdf"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O exame periódico de relatórios pode culminar em observações finais que identifiquem questões pendentes e recomendem medidas ao Estado parte.",
+     "gabarito": "C",
+     "comentario": "No procedimento de relatórios, o comitê avalia a implementação, dialoga com o Estado e publica observações finais com conclusões e recomendações para o acompanhamento.",
+     "dispositivo": "OHCHR, Human Rights Treaty Bodies, https://www.ohchr.org/en/treaty-bodies"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Ao receber uma comunicação individual, um comitê de tratado funciona como tribunal de recurso e deve reapreciar livremente todas as provas e substituir a decisão nacional.",
+     "gabarito": "E",
+     "comentario": "Os comitês não atuam como instância recursal geral nem realizam novo julgamento de fatos; avaliam se houve violação das obrigações do tratado segundo o procedimento aceito.",
+     "dispositivo": "OHCHR, Treaty Body Complaint Procedures FAQ, https://www.ohchr.org/Documents/HRBodies/TB/23FAQ.pdf"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma pessoa pretende apresentar comunicação ao Comitê de Direitos Humanos com base no PIDCP. Qual condição institucional deve verificar antes de avaliar os demais requisitos?",
+     "alternativas": {
+      "A": "Se o Estado denunciado autorizou a ONU a reabrir processo criminal interno.",
+      "B": "Se o Estado é membro permanente do Conselho de Segurança.",
+      "C": "Se o Estado ratificou a Carta da OEA, única base para a competência do Comitê.",
+      "D": "Se o OHCHR concedeu licença para advogar perante a Corte Internacional de Justiça.",
+      "E": "Se o Estado é parte do Primeiro Protocolo Facultativo ao PIDCP, que reconhece a competência para comunicações individuais."
+     },
+     "gabarito": "E",
+     "comentario": "O Primeiro Protocolo Facultativo ao PIDCP estabelece a competência do Comitê para receber comunicações de indivíduos contra Estados que sejam partes do protocolo, observados os requisitos de admissibilidade.",
+     "dispositivo": "Primeiro Protocolo Facultativo ao PIDCP, arts. 1º e 2º, https://www.ohchr.org/en/instruments-mechanisms/instruments/optional-protocol-international-covenant-civil-and-political"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Um Estado parte recebe observações finais após o exame de seu relatório. Qual leitura descreve melhor a função do documento?",
+     "alternativas": {
+      "A": "É uma sentença internacional que anula automaticamente a legislação interna.",
+      "B": "É uma avaliação do comitê sobre a implementação do tratado, com conclusões e recomendações para orientar providências posteriores.",
+      "C": "É uma emenda ao tratado aprovada unilateralmente pelo comitê.",
+      "D": "É uma decisão que retira o Estado da ONU até o cumprimento integral das recomendações.",
+      "E": "É um relatório de ONG sem vínculo com o monitoramento convencional."
+     },
+     "gabarito": "B",
+     "comentario": "As observações finais registram a avaliação do comitê e orientam a implementação do tratado; não são sentenças que invalidam diretamente normas internas.",
+     "dispositivo": "OHCHR, Human Rights Treaty Bodies, https://www.ohchr.org/en/treaty-bodies"
+    }
+   ]
+  },
+  {
+   "id": "dh-sistema-global-3",
+   "titulo": "Revisão Periódica Universal: avaliação entre pares",
+   "microconteudo": "A Revisão Periódica Universal (RPU) é um mecanismo do Conselho de Direitos Humanos que examina periodicamente a situação de direitos humanos de todos os Estados-membros da ONU. Diferentemente dos comitês de tratados, a RPU não está vinculada à ratificação de uma convenção específica: seu foco é avaliar o cumprimento das obrigações e compromissos de cada Estado, com base na Carta da ONU, na Declaração Universal, nos tratados aplicáveis e em compromissos voluntários. A revisão ocorre em diálogo entre Estados, no Grupo de Trabalho da RPU, com apoio do OHCHR. A documentação considera informações apresentadas pelo Estado, material da ONU e contribuições de outros atores, como instituições nacionais e organizações da sociedade civil. O resultado reúne recomendações dirigidas ao Estado examinado; este indica quais aceita apoiar e quais apenas toma nota. Esse posicionamento permite acompanhar compromissos políticos e medidas posteriores, mas não altera o texto dos tratados nem transforma cada recomendação em sentença judicial. A RPU é universal e cooperativa: cada Estado passa pelo processo, e a avaliação deve considerar tanto avanços como desafios. O mecanismo complementa os órgãos de tratados e procedimentos especiais, sem substituir os deveres jurídicos que já decorrem de normas vinculantes.",
+   "flashcards": [
+    {
+     "frente": "A quem se aplica a RPU?",
+     "verso": "A todos os Estados-membros da ONU, em ciclos periódicos de revisão.",
+     "dispositivo": "OHCHR, Universal Periodic Review — Basic Facts, https://www.ohchr.org/en/hr-bodies/upr/basic-facts"
+    },
+    {
+     "frente": "Quem conduz a RPU?",
+     "verso": "O Conselho de Direitos Humanos, por meio de revisão entre Estados no Grupo de Trabalho.",
+     "dispositivo": "Conselho de Direitos Humanos, Resolução 5/1, anexo, §§ 1–4"
+    },
+    {
+     "frente": "O que significa uma recomendação ser “notada”?",
+     "verso": "O Estado registra a recomendação sem declará-la apoiada; o resultado documenta sua posição.",
+     "dispositivo": "OHCHR, UPR — Guidance Note on Addenda to Working Group Reports, 6 jun. 2024"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A RPU submete todos os Estados-membros da ONU a uma revisão periódica conduzida no âmbito do Conselho de Direitos Humanos.",
+     "gabarito": "C",
+     "comentario": "A universalidade é característica central do mecanismo: todos os Estados-membros passam por revisão periódica, em processo cooperativo entre pares.",
+     "dispositivo": "OHCHR, Universal Periodic Review — Basic Facts, https://www.ohchr.org/en/hr-bodies/upr/basic-facts"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A RPU só pode examinar um Estado depois que ele ratifica o tratado específico que criou o Grupo de Trabalho da revisão.",
+     "gabarito": "E",
+     "comentario": "A RPU é mecanismo do Conselho aplicável a todos os Estados-membros; não depende da ratificação de um tratado específico para que ocorra a revisão.",
+     "dispositivo": "Conselho de Direitos Humanos, Resolução 5/1, anexo, §§ 1–4; OHCHR, Universal Periodic Review — Basic Facts, https://www.ohchr.org/en/hr-bodies/upr/basic-facts"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O resultado da revisão registra recomendações e a posição do Estado examinado, que pode apoiá-las ou delas tomar nota.",
+     "gabarito": "C",
+     "comentario": "As regras da RPU preveem que o Estado indique sua posição sobre cada recomendação; o relatório registra recomendações apoiadas e notadas.",
+     "dispositivo": "Conselho de Direitos Humanos, Resolução 5/1, anexo, § 32; OHCHR, UPR Guidance Note, 6 jun. 2024"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Toda recomendação emitida na RPU equivale, por si só, a uma sentença internacional executável que modifica automaticamente a legislação doméstica.",
+     "gabarito": "E",
+     "comentario": "A RPU produz recomendações e acompanhamento político entre pares; obrigações jurídicas vinculantes decorrem das normas aplicáveis, não de uma conversão automática da recomendação em sentença.",
+     "dispositivo": "Conselho de Direitos Humanos, Resolução 5/1, anexo, §§ 32–33"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma assessoria organiza as fontes normalmente consideradas na revisão de um país. Qual descrição é compatível com o procedimento da RPU?",
+     "alternativas": {
+      "A": "Somente decisões de tribunais nacionais podem ser consideradas.",
+      "B": "Apenas dados apresentados por Estados vizinhos são admitidos.",
+      "C": "A revisão usa informações do Estado, material da ONU e contribuições de outros atores, incluindo instituições e sociedade civil.",
+      "D": "O procedimento exclui informações de agências da ONU para preservar a autonomia estatal.",
+      "E": "A RPU utiliza exclusivamente petições individuais recebidas por comitês de tratados."
+     },
+     "gabarito": "C",
+     "comentario": "A documentação de base reúne o relatório nacional, compilação de informações da ONU e resumo das contribuições de outros interessados, permitindo uma avaliação mais ampla.",
+     "dispositivo": "Conselho de Direitos Humanos, Resolução 5/1, anexo, § 15; OHCHR, Universal Periodic Review — Basic Facts, https://www.ohchr.org/en/hr-bodies/upr/basic-facts"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Após a revisão, o Estado informa que apoiará algumas recomendações e tomará nota de outras. Como interpretar essa resposta?",
+     "alternativas": {
+      "A": "É o registro oficial da posição estatal sobre cada recomendação, que subsidia o acompanhamento do ciclo.",
+      "B": "É a ratificação automática de novos tratados internacionais.",
+      "C": "É uma sentença vinculante da Corte Internacional de Justiça.",
+      "D": "É a retirada do Estado do mecanismo até o próximo ciclo.",
+      "E": "É uma decisão do OHCHR que substitui o relatório do Grupo de Trabalho."
+     },
+     "gabarito": "A",
+     "comentario": "O Estado deve comunicar se apoia ou toma nota das recomendações; essa distinção é registrada no resultado e permite acompanhar respostas e compromissos.",
+     "dispositivo": "Conselho de Direitos Humanos, Resolução 5/1, anexo, § 32; OHCHR, UPR Guidance Note, 6 jun. 2024"
+    }
+   ]
+  },
+  {
+   "id": "dh-sistema-global-4",
+   "titulo": "Procedimentos especiais e comunicações urgentes",
+   "microconteudo": "Os procedimentos especiais do Conselho de Direitos Humanos são mandatos exercidos por especialistas independentes, individualmente ou em grupos de trabalho. Alguns tratam de tema — como liberdade de expressão ou direito à água — e outros acompanham a situação de um país. Suas atividades podem incluir visitas, estudos, recomendações e comunicações dirigidas a governos ou a outros atores quando recebem informações sobre violações ocorridas, em curso ou com risco de ocorrer. Uma comunicação pode pedir esclarecimentos e medidas para prevenir, interromper, investigar ou remediar o dano; por si só, não é sentença nem decisão vinculante de tribunal. O recebimento de uma comunicação não exige necessariamente que o Estado tenha ratificado um tratado específico nem que a vítima tenha esgotado recursos internos, pois o mandato especial não deriva de uma cláusula individual de tratado. Ainda assim, os especialistas avaliam se a informação é suficientemente concreta, confiável e pertinente ao mandato, e podem decidir não agir. A identidade e a segurança de vítimas e fontes exigem cuidado. Os procedimentos especiais complementam os órgãos de tratados e a RPU; não substituem investigações internas, recursos judiciais ou outras medidas de proteção disponíveis.",
+   "flashcards": [
+    {
+     "frente": "Quem exerce os procedimentos especiais?",
+     "verso": "Especialistas independentes com mandatos temáticos ou relativos a países.",
+     "dispositivo": "OHCHR, Special Procedures of the Human Rights Council, https://www.ohchr.org/en/special-procedures-human-rights-council"
+    },
+    {
+     "frente": "Uma comunicação especial é uma sentença?",
+     "verso": "Não. É uma intervenção para chamar atenção, pedir esclarecimentos e ações pertinentes.",
+     "dispositivo": "OHCHR, Submission of information to Special Procedures, https://spsubmission.ohchr.org/en"
+    },
+    {
+     "frente": "É necessário esgotar recursos internos para submeter informação?",
+     "verso": "Não como requisito geral dos procedimentos especiais; cada titular avalia a informação e o mandato.",
+     "dispositivo": "OHCHR, Submission of information to Special Procedures, https://spsubmission.ohchr.org/en"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "Os procedimentos especiais podem ter mandatos temáticos ou relativos a países e são exercidos por especialistas independentes.",
+     "gabarito": "C",
+     "comentario": "O Conselho estabelece mandatos temáticos e por país; seus titulares são especialistas independentes que monitoram, relatam e aconselham dentro do escopo recebido.",
+     "dispositivo": "OHCHR, Special Procedures of the Human Rights Council, https://www.ohchr.org/en/special-procedures-human-rights-council"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Toda comunicação enviada por um relator especial constitui decisão judicial final e determina indenização executável contra o Estado destinatário.",
+     "gabarito": "E",
+     "comentario": "A comunicação é uma carta de intervenção que expõe alegações, formula perguntas e pode pedir acompanhamento; não tem natureza de sentença judicial executável.",
+     "dispositivo": "OHCHR, Submission of information to Special Procedures, https://spsubmission.ohchr.org/en"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Os titulares podem enviar comunicações sobre violações passadas, em curso ou com risco de ocorrer, conforme as informações e o mandato aplicável.",
+     "gabarito": "C",
+     "comentario": "O OHCHR distingue cartas de alegação para fatos ocorridos e apelos urgentes para violações em curso ou potenciais, além de comunicações sobre normas e práticas preocupantes.",
+     "dispositivo": "OHCHR, Submission of information to Special Procedures, https://spsubmission.ohchr.org/en"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Para qualquer atuação dos procedimentos especiais, é obrigatório que o Estado tenha ratificado o tratado relacionado e que a vítima tenha esgotado todos os recursos internos.",
+     "gabarito": "E",
+     "comentario": "O procedimento de submissão informa que os especialistas não exigem ratificação de tratado nem esgotamento de recursos domésticos para enviar uma comunicação, embora possam aplicar critérios de credibilidade e pertinência.",
+     "dispositivo": "OHCHR, Submission of information to Special Procedures, https://spsubmission.ohchr.org/en"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma organização relata ameaça iminente contra defensores ambientais e envia informações a uma relatoria temática. Qual resultado é possível dentro do mandato?",
+     "alternativas": {
+      "A": "A relatoria condena criminalmente os responsáveis e executa a pena no país.",
+      "B": "A relatoria revoga diretamente a licença ambiental questionada.",
+      "C": "A relatoria substitui a polícia nacional e assume a investigação criminal.",
+      "D": "O titular pode avaliar a informação e, se decidir agir, enviar comunicação para chamar atenção ao risco e solicitar prevenção ou proteção.",
+      "E": "A ONU deve arquivar a informação porque somente Estados podem apresentá-la."
+     },
+     "gabarito": "D",
+     "comentario": "Indivíduos, grupos e organizações podem submeter informação; o especialista decide se atua e pode enviar comunicação pedindo medidas para prevenir ou interromper a violação, sem exercer poder policial ou judicial.",
+     "dispositivo": "OHCHR, Submission of information to Special Procedures, https://spsubmission.ohchr.org/en"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma pessoa considera encaminhar uma alegação aos procedimentos especiais da ONU. Qual orientação descreve o filtro inicial com maior precisão?",
+     "alternativas": {
+      "A": "A comunicação é admitida automaticamente se contiver uma crítica a qualquer política pública.",
+      "B": "A informação deve ser factual, suficientemente detalhada e relacionada ao mandato; o especialista decide se tomará providências.",
+      "C": "A submissão só pode ser feita por advogado inscrito na Corte Internacional de Justiça.",
+      "D": "O Estado precisa reconhecer previamente a competência contenciosa do especialista.",
+      "E": "O procedimento só aceita denúncias contra indivíduos, nunca sobre leis ou práticas estatais."
+     },
+     "gabarito": "B",
+     "comentario": "O formulário oficial exige descrição factual e informação crível, e o especialista decide conforme o escopo do mandato e os critérios aplicáveis; alegações também podem tratar de leis, políticas ou práticas incompatíveis com padrões de direitos humanos.",
+     "dispositivo": "OHCHR, Submission of information to Special Procedures, https://spsubmission.ohchr.org/en"
+    }
+   ]
+  }
+ ]
+}

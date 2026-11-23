@@ -1,0 +1,401 @@
+{
+ "assunto": "CP RPPS — Regulação e supervisão dos RPPS",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 (Portaria MTP nº 1.467/2022 conferida no texto oficial atualizado até 29/12/2025 e na Consolidação da Legislação RPPS do MPS atualizada até 22/10/2026)",
+ "origem": "2026-11-23_banco-rpps-regulacao-supervisao_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "rpps-regulacao-supervisao-1",
+   "titulo": "Competências regulatórias e envio de informações",
+   "microconteudo": "RAIO-X DA PROVA: A matriz do programa CP RPPS inclui o tópico de regulação e supervisão, mas não foram localizados cadernos oficiais públicos que permitam quantificar ocorrências em provas. O treino prioriza literalidade combinada a casos de gestor municipal, competências, prazos e exceções; os contrastes centrais são CNRPPS versus Ministério, “em análise” versus “irregular”, e fiscalização/NAF versus análise documental/PAP.\n\nO QUE A BANCA COBRA:\nA matriz oficial recebida para a certificação CP RPPS associa este assunto ao programa de prova, mas não disponibiliza cadernos públicos individualizados que permitam afirmar frequência empírica ou reproduzir itens. Por isso, o treino abaixo toma a matriz e a Portaria como referência, com foco em competência institucional, prazo de comunicação de lei local, responsáveis pelos dados e distinção entre formular parâmetros e fiscalizar sua aplicação. A armadilha recorrente é atribuir ao CNRPPS a emissão do CRP ou tratar o envio de informação como simples tarefa informal da unidade gestora.\n\nENTENDA:\nA supervisão federal convive com a autonomia normativa do ente. O art. 239 da Portaria MTP nº 1.467/2022 concentra no Ministério da Previdência Social, por sua secretaria competente, funções de orientação, acompanhamento, supervisão e fiscalização dos RPPS; estabelecimento e publicação dos parâmetros gerais; apuração de infrações e aplicação das penalidades previstas; emissão do Certificado de Regularidade Previdenciária (CRP); e recebimento dos dados e informações dos entes. São atribuições diferentes, embora componham um mesmo ciclo: a norma nacional define parâmetros, o ente organiza seu regime dentro desses limites, informa como o implementou, e a supervisão verifica a regularidade.\n\nO art. 240 atribui ao Conselho Nacional dos Regimes Próprios de Previdência Social (CNRPPS) participação na formulação dos parâmetros do inciso II do art. 239, nos termos do art. 18 do Decreto nº 10.188/2019. Participar da formulação não significa editar sozinho a regra geral, julgar defesa de fiscalização ou emitir o CRP. A competência ministerial continua sendo a prevista no art. 239. Para o dirigente municipal, isso importa ao interpretar consulta ou deliberação do Conselho: o CNRPPS é espaço de participação institucional, enquanto a competência normativa e os atos de supervisão permanecem com a autoridade definida na Portaria.\n\nO art. 241 obriga os entes federativos a encaminhar à SPREV dados e informações sobre vários aspectos dos regimes de seus servidores. Entre os itens expressos estão: legislação previdenciária local, imediatamente após a publicação, acompanhada da data e da forma de publicação; estrutura de governança, com identificação dos dirigentes da unidade gestora, do responsável pelos investimentos e dos membros dos conselhos deliberativo e fiscal e do comitê de investimentos, além da comprovação dos requisitos do art. 76; gestão atuarial, com NTA após elaboração ou retificação; e demais demonstrativos e dados operacionais previstos nos incisos seguintes. Não basta guardar a lei no portal municipal: deve-se encaminhá-la pelo canal e na forma regulamentados, inclusive para que o sistema federal processe os critérios do CRP.\n\nImagine que Serra Nova publique em 6 de maio uma lei que altera a estrutura de governança do RPPS. A equipe deve registrar data e forma de publicação e enviar a legislação imediatamente, além de atualizar os dados das pessoas nomeadas e comprovar requisitos quando aplicável. A obrigação é do ente federativo, sem prejuízo da divisão interna de tarefas entre prefeitura e unidade gestora. O gestor não pode presumir que a simples atualização do site municipal alimenta automaticamente o Cadprev ou Gescon. Também não deve inserir informações incompatíveis com a lei ou manter cadastros de gestores já substituídos.\n\nO artigo funciona em conjunto com o art. 247, que lista critérios para CRP, e com o art. 250, que permite registro por validação automática, análise da SPREV ou fiscalização. Envio correto e tempestivo reduz erros de registro, mas não transforma documento enviado em aprovação automática de qualquer critério. O sistema pode validar certos dados; outros exigem exame técnico. Se a informação enviada indicar descumprimento ou estiver ausente, a situação poderá ser registrada como irregularidade conforme o art. 250, § 2º. O ente pode corrigir ou complementar os elementos nos termos previstos, mas precisa observar as notificações e os prazos.\n\nNa prática, o dirigente deve manter trilha de auditoria: ato local, comprovante de publicação, protocolo de envio, versão transmitida e responsáveis pela validação. A troca de secretário ou presidente da unidade gestora não suspende o dever do ente nem reinicia prazo legal. Dados de governança, atuarial, contábil e de investimentos se conectam à emissão do CRP e ao acompanhamento estatístico. Erro material pode exigir retificação; declaração falsa pode ter consequências administrativas e pode ensejar cancelamento de CRP emitido com base em informação falsa, conforme art. 248, V.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nSem precedente judicial específico necessário para a regra de competência e envio. A orientação administrativa aplicável está diretamente nos arts. 239–241 e 247–250 da Portaria MTP nº 1.467/2022; o art. 18 do Decreto nº 10.188/2019 disciplina a participação do CNRPPS.\n\nPEGADINHAS:\n1. CNRPPS participa da formulação; não substitui o Ministério na emissão do CRP.\n2. A lei local é enviada imediatamente após publicação, com data e forma de publicação; não apenas quando houver pedido federal.\n3. A obrigação de informar é do ente federativo, ainda que a unidade gestora execute tarefas internas.\n4. Validação automática não se confunde com aprovação substantiva de todos os critérios.\n5. Atualização de dados de governança inclui comprovação de requisitos do art. 76 quando exigida.\n\nESQUEMA:\nArt. 239 → Ministério: orientar, acompanhar, supervisionar, fiscalizar, parametrizar, apurar infrações e emitir CRP.\nArt. 240 → CNRPPS: participa da formulação dos parâmetros gerais.\nArt. 241 → ente federativo: envia dados e documentos pelos canais definidos; legislação local imediatamente após publicação.\nArts. 247 e 250 → critérios de CRP e formas de registro: validação automática, análise ou fiscalização.\n\nLIGAÇÕES:\nCritérios para emissão do CRP (arts. 247–250); governança e requisitos de dirigentes (art. 76).",
+   "flashcards": [
+    {
+     "frente": "Quem emite o CRP e que papel o CNRPPS exerce na regulação?",
+     "verso": "O Ministério competente emite o CRP; o CNRPPS participa da formulação dos parâmetros gerais.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, arts. 239-240"
+    },
+    {
+     "frente": "Quando a legislação local deve ser enviada à SPREV?",
+     "verso": "Imediatamente após a publicação, com indicação da data e forma de publicação.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 241, I"
+    },
+    {
+     "frente": "O dever de enviar informações é da unidade gestora ou do ente?",
+     "verso": "Do ente federativo; a organização interna pode atribuir tarefas à unidade gestora.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 241"
+    },
+    {
+     "frente": "Pegadinha: CNRPPS formula e emite o CRP?",
+     "verso": "Não. Participa da formulação; emissão do CRP é competência ministerial.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, arts. 239, IV, e 240"
+    },
+    {
+     "frente": "Que prazo rege o envio da NTA após retificação?",
+     "verso": "Imediatamente após elaboração ou retificação.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 241, III"
+    },
+    {
+     "frente": "A validação automática comprova todos os critérios do CRP?",
+     "verso": "Não; pode haver análise da SPREV ou fiscalização e registro de irregularidade.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 250"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Em 7 de junho, o Município de Serra Nova publica lei que altera a governança do RPPS. Basta manter o texto no site municipal; o envio à SPREV pode aguardar solicitação individual.",
+     "gabarito": "E",
+     "comentario": "Incorreto: a legislação previdenciária deve ser enviada imediatamente após publicação, com data e forma de publicação; publicação no portal local não substitui o envio regulatório (Portaria MTP nº 1.467/2022, art. 241, I).",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 241, I"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "O CNRPPS participa da formulação dos parâmetros gerais, mas essa participação não transfere ao Conselho a competência ministerial de emitir o CRP.",
+     "gabarito": "C",
+     "comentario": "Correto: o art. 240 prevê participação do CNRPPS na formulação dos parâmetros do art. 239, enquanto o inciso IV do art. 239 atribui ao Ministério a emissão do CRP (Portaria MTP nº 1.467/2022, arts. 239, IV, e 240).",
+     "dispositivo": "Portaria MTP nº 1.467/2022, arts. 239, IV, e 240"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A unidade gestora municipal é a única responsável perante a SPREV pelo envio dos dados previstos no art. 241; o ente federativo não responde por omissões.",
+     "gabarito": "E",
+     "comentario": "Incorreto: o caput do art. 241 dirige a obrigação aos entes federativos, embora a execução possa ser distribuída internamente (Portaria MTP nº 1.467/2022, art. 241).",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 241"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "A validação automática no Cadprev pode registrar irregularidade quando não há envio ou quando o dado revela descumprimento; o ente pode comprovar a regularidade por reenvio/retificação ou por esclarecimentos, conforme a hipótese.",
+     "gabarito": "C",
+     "comentario": "Correto: é a disciplina do art. 250, § 2º, incisos I e II; validação automática não impede correção nem substitui análise quando necessária (Portaria MTP nº 1.467/2022, art. 250, § 2º).",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 250, § 2º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 12 de março, a prefeita fictícia Marina Lopes, de Serra Nova, publica lei que reorganiza uma unidade gestora com R$ 48 milhões em ativos. Qual providência atende ao art. 241?",
+     "alternativas": {
+      "A": "Encaminhar imediatamente à SPREV a legislação, informando data e forma de publicação, e atualizar a estrutura de governança nos sistemas aplicáveis.",
+      "B": "Enviar a lei somente no encerramento do exercício, sem necessidade de informar publicação.",
+      "C": "Aguardar auditoria presencial; a lei local não integra dados do RPPS.",
+      "D": "Solicitar ao CNRPPS que emita o CRP antes de informar a mudança.",
+      "E": "Enviar somente a ata do conselho, pois lei de governança é informação interna."
+     },
+     "gabarito": "A",
+     "comentario": "A correta é A: correta: a legislação deve ser encaminhada imediatamente com data e forma de publicação; dados de governança também são informados. B: incorreta: o inciso I não posterga o envio ao encerramento do exercício. C: incorreta: art. 241 exige comunicação; não depende de auditoria. D: incorreta: o CNRPPS participa da formulação e não emite CRP. E: incorreta: lei previdenciária local é expressamente abrangida. (Portaria MTP nº 1.467/2022, arts. 239, IV, 240 e 241, I-II.)",
+     "dispositivo": "Portaria MTP nº 1.467/2022, arts. 239, IV, 240 e 241, I-II"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "O atuário fictício Paulo Neri transmite em 4 de setembro a NTA retificada do RPPS de Riacho Claro, cujo plano cobre R$ 83 milhões em obrigações. Qual afirmação melhor descreve o dever de informação?",
+     "alternativas": {
+      "A": "A retificação é enviada apenas no ciclo anual, pois a NTA original já foi transmitida.",
+      "B": "A NTA deve ser encaminhada à SPREV imediatamente após elaboração ou retificação; protocolo interno é boa trilha de controle, mas não substitui o envio.",
+      "C": "Somente a unidade gestora pode transmitir dados e a prefeitura está proibida de participar.",
+      "D": "A NTA só é exigível depois de fiscalização ou denúncia.",
+      "E": "O envio torna automaticamente regulares todos os critérios do CRP."
+     },
+     "gabarito": "B",
+     "comentario": "A correta é B: correta: o inciso III disciplina a NTA; registro de protocolo facilita evidenciar cumprimento. A: incorreta: o art. 241 prevê envio imediato após elaboração ou retificação. C: incorreta: a obrigação normativa é do ente federativo, sem vedar organização interna. D: incorreta: não se condiciona a fiscalização. E: incorreta: dados enviados podem ser validados, analisados ou fiscalizados, sem aprovação automática geral. (Portaria MTP nº 1.467/2022, arts. 241, III, e 250.)",
+     "dispositivo": "Portaria MTP nº 1.467/2022, arts. 241, III, e 250"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 19 de maio, a prefeita fictícia Lúcia Prado envia à SPREV o cadastro dos dirigentes, mas deixa de atualizar o responsável pelos R$ 12 milhões em aplicações do RPPS. Quem responde pelo envio e qual efeito pode decorrer de informação falsa usada para emitir CRP?",
+     "alternativas": {
+      "A": "O CNRPPS responde pelo envio e o CRP permanece imutável após emitido.",
+      "B": "O AFRFB envia os dados em nome do Município e eventual falsidade gera apenas correção cadastral.",
+      "C": "O conselho deliberativo responde sozinho e qualquer dado falso anula automaticamente toda lei municipal.",
+      "D": "O ente federativo deve encaminhar as informações; CRP emitido com base em informação falsa pode ser cancelado.",
+      "E": "A unidade gestora responde exclusivamente, e a SPREV não pode rever documentos depois da emissão."
+     },
+     "gabarito": "D",
+     "comentario": "A correta é D: correta: combina art. 241 e possibilidade de cancelamento do art. 248, V. A: incorreta: CNRPPS participa da formulação; CRP pode ser cancelado nas hipóteses do art. 248, V. B: incorreta: o AFRFB fiscaliza, mas o art. 241 impõe envio ao ente; consequência não é apenas correção. C: incorreta: a obrigação não é isolada do conselho e a consequência não é essa nulidade geral. E: incorreta: não há exclusividade da unidade gestora nem vedação à revisão posterior. (Portaria MTP nº 1.467/2022, arts. 241 e 248, V.)",
+     "dispositivo": "Portaria MTP nº 1.467/2022, arts. 241 e 248, V"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "O cadastro do responsável pelos investimentos não foi atualizado depois de uma nomeação em 2 de janeiro. Qual leitura é adequada?",
+     "alternativas": {
+      "A": "A mudança só será informada junto à próxima avaliação atuarial.",
+      "B": "O dado é facultativo quando há conselho fiscal instituído.",
+      "C": "A estrutura de governança informada inclui o responsável por aplicações e a comprovação dos requisitos do art. 76, conforme o caso.",
+      "D": "A atualização é competência exclusiva do Tribunal de Contas.",
+      "E": "O art. 241 trata apenas de legislação, sem dados de pessoas ou órgãos."
+     },
+     "gabarito": "C",
+     "comentario": "A correta é C: correta: corresponde ao art. 241, II, com redação vigente. A: incorreta: não há essa postergação anual. B: incorreta: a previsão de governança abrange a identificação do responsável. D: incorreta: TCE pode cooperar, mas não substitui o dever de envio do ente. E: incorreta: o inciso II trata expressamente da estrutura de governança. (Portaria MTP nº 1.467/2022, art. 241, II.)",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 241, II"
+    }
+   ]
+  },
+  {
+   "id": "rpps-regulacao-supervisao-2",
+   "titulo": "CRP: critérios, emissão e registros de regularidade",
+   "microconteudo": "RAIO-X DA PROVA: A matriz do programa CP RPPS inclui o tópico de regulação e supervisão, mas não foram localizados cadernos oficiais públicos que permitam quantificar ocorrências em provas. O treino prioriza literalidade combinada a casos de gestor municipal, competências, prazos e exceções; os contrastes centrais são CNRPPS versus Ministério, “em análise” versus “irregular”, e fiscalização/NAF versus análise documental/PAP.\n\nO QUE A BANCA COBRA:\nA matriz oficial da certificação CP RPPS inclui regulação e supervisão, porém não há cadernos oficiais públicos consultáveis que sustentem uma contagem empírica de incidência. A lição explora o texto vigente da Portaria e o raciocínio administrativo: quem emite, por qual sistema, por quanto tempo, quando uma pendência impede o certificado e em quais hipóteses excepcionais cabe CRP emergencial. A principal confusão é tratar todo estado “em análise” como irregular ou supor que qualquer pendência pode ser contornada por certificado emergencial.\n\nENTENDA:\nO CRP atesta, para fins legais, o cumprimento dos critérios e exigências aplicáveis ao RPPS. Pelo art. 248 da Portaria MTP nº 1.467/2022, é emitido por meio do Cadprev depois da verificação dos critérios do art. 247, que são demonstrados no extrato previdenciário disponibilizado pela SPREV. Ele tem numeração única e validade de 180 dias contados da emissão. Não é uma declaração genérica de boa gestão, nem certificado expedido pelo conselho municipal. O ente deve acompanhar cada critério do extrato, porque a situação registrada pode alterar sua capacidade de obter novo CRP.\n\nA regra ordinária é objetiva: critério marcado “irregular” impede emissão a partir do registro, até que o ente comprove seu cumprimento à SPREV e o sistema seja atualizado (art. 248, § 1º). Isso faz do CRP uma consequência de um conjunto de critérios, não de um único formulário. O art. 247 abrange matérias como caráter contributivo, equilíbrio financeiro e atuarial, limites de contribuição, organização e funcionamento, requisitos de dirigentes e conselhos, destinação dos recursos, aplicação de investimentos, instituição do regime de previdência complementar e encaminhamento de informações. Os detalhes e exceções de cada critério devem ser lidos no inciso correspondente, não inferidos apenas pela palavra “regularidade”.\n\nO registro no extrato ocorre por três caminhos (art. 250): recepção e validação automática dos dados nos sistemas previstos no art. 241; análise da SPREV dos documentos e informações; ou resultado de fiscalização feita por Auditor-Fiscal da Receita Federal do Brasil credenciado e designado. Nos procedimentos devem ser considerados relevância, razoabilidade, proporcionalidade, significância e consistência. Em determinados critérios, a falta de documento ou o conteúdo declaratório de descumprimento pode gerar registro automático, sujeito a reenvio, retificação ou esclarecimentos. Já a análise administrativa gera Notificação de Irregularidade.\n\nO estado “em análise” não equivale a um salvo-conduto indefinido, mas pode não impedir imediatamente a emissão do CRP. Conforme art. 250, § 3º, na hipótese de análise pela SPREV, o critério fica “em análise”, sem impedir CRP, por até 180 dias contados da emissão da notificação. Se a manifestação do ente for considerada insubsistente, pode haver janela de 30 dias da ciência da decisão para regularizar; novos elementos apresentados nessa janela mantêm o tratamento previsto até decisão. O registro passa a “irregular” quando termina o prazo aplicável sem manifestação, sem novos elementos ou quando a decisão rejeita os novos elementos. A comprovação de regularização pode tornar o critério “regular” a qualquer tempo. O termo inicial e a ciência eletrônica seguem os §§ 4º e 5º: atenção à consulta no sistema e, se não consultado, à regra de dez dias corridos após envio para Cadprev ou Gescon.\n\nO CRP emergencial do art. 249 é excepcional e depende de condições expressas. Pode ser emitido quando o registro de regularidade aguarda adequação de funcionalidade do Cadprev ou há problema operacional que interrompa, indisponibilize ou torne intermitente o sistema; em situações específicas de documentos que aguardam análise da SPREV, como termos de parcelamento formalizados segundo os parâmetros e que abarquem todo o período dos débitos, ou outras situações em que aprovação da documentação seja necessária para o ente implementar a regularização; e durante o Pró-Regularidade RPPS, nos parâmetros do Anexo XVIII. Nas hipóteses dos incisos I e II, não podem existir impedimentos em critérios diversos daqueles referidos nesses incisos, e a emissão não afasta a posterior verificação pela Secretaria. Já durante o Pró-Regularidade (inciso III), o ente deve observar a fase e os parâmetros próprios do Anexo XVIII e da Portaria SRPC/MPS nº 2.024/2025; nessa modalidade, o CRP específico tem prazo de seis meses segundo a regra do Programa.\n\nExemplo: o Município de Campo Azul está regular em todos os critérios, mas o Cadprev ficou indisponível e o arquivo correto não pode ser processado. O art. 249, I, pode fundamentar CRP emergencial, se os documentos aptos já foram encaminhados e os demais requisitos estiverem satisfeitos. Diferente seria existir pendência irregular independente sobre contribuição ou investimentos; pane sistêmica não apaga esse impedimento. Também não é legítimo chamar de “em análise” uma irregularidade oriunda de fiscalização: essa segue o procedimento próprio dos arts. 251 a 275.\n\nA emissão emergencial não é definitiva nem torna regular aquilo que depende de análise. A SPREV pode conferir depois os documentos, e o CRP pode ser cancelado por reforma da decisão judicial que o fundamentou, emissão indevida ou constatação de informação falsa (art. 248, V). O prazo ordinário do CRP é de 180 dias; no CRP específico emitido durante o Pró-Regularidade, aplica-se a regra própria de seis meses do Anexo XVIII, além das condições da fase correspondente. O gestor deve documentar o fundamento, identificar o critério abrangido e monitorar a análise até sua conclusão, além de corrigir os demais critérios independentemente.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nSem precedente judicial específico necessário. O entendimento operacional vigente está nos arts. 247–250 e no Anexo XVIII da Portaria MTP nº 1.467/2022, com atualizações incorporadas à consolidação normativa do MPS.\n\nPEGADINHAS:\n1. O CRP é emitido no Cadprev pela autoridade federal competente; conselho local não o expede.\n2. A validade ordinária é de 180 dias a contar da emissão.\n3. Critério “irregular” impede o CRP desde o registro; “em análise” pode não impedir, dentro das janelas legais.\n4. Nas hipóteses dos incisos I e II do art. 249, não se afastam impedimentos em critérios diversos; o inciso III remete às fases e condições próprias do Pró-Regularidade.\n5. CRP emergencial não dispensa a conferência posterior; no Pró-Regularidade, confira também a validade específica de seis meses.\n\nESQUEMA:\nRegra → critérios do art. 247 verificados no Cadprev; validade de 180 dias.\nIrregular → impede CRP (art. 248, § 1º).\nEm análise pela SPREV → janela sem impedimento até 180 dias e, conforme o caso, 30 dias adicionais (art. 250, § 3º).\nEmergencial → sistema/análise específica sob §§ 1º-2º; no Pró-Regularidade, fase e requisitos do Anexo XVIII (art. 249, III; CRP específico de seis meses).\n\nLIGAÇÕES:\nEnvio de dados pelos sistemas do art. 241; Pró-Regularidade RPPS (art. 281-A e Anexo XVIII).",
+   "flashcards": [
+    {
+     "frente": "Qual é a validade ordinária do CRP e desde quando conta?",
+     "verso": "180 dias da data de emissão.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 248, III"
+    },
+    {
+     "frente": "Quando um critério irregular impede o CRP?",
+     "verso": "Desde o registro da situação irregular, até comprovação e atualização do sistema.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 248, § 1º"
+    },
+    {
+     "frente": "Quanto pode durar estado “em análise” sem impedir CRP?",
+     "verso": "Até 180 dias da emissão da notificação, com janelas adicionais condicionadas previstas no art. 250, § 3º.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 250, § 3º"
+    },
+    {
+     "frente": "Pegadinha: CRP emergencial afasta qualquer outra pendência?",
+     "verso": "Não, nas hipóteses dos incisos I e II não pode haver impedimento em outros critérios; no Pró-Regularidade, aplicam-se fase e requisitos próprios do Anexo XVIII.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 249, § 1º e III; Anexo XVIII; Portaria SRPC/MPS nº 2.024/2025"
+    },
+    {
+     "frente": "Quando cabe CRP emergencial por parcelamento em análise?",
+     "verso": "Se formalizado conforme parâmetros, abranger todo o período dos débitos e não houver outros impedimentos.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 249, II, a, § 1º"
+    },
+    {
+     "frente": "O que ocorre com CRP emitido com base em informação falsa?",
+     "verso": "Pode ser cancelado pela SPREV.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 248, V"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O CRP ordinário é emitido no Cadprev após verificação dos critérios do art. 247 e tem validade de 180 dias contados da emissão.",
+     "gabarito": "C",
+     "comentario": "Correto: são os parâmetros expressos no art. 248, caput e incisos I a III (Portaria MTP nº 1.467/2022, art. 248, I-III).",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 248, I-III"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Todo critério marcado “em análise” impede imediatamente o CRP, mesmo durante o prazo inicial de análise administrativa da SPREV.",
+     "gabarito": "E",
+     "comentario": "Incorreto: na hipótese do art. 250, § 3º, I, o estado “em análise” não impede a emissão pelo prazo legal, sujeito a condições e prazos (Portaria MTP nº 1.467/2022, art. 250, § 3º, I).",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 250, § 3º, I"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O CRP emergencial por indisponibilidade do Cadprev pode ser emitido mesmo que exista qualquer outro critério irregular sem relação com o sistema.",
+     "gabarito": "E",
+     "comentario": "Incorreto: o art. 249, § 1º, exige ausência de impedimentos em critérios diversos dos abrangidos pela hipótese emergencial (Portaria MTP nº 1.467/2022, art. 249, § 1º).",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 249, § 1º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Após vencido o prazo da notificação de irregularidade sem manifestação do ente, a situação “em análise” pode ser convertida em “irregular”, impedindo o CRP.",
+     "gabarito": "C",
+     "comentario": "Correto: art. 250, § 3º, II, a, determina essa conversão depois do prazo sem manifestação (Portaria MTP nº 1.467/2022, art. 250, § 3º, II, a).",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 250, § 3º, II, a"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "O CRP do Município de Vale Verde, sob gestão de Rafael Costa, foi emitido em 10 de abril, quando o fundo tinha R$ 76 milhões em ativos, sem hipótese especial de prazo. Até quando vale?",
+     "alternativas": {
+      "A": "Até 10 de maio, pois a validade é de 30 dias.",
+      "B": "Até o encerramento do exercício, independentemente da data.",
+      "C": "Por 90 dias contados da ciência do extrato.",
+      "D": "Por 180 dias contados da data de emissão.",
+      "E": "Por 180 dias contados da publicação da lei local que instituiu o RPPS."
+     },
+     "gabarito": "D",
+     "comentario": "A correta é D: correta: art. 248, III. A: incorreta: confunde a validade com prazo de regularização. B: incorreta: o prazo é contado da emissão, não do exercício. C: incorreta: não é prazo de 90 dias nem da ciência do extrato. E: incorreta: o marco é a emissão do certificado. (Portaria MTP nº 1.467/2022, art. 248, III.)",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 248, III"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 8 de agosto, a prefeita fictícia Ana Paes recebe pelo Cadprev uma Notificação de Irregularidade sobre R$ 420 mil em repasses. O ente não consulta a mensagem. Qual regra de prazo deve integrar o controle?",
+     "alternativas": {
+      "A": "A ciência ocorre somente quando houver leitura presencial, sem prazo subsidiário.",
+      "B": "O prazo começa sempre na data em que o ente responde, ainda que meses depois.",
+      "C": "A mensagem só produz efeito após publicação no Diário Oficial municipal.",
+      "D": "Todo prazo é contado em dias úteis a partir da emissão do CRP.",
+      "E": "Para comunicações por Cadprev/Gescon, conta-se da consulta; se não houver consulta, considera-se enviada após 10 dias corridos, observadas as regras de início do prazo."
+     },
+     "gabarito": "E",
+     "comentario": "A correta é E: correta: reúne a regra de ciência e contagem prevista nos §§ 4º e 5º. A: incorreta: há regra subsidiária para ausência de consulta. B: incorreta: resposta do ente não define o termo inicial. C: incorreta: o art. 250, § 5º, regula a comunicação eletrônica do sistema. D: incorreta: prazo e termo inicial variam e não partem do CRP. (Portaria MTP nº 1.467/2022, art. 250, §§ 4º-5º.)",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 250, §§ 4º-5º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 3 de outubro, o Município de Campo Azul formaliza acordo de parcelamento de R$ 1,8 milhão, abrangendo todo o período dos débitos, e aguarda análise da SPREV. A unidade gestora não tem outro impedimento. Qual alternativa é compatível com o CRP emergencial?",
+     "alternativas": {
+      "A": "Pode ser admitido nas hipóteses do art. 249, desde que cumpridos os parâmetros e sem afastar análise posterior.",
+      "B": "É obrigatório e torna o critério definitivamente regular.",
+      "C": "É vedado porque CRP emergencial só cabe em indisponibilidade do Cadprev.",
+      "D": "Pode ser emitido mesmo sem o acordo abranger todo o período dos débitos.",
+      "E": "Só o conselho municipal pode concedê-lo por deliberação."
+     },
+     "gabarito": "A",
+     "comentario": "A correta é A: correta: art. 249, II, a, contempla termos formalizados segundo parâmetros e todo período; revisão posterior permanece possível. B: incorreta: a emissão é facultativa e não encerra análise. C: incorreta: o inciso II prevê situações aguardando análise. D: incorreta: abrangência de todo período é condição expressa. E: incorreta: emissão é competência federal pelo Cadprev. (Portaria MTP nº 1.467/2022, arts. 239, IV, e 249, II, a, § 1º.)",
+     "dispositivo": "Portaria MTP nº 1.467/2022, arts. 239, IV, e 249, II, a, § 1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "A fiscalização encontrou pendência em um critério, enquanto outro está sob análise documental da SPREV. Como se determina o registro do extrato?",
+     "alternativas": {
+      "A": "Somente por validação automática; análise e fiscalização não alteram o extrato.",
+      "B": "Pode decorrer de validação automática, análise da SPREV ou fiscalização; cada via segue seu procedimento e garantias.",
+      "C": "Apenas o CNRPPS pode registrar situação de critério.",
+      "D": "Toda pendência é registrada como regular até vencer o CRP.",
+      "E": "A fiscalização substitui o envio do art. 241 e dispensa análise documental."
+     },
+     "gabarito": "B",
+     "comentario": "A correta é B: correta: reproduz os incisos I a III do art. 250. A: incorreta: art. 250 prevê três vias. C: incorreta: CNRPPS participa da formulação, não registra extrato. D: incorreta: o registro depende do critério e do procedimento, não do vencimento do CRP. E: incorreta: os caminhos são distintos e não se anulam. (Portaria MTP nº 1.467/2022, art. 250, I-III.)",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 250, I-III"
+    }
+   ]
+  },
+  {
+   "id": "rpps-regulacao-supervisao-3",
+   "titulo": "Fiscalização, NAF e Processo Administrativo Previdenciário",
+   "microconteudo": "RAIO-X DA PROVA: A matriz do programa CP RPPS inclui o tópico de regulação e supervisão, mas não foram localizados cadernos oficiais públicos que permitam quantificar ocorrências em provas. O treino prioriza literalidade combinada a casos de gestor municipal, competências, prazos e exceções; os contrastes centrais são CNRPPS versus Ministério, “em análise” versus “irregular”, e fiscalização/NAF versus análise documental/PAP.\n\nO QUE A BANCA COBRA:\nA matriz oficial CP RPPS inclui a fiscalização e o processo administrativo no eixo de regulação, mas não há cadernos oficiais públicos consultáveis que permitam medir frequência de questões. O treino enfatiza a autoridade fiscal, extensão do acesso, escopo total ou específico, conteúdo essencial da Notificação de Ação-Fiscal, quem pode impugná-la, prazo de defesa e diferenças entre fiscalização, análise documental e PAP. A pegadinha central troca o prazo de 30 dias por prazo de recurso ou permite que qualquer servidor municipal apresente impugnação em nome do ente.\n\nENTENDA:\nA fiscalização dos RPPS é exercida por Auditor-Fiscal da Receita Federal do Brasil (AFRFB) credenciado pela SPREV quando em exercício na Secretaria e conforme a forma estabelecida por ela (art. 251). Não é qualquer auditor municipal, conselheiro ou servidor da SPREV que recebe automaticamente a atribuição prevista na Portaria. Ao AFRFB credenciado deve ser dado livre acesso à unidade gestora, ao fundo previdenciário e às entidades e órgãos do ente que tenham servidores vinculados ao regime. Ele pode examinar livros, bases de dados, documentos e registros contábeis e praticar atos necessários, inclusive apreender e guardar livros e documentos nos termos legais (art. 252). O gestor deve cooperar, preservar a integridade dos registros e manter controle de entrega e custódia.\n\nO escopo pode abranger todos os critérios de regularidade do RPPS ou apenas aqueles necessários para atender denúncia ou outra ação específica (art. 253). Portanto, a fiscalização provocada por uma denúncia sobre contribuição não precisa se transformar automaticamente em auditoria integral, embora a autoridade possa ampliar seu escopo se a ação concreta assim exigir. A atuação deve ser compreendida no marco dos critérios do CRP e dos poderes previstos na Lei nº 11.457/2007.\n\nSe forem constatadas irregularidades impeditivas do CRP, o auditor lavra a Notificação de Ação-Fiscal (NAF). O art. 254 exige conteúdo mínimo suficiente para o ente identificar a ação e exercer defesa: local e data da lavratura; identificação do ente; normas infringidas; fatos e período a que se referem; informação sobre o efeito no CRP; prazo e local para apresentação da defesa; e identificação e assinatura da autoridade notificante. A NAF é uma peça formal de ciência e delimitação da irregularidade. Defeito que não prejudique informação essencial e defesa não necessariamente anula todo o procedimento, conforme as regras específicas da Portaria; por outro lado, ausência que impeça compreender o fato ou responder exige tratamento jurídico apropriado.\n\nO PAP destina-se a apurar, para aplicação do art. 7º da Lei nº 9.717/1998, irregularidades impeditivas da emissão do CRP verificadas em ação fiscal, e se inicia com a lavratura da NAF (art. 256). Essa definição delimita seu propósito. Não se deve confundir PAP com a etapa comum de análise de documento ou Notificação de Irregularidade do art. 250, nem com processo disciplinar local de servidor. Os autos são eletrônicos; o acesso pode ser requerido, observados sigilo fiscal, LAI e LGPD (art. 256, §§ 1º e 3º). A regra é dispensar reconhecimento de firma e autenticação de cópia de documentos expedidos no país, salvo dúvida fundada sobre autenticidade ou exigência legal (§ 2º).\n\nA impugnação à NAF tem legitimidade restrita: somente o representante legal do ente federativo notificado ou terceiro formalmente indicado por ele pode apresentá-la (art. 257). O prazo é de 30 dias contados da ciência da notificação. A defesa deve trazer prova da representação, ser formalizada por documento original e protocolada perante a SPREV, presencial ou eletronicamente, ou remetida pelo correio, caso em que vale a data da postagem. Para documento digital, é tempestiva a transmissão integral até 24 horas do último dia, observada a disciplina do art. 271. A Portaria também prevê conteúdo formal e elementos probatórios; impugnação intempestiva ou sem as formalidades não será conhecida (arts. 258 e 267).\n\nA instrução pode incluir diligências para complementar prova ou esclarecer informações. A autoridade fixa o procedimento, e ente e unidade gestora são cientificados. O prazo máximo é de 90 dias da ciência, prorrogável uma vez por até 90 dias mediante justificativa (art. 259). A autoridade designada para julgar a defesa deve ser distinta do auditor que lavrou a NAF; ela avalia fatos, circunstâncias, provas e procedência da irregularidade, com submissão da decisão à homologação superior (art. 260). A separação reduz conflito entre quem constatou e quem decide. Se a decisão mantiver irregularidade, há recurso administrativo segundo os arts. 263–266; não confundir seu prazo e instância com o prazo inicial de impugnação à NAF.\n\nA orientação institucional do MPS esclarece que o PAP apura irregularidades impeditivas de CRP encontradas em fiscalização e pode ter seus autos consultados; após as duas instâncias de julgamento, o ente pode ainda apresentar justificativa de regularização com prova. Isso reforça que defesa e regularização são etapas distintas: primeiro contesta-se a constatação no processo; em outro momento, a prova de que o critério foi regularizado pode permitir atualização no Cadprev (arts. 267–268). Para o dirigente, o fluxo seguro é registrar ciência, encaminhar imediatamente ao representante legal, consolidar prova dentro dos 30 dias e acompanhar diligências e decisões.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nSem precedente judicial específico necessário. A página oficial do MPS sobre PAP, atualizada em 06/11/2026, sintetiza o fundamento nos arts. 256 e seguintes e confirma que o processo nasce da NAF e apura irregularidades impeditivas de CRP constatadas em ação fiscal.\n\nPEGADINHAS:\n1. Fiscalização: AFRFB credenciado em exercício na SPREV, não qualquer agente público.\n2. Ação fiscal pode ser ampla ou limitada ao objeto da denúncia/ação específica.\n3. PAP inicia com NAF e apura irregularidade impeditiva de CRP constatada em fiscalização.\n4. Impugnação à NAF: representante legal do ente ou terceiro formalmente indicado; prazo de 30 dias da ciência.\n5. Diligência: até 90 dias, prorrogável por até mais 90 com justificativa; não é o prazo da defesa.\n6. Julgador da defesa deve ser diferente do lavrador da NAF, com homologação superior.\n\nESQUEMA:\nFiscalização → AFRFB credenciado (arts. 251–253).\nIrregularidade impeditiva → NAF com fatos, período, norma, consequência CRP e prazo/local de defesa (art. 254).\nPAP → inicia na NAF; autos eletrônicos (art. 256).\nImpugnação → representante legal/indicado; 30 dias da ciência (art. 257).\nDiligência → 90 + até 90 dias justificados (art. 259); decisão por autoridade diversa do lavrador (art. 260).\n\nLIGAÇÕES:\nEmissão e impedimentos do CRP (arts. 247–250); processo administrativo federal e garantias de defesa.",
+   "flashcards": [
+    {
+     "frente": "Quem exerce a fiscalização do RPPS?",
+     "verso": "AFRFB credenciado pela SPREV quando em exercício na Secretaria e na forma por ela estabelecida.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 251"
+    },
+    {
+     "frente": "Qual o prazo para impugnar a NAF e quem pode fazê-lo?",
+     "verso": "30 dias da ciência; representante legal do ente ou terceiro formalmente indicado.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 257"
+    },
+    {
+     "frente": "Qual o prazo máximo de diligência e a prorrogação possível?",
+     "verso": "Até 90 dias da ciência, prorrogável por até mais 90 dias mediante justificativa.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 259, § 2º"
+    },
+    {
+     "frente": "Pegadinha: quem lavra a NAF pode decidir a defesa?",
+     "verso": "Não; a autoridade julgadora deve ser diversa do responsável pela lavratura.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 260"
+    },
+    {
+     "frente": "Com que ato se inicia o PAP?",
+     "verso": "Com a lavratura da NAF após fiscalização que constata irregularidade impeditiva de CRP.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 256"
+    },
+    {
+     "frente": "Fiscalização deve sempre abranger todos os critérios?",
+     "verso": "Não; pode ser total ou limitada aos critérios da denúncia/ação específica.",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 253"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A fiscalização pode ser limitada aos critérios necessários para atender denúncia específica, sem necessariamente verificar todos os critérios do RPPS.",
+     "gabarito": "C",
+     "comentario": "Correto: o art. 253 permite escopo total ou específico (Portaria MTP nº 1.467/2022, art. 253).",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 253"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Qualquer servidor da unidade gestora pode apresentar impugnação à NAF em nome do ente, desde que esteja cadastrado no Cadprev.",
+     "gabarito": "E",
+     "comentario": "Incorreto: legitimidade é do representante legal do ente notificado ou de terceiro formalmente indicado, não bastando cadastro (Portaria MTP nº 1.467/2022, art. 257).",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 257"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O AFRFB credenciado pode examinar livros, bases de dados, documentos e registros contábeis da unidade gestora e órgãos que possuam servidores vinculados ao RPPS.",
+     "gabarito": "C",
+     "comentario": "Correto: o acesso e os meios de fiscalização estão no art. 252 (Portaria MTP nº 1.467/2022, art. 252).",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 252"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "A impugnação à NAF deve ser apresentada em 90 dias; esse prazo também é o prazo máximo para diligência, sem possibilidade de prorrogação.",
+     "gabarito": "E",
+     "comentario": "Incorreto: impugnação é em 30 dias da ciência; diligência é até 90 dias, prorrogável por até mais 90 mediante justificativa (Portaria MTP nº 1.467/2022, arts. 257 e 259, § 2º).",
+     "dispositivo": "Portaria MTP nº 1.467/2022, arts. 257 e 259, § 2º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 3 de fevereiro, a prefeita fictícia Rosa Martins, de Rio do Cedro, recebe ciência da NAF sobre R$ 640 mil em contribuições. Qual é a regra de legitimidade e prazo para impugnação?",
+     "alternativas": {
+      "A": "Qualquer conselheiro pode impugnar em 10 dias.",
+      "B": "Somente a unidade gestora, em 60 dias da emissão da NAF.",
+      "C": "O representante legal do ente ou terceiro formalmente indicado pode impugnar em 30 dias da ciência.",
+      "D": "O prefeito e cada servidor podem apresentar impugnações independentes em 90 dias.",
+      "E": "Apenas o AFRFB pode contestar, no prazo de 5 dias."
+     },
+     "gabarito": "C",
+     "comentario": "A correta é C: correta: art. 257, caput. A: incorreta: conselheiro não tem legitimidade automática e prazo está errado. B: incorreta: unidade gestora não é legitimada por si e marco é ciência. D: incorreta: prazo e legitimidade não correspondem à Portaria. E: incorreta: AFRFB lavra NAF; não impugna em nome do ente. (Portaria MTP nº 1.467/2022, art. 257.)",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 257"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 14 de junho, na NAF, o auditor identifica divergência de R$ 230 mil, mas não informa o período dos fatos nem a repercussão no CRP. Que exigência é diretamente relevante?",
+     "alternativas": {
+      "A": "A NAF pode omitir fatos e períodos se listar o nome do AFRFB.",
+      "B": "Apenas o valor atualizado do débito precisa constar, sem prazo de defesa.",
+      "C": "A NAF deve conter o resultado do recurso futuro, dispensando descrição da irregularidade.",
+      "D": "A NAF deve individualizar normas, fatos e período, indicar repercussão no CRP e informar prazo/local da defesa, além dos demais elementos mínimos.",
+      "E": "A omissão é irrelevante mesmo que impeça o ente de compreender a acusação."
+     },
+     "gabarito": "D",
+     "comentario": "A correta é D: correta: art. 254 fixa conteúdo mínimo para ciência e defesa. A: incorreta: elementos mínimos são mais amplos. B: incorreta: não substitui a delimitação dos fatos nem a defesa. C: incorreta: NAF inicia a apuração, não antecipa resultado recursal. E: incorreta: prejuízo à compreensão e defesa não é irrelevante. (Portaria MTP nº 1.467/2022, art. 254.)",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 254"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "A autoridade determina diligência em 1º de março e o Município de Bela Serra, representado por Marcos Tavares, recebe ciência em 5 de março para apresentar extratos de R$ 900 mil em repasses. A prova exige tempo adicional. Qual prazo pode ser autorizado?",
+     "alternativas": {
+      "A": "30 dias improrrogáveis contados da emissão da NAF.",
+      "B": "180 dias automáticos, sem necessidade de decisão.",
+      "C": "O mesmo prazo de 30 dias da impugnação, contado da publicação da lei local.",
+      "D": "Até 90 dias, sem prorrogação em nenhuma hipótese.",
+      "E": "Até 90 dias da ciência, prorrogáveis por até mais 90 mediante justificativa."
+     },
+     "gabarito": "E",
+     "comentario": "A correta é E: correta: art. 259, § 2º. A: incorreta: mistura prazo de impugnação e marco. B: incorreta: não há prorrogação automática por 180 dias. C: incorreta: prazo da diligência não depende da publicação de lei. D: incorreta: o § 2º admite prorrogação justificada por até 90 dias. (Portaria MTP nº 1.467/2022, art. 259, § 2º.)",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 259, § 2º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Qual desenho procedimental respeita a separação de funções no julgamento da NAF?",
+     "alternativas": {
+      "A": "AFRFB designado que não lavrou a NAF aprecia defesa e provas, e submete a decisão à homologação superior.",
+      "B": "O mesmo auditor que lavrou a NAF decide sem reexame superior.",
+      "C": "O conselho deliberativo municipal julga a impugnação federal.",
+      "D": "A decisão é tomada automaticamente pelo Cadprev sem autoridade competente.",
+      "E": "A impugnação é decidida pela unidade gestora que foi fiscalizada."
+     },
+     "gabarito": "A",
+     "comentario": "A correta é A: correta: art. 260 exige julgador diverso do lavrador e homologação superior. B: incorreta: contraria a segregação prevista expressamente. C: incorreta: conselho local não julga PAP federal. D: incorreta: sistema registra situação, não substitui decisão humana prevista. E: incorreta: a unidade é parte interessada, não julgadora. (Portaria MTP nº 1.467/2022, art. 260.)",
+     "dispositivo": "Portaria MTP nº 1.467/2022, art. 260"
+    }
+   ]
+  }
+ ]
+}

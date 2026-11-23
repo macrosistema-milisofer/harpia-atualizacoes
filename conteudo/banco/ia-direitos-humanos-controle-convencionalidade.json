@@ -1,0 +1,328 @@
+{
+ "assunto": "Direitos Humanos — Controle de convencionalidade",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 (CF e Convenção Americana conferidas em fontes oficiais; jurisprudência consultada no portal oficial da Corte IDH e do STF)",
+ "origem": "2026-11-23_banco-direitos-humanos-controle-convencionalidade_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "dh-convencionalidade-1",
+   "titulo": "Parâmetro e objeto do controle de convencionalidade",
+   "microconteudo": "O controle de convencionalidade examina se normas e atos estatais são compatíveis com obrigações internacionais de direitos humanos vinculantes para o Estado. No plano interno, a análise confronta o direito doméstico com o tratado aplicável e com a interpretação dada por seus órgãos competentes; no plano internacional, a Corte Interamericana pode avaliar a responsabilidade do Estado em caso submetido à sua jurisdição. Esse controle complementa a proteção nacional e não transforma a Corte em tribunal de recurso das decisões brasileiras. A Convenção Americana obriga os Estados-partes a respeitar e garantir os direitos reconhecidos (art. 1.1) e a adotar medidas internas para torná-los efetivos (art. 2). No Brasil, o parâmetro constitucional é relevante: o art. 5º, §§ 2º e 3º, trata da abertura a direitos previstos em tratados e da equivalência a emenda dos tratados de direitos humanos aprovados pelo rito qualificado. É preciso identificar o tratado vinculante, a obrigação pertinente e o ato estatal questionado antes de concluir pela incompatibilidade.",
+   "flashcards": [
+    {
+     "frente": "O que se compara no controle interno de convencionalidade?",
+     "verso": "A norma ou ato estatal e as obrigações internacionais de direitos humanos vinculantes para o Brasil.",
+     "dispositivo": "Convenção Americana, arts. 1.1 e 2; CF, art. 5º, §§ 2º e 3º"
+    },
+    {
+     "frente": "A Corte IDH funciona como instância recursal nacional?",
+     "verso": "Não. Examina responsabilidade internacional estatal nos limites de sua competência.",
+     "dispositivo": "Convenção Americana, arts. 62 e 63"
+    },
+    {
+     "frente": "Qual dever geral aparece no art. 2 da Convenção Americana?",
+     "verso": "Adotar medidas legislativas ou de outra natureza para efetivar os direitos convencionais.",
+     "dispositivo": "Convenção Americana, art. 2"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "O controle de convencionalidade pode verificar a compatibilidade de atos estatais com tratados de direitos humanos vinculantes para o Brasil.",
+     "gabarito": "C",
+     "comentario": "A comparação considera obrigações internacionais assumidas pelo Estado; a Convenção exige respeito, garantia e medidas internas de efetivação. Fundamento expresso: Convenção Americana, arts. 1.1 e 2.",
+     "dispositivo": "Convenção Americana, arts. 1.1 e 2"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Por ser órgão internacional de proteção, a Corte Interamericana pode funcionar como instância de apelação geral para reformar qualquer decisão judicial brasileira.",
+     "gabarito": "E",
+     "comentario": "A Corte decide casos submetidos à sua jurisdição sobre interpretação e aplicação da Convenção; ela não é tribunal recursal ordinário do Judiciário brasileiro. Referência normativa: Convenção Americana, arts. 62 e 63.",
+     "dispositivo": "Convenção Americana, arts. 62 e 63"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O art. 2 da Convenção Americana prevê o dever estatal de adotar medidas legislativas ou de outra natureza quando necessárias à efetividade dos direitos convencionais.",
+     "gabarito": "C",
+     "comentario": "O dispositivo impõe medidas internas de efetivação, em conjunto com o dever de respeitar e garantir os direitos previsto no art. 1.1. Base específica utilizada: Convenção Americana, arts. 1.1 e 2.",
+     "dispositivo": "Convenção Americana, arts. 1.1 e 2"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Qualquer recomendação internacional, ainda que não vinculante para o Brasil, torna automaticamente inválida uma lei nacional em controle de convencionalidade.",
+     "gabarito": "E",
+     "comentario": "A análise exige identificar obrigação internacional aplicável e vinculante; recomendação não vinculante, por si só, não opera como parâmetro convencional obrigatório. O parâmetro citado é: CF, art. 5º, §§ 2º e 3º; Convenção Americana, arts. 1.1 e 2.",
+     "dispositivo": "CF, art. 5º, §§ 2º e 3º; Convenção Americana, arts. 1.1 e 2"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma juíza precisa verificar se uma regra interna que afeta uma pessoa protegida contraria obrigação de tratado de direitos humanos vigente para o Brasil. Qual enquadramento descreve melhor a tarefa?",
+     "alternativas": {
+      "A": "Controle de convencionalidade, com identificação do tratado aplicável, da obrigação e da norma ou ato estatal examinado.",
+      "B": "Recurso internacional automático, que transfere o processo à Corte IDH.",
+      "C": "Controle que só pode comparar atos administrativos com resoluções da Assembleia Geral da ONU.",
+      "D": "Procedimento consultivo do art. 64 da Convenção, aberto diretamente por qualquer juízo nacional.",
+      "E": "Controle de convencionalidade, limitado a tratados aprovados pelo rito do art. 5º, § 3º, da Constituição."
+     },
+     "gabarito": "A",
+     "comentario": "O controle interno confronta atos estatais com obrigações internacionais vinculantes. O art. 5º, § 3º, dá equivalência a emenda aos tratados que cumprem o rito qualificado, mas não exclui os demais tratados de direitos humanos do exame convencional. Fundamento expresso: CF, art. 5º, §§ 2º e 3º; Convenção Americana, arts. 1.1 e 2.",
+     "dispositivo": "CF, art. 5º, §§ 2º e 3º; Convenção Americana, arts. 1.1 e 2"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma pessoa pretende que a Corte IDH reavalie provas e corrija, como tribunal superior interno, a interpretação dada por um juiz brasileiro. Qual afirmação é correta?",
+     "alternativas": {
+      "A": "A Corte deve receber o pedido porque toda alegação de erro judicial abre uma quarta instância.",
+      "B": "A Corte só pode rever o caso se houver autorização do Supremo Tribunal Federal.",
+      "C": "A Corte examina possível responsabilidade internacional do Estado segundo a Convenção, não atua como apelação geral de decisões nacionais.",
+      "D": "A Corte pode anular diretamente a sentença nacional, mas não declarar violação convencional.",
+      "E": "A Comissão Interamericana reforma a decisão e a Corte apenas executa a reforma."
+     },
+     "gabarito": "C",
+     "comentario": "A jurisdição contenciosa da Corte incide sobre casos relativos à interpretação e aplicação da Convenção, nos limites de sua competência; não substitui recursos internos como instância recursal geral. Referência normativa: Convenção Americana, arts. 62 e 63.",
+     "dispositivo": "Convenção Americana, arts. 62 e 63"
+    }
+   ]
+  },
+  {
+   "id": "dh-convencionalidade-2",
+   "titulo": "Tratados de direitos humanos no parâmetro brasileiro",
+   "microconteudo": "O parâmetro de convencionalidade depende do tratado de que o Brasil seja parte e da obrigação pertinente. A Constituição, no art. 5º, § 2º, declara que os direitos nela expressos não excluem outros decorrentes de tratados; o § 3º prevê equivalência a emenda constitucional para tratados de direitos humanos aprovados em cada Casa do Congresso, em dois turnos, por três quintos dos votos. Para tratados de direitos humanos incorporados sem esse rito, o STF reconhece caráter supralegal, abaixo da Constituição e acima da legislação infraconstitucional. Essa orientação foi aplicada no julgamento sobre prisão civil do depositário infiel e consolidada na Súmula Vinculante 25. A consequência não é afirmar que todo tratado tenha hierarquia constitucional: é necessário distinguir o rito de aprovação e a posição reconhecida ao instrumento. No exame concreto, a norma interna deve ser interpretada, quando possível, de modo compatível com a Constituição e as obrigações convencionais. A solução também deve respeitar competências institucionais e garantias processuais. A Constituição permanece parâmetro superior, enquanto os tratados oferecem proteção adicional e podem impedir a aplicação de regra infraconstitucional incompatível.",
+   "flashcards": [
+    {
+     "frente": "Qual rito dá equivalência constitucional a tratado de direitos humanos?",
+     "verso": "Aprovação em cada Casa, em dois turnos, por três quintos dos votos.",
+     "dispositivo": "CF, art. 5º, § 3º"
+    },
+    {
+     "frente": "Qual posição o STF atribui aos tratados de direitos humanos sem rito qualificado?",
+     "verso": "Supralegal: abaixo da Constituição e acima das leis infraconstitucionais.",
+     "dispositivo": "STF, RE 466.343/SP, Tribunal Pleno, julgamento em 3/12/2008"
+    },
+    {
+     "frente": "O que estabelece a Súmula Vinculante 25?",
+     "verso": "É ilícita a prisão civil de depositário infiel, qualquer que seja a modalidade do depósito.",
+     "dispositivo": "STF, Súmula Vinculante 25"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "Tratado de direitos humanos aprovado em cada Casa do Congresso, em dois turnos, por três quintos dos votos, é equivalente a emenda constitucional.",
+     "gabarito": "C",
+     "comentario": "Esse é o procedimento qualificado que a Constituição prevê para atribuir equivalência às emendas constitucionais. Base específica utilizada: CF, art. 5º, § 3º.",
+     "dispositivo": "CF, art. 5º, § 3º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Segundo a orientação do STF, todo tratado internacional de direitos humanos incorporado ao Brasil tem automaticamente hierarquia de emenda constitucional, ainda que não observado o rito qualificado.",
+     "gabarito": "E",
+     "comentario": "O STF reconhece caráter supralegal aos tratados de direitos humanos não aprovados pelo rito do art. 5º, § 3º; equivalência a emenda depende desse procedimento. O parâmetro citado é: CF, art. 5º, § 3º; STF, RE 466.343/SP, Tribunal Pleno, julgamento em 3/12/2008.",
+     "dispositivo": "CF, art. 5º, § 3º; STF, RE 466.343/SP, Tribunal Pleno, julgamento em 3/12/2008"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Súmula Vinculante 25 afirma a ilicitude da prisão civil do depositário infiel, qualquer que seja a modalidade do depósito.",
+     "gabarito": "C",
+     "comentario": "A súmula vinculante fixou essa vedação, em consonância com a leitura do tratado de direitos humanos e a posição supralegal reconhecida pelo STF. Fundamento expresso: STF, Súmula Vinculante 25.",
+     "dispositivo": "STF, Súmula Vinculante 25"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O art. 5º, § 2º, da Constituição restringe os direitos fundamentais aos que aparecem expressamente no texto constitucional e exclui direitos previstos em tratados.",
+     "gabarito": "E",
+     "comentario": "O § 2º expressamente preserva direitos decorrentes dos tratados de que o Brasil seja parte; não limita o catálogo aos direitos escritos na Constituição. Referência normativa: CF, art. 5º, § 2º.",
+     "dispositivo": "CF, art. 5º, § 2º"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Um tratado de direitos humanos foi aprovado pelo Congresso sem o quórum do art. 5º, § 3º, e incorporado ao direito brasileiro. Conforme a orientação do STF, qual é sua posição hierárquica?",
+     "alternativas": {
+      "A": "A mesma de lei ordinária, sem qualquer posição diferenciada.",
+      "B": "Supralegal, abaixo da Constituição e acima da legislação infraconstitucional.",
+      "C": "Necessariamente equivalente a emenda constitucional.",
+      "D": "Superior à Constituição, por integrar o direito internacional.",
+      "E": "Sem qualquer efeito interno até aprovação por plebiscito."
+     },
+     "gabarito": "B",
+     "comentario": "No RE 466.343/SP, o Plenário do STF reconheceu caráter supralegal aos tratados de direitos humanos incorporados sem o rito qualificado do art. 5º, § 3º. Base específica utilizada: CF, art. 5º, § 3º; STF, RE 466.343/SP, Tribunal Pleno, julgamento em 3/12/2008.",
+     "dispositivo": "CF, art. 5º, § 3º; STF, RE 466.343/SP, Tribunal Pleno, julgamento em 3/12/2008"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Ao classificar a Convenção Americana no sistema brasileiro, qual proposição combina corretamente Constituição e jurisprudência do STF?",
+     "alternativas": {
+      "A": "A Convenção está acima da Constituição porque foi celebrada no plano internacional.",
+      "B": "Todo tratado é constitucional, independentemente de matéria e rito de aprovação.",
+      "C": "A Convenção não pode ser parâmetro de controle interno por ter sido promulgada por decreto.",
+      "D": "Tratados de direitos humanos aprovados pelo rito do art. 5º, § 3º, equivalem a emendas; os demais recebem, segundo o STF, posição supralegal.",
+      "E": "O tratado só produz efeitos internos depois de uma decisão da Corte IDH contra o Brasil."
+     },
+     "gabarito": "D",
+     "comentario": "A Constituição define o rito de equivalência a emenda e o STF reconhece posição supralegal aos tratados de direitos humanos incorporados sem esse procedimento; a força interna não depende de sentença internacional individual. O parâmetro citado é: CF, art. 5º, §§ 2º e 3º; STF, RE 466.343/SP, Tribunal Pleno, julgamento em 3/12/2008.",
+     "dispositivo": "CF, art. 5º, §§ 2º e 3º; STF, RE 466.343/SP, Tribunal Pleno, julgamento em 3/12/2008"
+    }
+   ]
+  },
+  {
+   "id": "dh-convencionalidade-3",
+   "titulo": "Dever de controle pelos órgãos internos",
+   "microconteudo": "A jurisprudência da Corte Interamericana desenvolveu o controle interno de convencionalidade como dever dos órgãos estatais, com destaque para juízes e tribunais. Em Almonacid Arellano vs. Chile, a Corte afirmou que o Judiciário deve comparar normas internas aplicadas ao caso com a Convenção Americana e considerar a interpretação da própria Corte (§ 124). Em Trabalhadores Cesados do Congresso vs. Peru, acrescentou que esse exame deve ocorrer de ofício, dentro das respectivas competências e das regras processuais correspondentes (§ 128). A fórmula não elimina contraditório, limites da jurisdição ou procedimentos internos; também não autoriza autoridade a agir fora de sua atribuição legal. O dever se articula com os arts. 1.1 e 2 da Convenção, que exigem respeito, garantia e medidas para tornar efetivos os direitos. No caso concreto, o órgão identifica o direito protegido, a obrigação internacional, o alcance interpretativo pertinente e a possível incompatibilidade. A análise pode levar à interpretação compatível ou, conforme competência e direito aplicável, à não aplicação da regra conflitante. A motivação deve explicitar o parâmetro e responder às alegações relevantes das partes.",
+   "flashcards": [
+    {
+     "frente": "A Corte IDH exige pedido expresso da parte para o controle interno?",
+     "verso": "Não; o controle pode ser feito de ofício, dentro da competência e das regras processuais aplicáveis.",
+     "dispositivo": "Corte IDH, Trabalhadores Cesados do Congresso vs. Peru, sentença de 24/11/2006, § 128"
+    },
+    {
+     "frente": "O que orienta Almonacid Arellano sobre o parâmetro interpretativo?",
+     "verso": "Comparar a regra interna com a Convenção e considerar a interpretação da Corte IDH.",
+     "dispositivo": "Corte IDH, Almonacid Arellano vs. Chile, sentença de 26/09/2006, § 124"
+    },
+    {
+     "frente": "O controle de ofício dispensa competência e procedimento?",
+     "verso": "Não. Deve respeitar a competência institucional e as regras processuais correspondentes.",
+     "dispositivo": "Corte IDH, Trabalhadores Cesados do Congresso vs. Peru, sentença de 24/11/2006, § 128"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A Corte Interamericana já indicou que juízes internos devem confrontar normas aplicadas no caso com a Convenção Americana e levar em conta a interpretação da Corte.",
+     "gabarito": "C",
+     "comentario": "Em Almonacid Arellano, a Corte descreveu esse exame pelo Poder Judiciário ao aplicar o direito interno, tomando a Convenção e sua interpretação como referências. Fundamento expresso: Corte IDH, Almonacid Arellano vs. Chile, sentença de 26/09/2006, § 124.",
+     "dispositivo": "Corte IDH, Almonacid Arellano vs. Chile, sentença de 26/09/2006, § 124"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O controle de convencionalidade de ofício permite que qualquer autoridade ignore limites de competência e dispense todas as regras processuais nacionais.",
+     "gabarito": "E",
+     "comentario": "A Corte condicionou o controle de ofício às competências respectivas e às regras processuais correspondentes; não autorizou atuação fora da atribuição institucional. Referência normativa: Corte IDH, Trabalhadores Cesados do Congresso vs. Peru, sentença de 24/11/2006, § 128.",
+     "dispositivo": "Corte IDH, Trabalhadores Cesados do Congresso vs. Peru, sentença de 24/11/2006, § 128"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Segundo a Corte IDH, o controle interno pode ocorrer de ofício, mas deve respeitar as competências de cada órgão e as regras processuais aplicáveis.",
+     "gabarito": "C",
+     "comentario": "A decisão de Trabalhadores Cesados formula expressamente as ressalvas de competência e procedimento ao tratar do exame de ofício. Base específica utilizada: Corte IDH, Trabalhadores Cesados do Congresso vs. Peru, sentença de 24/11/2006, § 128.",
+     "dispositivo": "Corte IDH, Trabalhadores Cesados do Congresso vs. Peru, sentença de 24/11/2006, § 128"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Corte Interamericana afirmou que o controle interno se limita a examinar leis abstratas e não alcança normas aplicadas em casos concretos.",
+     "gabarito": "E",
+     "comentario": "Almonacid Arellano trata do confronto entre normas jurídicas internas aplicadas em casos concretos e a Convenção Americana, consideradas as atribuições judiciais. O parâmetro citado é: Corte IDH, Almonacid Arellano vs. Chile, sentença de 26/09/2006, § 124.",
+     "dispositivo": "Corte IDH, Almonacid Arellano vs. Chile, sentença de 26/09/2006, § 124"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Em ação judicial, nenhuma parte suscitou incompatibilidade entre uma regra interna e a Convenção Americana. A juíza identifica possível conflito ao estudar o processo. À luz da Corte IDH, qual conduta se ajusta ao padrão interamericano?",
+     "alternativas": {
+      "A": "Ignorar o conflito, pois o controle só pode ocorrer após pedido da parte autora.",
+      "B": "Remeter automaticamente os autos à Corte IDH antes de decidir qualquer questão nacional.",
+      "C": "Examinar de ofício a compatibilidade, observando sua competência e as regras processuais pertinentes.",
+      "D": "Afastar a norma interna sem fundamentação e sem ouvir as partes, em qualquer hipótese.",
+      "E": "Declarar que apenas o Congresso Nacional pode interpretar tratados de direitos humanos."
+     },
+     "gabarito": "C",
+     "comentario": "A Corte admite controle de ofício, mas exige respeito às competências e regras processuais correspondentes; a motivação e as garantias do processo continuam relevantes. Fundamento expresso: Corte IDH, Trabalhadores Cesados do Congresso vs. Peru, sentença de 24/11/2006, § 128.",
+     "dispositivo": "Corte IDH, Trabalhadores Cesados do Congresso vs. Peru, sentença de 24/11/2006, § 128"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual entendimento corresponde ao § 124 de Almonacid Arellano vs. Chile?",
+     "alternativas": {
+      "A": "O Poder Judiciário deve confrontar normas internas relevantes com a Convenção Americana, levando em conta a interpretação da Corte IDH.",
+      "B": "A Corte IDH deve substituir os tribunais nacionais em todos os processos civis e criminais.",
+      "C": "O controle só alcança atos do Poder Executivo e nunca normas legislativas.",
+      "D": "A Convenção Americana é inaplicável por órgãos nacionais antes de uma condenação internacional.",
+      "E": "O controle convencional é exclusivo dos tribunais constitucionais, mesmo quando a lei nacional atribui competência a outro juízo."
+     },
+     "gabarito": "A",
+     "comentario": "O § 124 descreve a comparação judicial entre normas internas aplicadas ao caso e a Convenção Americana, considerada a interpretação da Corte Interamericana. Referência normativa: Corte IDH, Almonacid Arellano vs. Chile, sentença de 26/09/2006, § 124.",
+     "dispositivo": "Corte IDH, Almonacid Arellano vs. Chile, sentença de 26/09/2006, § 124"
+    }
+   ]
+  },
+  {
+   "id": "dh-convencionalidade-4",
+   "titulo": "Resposta à incompatibilidade e efeitos do exame",
+   "microconteudo": "Identificada possível incompatibilidade, o órgão nacional deve justificar a solução à luz do tratado aplicável, da Constituição e de sua competência. Quando o texto admitir mais de uma leitura, a interpretação conforme os direitos humanos pode preservar a norma interna e evitar conflito. Se a incompatibilidade persistir, a consequência depende da hierarquia do tratado e das atribuições do órgão: a regra infraconstitucional incompatível com tratado de direitos humanos supralegal pode deixar de ser aplicada, como ilustra a orientação do STF sobre a prisão civil do depositário infiel; tratados aprovados pelo rito do art. 5º, § 3º, têm equivalência a emenda. Não se deve confundir essa análise com a declaração automática de nulidade de toda lei questionada nem com o controle de constitucionalidade, embora os parâmetros possam dialogar. No plano internacional, o descumprimento de obrigação convencional pode gerar responsabilidade do Estado e medidas de reparação pela Corte nos casos de sua competência. A fundamentação deve indicar o direito protegido, a norma examinada e o efeito jurídico adotado. A resposta deve ser proporcional ao conflito demonstrado e observar contraditório, segurança jurídica e garantias processuais.",
+   "flashcards": [
+    {
+     "frente": "A incompatibilidade convencional sempre anula a lei internamente?",
+     "verso": "Não. O efeito depende do parâmetro, da hierarquia aplicável e da competência do órgão.",
+     "dispositivo": "CF, art. 5º, § 3º; STF, RE 466.343/SP, Tribunal Pleno, julgamento em 3/12/2008"
+    },
+    {
+     "frente": "Qual exemplo brasileiro ilustra a não aplicação de lei conflitante com tratado supralegal?",
+     "verso": "A prisão civil do depositário infiel foi afastada; a SV 25 consolidou a ilicitude.",
+     "dispositivo": "STF, Súmula Vinculante 25; RE 466.343/SP"
+    },
+    {
+     "frente": "O que a Corte IDH pode determinar após reconhecer violação?",
+     "verso": "Que se assegure o direito e, se cabível, reparação das consequências e indenização.",
+     "dispositivo": "Convenção Americana, art. 63.1"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A análise de convencionalidade pode conduzir à interpretação compatível da norma interna, quando essa leitura for juridicamente possível.",
+     "gabarito": "C",
+     "comentario": "A interpretação conforme pode harmonizar o direito interno com as obrigações de direitos humanos sem declarar automaticamente a nulidade da norma. Base específica utilizada: CF, art. 5º, §§ 2º e 3º; Convenção Americana, arts. 1.1 e 2.",
+     "dispositivo": "CF, art. 5º, §§ 2º e 3º; Convenção Americana, arts. 1.1 e 2"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Reconhecida qualquer incompatibilidade com tratado de direitos humanos, toda autoridade deve declarar a nulidade da lei, sem considerar hierarquia, competência ou processo.",
+     "gabarito": "E",
+     "comentario": "Os efeitos variam conforme a posição do tratado, a natureza do conflito e a competência institucional; o controle não implica nulidade automática por qualquer autoridade. O parâmetro citado é: CF, art. 5º, § 3º; STF, RE 466.343/SP, Tribunal Pleno, julgamento em 3/12/2008.",
+     "dispositivo": "CF, art. 5º, § 3º; STF, RE 466.343/SP, Tribunal Pleno, julgamento em 3/12/2008"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Convenção Americana autoriza a Corte, ao reconhecer violação, a determinar que se assegure o gozo do direito e, quando cabível, reparação e indenização.",
+     "gabarito": "C",
+     "comentario": "O art. 63.1 prevê restituição do gozo do direito violado, reparação das consequências e justa indenização, se cabível. Fundamento expresso: Convenção Americana, art. 63.1.",
+     "dispositivo": "Convenção Americana, art. 63.1"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O controle de convencionalidade e o controle de constitucionalidade são conceitos idênticos, pois empregam sempre o mesmo parâmetro jurídico.",
+     "gabarito": "E",
+     "comentario": "O controle de constitucionalidade usa a Constituição como parâmetro; o de convencionalidade considera obrigações internacionais de direitos humanos, embora possam dialogar no caso concreto. Referência normativa: CF, art. 5º, §§ 2º e 3º; Convenção Americana, arts. 1.1 e 2.",
+     "dispositivo": "CF, art. 5º, §§ 2º e 3º; Convenção Americana, arts. 1.1 e 2"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma lei ordinária parece contrariar tratado de direitos humanos que o STF considera supralegal. Antes de afastar a regra, qual abordagem é mais adequada?",
+     "alternativas": {
+      "A": "Presumir que toda regra nacional prevalece por ser posterior ao tratado.",
+      "B": "Verificar se há interpretação compatível e, persistindo o conflito, decidir o efeito conforme o parâmetro hierárquico e a competência do órgão.",
+      "C": "Declarar que o tratado é inválido por não ter sido aprovado como emenda constitucional.",
+      "D": "Remeter obrigatoriamente a questão à Corte IDH, que anulará a lei brasileira.",
+      "E": "Ignorar o tratado e analisar exclusivamente a intenção histórica do legislador nacional."
+     },
+     "gabarito": "B",
+     "comentario": "O método requer identificar a posição do tratado, buscar leitura compatível quando possível e observar a competência do órgão; o STF reconhece caráter supralegal aos tratados de direitos humanos sem rito do § 3º. Base específica utilizada: CF, art. 5º, § 3º; STF, RE 466.343/SP, Tribunal Pleno, julgamento em 3/12/2008.",
+     "dispositivo": "CF, art. 5º, § 3º; STF, RE 466.343/SP, Tribunal Pleno, julgamento em 3/12/2008"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "A Corte IDH conclui que um Estado violou direito protegido e avalia consequências reparatórias. Qual previsão convencional incide diretamente?",
+     "alternativas": {
+      "A": "A Comissão pode reformar a sentença nacional e executar a condenação penal individual.",
+      "B": "O Estado pode escolher livremente não cumprir a sentença, pois ela é apenas consultiva.",
+      "C": "A Corte deve limitar-se a recomendar que o Estado reabra o debate legislativo.",
+      "D": "A Corte só pode conceder reparação patrimonial, nunca restituição do direito.",
+      "E": "A Corte pode assegurar o gozo do direito, reparar consequências e determinar justa indenização, quando cabível."
+     },
+     "gabarito": "E",
+     "comentario": "O art. 63.1 prevê medidas para assegurar o gozo do direito violado, reparar as consequências e fixar justa indenização, se cabível. O parâmetro citado é: Convenção Americana, art. 63.1.",
+     "dispositivo": "Convenção Americana, art. 63.1"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,401 @@
+{
+ "assunto": "CP RPPS — Lei nº 9.717/1998: normas gerais de organização e funcionamento",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 (Lei nº 9.717/1998, texto compilado do Planalto; Manual CP RPPS v2.0 do MPS)",
+ "origem": "2026-11-23_banco-rpps-normas-gerais-organizacao-funcionamento_v2.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "rpps-normas-gerais-1",
+   "titulo": "Equilíbrio, custeio e limites institucionais",
+   "microconteudo": "RAIO-X DA PROVA: Na matriz de prioridades recebida para esta missão, o tema está mapeado em 8 de 8 provas/certificações; o Manual oficial CP RPPS v2.0 confirma sua inclusão no conteúdo programático e atribui 5 questões ao bloco RPPS nos níveis básico e intermediário de dirigentes. Não localizei cadernos oficiais liberados com itens individualizados para medir frequência real por artigo, então o ângulo de cobrança abaixo é inferido do programa, não de enunciados observados. A matriz favorece aplicação literal em casos de equilíbrio, custeio e cobertura; as confusões prováveis são equilíbrio financeiro versus atuarial, avaliação periódica versus fotografia contábil e cobertura de efetivos versus qualquer vínculo público.\n\nO QUE A BANCA COBRA:\nO Manual CP RPPS v2.0 coloca a Lei nº 9.717/1998 no bloco de RPPS, com cinco questões distribuídas pelo conjunto do conteúdo programático dos dirigentes. Em razão da amplitude da lei, uma prova pode explorar uma regra literal dentro de uma situação administrativa curta: uma prefeitura quer mudar custeio, aceitar novos grupos de segurados ou justificar o resultado financeiro do regime. A chave costuma ser reconhecer a finalidade da regra e identificar qual informação ou providência falta. A lista oficial de prioridade do programa classifica o tema em oito de oito matrizes consideradas, mas não há cadernos oficiais liberados localizados para contar incidências por artigo.\n\nENTENDA:\nO art. 1º da Lei nº 9.717/1998 dá a moldura do regime: normas gerais de contabilidade e atuária, com organização orientada ao equilíbrio financeiro e atuarial. Equilíbrio financeiro olha a suficiência de receitas para as despesas no fluxo de caixa; equilíbrio atuarial confronta, em perspectiva, obrigações e fontes de financiamento do plano. Um mês com caixa positivo não prova que o plano esteja atuarialmente equilibrado: contribuições correntes podem pagar benefícios de hoje, enquanto projeções revelam insuficiência para as obrigações futuras. O inverso também pode ocorrer: um plano atuarialmente estruturado pode atravessar descasamento temporário de caixa que exige gestão financeira e cobertura do ente, sem que uma métrica isolada substitua a avaliação completa.\n\nO inciso I do art. 1º exige avaliação atuarial inicial e em cada balanço, com parâmetros gerais, para organizar e rever plano de custeio e benefícios. A avaliação não é um selo decorativo nem apenas um relatório que se arquiva depois da aprovação do orçamento. Ela informa premissas, população coberta, compromissos e recursos necessários; o gestor deve conectar seus resultados a providências legais de custeio e governança. A lei atribui o financiamento a recursos do ente e às contribuições dos participantes previstos no inciso II. Não basta registrar uma receita esperada: a contribuição deve estar instituída e arrecadada conforme o direito aplicável, e o repasse precisa ser acompanhado.\n\nA unidade de cobertura também é delimitada. O inciso V restringe a cobertura a servidores titulares de cargo efetivo e militares nas hipóteses ali previstas, com os respectivos dependentes, de cada ente. Veda conceder benefícios por convênios ou consórcios entre entes. Isso não significa que todo vínculo de trabalho na administração municipal gere filiação ao RPPS: ocupante apenas de cargo em comissão, temporário ou emprego público não se transforma em titular de cargo efetivo por trabalhar na prefeitura. Há regra específica no art. 1º-A para servidor efetivo filiado que é cedido a outro ente: conserva o vínculo previdenciário de origem, com ou sem ônus para o cessionário. A cessão funcional não é, por si, mudança de filiação.\n\nO modelo inclui participação e rastreabilidade. O art. 1º, VI, garante acesso pleno dos segurados a informações de gestão e participação representativa em colegiados e instâncias de decisão sobre seus interesses. Os incisos VII e VIII exigem registro individualizado de contribuições e consolidação em demonstrativos de despesas previdenciárias com inativos e pensionistas. O inciso IX submete o regime a inspeções e auditorias atuarial, contábil, financeira, orçamentária e patrimonial por controles internos e externos. Em um RPPS municipal, conciliar folha de remuneração, contribuições descontadas, repasse do ente, cadastro de segurados e demonstrativos reduz risco de erro de custeio e permite que o conselho fiscal exerça controle com dados verificáveis.\n\nO art. 2º acrescenta uma baliza quantitativa para a contribuição do ente, incluídas autarquias e fundações: ela não pode ser menor que a contribuição do servidor ativo nem maior que o dobro. Se os servidores ativos contribuem R$ 900 mil em determinado período, a faixa legal da contribuição patronal vai de R$ 900 mil a R$ 1,8 milhão, inclusive. Esse cálculo não escolhe sozinho a alíquota municipal adequada; a avaliação atuarial e a legislação aplicável continuam relevantes. O § 1º responsabiliza o ente por insuficiências financeiras do regime decorrentes do pagamento de benefícios. Não converta essa regra em garantia automática de qualquer decisão de investimento: ela trata da insuficiência de recursos para pagar benefícios. O § 2º exige publicação bimestral, até 30 dias após cada encerramento, de demonstrativo financeiro e orçamentário das receitas e despesas previdenciárias acumuladas no exercício.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nSem precedente relevante individualizado para o recorte desta lição. A matriz de prova e a interpretação normativa devem ser atualizadas com a legislação compilada vigente; regras operacionais atuariais são detalhadas pela Portaria MPS nº 1.467/2022, especialmente arts. 25 e 26, conteúdo conectado ao tópico de Gestão Atuarial do edital.\n\nPEGADINHAS:\n1. Caixa superavitário em um mês não prova equilíbrio atuarial: compare fluxos e obrigações projetadas.\n2. A avaliação não ocorre apenas na criação: o art. 1º, I, prevê avaliação inicial e em cada balanço.\n3. Servidor cedido não migra automaticamente: o art. 1º-A mantém a filiação ao regime de origem.\n4. A contribuição patronal não é livre: mínimo igual à do ativo e máximo de duas vezes essa contribuição.\n5. Cobertura previdenciária de efetivos não autoriza consórcio para pagar benefícios de segurados de outro ente.\n\nESQUEMA:\nFinalidade → equilíbrio financeiro e atuarial (art. 1º, caput).\nAvaliação → inicial + cada balanço; organiza/revisa custeio e benefícios (art. 1º, I).\nCobertura → efetivos/militares e dependentes do ente; sem convênio ou consórcio (art. 1º, V).\nContribuição do ente → de 1× a 2× a do servidor ativo (art. 2º, caput).\nInsuficiência para benefícios → responsabilidade do ente (art. 2º, § 1º).\nDemonstrativo → publicação até 30 dias após cada bimestre (art. 2º, § 2º).\n\nLIGAÇÕES:\nEste tópico se cruza com Gestão Atuarial (Portaria MPS nº 1.467/2022, arts. 25 e 26) e Plano de Custeio (arts. 7º a 12 da Portaria).",
+   "flashcards": [
+    {
+     "frente": "No caixa do mês há sobra, mas a avaliação projeta passivos futuros maiores que os recursos. O caixa positivo basta para concluir equilíbrio atuarial?",
+     "verso": "Não. Suficiência momentânea de caixa não substitui análise atuarial dos compromissos futuros.",
+     "dispositivo": "Lei nº 9.717/1998, art. 1º, caput e I"
+    },
+    {
+     "frente": "Qual providência atuarial deve acompanhar cada balanço do RPPS?",
+     "verso": "Avaliação com parâmetros gerais para organizar ou revisar custeio e benefícios.",
+     "dispositivo": "Lei nº 9.717/1998, art. 1º, I"
+    },
+    {
+     "frente": "Uma servidora efetiva filiada é cedida a outro município sem ônus. Qual regime mantém sua filiação?",
+     "verso": "O regime de origem, independentemente de a cessão ser com ou sem ônus.",
+     "dispositivo": "Lei nº 9.717/1998, art. 1º-A"
+    },
+    {
+     "frente": "Pegadinha: a prefeitura pode filiar temporário ao RPPS só porque ele trabalha no órgão?",
+     "verso": "Não. A cobertura do RPPS alcança titulares de cargo efetivo e seus dependentes, nos termos legais.",
+     "dispositivo": "Lei nº 9.717/1998, art. 1º, V"
+    },
+    {
+     "frente": "A contribuição dos ativos é R$ 900 mil. Qual intervalo legal da contribuição patronal?",
+     "verso": "De R$ 900 mil a R$ 1,8 milhão, inclusive, sem dispensar a avaliação e a lei aplicável.",
+     "dispositivo": "Lei nº 9.717/1998, art. 2º, caput"
+    },
+    {
+     "frente": "Pegadinha: até quando se publica o demonstrativo financeiro e orçamentário previdenciário?",
+     "verso": "Até 30 dias após o encerramento de cada bimestre.",
+     "dispositivo": "Lei nº 9.717/1998, art. 2º, § 2º"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Em 31 de dezembro, o RPPS de Santa Aurora encerrou o balanço com caixa positivo, mas a atuária Paula apontou que os recursos projetados não cobrem todos os compromissos futuros. O diretor concluiu que a avaliação atuarial deve orientar a revisão de custeio e benefícios, mesmo sem déficit imediato de caixa.",
+     "gabarito": "C",
+     "comentario": "A conclusão aplica corretamente o art. 1º: a organização deve buscar equilíbrio financeiro e atuarial, e a avaliação em cada balanço orienta a revisão de custeio e benefícios. Caixa positivo não substitui a análise das obrigações futuras. (Base normativa: Lei nº 9.717/1998, art. 1º, caput e inciso I.)",
+     "dispositivo": "Lei nº 9.717/1998, art. 1º, caput e inciso I"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Em 30 de junho, o atuário de Serra Azul entrega avaliação para revisão do custeio. O prefeito informa ao conselho que essa é a única avaliação necessária, pois o art. 1º dispensa nova avaliação nos balanços seguintes.",
+     "gabarito": "E",
+     "comentario": "A afirmação está errada: a avaliação atuarial deve ocorrer inicialmente e em cada balanço, usando parâmetros gerais, e serve para organizar e rever o plano de custeio e benefícios. A entrega intermediária não elimina a obrigação periódica. (Base normativa: Lei nº 9.717/1998, art. 1º-A.)",
+     "dispositivo": "Lei nº 9.717/1998, art. 1º-A"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Em 30 de junho, as contribuições dos servidores ativos do Município de Pedra Branca totalizaram R$ 700 mil. A lei municipal fixou contribuição patronal de R$ 1,5 milhão. Como o ente cobre eventual insuficiência financeira, o valor patronal continua dentro da faixa do art. 2º.",
+     "gabarito": "E",
+     "comentario": "O limite superior é o dobro de R$ 700 mil, ou R$ 1,4 milhão. R$ 1,5 milhão ultrapassa a faixa; o dever de cobrir insuficiência do § 1º não eleva o teto da contribuição patronal do caput. (Base normativa: Lei nº 9.717/1998, art. 2º, caput e § 1º.)",
+     "dispositivo": "Lei nº 9.717/1998, art. 2º, caput e § 1º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "O Município de Vale Claro encerrou o bimestre em 31 de agosto. A controladoria orientou que o demonstrativo das receitas e despesas previdenciárias acumuladas seja publicado até 30 de setembro, mesmo que o conselho ainda esteja reunindo os dados para a ata de aprovação.",
+     "gabarito": "C",
+     "comentario": "O demonstrativo deve ser publicado até 30 dias após o fim de cada bimestre. A lei não condiciona o prazo à aprovação de ata pelo conselho; cabe ao ente organizar os dados para cumprir a publicação tempestiva. (Base normativa: Lei nº 9.717/1998, art. 2º, § 2º.)",
+     "dispositivo": "Lei nº 9.717/1998, art. 2º, § 2º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 10 de janeiro, a atuária Paula apresenta ao diretor Rafael duas projeções para o RPPS de Santa Aurora, com R$ 4,8 milhões em caixa e R$ 6,1 milhões em obrigações projetadas: o caixa do trimestre é positivo, mas o valor presente das obrigações supera os recursos do plano. Qual encaminhamento melhor aplica a Lei nº 9.717/1998?",
+     "alternativas": {
+      "A": "Revisar o plano de custeio e benefícios com base em avaliação atuarial e tratar separadamente a suficiência financeira do fluxo imediato.",
+      "B": "Arquivar o alerta, pois caixa positivo comprova equilíbrio financeiro e atuarial.",
+      "C": "Suspender a avaliação, porque só é exigida quando houver déficit de caixa.",
+      "D": "Concluir que o equilíbrio atuarial é questão exclusiva da União e não alcança o município.",
+      "E": "Aumentar imediatamente a contribuição patronal acima do dobro da contribuição do servidor."
+     },
+     "gabarito": "A",
+     "comentario": "A correta é A: a avaliação atuarial deve orientar a revisão de custeio e benefícios, e caixa positivo não prova equilíbrio atuarial. B erra ao tratar a sobra de caixa como prova de solvência futura; C cria condição de déficit de caixa que a lei não exige; D exclui os municípios do alcance da regra; E supera o teto patronal de duas vezes a contribuição do ativo. Base normativa: Lei nº 9.717/1998, art. 1º, caput e inciso I; art. 2º, caput.",
+     "dispositivo": "Lei nº 9.717/1998, art. 1º, caput e inciso I; art. 2º, caput"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 5 de abril, o Município de Rio Sereno tem R$ 1,05 milhão de contribuições de servidores ativos e propõe contribuição patronal de R$ 2,2 milhões. A atuária Paula informa que o plano precisa de custeio elevado, e o prefeito João argumenta que isso autoriza superar o limite legal. Qual decisão é correta?",
+     "alternativas": {
+      "A": "Aceitar R$ 2,2 milhões porque necessidade atuarial afasta o limite do art. 2º.",
+      "B": "Fixar contribuição patronal em até R$ 2,1 milhões e resolver eventual necessidade adicional por instrumentos legais compatíveis, sem superar o teto.",
+      "C": "Reduzir a contribuição patronal para valor abaixo de R$ 1,05 milhão, pois o limite é apenas máximo.",
+      "D": "Cobrar contribuição patronal exatamente igual a R$ 1,05 milhão em qualquer situação.",
+      "E": "Desconsiderar a contribuição do servidor ativo e usar como base o total de benefícios pagos."
+     },
+     "gabarito": "B",
+     "comentario": "A correta é B: o limite superior é duas vezes R$ 1,05 milhão, ou R$ 2,1 milhões; o piso é R$ 1,05 milhão. A excede o teto; C fica abaixo do piso; D ignora que há uma faixa entre piso e teto; E usa uma base que o art. 2º não prevê. Base normativa: Lei nº 9.717/1998, art. 2º, caput.",
+     "dispositivo": "Lei nº 9.717/1998, art. 2º, caput"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 2 de julho, a servidora efetiva Luana foi cedida pelo Município de Campo Novo à Secretaria de Estado, com ônus para o cessionário. O gestor estadual propõe inscrevê-la no RPPS estadual a partir da folha seguinte. Qual orientação deve prevalecer?",
+     "alternativas": {
+      "A": "A filiação estadual começa porque o Estado passou a pagar a remuneração.",
+      "B": "A filiação é suspensa enquanto durar a cessão.",
+      "C": "A filiação permanece no RPPS municipal de origem, apesar da cessão e de seu ônus.",
+      "D": "A servidora migra ao RGPS por ser paga por outro ente.",
+      "E": "A mudança depende de convênio entre os dois regimes."
+     },
+     "gabarito": "C",
+     "comentario": "A correta é C: a filiação permanece no RPPS de origem mesmo com remuneração paga pelo cessionário. A presume que a fonte pagadora transfere filiação; B cria suspensão; D cria migração automática ao RGPS; E exige convênio que não altera a regra de vínculo original. Base normativa: Lei nº 9.717/1998, art. 1º-A.",
+     "dispositivo": "Lei nº 9.717/1998, art. 1º-A"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 20 de novembro, a conselheira fiscal Bruna recebe o fechamento do bimestre encerrado em 31 de outubro, com R$ 12 milhões em receitas e R$ 10,8 milhões em despesas previdenciárias acumuladas. A área contábil prevê publicar o demonstrativo em 2 de dezembro, alegando que o prazo corre até o fim do segundo mês subsequente. Como avaliar?",
+     "alternativas": {
+      "A": "Está no prazo, pois a lei concede 60 dias após o bimestre.",
+      "B": "Está no prazo se o prefeito assinar a publicação.",
+      "C": "O demonstrativo só é devido após o encerramento anual.",
+      "D": "Está atrasado: o prazo é até 30 dias após o encerramento do bimestre, portanto até 30 de novembro.",
+      "E": "A publicação bimestral é facultativa para municípios."
+     },
+     "gabarito": "D",
+     "comentario": "A correta é D: o prazo termina em 30 de novembro, 30 dias após 31 de outubro. A usa 60 dias; B torna a assinatura do prefeito condição não prevista; C posterga o dever para o fim do exercício; E inventa facultatividade para municípios. Base normativa: Lei nº 9.717/1998, art. 2º, § 2º.",
+     "dispositivo": "Lei nº 9.717/1998, art. 2º, § 2º"
+    }
+   ]
+  },
+  {
+   "id": "rpps-normas-gerais-2",
+   "titulo": "Segregação patrimonial, finalidade e investimentos",
+   "microconteudo": "RAIO-X DA PROVA: Na matriz de prioridades recebida para esta missão, o tema está mapeado em 8 de 8 provas/certificações; o Manual oficial CP RPPS v2.0 integra organização do RPPS e investimentos ao programa. Não encontrei cadernos oficiais liberados com itens individualizados para medir frequência real por artigo; por isso, o ângulo abaixo decorre do conteúdo e das competências cobradas, não de questões observadas. A aplicação tende a explorar finalidade, conta segregada, empréstimos vedados e prudência, com confusões entre recursos previdenciários e caixa do ente, remuneração e autorização legal e norma revogada e vigente.\n\nO QUE A BANCA COBRA:\nO Manual CP RPPS v2.0 inclui organização do RPPS e gestão de investimentos no programa das certificações. O eixo prático deste recorte é reconhecer a finalidade previdenciária e a segregação patrimonial, decidindo se uma ordem administrativa pode deslocar recursos da reserva do regime. Uma questão pode apresentar urgência financeira do Município, oferta de remuneração ou garantia e perguntar se isso muda a vedação legal. O tema aparece em 8 de 8 matrizes do programa segundo a lista prioritária; essa contagem descreve inclusão curricular, não incidência de questões em cadernos liberados, que não foram localizados.\n\nENTENDA:\nO art. 1º, III, limita o uso das contribuições e recursos vinculados ao pagamento de benefícios previdenciários, ressalvadas despesas administrativas previstas em parâmetros gerais. A Lei nº 9.717/1998 também autoriza, no art. 6º, a constituição facultativa de fundos previdenciários formados por bens, direitos e ativos, sob critérios legais. Esses recursos são patrimônio afetado a uma finalidade pública previdenciária específica; não constituem uma conta paralela de livre movimentação do Tesouro. A reserva pode financiar a finalidade que a lei admite, mas não despesas municipais comuns, antecipação de receitas tributárias ou projetos alheios ao regime.\n\nA segregação é concreta: o art. 6º, II, exige conta do fundo distinta da conta do Tesouro. Separar contas permite identificar titularidade, origem, destino e rendimento de cada recurso e facilita controles contábeis e auditoria. Uma planilha interna, um centro de custo ou uma promessa de restituição não substitui uma conta distinta quando a lei a exige. A constituição e a extinção do fundo dependem de lei (art. 6º, IX). A instituição do fundo também não altera o dever de cumprir os demais critérios organizativos do art. 1º, nem transforma ativo transferido em receita sem avaliação e registro adequados.\n\nO art. 6º, V, veda empréstimos de qualquer natureza com recursos do fundo ao ente federativo, às entidades da administração indireta e aos segurados. A expressão “de qualquer natureza” impede que o administrador crie uma exceção baseada somente na curta duração, nos juros, em garantia ou na aprovação do conselho. Em um município, se o Tesouro pede R$ 4 milhões por 20 dias para pagar fornecedores, a decisão não muda porque a proposta oferece remuneração igual ao índice atuarial: o tomador e a natureza de empréstimo continuam dentro da proibição. Diferencie empréstimo vedado de despesas administrativas permitidas dentro dos parâmetros gerais ou de pagamentos previdenciários legítimos. A finalidade e a forma jurídica da operação importam.\n\nA lei ainda exige que a aplicação dos recursos observe as normas do Conselho Monetário Nacional (art. 6º, IV). Ao estabelecer condições e limites, o CMN deve considerar a natureza pública da unidade gestora e dos recursos, os princípios de segurança, proteção e prudência financeira, e critérios relativos à qualidade de gestão e ao ambiente de controle das instituições que administram os recursos (parágrafo único, incisos I e II). O gestor não escolhe um investimento apenas pela rentabilidade projetada: precisa demonstrar aderência à política, às regras de risco, liquidez, diversificação e ao processo de decisão aplicável. A Resolução CMN nº 5.272/2025 substituiu a nº 4.963/2021 a partir de sua vigência; qualquer material antigo deve ser relido sob a norma vigente, sem transportar limites revogados.\n\nTambém há limites para ativos que podem ser alocados. O art. 6º, VI, admite aplicações em títulos públicos apenas com exceção para títulos do Governo Federal; não autoriza títulos de estados ou municípios por analogia. O inciso VII manda avaliar bens, direitos e ativos integrados ao fundo conforme a Lei nº 4.320/1964. O inciso VIII prevê limites para taxa de administração segundo parâmetros gerais. A taxa não pode virar justificativa genérica para consumir reservas sem observar regras específicas, orçamento, finalidade e limite aplicável. Uma transferência de imóvel, por exemplo, requer avaliação e contabilização adequadas, e não apenas a atribuição de valor pelo prefeito.\n\nImagine que, em 12 de maio, a diretora do RPPS receba simultaneamente uma proposta de empréstimo do Tesouro e uma ordem de aplicação em ativo de município vizinho. O primeiro item deve ser rejeitado pela vedação expressa. O segundo não cabe como aplicação em título público sob a exceção legal ao inciso VI. A gestão deve documentar a análise, proteger a segregação patrimonial e aplicar os recursos em alternativas permitidas pela regulação vigente do CMN. Se uma operação irregular gerar prejuízo, surgem também questões de responsabilidade individual e ressarcimento, tratadas na lição sobre fiscalização e no art. 8º-A.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nSem precedente judicial individualizado necessário para este recorte. A orientação oficial do MPS reafirma que a Lei nº 9.717/1998, art. 6º, IV, é a base legal da regulamentação de aplicações de RPPS pelo CMN. Para limites concretos, consulte a Resolução CMN nº 5.272/2025 vigente, sem reutilizar a Resolução nº 4.963/2021 revogada.\n\nPEGADINHAS:\n1. Remuneração de mercado não torna lícito o empréstimo vedado ao ente.\n2. Saldo da conta do RPPS não é disponibilidade livre do Tesouro: a finalidade é previdenciária.\n3. O art. 6º, VI, não libera todos os títulos públicos; a ressalva refere-se aos títulos do Governo Federal.\n4. A lei exige conta distinta; planilha ou centro de custo não substitui segregação.\n5. Para limites atuais, não use a Resolução CMN nº 4.963/2021: foi substituída pela nº 5.272/2025.\n\nESQUEMA:\nContribuições e recursos → benefícios + despesas administrativas admitidas (art. 1º, III).\nFundo previdenciário → facultativo; criação/extinção por lei (art. 6º, caput e IX).\nConta → separada do Tesouro (art. 6º, II).\nEmpréstimo → vedado a ente, entidades indiretas e segurados (art. 6º, V).\nTítulos públicos → exceção legal para Governo Federal (art. 6º, VI).\nInvestimentos → normas CMN; segurança, proteção, prudência e controles (art. 6º, IV e parágrafo único).\n\nLIGAÇÕES:\nCruza com Gestão dos Investimentos (Resolução CMN nº 5.272/2025) e Gestão Contábil (Lei nº 4.320/1964 e Portaria MPS nº 1.467/2022, capítulo V, seção III).",
+   "flashcards": [
+    {
+     "frente": "Em 18 de abril, o Tesouro oferece juros e garantia para tomar recursos do RPPS por 15 dias. O conselho pode autorizar?",
+     "verso": "Não. A lei veda empréstimo de qualquer natureza ao ente; remuneração e garantia não criam exceção.",
+     "dispositivo": "Lei nº 9.717/1998, art. 6º, V"
+    },
+    {
+     "frente": "Qual condição de conta protege a separação do fundo previdenciário?",
+     "verso": "Manter conta do fundo distinta da conta do Tesouro do ente.",
+     "dispositivo": "Lei nº 9.717/1998, art. 6º, II"
+    },
+    {
+     "frente": "Pegadinha: qual resolução do CMN rege atualmente os investimentos do RPPS?",
+     "verso": "Resolução CMN nº 5.272/2025; a nº 4.963/2021 foi substituída.",
+     "dispositivo": "Lei nº 9.717/1998, art. 6º, IV; Resolução CMN nº 5.272/2025"
+    },
+    {
+     "frente": "A exceção para títulos públicos no art. 6º alcança títulos de qualquer ente?",
+     "verso": "Não. A ressalva legal abrange títulos do Governo Federal.",
+     "dispositivo": "Lei nº 9.717/1998, art. 6º, VI"
+    },
+    {
+     "frente": "Pegadinha: uma planilha contábil separada supre a exigência de conta distinta?",
+     "verso": "Não. A conta do fundo deve ser distinta da conta do Tesouro.",
+     "dispositivo": "Lei nº 9.717/1998, art. 6º, II"
+    },
+    {
+     "frente": "Quais princípios o CMN deve considerar ao regular as aplicações do RPPS?",
+     "verso": "Segurança, proteção e prudência financeira, considerando a natureza pública dos recursos.",
+     "dispositivo": "Lei nº 9.717/1998, art. 6º, parágrafo único, I"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Em 12 de maio, a Prefeitura de Campo Dourado solicitou R$ 4 milhões do RPPS por 20 dias, oferecendo juros de mercado e garantia de receitas futuras. A presidente do conselho concluiu que a remuneração e a garantia tornam a operação compatível com a Lei nº 9.717/1998.",
+     "gabarito": "E",
+     "comentario": "A proposta continua sendo empréstimo ao ente federativo, vedado pelo art. 6º, V. A lei não cria exceção por prazo curto, remuneração, garantia ou autorização colegiada. (Base normativa: Lei nº 9.717/1998, art. 6º, V.)",
+     "dispositivo": "Lei nº 9.717/1998, art. 6º, V"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Em 2 de junho, o RPPS de Lago das Pedras abriu subconta bancária própria, separada da conta do Tesouro, para o fundo previdenciário. O diretor também manteve registros individualizados para identificar receitas e pagamentos.",
+     "gabarito": "C",
+     "comentario": "A conta distinta atende ao requisito expresso do art. 6º, II; os registros também apoiam rastreabilidade e controles previstos no art. 1º, VII e IX. (Base normativa: Lei nº 9.717/1998, art. 6º, II; art. 1º, VII e IX.)",
+     "dispositivo": "Lei nº 9.717/1998, art. 6º, II; art. 1º, VII e IX"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Em 3 de julho, a diretora do RPPS recebeu proposta de comprar debênture emitida pelo Estado, com alta classificação de crédito. Como o art. 6º, VI, permite títulos públicos, ela concluiu que a compra está autorizada pela própria Lei nº 9.717/1998.",
+     "gabarito": "E",
+     "comentario": "O art. 6º, VI, faz ressalva apenas para títulos do Governo Federal. A classificação de crédito não amplia o alcance da exceção; a aplicação ainda deve obedecer à regulamentação do CMN. (Base normativa: Lei nº 9.717/1998, art. 6º, IV e VI.)",
+     "dispositivo": "Lei nº 9.717/1998, art. 6º, IV e VI"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Em 30 de agosto, o conselho aprovou investir recursos do RPPS em instituição que promete a maior rentabilidade do mercado, embora não tenha política de controles internos documentada. A diretora registra que a rentabilidade, por si só, não satisfaz os critérios legais de prudência e governança.",
+     "gabarito": "C",
+     "comentario": "O art. 6º, parágrafo único, exige considerar a natureza pública dos recursos e princípios de segurança, proteção e prudência, além de critérios de qualidade de gestão e controle interno das instituições. Retorno esperado isolado não atende a esse conjunto. (Base normativa: Lei nº 9.717/1998, art. 6º, parágrafo único, incisos I e II.)",
+     "dispositivo": "Lei nº 9.717/1998, art. 6º, parágrafo único, incisos I e II"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 7 de setembro, o prefeito André, de Boa Esperança, determina que R$ 2,5 milhões do fundo previdenciário sejam temporariamente usados para custear iluminação pública. Ele propõe lançar a quantia em planilha e repô-la no mês seguinte. Qual decisão a gestora deve tomar?",
+     "alternativas": {
+      "A": "Autorizar, pois o valor retorna antes do pagamento de benefícios.",
+      "B": "Autorizar se o conselho deliberativo aprovar por unanimidade.",
+      "C": "Autorizar se a prefeitura formalizar o mútuo por contrato e fixar prazo de devolução de 90 dias.",
+      "D": "Autorizar somente se o Tesouro pagar juros iguais à meta atuarial.",
+      "E": "Recusar o uso, pois os recursos têm destinação previdenciária e a segregação não se substitui por planilha ou promessa de devolução."
+     },
+     "gabarito": "E",
+     "comentario": "A correta é E: o uso solicitado é empréstimo ao próprio ente e, além disso, iluminação pública não é finalidade previdenciária. A invoca devolução antes do pagamento de benefícios; B supõe que unanimidade do conselho pode excepcionar a lei; C trata contrato e prazo como exceção inexistente; D confunde remuneração com autorização. Base normativa: Lei nº 9.717/1998, art. 1º, III; art. 6º, II e V.",
+     "dispositivo": "Lei nº 9.717/1998, art. 1º, III; art. 6º, II e V"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 1º de outubro, o diretor Felipe analisa três propostas para R$ 10 milhões do RPPS: (i) empréstimo ao Município com juros de 1,2% ao mês; (ii) compra de título público estadual; (iii) aplicação em ativo admitido pela Resolução CMN nº 5.272/2025, após análise de risco e liquidez. Qual alternativa melhor traduz as balizas legais?",
+     "alternativas": {
+      "A": "A primeira é vedada; a segunda não se enquadra na exceção legal para títulos públicos; a terceira pode prosseguir se cumprir a norma vigente do CMN e os controles do regime.",
+      "B": "As três propostas são permitidas se a meta atuarial for atingida.",
+      "C": "A primeira pode ser autorizada pelo conselho, a segunda é sempre permitida e a terceira depende de lei municipal específica para cada ativo.",
+      "D": "A primeira e a segunda são vedadas, mas a terceira também é proibida porque a lei não admite investimentos.",
+      "E": "A segunda é permitida se o Estado garantir o título; a primeira é vedada apenas quando sem juros."
+     },
+     "gabarito": "A",
+     "comentario": "A correta é A: o empréstimo ao Município é vedado, a exceção para títulos públicos refere-se a títulos do Governo Federal, e o ativo indicado em (iii) pode ser analisado se admitido pela norma atual e submetido aos controles. B trata as três opções como liberadas por rentabilidade; C cria exceções e exigência de lei por ativo; D proíbe todo investimento embora haja regulação do CMN; E condiciona a vedação a não haver juros e amplia a exceção a título estadual. Base normativa: Lei nº 9.717/1998, art. 6º, IV, V e VI; Resolução CMN nº 5.272/2025.",
+     "dispositivo": "Lei nº 9.717/1998, art. 6º, IV, V e VI; Resolução CMN nº 5.272/2025"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 15 de novembro, o prefeito Carlos apresenta ao conselho um imóvel municipal de R$ 8 milhões, avaliado informalmente, e quer contabilizá-lo pelo valor venal e criar o fundo por decreto. Qual providência cumpre a Lei nº 9.717/1998?",
+     "alternativas": {
+      "A": "Aceitar o valor venal e criar o fundo por decreto, desde que haja conselho fiscal.",
+      "B": "Avaliar o ativo conforme a Lei nº 4.320/1964 e constituir o fundo por lei, observando também os requisitos de segregação.",
+      "C": "Registrar o valor líquido de R$ 1 após compensar créditos tributários do Município, dispensando avaliação específica.",
+      "D": "Dispensar avaliação e lei se o imóvel não gerar renda no primeiro ano.",
+      "E": "Aceitar o valor definido pelo prefeito, mas manter a conta do fundo junto ao Tesouro."
+     },
+     "gabarito": "B",
+     "comentario": "A correta é B: exige avaliação do ativo conforme a Lei nº 4.320/1964, constituição do fundo por lei e segregação de conta. A admite decreto e valor sem avaliação adequada; C substitui avaliação por valor simbólico ou compensação unilateral; D cria dispensa por falta de renda; E mantém a conta junto ao Tesouro. Base normativa: Lei nº 9.717/1998, art. 6º, II, VII e IX.",
+     "dispositivo": "Lei nº 9.717/1998, art. 6º, II, VII e IX"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 20 de novembro, a analista Renata usa uma tabela antiga da Resolução CMN nº 4.963/2021 para avaliar limite de investimento do RPPS, cuja carteira tem R$ 42 milhões. A diretora percebe que a Resolução nº 5.272/2025 substituiu a norma anterior. Qual orientação deve constar no parecer?",
+     "alternativas": {
+      "A": "Manter a norma antiga até que o conselho aprove nova política.",
+      "B": "Escolher o limite mais alto de cada resolução para preservar rentabilidade.",
+      "C": "Aplicar a Resolução nº 5.272/2025 vigente e refazer a análise sem transportar limites da resolução substituída.",
+      "D": "Aplicar ambas simultaneamente e usar o resultado mais conservador sem verificar vigência.",
+      "E": "Ignorar o CMN porque a Lei nº 9.717/1998 delega a escolha ao ente."
+     },
+     "gabarito": "C",
+     "comentario": "A correta é C: aplica-se a Resolução CMN nº 5.272/2025 vigente, sem importar limites da resolução substituída. A adia vigência por conveniência interna; B escolhe limites incompatíveis pelo resultado mais alto; D combina regimes sem fundamento; E nega a competência do CMN. Base normativa: Lei nº 9.717/1998, art. 6º, IV; Resolução CMN nº 5.272/2025.",
+     "dispositivo": "Lei nº 9.717/1998, art. 6º, IV; Resolução CMN nº 5.272/2025"
+    }
+   ]
+  },
+  {
+   "id": "rpps-normas-gerais-3",
+   "titulo": "Transparência, supervisão e responsabilização",
+   "microconteudo": "RAIO-X DA PROVA: Na matriz de prioridades recebida para esta missão, o tema está mapeado em 8 de 8 provas/certificações; o Manual oficial CP RPPS v2.0 prevê cinco questões no bloco de RPPS para dirigentes dos níveis básico e intermediário e inclui supervisão e responsabilização no escopo normativo. Não localizei cadernos oficiais liberados para afirmar frequência empírica de cobrança dos arts. 7º a 10; o raio-x se baseia na matriz e no conteúdo oficial. A cobrança tende a explorar consequências, competências, prazos e alcance da responsabilidade, com confusões sobre sanção ao ente versus direitos dos segurados, defesa no processo e ressarcimento proporcional à participação.\n\nO QUE A BANCA COBRA:\nO programa oficial de certificação reserva cinco questões ao grupo de RPPS em níveis básicos e intermediários para dirigentes. Nesse contexto, o art. 7º e os arts. 8º, 8º-A e 9º são cobrados melhor por casos de fiscalização e decisão: quem responde, qual garantia processual deve ser respeitada, que efeito pode alcançar o ente e o que atesta o CRP. A lista de prioridade aponta presença do tema em oito de oito matrizes, porém não foram localizados cadernos oficiais de questões publicados para medir frequência empírica por artigo.\n\nENTENDA:\nOrganização previdenciária depende de verificabilidade. O art. 1º, IX, submete os regimes a inspeções e auditorias de natureza atuarial, contábil, financeira, orçamentária e patrimonial pelos órgãos de controle interno e externo. Auditoria contábil não substitui análise atuarial; relatório de investimentos não elimina verificação financeira; e controle interno do próprio ente convive com fiscalização externa. A equipe deve manter evidências, trilhas de aprovação, conciliações e documentos que permitam reconstruir decisões e demonstrar destinação correta dos recursos.\n\nA transparência financeira tem periodicidade definida. O art. 2º, § 2º, exige que União, estados, DF e municípios publiquem, até 30 dias depois de cada bimestre, demonstrativo financeiro e orçamentário da receita e da despesa previdenciárias acumuladas no exercício. A norma não dá prazo de 60 dias e não condiciona a publicação à reunião do conselho. A data de publicação e a consistência do conteúdo são controles operacionais: atraso não se convalida por aprovação posterior, e publicar uma planilha incompleta não satisfaz a finalidade do demonstrativo. Ao mesmo tempo, o art. 1º, VI, assegura acesso pleno dos segurados a informações de gestão e participação representativa em colegiados decisórios. Transparência é dever de gestão, não cortesia administrativa.\n\nA União exerce funções de orientação, supervisão, fiscalização e acompanhamento (art. 9º, I), estabelece parâmetros e diretrizes gerais (inciso II), apura infrações e aplica penalidades nas hipóteses legais (inciso III), e emite o Certificado de Regularidade Previdenciária (CRP) (inciso IV). O parágrafo único exige que os entes encaminhem dados e informações ao órgão federal competente na forma, periodicidade e critérios definidos. O CRP atesta, para os fins do art. 7º, o cumprimento de critérios e exigências aplicáveis ao RPPS e a seus fundos; não substitui auditoria independente nem certifica que toda decisão administrativa foi ótima. O art. 9º foi alterado e a nomenclatura institucional pode mudar; para a função jurídica, cite a competência federal prevista na lei e use a organização administrativa vigente nas tarefas práticas.\n\nO art. 7º associa descumprimento da Lei nº 9.717/1998 por estados, DF e municípios e seus fundos a consequências institucionais: suspensão das transferências voluntárias de recursos pela União; impedimento para celebrar determinados acordos, contratos, convênios e ajustes e para receber empréstimos, financiamentos, avais e subvenções de órgãos ou entidades federais; e suspensão de empréstimos e financiamentos por instituições financeiras federais. A prova pode trocar a consequência ou atribuir o efeito a qualquer irregularidade local sem verificar se ela configura descumprimento das exigências da lei. A resposta deve nomear o efeito previsto, sem ampliar para bloqueio de toda receita tributária municipal ou perda automática da filiação dos segurados.\n\nResponsabilização não significa punição sem processo. O art. 8º alcança responsáveis pelos poderes, órgãos ou entidades do ente, dirigentes da unidade gestora e membros de conselhos e comitês; seu § 1º prevê apuração por processo administrativo baseado em auto, representação ou denúncia positiva dos fatos, assegurados contraditório e ampla defesa. O § 2º inclui profissionais que prestem serviços técnicos ao ente e ao RPPS, diretamente ou por pessoa jurídica contratada. A prova pode exigir diferenciar a responsabilidade institucional do município por insuficiência financeira (art. 2º, § 1º) da responsabilidade individual por infração, que depende de apuração e regime legal aplicável.\n\nO art. 8º-A tem hipótese específica: dirigentes do ente instituidor e da unidade gestora e demais responsáveis pelas ações de investimento e aplicação — inclusive consultores, distribuidores, instituição financeira administradora, fundo, gestores e administradores — respondem solidariamente, na medida da participação, pelo ressarcimento dos prejuízos decorrentes de aplicação em desacordo com a legislação a que tiverem dado causa. Não é responsabilidade automática de todos por qualquer perda de mercado; a lei exige prejuízo ligado a aplicação irregular e causalidade atribuível ao responsável, além de calibrar o ressarcimento conforme a participação. Documentar análise de risco, credenciamento, decisão colegiada e monitoramento permite demonstrar diligência.\n\nO art. 10 fecha o ciclo: se o RPPS for extinto, o ente assume integralmente o pagamento dos benefícios já concedidos e daqueles cujos requisitos necessários já haviam sido implementados antes da extinção. Extinguir a unidade gestora ou mudar a forma de administração não apaga direitos adquiridos à concessão nos termos da norma. O conselho deve planejar passivos, preservar dados funcionais e financeiros e acompanhar os compromissos durante a transição. Em um caso concreto, se uma servidora preencheu todos os requisitos em 30 de setembro e o regime é extinto em 1º de outubro, o ente segue responsável pelo benefício correspondente, embora a concessão formal ainda esteja pendente de processamento.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nSem precedente relevante individualizado para este recorte. O sentido do CRP e as competências de supervisão são diretamente estabelecidos pela Lei nº 9.717/1998, art. 9º, e pelas consequências do art. 7º; para casos práticos, confira também a regulamentação vigente da Portaria MPS nº 1.467/2022.\n\nPEGADINHAS:\n1. O art. 7º prevê efeitos institucionais para o ente; não cancela automaticamente os direitos dos segurados.\n2. A apuração do art. 8º garante contraditório e ampla defesa.\n3. O art. 8º-A exige aplicação irregular, prejuízo causado e participação; não é garantia contra toda perda de mercado.\n4. O CRP atesta critérios de regularidade para fins do art. 7º; não substitui auditoria ou avaliação atuarial.\n5. Extinto o regime, o ente responde por benefícios concedidos e por requisitos já implementados antes da extinção.\n\nESQUEMA:\nControle → auditorias em cinco dimensões, interna e externamente (art. 1º, IX).\nPublicação → demonstrativo previdenciário em até 30 dias após cada bimestre (art. 2º, § 2º).\nSupervisão federal → orientar, fiscalizar, parametrizar, apurar e emitir CRP (art. 9º).\nDescumprimento → consequências para o ente e fundos (art. 7º).\nResponsabilidade por infração → processo + contraditório + ampla defesa (art. 8º, § 1º).\nPrejuízo em aplicação irregular → ressarcimento solidário conforme participação e causalidade (art. 8º-A).\nExtinção → ente mantém obrigações por benefícios concedidos e requisitos implementados (art. 10).\n\nLIGAÇÕES:\nCruza com Controle, Regulação, Supervisão e Fiscalização (Portaria MPS nº 1.467/2022, capítulo XIII) e com Gestão, Governança e Compliance (art. 8º-B da Lei nº 9.717/1998).",
+   "flashcards": [
+    {
+     "frente": "Um benefício teve requisitos preenchidos em 30 de setembro; o RPPS foi extinto em 1º de outubro. Quem responde pelo pagamento?",
+     "verso": "O ente federativo, inclusive por requisitos implementados antes da extinção.",
+     "dispositivo": "Lei nº 9.717/1998, art. 10"
+    },
+    {
+     "frente": "Até quando o ente deve publicar o demonstrativo acumulado de receitas e despesas previdenciárias?",
+     "verso": "Até 30 dias após o encerramento de cada bimestre.",
+     "dispositivo": "Lei nº 9.717/1998, art. 2º, § 2º"
+    },
+    {
+     "frente": "Pegadinha: atraso no CRP extingue automaticamente os benefícios dos segurados?",
+     "verso": "Não. As consequências legais do art. 7º alcançam o ente e seus fundos, sem extinguir direitos automaticamente.",
+     "dispositivo": "Lei nº 9.717/1998, art. 7º e art. 9º, IV"
+    },
+    {
+     "frente": "Qual garantia deve ser assegurada ao dirigente investigado administrativamente?",
+     "verso": "Contraditório e ampla defesa em processo administrativo.",
+     "dispositivo": "Lei nº 9.717/1998, art. 8º, § 1º"
+    },
+    {
+     "frente": "Pegadinha: toda perda de investimento gera ressarcimento automático por todos os envolvidos?",
+     "verso": "Não. Exige aplicação em desacordo, prejuízo causado e responsabilidade conforme a participação.",
+     "dispositivo": "Lei nº 9.717/1998, art. 8º-A"
+    },
+    {
+     "frente": "O CRP substitui auditorias atuarial, contábil e financeira do regime?",
+     "verso": "Não. É certificado de cumprimento de critérios, sem afastar controles e auditorias.",
+     "dispositivo": "Lei nº 9.717/1998, art. 1º, IX; art. 9º, IV"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Em 30 de setembro, a controladoria de Vila Nova concluiu auditoria contábil do RPPS. O presidente afirmou que, por isso, não pode haver inspeção atuarial ou financeira no mesmo exercício.",
+     "gabarito": "E",
+     "comentario": "A Lei sujeita o regime a inspeções e auditorias atuarial, contábil, financeira, orçamentária e patrimonial. Fazer uma modalidade não exclui as demais. (Base normativa: Lei nº 9.717/1998, art. 1º, IX.)",
+     "dispositivo": "Lei nº 9.717/1998, art. 1º, IX"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Em 31 de julho, encerrou-se o bimestre no Município de Campo Novo. O dirigente programa a publicação do demonstrativo financeiro e orçamentário previdenciário até 30 de agosto e mantém o comprovante nos registros do regime.",
+     "gabarito": "C",
+     "comentario": "A publicação até 30 dias após o encerramento do bimestre cumpre o prazo previsto. O demonstrativo deve refletir receita e despesa previdenciárias acumuladas no exercício. (Base normativa: Lei nº 9.717/1998, art. 2º, § 2º.)",
+     "dispositivo": "Lei nº 9.717/1998, art. 2º, § 2º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Em 8 de outubro, consultores e administradores de um fundo participaram de aplicação feita em desacordo com a norma, e a decisão causou prejuízo quantificado. O Município conclui que apenas o diretor estatutário pode ser responsabilizado pelo ressarcimento.",
+     "gabarito": "E",
+     "comentario": "O art. 8º-A inclui diversos responsáveis pelas ações de investimento, inclusive consultores e administradores de fundos, com responsabilidade solidária na medida da participação se deram causa ao prejuízo. Não limita o polo ao diretor formal. (Base normativa: Lei nº 9.717/1998, art. 8º-A.)",
+     "dispositivo": "Lei nº 9.717/1998, art. 8º-A"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Em 1º de novembro, a comissão apura denúncia positiva contra a conselheira fiscal Marta. Antes da decisão, permite acesso aos autos, recebe manifestação da acusada e examina os documentos de defesa em processo administrativo.",
+     "gabarito": "C",
+     "comentario": "A atuação descrita está de acordo com a lei: a infração é apurada em processo administrativo e o acusado tem assegurados contraditório e ampla defesa. O simples recebimento da denúncia não autoriza sanção antecipada. (Base normativa: Lei nº 9.717/1998, art. 8º, § 1º.)",
+     "dispositivo": "Lei nº 9.717/1998, art. 8º, § 1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 15 de agosto, a diretora Lúcia, do RPPS de Alto do Sol, recebe o CRP após o Município cumprir os critérios exigidos; a carteira contém R$ 18 milhões em ativos. Ela deve explicar ao conselho o efeito jurídico do certificado. Qual alternativa está correta?",
+     "alternativas": {
+      "A": "Atesta que os parâmetros de regularidade aplicáveis foram cumpridos e que as auditorias previstas para o período foram concluídas.",
+      "B": "O CRP substitui auditorias e impede futuras fiscalizações.",
+      "C": "Atesta a regularidade previdenciária do ente e transfere à União o dever de cobrir eventual insuficiência financeira.",
+      "D": "O CRP atesta regularidade perante os critérios aplicáveis e se relaciona às consequências do art. 7º.",
+      "E": "Mantém validade permanente, ainda que o ente deixe de cumprir posteriormente os critérios de regularidade."
+     },
+     "gabarito": "D",
+     "comentario": "A correta é D: o CRP atesta o cumprimento dos critérios e exigências aplicáveis ao regime e fundos, para os fins do art. 7º. A confunde o certificado com a conclusão de auditorias específicas; B diz incorretamente que substitui auditorias e bloqueia fiscalização; C transfere à União obrigação de cobertura atribuída ao ente; E ignora que a regularidade deve ser mantida para obtenção do certificado. Base normativa: Lei nº 9.717/1998, art. 9º, IV; art. 7º; art. 2º, § 1º.",
+     "dispositivo": "Lei nº 9.717/1998, art. 9º, IV; art. 7º; art. 2º, § 1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 4 de setembro, o gerente Marcos, do RPPS de Boa Serra, identifica descumprimento de exigência legal que expõe R$ 3 milhões em transferências e operações federais. A União comunica que poderá haver consequências institucionais. Qual conjunto corresponde ao art. 7º da Lei nº 9.717/1998?",
+     "alternativas": {
+      "A": "Perda da autonomia municipal para legislar sobre seus servidores.",
+      "B": "Suspensão do pagamento da compensação financeira devida pelo RGPS, sem aplicação das demais consequências previstas na lei.",
+      "C": "Impedimento para firmar convênios apenas com outros municípios, sem efeito sobre transferências voluntárias federais.",
+      "D": "Apenas advertência pessoal ao dirigente, sem efeitos para o ente.",
+      "E": "Suspensão de transferências voluntárias da União e impedimentos relativos a ajustes e operações de crédito federais, além da suspensão de empréstimos por instituições financeiras federais."
+     },
+     "gabarito": "E",
+     "comentario": "A correta é E: reúne as três consequências vigentes previstas no art. 7º. A apresenta corretamente as transferências voluntárias, impedimentos relativos a ajustes e operações federais e suspensão de empréstimos por instituições financeiras federais. B recupera consequência de compensação financeira que foi revogada; C restringe indevidamente os efeitos a relações entre municípios; D reduz a consequência institucional a advertência pessoal. Base normativa: Lei nº 9.717/1998, art. 7º, incisos I a III.",
+     "dispositivo": "Lei nº 9.717/1998, art. 7º, incisos I a III"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 1º de outubro, o RPPS de Estrela do Norte é extinto. A servidora Ana completou todos os requisitos legais para aposentadoria em 28 de setembro, com benefício estimado em R$ 5.400 mensais, mas protocolou o pedido em 4 de outubro. Qual consequência a lei estabelece?",
+     "alternativas": {
+      "A": "O ente assume integralmente o pagamento dos benefícios concedidos e daqueles cujos requisitos necessários foram implementados antes da extinção.",
+      "B": "A extinção elimina a responsabilidade do ente se o requerimento ainda não havia sido protocolado.",
+      "C": "A responsabilidade permanece somente para benefícios já pagos no mês anterior.",
+      "D": "A servidora precisa cumprir novamente os requisitos no RGPS.",
+      "E": "O Município pode escolher manter apenas benefícios concedidos por decisão judicial."
+     },
+     "gabarito": "A",
+     "comentario": "A correta é A: a lei atribui ao ente o pagamento dos benefícios concedidos e daqueles cujos requisitos necessários foram implementados antes da extinção. B condiciona a responsabilidade ao protocolo do pedido; C restringe a obrigações já pagas; D exige nova filiação ao RGPS; E limita a regra a decisões judiciais. Base normativa: Lei nº 9.717/1998, art. 10.",
+     "dispositivo": "Lei nº 9.717/1998, art. 10"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 10 de novembro, a comissão de Campo Novo apura possível infração do consultor Lucas, contratado por R$ 75 mil para serviço técnico ao RPPS por meio de pessoa jurídica. Lucas alega que a Lei nº 9.717/1998 só alcança servidores estatutários. Qual leitura é correta?",
+     "alternativas": {
+      "A": "Lucas jamais responde, pois não integra o quadro permanente.",
+      "B": "Profissionais que prestem serviços técnicos ao ente e ao RPPS podem também ser responsáveis, sem afastar apuração e garantias processuais.",
+      "C": "Só os conselheiros podem responder por infração à lei.",
+      "D": "A pessoa jurídica contratada responde automaticamente por qualquer ato, mesmo sem apuração.",
+      "E": "A responsabilidade só existe se houver condenação criminal anterior."
+     },
+     "gabarito": "B",
+     "comentario": "A correta é B: o § 2º inclui profissionais que prestem serviços técnicos diretamente ou por pessoa jurídica contratada; o processo ainda deve respeitar contraditório e ampla defesa. A e C excluem sujeitos que a lei alcança; D cria responsabilidade automática sem apuração; E exige condenação criminal anterior que não é requisito deste dispositivo. Base normativa: Lei nº 9.717/1998, art. 8º, §§ 1º e 2º.",
+     "dispositivo": "Lei nº 9.717/1998, art. 8º, §§ 1º e 2º"
+    }
+   ]
+  }
+ ]
+}

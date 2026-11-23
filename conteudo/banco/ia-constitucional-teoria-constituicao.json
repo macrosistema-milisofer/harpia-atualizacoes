@@ -1,0 +1,328 @@
+{
+ "assunto": "Direito Constitucional — Teoria da Constituição e do Direito Constitucional (lote 01)",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 (Constituição compilada consultada no Planalto)",
+ "origem": "2026-11-23_banco-constitucional-teoria-constituicao_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "dconst-teoria-1",
+   "titulo": "Constituição: conceito e funções",
+   "microconteudo": "Constituição é o conjunto de normas fundamentais que organiza o poder político, estrutura instituições e reconhece direitos. Em sentido jurídico, ela ocupa posição superior no ordenamento: leis e atos estatais devem encontrar fundamento e limites nela. Também se pode falar em Constituição em sentido sociológico, como arranjo real dos fatores de poder, e em sentido político, como decisão fundamental sobre a forma e a organização da comunidade; são lentes teóricas distintas, não textos jurídicos concorrentes. A Constituição brasileira de 1988 combina essas dimensões: estabelece a forma federativa, define objetivos e fundamentos, distribui competências e protege direitos. A supremacia constitucional explica por que a produção normativa se submete a procedimentos e limites constitucionais. Para provas, identifique se a questão descreve o documento normativo, a realidade política ou uma decisão constituinte fundamental antes de escolher a categoria conceitual.",
+   "flashcards": [
+    {
+     "frente": "O que a Constituição organiza além de declarar direitos?",
+     "verso": "Estrutura o poder, as instituições, as competências e os limites estatais.",
+     "dispositivo": "CF, arts. 1º a 5º"
+    },
+    {
+     "frente": "O que significa supremacia constitucional?",
+     "verso": "Normas inferiores devem respeitar a Constituição e encontrar nela fundamento de validade.",
+     "dispositivo": "CF, art. 60, § 4º"
+    },
+    {
+     "frente": "Qual lente observa a distribuição real dos fatores de poder?",
+     "verso": "A concepção sociológica de Constituição.",
+     "dispositivo": "CF, art. 1º, caput"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição pode organizar instituições e limitar o exercício do poder, além de enunciar direitos.",
+     "gabarito": "C",
+     "comentario": "O texto constitucional estrutura a República e distribui o poder, como mostram a forma federativa e a separação dos Poderes (CF, arts. 1º e 2º).",
+     "dispositivo": "CF, arts. 1º e 2º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Na concepção sociológica, Constituição é exclusivamente o documento escrito aprovado pelo poder constituinte.",
+     "gabarito": "E",
+     "comentario": "A concepção sociológica dirige o olhar aos fatores reais de poder; a identificação com o documento escrito corresponde a uma perspectiva formal ou jurídica (CF, art. 1º, caput, como norma de organização estatal).",
+     "dispositivo": "CF, art. 1º, caput"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A supremacia constitucional significa que atos estatais e leis devem permanecer dentro dos limites constitucionais.",
+     "gabarito": "C",
+     "comentario": "A Constituição condiciona a produção normativa, e seu núcleo protegido pelo art. 60, § 4º, não pode ser abolido por emenda (CF, art. 60, § 4º).",
+     "dispositivo": "CF, art. 60, § 4º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição de 1988 não contém normas sobre organização do poder, pois se limita a direitos individuais.",
+     "gabarito": "E",
+     "comentario": "A Constituição disciplina forma de Estado e separação de Poderes, entre outras matérias institucionais (CF, arts. 1º e 2º).",
+     "dispositivo": "CF, arts. 1º e 2º"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma prova pergunta qual perspectiva descreve a Constituição como o conjunto de forças políticas efetivamente capaz de influenciar decisões estatais. Qual conceito corresponde ao enunciado?",
+     "alternativas": {
+      "A": "Sentido sociológico, centrado nos fatores reais de poder.",
+      "B": "Sentido jurídico, limitado à hierarquia formal das leis.",
+      "C": "Sentido histórico, que identifica qualquer costume como norma escrita.",
+      "D": "Sentido administrativo, restrito à organização de órgãos executivos.",
+      "E": "Sentido jurisdicional, limitado às decisões dos tribunais."
+     },
+     "gabarito": "A",
+     "comentario": "A alternativa A corresponde à leitura sociológica, associada aos fatores reais de poder; as demais restringem ou deslocam o objeto descrito. A CF organiza poderes, mas o enunciado pede uma lente teórica (CF, arts. 1º e 2º).",
+     "dispositivo": "CF, arts. 1º e 2º"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma lei recém-aprovada contraria uma garantia expressa na Constituição. Qual premissa explica a incompatibilidade hierárquica?",
+     "alternativas": {
+      "A": "A lei posterior sempre prevalece, ainda que inferior.",
+      "B": "A Constituição só vincula o Poder Judiciário.",
+      "C": "A Constituição ocupa posição superior e condiciona a validade das normas inferiores.",
+      "D": "A lei ordinária pode alterar cláusula protegida sem procedimento especial.",
+      "E": "A incompatibilidade desaparece se a lei for aprovada por maioria simples."
+     },
+     "gabarito": "C",
+     "comentario": "A alternativa C traduz a supremacia constitucional: a lei deve ser compatível com a Constituição. A rigidez e os limites ao poder de reforma aparecem no procedimento de emenda e nas cláusulas pétreas (CF, art. 60, caput e § 4º).",
+     "dispositivo": "CF, art. 60, caput e § 4º"
+    }
+   ]
+  },
+  {
+   "id": "dconst-teoria-2",
+   "titulo": "Constituição escrita, codificada e rígida",
+   "microconteudo": "As classificações constitucionais ajudam a comparar textos, mas cada eixo responde a uma pergunta diferente. Quanto à forma, a Constituição pode ser escrita ou não escrita; quanto à reunião das normas, codificada em um documento sistemático ou dispersa em fontes variadas; quanto à alteração, pode ser rígida, flexível ou semirrígida. A Constituição brasileira é escrita, codificada e rígida: emendas seguem rito mais exigente que o processo legislativo ordinário. O art. 60 prevê iniciativa restrita, votação em dois turnos em cada Casa do Congresso e aprovação por três quintos dos respectivos membros. Além disso, determinadas matérias não podem ser abolidas por emenda. Não confunda rigidez com imutabilidade: a existência de procedimento agravado permite atualização, enquanto protege a estabilidade do pacto. Também não conclua que toda norma constitucional está num único artigo; o texto inclui disposições permanentes e transitórias, além de emendas incorporadas.",
+   "flashcards": [
+    {
+     "frente": "Como se classificam as Constituições conforme a forma de apresentação?",
+     "verso": "Escritas ou não escritas.",
+     "dispositivo": "CF, art. 60"
+    },
+    {
+     "frente": "Qual traço torna rígida a Constituição de 1988?",
+     "verso": "A alteração exige rito mais dificultoso que o processo legislativo ordinário.",
+     "dispositivo": "CF, art. 60, §§ 2º e 5º"
+    },
+    {
+     "frente": "Rigidez constitucional significa impossibilidade de mudança?",
+     "verso": "Não. Admite emendas segundo procedimento e limites próprios.",
+     "dispositivo": "CF, art. 60"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição de 1988 pode ser classificada como escrita e codificada.",
+     "gabarito": "C",
+     "comentario": "Ela está sistematizada em texto constitucional promulgado, ainda que receba emendas; o procedimento de reforma consta do art. 60 (CF, art. 60).",
+     "dispositivo": "CF, art. 60"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição brasileira pode ser alterada pelo mesmo rito de uma lei ordinária, sem quórum especial.",
+     "gabarito": "E",
+     "comentario": "A emenda exige votação em dois turnos em cada Casa e três quintos dos membros, rito distinto do ordinário (CF, art. 60, § 2º).",
+     "dispositivo": "CF, art. 60, § 2º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O fato de haver procedimento de emenda demonstra que uma Constituição rígida não é absolutamente imutável.",
+     "gabarito": "C",
+     "comentario": "Rigidez significa processo agravado de alteração, e não impossibilidade total de mudança; o art. 60 disciplina emendas e seus limites (CF, art. 60).",
+     "dispositivo": "CF, art. 60"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Uma proposta rejeitada pode ser reapresentada na mesma sessão legislativa, desde que receba novo número.",
+     "gabarito": "E",
+     "comentario": "A matéria constante de proposta rejeitada ou prejudicada não pode ser objeto de nova proposta na mesma sessão legislativa (CF, art. 60, § 5º).",
+     "dispositivo": "CF, art. 60, § 5º"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma turma compara textos constitucionais e precisa identificar aquele cuja reforma exige quórum e rito mais rigorosos que os das leis ordinárias. Qual classificação está em jogo?",
+     "alternativas": {
+      "A": "Flexível, porque permite alteração por lei comum.",
+      "B": "Rígida, porque prevê procedimento agravado de reforma.",
+      "C": "Costumeira, porque depende exclusivamente de práticas políticas.",
+      "D": "Histórica, porque reúne documentos de épocas distintas.",
+      "E": "Semirrígida, necessariamente composta de normas escritas e orais."
+     },
+     "gabarito": "B",
+     "comentario": "A alternativa B identifica a rigidez pelo procedimento especial de emenda. No Brasil, a proposta exige dois turnos em cada Casa e três quintos dos votos (CF, art. 60, § 2º).",
+     "dispositivo": "CF, art. 60, § 2º"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "No Brasil, uma proposta de emenda constitucional é aprovada, em cada Casa do Congresso, quando obtém:",
+     "alternativas": {
+      "A": "Maioria simples em turno único.",
+      "B": "Maioria absoluta em dois turnos.",
+      "C": "Dois terços dos votos em turno único.",
+      "D": "Três quintos dos votos em dois turnos.",
+      "E": "Unanimidade em dois turnos."
+     },
+     "gabarito": "D",
+     "comentario": "A alternativa D enuncia o quórum e a votação exigidos para aprovação em cada Casa (CF, art. 60, § 2º).",
+     "dispositivo": "CF, art. 60, § 2º"
+    }
+   ]
+  },
+  {
+   "id": "dconst-teoria-3",
+   "titulo": "Constitucionalismo: limites ao poder",
+   "microconteudo": "Constitucionalismo designa movimentos e ideias que procuram submeter o poder político a regras e proteger liberdades. Experiências antigas e medievais continham limites pontuais, mas o constitucionalismo moderno ganhou forma com revoluções e declarações dos séculos XVII e XVIII, associando governo limitado, representação e direitos. O constitucionalismo liberal enfatizou liberdades individuais e separação de poderes. A industrialização e conflitos sociais impulsionaram constituições sociais, que passaram a prever prestações e direitos trabalhistas. Após a Segunda Guerra Mundial, constituições democráticas fortaleceram a proteção da dignidade, a força normativa dos direitos e mecanismos de controle do poder. Essas fases se sobrepõem: não há uma substituição mecânica de uma por outra. A Constituição de 1988 reúne liberdades, direitos sociais, participação política e garantias institucionais. Em questões, identifique a demanda histórica central — conter o arbítrio, responder à desigualdade ou assegurar democracia e direitos — sem reduzir cada período a uma lista fechada.",
+   "flashcards": [
+    {
+     "frente": "Qual preocupação central caracteriza o constitucionalismo liberal?",
+     "verso": "Limitar o poder estatal e proteger liberdades individuais.",
+     "dispositivo": "CF, arts. 5º e 2º"
+    },
+    {
+     "frente": "Que resposta constitucional se destaca no constitucionalismo social?",
+     "verso": "Previsão de direitos e prestações sociais, além das liberdades clássicas.",
+     "dispositivo": "CF, arts. 6º e 7º"
+    },
+    {
+     "frente": "O constitucionalismo contemporâneo elimina a separação de Poderes?",
+     "verso": "Não. Reforça direitos e controles democráticos sem afastar a separação.",
+     "dispositivo": "CF, arts. 2º e 60, § 4º, III"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "O constitucionalismo moderno associa limitação do poder à proteção de direitos.",
+     "gabarito": "C",
+     "comentario": "A contenção do poder e a garantia de direitos são eixos centrais dessa tradição, refletidos no catálogo constitucional de direitos (CF, art. 5º).",
+     "dispositivo": "CF, art. 5º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O constitucionalismo social abandonou completamente as liberdades individuais e tratou apenas de prestações estatais.",
+     "gabarito": "E",
+     "comentario": "A incorporação de direitos sociais ampliou o catálogo, mas não apagou as liberdades; a Constituição de 1988 contém ambas as categorias (CF, arts. 5º e 6º).",
+     "dispositivo": "CF, arts. 5º e 6º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição de 1988 combina direitos de liberdade, direitos sociais e mecanismos de organização e controle do poder.",
+     "gabarito": "C",
+     "comentario": "O texto reúne direitos individuais e sociais e organiza os Poderes, além de proteger a separação como cláusula pétrea (CF, arts. 2º, 5º e 6º; art. 60, § 4º, III).",
+     "dispositivo": "CF, arts. 2º, 5º e 6º; art. 60, § 4º, III"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A passagem do constitucionalismo liberal ao social ocorreu de forma idêntica e simultânea em todos os países.",
+     "gabarito": "E",
+     "comentario": "As trajetórias constitucionais variam por país e contexto histórico; a Constituição brasileira reúne camadas e direitos de diferentes tradições (CF, arts. 5º a 7º).",
+     "dispositivo": "CF, arts. 5º a 7º"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Em um debate constituinte, trabalhadores defendem que o texto reconheça direitos a prestações e proteção laboral, sem eliminar liberdades civis. Essa reivindicação se aproxima principalmente de qual desenvolvimento histórico?",
+     "alternativas": {
+      "A": "Federalismo dual, que dispensa direitos fundamentais.",
+      "B": "Absolutismo, que concentra poderes no monarca.",
+      "C": "Constitucionalismo medieval, restrito a privilégios corporativos.",
+      "D": "Desconstitucionalização, que retira direitos do texto fundamental.",
+      "E": "Constitucionalismo social, que acrescenta direitos sociais ao repertório liberal."
+     },
+     "gabarito": "E",
+     "comentario": "A alternativa E é correta: a reivindicação corresponde ao constitucionalismo social, que acrescentou direitos sociais sem eliminar liberdades. A Constituição prevê ambos (CF, arts. 5º a 7º).",
+     "dispositivo": "CF, arts. 5º a 7º"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma proposta de reforma pretende extinguir a separação dos Poderes sob o argumento de que direitos sociais bastam para caracterizar uma Constituição democrática. Qual avaliação se ajusta à Constituição brasileira?",
+     "alternativas": {
+      "A": "A proposta tende a abolir cláusula pétrea, vedação que protege a separação dos Poderes.",
+      "B": "A separação é detalhe administrativo livremente abolível.",
+      "C": "Direitos sociais substituem a estrutura de controle do poder.",
+      "D": "A proposta é válida se aprovada por três quintos em um turno.",
+      "E": "A Constituição não admite direitos sociais."
+     },
+     "gabarito": "A",
+     "comentario": "A alternativa A é correta: a separação dos Poderes integra as cláusulas que não podem ser abolidas por emenda (CF, art. 60, § 4º, III).",
+     "dispositivo": "CF, art. 60, § 4º, III"
+    }
+   ]
+  },
+  {
+   "id": "dconst-teoria-4",
+   "titulo": "Constituição democrática e força normativa",
+   "microconteudo": "O constitucionalismo democrático contemporâneo trata a Constituição como norma jurídica vinculante, e não apenas como programa político. Isso significa que direitos, competências e procedimentos constitucionais orientam a atuação dos poderes públicos e podem ser invocados nos mecanismos previstos no ordenamento. A Constituição também vincula o legislador: maiorias eleitas decidem dentro das competências e dos limites constitucionais. No Brasil, a jurisdição constitucional integra o sistema de proteção da supremacia da Constituição, com controle exercido em diferentes vias. Esse desenho convive com participação popular, eleições periódicas e separação de Poderes. Não se deve concluir que todo conflito político se resolve exclusivamente nos tribunais, nem que a interpretação judicial torna irrelevantes os processos democráticos. Para análise de casos, identifique a norma constitucional pertinente, o órgão competente e o procedimento aplicável; depois avalie os limites materiais e institucionais. Esse caminho evita tratar princípios como fórmulas vagas ou atribuir poderes ilimitados a qualquer instituição.",
+   "flashcards": [
+    {
+     "frente": "O que expressa a força normativa da Constituição?",
+     "verso": "Suas normas vinculam os poderes públicos e orientam a aplicação do direito.",
+     "dispositivo": "CF, arts. 5º, § 1º, e 102"
+    },
+    {
+     "frente": "A maioria parlamentar pode agir fora dos limites constitucionais?",
+     "verso": "Não. A decisão majoritária permanece sujeita à Constituição.",
+     "dispositivo": "CF, arts. 2º e 60, § 4º"
+    },
+    {
+     "frente": "A jurisdição constitucional elimina os processos políticos democráticos?",
+     "verso": "Não. Ela convive com eleições, participação popular e separação de Poderes.",
+     "dispositivo": "CF, arts. 1º, parágrafo único, e 2º"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A Constituição vincula a atuação dos poderes públicos e não se reduz a uma declaração política sem efeitos jurídicos.",
+     "gabarito": "C",
+     "comentario": "A Constituição distribui competências e reconhece direitos de aplicação imediata nos termos constitucionais, vinculando a atuação estatal (CF, art. 5º, § 1º).",
+     "dispositivo": "CF, art. 5º, § 1º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A aprovação por maioria parlamentar torna constitucional qualquer conteúdo legislativo, mesmo quando contraria limites constitucionais.",
+     "gabarito": "E",
+     "comentario": "A legitimidade majoritária não afasta a supremacia constitucional nem os limites materiais do poder de reforma e da legislação (CF, arts. 2º e 60, § 4º).",
+     "dispositivo": "CF, arts. 2º e 60, § 4º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A existência de controle jurisdicional da Constituição é compatível com eleições e participação direta do povo.",
+     "gabarito": "C",
+     "comentario": "O texto prevê soberania popular, inclusive por mecanismos diretos, e organiza Poderes independentes; controle judicial integra esse arranjo institucional (CF, arts. 1º, parágrafo único, 2º e 102).",
+     "dispositivo": "CF, arts. 1º, parágrafo único, 2º e 102"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Como a Constituição possui força normativa, todo conflito político deve ser decidido exclusivamente pelo Supremo Tribunal Federal.",
+     "gabarito": "E",
+     "comentario": "A força normativa não transfere ao STF toda decisão política; competências são repartidas e a Constituição prevê atuação dos diversos Poderes e participação popular (CF, arts. 1º, parágrafo único, 2º e 102).",
+     "dispositivo": "CF, arts. 1º, parágrafo único, 2º e 102"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma lei aprovada por maioria viola um direito constitucional. Qual conclusão melhor expressa o constitucionalismo democrático?",
+     "alternativas": {
+      "A": "A vontade momentânea da maioria sempre prevalece sobre a Constituição.",
+      "B": "A maioria parlamentar está sujeita aos direitos e procedimentos constitucionais.",
+      "C": "A Constituição só vincula autoridades não eleitas.",
+      "D": "O conflito não pode ser examinado por nenhum órgão estatal.",
+      "E": "Direitos constitucionais dependem de ratificação anual do Congresso."
+     },
+     "gabarito": "B",
+     "comentario": "A alternativa B é correta: a maioria parlamentar continua sujeita aos direitos e procedimentos constitucionais. A Constituição reconhece direitos e atribui ao STF a guarda da Constituição (CF, arts. 5º e 102).",
+     "dispositivo": "CF, arts. 5º e 102"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma associação pede que o juiz deixe de aplicar lei que entende incompatível com garantia constitucional no caso concreto. Qual ideia constitucional fundamenta a análise judicial da alegação?",
+     "alternativas": {
+      "A": "A lei ordinária tem supremacia sobre direitos constitucionais.",
+      "B": "A Constituição só produz efeitos após regulamentação integral.",
+      "C": "A supremacia constitucional permite examinar compatibilidade normativa dentro das competências judiciais.",
+      "D": "A separação dos Poderes proíbe qualquer controle jurisdicional.",
+      "E": "A Constituição não pode ser parâmetro para decisões judiciais."
+     },
+     "gabarito": "C",
+     "comentario": "A alternativa C é correta: a supremacia constitucional permite controle de compatibilidade normativa, respeitadas as competências e vias previstas. O STF tem a guarda da Constituição (CF, art. 102, caput).",
+     "dispositivo": "CF, art. 102, caput"
+    }
+   ]
+  }
+ ]
+}

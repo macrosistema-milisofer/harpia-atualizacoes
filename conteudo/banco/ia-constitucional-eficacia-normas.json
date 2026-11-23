@@ -1,0 +1,328 @@
+{
+ "assunto": "Direito Constitucional — Eficácia e aplicabilidade das normas constitucionais (lote 03)",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 (Constituição compilada consultada no Planalto)",
+ "origem": "2026-11-23_banco-constitucional-eficacia-normas_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "dconst-eficacia-1",
+   "titulo": "Eficácia plena, contida e limitada",
+   "microconteudo": "A classificação tradicional distingue normas de eficácia plena, contida e limitada conforme a suficiência de sua disciplina constitucional para produzir efeitos. A norma plena já permite o exercício do direito sem lei integradora, embora continue sujeita aos limites constitucionais gerais. A contida também tem aplicabilidade direta e imediata, mas a própria Constituição admite que o alcance seja restringido por lei ou por outros parâmetros que ela autorize; a liberdade profissional do art. 5º, XIII, é exemplo, pois prevê qualificações estabelecidas em lei. A limitada depende de complementação normativa para alcançar toda a extensão pretendida. Isso não significa ausência total de efeitos: ela vincula o legislador, orienta a interpretação e pode impedir medidas incompatíveis com a finalidade constitucional. O art. 37, VII, remete à lei específica a disciplina do direito de greve dos servidores públicos. Em questões, pergunte se a lei é necessária para exercer o núcleo do direito ou se apenas pode restringi-lo dentro da autorização constitucional.",
+   "flashcards": [
+    {
+     "frente": "Qual norma já permite exercício completo sem integração legislativa?",
+     "verso": "A norma de eficácia plena, respeitados os limites constitucionais gerais.",
+     "dispositivo": "CF, art. 5º, § 1º"
+    },
+    {
+     "frente": "O que distingue eficácia contida de eficácia limitada?",
+     "verso": "A contida aplica-se desde logo e pode ser restringida; a limitada depende de integração para plena operatividade.",
+     "dispositivo": "CF, art. 5º, XIII; art. 37, VII"
+    },
+    {
+     "frente": "Norma limitada não produz efeito algum antes da lei?",
+     "verso": "Não. Vincula o legislador e orienta interpretação e atuação estatal.",
+     "dispositivo": "CF, art. 37, VII"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "Uma norma de eficácia contida pode ser aplicada desde a promulgação, ainda que lei posterior venha a restringir seu alcance nos termos autorizados pela Constituição.",
+     "gabarito": "C",
+     "comentario": "A aplicabilidade é direta e imediata, mas o art. 5º, XIII, permite que a lei estabeleça qualificações para o exercício profissional (CF, art. 5º, XIII).",
+     "dispositivo": "CF, art. 5º, XIII"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A eficácia limitada significa que a disposição constitucional permanece juridicamente irrelevante até a edição da lei integradora.",
+     "gabarito": "E",
+     "comentario": "A falta de integração pode impedir a plena produção do efeito pretendido, mas a norma ainda vincula os poderes públicos e orienta a interpretação constitucional (CF, art. 37, VII).",
+     "dispositivo": "CF, art. 37, VII"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A necessidade de lei para disciplinar o direito de greve dos servidores públicos é exemplo de remissão constitucional a integração legislativa.",
+     "gabarito": "C",
+     "comentario": "O inciso VII condiciona o exercício do direito à forma e aos limites definidos em lei específica (CF, art. 37, VII).",
+     "dispositivo": "CF, art. 37, VII"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Uma norma de eficácia plena admite restrição legislativa sempre que o legislador considerar a restrição conveniente, mesmo sem autorização constitucional.",
+     "gabarito": "E",
+     "comentario": "A classificação não concede poder geral de restrição ao legislador; eventual limite deve encontrar fundamento constitucional, como ocorre na autorização expressa do art. 5º, XIII (CF, art. 5º, XIII).",
+     "dispositivo": "CF, art. 5º, XIII"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "A Constituição assegura o livre exercício de profissão, mas permite que a lei estabeleça qualificações profissionais. Na classificação tradicional, essa estrutura indica norma de eficácia:",
+     "alternativas": {
+      "A": "limitada, pois nenhuma atividade pode ser exercida antes de lei.",
+      "B": "plena, porque a lei não pode disciplinar qualificações.",
+      "C": "contida, pois a norma se aplica desde logo e admite restrição autorizada.",
+      "D": "programática sem qualquer aplicabilidade jurídica.",
+      "E": "exaurida, pois o comando valeu apenas na promulgação."
+     },
+     "gabarito": "C",
+     "comentario": "A alternativa C corresponde ao art. 5º, XIII: a liberdade profissional é assegurada, sem excluir qualificações que a lei estabelecer (CF, art. 5º, XIII).",
+     "dispositivo": "CF, art. 5º, XIII"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma candidata afirma que, enquanto não editada a lei específica prevista para o direito de greve dos servidores, o art. 37, VII, não produz consequência jurídica alguma. Qual avaliação é adequada?",
+     "alternativas": {
+      "A": "A afirmação é correta, pois normas constitucionais só vinculam após regulamentação.",
+      "B": "A afirmação é incorreta: a norma depende de integração para plena disciplina, mas já vincula o legislador e os poderes públicos.",
+      "C": "A afirmação é correta porque o art. 37 não integra a Constituição.",
+      "D": "A afirmação é incorreta porque o inciso VII proíbe qualquer lei sobre greve.",
+      "E": "A afirmação é correta porque direitos de servidores dependem de emenda constitucional."
+     },
+     "gabarito": "B",
+     "comentario": "A alternativa B reconhece a necessidade de lei específica sem negar a força vinculante da previsão constitucional (CF, art. 37, VII).",
+     "dispositivo": "CF, art. 37, VII"
+    }
+   ]
+  },
+  {
+   "id": "dconst-eficacia-2",
+   "titulo": "Aplicabilidade imediata e direitos fundamentais",
+   "microconteudo": "O art. 5º, § 1º, determina que as normas definidoras de direitos e garantias fundamentais têm aplicação imediata. A regra orienta a interpretação e exige que os poderes públicos concretizem esses direitos desde já, sem transformar toda disposição em comando de eficácia plena ou eliminar requisitos que o próprio texto constitucional prevê. Aplicabilidade imediata e classificação quanto à eficácia respondem a perguntas relacionadas, mas distintas: a primeira trata do dever de dar efeito às normas fundamentais; a segunda examina se o texto oferece disciplina suficiente ou admite restrição ou integração. Assim, a previsão do art. 5º, XIII, tem aplicação imediata e admite qualificações profissionais fixadas em lei. Já o art. 37, VII, prevê o direito de greve dos servidores e remete sua disciplina à lei específica. O intérprete deve procurar uma leitura que concretize o direito sem apagar a remissão normativa expressa. Também deve considerar o art. 5º, § 2º, que declara aberto o catálogo de direitos, sem restringi-lo aos incisos enumerados.",
+   "flashcards": [
+    {
+     "frente": "O que estabelece o art. 5º, § 1º?",
+     "verso": "Aplicação imediata às normas definidoras de direitos e garantias fundamentais.",
+     "dispositivo": "CF, art. 5º, § 1º"
+    },
+    {
+     "frente": "Aplicação imediata significa eficácia plena em todos os casos?",
+     "verso": "Não. A classificação depende da disciplina constitucional e de eventuais remissões a lei.",
+     "dispositivo": "CF, art. 5º, § 1º; art. 37, VII"
+    },
+    {
+     "frente": "O catálogo de direitos fundamentais é fechado nos incisos do art. 5º?",
+     "verso": "Não. O texto admite outros direitos decorrentes do regime, princípios e tratados.",
+     "dispositivo": "CF, art. 5º, § 2º"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A aplicação imediata prevista no art. 5º, § 1º, impede que qualquer norma de direito fundamental dependa de disciplina legislativa expressamente prevista na Constituição.",
+     "gabarito": "E",
+     "comentario": "O § 1º impõe aplicação imediata, mas deve ser lido em conjunto com remissões constitucionais específicas, como a do direito de greve dos servidores (CF, art. 5º, § 1º; art. 37, VII).",
+     "dispositivo": "CF, art. 5º, § 1º; art. 37, VII"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A regra da aplicação imediata orienta os poderes públicos a extrair desde logo os efeitos juridicamente possíveis das normas de direitos fundamentais.",
+     "gabarito": "C",
+     "comentario": "O comando constitucional dirige-se à concretização dos direitos e não autoriza tratar suas normas como recomendações sem força jurídica (CF, art. 5º, § 1º).",
+     "dispositivo": "CF, art. 5º, § 1º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O art. 5º, § 2º, permite reconhecer direitos e garantias que decorram do regime e dos princípios constitucionais ou de tratados internacionais de que o Brasil seja parte.",
+     "gabarito": "C",
+     "comentario": "O próprio texto declara que os direitos expressos não excluem outros decorrentes do regime, dos princípios e dos tratados (CF, art. 5º, § 2º).",
+     "dispositivo": "CF, art. 5º, § 2º"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A aplicação imediata do art. 5º, § 1º, torna desnecessária a leitura de outras disposições constitucionais que condicionam a forma de exercício de um direito.",
+     "gabarito": "E",
+     "comentario": "A aplicação imediata deve conviver com as condições expressas no próprio texto, como a disciplina legal das qualificações profissionais (CF, art. 5º, § 1º e XIII).",
+     "dispositivo": "CF, art. 5º, § 1º e XIII"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Ao analisar um direito fundamental cuja Constituição remete a disciplina a lei, qual método concilia melhor essa remissão com o art. 5º, § 1º?",
+     "alternativas": {
+      "A": "Considerar a norma sem qualquer valor até a lei ser publicada.",
+      "B": "Ignorar a remissão e afastar toda possibilidade de regulamentação.",
+      "C": "Tratar a previsão como recomendação política sem força jurídica.",
+      "D": "Dar desde logo os efeitos juridicamente possíveis, preservando a disciplina legislativa exigida pelo próprio texto.",
+      "E": "Exigir emenda constitucional antes de qualquer aplicação."
+     },
+     "gabarito": "D",
+     "comentario": "A alternativa D harmoniza a aplicação imediata com a remissão normativa específica, sem esvaziar nenhum dos comandos constitucionais (CF, art. 5º, § 1º; art. 37, VII).",
+     "dispositivo": "CF, art. 5º, § 1º; art. 37, VII"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma lei enumera apenas os direitos expressos nos incisos do art. 5º e declara que nenhum direito externo a essa lista pode ser reconhecido. Qual dispositivo oferece resposta direta a essa tese?",
+     "alternativas": {
+      "A": "O art. 5º, § 2º, que afasta o caráter fechado do catálogo.",
+      "B": "O art. 2º, que enumera os Poderes da União.",
+      "C": "O art. 37, caput, que trata dos princípios da Administração.",
+      "D": "O art. 60, § 4º, que disciplina iniciativa de emendas.",
+      "E": "O art. 14, § 1º, que prevê o alistamento eleitoral."
+     },
+     "gabarito": "A",
+     "comentario": "A alternativa A é a referência direta: os direitos expressos não excluem outros decorrentes do regime, princípios ou tratados (CF, art. 5º, § 2º).",
+     "dispositivo": "CF, art. 5º, § 2º"
+    }
+   ]
+  },
+  {
+   "id": "dconst-eficacia-3",
+   "titulo": "Normas programáticas e deveres constitucionais",
+   "microconteudo": "Normas programáticas estabelecem objetivos, tarefas ou diretrizes para a atuação estatal, frequentemente em direitos sociais e políticas públicas. Não são promessas sem força jurídica: vinculam os poderes, orientam escolhas normativas e servem como parâmetro de controle de atos incompatíveis com a Constituição. A Constituição, por exemplo, define a saúde como direito de todos e dever do Estado, a ser garantida por políticas sociais e econômicas (art. 196). A necessidade de políticas, organização administrativa e recursos para concretização não apaga o comando jurídico nem autoriza leitura que o reduza a mera intenção. Ao mesmo tempo, reconhecer força normativa não significa presumir que uma única providência decorra automaticamente de toda diretriz, sem examinar competências e as regras constitucionais pertinentes. Em prova, diferencie a existência de um dever constitucional de sua forma concreta de execução. Observe ainda se a disposição requer lei para instituir órgãos, procedimentos ou critérios, ou se já oferece parâmetro bastante para a questão apresentada. O método evita tanto negar eficácia quanto afirmar que toda norma programática entrega, isoladamente, uma prestação específica sem mediação.",
+   "flashcards": [
+    {
+     "frente": "Normas programáticas são juridicamente irrelevantes?",
+     "verso": "Não. Orientam e vinculam os poderes públicos e condicionam a legislação.",
+     "dispositivo": "CF, art. 196"
+    },
+    {
+     "frente": "Como a Constituição qualifica a saúde no art. 196?",
+     "verso": "Direito de todos e dever do Estado, garantido por políticas sociais e econômicas.",
+     "dispositivo": "CF, art. 196"
+    },
+    {
+     "frente": "O que evitar ao interpretar uma norma programática?",
+     "verso": "Negar toda eficácia ou presumir uma medida única sem examinar as regras aplicáveis.",
+     "dispositivo": "CF, arts. 196 e 198"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "Uma norma programática pode vincular a atuação estatal mesmo quando sua concretização envolve políticas públicas e medidas legislativas posteriores.",
+     "gabarito": "C",
+     "comentario": "O art. 196 qualifica a saúde como direito de todos e dever do Estado e orienta sua garantia por políticas, sem reduzir o comando a declaração sem força jurídica (CF, art. 196).",
+     "dispositivo": "CF, art. 196"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Como a saúde depende de políticas sociais e econômicas, o art. 196 não pode servir de parâmetro jurídico para avaliar a atuação estatal.",
+     "gabarito": "E",
+     "comentario": "A previsão expressa de políticas descreve meios de garantia, mas não retira do art. 196 sua natureza de comando constitucional e parâmetro jurídico (CF, art. 196).",
+     "dispositivo": "CF, art. 196"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Reconhecer força normativa a uma diretriz constitucional significa que toda controvérsia deve ser resolvida por uma prestação específica, sem consideração de competências ou regras de execução.",
+     "gabarito": "E",
+     "comentario": "A força normativa não elimina a análise das competências, das regras de organização e dos fatos do caso; o sistema de saúde é organizado conforme diretrizes constitucionais próprias (CF, arts. 196 e 198).",
+     "dispositivo": "CF, arts. 196 e 198"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O dever estatal relativo à saúde está expresso na Constituição, que prevê sua garantia por políticas sociais e econômicas.",
+     "gabarito": "C",
+     "comentario": "O art. 196 enuncia tanto o dever estatal quanto a atuação por políticas voltadas à redução de riscos e ao acesso universal e igualitário (CF, art. 196).",
+     "dispositivo": "CF, art. 196"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma norma constitucional estabelece um objetivo público e orienta a elaboração de políticas, embora sua execução dependa de medidas legislativas e administrativas. Qual afirmação melhor descreve sua força jurídica?",
+     "alternativas": {
+      "A": "É juridicamente inexistente até ser repetida em lei.",
+      "B": "Vincula os poderes e orienta a concretização, sem dispensar as regras constitucionais de execução.",
+      "C": "Revoga automaticamente todas as leis anteriores.",
+      "D": "Permite ao Executivo afastar competências constitucionais.",
+      "E": "Só tem força se for reproduzida no ADCT."
+     },
+     "gabarito": "B",
+     "comentario": "A alternativa B traduz a eficácia jurídica das normas programáticas: elas vinculam e orientam, embora a execução deva respeitar a organização constitucional (CF, arts. 196 e 198).",
+     "dispositivo": "CF, arts. 196 e 198"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Em audiência, a Administração sustenta que o dever constitucional de proteger a saúde é apenas uma meta política sem força jurídica. Qual referência refuta diretamente essa afirmação?",
+     "alternativas": {
+      "A": "O art. 196, que apenas recomenda políticas sem reconhecer direito ou dever.",
+      "B": "O art. 2º, que define a forma federativa.",
+      "C": "O art. 3º, que enumera os Poderes.",
+      "D": "O art. 14, que estabelece o sistema tributário.",
+      "E": "O art. 196, que define a saúde como direito de todos e dever do Estado."
+     },
+     "gabarito": "E",
+     "comentario": "A alternativa E reproduz a qualificação normativa expressa do art. 196: a saúde é direito de todos e dever do Estado, garantido por políticas públicas (CF, art. 196).",
+     "dispositivo": "CF, art. 196"
+    }
+   ]
+  },
+  {
+   "id": "dconst-eficacia-4",
+   "titulo": "Efeitos mínimos das normas constitucionais",
+   "microconteudo": "Mesmo quando uma disposição depende de lei para produzir toda a disciplina projetada, ela não fica suspensa até a integração. A norma constitucional já pode afastar atos incompatíveis, orientar a interpretação de leis existentes e impor ao legislador o dever de concretizá-la. A distinção entre eficácia mínima e plena concretização ajuda a evitar dois erros: considerar a norma limitada totalmente ineficaz ou concluir que ela já fornece todos os elementos para qualquer pretensão individual. O art. 37, VII, mostra uma remissão a lei específica para disciplinar a greve dos servidores; o art. 196, por sua vez, já define a saúde como direito e dever estatal, mesmo prevendo a garantia por políticas sociais e econômicas. Em cada caso, examine o texto, o efeito pretendido e a existência de regras constitucionais de integração. A pergunta prática é qual efeito pode ser extraído agora e qual aspecto exige complementação, respeitando competências e procedimentos previstos na própria Constituição.",
+   "flashcards": [
+    {
+     "frente": "O que uma norma limitada pode fazer antes da integração completa?",
+     "verso": "Vincular poderes, orientar interpretação e afastar medidas incompatíveis com a Constituição.",
+     "dispositivo": "CF, arts. 37, VII, e 196"
+    },
+    {
+     "frente": "Qual erro decorre de chamar norma limitada de totalmente ineficaz?",
+     "verso": "Ignorar sua força vinculante e seus efeitos jurídicos mínimos desde a promulgação.",
+     "dispositivo": "CF, art. 37, VII"
+    },
+    {
+     "frente": "Qual pergunta separa efeitos atuais de integração pendente?",
+     "verso": "Que consequência o texto permite agora e que elemento depende de complementação?",
+     "dispositivo": "CF, arts. 37, VII, e 196"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A falta de lei integradora impede que uma norma constitucional limitada oriente a interpretação ou vincule o legislador.",
+     "gabarito": "E",
+     "comentario": "A dependência de integração para plena disciplina não elimina a força vinculante nem os efeitos interpretativos da norma constitucional (CF, art. 37, VII).",
+     "dispositivo": "CF, art. 37, VII"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Identificar efeitos jurídicos já existentes e aspectos ainda dependentes de integração evita tratar uma norma limitada como totalmente ineficaz ou plenamente autoexecutável.",
+     "gabarito": "C",
+     "comentario": "A análise deve distinguir a vinculação constitucional presente da disciplina que o texto remete à lei, como faz o art. 37, VII (CF, art. 37, VII).",
+     "dispositivo": "CF, art. 37, VII"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O art. 196 estabelece que a saúde é direito de todos e dever do Estado, ainda que sua garantia envolva políticas sociais e econômicas.",
+     "gabarito": "C",
+     "comentario": "O enunciado reúne o dever constitucional e os meios de garantia indicados pelo próprio artigo (CF, art. 196).",
+     "dispositivo": "CF, art. 196"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A remissão constitucional a políticas públicas transforma automaticamente toda norma de direito social em simples recomendação sem valor jurídico.",
+     "gabarito": "E",
+     "comentario": "A previsão de políticas como meio de concretização não retira a força normativa do comando que reconhece o direito e atribui dever ao Estado (CF, art. 196).",
+     "dispositivo": "CF, art. 196"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma norma constitucional depende de integração para disciplina completa. Qual consequência jurídica pode existir antes da edição da lei?",
+     "alternativas": {
+      "A": "Nenhuma, pois o texto constitucional ainda não integra o ordenamento.",
+      "B": "A lei futura pode contrariar livremente o objetivo constitucional.",
+      "C": "A norma pode vincular os poderes e orientar a interpretação, embora falte disciplina completa.",
+      "D": "O Judiciário deve substituir automaticamente o legislador em qualquer matéria.",
+      "E": "A norma perde validade após a promulgação."
+     },
+     "gabarito": "C",
+     "comentario": "A alternativa C reconhece a força vinculante e interpretativa que subsiste enquanto se aguarda a integração prevista no texto (CF, art. 37, VII).",
+     "dispositivo": "CF, art. 37, VII"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma política de saúde é questionada sob o argumento de que o art. 196 seria apenas programático e, por isso, juridicamente irrelevante. Qual resposta é compatível com o texto constitucional?",
+     "alternativas": {
+      "A": "O art. 196 enuncia direito e dever constitucionais; a análise da medida deve considerar também as regras de organização e execução.",
+      "B": "O artigo autoriza qualquer órgão a ignorar a repartição de competências.",
+      "C": "O artigo só terá valor após sua repetição em lei municipal.",
+      "D": "A saúde não é mencionada como direito na Constituição.",
+      "E": "A referência a políticas elimina toda possibilidade de controle jurídico."
+     },
+     "gabarito": "A",
+     "comentario": "A alternativa A combina a força normativa do direito e do dever previstos com a necessidade de avaliar a execução segundo o sistema constitucional (CF, arts. 196 e 198).",
+     "dispositivo": "CF, arts. 196 e 198"
+    }
+   ]
+  }
+ ]
+}

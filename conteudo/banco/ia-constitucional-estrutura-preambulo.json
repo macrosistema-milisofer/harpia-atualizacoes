@@ -1,0 +1,248 @@
+{
+ "assunto": "Direito Constitucional — Estrutura, funções, preâmbulo e ADCT",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 (CF/88 consultada no texto compilado oficial do Planalto; STF, ADI 2.076/AC conferida no portal oficial)",
+ "origem": "2026-11-23_banco-constitucional-estrutura-preambulo_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "dconst-estrutura-1",
+   "titulo": "Organização e conteúdo da Constituição",
+   "microconteudo": "A Constituição reúne normas que instituem o Estado, distribuem competências, organizam os Poderes e reconhecem direitos e garantias. Para estudá-la, é útil separar o texto permanente do Ato das Disposições Constitucionais Transitórias (ADCT), sem tratar este último como legislação inferior: ambos integram a Constituição. A parte permanente começa com os princípios fundamentais (arts. 1º a 4º), prossegue com direitos e garantias fundamentais (arts. 5º a 17), organização do Estado (arts. 18 a 43), organização dos Poderes e demais matérias. O ADCT disciplina transições entre ordens jurídicas e situações delimitadas no tempo; algumas disposições já exauriram seus efeitos, enquanto outras continuam aplicáveis conforme sua redação e alterações. A Constituição também exerce funções de garantia, ao limitar o poder e proteger direitos; de organização, ao definir órgãos e competências; e dirigente, quando estabelece objetivos e tarefas públicas. Essas funções coexistem. Ao resolver um caso, localize a norma pertinente e confira se a regra transitória ainda produz efeitos.",
+   "flashcards": [
+    {
+     "frente": "O ADCT está abaixo da parte permanente da Constituição?",
+     "verso": "Não. Integra o texto constitucional e tem hierarquia constitucional.",
+     "dispositivo": "CF/88, ADCT"
+    },
+    {
+     "frente": "Quais funções constitucionais podem coexistir?",
+     "verso": "Garantia, organização do Estado e direção de objetivos públicos.",
+     "dispositivo": "CF/88, arts. 1º a 4º e 5º"
+    },
+    {
+     "frente": "Toda regra do ADCT continua produzindo efeitos?",
+     "verso": "Não. É preciso verificar se a disposição transitória se exauriu ou permanece aplicável.",
+     "dispositivo": "CF/88, ADCT"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "Por integrarem a Constituição, as normas do ADCT possuem hierarquia constitucional, embora algumas tenham eficácia temporalmente delimitada.",
+     "gabarito": "C",
+     "comentario": "O ADCT compõe o texto constitucional; o caráter transitório de uma regra não a rebaixa a norma infraconstitucional. Deve-se avaliar se seus efeitos já se exauriram (CF/88, ADCT).",
+     "dispositivo": "CF/88, ADCT"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A função de organização da Constituição limita-se a enumerar direitos individuais, sem distribuir competências estatais.",
+     "gabarito": "E",
+     "comentario": "A Constituição também estrutura o Estado e seus Poderes e reparte competências, como mostram os títulos sobre organização estatal e Poderes (CF/88, arts. 18 a 43 e 44 a 135).",
+     "dispositivo": "CF/88, arts. 18 a 43 e 44 a 135"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Uma disposição do ADCT pode continuar aplicável após o período de transição, se seu texto e objeto ainda produzirem efeitos.",
+     "gabarito": "C",
+     "comentario": "A localização no ADCT não significa caducidade automática: a vigência e o exaurimento precisam ser examinados em relação a cada disposição (CF/88, ADCT).",
+     "dispositivo": "CF/88, ADCT"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "As funções de garantia, organização e direção são mutuamente excludentes, de modo que cada norma constitucional deve pertencer a apenas uma delas.",
+     "gabarito": "E",
+     "comentario": "As funções são categorias analíticas que podem coexistir no mesmo texto e se complementar; por exemplo, a Constituição organiza poderes e protege direitos (CF/88, arts. 2º e 5º).",
+     "dispositivo": "CF/88, arts. 2º e 5º"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Ao analisar uma regra do ADCT que previa uma transição administrativa, uma candidata afirma que ela vale menos que uma regra da parte permanente. Qual avaliação é adequada?",
+     "alternativas": {
+      "A": "A afirmação está errada: o ADCT integra a Constituição, embora seja necessário examinar a vigência e o objeto da regra concreta.",
+      "B": "Está certa: toda regra transitória é lei ordinária.",
+      "C": "Está certa: o ADCT só orienta a interpretação, sem força constitucional.",
+      "D": "Está certa: disposições do ADCT são decretos regulamentares.",
+      "E": "Está errada porque toda norma do ADCT é eterna e não pode exaurir efeitos."
+     },
+     "gabarito": "A",
+     "comentario": "A alternativa A é correta. O ADCT integra o texto constitucional; isso não impede que disposições voltadas a uma transição específica tenham seus efeitos exauridos (CF/88, ADCT).",
+     "dispositivo": "CF/88, ADCT"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma equipe compara a previsão de direitos fundamentais com normas que definem a estrutura federativa e as competências dos entes. Qual descrição melhor representa o conteúdo constitucional?",
+     "alternativas": {
+      "A": "A Constituição contém apenas declarações políticas sem força jurídica.",
+      "B": "A Constituição trata somente da forma de governo.",
+      "C": "A Constituição organiza o Estado e os Poderes e também reconhece direitos e garantias.",
+      "D": "A organização estatal é matéria reservada exclusivamente a leis municipais.",
+      "E": "Os direitos fundamentais são matéria exclusiva do ADCT."
+     },
+     "gabarito": "C",
+     "comentario": "A alternativa C sintetiza conteúdos constitucionais distintos: direitos e garantias e a organização federativa e dos Poderes (CF/88, arts. 5º, 18 a 43 e 44 a 135).",
+     "dispositivo": "CF/88, arts. 5º, 18 a 43 e 44 a 135"
+    }
+   ]
+  },
+  {
+   "id": "dconst-estrutura-2",
+   "titulo": "Preâmbulo e jurisprudência constitucional",
+   "microconteudo": "O preâmbulo apresenta o contexto de promulgação e enuncia valores e propósitos associados à Constituição. Na CF/88, menciona, entre outros elementos, o Estado Democrático, direitos, liberdade, igualdade, justiça e a proteção de Deus. O Supremo Tribunal Federal, ao julgar a ADI 2.076/AC, assentou que o preâmbulo não constitui norma central de reprodução obrigatória pelos estados e não tem força normativa autônoma. Por isso, a ausência da expressão “sob a proteção de Deus” em uma Constituição estadual não configura, por si só, violação à Constituição Federal. A decisão não torna irrelevantes os princípios constitucionais que também aparecem no preâmbulo: quando inscritos em dispositivos normativos, vinculam por essa base própria. Em prova, diferencie o texto introdutório das normas dos artigos e evite atribuir ao preâmbulo uma obrigação jurídica independente. Se a questão tratar de princípios como Estado Democrático de Direito ou direitos fundamentais, identifique o artigo constitucional que os prevê, em vez de sustentar a resposta apenas no preâmbulo.",
+   "flashcards": [
+    {
+     "frente": "Qual foi a conclusão do STF sobre o preâmbulo na ADI 2.076?",
+     "verso": "Não é norma central de reprodução obrigatória pelos estados nem possui força normativa autônoma.",
+     "dispositivo": "STF, ADI 2.076/AC, Plenário, j. 15/08/2002"
+    },
+    {
+     "frente": "A expressão “sob a proteção de Deus” deve ser repetida nas constituições estaduais?",
+     "verso": "Não. O STF afastou a reprodução obrigatória do preâmbulo.",
+     "dispositivo": "STF, ADI 2.076/AC, Plenário, j. 15/08/2002"
+    },
+    {
+     "frente": "Como fundamentar a força jurídica de um princípio também mencionado no preâmbulo?",
+     "verso": "Aponte o dispositivo constitucional que o prevê como norma, não apenas o preâmbulo.",
+     "dispositivo": "CF/88, arts. 1º a 4º"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "Segundo o STF na ADI 2.076/AC, o preâmbulo da Constituição Federal é norma central de reprodução obrigatória nas constituições estaduais.",
+     "gabarito": "E",
+     "comentario": "O STF decidiu o contrário: o preâmbulo não é norma central de reprodução obrigatória; a ação discutia a expressão religiosa no preâmbulo acreano (STF, ADI 2.076/AC, Plenário, j. 15/08/2002).",
+     "dispositivo": "STF, ADI 2.076/AC, Plenário, j. 15/08/2002"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A ausência da expressão “sob a proteção de Deus” em constituição estadual, por si só, não viola uma obrigação de reprodução do preâmbulo federal.",
+     "gabarito": "C",
+     "comentario": "A ADI 2.076/AC afastou a natureza de norma obrigatória de reprodução para o preâmbulo e para a invocação da proteção de Deus (STF, ADI 2.076/AC, Plenário, j. 15/08/2002).",
+     "dispositivo": "STF, ADI 2.076/AC, Plenário, j. 15/08/2002"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Um princípio mencionado no preâmbulo pode vincular juridicamente quando também está previsto em dispositivo normativo da Constituição.",
+     "gabarito": "C",
+     "comentario": "A vinculação decorre da norma constitucional que positivou o princípio, não de força autônoma do preâmbulo; o Estado Democrático de Direito está expresso no art. 1º (CF/88, art. 1º; STF, ADI 2.076/AC).",
+     "dispositivo": "CF/88, art. 1º; STF, ADI 2.076/AC, Plenário, j. 15/08/2002"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Na ADI 2.076/AC, o STF declarou inconstitucional a Constituição do Estado do Acre porque ela omitiu a invocação de Deus.",
+     "gabarito": "E",
+     "comentario": "O pedido foi julgado improcedente por decisão unânime; o Tribunal não reconheceu dever de reprodução da expressão preambular (STF, ADI 2.076/AC, Plenário, j. 15/08/2002).",
+     "dispositivo": "STF, ADI 2.076/AC, Plenário, j. 15/08/2002"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma constituição estadual não reproduz a expressão “sob a proteção de Deus”. À luz da ADI 2.076/AC, qual conclusão é correta?",
+     "alternativas": {
+      "A": "A omissão invalida automaticamente toda a constituição estadual.",
+      "B": "A expressão é cláusula pétrea federal e deve ser reproduzida literalmente.",
+      "C": "A omissão é válida porque o preâmbulo não é norma central de reprodução obrigatória.",
+      "D": "A questão depende de lei complementar federal específica.",
+      "E": "A omissão só é válida após referendo popular nacional."
+     },
+     "gabarito": "C",
+     "comentario": "A alternativa C reproduz a conclusão do STF: a invocação no preâmbulo não é norma de reprodução obrigatória pelos estados (STF, ADI 2.076/AC, Plenário, j. 15/08/2002).",
+     "dispositivo": "STF, ADI 2.076/AC, Plenário, j. 15/08/2002"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma peça afirma que o Estado Democrático de Direito obriga os estados apenas porque essa expressão consta do preâmbulo federal. Qual ajuste torna a fundamentação compatível com a jurisprudência do STF?",
+     "alternativas": {
+      "A": "Retirar qualquer referência ao princípio, que não existe na Constituição.",
+      "B": "Fundamentar a vinculação no art. 1º, que enuncia o Estado Democrático de Direito como princípio normativo.",
+      "C": "Afirmar que o preâmbulo é norma superior aos artigos.",
+      "D": "Invocar exclusivamente o art. 60, § 5º.",
+      "E": "Sustentar que toda expressão preambular é obrigatória aos estados."
+     },
+     "gabarito": "B",
+     "comentario": "A alternativa B identifica a fonte normativa apropriada: o art. 1º define o Brasil como Estado Democrático de Direito; o preâmbulo não tem força normativa autônoma (CF/88, art. 1º; STF, ADI 2.076/AC).",
+     "dispositivo": "CF/88, art. 1º; STF, ADI 2.076/AC, Plenário, j. 15/08/2002"
+    }
+   ]
+  },
+  {
+   "id": "dconst-estrutura-3",
+   "titulo": "Funções constitucionais e objetivos fundamentais",
+   "microconteudo": "A Constituição combina contenção do poder, organização institucional e definição de compromissos públicos. Sua função de garantia aparece na proteção de direitos e nas limitações impostas às autoridades; a função organizatória distribui atribuições entre órgãos e entes federativos; a dimensão dirigente orienta a ação estatal por objetivos e programas constitucionais. A CF/88 explicita objetivos fundamentais da República no art. 3º: construir sociedade livre, justa e solidária; garantir o desenvolvimento nacional; erradicar pobreza e marginalização e reduzir desigualdades; e promover o bem de todos, sem preconceitos e discriminações. Esses comandos orientam legislação e políticas públicas, mas não eliminam a necessidade de identificar competências, procedimentos e direitos aplicáveis em cada caso. Objetivos constitucionais também não devem ser confundidos com fundamentos da República, que estão no art. 1º, nem com princípios que regem as relações internacionais, no art. 4º. A classificação ajuda a organizar a análise, mas não substitui a leitura do dispositivo invocado nem transforma todo objetivo em uma solução única e automática para qualquer controvérsia.",
+   "flashcards": [
+    {
+     "frente": "Onde estão os objetivos fundamentais da República?",
+     "verso": "No art. 3º da Constituição Federal.",
+     "dispositivo": "CF/88, art. 3º, I a IV"
+    },
+    {
+     "frente": "Os fundamentos da República e seus objetivos estão no mesmo artigo?",
+     "verso": "Não. Fundamentos no art. 1º; objetivos fundamentais no art. 3º.",
+     "dispositivo": "CF/88, arts. 1º e 3º"
+    },
+    {
+     "frente": "O que expressa a dimensão dirigente da Constituição?",
+     "verso": "Diretrizes e objetivos que orientam a atuação estatal e a legislação.",
+     "dispositivo": "CF/88, art. 3º, I a IV"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "Construir uma sociedade livre, justa e solidária é objetivo fundamental da República Federativa do Brasil.",
+     "gabarito": "C",
+     "comentario": "Essa diretriz está expressamente indicada como objetivo fundamental no inciso I do art. 3º (CF/88, art. 3º, I).",
+     "dispositivo": "CF/88, art. 3º, I"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A erradicação da pobreza e da marginalização e a redução das desigualdades sociais e regionais são fundamentos da República previstos no art. 1º.",
+     "gabarito": "E",
+     "comentario": "A Constituição classifica esses comandos como objetivos fundamentais, no art. 3º, III; os fundamentos da República estão enumerados no art. 1º (CF/88, arts. 1º e 3º, III).",
+     "dispositivo": "CF/88, arts. 1º e 3º, III"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A promoção do bem de todos sem preconceitos ou discriminações integra os objetivos fundamentais constitucionais.",
+     "gabarito": "C",
+     "comentario": "O inciso IV inclui a promoção do bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e outras formas de discriminação (CF/88, art. 3º, IV).",
+     "dispositivo": "CF/88, art. 3º, IV"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A dimensão dirigente da Constituição torna desnecessário verificar qual órgão tem competência para executar uma política pública.",
+     "gabarito": "E",
+     "comentario": "Os objetivos orientam a atuação pública, mas a execução continua submetida à repartição constitucional de competências e aos procedimentos aplicáveis (CF/88, arts. 3º e 18 a 43).",
+     "dispositivo": "CF/88, arts. 3º e 18 a 43"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Um plano governamental invoca a diretriz de reduzir desigualdades regionais. Qual é a referência constitucional mais direta entre os objetivos fundamentais?",
+     "alternativas": {
+      "A": "CF/88, art. 3º, III.",
+      "B": "CF/88, art. 1º, I.",
+      "C": "CF/88, art. 4º, II.",
+      "D": "CF/88, art. 2º.",
+      "E": "CF/88, art. 5º, caput."
+     },
+     "gabarito": "A",
+     "comentario": "A alternativa A é correta: o art. 3º, III, prevê erradicar pobreza e marginalização e reduzir desigualdades sociais e regionais (CF/88, art. 3º, III).",
+     "dispositivo": "CF/88, art. 3º, III"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma questão pede para distinguir a independência nacional, princípio que rege as relações internacionais, da dignidade da pessoa humana. Onde se encontra este último entre as categorias constitucionais?",
+     "alternativas": {
+      "A": "Objetivo fundamental no art. 3º.",
+      "B": "Fundamento da República no art. 1º, III.",
+      "C": "Princípio das relações internacionais no art. 4º.",
+      "D": "Regra transitória do ADCT.",
+      "E": "Competência legislativa do art. 22."
+     },
+     "gabarito": "B",
+     "comentario": "A alternativa B está correta: a dignidade da pessoa humana é fundamento da República; independência nacional é princípio das relações internacionais (CF/88, arts. 1º, III, e 4º, I).",
+     "dispositivo": "CF/88, arts. 1º, III, e 4º, I"
+    }
+   ]
+  }
+ ]
+}
