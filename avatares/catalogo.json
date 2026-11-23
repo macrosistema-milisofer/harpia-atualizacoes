@@ -1,4 +1,71 @@
 {
  "atualizado_em": "2026-11-23",
- "avatares": []
+ "avatares": [
+  {
+   "id": "a01",
+   "nome": "Ana",
+   "grupo": "Mulheres",
+   "poses": {
+    "busto": "avatares/a01/busto.webp",
+    "comemorando": "avatares/a01/comemorando.webp",
+    "trofeu": "avatares/a01/trofeu.webp",
+    "positivo": "avatares/a01/positivo.webp"
+   }
+  },
+  {
+   "id": "a02",
+   "nome": "Bruna",
+   "grupo": "Mulheres",
+   "poses": {
+    "busto": "avatares/a02/busto.webp",
+    "comemorando": "avatares/a02/comemorando.webp",
+    "trofeu": "avatares/a02/trofeu.webp",
+    "positivo": "avatares/a02/positivo.webp"
+   }
+  },
+  {
+   "id": "a03",
+   "nome": "Caio",
+   "grupo": "Homens",
+   "poses": {
+    "busto": "avatares/a03/busto.webp",
+    "comemorando": "avatares/a03/comemorando.webp",
+    "trofeu": "avatares/a03/trofeu.webp",
+    "positivo": "avatares/a03/positivo.webp"
+   }
+  },
+  {
+   "id": "a04",
+   "nome": "Davi",
+   "grupo": "Homens",
+   "poses": {
+    "busto": "avatares/a04/busto.webp",
+    "comemorando": "avatares/a04/comemorando.webp",
+    "trofeu": "avatares/a04/trofeu.webp",
+    "positivo": "avatares/a04/positivo.webp"
+   }
+  },
+  {
+   "id": "a05",
+   "nome": "Elisa",
+   "grupo": "Mulheres",
+   "poses": {
+    "busto": "avatares/a05/busto.webp",
+    "comemorando": "avatares/a05/comemorando.webp",
+    "trofeu": "avatares/a05/trofeu.webp",
+    "positivo": "avatares/a05/positivo.webp"
+   }
+  },
+  {
+   "id": "a06",
+   "nome": "Fábio",
+   "grupo": "Homens",
+   "poses": {
+    "busto": "avatares/a06/busto.webp",
+    "comemorando": "avatares/a06/comemorando.webp",
+    "trofeu": "avatares/a06/trofeu.webp",
+    "positivo": "avatares/a06/positivo.webp"
+   }
+  }
+ ]
 }
