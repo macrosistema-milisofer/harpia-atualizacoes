@@ -349,6 +349,30 @@
    "categoria": "Mercado financeiro",
    "tipo": "outra",
    "orgao": "B3"
+  },
+  {
+   "id": "enamed",
+   "nome": "Enamed — Exame Nacional de Avaliação da Formação Médica",
+   "categoria": "Saúde",
+   "tipo": "outra",
+   "orgao": "Lei nº 15.527/2026",
+   "obs": "obrigatório para inscrição no CRM de quem ingressou em Medicina a partir de 19/06/2026; em verticalização"
+  },
+  {
+   "id": "coffito-especialista",
+   "nome": "Título de Especialista — COFFITO (Fisioterapia e Terapia Ocupacional)",
+   "categoria": "Ordens e conselhos profissionais",
+   "tipo": "outra",
+   "orgao": "COFFITO",
+   "obs": "facultativo; em verticalização"
+  },
+  {
+   "id": "cfp-especialista",
+   "nome": "Título de Especialista — CFP (Psicologia)",
+   "categoria": "Ordens e conselhos profissionais",
+   "tipo": "outra",
+   "orgao": "CFP",
+   "obs": "facultativo; em verticalização"
   }
  ]
 }
