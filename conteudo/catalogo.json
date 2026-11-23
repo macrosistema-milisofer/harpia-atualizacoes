@@ -174,13 +174,6 @@
    "obs": "edital em levantamento"
   },
   {
-   "id": "tjro-tecnico-analista",
-   "nome": "Técnico e Analista Judiciário — TJRO",
-   "categoria": "Tribunais",
-   "tipo": "concurso",
-   "edital": "tjro-tecnico-analista"
-  },
-  {
    "id": "pcro-2022-agente-escrivao",
    "nome": "Agente e Escrivão — Polícia Civil de RO",
    "categoria": "Policiais",
@@ -373,6 +366,110 @@
    "tipo": "outra",
    "orgao": "CFP",
    "obs": "facultativo; em verticalização"
+  },
+  {
+   "id": "tc-conselheiro-substituto",
+   "nome": "Tribunal de Contas — Conselheiro Substituto (Auditor)",
+   "categoria": "Controle externo — Tribunais de Contas",
+   "tipo": "concurso",
+   "orgao": "TCU, TCEs e TCMs",
+   "obs": "edital mais recente em verticalização (M-08)"
+  },
+  {
+   "id": "tc-auditor-controle-externo",
+   "nome": "Tribunal de Contas — Auditor de Controle Externo",
+   "categoria": "Controle externo — Tribunais de Contas",
+   "tipo": "concurso",
+   "orgao": "TCU, TCEs e TCMs",
+   "obs": "edital mais recente em verticalização (M-08)"
+  },
+  {
+   "id": "tc-procurador-contas",
+   "nome": "Ministério Público de Contas — Procurador de Contas",
+   "categoria": "Controle externo — Tribunais de Contas",
+   "tipo": "concurso",
+   "orgao": "MPC junto aos TCs",
+   "obs": "edital mais recente em verticalização (M-08)"
+  },
+  {
+   "id": "camara-consultor-legislativo",
+   "nome": "Câmara dos Deputados — Consultor Legislativo",
+   "categoria": "Poder Legislativo",
+   "tipo": "concurso",
+   "orgao": "Câmara dos Deputados",
+   "obs": "edital mais recente em verticalização (M-08)"
+  },
+  {
+   "id": "camara-analista-legislativo",
+   "nome": "Câmara dos Deputados — Analista Legislativo",
+   "categoria": "Poder Legislativo",
+   "tipo": "concurso",
+   "orgao": "Câmara dos Deputados",
+   "obs": "edital mais recente em verticalização (M-08)"
+  },
+  {
+   "id": "senado-consultor-legislativo",
+   "nome": "Senado Federal — Consultor Legislativo",
+   "categoria": "Poder Legislativo",
+   "tipo": "concurso",
+   "orgao": "Senado Federal",
+   "obs": "edital mais recente em verticalização (M-08)"
+  },
+  {
+   "id": "senado-analista-legislativo",
+   "nome": "Senado Federal — Analista Legislativo",
+   "categoria": "Poder Legislativo",
+   "tipo": "concurso",
+   "orgao": "Senado Federal",
+   "obs": "edital mais recente em verticalização (M-08)"
+  },
+  {
+   "id": "ale-consultor-analista",
+   "nome": "Assembleia Legislativa — Consultor / Analista Legislativo",
+   "categoria": "Poder Legislativo",
+   "tipo": "concurso",
+   "orgao": "Assembleias Legislativas",
+   "obs": "edital mais recente em verticalização (M-08)"
+  },
+  {
+   "id": "ale-procurador",
+   "nome": "Assembleia Legislativa — Procurador",
+   "categoria": "Poder Legislativo",
+   "tipo": "concurso",
+   "orgao": "Assembleias Legislativas",
+   "obs": "edital mais recente em verticalização (M-08)"
+  },
+  {
+   "id": "tribunais-analista-judiciario",
+   "nome": "Tribunais — Analista Judiciário (área judiciária)",
+   "categoria": "Tribunais — Analistas e técnicos",
+   "tipo": "concurso",
+   "orgao": "STF, STJ, TST, TSE, TRFs, TRTs, TREs e TJs",
+   "obs": "edital mais recente em verticalização (M-08)"
+  },
+  {
+   "id": "tribunais-analista-administrativo",
+   "nome": "Tribunais — Analista Judiciário (área administrativa)",
+   "categoria": "Tribunais — Analistas e técnicos",
+   "tipo": "concurso",
+   "orgao": "STF, STJ, TST, TSE, TRFs, TRTs, TREs e TJs",
+   "obs": "edital mais recente em verticalização (M-08)"
+  },
+  {
+   "id": "tribunais-analista-ti",
+   "nome": "Tribunais — Analista Judiciário (Tecnologia da Informação)",
+   "categoria": "Tribunais — Analistas e técnicos",
+   "tipo": "concurso",
+   "orgao": "STF, STJ, TST, TSE, TRFs, TRTs, TREs e TJs",
+   "obs": "edital mais recente em verticalização (M-08)"
+  },
+  {
+   "id": "tjro-tecnico-analista",
+   "nome": "TJRO — Técnico e Analista Judiciário",
+   "categoria": "Tribunais — Analistas e técnicos",
+   "tipo": "concurso",
+   "orgao": "TJRO",
+   "obs": "edital mais recente em verticalização (M-08)"
   }
  ]
 }

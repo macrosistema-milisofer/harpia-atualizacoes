@@ -1,6 +1,6 @@
 {
  "conteudo": {
-  "conteudo/catalogo.json": 2,
+  "conteudo/catalogo.json": 3,
   "conteudo/banco/cf-arts1a17.json": 2,
   "conteudo/banco/enem-piloto.json": 1,
   "conteudo/mapas/incidencia.json": 2,
@@ -34,13 +34,14 @@
   "editais/rpps-dirig-1.json": 1,
   "editais/rpps-dirig-2.json": 1,
   "editais/rpps-dirig-3.json": 1,
-  "editais/tjro-tecnico-analista.json": 2
+  "editais/tjro-tecnico-analista.json": 2,
+  "avatares/catalogo.json": 1
  },
  "app": {
   "android": {
-   "build": 5,
+   "build": 6,
    "versao": "1.3.0",
-   "url": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-5.apk",
+   "url": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-6.apk",
    "notas": "Lições com flashcards e questões, revisão espaçada e atualização automática."
   }
  }
