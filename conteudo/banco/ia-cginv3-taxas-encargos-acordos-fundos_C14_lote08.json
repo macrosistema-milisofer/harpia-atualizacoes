@@ -1,0 +1,234 @@
+{
+ "assunto": "Fundos de Investimentos — Taxas, encargos e acordos de remuneração dos fundos",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 — fontes oficiais conferidas",
+ "origem": "2026-11-23_banco-cginv3-taxas-encargos-acordos-fundos_C14_lote08_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "cginv3-c14-taxas-encargos-acordos-fundos",
+   "titulo": "Taxas, encargos e acordos de remuneração dos fundos",
+   "microconteudo": "RAIO-X DA PROVA: Sem provas públicas do CGINV III localizadas para medir frequência. Prioridade pelo peso do edital e pela apostila. A matriz inclui o destinatário de cada taxa, despesas debitáveis ao fundo e o tratamento de custos quando uma classe investe em outras.\n\nO QUE A BANCA COBRA:\nMonte o fluxo financeiro de cada cobrança. Identifique o pagador, quem recebe, o fato que desencadeia a cobrança e onde ela deve estar descrita. Casos de fundos de fundos exigem distinguir taxa mínima, taxa máxima em comparação de produtos e acordo de remuneração direto entre classes.\n\nENTENDA:\nA taxa de administração remunera o administrador e os contratados por ele cujos serviços não sejam encargos do fundo. A de gestão segue a mesma lógica para o gestor e seus contratados, conforme art. 3º, XXXIII e XXXIV, da Parte Geral da Resolução CVM 175. O anexo descritivo da classe indica as taxas em percentual anual fixo do patrimônio líquido, base de 252 dias, ou em valor nominal em moeda corrente nacional, que pode variar por faixa patrimonial. Se subclasses tiverem taxas de administração e gestão distintas, os apêndices descrevem as taxas. Em classes abertas, as taxas devidas aos prestadores são provisionadas por dia útil, como despesa da classe e de acordo com o regulamento.\n\nA taxa máxima de distribuição representa o montante total para remunerar distribuidores e é expressa em percentual anual do PL em base de 252 dias. Sua previsão consta do anexo descritivo. As taxas de ingresso e saída, quando previstas, são pagas pelo cotista ao patrimônio da respectiva classe por ocasião da aplicação ou do resgate. Uma taxa de saída de 1% aplicada a resgate bruto de R$ 600 mil, no exemplo sem tributos, reduz o valor líquido a R$ 594 mil. Os R$ 6 mil pertencem à classe. Na hipótese de resgate compulsório, o art. 42, III, veda taxa de saída. A distinção é útil para o RPPS: quanto maior o custo de movimentar uma posição, maior o montante bruto necessário para obter determinado caixa de benefícios.\n\nRedução unilateral pelo prestador essencial da taxa que lhe compete é possível segundo o art. 97. A mudança regulamentar decorrente de redução dispensa assembleia e deve ser comunicada imediatamente, nos termos do art. 52. O aumento e a alteração de cálculo submetem-se à regra de alteração do regulamento e, nas classes abertas, ao regime de eficácia do art. 50, ressalvada a unanimidade dos reunidos para as condições temporais do parágrafo único e observadas as hipóteses legais de alteração sem assembleia. Ler condições de eficácia à parte evita presumir que uma taxa majorada passa a ser debitada no dia da votação.\n\nO art. 98 exige, em regra, que as taxas de administração e gestão da classe que pode investir em cotas de outros fundos compreendam as respectivas taxas dos fundos investidos. A estrutura pode definir taxas máximas incluindo as das investidas e mínimas sem essa inclusão. Em material que compara classes, a comparação usa as máximas, podendo indicar mínimas e taxas efetivas de outros períodos em nota. Ficam fora desse cômputo, nos termos do § 2º, aplicações em fundos com cotas admitidas à negociação em mercado organizado e em fundos geridos por partes não relacionadas ao gestor do investidor. No RPPS de Ipê Novo, comparar a taxa mínima de 0,3% da classe A com o custo máximo de 0,8% da classe B subestima o custo potencial de A se seu máximo é 1%. O relatório deve colocar a comparação em bases equivalentes.\n\nAcordos de remuneração têm tratamento próprio. A disciplina dos arts. 99 e 117, XVII, permite o pagamento da classe investida diretamente a classes investidoras, se o acordo usa taxa de administração, performance ou gestão como base. As parcelas correspondentes de administração ou gestão são subtraídas e limitadas ao valor destinado pela investida a provisionar ou pagar as despesas das respectivas taxas. O acordo não pode resultar, de forma direta ou indireta, em abatimento da taxa que a investidora deve à investida. Suposto retorno dessa remuneração ao RPPS mediante redução da taxa devida pela classe investidora deve ser avaliado por sua substância, à luz da vedação.\n\nO art. 117 distingue encargos que podem ser debitados diretamente, como auditoria independente, despesas de custódia, registro e liquidação, comissões de transação, despesas de assembleia e de agência de classificação de risco, além das taxas e dos acordos indicados pelo dispositivo. Despesas fora das hipóteses normativas ficam, em regra, a cargo do prestador essencial contratante. O administrador e o gestor podem direcionar parcelas de suas taxas a contratados, respeitado o total. Se um fornecedor contratado pelo gestor custa além do montante de sua taxa e a despesa não constitui encargo, o excedente é do gestor (arts. 100 e 118). Em fundo multiclasses, o administrador rateia despesas e contingências comuns com método verificável que evita transferência indevida de riqueza entre as classes.\n\nDOUTRINA:\nCOMISSÃO DE VALORES MOBILIÁRIOS. Cadernos CVM 3: Fundos de Investimento. 3. ed. CVM, 2016, p. 23–27. Custos de entrada, de manutenção e de saída incidem em momentos diferentes e afetam o resultado disponível ao investidor. A descrição contábil e as espécies atuais de remuneração seguem a Parte Geral da Resolução CVM 175, editada depois do caderno.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nSem precedente relevante. O enquadramento deve ser feito pelos arts. 3º, 48, 97–100, 117 e 118 da Parte Geral e pelas regras específicas da categoria quando houver.\n\nPEGADINHAS:\n1. Taxa de ingresso ou saída flui para o patrimônio da classe.\n2. A taxa máxima de distribuição usa percentual anual sobre PL em base de 252 dias.\n3. Comparar mínimos entre classes quando o regulamento traz máximos e mínimos contraria o art. 98.\n4. Acordo de remuneração não funciona como abatimento da taxa devida à investida.\n5. A emissão de fatura em nome do fundo não transforma a despesa em encargo atribuível ao patrimônio.\n\nESQUEMA:\nAdministração e gestão → prestadores essenciais e contratados elegíveis → arts. 3º e 48.\nIngresso ou saída → cotista paga à classe conforme regulamento.\nDistribuição → percentual anual sobre PL → art. 3º, XXXVII.\nTaxas em carteira de cotas → regra, comparação e exceções → art. 98.\nAcordos e encargos → arts. 99–100 e 117–118.\n\nLIGAÇÕES:\nFundos 9.1, assembleia e eficácia de mudanças de taxa. Fundos 9.2, encargos específicos do FIF.",
+   "flashcards": [
+    {
+     "frente": "Quem recebe as taxas de ingresso e saída?",
+     "verso": "O patrimônio da classe, quando o regulamento prevê cobrança.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 3º, XXXV–XXXVI"
+    },
+    {
+     "frente": "Pode cobrar taxa de saída no resgate compulsório?",
+     "verso": "A cobrança é vedada na hipótese de resgate compulsório.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, arts. 42, III, e 3º, XXXVI"
+    },
+    {
+     "frente": "Qual taxa aparece no comparativo quando há faixa mínima e máxima?",
+     "verso": "A taxa máxima. Mínimas e taxas efetivas de outros períodos podem aparecer em nota.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 98, §§ 1º–2º"
+    },
+    {
+     "frente": "Que destino tem gasto do gestor sem previsão como encargo?",
+     "verso": "Fica a cargo do gestor contratante, mesmo se superar o montante de sua taxa.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, arts. 100, 117, IV, e 118, caput e § 1º"
+    },
+    {
+     "frente": "Qual base anual expressa a taxa máxima de distribuição?",
+     "verso": "Percentual anual do patrimônio líquido, com base em 252 dias.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 3º, XXXIII–XXXVII, e art. 48, § 2º, XI–XII e XIX"
+    },
+    {
+     "frente": "O acordo de remuneração pode reduzir taxa devida pela investidora à investida?",
+     "verso": "É vedado causar desconto, abatimento ou redução direta ou indireta de taxa devida nesse sentido.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, arts. 99 e 117, XVII"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A taxa máxima de distribuição remunera distribuidores e é expressa em percentual anual do patrimônio líquido em base de 252 dias.",
+     "gabarito": "C",
+     "comentario": "A base e os destinatários estão na definição regulatória e o anexo da classe informa a taxa. (Resolução CVM 175/2022, Parte Geral, art. 3º, XXXIII–XXXVII, e art. 48, § 2º, XI–XII e XIX)",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 3º, XXXIII–XXXVII, e art. 48, § 2º, XI–XII e XIX"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Se o regulamento estipular genericamente taxa de saída, ela também pode ser aplicada em resgate compulsório proporcional de classe aberta.",
+     "gabarito": "E",
+     "comentario": "A vedação de cobrança no resgate compulsório prevalece sobre a previsão geral de taxa. (Resolução CVM 175/2022, Parte Geral, arts. 42, III, e 3º, XXXVI)",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, arts. 42, III, e 3º, XXXVI"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Redução da taxa devida a prestador essencial permite alteração sem assembleia, com comunicação imediata aos cotistas.",
+     "gabarito": "C",
+     "comentario": "A remuneração pode ser reduzida unilateralmente pelo prestador a que compete e a redução deve ser comunicada de imediato. (Resolução CVM 175/2022, Parte Geral, arts. 52, III e § 2º, e 97)",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, arts. 52, III e § 2º, e 97"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "É admissível vincular o acordo de remuneração a um desconto indireto da taxa de gestão que a classe investidora deve à classe investida.",
+     "gabarito": "E",
+     "comentario": "A vedação abrange a redução direta e indireta da taxa devida pela investidora à investida. (Resolução CVM 175/2022, Parte Geral, art. 99 e parágrafo único)",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 99 e parágrafo único"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 5/11/2026, Leo calcula a saída voluntária de R$ 420 mil para o RPPS de Pedra Lisa. A classe cobra taxa de saída de 0,75% sobre o valor bruto, conforme regulamento. Desconsidere tributos e outras cobranças. Qual resultado?",
+     "alternativas": {
+      "A": "R$ 416.850 ao RPPS e R$ 3.150 ao patrimônio da classe.",
+      "B": "R$ 416.850 ao RPPS e R$ 3.150 ao distribuidor.",
+      "C": "R$ 420.000 ao RPPS e R$ 3.150 como encargo adicional do administrador.",
+      "D": "R$ 419.685 ao RPPS e R$ 315 à classe.",
+      "E": "R$ 420.000 ao RPPS, pois a norma veda taxa em todo resgate."
+     },
+     "gabarito": "A",
+     "comentario": "A (correta). A taxa equivale a 420.000 × 0,0075 e é paga ao patrimônio da classe. B (incorreta). A quantia é correta, mas o destinatário da saída não é o distribuidor. C (incorreta). A taxa é suportada pelo cotista no resgate. D (incorreta). Esse valor decorre de percentual dez vezes menor que o contratado. E (incorreta). A vedação citada é do resgate compulsório, e a questão trata de saída voluntária. (Resolução CVM 175/2022, Parte Geral, art. 3º, XXXV–XXXVI)",
+     "comentarios_por_alternativa": {
+      "A": "A taxa equivale a 420.000 × 0,0075 e é paga ao patrimônio da classe.",
+      "B": "A quantia é correta, mas o destinatário da saída não é o distribuidor.",
+      "C": "A taxa é suportada pelo cotista no resgate.",
+      "D": "Esse valor decorre de percentual dez vezes menor que o contratado.",
+      "E": "A vedação citada é do resgate compulsório, e a questão trata de saída voluntária."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 3º, XXXV–XXXVI"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 9/11/2026, Fernanda estuda duas classes para possível alocação de R$ 8 milhões. Ambas exibem taxa de gestão mínima e máxima nos termos do art. 98, § 1º. Na peça que as compara, qual apresentação procede?",
+     "alternativas": {
+      "A": "Colocar as mínimas lado a lado, sem referência aos máximos.",
+      "B": "Comparar a taxa mínima da classe investidora com a máxima da outra.",
+      "C": "Comparar apenas taxas efetivas de períodos diferentes.",
+      "D": "Comparar as taxas máximas, com eventual nota sobre aquelas mínimas e efetivas em outros períodos.",
+      "E": "Excluir sempre as taxas subjacentes das máximas."
+     },
+     "gabarito": "D",
+     "comentario": "A (incorreta). O comparativo deve usar as máximas. B (incorreta). Alternar bases de custo prejudica o comparativo e contraria o dispositivo. C (incorreta). É permitida referência em nota a taxas efetivas de outros períodos. O comparativo principal usa máximas. D (correta). A regra combina a comparação pelas máximas com a faculdade de detalhamento em nota. E (incorreta). A definição regulamentar de máxima inclui as taxas das investidas, observadas as exceções do § 2º. (Resolução CVM 175/2022, Parte Geral, art. 98, §§ 1º–2º)",
+     "comentarios_por_alternativa": {
+      "A": "O comparativo deve usar as máximas.",
+      "B": "Alternar bases de custo prejudica o comparativo e contraria o dispositivo.",
+      "C": "É permitida referência em nota a taxas efetivas de outros períodos. O comparativo principal usa máximas.",
+      "D": "A regra combina a comparação pelas máximas com a faculdade de detalhamento em nota.",
+      "E": "A definição regulamentar de máxima inclui as taxas das investidas, observadas as exceções do § 2º."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 98, §§ 1º–2º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 19/11/2026, Renata revisa as cobranças de classe em que o RPPS de Bom Jardim investe. Houve R$ 45 mil de auditoria independente e R$ 70 mil de serviço contratado pelo gestor que, na hipótese, não está previsto nas normas como encargo. Qual tratamento cabe?",
+     "alternativas": {
+      "A": "Débito direto de ambas as despesas por terem beneficiado cotistas.",
+      "B": "O auditor é pago necessariamente com taxa de distribuição.",
+      "C": "Auditoria como encargo. Serviço fora dos encargos por conta do contratante, nos limites da respectiva taxa e com excedente a suas expensas.",
+      "D": "A auditoria só pode ser paga pelo gestor, e o contratado deve ser pago diretamente pelo fundo.",
+      "E": "O contratado fora dos encargos passa a ser encargo se a taxa de gestão não cobrir seu custo."
+     },
+     "gabarito": "C",
+     "comentario": "A (incorreta). O benefício genérico não transforma despesa sem previsão regulatória em encargo. B (incorreta). Honorários e despesas de auditor independente são encargos previstos. C (correta). A identificação de quem contratou e a previsão normativa delimitam o débito direto. D (incorreta). A regra inverte o tratamento das duas despesas. E (incorreta). A insuficiência da taxa é suportada pelo prestador essencial que contratou. (Resolução CVM 175/2022, Parte Geral, arts. 100, 117, IV, e 118, caput e § 1º)",
+     "comentarios_por_alternativa": {
+      "A": "O benefício genérico não transforma despesa sem previsão regulatória em encargo.",
+      "B": "Honorários e despesas de auditor independente são encargos previstos.",
+      "C": "A identificação de quem contratou e a previsão normativa delimitam o débito direto.",
+      "D": "A regra inverte o tratamento das duas despesas.",
+      "E": "A insuficiência da taxa é suportada pelo prestador essencial que contratou."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, arts. 100, 117, IV, e 118, caput e § 1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 10/11/2026, Joice verifica que a classe investida provisionou R$ 120 mil para taxa de gestão. O acordo prevê pagar à classe investidora R$ 150 mil com base nessa taxa, assumindo que o montante inteiro integra a parcela correspondente à taxa de gestão. Qual tratamento se impõe?",
+     "alternativas": {
+      "A": "Pagar R$ 150 mil e aumentar unilateralmente a taxa representada pela diferença.",
+      "B": "Pagar R$ 150 mil se o valor for compensado na taxa devida pela investidora à investida.",
+      "C": "Debitar R$ 30 mil como taxa de saída adicional.",
+      "D": "Referir o acordo apenas no material publicitário para afastar o teto.",
+      "E": "Limitar a parcela aos R$ 120 mil, com a subtração correspondente da despesa da taxa e sem desconto na taxa devida pela investidora."
+     },
+     "gabarito": "E",
+     "comentario": "A (incorreta). O provisionamento da respectiva taxa limita a parcela. B (incorreta). A compensação redutora é vedada. C (incorreta). A diferença não constitui saída de cotista nem se enquadra na definição dessa taxa. D (incorreta). A divulgação não modifica o limite regulatório. E (correta). O art. 99 disciplina o teto e a vedação de abatimento no fluxo inverso. (Resolução CVM 175/2022, Parte Geral, arts. 99 e 117, XVII)",
+     "comentarios_por_alternativa": {
+      "A": "O provisionamento da respectiva taxa limita a parcela.",
+      "B": "A compensação redutora é vedada.",
+      "C": "A diferença não constitui saída de cotista nem se enquadra na definição dessa taxa.",
+      "D": "A divulgação não modifica o limite regulatório.",
+      "E": "O art. 99 disciplina o teto e a vedação de abatimento no fluxo inverso."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, arts. 99 e 117, XVII"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Taxa de ___ remunera o administrador. Taxa de ___ remunera o gestor.",
+     "opcoes": [
+      "administração",
+      "gestão",
+      "saída",
+      "ingresso"
+     ],
+     "respostas": [
+      "administração",
+      "gestão"
+     ],
+     "explicacao": "As taxas cobrem também contratados dos respectivos prestadores cujos serviços não sejam encargos.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 3º, XXXIII–XXXVII, e art. 48, § 2º, XI–XII e XIX"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Em materiais comparativos, use as taxas ___ e deixe eventual informação sobre taxas mínimas em ___.",
+     "opcoes": [
+      "máximas",
+      "fixas",
+      "nota",
+      "contrato bilateral"
+     ],
+     "respostas": [
+      "máximas",
+      "nota"
+     ],
+     "explicacao": "O comparativo inclui as taxas investidas na extensão exigida pela norma.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 98, §§ 1º–2º"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma despesa apresentada para débito direto na classe.",
+     "itens": [
+      "Identificar serviço e contratante",
+      "Verificar previsão como encargo nas normas aplicáveis",
+      "Se a despesa não for encargo, examinar a taxa do contratante",
+      "Atribuir eventual excedente ao contratante"
+     ],
+     "explicacao": "O enquadramento determina quem suporta a despesa.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, arts. 100, 117, IV, e 118, caput e § 1º"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Taxa de ingresso",
+       "Cotista paga ao patrimônio da classe"
+      ],
+      [
+       "Taxa de gestão",
+       "Remuneração do gestor e contratados elegíveis"
+      ],
+      [
+       "Auditoria independente",
+       "Encargo previsto"
+      ],
+      [
+       "Taxa máxima de distribuição",
+       "Remuneração total dos distribuidores"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

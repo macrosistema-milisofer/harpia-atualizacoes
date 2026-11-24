@@ -1,0 +1,257 @@
+{
+ "assunto": "ENEM 2026 — Ciências da Natureza — Concentração de soluções e conservação do soluto",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23",
+ "origem": "2026-11-23_banco-enem-concentracao-solucoes_C14_lote06_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "enem-concentracao-solucoes-c14",
+   "titulo": "Concentração de soluções e conservação do soluto",
+   "microconteudo": "RAIO-X DA PROVA: Triagem dirigida nos cadernos azuis regulares do Inep de 2021 a 2025 confirmou 3 de 225 itens de Ciências da Natureza (1,33% como mínimo observado). O recorte confirmado inclui leitura de concentrações iônicas, conversão entre mol e massa e cálculo de quantidade de soluto pelo volume de solução. A conta depende da natureza da espécie pedida e da unidade final.\n\nO QUE A BANCA COBRA:\nUma concentração relaciona a quantidade de um componente a uma quantidade de solução. No ENEM aparecem rótulos, composição de misturas e resultados de análises em unidades diferentes. Os itens confirmados pedem comparar concentrações de espécies químicas, converter entre massa e quantidade de matéria ou interpretar o resultado de uma análise. Identifique qual espécie está no numerador e qual volume está no denominador antes de escolher uma fórmula. Massa total, concentração e volume são grandezas diferentes, mesmo quando o enunciado as fornece na mesma frase.\n\nENTENDA:\nUma solução contém componentes distribuídos uniformemente na escala em que se coleta a amostra. Se 200 mL de uma solução homogênea contêm 6 g de soluto, então 1 L dessa mesma solução conteria 30 g. A concentração em massa é C = m do soluto/V da solução, que nesse exemplo vale 6 g/0,200 L = 30 g/L. Se retirarmos 50 mL, essa amostra terá 1,5 g. A concentração dos 50 mL e a da porção restante ainda será de 30 g/L, pois saem juntos solvente e soluto na proporção da solução homogênea. A relação muda se o procedimento retira seletivamente solvente ou acrescenta soluto.\n\nA quantidade de matéria indica quantos mols do componente estão presentes. A massa molar funciona como ponte entre gramas e mols. Para um composto de massa molar 60 g/mol, os 6 g do exemplo correspondem a 0,10 mol. Em 0,200 L, isso dá 0,50 mol/L. Dividir 30 g/L por 60 g/mol produz o mesmo resultado. Escrever as unidades durante as contas ajuda a reconhecer o que se cancela. Se os dados estiverem em mg/mL, há uma conversão direta útil: 1 mg/mL equivale a 1 g/L, porque tanto o numerador quanto o denominador recebem o mesmo fator mil ao mudar para g e L.\n\nEm questões de sais, verifique se a concentração se refere ao composto ou a um íon. Para uma solução idealizada em que o cloreto de cálcio se dissocia completamente, cada mol de CaCl₂ gera um mol de Ca²⁺ e dois mols de Cl⁻. Uma solução de 0,20 mol/L do sal fornece 0,20 mol/L de Ca²⁺ e 0,40 mol/L de Cl⁻ segundo esse modelo. Em outra questão, a unidade pode ser grama de cloreto por litro. Nesse caso, a quantidade de matéria de Cl⁻ deve ser convertida usando a massa molar correspondente ao íon, aproximada pela massa molar atômica do cloro. Evite usar a massa molar do sal para obter diretamente a massa do íon.\n\nUma diluição simples adiciona solvente a uma solução sem remover ou fazer reagir o soluto de interesse. Nesse caso, a quantidade do soluto é conservada. Se 40 mL de uma solução de 2,0 mol/L forem completados com solvente até 200 mL de solução, a nova concentração é (2,0 × 40)/200 = 0,40 mol/L. Usar mililitros nas duas posições funciona porque a unidade se cancela na razão. A palavra “até” marca o volume final. Se o enunciado disser que foram adicionados 200 mL de solvente, o volume final será 240 mL sob hipótese de aditividade, e a concentração resultante será diferente. Em preparo de laboratório, o volume final também pode ser informado diretamente pelo recipiente volumétrico.\n\nAo misturar duas soluções do mesmo soluto sem reação ou perdas, calcule a quantidade que cada uma leva à mistura. Em um exercício com volumes aditivos, 100 mL de 20 g/L fornecem 2 g e 300 mL de 4 g/L fornecem 1,2 g. Os 3,2 g ficam em 0,400 L e a concentração obtida é 8 g/L. A média simples de 20 e 4 daria 12 g/L, um resultado válido apenas se as duas contribuições tivessem o mesmo volume. Essa solução deve ter concentração entre 4 e 20 g/L. A proximidade com 4 g/L faz sentido porque a maior parte do volume veio da porção menos concentrada.\n\nOutras unidades exigem ler a base declarada. Uma composição de 5% em massa indica 5 g do componente a cada 100 g de solução. Para chegar a g/L, o volume precisa ser conhecido ou inferido de uma densidade informada. Um litro de solução com densidade de 1,10 g/mL tem massa de 1.100 g. Se 5% disso corresponde ao soluto, há 55 g de soluto por litro. Uma porcentagem massa por volume seguiria outra base. Confira o que o rótulo ou o problema define antes de transformar a porcentagem.\n\nDOUTRINA:\nPaul Flowers, Klaus Theopold, Richard Langley e William R. Robinson, Chemistry 2e, 2ª ed., Houston, OpenStax, 2019, seções 3.3 e 3.4, apresentam concentração molar, diluição e unidades de composição. O método que unifica os casos é calcular a quantidade do componente de interesse e relacioná-la à base indicada. Para enunciados com mudança de volume, determine primeiro se a quantidade desse componente se conserva.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nO objeto 4.43 da Matriz de 2026 trabalha a concentração de soluções. Para comparar dados em tabelas ou rótulos, leia os símbolos, as unidades e a espécie química de referência no quadro.\n\nPEGADINHAS:\n1. A concentração em g/L usa o volume da solução, e não a quantidade em litros de solvente adicionada.\n2. Retirar uma amostra homogênea reduz massa e volume na mesma proporção.\n3. Na diluição, use o volume final indicado no enunciado.\n4. Um mol de sal pode liberar mais de um mol do íon que a pergunta procura.\n5. A porcentagem em massa requer densidade ou volume para conversão em g/L.\n\nESQUEMA:\nIdentificar o soluto → composto ou espécie específica.\nEscolher a base → massa ou volume total de solução.\nUniformizar unidades → mg, g, mL, L e mol.\nVerificar conservação → diluição e mistura sem perdas ou reação.\nConferir o resultado → unidade, ordem de grandeza e limites da mistura.\n\nLIGAÇÕES:\nEstequiometria permite relacionar a concentração de um reagente às quantidades consumidas em uma reação. Densidade liga massa total e volume quando a composição vem expressa em porcentagem em massa.",
+   "flashcards": [
+    {
+     "frente": "Qual volume entra no denominador de g/L?",
+     "verso": "O volume total da solução, em litros.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.43"
+    },
+    {
+     "frente": "Como converter uma concentração em mol/L para g/L?",
+     "verso": "Multiplique pela massa molar da espécie, em gramas por mol.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.43"
+    },
+    {
+     "frente": "Retirar uma amostra homogênea muda a concentração da porção que ficou?",
+     "verso": "Em condições constantes, não. Soluto e solução saem na mesma proporção.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.43"
+    },
+    {
+     "frente": "Na expressão de diluição, entra volume final ou volume adicionado?",
+     "verso": "Volume final da solução.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.43"
+    },
+    {
+     "frente": "Quando a média simples de duas concentrações serve numa mistura?",
+     "verso": "Quando os volumes são iguais, sem reação ou perdas e com volumes aditivos.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.43"
+    },
+    {
+     "frente": "O que significa 5% em massa?",
+     "verso": "Cinco gramas de componente em cada cem gramas da solução.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.43"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-concentracao-solucoes-c14-q01",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "habilidade": "H17",
+     "texto_base": "Em março, Celso recebe uma solução homogênea com 18 g de sal em 600 mL. Ele transfere 100 mL, sem evaporação, para um frasco.",
+     "enunciado": "O frasco contém 3 g de sal e a concentração de 30 g/L.",
+     "gabarito": "C",
+     "comentario": "A amostra corresponde a um sexto do volume e leva um sexto da massa do soluto. A razão de 30 g/L permanece. (Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.43, H17.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.43, H17"
+    },
+    {
+     "id": "enem-concentracao-solucoes-c14-q02",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "habilidade": "H24",
+     "texto_base": "Em junho, Dalva usa num exercício uma solução com 0,15 mol/L de MgCl₂, sob hipótese de dissociação completa.",
+     "enunciado": "Essa solução contém 0,15 mol/L de íons cloreto.",
+     "gabarito": "E",
+     "comentario": "O subíndice dois indica dois cloretos por unidade do sal. A concentração de cloreto fica em 0,30 mol/L. (Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.43, H24.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.43, H24"
+    },
+    {
+     "id": "enem-concentracao-solucoes-c14-q03",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "habilidade": "H17",
+     "texto_base": "Em 10 de agosto, uma ficha de laboratório informa 2,5 mg de corante por mL. Ivo precisa registrar o mesmo dado em g/L.",
+     "enunciado": "O registro equivale a 2,5 g/L.",
+     "gabarito": "C",
+     "comentario": "Cada litro reúne mil mililitros e contém 2.500 mg de corante, isto é, 2,5 g. (Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.43, H17.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.43, H17"
+    },
+    {
+     "id": "enem-concentracao-solucoes-c14-q04",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "habilidade": "H25",
+     "texto_base": "Lia tem 80 mL de solução a 1,0 mol/L e acrescenta 320 mL de solvente. O exercício informa que os volumes são aditivos e nada de soluto se perde.",
+     "enunciado": "A nova concentração é 0,25 mol/L.",
+     "gabarito": "E",
+     "comentario": "O volume final é 400 mL. A razão 80/400 dá o fator 0,20, enquanto 0,25 usaria apenas o volume adicionado. (Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.43, H25.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.43, H25"
+    },
+    {
+     "id": "enem-concentracao-solucoes-c14-q05",
+     "tipo": "me",
+     "dificuldade": "media",
+     "habilidade": "H17",
+     "texto_base": "Em maio, Sara retira 150 mL de uma solução de 12 g/L de um sal para fazer medições.",
+     "enunciado": "Qual massa de soluto está nessa amostra?",
+     "alternativas": {
+      "A": "1,8 g",
+      "B": "0,18 g",
+      "C": "12 g",
+      "D": "18 g",
+      "E": "80 g"
+     },
+     "gabarito": "A",
+     "comentario": "A) Correta. O volume é 0,150 L. A multiplicação por 12 g/L dá 1,8 g.\nB) Isso corresponderia a 15 mL na concentração indicada.\nC) Essa massa estaria em 1 L de solução.\nD) Nessa concentração, 18 g requerem 1,5 L.\nE) O cálculo divide 12 por 0,15, embora a massa procurada seja a concentração multiplicada pelo volume.\n(Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.43, H17.)",
+     "comentarios_por_alternativa": {
+      "A": "Correta. O volume é 0,150 L. A multiplicação por 12 g/L dá 1,8 g.",
+      "B": "Isso corresponderia a 15 mL na concentração indicada.",
+      "C": "Essa massa estaria em 1 L de solução.",
+      "D": "Nessa concentração, 18 g requerem 1,5 L.",
+      "E": "O cálculo divide 12 por 0,15, embora a massa procurada seja a concentração multiplicada pelo volume."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.43, H17"
+    },
+    {
+     "id": "enem-concentracao-solucoes-c14-q06",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "habilidade": "H24",
+     "texto_base": "Em 16 de junho, Álvaro compara soluções de sais. Uma delas contém 0,25 mol/L de K₂SO₄ com dissociação completa. Adote massa molar de 39 g/mol para K⁺.",
+     "enunciado": "Qual é a concentração em massa dos íons K⁺?",
+     "alternativas": {
+      "A": "9,75 g/L",
+      "B": "39 g/L",
+      "C": "4,875 g/L",
+      "D": "19,5 g/L",
+      "E": "78 g/L"
+     },
+     "gabarito": "D",
+     "comentario": "A) Esses gramas usam apenas um mol de íons K⁺ para cada mol do sal.\nB) Esse valor corresponde a 1 mol/L de K⁺, o dobro do obtido no exercício.\nC) O cálculo divide a quantidade de sal por dois, embora a quantidade de íons potássio seja o dobro.\nD) Correta. A solução contém 0,50 mol/L de K⁺. Multiplicar por 39 g/mol dá 19,5 g/L.\nE) O fator dois foi aplicado à massa de 1 mol/L, em vez de partir dos 0,25 mol/L do sal.\n(Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.43, H24.)",
+     "comentarios_por_alternativa": {
+      "A": "Esses gramas usam apenas um mol de íons K⁺ para cada mol do sal.",
+      "B": "Esse valor corresponde a 1 mol/L de K⁺, o dobro do obtido no exercício.",
+      "C": "O cálculo divide a quantidade de sal por dois, embora a quantidade de íons potássio seja o dobro.",
+      "D": "Correta. A solução contém 0,50 mol/L de K⁺. Multiplicar por 39 g/mol dá 19,5 g/L.",
+      "E": "O fator dois foi aplicado à massa de 1 mol/L, em vez de partir dos 0,25 mol/L do sal."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.43, H24"
+    },
+    {
+     "id": "enem-concentracao-solucoes-c14-q07",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "habilidade": "H25",
+     "texto_base": "Em julho, Vera mistura 250 mL de solução a 4 g/L com 150 mL do mesmo soluto a 12 g/L. Assuma ausência de reação e volumes aditivos.",
+     "enunciado": "Qual é a concentração da mistura?",
+     "alternativas": {
+      "A": "4 g/L",
+      "B": "8 g/L",
+      "C": "2,8 g/L",
+      "D": "11,2 g/L",
+      "E": "7 g/L"
+     },
+     "gabarito": "E",
+     "comentario": "A) A adição da solução mais concentrada eleva a concentração da porção inicial.\nB) A média simples atribui pesos iguais aos volumes de 250 e 150 mL.\nC) 2,8 é a massa total em gramas. Falta dividir pelo volume final em litros.\nD) A massa total foi dividida apenas pela primeira porção de 0,250 L.\nE) Correta. As porções fornecem 1,0 e 1,8 g. Em 0,400 L, 2,8 g correspondem a 7 g/L.\n(Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.43, H25.)",
+     "comentarios_por_alternativa": {
+      "A": "A adição da solução mais concentrada eleva a concentração da porção inicial.",
+      "B": "A média simples atribui pesos iguais aos volumes de 250 e 150 mL.",
+      "C": "2,8 é a massa total em gramas. Falta dividir pelo volume final em litros.",
+      "D": "A massa total foi dividida apenas pela primeira porção de 0,250 L.",
+      "E": "Correta. As porções fornecem 1,0 e 1,8 g. Em 0,400 L, 2,8 g correspondem a 7 g/L."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.43, H25"
+    },
+    {
+     "id": "enem-concentracao-solucoes-c14-q08",
+     "tipo": "me",
+     "dificuldade": "media",
+     "habilidade": "H17",
+     "texto_base": "Um rótulo descreve uma solução com 8% de soluto em massa e densidade de 1,25 g/mL. Marta quer comparar o produto com outro que informa g/L.",
+     "enunciado": "Qual concentração deve usar?",
+     "alternativas": {
+      "A": "8 g/L",
+      "B": "100 g/L",
+      "C": "80 g/L",
+      "D": "1.250 g/L",
+      "E": "10 g/L"
+     },
+     "gabarito": "B",
+     "comentario": "A) O valor 8 se refere a 100 g de solução, não a um litro.\nB) Correta. Um litro pesa 1.250 g e 0,08 × 1.250 g = 100 g de soluto.\nC) Essa estimativa corresponderia a 1 L de solução de massa 1.000 g.\nD) Esse número mede a massa de solução por litro, sem aplicar a fração de soluto.\nE) O cálculo usa o equivalente a 100 mL de solução, perdendo um fator 10.\n(Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.43, H17.)",
+     "comentarios_por_alternativa": {
+      "A": "O valor 8 se refere a 100 g de solução, não a um litro.",
+      "B": "Correta. Um litro pesa 1.250 g e 0,08 × 1.250 g = 100 g de soluto.",
+      "C": "Essa estimativa corresponderia a 1 L de solução de massa 1.000 g.",
+      "D": "Esse número mede a massa de solução por litro, sem aplicar a fração de soluto.",
+      "E": "O cálculo usa o equivalente a 100 mL de solução, perdendo um fator 10."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.43, H17"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Uma solução com 9 g de soluto em 300 mL tem ___ g/L e contém ___ g em uma porção de 100 mL.",
+     "opcoes": [
+      "3",
+      "30",
+      "9",
+      "27"
+     ],
+     "respostas": [
+      "30",
+      "3"
+     ],
+     "explicacao": "O litro tem 30 g e 100 mL correspondem a um décimo de litro.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.43"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Na diluição simples, a quantidade de ___ fica constante e o volume final de ___ aumenta.",
+     "opcoes": [
+      "solução",
+      "soluto",
+      "íons removidos",
+      "precipitado"
+     ],
+     "respostas": [
+      "soluto",
+      "solução"
+     ],
+     "explicacao": "Adicionar solvente redistribui o soluto pelo volume maior sem remover esse componente.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.43"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o cálculo ao misturar soluções de um mesmo soluto.",
+     "itens": [
+      "Identificar a concentração e o volume de cada porção",
+      "Calcular a quantidade de soluto de cada porção",
+      "Somar as quantidades e identificar o volume final",
+      "Dividir a quantidade total de soluto pelo volume final"
+     ],
+     "explicacao": "Somar a contribuição de cada porção permite calcular a concentração e conferir a unidade."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "g/L",
+       "Massa de soluto por volume de solução"
+      ],
+      [
+       "mol/L",
+       "Quantidade de matéria por volume de solução"
+      ],
+      [
+       "Densidade",
+       "Massa total por volume total"
+      ],
+      [
+       "Diluição",
+       "Adição de solvente com conservação de soluto"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

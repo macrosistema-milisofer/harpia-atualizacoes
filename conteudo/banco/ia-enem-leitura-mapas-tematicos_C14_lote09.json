@@ -1,0 +1,257 @@
+{
+ "assunto": "ENEM 2026 — Ciências Humanas — Leitura de mapas e interpretação da distribuição espacial",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23",
+ "origem": "2026-11-23_banco-enem-leitura-mapas-tematicos_C14_lote09_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "enem-leitura-mapas-tematicos-c14",
+   "titulo": "Leitura de mapas e interpretação da distribuição espacial",
+   "microconteudo": "RAIO-X DA PROVA: Triagem dirigida nos cadernos azuis regulares do Inep de 2021 a 2025 confirmou 3 de 225 itens de Ciências Humanas (1,33% como mínimo observado). Os itens confirmados no recorte trabalham escalas, distribuição de recursos e leitura conjunta de mapa temático e texto sobre interesses territoriais. A interpretação exige situar legenda, unidade e objetivo da representação.\n\nO QUE A BANCA COBRA:\nOs cadernos colocam mapas ao lado de textos e perguntas sobre recursos, fluxos e relações de poder. Um item pode pedir que o estudante reconheça o fenômeno mostrado por uma cor, calcule uma distância por uma escala ou explique como determinada distribuição espacial sustenta uma leitura do território. O mesmo fundo pode receber camadas de relevo, limites administrativos, rotas ou indicadores populacionais. A primeira tarefa é localizar na legenda a camada que responde ao comando. Depois, confira a unidade e a escala da inferência.\n\nENTENDA:\nUm mapa físico privilegia o relevo, a hidrografia e outros aspectos naturais da superfície. Um mapa político destaca fronteiras, divisões administrativas e sedes. Um mapa temático destaca um fenômeno específico, como densidade demográfica, porcentagem de residências ligadas à rede de água ou fluxo de embarcações. As categorias podem coexistir numa mesma folha. Um mapa de cobertura vegetal pode mostrar limites municipais para orientar a leitura. Se a cor representa vegetação e as linhas representam limites, a interpretação da cor depende da legenda temática, enquanto a linha delimita o território usado como referência.\n\nLeia título, recorte espacial, data e fonte. Depois, pergunte o que cada símbolo mede. Um mapa intitulado “Estudantes por unidade escolar” pode usar círculos proporcionais para números absolutos. Um mapa de “Proporção de estudantes que usam transporte público” pode preencher cada bairro conforme uma faixa percentual. Nessa segunda representação, uma mancha escura informa proporção conforme a escala de cores. O número de estudantes depende também do total de matrículas. Imagine que a área Norte tenha 200 estudantes e 60% usem ônibus. Na área Sul, são 600 estudantes e 40% usam ônibus. A área Norte tem proporção maior, mas a Sul tem 240 usuários, o dobro dos 120 do Norte. A leitura correta identifica primeiro se a legenda informa taxa, total ou classe.\n\nMapas coropléticos associam uma cor ou tom a uma área delimitada. Uma faixa de 20% a menos de 40% descreve um intervalo, com muitos valores possíveis. Dois municípios da mesma faixa não têm necessariamente o mesmo percentual. Além disso, uma representação municipal não informa a distribuição dentro de cada município. Uma cidade pode aparecer na faixa mais alta e concentrar o fenômeno em poucos bairros. Uma área branca pode significar “sem dados”, ausência do fenômeno, valor zero ou categoria fora do recorte. Use a legenda. Diferenças na definição das classes também podem alterar a aparência de mapas que usam a mesma base de dados.\n\nSímbolos pontuais localizam ocorrências. Um triângulo pode representar um porto e um quadrado, uma unidade de saúde. Quando o tamanho de um círculo é proporcional à quantidade, observe os exemplos da legenda para entender a magnitude. Linhas podem representar trechos de estrada, limites ou cursos d’água. Setas de fluxo exigem conferir sentido e espessura, caso a legenda use essa variável para indicar intensidade. Uma rota indicada como provável não tem o mesmo significado de uma rota comprovada. Uma linha grossa representa a quantidade ou categoria especificada pela legenda e não a largura física da via, salvo indicação expressa.\n\nPara ler distâncias, converta unidades antes de dividir. Em uma escala numérica de 1:250.000, 1 cm no mapa corresponde a 250.000 cm no terreno, ou 2,5 km. Uma linha reta medindo 4 cm no papel representa 10 km. Se a pergunta pede a distância percorrida em uma estrada sinuosa, medir só os extremos dá uma aproximação em linha reta, que pode ser menor que o trajeto real. Numa cópia redimensionada, a escala gráfica impressa junto com o mapa acompanha o redimensionamento, ao passo que a expressão numérica original deixa de representar a nova proporção. Em um mapa interativo, procure o valor da escala na visualização atual.\n\nComparar mapas acrescenta outro cuidado. Imagine uma figura com queimadas de 2024 por quadrícula e outra com vegetação remanescente de 2025 por município. Sobrepor visualmente os mapas pode sugerir áreas de interesse. Para estimar uma relação mais forte, é preciso considerar a diferença de datas e unidades espaciais. Também é necessário separar coincidência de causalidade. Se uma área de floresta coincide com maior densidade de nascentes, o mapa aponta uma associação espacial. Para concluir que uma mudança na vegetação causou perda de nascentes, seria necessário examinar o tempo, o relevo, o clima e outros fatores. Distinga a leitura do padrão e a justificativa de sua origem.\n\nDOUTRINA:\nO IBGE reúne mapas físicos, político-administrativos e temáticos no Atlas Geográfico Escolar, na edição digital institucional. Seu acervo permite observar como a seleção de símbolos, escalas e indicadores muda com o fenômeno representado. A interpretação cartográfica combina a leitura técnica da legenda com a compreensão de quem selecionou o recorte e para que o produziu. Assim, um mapa de serviços concentra informações diferentes das que interessam a um mapa de recursos geológicos.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nO objeto 6.54 da Matriz de Referência inclui leitura de mapas temáticos, físicos e políticos. A habilidade H6 mobiliza a interpretação de representações cartográficas. Em um mapa de prova, a legenda e suas unidades governam o significado dos elementos gráficos.\n\nPEGADINHAS:\n1. Cor escura pode indicar taxa alta, sem implicar o maior total absoluto.\n2. Uma classe indica intervalo. Sua cor não identifica o valor exato.\n3. Sem dados e zero são categorias diferentes quando a legenda os distingue.\n4. Distância em linha reta e distância pela rota respondem a perguntas distintas.\n5. Coincidência espacial pode motivar uma hipótese, mas exige outras evidências para sustentar causalidade.\n\nESQUEMA:\nTítulo e data → qual fenômeno, recorte e período.\nLegenda → símbolo, quantidade, unidade e classe.\nEscala → proporção e distância que se pode comparar.\nDistribuição → concentração, dispersão, direção e limites.\nInferência → o que o mapa sustenta e que dados adicionais seriam necessários.\n\nLIGAÇÕES:\nProjeções cartográficas ajudam a avaliar distorções das formas e áreas. Recursos naturais explicam por que certas distribuições geológicas ou hídricas são relevantes para interpretar mapas temáticos.",
+   "flashcards": [
+    {
+     "frente": "O que distingue um mapa temático de um político-administrativo?",
+     "verso": "O temático destaca um fenômeno. O político-administrativo destaca divisões e centros de governo.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências Humanas 6.54"
+    },
+    {
+     "frente": "O que uma classe de cor em um coroplético informa?",
+     "verso": "Um intervalo ou uma categoria definida na legenda para aquela unidade territorial.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências Humanas 6.54"
+    },
+    {
+     "frente": "Maior taxa implica maior número de ocorrências?",
+     "verso": "Depende do denominador. Uma população menor pode ter taxa alta e menor total.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências Humanas 6.54"
+    },
+    {
+     "frente": "Como distinguir valor zero e ausência de dado?",
+     "verso": "Leia os códigos da legenda. A ausência de medição não equivale a uma medição nula.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências Humanas 6.54"
+    },
+    {
+     "frente": "Na escala 1:200.000, o que representa 1 cm?",
+     "verso": "Duzentos mil centímetros, ou dois quilômetros no terreno.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências Humanas 6.54"
+    },
+    {
+     "frente": "Que cuidado tomar ao sobrepor mapas de dois anos?",
+     "verso": "Conferir datas, unidades espaciais, variáveis e limites das classes antes de interpretar as diferenças.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências Humanas 6.54"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-leitura-mapas-tematicos-c14-q01",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "habilidade": "H6",
+     "texto_base": "Em abril, Janete lê um mapa onde bairros entre 30% e menos de 50% de cobertura recebem a mesma cor. Dois bairros estão nessa classe.",
+     "enunciado": "Os bairros têm necessariamente a mesma cobertura.",
+     "gabarito": "E",
+     "comentario": "A classe agrupa vários valores. Para comparar percentuais exatos seria preciso consultar a tabela de dados. (Matriz de Referência ENEM 2026, Ciências Humanas 6.54, H6.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências Humanas 6.54, H6"
+    },
+    {
+     "id": "enem-leitura-mapas-tematicos-c14-q02",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "habilidade": "H6",
+     "texto_base": "Em fevereiro, Téo mede 3 cm em linha reta entre duas vilas num mapa na escala 1:400.000.",
+     "enunciado": "Os 3 cm representam 12 km em linha reta.",
+     "gabarito": "C",
+     "comentario": "Cada centímetro representa 400.000 cm no terreno, ou 4 km. Multiplicar por três dá 12 km. (Matriz de Referência ENEM 2026, Ciências Humanas 6.54, H6.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências Humanas 6.54, H6"
+    },
+    {
+     "id": "enem-leitura-mapas-tematicos-c14-q03",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "habilidade": "H6",
+     "texto_base": "Em junho, a secretaria publica uma mancha mais escura para o distrito onde 50% das 1.200 residências têm cisterna. Em outro distrito, são 40% das 2.000 residências.",
+     "enunciado": "O segundo distrito tem mais residências com cisterna embora apareça na classe de menor percentual.",
+     "gabarito": "C",
+     "comentario": "Os percentuais correspondem a 600 e 800 residências. O denominador maior altera o total absoluto. (Matriz de Referência ENEM 2026, Ciências Humanas 6.54, H6.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências Humanas 6.54, H6"
+    },
+    {
+     "id": "enem-leitura-mapas-tematicos-c14-q04",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "habilidade": "H6",
+     "texto_base": "Durante uma reunião em julho, Ângela compara mapas de 2023 e 2025. Ambos usam tons de azul, mas a classe mais escura começa em 30 ocorrências num mapa e em 50 no outro.",
+     "enunciado": "A alteração da cor de um município basta para identificar um aumento real de ocorrências.",
+     "gabarito": "E",
+     "comentario": "O limite das classes mudou. A mudança de cor pode decorrer da classificação, sendo necessário comparar os valores ou reclassificar a mesma unidade. (Matriz de Referência ENEM 2026, Ciências Humanas 6.54, H6.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências Humanas 6.54, H6"
+    },
+    {
+     "id": "enem-leitura-mapas-tematicos-c14-q05",
+     "tipo": "me",
+     "dificuldade": "media",
+     "habilidade": "H6",
+     "texto_base": "Em maio, Tainá apresenta um mapa com linhas cinzas de municípios, círculos para sedes urbanas e cores para classes de vegetação. O município Sul tem áreas verdes e amarelas idênticas às de outras regiões.",
+     "enunciado": "Qual elemento informa a distribuição de tipos de vegetação?",
+     "alternativas": {
+      "A": "As linhas cinzas que identificam os limites dos municípios.",
+      "B": "A localização dos círculos associados às sedes.",
+      "C": "As manchas coloridas interpretadas pela legenda temática.",
+      "D": "O nome dos municípios em que os círculos aparecem.",
+      "E": "O tamanho dos municípios indicado pela área delimitada em cinza."
+     },
+     "gabarito": "C",
+     "comentario": "A) As linhas delimitam unidades administrativas e não classificam a vegetação.\nB) Os círculos localizam núcleos urbanos, uma camada diferente do tema vegetal.\nC) Correta. As cores representam as classes de vegetação e podem atravessar limites administrativos.\nD) Os nomes ajudam na localização e não definem a classe vegetal.\nE) A dimensão da unidade territorial não esclarece qual cobertura está representada.\n(Matriz de Referência ENEM 2026, Ciências Humanas 6.54, H6.)",
+     "comentarios_por_alternativa": {
+      "A": "As linhas delimitam unidades administrativas e não classificam a vegetação.",
+      "B": "Os círculos localizam núcleos urbanos, uma camada diferente do tema vegetal.",
+      "C": "Correta. As cores representam as classes de vegetação e podem atravessar limites administrativos.",
+      "D": "Os nomes ajudam na localização e não definem a classe vegetal.",
+      "E": "A dimensão da unidade territorial não esclarece qual cobertura está representada."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências Humanas 6.54, H6"
+    },
+    {
+     "id": "enem-leitura-mapas-tematicos-c14-q06",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "habilidade": "H6",
+     "texto_base": "Durante a revisão de um mapa, Luiz mede 4 cm entre dois centros à escala 1:500.000, em linha reta. O documento ampliado mantém a barra que representava 10 km em 2 cm. Na cópia, a barra mede 3 cm.",
+     "enunciado": "Qual procedimento preserva a leitura correta na cópia?",
+     "alternativas": {
+      "A": "Usar 1:500.000 na cópia e multiplicar o novo comprimento por 5 km/cm.",
+      "B": "Considerar que a distância real caiu para dois terços.",
+      "C": "Ler 3 cm como 15 km por aplicar o valor antigo de 5 km por centímetro.",
+      "D": "Usar a barra ampliada. A distância passará a medir 6 cm no papel e continuará representando 20 km.",
+      "E": "Somar a ampliação da barra aos 20 km para obter 21 km no terreno."
+     },
+     "gabarito": "D",
+     "comentario": "A) A ampliação modifica a proporção numérica entre papel e terreno.\nB) O redimensionamento do desenho não altera a distância no terreno.\nC) Na cópia, a barra de 3 cm continua correspondendo aos 10 km impressos na legenda.\nD) Correta. A barra e o segmento aumentam pelo mesmo fator de 1,5.\nE) O aumento em centímetros no papel é uma transformação gráfica, sem efeito aditivo no terreno.\n(Matriz de Referência ENEM 2026, Ciências Humanas 6.54, H6.)",
+     "comentarios_por_alternativa": {
+      "A": "A ampliação modifica a proporção numérica entre papel e terreno.",
+      "B": "O redimensionamento do desenho não altera a distância no terreno.",
+      "C": "Na cópia, a barra de 3 cm continua correspondendo aos 10 km impressos na legenda.",
+      "D": "Correta. A barra e o segmento aumentam pelo mesmo fator de 1,5.",
+      "E": "O aumento em centímetros no papel é uma transformação gráfica, sem efeito aditivo no terreno."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências Humanas 6.54, H6"
+    },
+    {
+     "id": "enem-leitura-mapas-tematicos-c14-q07",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "habilidade": "H6",
+     "texto_base": "Em 2025, uma equipe usa um mapa de acidentes por 10.000 habitantes e outro com círculos proporcionais ao número de acidentes. O bairro Leste tem o círculo maior, mas pertence a uma classe de taxa inferior à do bairro Oeste.",
+     "enunciado": "Qual interpretação explica a diferença sem contradizer os mapas?",
+     "alternativas": {
+      "A": "O bairro Leste teve menos acidentes e menor taxa, pois sua cor é menos intensa.",
+      "B": "O bairro Leste pode ter mais ocorrências e população suficientemente maior para obter uma taxa menor.",
+      "C": "O bairro Oeste tem necessariamente maior população porque apresenta taxa mais alta.",
+      "D": "Os dois mapas precisam apresentar sempre a mesma ordenação para serem válidos.",
+      "E": "A cor da taxa prova que o bairro Leste tem o maior risco em todas as ruas."
+     },
+     "gabarito": "B",
+     "comentario": "A) O círculo maior indica mais acidentes em termos absolutos.\nB) Correta. A taxa relaciona as ocorrências com a população que serve de base.\nC) A taxa pode ser alta em uma unidade pequena. Ela não permite ordenar populações sem outros dados.\nD) Total e taxa respondem a perguntas diferentes e podem ordenar os bairros de modos diferentes.\nE) A classe indicando taxa menor contradiz a primeira parte. Além disso, o dado agregado não descreve cada rua.\n(Matriz de Referência ENEM 2026, Ciências Humanas 6.54, H6.)",
+     "comentarios_por_alternativa": {
+      "A": "O círculo maior indica mais acidentes em termos absolutos.",
+      "B": "Correta. A taxa relaciona as ocorrências com a população que serve de base.",
+      "C": "A taxa pode ser alta em uma unidade pequena. Ela não permite ordenar populações sem outros dados.",
+      "D": "Total e taxa respondem a perguntas diferentes e podem ordenar os bairros de modos diferentes.",
+      "E": "A classe indicando taxa menor contradiz a primeira parte. Além disso, o dado agregado não descreve cada rua."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências Humanas 6.54, H6"
+    },
+    {
+     "id": "enem-leitura-mapas-tematicos-c14-q08",
+     "tipo": "me",
+     "dificuldade": "media",
+     "habilidade": "H6",
+     "texto_base": "O mapa de novembro mostra tempos de deslocamento até a escola. Na legenda, cinza indica que o questionário não foi aplicado. Zero a 15 min é verde-claro. O bairro de Rafael está cinza.",
+     "enunciado": "Qual afirmação se apoia na representação?",
+     "alternativas": {
+      "A": "O tempo de viagem do bairro é exatamente zero.",
+      "B": "O bairro tem o maior tempo de deslocamento da região.",
+      "C": "O bairro é o único que não possui escola.",
+      "D": "O tempo de deslocamento é inferior a 15 min porque áreas claras costumam indicar valores menores.",
+      "E": "A representação não informa o tempo do bairro porque o questionário não foi aplicado ali."
+     },
+     "gabarito": "E",
+     "comentario": "A) A cor cinza indica falta de levantamento, e zero está na faixa verde-clara.\nB) Sem dado coletado, não há como ordenar o bairro nessa variável.\nC) A legenda informa falta de coleta, sem medir a existência de escolas.\nD) O código de cinza foi definido na legenda para outra finalidade.\nE) Correta. Cinza é uma categoria de indisponibilidade do dado.\n(Matriz de Referência ENEM 2026, Ciências Humanas 6.54, H6.)",
+     "comentarios_por_alternativa": {
+      "A": "A cor cinza indica falta de levantamento, e zero está na faixa verde-clara.",
+      "B": "Sem dado coletado, não há como ordenar o bairro nessa variável.",
+      "C": "A legenda informa falta de coleta, sem medir a existência de escolas.",
+      "D": "O código de cinza foi definido na legenda para outra finalidade.",
+      "E": "Correta. Cinza é uma categoria de indisponibilidade do dado."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências Humanas 6.54, H6"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "A ___ indica o significado dos símbolos. A ___ relaciona medidas no mapa e no terreno.",
+     "opcoes": [
+      "legenda",
+      "escala",
+      "fonte",
+      "moldura"
+     ],
+     "respostas": [
+      "legenda",
+      "escala"
+     ],
+     "explicacao": "As duas informações resolvem perguntas diferentes na leitura cartográfica.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências Humanas 6.54"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Ao representar acidentes por 10.000 habitantes, o mapa mostra uma ___. Ao mostrar o número de acidentes, informa um ___.",
+     "opcoes": [
+      "taxa",
+      "total",
+      "horário",
+      "sentido"
+     ],
+     "respostas": [
+      "taxa",
+      "total"
+     ],
+     "explicacao": "A taxa usa um denominador populacional e o total é uma contagem direta.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências Humanas 6.54"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de um mapa temático apresentado em uma questão.",
+     "itens": [
+      "Identificar o assunto, a data e o recorte do título",
+      "Interpretar os códigos e unidades da legenda",
+      "Localizar o padrão espacial pertinente ao comando",
+      "Formular uma inferência compatível com a escala dos dados"
+     ],
+     "explicacao": "A leitura da legenda e do recorte permite interpretar padrões sem extrapolar a informação."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Mapa físico",
+       "Realça relevo, drenagem ou aspectos naturais"
+      ],
+      [
+       "Mapa político",
+       "Realça limites e divisões administrativas"
+      ],
+      [
+       "Mapa temático",
+       "Mostra a distribuição de um fenômeno"
+      ],
+      [
+       "Escala gráfica",
+       "Barra graduada com equivalência de distância"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,234 @@
+{
+ "assunto": "Fundos de Investimentos — Liquidez, agências de risco e comitês dos fundos",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 — fontes oficiais conferidas",
+ "origem": "2026-11-23_banco-cginv3-liquidez-rating-comites-fundos_C14_lote07_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "cginv3-c14-liquidez-rating-comites-fundos",
+   "titulo": "Liquidez, agências de risco e comitês dos fundos",
+   "microconteudo": "RAIO-X DA PROVA: Sem provas públicas do CGINV III localizadas para contar ocorrências. Prioridade pelo peso do edital e pela apostila. O programa combina controle de liquidez, deveres relativos à agência de rating e atribuições dos órgãos consultivos do fundo.\n\nO QUE A BANCA COBRA:\nA questão pode oferecer três respostas aparentemente prudentes: confiar no rating, aguardar a manifestação do comitê do fundo ou reservar liquidez com base nos resgates médios. Para avaliar cada uma, identifique quem é responsável pelo risco, que eventos exigem comunicação imediata e se o caixa liquida tanto os resgates como as demais obrigações da classe.\n\nENTENDA:\nNas classes abertas, administrador e gestor adotam conjuntamente, cada um na sua esfera, políticas, procedimentos e controles para que os ativos possam financiar os resgates no prazo regulamentar e todas as demais obrigações da classe. O art. 92 da Parte Geral da Resolução CVM 175 exige observar a liquidez de cada tipo de ativo, margens esperadas e outras garantias, os resgates ordinários estimados por critérios consistentes e verificáveis e a dispersão da propriedade das cotas. Quando poucos cotistas concentram a posição, saídas individualmente grandes podem desafiar uma estimativa feita só pela média histórica.\n\nConsidere uma classe aberta com R$ 26 milhões em ativos, dos quais R$ 5 milhões se tornam caixa dentro da janela de pagamento dos pedidos. O resgate ordinário projetado é de R$ 3 milhões, e o cenário de estresse acrescenta chamadas de margem de R$ 2,7 milhões. Para as duas saídas somadas faltam R$ 700 mil na janela. A proporção de ativos líquidos sobre o patrimônio informa a estrutura da classe, mas o teste operacional deve comparar entradas e saídas no tempo. Para o RPPS de Bela Restinga, que usa essa classe como reserva para a folha de benefícios, faz diferença saber se o prazo que figura no regulamento permanece economicamente executável sob cenário adverso. O comitê do ente deve também projetar seu próprio caixa.\n\nSe a classe compra cotas de outros fundos, a liquidez do veículo investido entra na análise, considerando valor da aplicação, prazo e regras de pagamento de resgate e sistemas e ferramentas de gestão de liquidez. Uma posição de R$ 8 milhões em classe investida que resgata em 45 dias pode continuar sem servir a uma saída que exige caixa em cinco dias. O art. 92, § 4º, admite arranjo formal ou operacional entre os prestadores essenciais. O arranjo organiza a execução dos controles e preserva a responsabilidade de cada um. Pelo art. 93, o gestor conduz testes de estresse periódicos envolvendo movimentações do passivo, liquidez dos ativos, obrigações e cotização. A periodicidade deve refletir a classe, a variação histórica dos cenários escolhidos e o mercado vigente. Se o regulamento previr barreiras a resgates, o gestor segue seus parâmetros e tratamento equitativo. A instauração e a remoção são informadas imediatamente ao administrador para a divulgação de fato relevante, conforme art. 41.\n\nA contratação de agência de classificação de risco de crédito aciona o art. 95. O contrato precisa prever que a agência publique de imediato em sua página e comunique à CVM, ao gestor e ao administrador qualquer alteração da classificação ou rescisão contratual. O administrador divulga imediatamente fato relevante ao mercado nessas hipóteses. A agência recebe, no mínimo, as informações dadas aos cotistas. Para rescindir, a regra prevê carência de 180 dias e relatório da mesma agência ao final. Se a rescisão decorrer de deliberação da assembleia de cotistas, a carência é de 90 dias. O rating mede determinado recorte de risco de crédito e integra a análise. Em cenário com resgates concentrados e ativos de difícil negociação, o diagnóstico de liquidez mantém sua função mesmo se o rating permanecer estável.\n\nConselhos consultivos, comitês técnicos ou de investimentos do fundo podem nascer de iniciativa dos cotistas ou de prestador essencial. O regulamento define atribuições, composição, convocação e deliberação. Os membros comunicam ao administrador situações efetivas ou potenciais de conflito, e este informa os cotistas. A existência do colegiado preserva a responsabilidade do gestor pelas operações da carteira. Em regra, o fundo não remunera diretamente esses conselhos e comitês. Há possibilidade de remuneração com parcela da taxa de administração ou gestão quando a iniciativa é de prestador essencial. A remuneração pode constituir encargo do fundo quando o comitê é constituído para fiscalizar ou supervisionar as atividades do prestador essencial, desde que o regulamento o preveja expressamente. Esses colegiados da estrutura do fundo têm funções distintas das do comitê de investimentos do RPPS cotista.\n\nDOUTRINA:\nCOMISSÃO DE VALORES MOBILIÁRIOS. Cadernos CVM 3: Fundos de Investimento. 3. ed. CVM, 2016, p. 14–17 e 38–40. A distinção econômica entre vender um ativo sem perda relevante e obter caixa para pagar a posição do cotista permite analisar liquidez de mercado e descasamento entre prazos. Para um investidor previdenciário, exposição a fundos de fundos torna necessário examinar o prazo na carteira subjacente. As responsabilidades e as ferramentas regulatórias atuais estão na Resolução CVM 175.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nSem precedente relevante. A disciplina resulta dos arts. 41 e 92–96 da Parte Geral, que vinculam os mecanismos de liquidez, os deveres de monitoramento e as exceções de remuneração aos pressupostos de cada dispositivo.\n\nPEGADINHAS:\n1. Colocar só resgates no teste e esquecer depósitos de margem ou outras garantias.\n2. Tratar possibilidade de investir em outro fundo como demonstração de liquidez compatível.\n3. Supor que relatório de rating substitui teste de estresse.\n4. Trocar a carência ordinária de rescisão pela carência após deliberação da assembleia.\n5. Entender que o comitê assume a responsabilidade regulatória do gestor.\n\nESQUEMA:\nLiquidez → prazos de resgate + demais obrigações → art. 92.\nCarteira de classes investidas → volume, prazos e controles → art. 92, § 3º.\nEstresse periódico → passivo, ativos, obrigações e cotização → art. 93.\nRating alterado ou rescisão → agência comunica → administrador divulga → art. 95.\nComitê → competência no regulamento e conflito reportado → art. 96.\n\nLIGAÇÕES:\nGestão de Risco 14.38, testes de estresse. Fundos 9.1, fatos relevantes e assembleia.",
+   "flashcards": [
+    {
+     "frente": "Quais obrigações entram ao lado de resgates no cálculo de liquidez?",
+     "verso": "As obrigações da classe, inclusive margens esperadas e outras garantias.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 92, § 1º"
+    },
+    {
+     "frente": "Que três pontos o gestor avalia na liquidez de classe investida?",
+     "verso": "Volume a investir, regras de pagamento de resgates e sistemas e ferramentas de gestão de liquidez da investida.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 92, § 3º"
+    },
+    {
+     "frente": "Como definir a periodicidade do estresse?",
+     "verso": "Pelas características da classe, variações históricas dos cenários e condições vigentes de mercado.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 93, caput e parágrafo único"
+    },
+    {
+     "frente": "Quem publica fato relevante se o rating mudar?",
+     "verso": "O administrador. A agência também divulga e comunica a CVM, o gestor e o administrador.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 95, I–III"
+    },
+    {
+     "frente": "Qual carência decorre da rescisão da agência por decisão da assembleia?",
+     "verso": "Noventa dias, com relatório ao fim pela mesma agência. A regra geral é de 180 dias.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 95, §§ 1º–2º"
+    },
+    {
+     "frente": "Em que hipótese a remuneração do comitê pode virar encargo?",
+     "verso": "Quando fiscaliza ou supervisiona prestador essencial e o regulamento prevê expressamente a remuneração.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 96, caput e §§ 1º, 4º–5º"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Para a liquidez da classe aberta, o grau de concentração dos cotistas e os depósitos de margem esperados são insumos mínimos da política de controle.",
+     "gabarito": "C",
+     "comentario": "Os incisos II e IV apontam obrigações, inclusive margem, e o grau de dispersão das cotas. (Resolução CVM 175/2022, Parte Geral, art. 92, § 1º)",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 92, § 1º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Uma periodicidade trimestral de estresse é suficiente em todos os fundos, mesmo diante de mudança abrupta no mercado e diferenças de liquidez entre classes.",
+     "gabarito": "E",
+     "comentario": "O calendário se ajusta às características da classe, aos cenários históricos e às condições de mercado. (Resolução CVM 175/2022, Parte Geral, art. 93, caput e parágrafo único)",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 93, caput e parágrafo único"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O contrato com a agência de rating deve prever divulgação imediata de mudança da classificação pela agência, e o administrador publica fato relevante ao mercado.",
+     "gabarito": "C",
+     "comentario": "As etapas da agência e do administrador coexistem, e a comunicação regulatória não fica só a cargo de um deles. (Resolução CVM 175/2022, Parte Geral, art. 95, I–III)",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 95, I–III"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "A criação de comitê técnico permite atribuir a ele a responsabilidade regulatória do gestor pelas operações da carteira, se houver previsão no regulamento.",
+     "gabarito": "E",
+     "comentario": "A responsabilidade do gestor permanece. O regulamento disciplina o colegiado dentro dessa regra. (Resolução CVM 175/2022, Parte Geral, art. 96, §§ 2º–3º)",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 96, §§ 2º–3º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 19/11/2026, Simone testa a classe aberta que recebe recursos do RPPS de Caminho Verde. R$ 7 milhões se realizam de forma sustentável na janela de cinco dias. O cenário projeta R$ 5,8 milhões de resgates e R$ 2,1 milhões de margens. Qual resultado cabe aos prestadores?",
+     "alternativas": {
+      "A": "Superávit de R$ 1,2 milhão, pois margem pertence apenas ao cálculo de volatilidade.",
+      "B": "Déficit de R$ 900 mil. Administrador e gestor, cada qual em sua esfera, precisam considerar a saída total na política.",
+      "C": "Déficit de R$ 2,1 milhões porque todos os resgates já foram cobertos.",
+      "D": "Liquidez suficiente sempre que o PL for maior que R$ 7,9 milhões.",
+      "E": "O administrador deve transferir toda a responsabilidade de stress para o custodiante."
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). Margens são obrigações de caixa que entram no controle de liquidez. B (correta). Somam-se R$ 7,9 milhões de saídas para confrontar com R$ 7 milhões disponíveis. C (incorreta). É preciso descontar também a folga de R$ 1,2 milhão deixada após resgates. D (incorreta). O teste usa ativos realizáveis no período, não o valor contábil total. E (incorreta). O art. 93 atribui o teste ao gestor. O art. 92 mantém a atuação conjunta dos essenciais. (Resolução CVM 175/2022, Parte Geral, arts. 92–93)",
+     "comentarios_por_alternativa": {
+      "A": "Margens são obrigações de caixa que entram no controle de liquidez.",
+      "B": "Somam-se R$ 7,9 milhões de saídas para confrontar com R$ 7 milhões disponíveis.",
+      "C": "É preciso descontar também a folga de R$ 1,2 milhão deixada após resgates.",
+      "D": "O teste usa ativos realizáveis no período, não o valor contábil total.",
+      "E": "O art. 93 atribui o teste ao gestor. O art. 92 mantém a atuação conjunta dos essenciais."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, arts. 92–93"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 4/11/2026, Renato avalia classe com resgate em dez dias que quer aplicar R$ 9 milhões em outra classe, com prazo de resgate de 40 dias. Qual quadro deve constar da diligência sobre esse investimento?",
+     "alternativas": {
+      "A": "Apenas o último prazo publicado pela classe investidora.",
+      "B": "Somente o rating do fundo investido.",
+      "C": "Exclusivamente a série mensal de rentabilidade da classe investida.",
+      "D": "Volume pretendido, regras de pagamento do resgate da investida e sistemas e ferramentas de liquidez.",
+      "E": "Somente o montante de reserva anual do RPPS."
+     },
+     "gabarito": "D",
+     "comentario": "A (incorreta). A análise exige examinar o veículo investido. B (incorreta). Rating não traz o conjunto de elementos mínimos de liquidez. C (incorreta). A série não substitui os parâmetros normativos de resgate e controle. D (correta). O § 3º do art. 92 enumera esses três elementos mínimos. E (incorreta). O caixa do RPPS tem camada própria. A questão trata da classe investidora. (Resolução CVM 175/2022, Parte Geral, art. 92, § 3º)",
+     "comentarios_por_alternativa": {
+      "A": "A análise exige examinar o veículo investido.",
+      "B": "Rating não traz o conjunto de elementos mínimos de liquidez.",
+      "C": "A série não substitui os parâmetros normativos de resgate e controle.",
+      "D": "O § 3º do art. 92 enumera esses três elementos mínimos.",
+      "E": "O caixa do RPPS tem camada própria. A questão trata da classe investidora."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 92, § 3º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 22/10/2026, Cláudia acompanha a decisão da assembleia de rescindir o contrato com a agência de risco da classe que tem R$ 3 milhões do RPPS de Trilha Nova. Qual providência contratual cabe?",
+     "alternativas": {
+      "A": "Carência de 90 dias e relatório da mesma agência ao final.",
+      "B": "Carência de 180 dias, ainda que a assembleia tenha deliberado.",
+      "C": "Fim imediato e troca de agência no mesmo dia.",
+      "D": "Carência de 90 dias e relatório só da empresa substituta.",
+      "E": "Carência de 30 dias na presença de investidor previdenciário."
+     },
+     "gabarito": "A",
+     "comentario": "A (correta). A deliberação assemblear reduz a carência ordinária, sem eliminar o relatório. B (incorreta). A hipótese descrita atrai a redução do § 2º. C (incorreta). A deliberação não dispensa carência. D (incorreta). O relatório de encerramento é elaborado pela agência do contrato rescindido. E (incorreta). A norma não distingue carência por identidade do cotista. (Resolução CVM 175/2022, Parte Geral, art. 95, §§ 1º–2º)",
+     "comentarios_por_alternativa": {
+      "A": "A deliberação assemblear reduz a carência ordinária, sem eliminar o relatório.",
+      "B": "A hipótese descrita atrai a redução do § 2º.",
+      "C": "A deliberação não dispensa carência.",
+      "D": "O relatório de encerramento é elaborado pela agência do contrato rescindido.",
+      "E": "A norma não distingue carência por identidade do cotista."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 95, §§ 1º–2º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 5/11/2026, Teresinha avalia custo de R$ 85 mil anuais de comitê constituído para fiscalizar atividades de prestador essencial. O regulamento prevê expressamente a remuneração como encargo. Que conclusão cabe?",
+     "alternativas": {
+      "A": "A remuneração é vedada em qualquer circunstância.",
+      "B": "A remuneração precisa sair só da taxa de saída dos cotistas.",
+      "C": "A possibilidade elimina a responsabilidade do prestador supervisionado.",
+      "D": "A previsão regulamentar é dispensável porque a finalidade é de supervisão.",
+      "E": "A remuneração pode constituir encargo do fundo nas condições descritas."
+     },
+     "gabarito": "E",
+     "comentario": "A (incorreta). O § 5º constitui exceção à regra geral. B (incorreta). A regra específica admite encargo quando atendidos finalidade e previsão. C (incorreta). A formação do colegiado preserva os deveres regulatórios de cada prestador. D (incorreta). Finalidade e previsão expressa são exigidas conjuntamente. E (correta). A fiscalização do prestador essencial e a previsão expressa satisfazem o § 5º. (Resolução CVM 175/2022, Parte Geral, art. 96, caput e §§ 1º, 4º–5º)",
+     "comentarios_por_alternativa": {
+      "A": "O § 5º constitui exceção à regra geral.",
+      "B": "A regra específica admite encargo quando atendidos finalidade e previsão.",
+      "C": "A formação do colegiado preserva os deveres regulatórios de cada prestador.",
+      "D": "Finalidade e previsão expressa são exigidas conjuntamente.",
+      "E": "A fiscalização do prestador essencial e a previsão expressa satisfazem o § 5º."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 96, caput e §§ 1º, 4º–5º"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O gestor examina a classe investida pelo volume, pelos prazos de ___ e pelas ferramentas de ___.",
+     "opcoes": [
+      "resgate",
+      "liquidez",
+      "emissão",
+      "rating"
+     ],
+     "respostas": [
+      "resgate",
+      "liquidez"
+     ],
+     "explicacao": "Esses elementos permitem avaliar o caixa disponível dentro da janela da investidora.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 92, § 3º"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Rescisão ordinária da agência exige carência de ___ dias. Por deliberação assemblear, exige ___ dias.",
+     "opcoes": [
+      "180",
+      "90",
+      "30",
+      "120"
+     ],
+     "respostas": [
+      "180",
+      "90"
+     ],
+     "explicacao": "O relatório final continua a cargo da mesma agência.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 95, §§ 1º–2º"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize o teste de liquidez da classe.",
+     "itens": [
+      "Identificar prazos regulamentares e obrigações",
+      "Projetar resgates, margens e demais saídas",
+      "Estimar liquidação dos ativos sob o mesmo cenário",
+      "Medir déficit por janela e documentar o controle"
+     ],
+     "explicacao": "O caixa se compara por horizonte de disponibilidade, inclusive em estresse.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, arts. 92–93"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Controle de liquidez",
+       "Resgates e demais obrigações"
+      ],
+      [
+       "Teste de estresse",
+       "Cenários, ativos, passivos e cotização"
+      ],
+      [
+       "Mudança de rating",
+       "Comunicação e divulgação imediatas"
+      ],
+      [
+       "Conflito de membro do comitê",
+       "Administrador informa os cotistas"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

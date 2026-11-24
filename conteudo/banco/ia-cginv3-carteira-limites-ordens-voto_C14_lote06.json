@@ -1,0 +1,232 @@
+{
+ "assunto": "Fundos de Investimentos — Carteira dos fundos, concentração, ordens e voto do gestor",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 — fontes oficiais conferidas",
+ "origem": "2026-11-23_banco-cginv3-carteira-limites-ordens-voto_C14_lote06_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "cginv3-c14-carteira-limites-ordens-voto",
+   "titulo": "Carteira dos fundos, concentração, ordens e voto do gestor",
+   "microconteudo": "RAIO-X DA PROVA: Sem provas públicas do CGINV III localizadas para estimar incidência. Prioridade pelo peso do edital e pela apostila. O recorte reúne execução de ordens, controles de enquadramento e exercício de direitos dos ativos pelo gestor.\n\nO QUE A BANCA COBRA:\nA resolução separa a escolha de ativos, o modo de executar uma ordem, a observância dos limites e o voto que acompanha determinados ativos da carteira. Ao resolver um caso, identifique se a decisão discutida ocorre na classe ou na carteira própria do RPPS, se o excesso veio de uma compra ou de um evento involuntário e quem deve agir em cada fase.\n\nENTENDA:\nO ponto inicial é a carteira da classe. O art. 109 da Parte Geral da Resolução CVM 175 exige que o patrimônio seja aplicado nos ativos previstos no regulamento, observadas as regras específicas da categoria. O gestor deve cruzar as duas fontes: uma regra geral pode permitir um ativo sobre o qual o mandato específico é mais estreito. O art. 110 impede o fundo de investir em cotas de classes que nele investem e veda que uma classe invista em cotas de outra classe do mesmo fundo. Assim se evitam circularidade e sobreposição de posições de valor cujo risco retorna à estrutura de origem.\n\nCompete ao gestor negociar os ativos e firmar, em nome da classe, os contratos e documentos relativos à negociação. O art. 87 exige que encaminhe cópia ao administrador nos cinco dias úteis subsequentes à assinatura. A separação entre execução e controle documental preserva o acesso do administrador às obrigações que incidem sobre a classe. Em mercados organizados, a ordem deve identificar precisamente o fundo e, quando houver, a classe. Há exceção operacional para o grupamento de ordens de várias classes sob gestão da mesma pessoa jurídica. O gestor deve ter critérios de rateio equitativos, preestabelecidos, formalizados e verificáveis e conservar a documentação às suas expensas. A regra evita que, com o preço de execução já conhecido, a parcela favorável seja destinada discricionariamente a uma classe preferida.\n\nOs limites de composição dizem quais tipos de posição podem integrar a carteira e em que condições. Os de concentração reduzem dependência de emissor, modalidade ou fator de risco, conforme as regras pertinentes. É possível ter vários ativos e, apesar disso, permanecer exposto a um mesmo fator econômico. O art. 89 põe no gestor o dever de observar limites regulatórios e regulamentares e avaliar o efeito da operação pretendida. No RPPS fictício de Vila das Garças, a equipe analisa uma classe com PL de R$ 40 milhões e limite regulamentar de 15% para determinado emissor. A exposição é de R$ 5,6 milhões, ou 14%. Se o gestor pretende trocar R$ 800 mil em um ativo de outro grupo por títulos desse emissor, o PL fica constante no exemplo e a concentração sobe a 16%. A margem antes da operação é de R$ 400 mil. O gestor deve excluir ou redimensionar a operação antes de executá-la. A verificação do RPPS sobre a admissibilidade da classe na sua própria política pertence a outra camada.\n\nO art. 90 trata do desenquadramento passivo que decorre de acontecimento alheio à vontade do gestor e provoca alteração imprevisível e significativa no patrimônio líquido ou nas condições gerais do mercado de valores mobiliários. Em queda abrupta do PL, uma dificuldade de vender posição pode elevar seu peso relativo mesmo sem compra. Se a exposição de R$ 5,6 milhões permanece e o PL cai de R$ 40 milhões para R$ 34 milhões, o peso passa a cerca de 16,47%. A aritmética evidencia o excesso e a origem do evento determina o tratamento. Preenchidos os requisitos, o gestor fica afastado das penalidades pelo descumprimento referido no artigo. Se o quadro perdurar 15 dias úteis consecutivos, ao final desse prazo encaminha explicações à CVM. O reenquadramento é comunicado assim que ocorrer.\n\nPara excesso além do prazo específico da categoria, o art. 91 permite à superintendência determinar ao administrador a convocação de assembleia para decidir entre incorporação a outra classe, cisão total para fundo com gestor de outro grupo ou liquidação, sem prejuízo das penalidades cabíveis. Em fundo de classe única, a assembleia geral pode também escolher transferência de administração, gestão ou ambas. Os quinze dias úteis do art. 90 são o prazo de comunicação da persistência do desenquadramento passivo. A possibilidade de convocação do art. 91 usa como referência o prazo de categoria.\n\nQuando um ativo da carteira atribui direito de voto, o gestor atua nos termos da política de voto da classe e adota as providências necessárias (art. 94). A aquisição de ações votantes pela classe pode, por exemplo, exigir comparecimento à assembleia de uma companhia investida. A intervenção do RPPS ocorre em outra posição: como cotista, ele vota quando convocado para deliberar sobre matéria da classe ou do fundo. As atas, os documentos da ordem e os registros de comunicação tornam auditável a cadeia que liga o mandato à decisão executada.\n\nDOUTRINA:\nCOMISSÃO DE VALORES MOBILIÁRIOS. Cadernos CVM 3: Fundos de Investimento. 3. ed. CVM, 2016, p. 12–16. Na gestão coletiva, o investimento de cada cotista passa por uma carteira executada sob política comum, cuja composição define a exposição econômica. A lição aplica essa lógica à conferência de ordens e de limites. As regras operacionais citadas são da Resolução CVM 175 consolidada, posterior à edição do caderno.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nSem precedente relevante. A Resolução CVM 200/2024 incluiu a subseção sobre ordens em mercados organizados; a redação consolidada do art. 88 disciplina a identificação e o rateio.\n\nPEGADINHAS:\n1. Agrupar ordens pressupõe rateio definido antes da execução.\n2. Qualificar o desenquadramento requer examinar sua causa e seus efeitos.\n3. Quinze dias úteis tratam do dever de explicar a persistência. O prazo da categoria informa outro rito.\n4. O gestor vota pelos ativos detidos pela classe conforme a política de voto.\n5. Manter-se abaixo do limite interno da classe não demonstra enquadramento do RPPS.\n\nESQUEMA:\nAtivo permitido → regulamento e categoria → arts. 109–110.\nOrdem identificada e rateio verificável → art. 88.\nEfeito da operação sobre concentração → art. 89.\nExcesso passivo por 15 dias úteis → justificativa à CVM → art. 90.\nVoto decorrente de ativo da classe → gestor e política de voto → art. 94.\n\nLIGAÇÕES:\nFundos 9.2, categorias de FIF e limites específicos de carteira. Legislação 7.1, limites aplicáveis aos investimentos do RPPS.",
+   "flashcards": [
+    {
+     "frente": "Pode uma classe comprar cotas de outra do mesmo fundo?",
+     "verso": "A Parte Geral veda essa aplicação.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 110"
+    },
+    {
+     "frente": "Que critérios permitem agrupar ordens de classes da mesma gestora?",
+     "verso": "Rateio equitativo, preestabelecido, formalizado e verificável, com documentação mantida às expensas da gestora.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 88, parágrafo único"
+    },
+    {
+     "frente": "Quando o administrador recebe cópia de documento assinado pelo gestor?",
+     "verso": "Nos cinco dias úteis seguintes à assinatura em nome da classe.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, arts. 86–87"
+    },
+    {
+     "frente": "Qual evento torna passivo um desenquadramento?",
+     "verso": "Fato alheio ao gestor com efeito imprevisível e significativo no PL ou nas condições gerais do mercado.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 90"
+    },
+    {
+     "frente": "Qual comunicação a persistência do excesso passivo por 15 dias úteis exige?",
+     "verso": "O gestor encaminha explicações à CVM. Quando reenquadrar, informa a CVM assim que ocorrer.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, arts. 90, §§ 1º–2º, e 91"
+    },
+    {
+     "frente": "Quem vota nas assembleias dos emissores dos ativos da carteira?",
+     "verso": "O gestor, conforme a política de voto da classe.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 94"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Ainda que ambas as carteiras admitam aplicação em cotas de fundos, uma classe não pode aplicar em cotas de outra classe do mesmo fundo.",
+     "gabarito": "C",
+     "comentario": "A vedação incide sobre classes do mesmo fundo e independe da compatibilidade genérica do ativo. (Resolução CVM 175/2022, Parte Geral, art. 110)",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 110"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "O gestor pode agrupar ordens e decidir o rateio depois de conhecer os preços, desde que arquive a justificativa para conferência futura.",
+     "gabarito": "E",
+     "comentario": "A verificabilidade da alocação exige critérios equitativos formalizados e preestabelecidos. (Resolução CVM 175/2022, Parte Geral, art. 88, parágrafo único)",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 88, parágrafo único"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O gestor que firma documento em nome da classe para negociar ativos deve encaminhar cópia ao administrador nos cinco dias úteis subsequentes à assinatura.",
+     "gabarito": "C",
+     "comentario": "A negociação cabe ao gestor e a cópia assegura o acesso do administrador à documentação da classe. (Resolução CVM 175/2022, Parte Geral, arts. 86–87)",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, arts. 86–87"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "O transcurso de 15 dias úteis de desenquadramento passivo já determina a liquidação da classe, independentemente do prazo fixado para sua categoria.",
+     "gabarito": "E",
+     "comentario": "O prazo dispara a explicação à CVM. O art. 91 se refere ao prazo específico da categoria e prevê alternativas submetidas a assembleia. (Resolução CVM 175/2022, Parte Geral, arts. 90, §§ 1º–2º, e 91)",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, arts. 90, §§ 1º–2º, e 91"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 5/10/2026, Miriam analisa uma classe em que o RPPS de Areal Alto investe. PL de R$ 30 milhões, exposição ao emissor de R$ 4,2 milhões e teto de 15%. O gestor quer realocar R$ 600 mil ao emissor, mantendo-se o PL. Qual leitura cabe?",
+     "alternativas": {
+      "A": "A realocação levaria a 16%, e a compra adicional cabível está limitada a R$ 300 mil nas condições dadas.",
+      "B": "A posição fica em 15% após os R$ 600 mil.",
+      "C": "A compra gera excesso passivo por ser realocação interna.",
+      "D": "A ausência de mudança no PL dispensa estimativa da concentração.",
+      "E": "O limite pode ser superado se o RPPS aprovar a aquisição das cotas da classe."
+     },
+     "gabarito": "A",
+     "comentario": "A (correta). O teto equivale a R$ 4,5 milhões. O plano excede a folga de 300 mil. B (incorreta). A posição de 4,8 milhões representa 16% dos 30 milhões. C (incorreta). A causa é uma operação decidida pelo gestor. D (incorreta). A concentração muda por crescimento do numerador. E (incorreta). A aprovação pelo investidor não modifica o mandato do gestor. (Resolução CVM 175/2022, Parte Geral, art. 89, caput e parágrafo único)",
+     "comentarios_por_alternativa": {
+      "A": "O teto equivale a R$ 4,5 milhões. O plano excede a folga de 300 mil.",
+      "B": "A posição de 4,8 milhões representa 16% dos 30 milhões.",
+      "C": "A causa é uma operação decidida pelo gestor.",
+      "D": "A concentração muda por crescimento do numerador.",
+      "E": "A aprovação pelo investidor não modifica o mandato do gestor."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 89, caput e parágrafo único"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 16/11/2026, Vinícius monitora a classe do RPPS de Bela Encosta. Exposição de R$ 6 milhões supera o limite de 20% após queda imprevisível e significativa do PL para R$ 25 milhões, por fato alheio à vontade do gestor. O excesso persiste por 15 dias úteis consecutivos. Qual conduta cabe?",
+     "alternativas": {
+      "A": "Quem explica à CVM é exclusivamente o RPPS, por deter cotas.",
+      "B": "Por ser passivo, só se comunica quando a carteira for reenquadrada.",
+      "C": "Encaminhar as explicações à CVM no fim do prazo e comunicar o reenquadramento assim que ocorrer.",
+      "D": "Encerrar automaticamente toda a classe.",
+      "E": "Tratar como infração ativa porque a exposição nominal supera R$ 5 milhões."
+     },
+     "gabarito": "C",
+     "comentario": "A (incorreta). O dever do art. 90 pertence ao gestor da classe. B (incorreta). A explicação da persistência e a informação do reenquadramento são deveres diferentes. C (correta). A exposição está em 24%, e os deveres decorrem dos §§ 1º e 2º. D (incorreta). A lei regulatória não determina encerramento automático por esse prazo. E (incorreta). O enquadramento passivo depende da origem e das condições descritas. (Resolução CVM 175/2022, Parte Geral, art. 90)",
+     "comentarios_por_alternativa": {
+      "A": "O dever do art. 90 pertence ao gestor da classe.",
+      "B": "A explicação da persistência e a informação do reenquadramento são deveres diferentes.",
+      "C": "A exposição está em 24%, e os deveres decorrem dos §§ 1º e 2º.",
+      "D": "A lei regulatória não determina encerramento automático por esse prazo.",
+      "E": "O enquadramento passivo depende da origem e das condições descritas."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 90"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 3/11/2026, Felipe, gestor das classes A e B, quer agrupar em bolsa uma ordem de R$ 900 mil por ambas. Uma delas recebe recursos do RPPS de Campo Alto. Como pode estruturar a execução?",
+     "alternativas": {
+      "A": "Definir o rateio depois da execução para favorecer a classe mais afetada.",
+      "B": "Usar critérios equitativos, preestabelecidos, formalizados e verificáveis e manter a documentação atualizada às suas expensas.",
+      "C": "Registrar só o CNPJ da gestora e eliminar a trilha por classe.",
+      "D": "Cobrar o custo de guardar a documentação apenas da menor classe.",
+      "E": "Agrupar sem controles por se tratar de duas classes com o mesmo regulamento."
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). A atribuição posterior de vantagens contraria os requisitos de rateio. B (correta). O grupamento se admite sob esses requisitos quando a gestora é a mesma. C (incorreta). A regra exige identificação precisa e rastreabilidade. D (incorreta). O dever de conservar a documentação do grupamento cabe à gestora às suas expensas. E (incorreta). A coincidência de gestora ou regulamento não dispensa os controles do art. 88. (Resolução CVM 175/2022, Parte Geral, art. 88)",
+     "comentarios_por_alternativa": {
+      "A": "A atribuição posterior de vantagens contraria os requisitos de rateio.",
+      "B": "O grupamento se admite sob esses requisitos quando a gestora é a mesma.",
+      "C": "A regra exige identificação precisa e rastreabilidade.",
+      "D": "O dever de conservar a documentação do grupamento cabe à gestora às suas expensas.",
+      "E": "A coincidência de gestora ou regulamento não dispensa os controles do art. 88."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 88"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 12/11/2026, Marina acompanha uma classe com R$ 4 milhões investidos em ações ordinárias e cotas detidas pelo RPPS de Serra Fria. A companhia convoca assembleia. De quem é o dever de exercer o voto decorrente dessas ações?",
+     "alternativas": {
+      "A": "Do conselho do RPPS, que possui diretamente as ações na proporção de suas cotas.",
+      "B": "Do administrador, automaticamente, porque mantém o registro de cotistas.",
+      "C": "Do agente de custódia, por deter operacionalmente a posição.",
+      "D": "Da assembleia geral do fundo, que vota em nome da companhia.",
+      "E": "Do gestor, observada a política de voto da classe."
+     },
+     "gabarito": "E",
+     "comentario": "A (incorreta). A classe detém o ativo e o RPPS detém cotas da classe. B (incorreta). O art. 94 atribui o voto da carteira ao gestor. C (incorreta). A guarda do ativo não transfere a competência de voto. D (incorreta). A assembleia do fundo decide suas próprias matérias. E (correta). A competência decorre da titularidade dos ativos pela classe e da função regulada do gestor. (Resolução CVM 175/2022, Parte Geral, art. 94)",
+     "comentarios_por_alternativa": {
+      "A": "A classe detém o ativo e o RPPS detém cotas da classe.",
+      "B": "O art. 94 atribui o voto da carteira ao gestor.",
+      "C": "A guarda do ativo não transfere a competência de voto.",
+      "D": "A assembleia do fundo decide suas próprias matérias.",
+      "E": "A competência decorre da titularidade dos ativos pela classe e da função regulada do gestor."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 94"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O gestor avalia os efeitos da ___ para verificar a composição e a concentração da carteira.",
+     "opcoes": [
+      "operação",
+      "auditoria",
+      "assembleia"
+     ],
+     "respostas": [
+      "operação"
+     ],
+     "explicacao": "O controle é anterior à decisão de executar a ordem.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 89, caput e parágrafo único"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Persistência por ___ dias úteis consecutivos exige ___ à CVM.",
+     "opcoes": [
+      "15",
+      "30",
+      "explicações",
+      "resgate"
+     ],
+     "respostas": [
+      "15",
+      "explicações"
+     ],
+     "explicacao": "A comunicação da persistência tem gatilho próprio no desenquadramento passivo.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 90"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o controle de concentração de uma compra projetada.",
+     "itens": [
+      "Identificar limite regulamentar e regulatório",
+      "Medir peso atual na carteira",
+      "Projetar peso com a operação pretendida",
+      "Ajustar a ordem à folga permitida"
+     ],
+     "explicacao": "A projeção da concentração permite evitar um excesso decorrente de decisão de investimento.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 89, caput e parágrafo único"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Art. 88",
+       "Identificação e grupamento de ordens"
+      ],
+      [
+       "Art. 89",
+       "Avaliação dos limites da carteira"
+      ],
+      [
+       "Art. 90",
+       "Desenquadramento passivo"
+      ],
+      [
+       "Art. 94",
+       "Voto relativo a ativos da classe"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

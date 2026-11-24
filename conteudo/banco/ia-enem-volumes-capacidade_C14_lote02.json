@@ -1,0 +1,257 @@
+{
+ "assunto": "ENEM 2026 — Matemática — Volume útil, capacidade e comparação de sólidos",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23",
+ "origem": "2026-11-23_banco-enem-volumes-capacidade_C14_lote02_v2.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "enem-volumes-capacidade-c14",
+   "titulo": "Volume útil, capacidade e comparação de sólidos",
+   "microconteudo": "RAIO-X DA PROVA: Triagem dirigida nos cadernos azuis regulares do Inep de 2021 a 2025 confirmou 10 de 225 itens de Matemática (4,44% como mínimo observado). Os itens confirmados cobram o cálculo e a comparação de capacidades, a conservação de material e a subtração de regiões vazadas. Para escolher a operação, separe dimensões internas, condição de conservação e unidade solicitada.\n\nO QUE A BANCA COBRA:\nO Inep usa medidas de recipientes, peças maciças e sólidos vazados para perguntar quanto cabe, quanto material resta ou que dimensão precisa mudar. A dificuldade está em traduzir primeiro o desenho e o enunciado para a grandeza solicitada. Uma questão pode fornecer o diâmetro, pedir o raio indiretamente e exigir uma resposta em litros. Em outra, duas peças têm formatos diferentes e o volume de matéria-prima é conservado. As operações mudam, mas todas dependem de reconhecer o que ocupa cada região.\n\nENTENDA:\nVolume mede o espaço tridimensional ocupado por uma região. Capacidade, quando se fala em recipientes, mede quanto o espaço interno comporta. Para calcular o volume útil de um reservatório, use suas medidas internas e a altura até a marca em que o líquido pode chegar. Em um tanque retangular de comprimento interno 2 m, largura 1,5 m e altura interna 1,4 m, elevar a água até 1,2 m ocupa 2 × 1,5 × 1,2 = 3,6 m³. O tanque inteiro comportaria 4,2 m³, mas sobra uma faixa de 0,6 m³ acima da água. Se a pergunta pedir litros, o volume ocupado corresponde a 3.600 L.\n\nA regra do prisma reto e do cilindro reto é multiplicar a área da base pela altura perpendicular. Imagine o sólido montado por camadas horizontais iguais. Empilhar duas vezes mais camadas duplica o volume quando a base permanece fixa. Para a base retangular, multiplique os lados. Para a base circular, use πr² e tire o raio a partir do diâmetro sempre que preciso. Aumentar o diâmetro em 20% muda o raio pelo mesmo fator, 1,2, e multiplica a área por 1,44. Com altura fixa, o volume aumenta 44%. Se a altura também mudar, o efeito dos fatores deve ser combinado antes de converter o resultado em aumento percentual.\n\nCones e pirâmides exigem um terço do produto da área da base pela altura. Um cone de raio 3 cm e altura 12 cm tem volume 36π cm³. O cilindro com a mesma base e a mesma altura tem 108π cm³. Em uma peça maciça que passa de cilindro a cone sem perda de material, o volume final é igual ao inicial, e alguma dimensão terá de ser diferente. Se o raio for o mesmo, a altura do cone será tripla. Já a esfera segue a expressão 4πr³/3. Ao duplicar seu raio, multiplicamos o volume por oito. O expoente da medida muda conforme o modelo e a dimensão que varia.\n\nUma peça vazada oferece outro caminho. Desenhe mentalmente a forma externa e identifique o espaço removido. Um cilindro de altura 20 cm e raio externo 5 cm atravessado por um furo coaxial de raio 3 cm contém π × 20 × (25 − 9) = 320π cm³ de material. O cálculo usa a diferença entre os quadrados dos raios. Elevar a diferença entre raios ao quadrado daria a área de um círculo de raio 2 cm, que tem outra forma e outro tamanho. Se o furo atravessa apenas parte da peça, use sua própria altura, distinguindo até onde chega cada cavidade.\n\nPara somar ou subtrair volumes, converta todos para a mesma unidade. Um decímetro vale 10 centímetros e um decímetro cúbico vale 10 × 10 × 10 = 1.000 centímetros cúbicos. Como 1 dm³ equivale a 1 L, 1 cm³ equivale a 1 mL. Também vale 1 m³ = 1.000 L. Converter os comprimentos antes do cálculo reduz o risco de misturar metros com centímetros. Se uma dimensão mede 300 mm, pode ser escrita como 30 cm para trabalhar com as demais dimensões em centímetros. Ao final, confira se sua unidade representa volume e se a ordem de grandeza faz sentido.\n\nQuestões com unidades inteiras pedem atenção ao sentido da desigualdade. Para encher 134 litros com recipientes de 12 litros, são necessárias 12 viagens quando só se pode fazer uma viagem inteira de cada vez e se admite que a última carga seja parcial. Onze viagens transportam, no máximo, 132 litros. Já para fabricar blocos inteiros de 12 litros com os mesmos 134 litros de material, é possível produzir 11 e restam 2 litros, supondo ausência de perdas. O quociente é o mesmo. A decisão muda porque um enunciado impõe atingir uma demanda mínima e o outro impõe respeitar um estoque máximo.\n\nDOUTRINA:\nNo apêndice C de Prealgebra 2e, 2ª ed., Houston, OpenStax, 2020, Marecek, Anthony-Smith e Mathis organizam as fórmulas geométricas por sólido e distinguem área de superfície de volume. Na aplicação escolar, escrever primeiro a expressão com as dimensões do objeto torna visível essa distinção. Em um recipiente cilíndrico, a área circular entra como fator do volume. A área lateral seria pertinente em um pedido sobre o material necessário para revestir a parede.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nNeste objeto, as referências são a geometria métrica e a Matriz de Referência. A habilidade H8 orienta a resolução com conhecimento geométrico e as habilidades H12 e H13 mobilizam medidas e a avaliação de resultados.\n\nPEGADINHAS:\n1. Diâmetro de 10 cm indica raio de 5 cm antes de calcular a área.\n2. A altura útil do líquido pode ficar abaixo da altura total da parede.\n3. A área do anel usa a diferença entre áreas circulares.\n4. A conversão entre m³ e L tem fator 1.000. Entre cm³ e mL há equivalência numérica.\n5. Uma sobra de material pode não permitir outra peça inteira. Compare o produto do quociente inteiro com a quantidade disponível.\n\nESQUEMA:\nIdentificar a região → cheia, interna, removida ou resultante.\nUniformizar medidas → raio, altura perpendicular e unidade.\nCalcular → área da base vezes altura, com o fator apropriado.\nCompor → somar ou retirar regiões em unidades iguais.\nDecidir → comparar com a capacidade, a demanda ou o estoque.\n\nLIGAÇÕES:\nGrandezas e unidades de medida ajudam na conversão entre comprimentos e volumes. Semelhança de triângulos fornece dimensões ausentes em cones cortados por planos paralelos à base.",
+   "flashcards": [
+    {
+     "frente": "Quando multiplicar diretamente área da base por altura?",
+     "verso": "Para prismas e cilindros, usando a altura perpendicular.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6"
+    },
+    {
+     "frente": "Como calcular material de uma peça com cavidade?",
+     "verso": "Subtraia o volume da cavidade do volume externo, com as mesmas unidades.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6"
+    },
+    {
+     "frente": "Por qual fator muda o volume se todas as dimensões dobram?",
+     "verso": "Por oito, pois cada uma das três dimensões contribui com um fator dois.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6"
+    },
+    {
+     "frente": "Qual medida usar se o desenho informa o diâmetro?",
+     "verso": "Divida por dois para obter o raio antes de calcular a área da base circular.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6"
+    },
+    {
+     "frente": "Quantos centímetros cúbicos equivalem a um litro?",
+     "verso": "Mil centímetros cúbicos.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6"
+    },
+    {
+     "frente": "Qual altura do cone dá o volume do cilindro de mesma base?",
+     "verso": "Três vezes a altura do cilindro.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-volumes-capacidade-c14-q01",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "habilidade": "H12",
+     "texto_base": "Em maio, Bruna marca 75 cm de altura útil num tanque retangular com base interna de 3 m por 1,2 m.",
+     "enunciado": "Até essa marca cabem 2.700 litros.",
+     "gabarito": "C",
+     "comentario": "A altura é 0,75 m. O produto 3 × 1,2 × 0,75 resulta em 2,7 m³, que equivalem a 2.700 L. (Matriz de Referência ENEM 2026, Matemática 2.6, H12.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6, H12"
+    },
+    {
+     "id": "enem-volumes-capacidade-c14-q02",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "habilidade": "H13",
+     "texto_base": "A nova cápsula cilíndrica de Ítalo tem raio 20% maior e altura 20% menor que a anterior.",
+     "enunciado": "As duas alterações preservam o volume.",
+     "gabarito": "E",
+     "comentario": "A base cresce pelo fator 1,2² e a altura muda por 0,8. O resultado, 1,152, representa aumento de 15,2%. (Matriz de Referência ENEM 2026, Matemática 2.6, H13.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6, H13"
+    },
+    {
+     "id": "enem-volumes-capacidade-c14-q03",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "habilidade": "H8",
+     "texto_base": "Em 8 de agosto, Elisa coloca no tanque uma peça impermeável de volume 360 cm³, totalmente submersa. O espaço interno até a linha de segurança tem volume de 2.160 cm³.",
+     "enunciado": "Com a peça dentro, 1,8 L de água atingem a linha.",
+     "gabarito": "C",
+     "comentario": "A peça ocupa 0,36 L do espaço de 2,16 L. A diferença de 1,80 L corresponde à água. (Matriz de Referência ENEM 2026, Matemática 2.6, H8.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6, H8"
+    },
+    {
+     "id": "enem-volumes-capacidade-c14-q04",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "habilidade": "H13",
+     "texto_base": "Desde junho, uma oficina fabrica esferas maciças de 5 cm de diâmetro. Para a encomenda de julho, o diâmetro passa a 10 cm.",
+     "enunciado": "Uma esfera antiga usa um quarto do material de uma nova.",
+     "gabarito": "E",
+     "comentario": "Ao duplicar o diâmetro, o raio também duplica. O volume aumenta oito vezes, e a antiga usa um oitavo do material. (Matriz de Referência ENEM 2026, Matemática 2.6, H13.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6, H13"
+    },
+    {
+     "id": "enem-volumes-capacidade-c14-q05",
+     "tipo": "me",
+     "dificuldade": "media",
+     "habilidade": "H12",
+     "texto_base": "No dia 4 de junho, Ana precisa levar 790 L de água a uma horta. O tanque de transporte é um cilindro com diâmetro interno de 80 cm e altura útil de 100 cm. Use π = 3.",
+     "enunciado": "Qual é a capacidade útil do tanque?",
+     "alternativas": {
+      "A": "480 L",
+      "B": "240 L",
+      "C": "960 L",
+      "D": "1.920 L",
+      "E": "4.800 L"
+     },
+     "gabarito": "A",
+     "comentario": "A) Correta. O raio é 40 cm, e 3 × 40² × 100 = 480.000 cm³ = 480 L.\nB) Essa metade corresponderia a 50 cm de altura útil com a mesma base.\nC) Esse valor duplica a altura útil de 100 cm com a mesma base.\nD) O resultado equivale a usar o diâmetro como raio e quadruplicar a área real.\nE) A conversão final multiplica indevidamente o volume em litros por 10.\n(Matriz de Referência ENEM 2026, Matemática 2.6, H12.)",
+     "comentarios_por_alternativa": {
+      "A": "Correta. O raio é 40 cm, e 3 × 40² × 100 = 480.000 cm³ = 480 L.",
+      "B": "Essa metade corresponderia a 50 cm de altura útil com a mesma base.",
+      "C": "Esse valor duplica a altura útil de 100 cm com a mesma base.",
+      "D": "O resultado equivale a usar o diâmetro como raio e quadruplicar a área real.",
+      "E": "A conversão final multiplica indevidamente o volume em litros por 10."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6, H12"
+    },
+    {
+     "id": "enem-volumes-capacidade-c14-q06",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "habilidade": "H8",
+     "texto_base": "Em 5 de abril, a oficina de Nara recebe uma peça de madeira cilíndrica de raio 6 cm e altura 10 cm. Faz um furo cilíndrico coaxial de raio 2 cm até 7 cm de profundidade. Use π = 3.",
+     "enunciado": "Quanto material resta?",
+     "alternativas": {
+      "A": "672 cm³",
+      "B": "960 cm³",
+      "C": "996 cm³",
+      "D": "1.068 cm³",
+      "E": "1.080 cm³"
+     },
+     "gabarito": "C",
+     "comentario": "A) O resultado 3 × (36 − 4) × 7 usa 7 cm também para o sólido externo, que tem 10 cm.\nB) Esse é o valor de um furo que atravessasse os 10 cm inteiros.\nC) Correta. A madeira original ocupa 1.080 cm³ e o furo de 7 cm ocupa 84 cm³.\nD) Esse total desconta um furo de apenas 1 cm de profundidade.\nE) Esse volume é o da peça antes de perfurar.\n(Matriz de Referência ENEM 2026, Matemática 2.6, H8.)",
+     "comentarios_por_alternativa": {
+      "A": "O resultado 3 × (36 − 4) × 7 usa 7 cm também para o sólido externo, que tem 10 cm.",
+      "B": "Esse é o valor de um furo que atravessasse os 10 cm inteiros.",
+      "C": "Correta. A madeira original ocupa 1.080 cm³ e o furo de 7 cm ocupa 84 cm³.",
+      "D": "Esse total desconta um furo de apenas 1 cm de profundidade.",
+      "E": "Esse volume é o da peça antes de perfurar."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6, H8"
+    },
+    {
+     "id": "enem-volumes-capacidade-c14-q07",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "habilidade": "H13",
+     "texto_base": "Em setembro, Marta dispõe de 7,5 L de argamassa para blocos retangulares maciços de 15 cm por 10 cm por 8 cm. Admita que 8% da argamassa inicial se perde antes da moldagem e que apenas blocos completos contam.",
+     "enunciado": "Quantos blocos completos podem ser feitos?",
+     "alternativas": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "6",
+      "E": "5"
+     },
+     "gabarito": "E",
+     "comentario": "A) Um bloco ocupa 1,2 L e os 6,9 L restantes permitem mais de dois.\nB) Três blocos ocupam 3,6 L, ainda deixando quantidade suficiente para moldar outros.\nC) Com quatro blocos são gastos 4,8 L. A sobra de 2,1 L permite mais um.\nD) Seis blocos exigem 7,2 L, mais do que os 6,9 L disponíveis após a perda.\nE) Correta. Restam 7,5 × 0,92 = 6,9 L, suficientes para cinco blocos de 1,2 L e com sobra de 0,9 L.\n(Matriz de Referência ENEM 2026, Matemática 2.6, H13.)",
+     "comentarios_por_alternativa": {
+      "A": "Um bloco ocupa 1,2 L e os 6,9 L restantes permitem mais de dois.",
+      "B": "Três blocos ocupam 3,6 L, ainda deixando quantidade suficiente para moldar outros.",
+      "C": "Com quatro blocos são gastos 4,8 L. A sobra de 2,1 L permite mais um.",
+      "D": "Seis blocos exigem 7,2 L, mais do que os 6,9 L disponíveis após a perda.",
+      "E": "Correta. Restam 7,5 × 0,92 = 6,9 L, suficientes para cinco blocos de 1,2 L e com sobra de 0,9 L."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6, H13"
+    },
+    {
+     "id": "enem-volumes-capacidade-c14-q08",
+     "tipo": "me",
+     "dificuldade": "media",
+     "habilidade": "H8",
+     "texto_base": "Em maio, Luana prepara protótipos para uma exposição. Um cilindro tem raio interno de 4 cm e altura de 6 cm. Ela encomenda um cone reto que comporte o mesmo volume e tenha o mesmo raio.",
+     "enunciado": "Qual deve ser a altura do cone?",
+     "alternativas": {
+      "A": "12 cm",
+      "B": "18 cm",
+      "C": "6 cm",
+      "D": "2 cm",
+      "E": "24 cm"
+     },
+     "gabarito": "B",
+     "comentario": "A) Nessa altura, o cone tem dois terços da capacidade do cilindro.\nB) Correta. Para a mesma base, a altura do cone deve triplicar, compensando o fator um terço.\nC) Com as mesmas dimensões, o cone tem um terço do volume do cilindro.\nD) Reduzir a altura a um terço produz um volume nove vezes menor que o do cilindro.\nE) Essa altura resulta em quatro terços do volume do cilindro.\n(Matriz de Referência ENEM 2026, Matemática 2.6, H8.)",
+     "comentarios_por_alternativa": {
+      "A": "Nessa altura, o cone tem dois terços da capacidade do cilindro.",
+      "B": "Correta. Para a mesma base, a altura do cone deve triplicar, compensando o fator um terço.",
+      "C": "Com as mesmas dimensões, o cone tem um terço do volume do cilindro.",
+      "D": "Reduzir a altura a um terço produz um volume nove vezes menor que o do cilindro.",
+      "E": "Essa altura resulta em quatro terços do volume do cilindro."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6, H8"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Um cilindro com 10 cm de diâmetro tem raio de ___ cm e área de base de ___ cm².",
+     "opcoes": [
+      "100π",
+      "5",
+      "10",
+      "25π"
+     ],
+     "respostas": [
+      "5",
+      "25π"
+     ],
+     "explicacao": "O raio é metade do diâmetro. Então a área é π × 5².",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Uma cavidade de 250 cm³ ocupa ___ mL, equivalentes a ___ L.",
+     "opcoes": [
+      "0,25",
+      "250",
+      "25",
+      "2,5"
+     ],
+     "respostas": [
+      "250",
+      "0,25"
+     ],
+     "explicacao": "Um centímetro cúbico equivale a um mililitro e mil mililitros compõem um litro.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a solução para saber quantos blocos inteiros cabem no estoque.",
+     "itens": [
+      "Identificar as dimensões do bloco e a unidade do estoque",
+      "Calcular o volume de um bloco e converter para a unidade do estoque",
+      "Dividir o estoque útil pelo volume unitário",
+      "Verificar a maior quantidade inteira que respeita o estoque"
+     ],
+     "explicacao": "A comparação usa volumes na mesma unidade e descarta frações de bloco."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "1 m³",
+       "1.000 L"
+      ],
+      [
+       "1 cm³",
+       "1 mL"
+      ],
+      [
+       "Cilindro reto",
+       "Área da base × altura"
+      ],
+      [
+       "Cone reto",
+       "Um terço da área da base × altura"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

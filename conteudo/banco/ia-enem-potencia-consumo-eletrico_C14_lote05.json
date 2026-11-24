@@ -1,0 +1,257 @@
+{
+ "assunto": "ENEM 2026 — Ciências da Natureza — Potência elétrica, energia consumida e rendimento",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23",
+ "origem": "2026-11-23_banco-enem-potencia-consumo-eletrico_C14_lote05_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "enem-potencia-consumo-eletrico-c14",
+   "titulo": "Potência elétrica, energia consumida e rendimento",
+   "microconteudo": "RAIO-X DA PROVA: Triagem dirigida nos cadernos azuis regulares do Inep de 2021 a 2025 confirmou 7 de 225 itens de Ciências da Natureza (3,11% como mínimo observado). As ocorrências abrangem recarga, potência de painéis, corrente exigida, rendimento e especificação nominal. Um erro recorrente de raciocínio é confundir a taxa máxima com a energia acumulada ou trocar a energia útil pela energia de entrada.\n\nO QUE A BANCA COBRA:\nOs cadernos regulares combinam etiquetas de aparelhos, tempo de funcionamento, corrente, tensão e energia útil. Um mesmo contexto pode exigir comparar o consumo mensal, o rendimento de um aparelho ou a potência pedida à fonte. A resposta depende de reconhecer a grandeza do comando. Um custo em reais exige energia faturada e preço por unidade de energia. Um limite instantâneo depende da corrente ou potência naquele momento. Antes de fazer contas, escreva a unidade esperada e identifique o intervalo de funcionamento.\n\nENTENDA:\nPotência expressa a rapidez com que a energia é fornecida, transferida ou transformada. Um dispositivo que recebe 300 joules em 10 segundos tem potência média de 30 watts, pois 1 W equivale a 1 J/s. Se o dispositivo mantém essa taxa por 20 segundos, recebe 600 joules. Em circuitos de corrente contínua com tensão e corrente constantes, o produto P = U × I fornece a potência elétrica. Uma fonte de 12 V que fornece 2 A entrega 24 W. Em um resistor ôhmico, a relação U = R × I ainda permite escrever P = R × I² e P = U²/R. A aplicação exige saber qual grandeza permanece constante em cada comparação.\n\nPara calcular energia com potência constante, use E = P × Δt. Com quilowatts e horas, o resultado sai em kWh. Um forno de 1,2 kW ligado meia hora recebe 0,6 kWh. Um ventilador de 80 W em funcionamento por oito horas recebe 0,080 × 8 = 0,64 kWh. O ventilador tem potência menor e, nesse período, consome um pouco mais de energia. Para converter, 1 kWh = 1.000 W × 3.600 s = 3.600.000 J. A notação kWh indica uma multiplicação. A divisão de energia em kWh por um tempo em horas recupera uma potência média em kW.\n\nSe há mais de um modo de operação, calcule a energia em cada etapa antes de somar. Considere uma máquina que opera 15 min a 800 W e 45 min a 200 W. O primeiro intervalo dura 0,25 h e consome 0,20 kWh. O segundo dura 0,75 h e consome 0,15 kWh. O total do ciclo é 0,35 kWh e a potência média no intervalo de uma hora é 350 W. Uma média simples de 800 W e 200 W resultaria em 500 W e pressuporia dois intervalos iguais. Em questões de tarifa, multiplique a energia de cada intervalo pela tarifa válida naquele intervalo, quando houver valores distintos. Use apenas as parcelas de custo especificadas no problema.\n\nO rendimento mede qual fração da energia de entrada se converte na forma útil definida no contexto. Uma bomba que recebe 1,20 kWh e transfere 0,90 kWh de energia útil à água tem rendimento de 75%. A diferença de 0,30 kWh aparece em formas que o problema trata como perdas, como calor ou som. Para achar a potência útil quando o rendimento e a potência de entrada são dados, multiplique. Para achar a energia de entrada exigida por uma meta útil, divida pelo rendimento escrito na forma decimal. Para entregar 0,90 kWh úteis com rendimento de 75%, a bomba precisa receber 0,90/0,75 = 1,20 kWh. Um resultado de entrada menor do que a energia útil seria incompatível com esse modelo.\n\nQuando aparelhos funcionam ao mesmo tempo e operam nas condições nominais consideradas no exercício, some suas potências para calcular a potência elétrica simultânea. Em um modelo didático de carga resistiva atendida por 100 V, dois aparelhos de 300 W e 500 W em operação simultânea exigem 8 A no total. Se ligarem em horários distintos, o pico é 5 A, embora o consumo de energia seja o mesmo se cada aparelho mantiver seu tempo de funcionamento. Em um gráfico de potência por tempo, essa diferença fica clara. A altura maior indica pico e a área total sob o gráfico dá energia quando as unidades são consistentes. O cálculo simplificado assume a relação de potência indicada pela questão. A escolha real de componentes elétricos depende de requisitos técnicos além desse modelo escolar.\n\nA leitura de rótulos pode exigir distinguir potência nominal de potência medida. Um equipamento com termostato pode alternar entre aquecimento e pausa. Se o problema fornece os tempos em cada estado, use os tempos efetivos. Uma placa solar, por sua vez, pode ter potência nominal medida em condições especificadas e produção diária variável. Para comparar dois cenários, diferencie a taxa instantânea, o tempo disponível e o total acumulado. Uma mudança que reduz um pico sem alterar o tempo de uso pode ter pouco efeito na energia total. Outra mudança que encurta o período de funcionamento pode reduzir energia e manter o pico.\n\nDOUTRINA:\nPaul Peter Urone e Roger Hinrichs, College Physics 2e, 2ª ed., Houston, OpenStax, 2022, seção 20.4, apresentam potência elétrica a partir da transferência de energia por tempo e aplicam a relação para comparar consumos. Para resolver questões do ENEM, defina o sistema de interesse e mantenha explícitas a energia recebida, a útil e o intervalo de medição. Assim, unidades e rendimento controlam o significado da conta.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nA referência para este conteúdo é a Matriz do ENEM e o modelo físico especificado em cada situação. Em tabelas didáticas, tensão e potência nominais valem para as condições de funcionamento descritas.\n\nPEGADINHAS:\n1. kW mede potência. kWh mede energia.\n2. Trinta minutos correspondem a 0,5 h e a 1.800 s.\n3. Maior potência pode resultar em menor energia quando o tempo de uso é bem menor.\n4. Calcule a média de potência ponderando pela duração de cada etapa.\n5. Rendimento divide energia útil por energia de entrada. A posição do rendimento na equação depende da variável pedida.\n\nESQUEMA:\nTaxa de transferência → P = E/Δt.\nCarga em condições dadas → P = U × I quando o modelo permite.\nEnergia acumulada → somar P × Δt em todos os intervalos.\nRendimento → η = energia útil/energia de entrada.\nCusto variável → energia faturada em kWh × tarifa correspondente.\n\nLIGAÇÕES:\nCircuitos elétricos ajudam a distinguir corrente de ramo e corrente total. Conservação e transformações de energia permitem relacionar o consumo elétrico à energia térmica ou mecânica útil.",
+   "flashcards": [
+    {
+     "frente": "Que grandeza se obtém ao dividir energia pelo tempo?",
+     "verso": "A potência média no intervalo.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.53 e 3.59"
+    },
+    {
+     "frente": "Em que unidade sai o produto de kW por horas?",
+     "verso": "Em quilowatt-hora, uma unidade de energia.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.53 e 3.59"
+    },
+    {
+     "frente": "Por que comparar apenas watts pode errar o consumo?",
+     "verso": "A energia depende também do tempo em que cada aparelho funciona.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.53 e 3.59"
+    },
+    {
+     "frente": "Como obter energia de entrada dada a útil e o rendimento?",
+     "verso": "Divida a energia útil pelo rendimento em forma decimal.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.53 e 3.59"
+    },
+    {
+     "frente": "O que a área sob um gráfico de potência por tempo indica?",
+     "verso": "A energia acumulada no intervalo, com unidades compatíveis.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.53 e 3.59"
+    },
+    {
+     "frente": "Como distinguir pico de consumo e energia num ciclo?",
+     "verso": "O pico indica a maior potência instantânea. A energia soma o uso ao longo do tempo.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.53 e 3.59"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-potencia-consumo-eletrico-c14-q01",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "habilidade": "H6",
+     "texto_base": "Em maio, Pedro usa um aparelho de 750 W por 40 minutos no modo de potência constante.",
+     "enunciado": "O consumo desse período é 0,50 kWh.",
+     "gabarito": "C",
+     "comentario": "A potência é 0,75 kW. Quarenta minutos correspondem a dois terços de hora, logo o produto é 0,50 kWh. (Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.53 e 3.59, H6.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.53 e 3.59, H6"
+    },
+    {
+     "id": "enem-potencia-consumo-eletrico-c14-q02",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "habilidade": "H21",
+     "texto_base": "Carla compara uma bomba de 250 W por 2 horas com outra de 500 W por 45 minutos, no mesmo teste.",
+     "enunciado": "A bomba de maior potência recebe mais energia no ciclo descrito.",
+     "gabarito": "E",
+     "comentario": "A primeira recebe 0,50 kWh e a segunda, 0,375 kWh. O menor tempo de operação compensa a potência maior. (Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.53 e 3.59, H21.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.53 e 3.59, H21"
+    },
+    {
+     "id": "enem-potencia-consumo-eletrico-c14-q03",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "habilidade": "H21",
+     "texto_base": "Num teste em 7 de abril, uma máquina recebe 1,6 kWh e entrega 1,04 kWh de energia útil a um mecanismo.",
+     "enunciado": "O rendimento medido é 65%.",
+     "gabarito": "C",
+     "comentario": "A razão 1,04/1,6 é 0,65. A comparação usa energia útil e energia total de entrada na mesma unidade. (Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.53 e 3.59, H21.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.53 e 3.59, H21"
+    },
+    {
+     "id": "enem-potencia-consumo-eletrico-c14-q04",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "habilidade": "H5",
+     "texto_base": "A bancada fictícia de Otávio opera a 100 V e alimenta cargas resistivas ideais de 600 W e 400 W. Ele compara uma operação de meia hora simultânea com duas operações sucessivas de meia hora cada.",
+     "enunciado": "Usar as cargas em sequência mantém o mesmo pico de corrente da operação simultânea.",
+     "gabarito": "E",
+     "comentario": "Ao mesmo tempo, as cargas exigem 10 A. Em sequência, o maior valor é 6 A, correspondente à carga de 600 W. (Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.53 e 3.59, H5.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.53 e 3.59, H5"
+    },
+    {
+     "id": "enem-potencia-consumo-eletrico-c14-q05",
+     "tipo": "me",
+     "dificuldade": "media",
+     "habilidade": "H6",
+     "texto_base": "Em abril, Iara usa quatro luminárias de 25 W por seis horas diárias durante 20 dias. No exercício, a parcela variável vale R$ 0,80 por kWh.",
+     "enunciado": "Qual é a despesa variável desse uso?",
+     "alternativas": {
+      "A": "R$ 9,60",
+      "B": "R$ 2,40",
+      "C": "R$ 7,20",
+      "D": "R$ 12,00",
+      "E": "R$ 19,20"
+     },
+     "gabarito": "A",
+     "comentario": "A) Correta. Quatro lâmpadas totalizam 0,10 kW. Em 120 h, consomem 12 kWh, com custo de R$ 9,60.\nB) Esse custo se refere a uma das quatro luminárias usadas no período.\nC) É o total para três luminárias com o mesmo tempo de uso.\nD) Doze é o valor numérico da energia em kWh. A tarifa converte essa energia em custo.\nE) Esse custo corresponderia ao dobro da energia consumida no cenário.\n(Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.53 e 3.59, H6.)",
+     "comentarios_por_alternativa": {
+      "A": "Correta. Quatro lâmpadas totalizam 0,10 kW. Em 120 h, consomem 12 kWh, com custo de R$ 9,60.",
+      "B": "Esse custo se refere a uma das quatro luminárias usadas no período.",
+      "C": "É o total para três luminárias com o mesmo tempo de uso.",
+      "D": "Doze é o valor numérico da energia em kWh. A tarifa converte essa energia em custo.",
+      "E": "Esse custo corresponderia ao dobro da energia consumida no cenário."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.53 e 3.59, H6"
+    },
+    {
+     "id": "enem-potencia-consumo-eletrico-c14-q06",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "habilidade": "H21",
+     "texto_base": "Em 9 de junho, Bento testa dois motores para fornecer 0,72 kWh de energia mecânica por ciclo. Os rendimentos são 80% e 60%.",
+     "enunciado": "Quanta energia elétrica por ciclo se economiza ao usar o motor de maior rendimento?",
+     "alternativas": {
+      "A": "0,14 kWh",
+      "B": "0,24 kWh",
+      "C": "0,30 kWh",
+      "D": "0,48 kWh",
+      "E": "0,72 kWh"
+     },
+     "gabarito": "C",
+     "comentario": "A) Multiplicar 0,72 pela diferença de rendimentos não calcula a diferença entre energias de entrada.\nB) O cálculo 0,72/0,60 × 0,20 usa apenas um dos rendimentos na conversão.\nC) Correta. Os motores exigem 0,90 e 1,20 kWh para a mesma energia útil.\nD) Essa é a diferença entre a energia útil e a consumida pelo motor de menor rendimento, sem descontar as perdas do mais eficiente.\nE) Esse valor é a energia útil comum aos dois motores.\n(Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.53 e 3.59, H21.)",
+     "comentarios_por_alternativa": {
+      "A": "Multiplicar 0,72 pela diferença de rendimentos não calcula a diferença entre energias de entrada.",
+      "B": "O cálculo 0,72/0,60 × 0,20 usa apenas um dos rendimentos na conversão.",
+      "C": "Correta. Os motores exigem 0,90 e 1,20 kWh para a mesma energia útil.",
+      "D": "Essa é a diferença entre a energia útil e a consumida pelo motor de menor rendimento, sem descontar as perdas do mais eficiente.",
+      "E": "Esse valor é a energia útil comum aos dois motores."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.53 e 3.59, H21"
+    },
+    {
+     "id": "enem-potencia-consumo-eletrico-c14-q07",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "habilidade": "H23",
+     "texto_base": "Raul mede um aquecedor em maio. Ele opera 20 minutos a 900 W e 40 minutos a 150 W. Alternativamente pode operar uma hora a 500 W. As duas opções cumprem a meta térmica do ensaio.",
+     "enunciado": "Qual comparação de consumo está correta?",
+     "alternativas": {
+      "A": "A primeira consome 0,35 kWh a mais.",
+      "B": "A primeira consome 0,10 kWh a mais.",
+      "C": "As duas consomem 0,50 kWh.",
+      "D": "A primeira consome 0,10 kWh a menos.",
+      "E": "A primeira consome 0,40 kWh a menos."
+     },
+     "gabarito": "D",
+     "comentario": "A) Essa diferença se obtém com uma média inadequada ou com tempos distintos dos fornecidos.\nB) Inverte o sentido da diferença. A soma dos dois trechos da primeira é menor.\nC) A potência média da primeira é 400 W e não 500 W.\nD) Correta. As energias são 0,90/3 + 0,15 × 2/3 = 0,40 kWh e 0,50 kWh.\nE) 0,40 kWh é o consumo da primeira opção, não a diferença.\n(Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.53 e 3.59, H23.)",
+     "comentarios_por_alternativa": {
+      "A": "Essa diferença se obtém com uma média inadequada ou com tempos distintos dos fornecidos.",
+      "B": "Inverte o sentido da diferença. A soma dos dois trechos da primeira é menor.",
+      "C": "A potência média da primeira é 400 W e não 500 W.",
+      "D": "Correta. As energias são 0,90/3 + 0,15 × 2/3 = 0,40 kWh e 0,50 kWh.",
+      "E": "0,40 kWh é o consumo da primeira opção, não a diferença."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.53 e 3.59, H23"
+    },
+    {
+     "id": "enem-potencia-consumo-eletrico-c14-q08",
+     "tipo": "me",
+     "dificuldade": "media",
+     "habilidade": "H5",
+     "texto_base": "Em 11 de julho, Tereza avalia num simulador cargas resistivas de 450 W, 300 W e 270 W sob 100 V. A atividade admite uma corrente total de até 8 A e exige manter a carga de 450 W ligada.",
+     "enunciado": "Qual configuração usa a maior potência total dentro do limite?",
+     "alternativas": {
+      "A": "Ligar todas as três cargas.",
+      "B": "Ligar apenas a carga de 450 W.",
+      "C": "Ligar juntas as cargas de 300 W e 270 W.",
+      "D": "Ligar as cargas de 450 W e 270 W.",
+      "E": "Ligar as cargas de 450 W e 300 W."
+     },
+     "gabarito": "E",
+     "comentario": "A) Elas somam 1.020 W, pedindo 10,2 A no modelo.\nB) Respeita o limite com 4,5 A, mas é possível aumentar a potência sem ultrapassar 8 A.\nC) A corrente ficaria abaixo do limite, mas a carga de 450 W precisa permanecer ligada.\nD) Essa configuração consome 720 W. Ainda há uma combinação admissível de potência maior.\nE) Correta. Os 750 W exigem 7,5 A, o maior valor possível dentre as combinações admissíveis.\n(Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.53 e 3.59, H5.)",
+     "comentarios_por_alternativa": {
+      "A": "Elas somam 1.020 W, pedindo 10,2 A no modelo.",
+      "B": "Respeita o limite com 4,5 A, mas é possível aumentar a potência sem ultrapassar 8 A.",
+      "C": "A corrente ficaria abaixo do limite, mas a carga de 450 W precisa permanecer ligada.",
+      "D": "Essa configuração consome 720 W. Ainda há uma combinação admissível de potência maior.",
+      "E": "Correta. Os 750 W exigem 7,5 A, o maior valor possível dentre as combinações admissíveis."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.53 e 3.59, H5"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Uma carga de 200 W equivale a ___ kW e consome ___ kWh em três horas.",
+     "opcoes": [
+      "0,2",
+      "0,6",
+      "2,0",
+      "600"
+     ],
+     "respostas": [
+      "0,2",
+      "0,6"
+     ],
+     "explicacao": "Converta watts em quilowatts e multiplique pelas três horas.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.53 e 3.59"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Para obter 0,9 kWh úteis com rendimento de 75%, divida ___ por ___ e encontre 1,2 kWh.",
+     "opcoes": [
+      "0,9",
+      "0,75",
+      "1,2",
+      "75"
+     ],
+     "respostas": [
+      "0,9",
+      "0,75"
+     ],
+     "explicacao": "A potência ou energia útil é a entrada multiplicada pelo rendimento. O cálculo inverso divide por ele.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.53 e 3.59"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize o cálculo de energia total de um ciclo com dois modos de potência.",
+     "itens": [
+      "Separar os intervalos por modo de operação",
+      "Converter as potências para kW e as durações para horas",
+      "Multiplicar potência e duração em cada intervalo",
+      "Somar as energias obtidas em kWh"
+     ],
+     "explicacao": "A soma é feita sobre as energias de cada intervalo."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "W",
+       "Joule por segundo"
+      ],
+      [
+       "kWh",
+       "Unidade de energia"
+      ],
+      [
+       "Rendimento",
+       "Fração útil da energia fornecida"
+      ],
+      [
+       "Corrente elétrica",
+       "Carga elétrica por unidade de tempo"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

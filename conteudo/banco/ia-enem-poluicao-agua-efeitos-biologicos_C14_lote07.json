@@ -1,0 +1,257 @@
+{
+ "assunto": "ENEM 2026 — Ciências da Natureza — Poluição da água, eutrofização e efeitos nos organismos",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23",
+ "origem": "2026-11-23_banco-enem-poluicao-agua-efeitos-biologicos_C14_lote07_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "enem-poluicao-agua-efeitos-biologicos-c14",
+   "titulo": "Poluição da água, eutrofização e efeitos nos organismos",
+   "microconteudo": "RAIO-X DA PROVA: Triagem dirigida nos cadernos azuis regulares do Inep de 2021 a 2025 confirmou 2 de 225 itens de Ciências da Natureza (0,89% como mínimo observado). Os itens confirmados no recorte objetivo pedem prever o destino de metal retido em biomassa e o efeito ambiental de evitar o aporte de resíduos. Interprete a cadeia causal para distinguir enriquecimento por nutrientes de transferência de um contaminante para a biomassa.\n\nO QUE A BANCA COBRA:\nAo apresentar uma lagoa que recebe efluentes, uma planta que retém contaminantes ou um destino para resíduos orgânicos, a prova costuma pedir o elo entre a fonte e o efeito ecológico. Os itens localizados incluem o destino de metais em tecidos de plantas aquáticas e a prevenção de eutrofização pelo manejo de resíduos. Para interpretar cada situação, identifique o que entra no ambiente, por onde se desloca, como atua e qual evidência foi observada. Nutrientes, matéria orgânica e contaminantes persistentes podem chegar juntos, mas produzem efeitos por mecanismos distintos.\n\nENTENDA:\nO fósforo e o nitrogênio são necessários aos seres vivos. A quantidade disponível pode limitar o crescimento de algas e cianobactérias. Quando aportes intensos e contínuos de nutrientes chegam a um lago por esgoto sem tratamento suficiente, escoamento de áreas fertilizadas ou perdas de resíduos animais, a produção de biomassa aquática pode aumentar. O enriquecimento que altera a produtividade do corpo d’água é a eutrofização. Em um reservatório com renovação lenta, os nutrientes podem persistir e favorecer episódios de floração. Temperatura, luz, mistura da água e disponibilidade de cada nutriente influenciam o resultado. Uma única amostra esverdeada dá uma pista inicial, cujo significado depende de outras observações.\n\nSiga a sequência causal depois da floração. Organismos fotossintetizantes liberam oxigênio durante a fotossíntese em regiões iluminadas e respiram ao longo do dia. Quando parte da biomassa morre ou perde vitalidade, torna-se substrato para decompositores. Na decomposição aeróbia, microrganismos consomem oxigênio dissolvido. Se o consumo excede a reposição pela fotossíntese, pela circulação ou pelas trocas com o ar, o teor de oxigênio cai. Nas horas sem luz, a ausência de produção fotossintética favorece quedas adicionais. Peixes e invertebrados sensíveis à baixa concentração de oxigênio podem sair da área, sofrer estresse ou morrer. Essa sequência explica por que uma lagoa pode apresentar alta atividade fotossintética de tarde e condições ruins antes do amanhecer.\n\nHá casos em que o próprio lançamento rico em matéria orgânica estimula a respiração microbiana rapidamente, mesmo que ainda não seja visível uma floração. A demanda bioquímica de oxigênio, ou DBO, serve como indicador da demanda de oxigênio associada à degradação biológica de matéria orgânica sob condições padronizadas. O oxigênio dissolvido, ou OD, indica quanto oxigênio está disponível na água na medição. Um resultado de DBO elevado e OD reduzido pode ser compatível com carga orgânica grande, mas é preciso comparar locais e horários e considerar fluxo, temperatura e outras entradas. Uma mudança isolada de cor ou odor não identifica uma substância específica.\n\nUm exemplo fictício ajuda a separar hipóteses. Uma equipe mede OD de 8 mg/L de tarde em dois pontos de uma lagoa. Antes do amanhecer, o ponto junto à entrada de águas de uma área agrícola cai a 2 mg/L e o outro fica em 7 mg/L. No primeiro ponto também há mais fósforo e maior biomassa de algas. O padrão é compatível com enriquecimento e respiração noturna mais intensos. Para fortalecer a interpretação, a equipe pode comparar períodos de chuva, pontos a montante e a jusante e dias com volumes de descarga distintos. Relação espacial e repetição temporal ajudam a identificar contribuições. Um único valor, mesmo muito baixo, dificilmente esclarece sozinho a procedência do aporte.\n\nMetais e outros contaminantes persistentes têm outro comportamento. Alguns podem se acumular nos tecidos de organismos quando a entrada é mais rápida que a eliminação. Essa é a bioacumulação. Quando a concentração de determinado contaminante aumenta ao longo dos níveis tróficos, ocorre biomagnificação. O aumento entre níveis depende de características da substância e da teia e precisa ser demonstrado com dados comparáveis. Medir concentração em uma planta aquática permite discutir acúmulo nela. Para concluir que há biomagnificação, seria necessário comparar a concentração entre organismos que ocupam níveis ligados pela alimentação. Um organismo que retém um metal retira parte dele da água enquanto o metal permanece no sistema, agora associado à biomassa.\n\nA medida preventiva deve responder ao caminho do contaminante. Reduzir a entrada de fósforo e nitrogênio enfrenta o enriquecimento. Aumentar a aeração pode aliviar a falta de oxigênio em determinadas situações, embora o aporte de nutrientes continue exigindo atenção. No caso de contaminante que se acumula em biomassa, o monitoramento deve considerar o destino do material retirado. Uma medida eficaz em uma reserva pequena pode exigir adaptação em uma bacia que recebe descargas de várias origens. Em prova, procure a ação que atua sobre a causa pedida no comando e que é compatível com o mecanismo descrito.\n\nDOUTRINA:\nMary Ann Clark, Matthew Douglas e Jung Choi, Biology 2e, 2ª ed., Houston, OpenStax, 2018, seção 46.3, relacionam fluxos de nitrogênio e fósforo à eutrofização. O Portal da Qualidade da Água da ANA descreve OD, fósforo e DBO como parâmetros complementares. Na análise escolar, combine indicadores de aporte, resposta biológica e disponibilidade de oxigênio para examinar a cadeia causal.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nO objeto 5.48 da Matriz do ENEM inclui poluição da água. A ANA interpreta fósforo, oxigênio dissolvido e matéria orgânica conforme as características do corpo d’água e os fins do monitoramento.\n\nPEGADINHAS:\n1. Mais algas na superfície pode coexistir com pouco oxigênio em profundidade ou à noite.\n2. DBO indica demanda de oxigênio. OD indica oxigênio disponível na hora da medição.\n3. Recolher a espuma ou aerar o lago pode tratar um efeito local. Verifique a origem do aporte.\n4. Absorver metal em tecido vegetal transfere o contaminante para outra parte do sistema.\n5. Bioacumulação se observa no organismo. Biomagnificação exige evidência ao longo das relações tróficas.\n\nESQUEMA:\nFonte → nutrientes, carga orgânica ou contaminante persistente.\nTransporte → efluente, drenagem, escoamento ou cadeia alimentar.\nMecanismo → crescimento, decomposição, consumo de oxigênio ou acúmulo.\nEfeito → mudança na qualidade da água e nos organismos.\nControle → interromper o aporte e monitorar a resposta.\n\nLIGAÇÕES:\nCiclos biogeoquímicos explicam o transporte e a reciclagem dos nutrientes. Teias alimentares ajudam a investigar a transferência de contaminantes entre organismos.",
+   "flashcards": [
+    {
+     "frente": "O que caracteriza enriquecimento eutrofizante?",
+     "verso": "O aumento de nutrientes que favorece a produtividade excessiva em um corpo d’água.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.48"
+    },
+    {
+     "frente": "Por que OD pode cair antes do amanhecer?",
+     "verso": "A respiração continua durante a noite, sem reposição por fotossíntese naquele período.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.48"
+    },
+    {
+     "frente": "OD e DBO medem a mesma coisa?",
+     "verso": "OD mede oxigênio dissolvido disponível. DBO estima demanda associada à biodegradação em condições padronizadas.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.48"
+    },
+    {
+     "frente": "O que é bioacumulação?",
+     "verso": "O acúmulo de uma substância em um organismo quando a entrada supera a eliminação.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.48"
+    },
+    {
+     "frente": "Que evidência permite discutir biomagnificação?",
+     "verso": "Aumento de concentração do contaminante ao longo de níveis ligados pela alimentação.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.48"
+    },
+    {
+     "frente": "Aeradores interrompem a entrada de fósforo?",
+     "verso": "Aeradores atuam sobre oxigenação. O controle do fósforo exige tratar o aporte e seu transporte.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.48"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-poluicao-agua-efeitos-biologicos-c14-q01",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "habilidade": "H9",
+     "texto_base": "Em abril, a lagoa de um parque recebe aporte recorrente de fósforo. Lia registra aumento de algas e, semanas depois, queda de oxigênio perto do fundo.",
+     "enunciado": "O consumo de oxigênio por decompositores de biomassa é compatível com a queda observada.",
+     "gabarito": "C",
+     "comentario": "O enriquecimento pode favorecer a produção de biomassa. Sua decomposição aeróbia aumenta a demanda por oxigênio. (Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.48, H9.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.48, H9"
+    },
+    {
+     "id": "enem-poluicao-agua-efeitos-biologicos-c14-q02",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "habilidade": "H10",
+     "texto_base": "Em junho, Paulo encontra metal em amostras de folhas de uma planta aquática e ainda não mediu concentração em outros organismos.",
+     "enunciado": "A análise demonstra biomagnificação na teia alimentar do lago.",
+     "gabarito": "E",
+     "comentario": "A medição pode evidenciar retenção no vegetal. Para biomagnificação, é preciso comparar concentrações ao longo de níveis tróficos relacionados. (Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.48, H10.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.48, H10"
+    },
+    {
+     "id": "enem-poluicao-agua-efeitos-biologicos-c14-q03",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "habilidade": "H17",
+     "texto_base": "No dia 12, Raquel mede OD de 3 mg/L antes do amanhecer e 9 mg/L à tarde numa lagoa com floração.",
+     "enunciado": "Os valores são compatíveis com fotossíntese em horas iluminadas e consumo de oxigênio durante toda a noite.",
+     "gabarito": "C",
+     "comentario": "Fotossíntese pode elevar OD à tarde. Em ausência de luz, a respiração continua consumindo oxigênio. (Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.48, H17.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.48, H17"
+    },
+    {
+     "id": "enem-poluicao-agua-efeitos-biologicos-c14-q04",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "habilidade": "H30",
+     "texto_base": "Durante maio, o parque aumenta a aeração de uma lagoa. As concentrações de nutrientes na água que entra e a vazão de entrada permanecem nas medidas anteriores.",
+     "enunciado": "A aeração, por si só, demonstrou redução da carga de nutrientes que chega à lagoa.",
+     "gabarito": "E",
+     "comentario": "Sem mudança nas concentrações de entrada ou na vazão, o aporte medido permanece. A aeração modifica a disponibilidade de oxigênio. (Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.48, H30.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.48, H30"
+    },
+    {
+     "id": "enem-poluicao-agua-efeitos-biologicos-c14-q05",
+     "tipo": "me",
+     "dificuldade": "media",
+     "habilidade": "H10",
+     "texto_base": "Em 16 de julho, Nina compara um ponto acima e outro abaixo do lançamento de um efluente rico em matéria orgânica biodegradável. A vazão e a temperatura são comparáveis.",
+     "enunciado": "Que padrão logo abaixo do lançamento é compatível com a ação dos decompositores aeróbios?",
+     "alternativas": {
+      "A": "Queda de DBO e de respiração microbiana.",
+      "B": "Aumento de OD causado diretamente pela respiração dos decompositores.",
+      "C": "Queda de DBO causada pelo simples aumento de material biodegradável.",
+      "D": "Aumento de DBO e tendência de redução de OD.",
+      "E": "Aumento simultâneo de OD e DBO como consequência necessária da menor atividade microbiana."
+     },
+     "gabarito": "D",
+     "comentario": "A) A entrada de material biodegradável oferece substrato para respiração e tende a aumentar a demanda.\nB) Na respiração aeróbia, os decompositores consomem oxigênio.\nC) O aumento de matéria biodegradável tende a elevar a demanda, quando as demais condições são comparáveis.\nD) Correta. A degradação da carga orgânica requer oxigênio, que pode diminuir conforme a capacidade de reposição.\nE) A entrada de substrato pode favorecer a atividade microbiana, e a reposição de OD precisa ser avaliada à parte.\n(Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.48, H10.)",
+     "comentarios_por_alternativa": {
+      "A": "A entrada de material biodegradável oferece substrato para respiração e tende a aumentar a demanda.",
+      "B": "Na respiração aeróbia, os decompositores consomem oxigênio.",
+      "C": "O aumento de matéria biodegradável tende a elevar a demanda, quando as demais condições são comparáveis.",
+      "D": "Correta. A degradação da carga orgânica requer oxigênio, que pode diminuir conforme a capacidade de reposição.",
+      "E": "A entrada de substrato pode favorecer a atividade microbiana, e a reposição de OD precisa ser avaliada à parte."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.48, H10"
+    },
+    {
+     "id": "enem-poluicao-agua-efeitos-biologicos-c14-q06",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "habilidade": "H17",
+     "texto_base": "Em setembro, Luís mede um contaminante persistente em concentrações de 0,2 mg/kg no organismo produtor, 1 mg/kg em um invertebrado que se alimenta dele e 5 mg/kg em um peixe que come o invertebrado. As amostras são comparáveis.",
+     "enunciado": "Qual interpretação tem apoio direto no gradiente observado?",
+     "alternativas": {
+      "A": "A água tem necessariamente 5 mg/L do contaminante.",
+      "B": "A concentração cresce nos níveis tróficos amostrados, padrão compatível com biomagnificação.",
+      "C": "O contaminante foi usado como fonte de energia e por isso se concentrou nos peixes.",
+      "D": "O acúmulo demonstra que todos os contaminantes desse habitat se comportam da mesma forma.",
+      "E": "O produtor elimina quantidades maiores do contaminante por dia que o peixe."
+     },
+     "gabarito": "B",
+     "comentario": "A) Os valores são massas por massa de tecido e não medem concentração por volume de água.\nB) Correta. O aumento acompanha a sequência de alimentação conhecida entre os três organismos.\nC) O gradiente mostra distribuição do contaminante. Nada indica que ele tenha sido convertido em fonte energética.\nD) Foram medidos somente os níveis de uma substância, sem testar outros contaminantes.\nE) A informação é uma comparação de concentrações, sem medir taxas de entrada e eliminação.\n(Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.48, H17.)",
+     "comentarios_por_alternativa": {
+      "A": "Os valores são massas por massa de tecido e não medem concentração por volume de água.",
+      "B": "Correta. O aumento acompanha a sequência de alimentação conhecida entre os três organismos.",
+      "C": "O gradiente mostra distribuição do contaminante. Nada indica que ele tenha sido convertido em fonte energética.",
+      "D": "Foram medidos somente os níveis de uma substância, sem testar outros contaminantes.",
+      "E": "A informação é uma comparação de concentrações, sem medir taxas de entrada e eliminação."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.48, H17"
+    },
+    {
+     "id": "enem-poluicao-agua-efeitos-biologicos-c14-q07",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "habilidade": "H30",
+     "texto_base": "Em abril, um conselho precisa escolher uma ação duradoura para uma lagoa. As medidas mostram que o principal aporte de fósforo ocorre na drenagem superficial de duas áreas de adubação após chuvas.",
+     "enunciado": "Qual ação atua mais diretamente sobre a via que o estudo identificou?",
+     "alternativas": {
+      "A": "Instalar aeradores no centro da lagoa e manter a drenagem como está.",
+      "B": "Coletar algas uma vez ao ano e monitorar apenas a cor da água.",
+      "C": "Remover resíduos flutuantes no lado oposto ao da drenagem e acompanhar os peixes.",
+      "D": "Aumentar a circulação de água na extremidade mais distante, sem atuar nas áreas de contribuição.",
+      "E": "Rever a aplicação do fertilizante e conter o escoamento nas áreas de contribuição, monitorando o fósforo nos pontos de entrada."
+     },
+     "gabarito": "E",
+     "comentario": "A) Aeradores podem melhorar OD local e deixam o aporte pela drenagem em curso.\nB) A coleta lida com biomassa já formada e não controla a via de entrada medida.\nC) A remoção de resíduos flutuantes não alcança o fósforo transportado pela drenagem.\nD) Uma mudança na circulação pode diluir o aporte local, mas não reduz diretamente o transporte de fósforo desde as áreas adubadas.\nE) Correta. A medida atua na origem e no transporte que as amostras identificaram.\n(Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.48, H30.)",
+     "comentarios_por_alternativa": {
+      "A": "Aeradores podem melhorar OD local e deixam o aporte pela drenagem em curso.",
+      "B": "A coleta lida com biomassa já formada e não controla a via de entrada medida.",
+      "C": "A remoção de resíduos flutuantes não alcança o fósforo transportado pela drenagem.",
+      "D": "Uma mudança na circulação pode diluir o aporte local, mas não reduz diretamente o transporte de fósforo desde as áreas adubadas.",
+      "E": "Correta. A medida atua na origem e no transporte que as amostras identificaram."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.48, H30"
+    },
+    {
+     "id": "enem-poluicao-agua-efeitos-biologicos-c14-q08",
+     "tipo": "me",
+     "dificuldade": "media",
+     "habilidade": "H10",
+     "texto_base": "Em maio, Alana registra que, após um período de chuvas, a transparência diminuiu, a produção de algas aumentou e o OD caiu antes do nascer do sol.",
+     "enunciado": "Que sequência pode explicar os registros se o escoamento carregou nutrientes?",
+     "alternativas": {
+      "A": "Nutrientes → menor crescimento de algas → maior transparência → menor OD.",
+      "B": "Nutrientes → aumento de fotossíntese durante a noite → redução de OD.",
+      "C": "Nutrientes → proliferação de algas → maior respiração e decomposição → redução de OD em horas sem luz.",
+      "D": "Nutrientes → deposição imediata de todo o fósforo → redução de algas e elevação da transparência.",
+      "E": "Nutrientes → maior OD por decomposição → aumento da floração por falta de oxigênio."
+     },
+     "gabarito": "C",
+     "comentario": "A) O modelo proposto contraria os registros de mais algas e de menor transparência.\nB) A fotossíntese depende de luz e, quando ocorre, produz oxigênio no modelo descrito.\nC) Correta. O aumento da biomassa amplia a demanda respiratória e o consumo pode superar a reposição.\nD) A cadeia prevê menos algas e maior transparência, em desacordo com os registros.\nE) A decomposição aeróbia envolve consumo de oxigênio. O primeiro motor do crescimento, no caso, é o aporte de nutrientes.\n(Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.48, H10.)",
+     "comentarios_por_alternativa": {
+      "A": "O modelo proposto contraria os registros de mais algas e de menor transparência.",
+      "B": "A fotossíntese depende de luz e, quando ocorre, produz oxigênio no modelo descrito.",
+      "C": "Correta. O aumento da biomassa amplia a demanda respiratória e o consumo pode superar a reposição.",
+      "D": "A cadeia prevê menos algas e maior transparência, em desacordo com os registros.",
+      "E": "A decomposição aeróbia envolve consumo de oxigênio. O primeiro motor do crescimento, no caso, é o aporte de nutrientes."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.48, H10"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Em um exemplo de eutrofização, o excesso de ___ favorece a proliferação de ___, quando as demais condições permitem.",
+     "opcoes": [
+      "nutrientes",
+      "algas",
+      "rochas",
+      "peixes predadores"
+     ],
+     "respostas": [
+      "nutrientes",
+      "algas"
+     ],
+     "explicacao": "O aporte de fósforo e nitrogênio pode remover uma limitação ao crescimento da biomassa fotossintetizante.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.48"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "A sigla ___ indica quanto oxigênio está dissolvido na água. A ___ está associada à demanda de oxigênio da degradação biológica.",
+     "opcoes": [
+      "DBO",
+      "OD",
+      "ATP",
+      "pH"
+     ],
+     "respostas": [
+      "OD",
+      "DBO"
+     ],
+     "explicacao": "A primeira medida descreve disponibilidade e a segunda estima demanda sob condições definidas.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.48"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a cadeia causal de um episódio típico após aporte de nutrientes.",
+     "itens": [
+      "Aumenta a entrada de fósforo e nitrogênio",
+      "A biomassa de algas cresce",
+      "Parte da biomassa morre e entra em decomposição",
+      "A demanda de oxigênio cresce e parte da fauna pode sofrer hipóxia"
+     ],
+     "explicacao": "Em condições de reposição insuficiente, a decomposição pode reduzir OD."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Eutrofização",
+       "Enriquecimento que eleva a produtividade aquática"
+      ],
+      [
+       "DBO",
+       "Indicador de demanda de oxigênio"
+      ],
+      [
+       "Bioacumulação",
+       "Retenção progressiva no organismo"
+      ],
+      [
+       "Biomagnificação",
+       "Aumento da concentração entre níveis tróficos"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,234 @@
+{
+ "assunto": "Fundos de Investimentos — Investimento por conta e ordem e direitos do cotista",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 — fontes oficiais conferidas",
+ "origem": "2026-11-23_banco-cginv3-investimento-conta-ordem_C14_lote02_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "cginv3-c14-investimento-conta-ordem",
+   "titulo": "Investimento por conta e ordem e direitos do cotista",
+   "microconteudo": "RAIO-X DA PROVA: Sem provas públicas do CGINV III localizadas para medir incidência. Prioridade pelo peso do edital e pela apostila. O Manual inclui tanto a identificação e a segregação da posição por conta e ordem quanto a participação política do cotista efetivo.\n\nO QUE A BANCA COBRA:\nUm extrato emitido em nome do cliente, um registro com identificação do distribuidor e um mandato de voto cumprem funções distintas. Em um caso de conta e ordem, siga a trilha da cota até o investidor efetivo. Aplique os prazos ao fluxo correto de documentos e separe a prova da titularidade para comparecimento direto da autorização para alguém exercer o voto pelo cliente.\n\nENTENDA:\nPelo art. 33 da Parte Geral da Resolução CVM 175, o gestor pode contratar distribuidor para colocar e subscrever cotas por conta e ordem de investidores. Nessa estrutura, a operação é executada por intermédio do distribuidor com os recursos do cliente. O cliente é o cotista efetivo. A intermediação organiza o acesso, o registro e o atendimento e exige que o patrimônio de cada cliente esteja separado, inclusive do patrimônio do próprio distribuidor.\n\nO art. 34 impõe um registro complementar por classe e, quando houver, subclasse de cotas subscritas por conta e ordem. O distribuidor inscreve nele a titularidade em nome dos clientes e atribui a cada cotista um código, enviado ao administrador. No registro de cotistas da classe ou subclasse, o administrador ou escriturador identifica a posição com o nome do distribuidor acrescido daquele código. Assim, há correspondência verificável entre as duas camadas. Quando o distribuidor não estiver autorizado a prestar escrituração, deve providenciar depósito em depositário central ou registro em mercado organizado de forma a viabilizar a identificação do cotista efetivo.\n\nImagine que Marta, do RPPS de Pedra Clara, identifique R$ 3 milhões em extrato relativos a uma subclasse e só encontre o nome da corretora e um código no registro da classe. A equipe deve verificar se o código e a subclasse coincidem com o cadastro complementar e se as quantidades estão conciliadas. Uma posição em valor monetário pode coincidir por acaso com outra ou variar sem qualquer novo aporte. Conciliação útil confronta identificação e quantidade, além de checar cota e data de referência. Caso a corretora tenha uma obrigação própria perante um credor, o saldo segregado do RPPS está fora da garantia dessa obrigação. O art. 35 também impede o distribuidor de dispor de bens ou direitos do cliente sem consentimento prévio.\n\nO art. 36 atribui ao distribuidor o cadastro, a identificação, a guarda documental, a comunicação e outras responsabilidades perante os clientes, incluindo acesso equitativo às informações e repasse de convocações. A nota de investimento e os extratos têm circuito diferente. O administrador disponibiliza eletronicamente ao distribuidor a nota em até cinco dias da nova aplicação e, em até dez dias após o fim do mês anterior, os extratos mensais individualizados. O extrato mostra o valor atualizado da posição. Código, classe e eventual subclasse, quantidade, valor investido e data de subscrição permitem rastrear a posição. Quando o documento que chegou ao RPPS diverge da nota, a divergência precisa ser analisada, ainda que o custodiante interno tenha escriturado a movimentação da conta bancária.\n\nNo exercício de voz e voto, o distribuidor entrega, antes da assembleia e a pedido do cotista efetivo, declaração que prova a titularidade para participação (art. 38). Ela individualiza o investidor, o fundo, a classe, eventual subclasse e a quantidade de cotas, além de código e CPF ou CNPJ. O RPPS que decidir comparecer por representante verifica, de forma independente, os poderes desse representante, conforme o caso. Se o próprio distribuidor votar pelos clientes, deve possuir mandato com poderes específicos. A dispensa é de apresentação dos instrumentos durante a assembleia. A guarda continua a cargo do distribuidor. Na instalação, ele fornece ao administrador a relação dos códigos dos investidores representados, usada pela mesa para calcular instalação e deliberação e arquivada pelo administrador.\n\nAinda sobre voto, os prazos de 17 dias para convocação física e 15 para eletrônica, no art. 36, parágrafo único, dizem respeito à antecedência mínima a observar pelo administrador no encaminhamento de dados ao distribuidor para repasse. Na extinção do contrato de distribuição, o art. 39 permite manter o investimento dos cotistas existentes se as obrigações continuarem atendidas pelo distribuidor ou forem assumidas pelo gestor habilitado ou por distribuidor habilitado por ele contratado. Distinguir continuidade do investimento de continuidade do contrato evita presumir resgate imediato ou interrupção dos direitos políticos.\n\nDOUTRINA:\nCOMISSÃO DE VALORES MOBILIÁRIOS. Cadernos CVM 3: Fundos de Investimento. 3. ed. CVM, 2016, p. 35–37. A publicação descreve a intermediação como um canal pelo qual o distribuidor subscreve com recursos e a pedido do cliente. O ponto econômico é que o intermediário permite executar o investimento de outra pessoa. A Resolução CVM 175 acrescenta a disciplina vigente sobre registro de classe e subclasse, rastreabilidade e representação. Esses requisitos dão ao investidor instrumentos para verificar a posição e exercer direitos ainda que não tenha feito a aplicação diretamente.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nSem precedente judicial relevante. O Ofício-Circular CVM/SMI/SIN/SSE 2/2025 orienta a conciliação de posições. As áreas técnicas distinguem a conciliação diária entre administrador e distribuidor quando este atua como escriturador e a operacionalização conforme depositário central ou entidade de mercado organizado quando há depósito ou registro. A classificação dos cotistas nos informes segue o tipo do investidor efetivo.\n\nPEGADINHAS:\n1. Ler o nome do distribuidor no registro como prova de que ele investiu recursos próprios.\n2. Tratar autorização para subscrever como mandato para votar.\n3. Dispensa de levar a procuração à assembleia significa guardar o instrumento, com poderes específicos, previamente obtido.\n4. Trocar o prazo da nota de cada nova aplicação pelo prazo dos extratos mensais.\n5. Presumir que o fim do contrato de distribuição produz resgate automático das posições existentes.\n\nESQUEMA:\nCliente → registro complementar e código → art. 34.\nRegistro da classe ou subclasse → nome do distribuidor + código → art. 34, § 1º.\nNota da aplicação em cinco dias e extrato mensal em dez dias após o mês anterior → art. 37.\nVoto direto → declaração a pedido → art. 38, caput.\nVoto pelo distribuidor → mandato específico arquivado e lista de códigos → art. 38, §§ 1º–2º.\n\nLIGAÇÕES:\nFundos 9.1, convocação e quórum de assembleias. Instrumentos 8.4, registro, custódia e liquidação.",
+   "flashcards": [
+    {
+     "frente": "Qual chave liga registros de cotista efetivo?",
+     "verso": "O código atribuído pelo distribuidor, associado ao seu nome no registro da classe ou subclasse.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 34, caput e §§ 1º–2º"
+    },
+    {
+     "frente": "Uma dívida da distribuidora alcança as cotas do cliente?",
+     "verso": "O patrimônio do cliente é segregado e seus bens e direitos não respondem por obrigações da distribuidora.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 35, parágrafo único"
+    },
+    {
+     "frente": "O fim do contrato exige resgate dos clientes?",
+     "verso": "A posição pode continuar se distribuidor, gestor habilitado ou novo distribuidor habilitado mantiver as obrigações aplicáveis.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 39, I–II"
+    },
+    {
+     "frente": "Quais prazos do administrador precedem o repasse da convocação?",
+     "verso": "Pelo menos 17 dias de antecedência na via física e 15 na eletrônica.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, arts. 36, VI e parágrafo único, e 37, I–II"
+    },
+    {
+     "frente": "Quem guarda o mandato específico de voto?",
+     "verso": "O distribuidor que representa o cotista. Na instalação, fornece ao administrador a relação de códigos.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 38, §§ 1º–2º"
+    },
+    {
+     "frente": "Qual documento o cotista pode pedir antes da assembleia?",
+     "verso": "Declaração individual de titularidade para participar, com quantidade de cotas e identificação da posição.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 38, caput"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O registro da classe pode identificar a posição por nome do distribuidor e código de investidor, enquanto o distribuidor mantém registro complementar em nome do cotista efetivo.",
+     "gabarito": "C",
+     "comentario": "Os registros são articulados. O código vincula o registro do administrador à identificação mantida pelo distribuidor. (Resolução CVM 175/2022, Parte Geral, art. 34, caput e §§ 1º–2º)",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 34, caput e §§ 1º–2º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Um credor do distribuidor por conta e ordem pode usar os direitos dos clientes para satisfazer obrigação própria da instituição se o contrato de distribuição não vedar expressamente a medida.",
+     "gabarito": "E",
+     "comentario": "A proteção patrimonial decorre diretamente da norma. Bens e direitos dos clientes ficam fora da responsabilidade por obrigações do distribuidor. (Resolução CVM 175/2022, Parte Geral, art. 35, parágrafo único)",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 35, parágrafo único"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A extinção do contrato com o distribuidor admite a manutenção de investimentos já detidos se o prestador retiver as obrigações correspondentes pelo período de manutenção da aplicação.",
+     "gabarito": "C",
+     "comentario": "A continuidade das obrigações pelo distribuidor é uma das hipóteses admitidas. A outra envolve o gestor habilitado ou distribuidor habilitado por ele contratado. (Resolução CVM 175/2022, Parte Geral, art. 39, I–II)",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 39, I–II"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Para convocação eletrônica, o mínimo de 15 dias tratado no art. 36 começa no encerramento do mês anterior, pois a informação acompanha o extrato mensal.",
+     "gabarito": "E",
+     "comentario": "O prazo se mede pela antecedência em relação à assembleia. A remessa de extratos tem marco próprio no art. 37. (Resolução CVM 175/2022, Parte Geral, arts. 36, VI e parágrafo único, e 37, I–II)",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, arts. 36, VI e parágrafo único, e 37, I–II"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 16/11/2026, Elisa pede à distribuidora que vote em nome do RPPS de Ponte das Araucárias, com posição de R$ 2 milhões. A distribuidora tem mandato específico. O que deve fazer na instalação da assembleia?",
+     "alternativas": {
+      "A": "Apresentar mandatos individuais à mesa e ocultar os códigos.",
+      "B": "Entregar ao administrador os códigos dos representados e manter arquivados os mandatos.",
+      "C": "Enviar somente o valor de mercado agregado da posição.",
+      "D": "Substituir os mandatos por cópias dos extratos.",
+      "E": "Enviar a relação apenas depois de encerrada a votação."
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). A regra dispensa a apresentação dos mandatos e exige a relação de códigos. B (correta). A relação permite à mesa calcular os quóruns; o instrumento de mandato fica sob guarda da distribuidora. C (incorreta). O valor consolidado não individualiza investidores para o cálculo de quórum. D (incorreta). O extrato documenta a posição; a representação depende de mandato específico. E (incorreta). O ato tem lugar quando a assembleia é instalada. (Resolução CVM 175/2022, Parte Geral, art. 38, §§ 1º–2º)",
+     "comentarios_por_alternativa": {
+      "A": "A regra dispensa a apresentação dos mandatos e exige a relação de códigos.",
+      "B": "A relação permite à mesa calcular os quóruns; o instrumento de mandato fica sob guarda da distribuidora.",
+      "C": "O valor consolidado não individualiza investidores para o cálculo de quórum.",
+      "D": "O extrato documenta a posição; a representação depende de mandato específico.",
+      "E": "O ato tem lugar quando a assembleia é instalada."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 38, §§ 1º–2º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 10/11/2026, Hugo identifica diferença de R$ 480 mil entre o extrato do RPPS de Vila das Fontes e o registro no depositário central. A distribuidora não tem autorização de escrituração. Como enquadrar a ocorrência?",
+     "alternativas": {
+      "A": "A posição informada pela distribuidora deve prevalecer até o ano seguinte.",
+      "B": "O depósito centralizado só é possível se a distribuidora já for autorizada a escriturar.",
+      "C": "Verificar a identificação do cotista e tratar a diferença no fluxo de conciliação com administrador, distribuidora e depositário.",
+      "D": "Reclassificar o RPPS como outros cotistas nos informes.",
+      "E": "Compensar o saldo divergente com crédito próprio da distribuidora."
+     },
+     "gabarito": "C",
+     "comentario": "A (incorreta). A CVM orienta conciliar as posições e tratar divergências tempestivamente. B (incorreta). O depósito é uma das alternativas à autorização de escrituração do distribuidor. C (correta). O depósito deve permitir identificar o cotista efetivo e requer conciliação com os participantes da cadeia. D (incorreta). A classificação segue o tipo do cotista efetivo, conforme orientação da CVM. E (incorreta). O procedimento encobriria a divergência e misturaria patrimônios segregados. (Resolução CVM 175/2022, Parte Geral, art. 34, §§ 1º–2º; Ofício-Circular CVM/SMI/SIN/SSE 2/2025, itens 6–9)",
+     "comentarios_por_alternativa": {
+      "A": "A CVM orienta conciliar as posições e tratar divergências tempestivamente.",
+      "B": "O depósito é uma das alternativas à autorização de escrituração do distribuidor.",
+      "C": "O depósito deve permitir identificar o cotista efetivo e requer conciliação com os participantes da cadeia.",
+      "D": "A classificação segue o tipo do cotista efetivo, conforme orientação da CVM.",
+      "E": "O procedimento encobriria a divergência e misturaria patrimônios segregados."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 34, §§ 1º–2º; Ofício-Circular CVM/SMI/SIN/SSE 2/2025, itens 6–9"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 9/11/2026, Sílvia representa o RPPS de Serra Morena, que tem R$ 5 milhões por conta e ordem em uma subclasse. Quer participar diretamente da assembleia e pede prova da titularidade. O que cabe ao distribuidor fornecer?",
+     "alternativas": {
+      "A": "Somente o nome da corretora e o valor de mercado da posição.",
+      "B": "Um instrumento nomeando o administrador mandatário do RPPS.",
+      "C": "O extrato de todos os demais clientes da subclasse.",
+      "D": "Declaração com quantidade, fundo, classe, subclasse, identificação, código e CNPJ do RPPS.",
+      "E": "A relação dos códigos dos cotistas que o distribuidor representará."
+     },
+     "gabarito": "D",
+     "comentario": "A (incorreta). O documento precisa identificar cotista, estrutura investida e quantidade de cotas. B (incorreta). Mandato ao administrador não prova titularidade do cotista efetivo. C (incorreta). A declaração requerida individualiza o cotista efetivo que a solicitou. D (correta). A declaração prevista no caput serve para provar titularidade na assembleia. E (incorreta). A lista de representantes é fornecida à instalação em outro procedimento. (Resolução CVM 175/2022, Parte Geral, art. 38, caput)",
+     "comentarios_por_alternativa": {
+      "A": "O documento precisa identificar cotista, estrutura investida e quantidade de cotas.",
+      "B": "Mandato ao administrador não prova titularidade do cotista efetivo.",
+      "C": "A declaração requerida individualiza o cotista efetivo que a solicitou.",
+      "D": "A declaração prevista no caput serve para provar titularidade na assembleia.",
+      "E": "A lista de representantes é fornecida à instalação em outro procedimento."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 38, caput"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 4/11/2026, Larissa verifica a compra de R$ 600 mil por conta e ordem feita para o RPPS de Lago Dourado no dia anterior. Qual fluxo a operação inaugura, além do extrato mensal?",
+     "alternativas": {
+      "A": "O distribuidor manda ao administrador uma nota em até dez dias do fim do mês.",
+      "B": "A CVM envia comprovante em até cinco dias úteis da subscrição.",
+      "C": "O administrador envia ao distribuidor só o extrato do mês, que substitui a nota.",
+      "D": "A nota nasce quando o resgate é convertido.",
+      "E": "O administrador disponibiliza eletronicamente ao distribuidor nota que atesta a aplicação, em até cinco dias de sua realização."
+     },
+     "gabarito": "E",
+     "comentario": "A (incorreta). O administrador disponibiliza a nota ao distribuidor, e o prazo é contado da aplicação. B (incorreta). A norma atribui a nota ao administrador; o inciso não qualifica os cinco dias como úteis. C (incorreta). O extrato periódico e a nota de cada nova aplicação são documentos distintos. D (incorreta). A obrigação nasce a cada nova aplicação realizada. E (correta). O art. 37, I, fixa remetente, destinatário, fato gerador e prazo. (Resolução CVM 175/2022, Parte Geral, art. 37, I–II e §§ 1º–2º)",
+     "comentarios_por_alternativa": {
+      "A": "O administrador disponibiliza a nota ao distribuidor, e o prazo é contado da aplicação.",
+      "B": "A norma atribui a nota ao administrador; o inciso não qualifica os cinco dias como úteis.",
+      "C": "O extrato periódico e a nota de cada nova aplicação são documentos distintos.",
+      "D": "A obrigação nasce a cada nova aplicação realizada.",
+      "E": "O art. 37, I, fixa remetente, destinatário, fato gerador e prazo."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 37, I–II e §§ 1º–2º"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O administrador registra a posição com o nome do ___ e o ___ do investidor.",
+     "opcoes": [
+      "distribuidor",
+      "gestor",
+      "código",
+      "benchmark"
+     ],
+     "respostas": [
+      "distribuidor",
+      "código"
+     ],
+     "explicacao": "A identificação composta permite localizar o cotista efetivo no registro complementar.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 34, caput e §§ 1º–2º"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Para representar o cliente e votar, o distribuidor guarda ___ específico e, na instalação, fornece a relação de ___.",
+     "opcoes": [
+      "mandato",
+      "extrato",
+      "códigos",
+      "preços"
+     ],
+     "respostas": [
+      "mandato",
+      "códigos"
+     ],
+     "explicacao": "O mandato sustenta a representação e a lista permite à mesa apurar os quóruns.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 38, §§ 1º–2º"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a verificação de uma posição por conta e ordem com depósito centralizado.",
+     "itens": [
+      "Identificar fundo, classe e eventual subclasse",
+      "Localizar o código do investidor efetivo",
+      "Conferir os registros do administrador, distribuidor e depositário",
+      "Tratar tempestivamente divergências de posição"
+     ],
+     "explicacao": "A conciliação confirma existência e vinculação das cotas, passando do veículo à posição individual.",
+     "dispositivo": "Resolução CVM 175/2022, Parte Geral, art. 34, §§ 1º–2º; Ofício-Circular CVM/SMI/SIN/SSE 2/2025, itens 6–9"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Código do investidor",
+       "Liga os registros"
+      ],
+      [
+       "Nota de investimento",
+       "Atesta cada nova aplicação"
+      ],
+      [
+       "Declaração",
+       "Prova titularidade à assembleia"
+      ],
+      [
+       "Mandato específico",
+       "Permite representar e votar"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
