@@ -1,0 +1,234 @@
+{
+ "assunto": "Indicadores econômicos, política fiscal e setor externo",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 — fontes oficiais conferidas",
+ "origem": "2026-11-23_banco-cginv3-conceitos-economia-indicadores-fiscal-cambio_C14_lote18_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "cginv3-c14-conceitos-economia-indicadores-fiscal-cambio",
+   "titulo": "Indicadores econômicos, política fiscal e setor externo",
+   "microconteudo": "RAIO-X DA PROVA: Sem provas públicas do CGINV III localizadas para contagem ou percentual. Prioridade pelo peso do edital e pela apostila. O programa cobre diferenças entre indicadores e suas implicações para juros, preços de ativos, política fiscal, câmbio e contas externas.\n\nO QUE A BANCA COBRA:\nUm caso pode trazer simultaneamente inflação, juros elevados, superávit de bens e déficit externo. Interprete o que cada indicador mede e confira unidade, horizonte e base de cálculo. Ao relacionar variáveis à carteira do RPPS, explicite o canal econômico e mantenha separados os indicadores de preço, de produção, de financiamento e de estoque.\n\nENTENDA:\nO Produto Interno Bruto mede a produção final realizada no território durante um período. Na ótica da despesa, soma consumo das famílias, formação de capital e variação de estoques, consumo do governo e exportações líquidas. A produção intermediária incorporada ao produto final é contada uma vez. PIB nominal incorpora mudanças de preços e quantidade, ao passo que a variação real procura isolar a evolução do volume. Um crescimento nominal de 8% com deflator do PIB de 5%, sob a identidade dos respectivos índices, implica crescimento real aproximado de 2,86%. O deflator do PIB e o IPCA têm coberturas diferentes.\n\nO IPCA, produzido pelo IBGE, mede preços de uma cesta de consumo de famílias com renda de 1 a 40 salários mínimos, conforme a cobertura da pesquisa. É a referência do regime de metas de inflação brasileiro. O IGP-M, da FGV IBRE, pondera IPA-M em 60%, IPC-M em 30% e INCC-M em 10%, abrangendo preços de produtor, consumidor e construção. Choque no atacado pode afetar mais fortemente o IGP-M, mesmo quando a inflação ao consumidor muda pouco. Um RPPS que recebeu 12% nominais e observou IPCA de 5% no mesmo intervalo mede retorno real em aproximadamente 6,67%, calculado por 1,12 ÷ 1,05 − 1, antes de custos e tributos se as taxas forem brutas.\n\nO Copom estabelece a meta para a Selic. A Selic efetiva resulta das operações elegíveis de financiamento de um dia com títulos públicos federais no sistema especial de liquidação e custódia. A B3 divulga a Taxa DI, apurada a partir de depósitos interfinanceiros prefixados de um dia útil entre instituições de grupos distintos, com previsão metodológica de adoção da Selic Over quando falha o critério mínimo de quantidade ou volume. A TR aplica redutor à Taxa Básica Financeira segundo a metodologia do CMN, e serve de parâmetro em contratos e produtos regidos por regras próprias. Nenhuma dessas referências mede diretamente o aumento de preços ao consumidor.\n\nA política fiscal usa receitas e despesas públicas para influenciar a atividade e administrar o financiamento do setor público. Se receitas primárias são R$ 110 bilhões e despesas primárias R$ 105 bilhões, há superávit primário de R$ 5 bilhões. Se os juros nominais líquidos somam R$ 9 bilhões, o resultado nominal, expresso como superávit positivo nessa convenção, é deficitário em R$ 4 bilhões. A dívida representa um estoque em determinada data. O fluxo fiscal e as emissões para financiar déficits ou refinanciar vencimentos influenciam sua evolução, junto com juros, ajustes patrimoniais e mudanças cambiais conforme a composição. Para o comitê, piora persistente na percepção fiscal pode elevar prêmios exigidos e pressionar o preço de títulos já emitidos. A resposta também depende da atividade, da política monetária e do prazo da exposição.\n\nA política cambial define as regras e os instrumentos de atuação no mercado de divisas. Em regime fixo, a autoridade administra a moeda em torno da paridade anunciada. Em regime de bandas, aceita variações dentro dos limites estipulados. No regime flexível brasileiro, a cotação reage ao mercado, e o BCB pode intervir para seu funcionamento adequado sem estabelecer banda ou paridade. A PTAX, calculada pelo BCB com consultas a dealers e divulgada para compra e venda, é referência de conversão e liquidação de contratos. A alta de R$ 5,00 para R$ 5,40 por dólar indica depreciação do real de acordo com a convenção da cotação em reais por dólar. O cupom cambial traduz um juro em moeda estrangeira implícito na relação entre taxa em reais e variação cambial. Com taxa doméstica de 12% e depreciação do real de 8% na mesma janela, o cupom implícito do exemplo é 1,12 ÷ 1,08 − 1, ou 3,70%. O cálculo é ilustrativo e a especificação de um contrato pode trazer convenções próprias de prazo e cotação.\n\nA balança comercial de bens é exportação menos importação de bens. As transações correntes somam bens, serviços, renda primária, como juros e lucros, e renda secundária, como certas transferências correntes. Um superávit em bens pode coexistir com déficit em transações correntes se as outras contas somarem déficit maior. Na metodologia BPM6 usada pelo BCB, a conta de capital cobre transferências de capital e operações com ativos não financeiros não produzidos. O investimento direto e os investimentos em carteira aparecem na conta financeira, onde também são tratados os ativos de reserva. Reservas internacionais são ativos externos sob controle da autoridade monetária disponíveis para objetivos como liquidez externa e intervenção. Mudanças no valor das reservas refletem fluxos e também variações de preço ou câmbio. O RPPS de Pedra Clara deve registrar separadamente exposição cambial, risco de juros em moeda estrangeira e disponibilidade em reais para pagar benefícios.\n\nDOUTRINA:\nCOMISSÃO DE VALORES MOBILIÁRIOS. O mercado de valores mobiliários brasileiro. 5. ed. CVM, 2024, p. 26 e seguintes, capítulo 1. Produção, renda e despesa interagem no fluxo econômico, e as instituições financeiras canalizam recursos entre agentes. Essa leitura ajuda a separar o ambiente macroeconômico das características contratuais de cada título. Para séries e formas de cálculo, valem as metodologias de cada produtor oficial.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nSem precedente relevante. Para a PTAX e a TR, as referências normativas são a Resolução BCB 45/2020 e a Resolução CMN 4.624/2018, conforme alterada. O BCB publica a metodologia das contas externas e fiscais e a B3 publica a da Taxa DI.\n\nPEGADINHAS:\n1. Confundir PIB nominal com crescimento do volume produzido.\n2. Tratar a diferença simples entre retorno nominal e inflação como cálculo exato do retorno real.\n3. Igualar permanentemente Taxa DI, Selic efetiva e Selic-meta.\n4. Inferir superávit externo total só pelo saldo de bens.\n5. Confundir conta de capital do BPM6 com investimento direto.\n6. Ler PTAX como promessa de câmbio ao cotista em qualquer operação.\n\nESQUEMA:\nProdução → PIB. Preços → IPCA e IGP-M.\nJuros e indexadores → Selic, DI e TR.\nFiscal → primário antes dos juros, nominal com juros, dívida como estoque.\nCâmbio → regime flexível, PTAX e cupom implícito.\nContas externas → bens dentro de transações correntes, capital e financeira em contas próprias.\n\nLIGAÇÕES:\nInstrumentos 8.1, taxas e preços de renda fixa. Gestão de Risco 14.28, risco cambial.",
+   "flashcards": [
+    {
+     "frente": "PIB é fluxo ou estoque?",
+     "verso": "Fluxo de bens e serviços finais produzidos no território durante o período.",
+     "dispositivo": "IBGE, Sistema de Contas Nacionais e publicação Produto Interno Bruto"
+    },
+    {
+     "frente": "Qual é a composição do IGP-M?",
+     "verso": "IPA-M 60%, IPC-M 30% e INCC-M 10%.",
+     "dispositivo": "FGV IBRE, Metodologia do IGP-M, item 1; IBGE, metodologia IPCA"
+    },
+    {
+     "frente": "Que componentes completam o saldo de bens em transações correntes?",
+     "verso": "Serviços, renda primária e renda secundária.",
+     "dispositivo": "Banco Central, BPM6, estrutura de transações correntes; Estatísticas do Setor Externo"
+    },
+    {
+     "frente": "Investimento direto pertence à conta de capital do BPM6?",
+     "verso": "Pertence à conta financeira. A conta de capital tem transferências de capital e ativos não financeiros não produzidos.",
+     "dispositivo": "Banco Central, Nota Metodológica do Balanço de Pagamentos BPM6, estrutura das contas"
+    },
+    {
+     "frente": "Que taxa a B3 usa se faltar volume mínimo de DI?",
+     "verso": "A Selic Over divulgada, observadas as regras de contingência da metodologia.",
+     "dispositivo": "B3, metodologia de apuração da Taxa DI, critério de apuração; BCB, Resolução BCB 46/2020"
+    },
+    {
+     "frente": "Pode haver superávit primário e déficit nominal?",
+     "verso": "Sim, quando os juros nominais líquidos superam o superávit primário, na convenção de saldo positivo.",
+     "dispositivo": "Manual de Estatísticas Fiscais do BCB, p. 33, e Tesouro Nacional, material sobre dívida pública"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Um aumento do PIB a preços correntes pode ocorrer mesmo com queda do volume produzido, caso o aumento de preços mais do que compense a retração em volume.",
+     "gabarito": "C",
+     "comentario": "PIB nominal combina valores e preços, e o PIB em volume separa o componente real. (IBGE, Sistema de Contas Nacionais e publicação Produto Interno Bruto)",
+     "dispositivo": "IBGE, Sistema de Contas Nacionais e publicação Produto Interno Bruto"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "O IPCA inclui diretamente a inflação no atacado com peso fixo de 60%, razão pela qual deve reproduzir o movimento do IGP-M quando o IPA-M sobe.",
+     "gabarito": "E",
+     "comentario": "O peso de 60% para o IPA pertence ao IGP-M. O IPCA acompanha os preços da cesta de consumo. (FGV IBRE, Metodologia do IGP-M, item 1; IBGE, metodologia IPCA)",
+     "dispositivo": "FGV IBRE, Metodologia do IGP-M, item 1; IBGE, metodologia IPCA"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Na apresentação BPM6 do balanço de pagamentos, investimento direto integra a conta financeira e se distingue das transferências de capital.",
+     "gabarito": "C",
+     "comentario": "O investimento direto é uma categoria funcional da conta financeira, separada da conta de capital. (Banco Central, Nota Metodológica do Balanço de Pagamentos BPM6, estrutura das contas)",
+     "dispositivo": "Banco Central, Nota Metodológica do Balanço de Pagamentos BPM6, estrutura das contas"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "A existência de consultas diárias da PTAX estabelece um teto e um piso oficiais para o dólar negociado no mercado brasileiro.",
+     "gabarito": "E",
+     "comentario": "A PTAX é uma referência calculada pelo BCB. A taxa negociada flutua no regime flexível. (Banco Central, regime de câmbio flexível; Resolução BCB 45/2020, arts. 1º–2º)",
+     "dispositivo": "Banco Central, regime de câmbio flexível; Resolução BCB 45/2020, arts. 1º–2º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 11/11/2026, Luís analisa dados fiscais hipotéticos: receitas primárias de R$ 280 bilhões, despesas primárias de R$ 273 bilhões e juros nominais líquidos de R$ 11 bilhões. Considerando superávit com sinal positivo, quais são os resultados?",
+     "alternativas": {
+      "A": "Déficit primário de R$ 4 bilhões e nominal de R$ 11 bilhões.",
+      "B": "Superávit primário de R$ 7 bilhões e nominal de R$ 18 bilhões.",
+      "C": "Superávit primário de R$ 7 bilhões e déficit nominal de R$ 4 bilhões.",
+      "D": "Superávit nominal e primário de R$ 7 bilhões.",
+      "E": "Déficit primário de R$ 11 bilhões e superávit nominal de R$ 4 bilhões."
+     },
+     "gabarito": "C",
+     "comentario": "A (incorreta). O primário exclui juros e resulta positivo. B (incorreta). Os juros são despesa no caso e diminuem o saldo. C (correta). Primeiro 280 menos 273. Depois, 7 menos 11. D (incorreta). O resultado nominal inclui juros nominais. E (incorreta). Os cálculos não separam corretamente o fluxo primário do custo financeiro. (Manual de Estatísticas Fiscais do BCB, p. 33, e Tesouro Nacional, material sobre dívida pública)",
+     "comentarios_por_alternativa": {
+      "A": "O primário exclui juros e resulta positivo.",
+      "B": "Os juros são despesa no caso e diminuem o saldo.",
+      "C": "Primeiro 280 menos 273. Depois, 7 menos 11.",
+      "D": "O resultado nominal inclui juros nominais.",
+      "E": "Os cálculos não separam corretamente o fluxo primário do custo financeiro."
+     },
+     "dispositivo": "Manual de Estatísticas Fiscais do BCB, p. 33, e Tesouro Nacional, material sobre dívida pública"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 6/11/2026, Natália compara a posição externa com sua carteira de R$ 5 milhões. Em cenário de país fictício, bens +US$ 8 bilhões, serviços −US$ 5 bilhões, renda primária −US$ 6 bilhões e renda secundária +US$ 1 bilhão. Qual leitura?",
+     "alternativas": {
+      "A": "Superávit de bens de US$ 8 bilhões e déficit em transações correntes de US$ 2 bilhões.",
+      "B": "Superávit corrente de US$ 8 bilhões igual ao saldo de bens.",
+      "C": "Déficit corrente de US$ 3 bilhões.",
+      "D": "Déficit da balança comercial de US$ 2 bilhões.",
+      "E": "O saldo corrente não se calcula sem conhecer o estoque de reservas."
+     },
+     "gabarito": "A",
+     "comentario": "A (correta). Somam-se as quatro parcelas e obtém-se 8 − 5 − 6 + 1 = −2. B (incorreta). Serviços e rendas também contam. C (incorreta). A renda secundária positiva adiciona US$ 1 bilhão. D (incorreta). Esse é o saldo corrente total. A balança de bens foi superavitária. E (incorreta). A composição narrada já basta para o saldo corrente. (Banco Central, BPM6, estrutura de transações correntes; Estatísticas do Setor Externo)",
+     "comentarios_por_alternativa": {
+      "A": "Somam-se as quatro parcelas e obtém-se 8 − 5 − 6 + 1 = −2.",
+      "B": "Serviços e rendas também contam.",
+      "C": "A renda secundária positiva adiciona US$ 1 bilhão.",
+      "D": "Esse é o saldo corrente total. A balança de bens foi superavitária.",
+      "E": "A composição narrada já basta para o saldo corrente."
+     },
+     "dispositivo": "Banco Central, BPM6, estrutura de transações correntes; Estatísticas do Setor Externo"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 17/11/2026, Bianca revisa produto de R$ 3,5 milhões referenciado em DI B3. Houve 103 operações elegíveis somando R$ 29 bilhões, e a Selic Over foi divulgada tempestivamente. Qual referência segue a metodologia?",
+     "alternativas": {
+      "A": "Média dos DIs, pois bastam 100 operações.",
+      "B": "Selic-meta fixada pelo Copom.",
+      "C": "TR do período, uma vez que a base interbancária ficou menor.",
+      "D": "Média simples de DI e Selic efetiva.",
+      "E": "Selic Over divulgada no dia, porque o volume mínimo não foi atingido."
+     },
+     "gabarito": "E",
+     "comentario": "A (incorreta). É necessário cumprir também o mínimo de R$ 30 bilhões. B (incorreta). A contingência usa Selic Over, distinta da meta. C (incorreta). A TR não é o indicador substituto da metodologia. D (incorreta). A norma da B3 adota Selic Over nesse cenário. E (correta). A falha em qualquer requisito de quantidade ou volume aciona a regra de contingência. (B3, metodologia de apuração da Taxa DI, critério de apuração; BCB, Resolução BCB 46/2020)",
+     "comentarios_por_alternativa": {
+      "A": "É necessário cumprir também o mínimo de R$ 30 bilhões.",
+      "B": "A contingência usa Selic Over, distinta da meta.",
+      "C": "A TR não é o indicador substituto da metodologia.",
+      "D": "A norma da B3 adota Selic Over nesse cenário.",
+      "E": "A falha em qualquer requisito de quantidade ou volume aciona a regra de contingência."
+     },
+     "dispositivo": "B3, metodologia de apuração da Taxa DI, critério de apuração; BCB, Resolução BCB 46/2020"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 22/10/2026, João examina exposição de R$ 4 milhões a contrato cambial. No cenário sem custos e com prazos iguais, a taxa em reais é 10% e o dólar aprecia 4% em reais. Qual o cupom implícito no horizonte pela paridade dos fatores?",
+     "alternativas": {
+      "A": "6,00% exatos.",
+      "B": "Cerca de 5,77%.",
+      "C": "14,40%.",
+      "D": "4,00%.",
+      "E": "10,00%."
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). A subtração simples é aproximação. O cálculo pedido é a razão de fatores. B (correta). A razão 1,10 ÷ 1,04 menos 1 é aproximadamente 5,77%. C (incorreta). Esse valor resultaria de multiplicar os fatores, o inverso da neutralização pedida. D (incorreta). O percentual de câmbio sozinho não fornece o cupom. E (incorreta). A taxa em reais precisa ser ajustada pelo fator cambial. (B3, especificação do futuro de Cupom Cambial de DI, Anexo 39; paridade de fatores no horizonte)",
+     "comentarios_por_alternativa": {
+      "A": "A subtração simples é aproximação. O cálculo pedido é a razão de fatores.",
+      "B": "A razão 1,10 ÷ 1,04 menos 1 é aproximadamente 5,77%.",
+      "C": "Esse valor resultaria de multiplicar os fatores, o inverso da neutralização pedida.",
+      "D": "O percentual de câmbio sozinho não fornece o cupom.",
+      "E": "A taxa em reais precisa ser ajustada pelo fator cambial."
+     },
+     "dispositivo": "B3, especificação do futuro de Cupom Cambial de DI, Anexo 39; paridade de fatores no horizonte"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O saldo ___ exclui juros nominais. O saldo ___ os inclui.",
+     "opcoes": [
+      "primário",
+      "nominal",
+      "comercial",
+      "cambial"
+     ],
+     "respostas": [
+      "primário",
+      "nominal"
+     ],
+     "explicacao": "O conceito define se os juros integram o fluxo fiscal apurado.",
+     "dispositivo": "Manual de Estatísticas Fiscais do BCB, p. 33, e Tesouro Nacional, material sobre dívida pública"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Exportações menos importações de bens formam a balança ___. Serviços e rendas entram nas transações ___.",
+     "opcoes": [
+      "comercial",
+      "correntes",
+      "financeira",
+      "patrimoniais"
+     ],
+     "respostas": [
+      "comercial",
+      "correntes"
+     ],
+     "explicacao": "O saldo de bens é um componente da conta mais ampla.",
+     "dispositivo": "Banco Central, BPM6, estrutura de transações correntes; Estatísticas do Setor Externo"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise da exposição econômica de um investimento do RPPS.",
+     "itens": [
+      "Fixar a janela de medição e a moeda de referência",
+      "Identificar a taxa contratual e o indexador",
+      "Comparar fatores de retorno, inflação e câmbio no mesmo período",
+      "Registrar os efeitos sobre o poder de compra e a liquidez do regime"
+     ],
+     "explicacao": "A comparação usa referências coerentes em prazo e moeda antes de avaliar desempenho real.",
+     "dispositivo": "B3, especificação do futuro de Cupom Cambial de DI, Anexo 39; paridade de fatores no horizonte"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "IPCA",
+       "Preços ao consumidor"
+      ],
+      [
+       "PTAX",
+       "Referência de câmbio do BCB"
+      ],
+      [
+       "Resultado primário",
+       "Saldo fiscal sem juros nominais"
+      ],
+      [
+       "Reservas internacionais",
+       "Ativos externos da autoridade monetária"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

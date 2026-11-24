@@ -1,0 +1,191 @@
+{
+ "assunto": "Instrumentos de renda fixa e formação dos juros",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 — Claude (C-14-CGINV, frente Claude)",
+ "origem": "2026-11-23_banco-cginv3-renda-fixa-juros-titulos_C14C_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "cginv3-c14c-renda-fixa",
+   "titulo": "Renda fixa: juros, Copom, títulos públicos e privados",
+   "microconteudo": "RAIO-X DA PROVA: Sem provas públicas do CGINV III para contar incidência. Prioridade pela Onda 1 do Pareto (peso do edital) e pela apostila-parâmetro do CP RPPS (módulo Títulos e Valores Mobiliários, p. 86–106). Tema comum a CGINV I/II/III, DIRIG e CODEF quando o edital repete o ponto.\n\nO QUE A BANCA COBRA:\nRelação entre taxa e preço, características de cada título público (indexador e cupom), diferença entre crédito bancário e corporativo, e o efeito da política monetária na carteira.\n\nENTENDA:\nFormação dos juros. A taxa básica é a Selic, decidida pelo Copom em oito reuniões por ano. A partir dela se forma a curva de juros: prazos mais longos embutem expectativa de Selic futura, prêmio pela incerteza e risco fiscal. Para empresas, juros altos encarecem o capital e reduzem investimento; para o governo, aumentam o custo de rolagem da dívida. Instrumentos da política monetária: meta Selic (operações compromissadas), depósitos compulsórios e redesconto.\n\nTítulos públicos federais (emitidos pelo Tesouro Nacional, custodiados no Selic):\n• LTN (Tesouro Prefixado): prefixado, sem cupom, valor de face R$ 1.000 no vencimento.\n• NTN-F: prefixado com cupom semestral (10% a.a.).\n• LFT (Tesouro Selic): pós-fixado à Selic; variação de preço muito baixa, usada como caixa.\n• NTN-B (Tesouro IPCA+ com juros semestrais): IPCA + taxa real, cupom semestral de 6% a.a.\n• NTN-B Principal (Tesouro IPCA+): IPCA + taxa real, sem cupom.\nPara RPPS, títulos públicos federais são o ativo de menor risco de crédito e podem ser mantidos até o vencimento, contabilizados pela curva, quando atendidos os requisitos da regulamentação (compatibilidade com o fluxo do passivo e capacidade de carregamento).\n\nTítulos privados: CDB e LF (bancários; a LF tem prazo mínimo e não tem cobertura do FGC), LCI e LCA (lastro imobiliário e agrícola), debêntures (dívida de companhias), CRI e CRA (securitização). O FGC cobre depósitos e letras bancárias elegíveis até R$ 250 mil por titular e por instituição, com limite global de R$ 1 milhão a cada quatro anos; a garantia não alcança LF nem debêntures.\n\nPreço e taxa. Preço = valor futuro ÷ (1 + taxa)^prazo. Se a taxa de mercado sobe, o preço cai; quanto mais longo o prazo (maior duration), maior a oscilação. É por isso que NTN-B longas oscilam muito na marcação a mercado e LFT praticamente não oscila.\n\nDuration. Prazo médio ponderado dos fluxos de caixa; mede a sensibilidade do preço à taxa. Título sem cupom tem duration igual ao prazo; com cupom, menor que o prazo.\n\nESQUEMA:\nPrefixados: LTN (sem cupom), NTN-F (cupom 10%). Pós-Selic: LFT. Inflação: NTN-B (cupom 6%), NTN-B Principal (sem cupom). Taxa ↑ → preço ↓, mais forte quanto maior a duration.\n\nPEGADINHAS:\n• \"A LFT é a que mais oscila com a alta dos juros\" — errado: é a que menos oscila.\n• \"NTN-B Principal paga cupom semestral\" — errado: não paga cupom.\n• \"LF e debêntures têm cobertura do FGC\" — errado.\n• \"Duration de título com cupom é igual ao prazo\" — errado: é menor.\n\nDOUTRINA:\nA relação preço–taxa e a duration seguem a análise de renda fixa de manuais como Fabozzi (Mercados, análise e estratégias de bônus) e Assaf Neto (Mercado Financeiro).",
+   "flashcards": [
+    {
+     "frente": "Quantas reuniões o Copom faz por ano?",
+     "verso": "Oito.",
+     "dispositivo": "BCB"
+    },
+    {
+     "frente": "LTN x NTN-F?",
+     "verso": "Ambos prefixados; LTN sem cupom, NTN-F com cupom semestral de 10% a.a.",
+     "dispositivo": "Tesouro Nacional"
+    },
+    {
+     "frente": "NTN-B x NTN-B Principal?",
+     "verso": "IPCA + juro real; NTN-B paga cupom semestral de 6% a.a., a Principal não paga cupom.",
+     "dispositivo": "Tesouro Nacional"
+    },
+    {
+     "frente": "Título que menos oscila com juros?",
+     "verso": "LFT (pós-fixada à Selic).",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Limite do FGC?",
+     "verso": "R$ 250 mil por titular por instituição; teto global R$ 1 milhão a cada 4 anos; não cobre LF nem debêntures.",
+     "dispositivo": "FGC"
+    },
+    {
+     "frente": "O que mede a duration?",
+     "verso": "Prazo médio ponderado dos fluxos e sensibilidade do preço à taxa.",
+     "dispositivo": ""
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A NTN-B Principal remunera pela variação do IPCA acrescida de taxa real e não paga cupons periódicos.",
+     "gabarito": "C",
+     "comentario": "Certo. O pagamento é integral no vencimento.",
+     "dispositivo": "Tesouro Nacional"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Em uma alta inesperada da Selic, a LFT tende a apresentar perda a mercado maior que a NTN-B de longo prazo.",
+     "gabarito": "E",
+     "comentario": "Errado. A LFT acompanha a Selic e oscila muito pouco; a NTN-B longa, de alta duration, sofre mais.",
+     "dispositivo": "Relação preço–taxa"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A duration de um título com pagamento de cupons é inferior ao seu prazo de vencimento.",
+     "gabarito": "C",
+     "comentario": "Certo. Os cupons antecipam fluxos e reduzem o prazo médio ponderado.",
+     "dispositivo": "Matemática de renda fixa"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Uma LTN tem valor de face de R$ 1.000 e vence em exatamente 1 ano. Se a taxa de mercado é 12% a.a., o preço aproximado é:",
+     "alternativas": {
+      "A": "R$ 880,00",
+      "B": "R$ 892,86",
+      "C": "R$ 1.120,00",
+      "D": "R$ 1.000,00",
+      "E": "R$ 900,00"
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). Subtrair 12% do valor de face não é desconto composto. B (correta). 1.000 ÷ 1,12 = 892,86. C (incorreta). Esse é o valor futuro capitalizado. D (incorreta). Só no vencimento vale o valor de face. E (incorreta). Corresponderia a uma taxa de cerca de 11,1%. (Precificação de título sem cupom)",
+     "comentarios_por_alternativa": {
+      "A": "Subtrair 12% do valor de face não é desconto composto.",
+      "B": "1.000 ÷ 1,12 = 892,86.",
+      "C": "Esse é o valor futuro capitalizado.",
+      "D": "Só no vencimento vale o valor de face.",
+      "E": "Corresponderia a uma taxa de cerca de 11,1%."
+     },
+     "dispositivo": "Precificação de título sem cupom"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "facil",
+     "enunciado": "O Comitê de Investimentos do RPPS de Lago Azul quer reduzir a volatilidade da parcela de liquidez imediata. O título mais adequado é:",
+     "alternativas": {
+      "A": "NTN-B com vencimento em 2050",
+      "B": "NTN-F com vencimento em 2035",
+      "C": "LFT",
+      "D": "LTN de 10 anos",
+      "E": "Debênture incentivada de 12 anos"
+     },
+     "gabarito": "C",
+     "comentario": "A (incorreta). Alta duration gera grande oscilação. B (incorreta). Prefixado longo oscila muito. C (correta). Pós-fixado à Selic tem baixíssima volatilidade. D (incorreta). Prefixado longo, alta duration. E (incorreta). Longo prazo e risco de crédito privado. (Gestão de liquidez)",
+     "comentarios_por_alternativa": {
+      "A": "Alta duration gera grande oscilação.",
+      "B": "Prefixado longo oscila muito.",
+      "C": "Pós-fixado à Selic tem baixíssima volatilidade.",
+      "D": "Prefixado longo, alta duration.",
+      "E": "Longo prazo e risco de crédito privado."
+     },
+     "dispositivo": "Gestão de liquidez"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Sobre o Fundo Garantidor de Créditos, assinale a correta:",
+     "alternativas": {
+      "A": "Cobre debêntures emitidas por bancos.",
+      "B": "Cobre letras financeiras sem limite.",
+      "C": "Cobre CDB até R$ 250 mil por titular por instituição, com teto global de R$ 1 milhão em quatro anos.",
+      "D": "Cobre cotas de fundos de renda fixa.",
+      "E": "Cobre títulos públicos federais."
+     },
+     "gabarito": "C",
+     "comentario": "A (incorreta). Debêntures não têm cobertura. B (incorreta). LF não tem cobertura. C (correta). É a regra de cobertura vigente para depósitos elegíveis. D (incorreta). Cotas de fundos não são cobertas. E (incorreta). Títulos públicos têm risco soberano, não FGC. (Regulamento do FGC)",
+     "comentarios_por_alternativa": {
+      "A": "Debêntures não têm cobertura.",
+      "B": "LF não tem cobertura.",
+      "C": "É a regra de cobertura vigente para depósitos elegíveis.",
+      "D": "Cotas de fundos não são cobertas.",
+      "E": "Títulos públicos têm risco soberano, não FGC."
+     },
+     "dispositivo": "Regulamento do FGC"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Quando a taxa de juros de mercado ___, o preço do título prefixado ___, e o efeito é maior quanto maior a ___.",
+     "opcoes": [
+      "sobe",
+      "cai",
+      "duration",
+      "liquidez"
+     ],
+     "respostas": [
+      "sobe",
+      "cai",
+      "duration"
+     ],
+     "explicacao": "Relação inversa entre taxa e preço.",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "LTN",
+       "Prefixado sem cupom"
+      ],
+      [
+       "NTN-F",
+       "Prefixado com cupom de 10%"
+      ],
+      [
+       "LFT",
+       "Pós-fixado à Selic"
+      ],
+      [
+       "NTN-B",
+       "IPCA + cupom de 6%"
+      ]
+     ],
+     "explicacao": "Os quatro títulos públicos mais cobrados.",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene, da menor para a maior sensibilidade a juros.",
+     "itens": [
+      "LFT",
+      "LTN de 1 ano",
+      "NTN-F de 10 anos",
+      "NTN-B Principal de 30 anos"
+     ],
+     "explicacao": "Sensibilidade cresce com a duration.",
+     "dispositivo": ""
+    }
+   ]
+  }
+ ]
+}

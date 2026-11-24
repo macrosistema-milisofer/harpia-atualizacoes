@@ -1,0 +1,190 @@
+{
+ "assunto": "Fronteira eficiente e diversificação",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 — Claude (C-14-CGINV, frente Claude)",
+ "origem": "2026-11-23_banco-cginv3-fronteira-eficiente-diversificacao_C14C_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "cginv3-c14c-fronteira-eficiente",
+   "titulo": "Fronteira eficiente: risco de carteira, correlação e variância mínima",
+   "microconteudo": "RAIO-X DA PROVA: Sem provas públicas do CGINV III para contar incidência. Prioridade pela Onda 1 do Pareto (peso do edital) e pela apostila-parâmetro do CP RPPS (módulo Investimentos, p. 143–176). Tema comum a CGINV I/II/III, DIRIG e CODEF quando o edital repete o ponto.\n\nO QUE A BANCA COBRA:\nCalcular retorno e risco de carteira com dois ativos, entender o papel da correlação na diversificação, identificar a carteira de variância mínima e localizar a fronteira eficiente na envoltória.\n\nENTENDA:\nRetorno da carteira. É a média ponderada dos retornos esperados: E(Rp) = w1·E(R1) + w2·E(R2), com w1 + w2 = 1.\n\nRisco da carteira com dois ativos. Não é a média dos desvios-padrão:\nσp² = w1²σ1² + w2²σ2² + 2·w1·w2·ρ12·σ1·σ2,\nem que ρ12 é a correlação (de −1 a +1). Com três ativos somam-se três variâncias ponderadas e três termos de covariância.\n• ρ = +1: não há benefício de diversificação; o risco é a média ponderada dos desvios.\n• ρ < 1: o risco da carteira fica abaixo da média ponderada — é o ganho da diversificação.\n• ρ = −1: é possível montar uma combinação com risco zero.\nPor isso o Comitê busca classes com baixa correlação (por exemplo, renda fixa, ações locais, exterior), e não apenas \"muitos ativos\".\n\nCurva envoltória e variância mínima. Ao variar os pesos de todas as combinações possíveis, desenha-se no plano risco (eixo x) × retorno (eixo y) uma curva em forma de \"bala\" — a envoltória ou conjunto de oportunidades. O ponto mais à esquerda é a carteira de variância mínima global. Com dois ativos, o peso do ativo 1 nessa carteira é w1 = (σ2² − ρσ1σ2) ÷ (σ1² + σ2² − 2ρσ1σ2).\n\nFronteira eficiente. É o trecho da envoltória acima da carteira de variância mínima: para cada nível de risco, o maior retorno possível. Carteiras abaixo desse ponto são ineficientes, porque existe outra com o mesmo risco e retorno maior.\n\nEscolha da carteira ótima. Sem ativo livre de risco, o investidor escolhe o ponto da fronteira em que sua curva de indiferença (que expressa a aversão ao risco) tangencia a fronteira. Investidores mais avessos ficam mais perto da variância mínima.\n\nLimitações práticas. Os resultados são sensíveis às estimativas de retorno, volatilidade e correlação; correlações tendem a subir em crises, reduzindo o benefício da diversificação justamente quando ele é mais necessário. Por isso a alocação usa estudos de ALM e restrições de limites legais.\n\nESQUEMA:\nE(Rp) = média ponderada | σp² com termo 2w1w2ρσ1σ2 | ρ = +1 sem ganho | ρ = −1 risco zero possível | Envoltória → variância mínima (ponto mais à esquerda) → fronteira eficiente (trecho superior) | Ótimo = tangência com a curva de indiferença.\n\nPEGADINHAS:\n• \"O risco da carteira é sempre a média ponderada dos riscos\" — errado: só se ρ = +1.\n• \"Toda carteira da envoltória é eficiente\" — errado: só a parte superior a partir da variância mínima.\n• \"Diversificar é apenas aumentar o número de ativos\" — errado: o que importa é a correlação.\n\nDOUTRINA:\nMarkowitz (Portfolio Selection, Journal of Finance, 1952) e Elton, Gruber, Brown e Goetzmann (Moderna Teoria de Carteiras e Análise de Investimentos).",
+   "flashcards": [
+    {
+     "frente": "Variância de carteira de 2 ativos?",
+     "verso": "w1²σ1² + w2²σ2² + 2w1w2ρσ1σ2.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Correlação +1?",
+     "verso": "Sem ganho de diversificação; risco = média ponderada dos desvios.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Correlação −1?",
+     "verso": "Permite combinação de risco zero.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Carteira de variância mínima?",
+     "verso": "Ponto mais à esquerda da envoltória.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Fronteira eficiente?",
+     "verso": "Trecho superior da envoltória, a partir da variância mínima.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Como se escolhe a carteira ótima sem ativo livre de risco?",
+     "verso": "Tangência entre a curva de indiferença e a fronteira.",
+     "dispositivo": ""
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Quando a correlação entre dois ativos é igual a +1, não há redução de risco pela diversificação.",
+     "gabarito": "C",
+     "comentario": "Certo. O risco é a média ponderada dos desvios-padrão.",
+     "dispositivo": "Markowitz"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Todas as carteiras sobre a curva envoltória são eficientes.",
+     "gabarito": "E",
+     "comentario": "Errado. Apenas o trecho superior, a partir da variância mínima.",
+     "dispositivo": "Fronteira eficiente"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Em períodos de crise, a elevação das correlações entre ativos tende a reduzir o benefício da diversificação.",
+     "gabarito": "C",
+     "comentario": "Certo. É limitação prática conhecida do modelo.",
+     "dispositivo": "Gestão de carteiras"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Carteira com 50% em A (E=10%, σ=20%) e 50% em B (E=6%, σ=10%), correlação zero. Retorno esperado e desvio-padrão aproximados:",
+     "alternativas": {
+      "A": "8% e 15%",
+      "B": "8% e 11,2%",
+      "C": "8% e 5%",
+      "D": "16% e 15%",
+      "E": "8% e 22,4%"
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). 15% seria com ρ = +1. B (correta). σ² = 0,25·400 + 0,25·100 = 125 → σ ≈ 11,2%. C (incorreta). Subestima o risco. D (incorreta). Retorno somado em vez de ponderado. E (incorreta). Erro na raiz. (σp² = w1²σ1² + w2²σ2² + 2w1w2ρσ1σ2)",
+     "comentarios_por_alternativa": {
+      "A": "15% seria com ρ = +1.",
+      "B": "σ² = 0,25·400 + 0,25·100 = 125 → σ ≈ 11,2%.",
+      "C": "Subestima o risco.",
+      "D": "Retorno somado em vez de ponderado.",
+      "E": "Erro na raiz."
+     },
+     "dispositivo": "σp² = w1²σ1² + w2²σ2² + 2w1w2ρσ1σ2"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "A carteira de variância mínima global é:",
+     "alternativas": {
+      "A": "A de maior retorno da fronteira",
+      "B": "O ponto mais à esquerda da envoltória no plano risco × retorno",
+      "C": "Sempre 100% no ativo de menor risco",
+      "D": "A carteira de mercado",
+      "E": "Qualquer carteira com ρ = 0"
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). Maior retorno fica no extremo superior. B (correta). É a de menor risco possível entre as combinações. C (incorreta). Com ρ < 1, combinar costuma reduzir risco abaixo do menor ativo. D (incorreta). Carteira de mercado depende do ativo livre de risco. E (incorreta). Correlação não define o ponto sozinha. (Fronteira eficiente)",
+     "comentarios_por_alternativa": {
+      "A": "Maior retorno fica no extremo superior.",
+      "B": "É a de menor risco possível entre as combinações.",
+      "C": "Com ρ < 1, combinar costuma reduzir risco abaixo do menor ativo.",
+      "D": "Carteira de mercado depende do ativo livre de risco.",
+      "E": "Correlação não define o ponto sozinha."
+     },
+     "dispositivo": "Fronteira eficiente"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "O Comitê de Investimentos de um RPPS quer reduzir o risco sem diminuir o retorno esperado. A medida tecnicamente mais adequada é:",
+     "alternativas": {
+      "A": "Concentrar em um único fundo de maior retorno histórico",
+      "B": "Incluir classes de ativos com baixa correlação com a carteira atual",
+      "C": "Aumentar o número de fundos de ações com a mesma estratégia",
+      "D": "Trocar todos os ativos por prefixados longos",
+      "E": "Eliminar a renda fixa"
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). Concentração aumenta risco específico. B (correta). Baixa correlação é o motor da diversificação. C (incorreta). Ativos muito correlacionados pouco diversificam. D (incorreta). Concentra risco de juros. E (incorreta). Aumenta a volatilidade. (Diversificação)",
+     "comentarios_por_alternativa": {
+      "A": "Concentração aumenta risco específico.",
+      "B": "Baixa correlação é o motor da diversificação.",
+      "C": "Ativos muito correlacionados pouco diversificam.",
+      "D": "Concentra risco de juros.",
+      "E": "Aumenta a volatilidade."
+     },
+     "dispositivo": "Diversificação"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O risco de uma carteira depende dos pesos, das volatilidades e da ___; com ρ = ___ não há ganho de diversificação.",
+     "opcoes": [
+      "correlação",
+      "+1",
+      "−1",
+      "liquidez"
+     ],
+     "respostas": [
+      "correlação",
+      "+1"
+     ],
+     "explicacao": "Papel da correlação.",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "ρ = +1",
+       "Sem diversificação"
+      ],
+      [
+       "ρ = 0",
+       "Diversificação parcial"
+      ],
+      [
+       "ρ = −1",
+       "Risco zero possível"
+      ],
+      [
+       "Variância mínima",
+       "Ponto mais à esquerda"
+      ]
+     ],
+     "explicacao": "Correlação e fronteira.",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a construção da fronteira eficiente.",
+     "itens": [
+      "Estimar retornos, volatilidades e correlações",
+      "Calcular combinações de pesos",
+      "Traçar a envoltória",
+      "Identificar a variância mínima e o trecho superior"
+     ],
+     "explicacao": "Passos do modelo de Markowitz.",
+     "dispositivo": ""
+    }
+   ]
+  }
+ ]
+}

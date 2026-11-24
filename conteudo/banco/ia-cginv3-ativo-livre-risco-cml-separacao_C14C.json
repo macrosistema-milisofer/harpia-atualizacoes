@@ -1,0 +1,190 @@
+{
+ "assunto": "Ativo livre de risco, teorema da separação e CML",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 — Claude (C-14-CGINV, frente Claude)",
+ "origem": "2026-11-23_banco-cginv3-ativo-livre-risco-cml-separacao_C14C_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "cginv3-c14c-ativo-livre-risco",
+   "titulo": "Ativo livre de risco: separação, Linha de Mercado de Capitais e alavancagem",
+   "microconteudo": "RAIO-X DA PROVA: Sem provas públicas do CGINV III para contar incidência. Prioridade pela Onda 1 do Pareto (peso do edital) e pela apostila-parâmetro do CP RPPS (módulo Investimentos, p. 143–176). Tema comum a CGINV I/II/III, DIRIG e CODEF quando o edital repete o ponto.\n\nO QUE A BANCA COBRA:\nAplicar a equação da CML, explicar o teorema da separação, reconhecer carteira emprestadora x tomadora (alavancada) e listar as hipóteses do modelo e o que ocorre quando são relaxadas.\n\nENTENDA:\nAtivo livre de risco. Ativo com retorno certo no horizonte considerado (variância zero e correlação zero com os demais). Na prática, aproxima-se por título público de curto prazo (no Brasil, em geral a taxa Selic/DI ou LFT).\n\nCombinação com a carteira de risco. Ao misturar o ativo livre de risco (Rf) com uma carteira arriscada M, o risco e o retorno variam linearmente: E(Rp) = Rf + w·[E(RM) − Rf] e σp = w·σM, em que w é a fração em M. As combinações formam uma reta no plano risco × retorno.\n\nLinha de Mercado de Capitais (CML). A melhor reta é a que tangencia a fronteira eficiente; o ponto de tangência é a carteira de mercado M. A equação:\nE(Rp) = Rf + [(E(RM) − Rf) ÷ σM] × σp.\nA inclinação, (E(RM) − Rf) ÷ σM, é o preço de mercado do risco — e coincide com o índice de Sharpe da carteira de mercado. Toda carteira eficiente fica sobre a CML.\n\nTeorema da separação (Tobin). A decisão de investimento se separa em duas etapas: (1) identificar a carteira de risco ótima M, que é a mesma para todos os investidores com as mesmas expectativas; (2) decidir quanto aplicar em M e quanto no ativo livre de risco, conforme a aversão ao risco de cada um. O mais avesso fica perto de Rf; o menos avesso vai além de M.\n\nCarteira emprestadora x tomadora. Com w < 1, o investidor aplica parte em Rf (empresta): carteira emprestadora, entre Rf e M. Com w > 1, toma emprestado à taxa livre de risco para aplicar mais que seu capital em M: carteira tomadora ou alavancada, à direita de M na CML, com mais retorno esperado e mais risco. Efeito da alavancagem: amplia ganhos e perdas. Para RPPS, a alavancagem é restrita pela regulamentação dos investimentos.\n\nHipóteses e relaxamento. O modelo supõe mercados sem custos de transação e impostos, possibilidade de emprestar e tomar à mesma taxa livre de risco, ativos infinitamente divisíveis, venda a descoberto ilimitada, expectativas homogêneas e investidores que decidem por média e variância. Relaxando: com taxa de captação maior que a de aplicação, a CML se \"quebra\" em dois segmentos e há um trecho curvo da fronteira entre eles; sem venda a descoberto, a fronteira se restringe; com custos e impostos, carteiras diferentes podem ser ótimas para investidores diferentes.\n\nESQUEMA:\nCML: E(Rp) = Rf + [(E(RM) − Rf)/σM]·σp | Inclinação = Sharpe de M | Separação: 1º escolher M (igual para todos), 2º dosar Rf × M (aversão) | w < 1 emprestadora | w > 1 tomadora/alavancada.\n\nPEGADINHAS:\n• \"Cada investidor tem uma carteira de risco ótima diferente no modelo\" — errado: todos escolhem M; muda só a proporção com Rf.\n• \"A CML relaciona retorno e beta\" — errado: CML usa desvio-padrão total; retorno × beta é a SML (CAPM).\n• \"Carteira alavancada fica entre Rf e M\" — errado: fica à direita de M.\n\nDOUTRINA:\nJames Tobin (Liquidity Preference as Behavior Towards Risk, 1958), William Sharpe (1964) e Elton, Gruber, Brown e Goetzmann.",
+   "flashcards": [
+    {
+     "frente": "Equação da CML?",
+     "verso": "E(Rp) = Rf + [(E(RM) − Rf)/σM]·σp.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Inclinação da CML?",
+     "verso": "Preço de mercado do risco = Sharpe da carteira de mercado.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Teorema da separação?",
+     "verso": "1) carteira de risco M igual para todos; 2) dose entre Rf e M conforme a aversão.",
+     "dispositivo": "Tobin (1958)"
+    },
+    {
+     "frente": "Carteira tomadora?",
+     "verso": "w > 1: toma emprestado a Rf e investe mais que o capital em M (alavancada).",
+     "dispositivo": ""
+    },
+    {
+     "frente": "CML x SML?",
+     "verso": "CML: retorno × desvio-padrão (carteiras eficientes). SML: retorno × beta (qualquer ativo).",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Taxas de captação e aplicação diferentes?",
+     "verso": "A CML se divide em dois segmentos com trecho curvo entre eles.",
+     "dispositivo": ""
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Pelo teorema da separação, todos os investidores com as mesmas expectativas escolhem a mesma carteira de ativos de risco, variando apenas a proporção aplicada no ativo livre de risco.",
+     "gabarito": "C",
+     "comentario": "Certo. É o núcleo do teorema de Tobin.",
+     "dispositivo": "Tobin (1958)"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A Linha de Mercado de Capitais relaciona o retorno esperado ao beta de cada ativo.",
+     "gabarito": "E",
+     "comentario": "Errado. Isso é a SML; a CML usa o desvio-padrão total das carteiras eficientes.",
+     "dispositivo": "CML x SML"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Uma carteira com 130% aplicado na carteira de mercado, financiado à taxa livre de risco, situa-se à direita da carteira de mercado na CML.",
+     "gabarito": "C",
+     "comentario": "Certo. É carteira tomadora (alavancada).",
+     "dispositivo": "CML"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Rf = 10%, E(RM) = 16% e σM = 20%. Pela CML, uma carteira eficiente com σp = 10% tem retorno esperado de:",
+     "alternativas": {
+      "A": "13%",
+      "B": "16%",
+      "C": "10%",
+      "D": "8%",
+      "E": "26%"
+     },
+     "gabarito": "A",
+     "comentario": "A (correta). 10% + (6%/20%)·10% = 10% + 3% = 13%. B (incorreta). É o retorno de M, com σ = 20%. C (incorreta). Seria σp = 0. D (incorreta). Abaixo de Rf, impossível na CML. E (incorreta). Soma indevida. (CML)",
+     "comentarios_por_alternativa": {
+      "A": "10% + (6%/20%)·10% = 10% + 3% = 13%.",
+      "B": "É o retorno de M, com σ = 20%.",
+      "C": "Seria σp = 0.",
+      "D": "Abaixo de Rf, impossível na CML.",
+      "E": "Soma indevida."
+     },
+     "dispositivo": "CML"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "No exemplo anterior, a inclinação da CML (preço de mercado do risco) é:",
+     "alternativas": {
+      "A": "0,8",
+      "B": "0,3",
+      "C": "0,5",
+      "D": "1,6",
+      "E": "6%"
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). 16/20 ignora Rf. B (correta). (16% − 10%)/20% = 0,3. C (incorreta). Erro de conta. D (incorreta). Inverte a razão. E (incorreta). Isso é o prêmio de mercado, não a inclinação. (Sharpe da carteira de mercado)",
+     "comentarios_por_alternativa": {
+      "A": "16/20 ignora Rf.",
+      "B": "(16% − 10%)/20% = 0,3.",
+      "C": "Erro de conta.",
+      "D": "Inverte a razão.",
+      "E": "Isso é o prêmio de mercado, não a inclinação."
+     },
+     "dispositivo": "Sharpe da carteira de mercado"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Quando a taxa para tomar emprestado é maior que a taxa para aplicar sem risco:",
+     "alternativas": {
+      "A": "A CML permanece uma reta única.",
+      "B": "A carteira de mercado deixa de existir.",
+      "C": "A linha se divide em dois segmentos, com um trecho da fronteira curva entre eles.",
+      "D": "Ninguém pode alavancar.",
+      "E": "O ativo livre de risco passa a ter variância."
+     },
+     "gabarito": "C",
+     "comentario": "A (incorreta). Com taxas diferentes há duas tangências. B (incorreta). A fronteira continua existindo. C (correta). É o efeito do relaxamento dessa hipótese. D (incorreta). Pode alavancar, só que a custo maior. E (incorreta). A taxa continua certa; só muda o custo. (Relaxamento de hipóteses)",
+     "comentarios_por_alternativa": {
+      "A": "Com taxas diferentes há duas tangências.",
+      "B": "A fronteira continua existindo.",
+      "C": "É o efeito do relaxamento dessa hipótese.",
+      "D": "Pode alavancar, só que a custo maior.",
+      "E": "A taxa continua certa; só muda o custo."
+     },
+     "dispositivo": "Relaxamento de hipóteses"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Na CML, a inclinação é o ___ de mercado do risco e coincide com o índice de ___ da carteira de mercado.",
+     "opcoes": [
+      "preço",
+      "Sharpe",
+      "Treynor",
+      "beta"
+     ],
+     "respostas": [
+      "preço",
+      "Sharpe"
+     ],
+     "explicacao": "Leitura da CML.",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "w < 1",
+       "Carteira emprestadora"
+      ],
+      [
+       "w = 1",
+       "Carteira de mercado"
+      ],
+      [
+       "w > 1",
+       "Carteira tomadora"
+      ],
+      [
+       "w = 0",
+       "Só ativo livre de risco"
+      ]
+     ],
+     "explicacao": "Posições na CML.",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene as etapas do teorema da separação.",
+     "itens": [
+      "Estimar a fronteira eficiente",
+      "Traçar a reta a partir de Rf",
+      "Encontrar a tangência M",
+      "Escolher a proporção entre Rf e M"
+     ],
+     "explicacao": "Decisão em duas etapas.",
+     "dispositivo": ""
+    }
+   ]
+  }
+ ]
+}

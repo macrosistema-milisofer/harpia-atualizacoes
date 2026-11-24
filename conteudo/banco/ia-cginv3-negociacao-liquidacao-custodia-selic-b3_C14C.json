@@ -1,0 +1,191 @@
+{
+ "assunto": "Negociação, liquidação e custódia: Selic e B3",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 — Claude (C-14-CGINV, frente Claude)",
+ "origem": "2026-11-23_banco-cginv3-negociacao-liquidacao-custodia-selic-b3_C14C_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "cginv3-c14c-selic-b3",
+   "titulo": "Selic e B3: onde os títulos são registrados, custodiados e liquidados",
+   "microconteudo": "RAIO-X DA PROVA: Sem provas públicas do CGINV III para contar incidência. Prioridade pela Onda 1 do Pareto (peso do edital) e pela apostila-parâmetro do CP RPPS (módulo Mercado Financeiro, p. 86–106). Tema comum a CGINV I/II/III, DIRIG e CODEF quando o edital repete o ponto.\n\nO QUE A BANCA COBRA:\nSaber qual infraestrutura registra cada ativo, o que é liquidação financeira x física, o papel da contraparte central e os benefícios do Selic para o investidor.\n\nENTENDA:\nSelic (Sistema Especial de Liquidação e de Custódia). Sistema do Banco Central para registro, custódia e liquidação dos títulos públicos federais, que são escriturais (só existem como registro eletrônico). Cada operação é liquidada em tempo real, com entrega contra pagamento: o título só sai de uma conta quando o dinheiro entra na outra, pela integração com o STR (Sistema de Transferência de Reservas). Benefícios ao investidor: elimina o risco de principal na liquidação, dá transparência sobre a titularidade e reduz o risco operacional e de fraude. Principais títulos custodiados: LFT, LTN, NTN-B, NTN-B Principal e NTN-F. É também a partir das operações compromissadas de um dia registradas no Selic que se apura a taxa Selic efetiva (over).\n\nB3. Resulta da integração entre a BM&FBOVESPA e a Cetip (2017). Atua como bolsa (ambiente de negociação de ações, futuros e opções), balcão organizado (registro de CDB, debêntures, swaps, CRI, CRA), câmara de compensação e liquidação com contraparte central e depositária central de ativos. Na contraparte central, a B3 se interpõe entre comprador e vendedor e garante a liquidação, exigindo margem e aplicando ajustes; isso reduz o risco sistêmico.\n\nCiclo de liquidação. Ações à vista na B3 liquidam em D+2 (dois dias úteis após o pregão). Títulos públicos no Selic podem liquidar em D+0. A custódia é a guarda e o controle dos ativos e dos eventos (juros, amortizações, dividendos) em nome do investidor; no fundo de investimento, o custodiante é contratado pelo administrador.\n\nLiquidação física x financeira. Na física há entrega do ativo; na financeira, apenas a diferença em dinheiro (comum em derivativos como índices e swaps).\n\nPor que isso importa ao RPPS. A compra direta de títulos públicos pelo RPPS deve ser feita com registro no Selic e conta de custódia em nome do RPPS, por meio de instituição credenciada; a regulamentação exige que os ativos e as operações sejam registrados em sistemas autorizados (Selic, B3 ou outra infraestrutura autorizada pelo BCB ou CVM), o que o Comitê verifica na documentação da operação e no extrato de custódia.\n\nESQUEMA:\nTítulos públicos → Selic (BCB), escriturais, tempo real, entrega contra pagamento. Ações, derivativos, títulos privados → B3 (bolsa, balcão, câmara com contraparte central, depositária). Ações à vista: D+2.\n\nPEGADINHAS:\n• \"O Selic registra debêntures e CDB\" — errado: são registrados na B3 (balcão).\n• \"Na contraparte central o investidor assume o risco do outro lado\" — errado: a câmara garante a liquidação.\n• \"Ações à vista liquidam no mesmo dia do pregão\" — errado: D+2.\n• \"Títulos públicos federais são emitidos em papel e guardados em cofre\" — errado: são escriturais.\n\nDOUTRINA:\nA descrição das infraestruturas segue a regulamentação do BCB para o Selic e os manuais de mercado de capitais (por exemplo, Eduardo Fortuna, Mercado Financeiro).",
+   "flashcards": [
+    {
+     "frente": "O que é o Selic?",
+     "verso": "Sistema do BCB para registro, custódia e liquidação de títulos públicos federais, em tempo real.",
+     "dispositivo": "BCB"
+    },
+    {
+     "frente": "Entrega contra pagamento?",
+     "verso": "O ativo só é transferido quando o pagamento é efetivado, eliminando risco de principal.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Origem da B3?",
+     "verso": "Integração entre BM&FBOVESPA e Cetip, em 2017.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Contraparte central?",
+     "verso": "A câmara se interpõe entre as partes e garante a liquidação, com margens.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Prazo de liquidação de ações à vista?",
+     "verso": "D+2.",
+     "dispositivo": "B3"
+    },
+    {
+     "frente": "Onde se registram debêntures e CDB?",
+     "verso": "No balcão organizado da B3.",
+     "dispositivo": ""
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O Selic opera com liquidação em tempo real e entrega contra pagamento, o que elimina o risco de principal na liquidação de títulos públicos.",
+     "gabarito": "C",
+     "comentario": "Certo. É o principal benefício do sistema.",
+     "dispositivo": "Regulamento do Selic"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Debêntures e CDB são registrados e custodiados no Selic.",
+     "gabarito": "E",
+     "comentario": "Errado. O Selic é para títulos públicos federais; privados vão à B3.",
+     "dispositivo": "Infraestruturas de mercado"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Na atuação como contraparte central, a câmara da B3 garante a liquidação das operações e exige margem dos participantes.",
+     "gabarito": "C",
+     "comentario": "Certo. Reduz o risco de contraparte e o risco sistêmico.",
+     "dispositivo": "B3"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "facil",
+     "enunciado": "O RPPS de Pedra Branca comprou ações no mercado à vista numa segunda-feira sem feriados na semana. A liquidação ocorre:",
+     "alternativas": {
+      "A": "Na própria segunda-feira",
+      "B": "Na terça-feira",
+      "C": "Na quarta-feira",
+      "D": "Na sexta-feira",
+      "E": "Na segunda-feira seguinte"
+     },
+     "gabarito": "C",
+     "comentario": "A (incorreta). D+0 não é o ciclo das ações. B (incorreta). D+1 não é o ciclo vigente. C (correta). D+2: quarta-feira. D (incorreta). Prazo excessivo. E (incorreta). Prazo excessivo. (Ciclo de liquidação B3)",
+     "comentarios_por_alternativa": {
+      "A": "D+0 não é o ciclo das ações.",
+      "B": "D+1 não é o ciclo vigente.",
+      "C": "D+2: quarta-feira.",
+      "D": "Prazo excessivo.",
+      "E": "Prazo excessivo."
+     },
+     "dispositivo": "Ciclo de liquidação B3"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "facil",
+     "enunciado": "Qual título NÃO é custodiado no Selic?",
+     "alternativas": {
+      "A": "LFT",
+      "B": "LTN",
+      "C": "NTN-B Principal",
+      "D": "Debênture incentivada",
+      "E": "NTN-F"
+     },
+     "gabarito": "D",
+     "comentario": "A (incorreta). Título público federal. B (incorreta). Título público federal. C (incorreta). Título público federal. D (correta). Título privado, registrado na B3. E (incorreta). Título público federal. (Selic)",
+     "comentarios_por_alternativa": {
+      "A": "Título público federal.",
+      "B": "Título público federal.",
+      "C": "Título público federal.",
+      "D": "Título privado, registrado na B3.",
+      "E": "Título público federal."
+     },
+     "dispositivo": "Selic"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Assinale a característica correta da liquidação financeira:",
+     "alternativas": {
+      "A": "Exige entrega do ativo-objeto ao comprador.",
+      "B": "Liquida apenas a diferença em dinheiro entre o preço contratado e a referência.",
+      "C": "Só existe no Selic.",
+      "D": "Impede a negociação em bolsa.",
+      "E": "É vedada para fundos de RPPS."
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). Isso é liquidação física. B (correta). É a definição de liquidação financeira. C (incorreta). Ocorre em várias infraestruturas, inclusive derivativos na B3. D (incorreta). Não impede. E (incorreta). Não há essa vedação genérica. (Liquidação)",
+     "comentarios_por_alternativa": {
+      "A": "Isso é liquidação física.",
+      "B": "É a definição de liquidação financeira.",
+      "C": "Ocorre em várias infraestruturas, inclusive derivativos na B3.",
+      "D": "Não impede.",
+      "E": "Não há essa vedação genérica."
+     },
+     "dispositivo": "Liquidação"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Títulos públicos federais são ___ e ficam no ___; ações e derivativos são liquidados na ___.",
+     "opcoes": [
+      "escriturais",
+      "Selic",
+      "B3",
+      "Cetip"
+     ],
+     "respostas": [
+      "escriturais",
+      "Selic",
+      "B3"
+     ],
+     "explicacao": "Cada ativo na sua infraestrutura.",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Selic",
+       "Títulos públicos federais"
+      ],
+      [
+       "B3 bolsa",
+       "Ações, futuros e opções"
+      ],
+      [
+       "B3 balcão",
+       "CDB, debêntures, swaps"
+      ],
+      [
+       "Custodiante",
+       "Guarda e controle de eventos"
+      ]
+     ],
+     "explicacao": "Infraestruturas e funções.",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a compra de ações à vista até a custódia.",
+     "itens": [
+      "Ordem à corretora",
+      "Execução no pregão (D0)",
+      "Liquidação pela câmara (D+2)",
+      "Registro na depositária em nome do investidor"
+     ],
+     "explicacao": "Ciclo de uma compra em bolsa.",
+     "dispositivo": ""
+    }
+   ]
+  }
+ ]
+}

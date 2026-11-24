@@ -1,0 +1,232 @@
+{
+ "assunto": "Fundos de Investimentos — FIF: vedações de negociação e ativos financeiros no Brasil",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 — fontes oficiais conferidas",
+ "origem": "2026-11-23_banco-cginv3-fif-vedacoes-ativos-brasil_C14_lote12_v2.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "cginv3-c14-fif-vedacoes-ativos-brasil",
+   "titulo": "FIF: vedações de negociação e ativos financeiros no Brasil",
+   "microconteudo": "RAIO-X DA PROVA: Sem provas públicas do CGINV III localizadas para calcular incidência. Prioridade pelo peso do edital e pela apostila. O Manual inclui vedações do gestor, identificação dos ativos e registro ou depósito das posições negociadas no mercado brasileiro.\n\nO QUE A BANCA COBRA:\nA questão pode atribuir a uma compra de ações em transação privada o mesmo tratamento de um registro em depositária ou de um empréstimo de ativos. A solução separa a permissão de negociar, a forma de registrar o ativo e o mecanismo que protege a liquidação. O enquadramento como FIF exige aplicar as condições específicas do Anexo I à carteira da classe.\n\nENTENDA:\nO art. 33 do Anexo I da Resolução CVM 175 estabelece que o gestor não realiza operações com ações fora de mercado organizado, salvo as hipóteses expressas. As ressalvas alcançam distribuição pública, exercício de preferência, conversão de debêntures em ações, exercício de bônus de subscrição, integralizações e resgates em ativos e negociação de ações vinculadas a acordo de acionistas. A primeira verificação é a hipótese prevista na norma: se os documentos mostram conversão segundo os termos das debêntures, a exceção pode cobrir a forma de obter as ações. Se a proposta é simplesmente comprar determinado lote de ações em operação privada por conveniência de preço, a existência de código identificador e a posterior custódia não a tornam uma das ressalvas.\n\nO parágrafo único do art. 33 prevê autorização da Superintendência de Supervisão de Investidores Institucionais para transferência privada de ativos em condições cumulativas. Entre elas estão carteira com liquidez para marcação a mercado e isonomia, manutenção das características relevantes das classes e da tributação, assembleias com informação suficiente sobre vantagens e riscos, volume justificável e compatibilidade de carteiras para afastar a coexistência de perfis de risco distintos. Uma assembleia favorável é parte do caminho, e não licença por si só. Em paralelo, o art. 34 veda emprestar ou tomar ativos financeiros mediante serviço sem autorização do BCB ou da CVM. Uma entidade de execução organizada ou um registro válido para outra finalidade não comprova, de forma automática, autorização para prestar o serviço em que o empréstimo é cursado.\n\nA carteira precisa seguir o mandato e os limites na forma do art. 35. Na diligência do comitê do RPPS de Alto da Serra, a documentação de uma classe de R$ 50 milhões prevê distribuição direta aos cotistas de juros sobre capital próprio dos ativos da carteira. A faculdade do art. 36 exige autorização expressa no regulamento ou na assembleia. A escolha influencia a leitura da série de cotas. Em comparação de desempenho, o RPPS pode precisar considerar o provento recebido além da variação da cota. A existência de distribuição de provento não altera por si só a forma de registro do ativo subjacente.\n\nO art. 37 exige código ISIN individualizado para os ativos financeiros da carteira e permite código alternativo a critério da SIN se individualizar os ativos. A identificação precisa facilita conferir o objeto da compra, distinguir séries do mesmo emissor e validar posição após a liquidação. Ela cumpre finalidade diferente do registro ou depósito. De acordo com o art. 39, ativos financeiros negociados no mercado brasileiro devem ser registrados ou submetidos a depósito central junto a instituição autorizada pelo BCB ou pela CVM na respectiva competência, admitidos os casos expressamente aprovados pela CVM. O registro e o depósito precisam ser feitos em contas específicas abertas diretamente em nome da classe.\n\nHá situações em que registro simples é insuficiente. O § 1º do art. 39 obriga depósito central para ativos financeiros emitidos por pessoas referidas nos incisos II a IV do art. 44, como companhias abertas e sociedades de propósito específico subsidiárias integrais de securitizadoras S2, observadas as ressalvas para posições em derivativos com ativos subjacentes dessas pessoas e quando elas atuam como contrapartes em operações com derivativos. O § 2º dispensa dos requisitos do caput as cotas de classes abertas e as de classes fechadas não admitidas à negociação em mercado organizado, sem prejuízo do § 1º. Uma análise que apenas passa de registro para depósito central sempre que o ativo tenha emissão privada é imprecisa. O caminho normativo depende de quem emite, de como se negocia e da exceção aplicável.\n\nPara ativos que podem liquidar com entrega de produtos, mercadorias ou serviços, o art. 40 oferece duas rotas. A negociação ocorre em mercado organizado que garanta a liquidação, com a gestão dos efeitos da entrega física exigida pela Parte Geral, ou há contrato que assegure alienação antes do vencimento, garantido por instituição financeira ou seguradora, observadas, neste último caso, as normas da SUSEP. Um contrato que só permite alienar depois do vencimento não satisfaz a segunda hipótese. Se uma classe do RPPS estuda exposição de R$ 4 milhões a ativo cujo pagamento pode ocorrer em mercadoria, o comitê deve pedir evidência da rota escolhida e avaliar a repercussão da entrega sobre a liquidez.\n\nDOUTRINA:\nCOMISSÃO DE VALORES MOBILIÁRIOS. Cadernos CVM 3: Fundos de Investimento. 3. ed. CVM, 2016, p. 7–10 e 17–22. A divisão entre execução, constituição de carteira e serviços auxiliares permite conferir que o ativo negociado permaneça identificável e separado do patrimônio do intermediário. A negociação em ambiente organizado também facilita observar condições de execução. Os requisitos operacionais específicos do FIF são os do atual Anexo I, posterior ao caderno.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nSem precedente relevante identificado no recorte. A autorização do parágrafo único do art. 33 pertence à SIN e depende da verificação cumulativa dos critérios do dispositivo.\n\nPEGADINHAS:\n1. Usar registro ou ISIN como licença para comprar ações fora de mercado organizado.\n2. Substituir a autorização da SIN por deliberação dos cotistas.\n3. Tratar qualquer serviço de mercado como autorizado para empréstimos de ativos.\n4. Uniformizar registro e depósito central sem conferir os §§ 1º a 3º do art. 39.\n5. Aceitar alienação depois do vencimento quando a entrega física é possível.\n\nESQUEMA:\nAções → ambiente organizado, salvo hipóteses expressas → art. 33.\nEmpréstimos de ativos → serviço autorizado → art. 34.\nIdentificação individual → ISIN ou alternativa aceita pela SIN → art. 37.\nAtivos no Brasil → registro ou depósito conforme emissor, instrumento e exceção → art. 39.\nEntrega física → garantia de liquidação ou alienação antecipada garantida → art. 40.\n\nLIGAÇÕES:\nFundos 9.2, limites por emissor e modalidade. Instrumentos 8.4, registro, liquidação e custódia.",
+   "flashcards": [
+    {
+     "frente": "Onde se negociam ações de FIF como regra?",
+     "verso": "Em mercado organizado, ressalvadas as hipóteses expressas do Anexo I.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 33, caput"
+    },
+    {
+     "frente": "Quem autoriza a transferência privada excepcional do parágrafo único?",
+     "verso": "A SIN, se todos os requisitos cumulativos da norma forem atendidos.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 33, parágrafo único, I–VI"
+    },
+    {
+     "frente": "Que identificação cabe a cada ativo financeiro?",
+     "verso": "ISIN ou outro código individualizador aceito a critério da SIN.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 37"
+    },
+    {
+     "frente": "Em nome de quem é aberta a conta de registro ou depósito?",
+     "verso": "Da classe de cotas, diretamente e de modo específico.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 39, caput e §§ 1º–3º, e art. 44, II"
+    },
+    {
+     "frente": "Que garantia contratual evita depender de mercado organizado para ativo com entrega física?",
+     "verso": "Direito à alienação antes do vencimento com garantia de instituição financeira ou seguradora, observada a regulamentação da SUSEP.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 40, I–II"
+    },
+    {
+     "frente": "Quem autoriza a distribuição direta de dividendos aos cotistas?",
+     "verso": "O regulamento, expressamente, ou a assembleia de cotistas.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 36"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A conversão regular de debêntures em ações consta das exceções à vedação de operações com ações fora de mercado organizado pelo gestor de FIF.",
+     "gabarito": "C",
+     "comentario": "O art. 33 enumera expressamente essa modalidade entre as ressalvas. (Resolução CVM 175/2022, Anexo I, art. 33, caput)",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 33, caput"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Assembleia que informe os cotistas sobre riscos pode autorizar de modo definitivo uma transferência privada de ativos pela exceção do art. 33, parágrafo único, quando a SIN ainda não decidiu.",
+     "gabarito": "E",
+     "comentario": "A assembleia é um dos requisitos cumulativos. A competência para autorizar a transferência excepcional é da SIN. (Resolução CVM 175/2022, Anexo I, art. 33, parágrafo único, I–VI)",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 33, parágrafo único, I–VI"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Pode ser aceito, a critério da SIN, código diferente do ISIN se permitir a identificação individualizada dos ativos.",
+     "gabarito": "C",
+     "comentario": "O parágrafo único admite alternativa condicionada à aceitação da SIN e à identificação individual. (Resolução CVM 175/2022, Anexo I, art. 37)",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 37"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "O registro de ativo em instituição autorizada para registro supre a autorização do serviço alternativo em que seu empréstimo foi cursado.",
+     "gabarito": "E",
+     "comentario": "A autorização exigida refere-se ao serviço em que é realizado o empréstimo. Registro ou depósito têm requisitos próprios. (Resolução CVM 175/2022, Anexo I, arts. 34 e 39)",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, arts. 34 e 39"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 10/11/2026, César propõe adquirir R$ 2,4 milhões em ações para um FIF por negociação privada bilateral. É compra ordinária sem acordo de acionistas e sem hipótese de exceção. As ações têm ISIN e o custodiante aceita mantê-las. Qual decisão cabe?",
+     "alternativas": {
+      "A": "A compra é admitida, pois o ISIN basta para qualquer transação.",
+      "B": "A negociação, nas condições descritas, está vedada pelo regime de operações com ações do FIF.",
+      "C": "A compra fica válida se o administrador divulgar informe diário.",
+      "D": "A realização por contraparte de boa reputação torna a operação excepcional.",
+      "E": "A execução é permitida se a posição for inferior a 5% do PL."
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). O código identifica o ativo e não muda a proibição de negociar fora do mercado organizado. B (correta). O caso exclui as ressalvas normativas e o ambiente de negociação é privado. C (incorreta). O informe não autoriza exceção de negociação. D (incorreta). A lista de exceções não se funda em mero juízo reputacional. E (incorreta). O limite percentual não substitui a regra de negociação. (Resolução CVM 175/2022, Anexo I, art. 33, caput)",
+     "comentarios_por_alternativa": {
+      "A": "O código identifica o ativo e não muda a proibição de negociar fora do mercado organizado.",
+      "B": "O caso exclui as ressalvas normativas e o ambiente de negociação é privado.",
+      "C": "O informe não autoriza exceção de negociação.",
+      "D": "A lista de exceções não se funda em mero juízo reputacional.",
+      "E": "O limite percentual não substitui a regra de negociação."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 33, caput"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 14/10/2026, Alice analisa R$ 3,1 milhões em debêntures negociadas no Brasil de companhia aberta que compõem a carteira de um FIF. A proposta é só registrar em conta da gestora. Qual tratamento cabe?",
+     "alternativas": {
+      "A": "Registro em nome da gestora, se ela reconciliar a posição com o custodiante.",
+      "B": "Registro em nome do RPPS cotista pela participação indireta nas debêntures.",
+      "C": "Dispensa do depósito central por serem valores mobiliários de dívida.",
+      "D": "Depósito central em conta única em nome da gestora.",
+      "E": "Depósito central junto a instituição autorizada, em conta específica em nome da classe."
+     },
+     "gabarito": "E",
+     "comentario": "A (incorreta). A conta é aberta em nome da classe e esse caso demanda depósito central. B (incorreta). A titular da posição em carteira é a classe. C (incorreta). A regra leva em conta o emissor e as ressalvas específicas. D (incorreta). O § 3º exige conta específica em nome da classe. E (correta). O art. 39, § 1º, alcança ativos de emissor do art. 44, II, nas condições narradas. (Resolução CVM 175/2022, Anexo I, art. 39, caput e §§ 1º–3º, e art. 44, II)",
+     "comentarios_por_alternativa": {
+      "A": "A conta é aberta em nome da classe e esse caso demanda depósito central.",
+      "B": "A titular da posição em carteira é a classe.",
+      "C": "A regra leva em conta o emissor e as ressalvas específicas.",
+      "D": "O § 3º exige conta específica em nome da classe.",
+      "E": "O art. 39, § 1º, alcança ativos de emissor do art. 44, II, nas condições narradas."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 39, caput e §§ 1º–3º, e art. 44, II"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 21/10/2026, Daniel estuda ativo de R$ 1,9 milhão para uma classe de FIF. O contrato pode liquidar com entrega de mercadorias. Ele não será negociado em mercado organizado com garantia de liquidação. Qual cláusula poderia atender ao art. 40?",
+     "alternativas": {
+      "A": "Direito de alienação antes do vencimento e garantia de instituição financeira ou seguradora, sujeita à regra da SUSEP se seguradora.",
+      "B": "Alienação apenas no vencimento com aval de instituição financeira.",
+      "C": "Alienação antecipada mediante declaração do próprio gestor sem garantia idônea.",
+      "D": "Livre entrega de mercadoria com depósito posterior do ativo na classe.",
+      "E": "Promessa de registro da operação 30 dias depois do vencimento."
+     },
+     "gabarito": "A",
+     "comentario": "A (correta). Os dois elementos compõem a rota contratual do inciso II. B (incorreta). A norma exige alienação antes do vencimento. C (incorreta). A garantia indicada no inciso II é requisito cumulativo. D (incorreta). A forma de registro não substitui a proteção exigida para liquidação física. E (incorreta). A promessa não dá direito à saída antecipada com garantia. (Resolução CVM 175/2022, Anexo I, art. 40, I–II)",
+     "comentarios_por_alternativa": {
+      "A": "Os dois elementos compõem a rota contratual do inciso II.",
+      "B": "A norma exige alienação antes do vencimento.",
+      "C": "A garantia indicada no inciso II é requisito cumulativo.",
+      "D": "A forma de registro não substitui a proteção exigida para liquidação física.",
+      "E": "A promessa não dá direito à saída antecipada com garantia."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 40, I–II"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 17/11/2026, o administrador de um FIF informa a Raquel que recebeu R$ 270 mil em dividendos da carteira. A classe pretende destinar o valor diretamente aos cotistas. Qual suporte exige o Anexo I?",
+     "alternativas": {
+      "A": "Autorização individual de todos os cotistas, mesmo se já prevista no regulamento.",
+      "B": "Aprovação do emissor das ações para que a classe distribua seus dividendos.",
+      "C": "A equipe de distribuição pode autorizar por mensagem aos cotistas.",
+      "D": "Autorização expressa no regulamento ou deliberação da assembleia de cotistas.",
+      "E": "É vedado distribuir qualquer rendimento enquanto a classe estiver funcionando."
+     },
+     "gabarito": "D",
+     "comentario": "A (incorreta). O dispositivo permite autorização pelo regulamento ou pela assembleia. B (incorreta). A autorização tratada no art. 36 se refere à própria classe. C (incorreta). A norma exige regulamento ou assembleia. D (correta). Dividendos da carteira estão entre os valores que podem ser destinados diretamente nesses termos. E (incorreta). O art. 36 prevê possibilidade expressa. (Resolução CVM 175/2022, Anexo I, art. 36)",
+     "comentarios_por_alternativa": {
+      "A": "O dispositivo permite autorização pelo regulamento ou pela assembleia.",
+      "B": "A autorização tratada no art. 36 se refere à própria classe.",
+      "C": "A norma exige regulamento ou assembleia.",
+      "D": "Dividendos da carteira estão entre os valores que podem ser destinados diretamente nesses termos.",
+      "E": "O art. 36 prevê possibilidade expressa."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 36"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Para emprestar ativos, o serviço em que a operação é cursada deve ser ___ pelo BCB ou pela CVM.",
+     "opcoes": [
+      "autorizado",
+      "apenas identificado",
+      "sugerido"
+     ],
+     "respostas": [
+      "autorizado"
+     ],
+     "explicacao": "A autorização deve alcançar o serviço utilizado para o empréstimo.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, arts. 34 e 39"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Em ativos com entrega física, o contrato deve assegurar alienação antes do ___ com ___ idônea na forma da norma.",
+     "opcoes": [
+      "vencimento",
+      "registro",
+      "garantia",
+      "estimativa"
+     ],
+     "respostas": [
+      "vencimento",
+      "garantia"
+     ],
+     "explicacao": "O inciso II exige saída antecipada garantida.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 40, I–II"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a diligência para incorporar um ativo negociado no Brasil ao FIF.",
+     "itens": [
+      "Identificar instrumento e emissor",
+      "Conferir o ambiente de negociação e possíveis exceções",
+      "Verificar código de identificação e exigência de registro ou depósito",
+      "Confirmar conta da classe e condições de liquidação"
+     ],
+     "explicacao": "Cada etapa responde a requisito próprio da carteira do FIF.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 39, caput e §§ 1º–3º, e art. 44, II"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "ISIN",
+       "Identificação individual do ativo"
+      ],
+      [
+       "Empréstimo de ativo",
+       "Serviço autorizado"
+      ],
+      [
+       "Registro ou depósito",
+       "Conta específica da classe"
+      ],
+      [
+       "Dividendo direto",
+       "Autorização regulamentar ou assemblear"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,192 @@
+{
+ "assunto": "Conceitos básicos de economia e indicadores",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 — Claude (C-14-CGINV, frente Claude)",
+ "origem": "2026-11-23_banco-cginv3-conceitos-economia-indicadores_C14C_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "cginv3-c14c-economia-indicadores",
+   "titulo": "Indicadores econômicos e políticas fiscal, monetária e cambial",
+   "microconteudo": "RAIO-X DA PROVA: Sem provas públicas do CGINV III para contar incidência. Prioridade pela Onda 1 do Pareto (peso do edital) e pela apostila-parâmetro do CP RPPS (módulo Economia, p. 69–85). Tema comum a CGINV I/II/III, DIRIG e CODEF quando o edital repete o ponto.\n\nO QUE A BANCA COBRA:\nDefinições curtas e trocas de autoria: quem calcula cada índice, o que ele mede e como cada política (fiscal, monetária, cambial) afeta juros, inflação e preço dos ativos da carteira do RPPS.\n\nENTENDA:\nPIB. Valor de todos os bens e serviços finais produzidos no país num período, calculado pelo IBGE. Pela ótica da despesa: PIB = consumo das famílias + investimento + gastos do governo + exportações − importações. \"Finais\" evita a dupla contagem dos bens intermediários. PIB nominal usa preços correntes; o real desconta a inflação.\n\nInflação. É a alta generalizada e persistente dos preços. O IPCA (IBGE) mede a variação para famílias com renda de 1 a 40 salários mínimos em regiões metropolitanas e é o índice oficial do regime de metas. O INPC (IBGE) cobre famílias de 1 a 5 salários mínimos. O IGP-M (FGV) é média ponderada de preços ao produtor (IPA, 60%), ao consumidor (IPC, 30%) e da construção (INCC, 10%); por isso sofre muito com câmbio e commodities. É usado em contratos de aluguel e em algumas metas atuariais antigas.\n\nTaxa de câmbio e PTAX. A PTAX é a taxa de referência do dólar calculada pelo Banco Central a partir de consultas a dealers em quatro janelas diárias; serve para liquidar contratos e para marcação de ativos em moeda estrangeira.\n\nJuros de referência. A meta Selic é definida pelo Copom; a Selic efetiva (over) é a média ponderada das operações compromissadas de um dia lastreadas em títulos públicos federais registradas no Selic. O DI (CDI) é a média das operações interbancárias de um dia, divulgada pela B3, e serve de benchmark para renda fixa e fundos. A TR é calculada pelo BCB a partir de taxas de títulos prefixados com aplicação de redutor; corrige poupança e FGTS e passou muito tempo em zero.\n\nPolíticas. Política fiscal: decisões de gasto, tributação e dívida do governo; resultado primário é receita menos despesa sem juros; déficits persistentes tendem a pressionar juros longos. Política monetária: o BCB usa a taxa Selic, os depósitos compulsórios, operações de mercado aberto e o redesconto para controlar a inflação; juros mais altos reduzem consumo e crédito. Política cambial: regime de câmbio flutuante com intervenções eventuais (swaps cambiais, leilões de linha); desvalorização do real encarece importados e tende a pressionar a inflação.\n\nMetas de inflação. O CMN fixa a meta; desde 2025 vigora a meta contínua de 3% ao ano pelo IPCA, com tolerância de 1,5 ponto percentual para cima ou para baixo, e o descumprimento é configurado quando a inflação acumulada em 12 meses fica fora do intervalo por seis meses consecutivos (Decreto 12.079/2024). Nesse caso o presidente do BCB divulga nota explicativa.\n\nPor que isso importa ao RPPS. A meta atuarial costuma ser IPCA + juro real; inflação alta encarece a meta, juros altos favorecem renda fixa pós-fixada e derrubam o preço de títulos prefixados já em carteira; câmbio afeta fundos no exterior e BDRs.\n\nESQUEMA:\nIPCA (IBGE, 1–40 SM, meta oficial) | INPC (IBGE, 1–5 SM) | IGP-M (FGV: 60 IPA + 30 IPC + 10 INCC) | PTAX (BCB, 4 janelas) | Selic meta (Copom) e Selic over (compromissadas de 1 dia com títulos públicos) | DI (B3, interbancário de 1 dia) | TR (BCB, com redutor).\n\nPEGADINHAS:\n• \"O IGP-M é calculado pelo IBGE\" — errado: FGV.\n• \"A meta de inflação é fixada pelo Copom\" — errado: o CMN fixa; o Copom define a Selic para atingi-la.\n• \"PIB soma todos os bens produzidos, inclusive intermediários\" — errado: só bens e serviços finais.\n• \"Alta de juros valoriza os prefixados já em carteira\" — errado: preço e taxa andam em sentido oposto.\n\nDOUTRINA:\nA leitura dos indicadores e das três políticas segue a macroeconomia de manual (por exemplo, Mankiw, Macroeconomia; Blanchard, Macroeconomia) e a descrição institucional do Banco Central.",
+   "flashcards": [
+    {
+     "frente": "Quem calcula o IPCA e qual faixa de renda cobre?",
+     "verso": "IBGE; famílias com renda de 1 a 40 salários mínimos.",
+     "dispositivo": "IBGE"
+    },
+    {
+     "frente": "Composição do IGP-M?",
+     "verso": "FGV: IPA 60%, IPC 30%, INCC 10%.",
+     "dispositivo": "FGV"
+    },
+    {
+     "frente": "Quem fixa a meta de inflação e quem define a Selic?",
+     "verso": "CMN fixa a meta; Copom define a meta Selic.",
+     "dispositivo": "Decreto 12.079/2024"
+    },
+    {
+     "frente": "Meta contínua vigente?",
+     "verso": "3% ao ano pelo IPCA, tolerância de ±1,5 p.p.; descumprimento após 6 meses consecutivos fora do intervalo.",
+     "dispositivo": "Decreto 12.079/2024"
+    },
+    {
+     "frente": "Ótica da despesa do PIB?",
+     "verso": "C + I + G + (X − M).",
+     "dispositivo": ""
+    },
+    {
+     "frente": "O que é a PTAX?",
+     "verso": "Taxa de referência do dólar calculada pelo BCB em 4 janelas diárias de consulta.",
+     "dispositivo": "BCB"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O IGP-M é calculado pela Fundação Getulio Vargas e tem como maior peso o índice de preços ao produtor.",
+     "gabarito": "C",
+     "comentario": "Certo. O IPA responde por 60% do IGP-M.",
+     "dispositivo": "Metodologia FGV"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A meta para a inflação é definida pelo Comitê de Política Monetária do Banco Central.",
+     "gabarito": "E",
+     "comentario": "Errado. O CMN fixa a meta; o Copom decide a taxa Selic para alcançá-la.",
+     "dispositivo": "Decreto 12.079/2024"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Em cenário de alta da taxa Selic, os títulos prefixados já existentes na carteira tendem a sofrer desvalorização a mercado.",
+     "gabarito": "C",
+     "comentario": "Certo. Preço e taxa se movem em sentidos opostos; o desconto pela nova taxa reduz o preço.",
+     "dispositivo": "Matemática financeira"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "facil",
+     "enunciado": "Pela ótica da despesa, o PIB corresponde a:",
+     "alternativas": {
+      "A": "Salários + lucros + aluguéis.",
+      "B": "Consumo + investimento + gastos do governo + exportações − importações.",
+      "C": "Valor bruto da produção, incluindo bens intermediários.",
+      "D": "Receitas tributárias − despesas primárias.",
+      "E": "Exportações + importações."
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). Essa é a ótica da renda. B (correta). É a identidade da despesa. C (incorreta). Bens intermediários geram dupla contagem. D (incorreta). Isso é resultado fiscal primário. E (incorreta). Comércio exterior entra como saldo (X − M). (Contas nacionais)",
+     "comentarios_por_alternativa": {
+      "A": "Essa é a ótica da renda.",
+      "B": "É a identidade da despesa.",
+      "C": "Bens intermediários geram dupla contagem.",
+      "D": "Isso é resultado fiscal primário.",
+      "E": "Comércio exterior entra como saldo (X − M)."
+     },
+     "dispositivo": "Contas nacionais"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "O RPPS de Rio Verde tem meta atuarial IPCA + 5% a.a. Em 2026 o IPCA acumulado em 12 meses ficou em 4,6% por sete meses seguidos. Pelo regime de metas vigente:",
+     "alternativas": {
+      "A": "Não houve descumprimento, pois 4,6% está abaixo de 5%.",
+      "B": "Houve descumprimento, pois ficou acima de 4,5% por mais de seis meses consecutivos.",
+      "C": "Só há descumprimento se o IPCA de dezembro superar 4,5%.",
+      "D": "O Copom deve divulgar nota para o CMN aprovar nova meta.",
+      "E": "O descumprimento depende do IGP-M."
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). O teto é 3% + 1,5 p.p. = 4,5%. B (correta). Fora do intervalo por seis meses consecutivos configura descumprimento na meta contínua. C (incorreta). A meta deixou de ser aferida só pelo ano-calendário. D (incorreta). É o presidente do BCB quem divulga nota explicativa. E (incorreta). O índice da meta é o IPCA. (Decreto 12.079/2024)",
+     "comentarios_por_alternativa": {
+      "A": "O teto é 3% + 1,5 p.p. = 4,5%.",
+      "B": "Fora do intervalo por seis meses consecutivos configura descumprimento na meta contínua.",
+      "C": "A meta deixou de ser aferida só pelo ano-calendário.",
+      "D": "É o presidente do BCB quem divulga nota explicativa.",
+      "E": "O índice da meta é o IPCA."
+     },
+     "dispositivo": "Decreto 12.079/2024"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "facil",
+     "enunciado": "Qual taxa é definida como a média das operações interbancárias de um dia e serve como principal referência para fundos de renda fixa?",
+     "alternativas": {
+      "A": "TR",
+      "B": "Selic meta",
+      "C": "DI (CDI)",
+      "D": "PTAX",
+      "E": "TJLP"
+     },
+     "gabarito": "C",
+     "comentario": "A (incorreta). A TR é calculada pelo BCB com redutor e corrige poupança. B (incorreta). A meta é decisão do Copom, não média de mercado. C (correta). O DI, divulgado pela B3, é o benchmark de renda fixa. D (incorreta). PTAX é taxa de câmbio. E (incorreta). TJLP é taxa de longo prazo do BNDES. (B3 — metodologia DI)",
+     "comentarios_por_alternativa": {
+      "A": "A TR é calculada pelo BCB com redutor e corrige poupança.",
+      "B": "A meta é decisão do Copom, não média de mercado.",
+      "C": "O DI, divulgado pela B3, é o benchmark de renda fixa.",
+      "D": "PTAX é taxa de câmbio.",
+      "E": "TJLP é taxa de longo prazo do BNDES."
+     },
+     "dispositivo": "B3 — metodologia DI"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O ___ é o índice oficial da meta, calculado pelo ___; o IGP-M é calculado pela ___.",
+     "opcoes": [
+      "IPCA",
+      "IBGE",
+      "FGV",
+      "INPC",
+      "BCB"
+     ],
+     "respostas": [
+      "IPCA",
+      "IBGE",
+      "FGV"
+     ],
+     "explicacao": "Autoria dos índices é pegadinha frequente.",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Política fiscal",
+       "Gasto, tributo e dívida"
+      ],
+      [
+       "Política monetária",
+       "Selic, compulsório e mercado aberto"
+      ],
+      [
+       "Política cambial",
+       "Câmbio flutuante e swaps"
+      ],
+      [
+       "Meta de inflação",
+       "Fixada pelo CMN"
+      ]
+     ],
+     "explicacao": "As três políticas e quem decide a meta.",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a transmissão de uma alta da Selic até a inflação.",
+     "itens": [
+      "Copom eleva a meta Selic",
+      "Crédito fica mais caro",
+      "Consumo e investimento desaceleram",
+      "Pressão sobre preços diminui"
+     ],
+     "explicacao": "Canal de crédito e demanda da política monetária.",
+     "dispositivo": ""
+    }
+   ]
+  }
+ ]
+}

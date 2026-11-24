@@ -1,0 +1,257 @@
+{
+ "assunto": "ENEM 2026 — Matemática — Áreas de figuras planas, regiões úteis e revestimentos",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23",
+ "origem": "2026-11-23_banco-enem-areas-planas-revestimento_C14_lote11_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "enem-areas-planas-revestimento-c14",
+   "titulo": "Áreas de figuras planas, regiões úteis e revestimentos",
+   "microconteudo": "RAIO-X DA PROVA: Triagem dirigida nos cadernos azuis regulares do Inep de 2021 a 2025 confirmou 4 de 225 itens de Matemática (1,78% como mínimo observado). As ocorrências confirmadas incluem conversão de unidades agrárias, revestimento de faces, diferença entre regiões e comparação de áreas retangulares. O primeiro passo é identificar qual superfície foi incluída no comando.\n\nO QUE A BANCA COBRA:\nAs questões de área apresentam pisos, terrenos, faixas ao redor de figuras e superfícies que precisam ser revestidas. A figura pode oferecer medidas externas, mas a pergunta se referir só ao contorno interno que recebe material. Também aparecem comparações em que a capacidade se mantém e a geometria da superfície muda. Antes de usar medidas, descreva em uma frase curta a região pedida. Por exemplo, somente o piso e três paredes, ou o retângulo maior com uma abertura circular sem pintura. Essa descrição determina a operação.\n\nENTENDA:\nÁrea mede a superfície de uma região. Um metro quadrado corresponde à área de um quadrado de lado 1 m. Um retângulo de 6 m por 4 m tem 24 m² porque acomoda seis colunas de quatro quadrados unitários. Seu perímetro é 20 m. Se a turma quer colocar fita ao redor de todo o piso, usa o perímetro. Para recobrir o piso inteiro, usa a área. As unidades ajudam a verificar a escolha. Um resultado em metros ou centímetros não mede área, mesmo que tenha sido obtido com uma conta apropriada para um contorno.\n\nEm um paralelogramo, a área é a base vezes a altura perpendicular. Deslizar a parte triangular de uma das extremidades para a outra permite imaginar um retângulo com as mesmas medidas de base e altura. O lado inclinado pode ser maior que a altura e, por isso, não serve automaticamente para o produto. Um triângulo com a mesma base e altura ocupa metade da área desse paralelogramo. Para um trapézio com duas bases paralelas, use a média dos comprimentos das bases, multiplicada pela altura. Uma segunda cópia congruente pode ser arranjada com a primeira para formar um paralelogramo de base igual à soma das bases. A divisão por dois recupera a área de uma cópia.\n\nPara uma região composta, decomponha em peças sem interseção ou subtraia recortes de uma forma conhecida. Imagine uma sala em L inscrita num retângulo de 10 m por 8 m, com um recorte de 4 m por 3 m em um canto. A área é 80 − 12 = 68 m². Se você separar a sala em dois retângulos, escolha fronteiras de modo que nenhuma parte seja contada duas vezes. Uma borda também pode ser resolvida por diferença. Num canteiro retangular de 8 m por 5 m com faixa externa de 1 m em toda a volta, o retângulo externo mede 10 m por 7 m. A faixa ocupa 70 − 40 = 30 m². Multiplicar o perímetro interno pela largura da faixa produz 26 m² e deixa de fora os quatro cantos de 1 m².\n\nNas regiões circulares, a área do círculo é πr². Use o raio, obtido pela metade do diâmetro quando necessário. Um setor de 90° ocupa um quarto do círculo inteiro. Se o raio mede 6 m, sua área é 9π m². Para comparar áreas depois de mudar dimensões, observe o que se multiplica. Duplicar o raio quadruplica a área do círculo, com o ângulo do setor fixo. Em figuras semelhantes, se todo comprimento é multiplicado por k, a área é multiplicada por k². Alterar apenas uma dimensão de um retângulo não produz esse efeito ao quadrado, pois o outro fator permanece igual.\n\nA conversão de unidades também segue o quadrado. Um metro vale 100 cm, então 1 m² = 10.000 cm². Uma placa quadrada de 25 cm de lado cobre 625 cm², ou 0,0625 m², segundo a área nominal. Para estimar material de compra, respeite a unidade comercial e a condição do enunciado. Se uma parede pede 11,4 m² com margem já incluída e cada caixa cobre 1,25 m², nove caixas cobrem 11,25 m². Assim, são necessárias dez caixas. A divisão fornece uma estimativa por área. Se a questão fixar a orientação de peças ou exigir encaixe sem recortes, verifique também as dimensões e o padrão de montagem.\n\nEm recipientes e caixas, leia quais faces existem e quais serão pintadas. Uma caixa aberta de base retangular 3 m por 2 m e altura de 1 m possui base de 6 m², duas paredes de 3 m² e duas de 2 m². Seu revestimento interno totaliza 16 m². Acrescentar uma tampa de 6 m² mudaria a área pedida, se a tampa também fosse revestida. Duas caixas de mesmo volume podem ter áreas internas diferentes porque dimensões diferentes repartem o espaço entre base e laterais de outro modo. Compare as expressões de área sob as restrições efetivamente fornecidas.\n\nDOUTRINA:\nLynn Marecek, MaryAnne Anthony-Smith e Andrea Honeycutt Mathis, Prealgebra 2e, 2ª ed., Houston, OpenStax, 2020, capítulo 9 e apêndice C, organizam a distinção entre perímetro, área e volume e apresentam fórmulas por figura. A decomposição de regiões em peças de área conhecida ajuda a aplicar essas fórmulas a pisos, plantas e superfícies irregulares.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nA Matriz de Referência inclui áreas no objeto 2.6. Em uma situação de construção elaborada para a prova, a quantidade de material é calculada segundo as hipóteses do enunciado, inclusive margem de perda ou restrições de encaixe quando informadas.\n\nPEGADINHAS:\n1. Altura de triângulo e paralelogramo é perpendicular à base.\n2. Ao calcular uma faixa externa, inclua a largura nos dois lados de cada dimensão.\n3. Um contorno pede comprimento. O revestimento de uma superfície pede área.\n4. Mudar de centímetro para metro em áreas exige o quadrado do fator linear.\n5. Enumere as faces do sólido antes de juntar as áreas e arredondar a compra.\n\nESQUEMA:\nDelimitar → qual parte está pintada, revestida ou reservada.\nDecompor → identificar retângulos, triângulos, trapézios e setores.\nCalcular → usar alturas e raios adequados nas mesmas unidades.\nCombinar → somar partes disjuntas e subtrair recortes.\nDecidir → converter e testar a quantidade de material ou o orçamento.\n\nLIGAÇÕES:\nComprimentos ajudam a distinguir perímetro de área. Volumes esclarecem a diferença entre revestir uma caixa e determinar quanto ela comporta.",
+   "flashcards": [
+    {
+     "frente": "Que altura usar na área de um triângulo?",
+     "verso": "A distância perpendicular entre a base escolhida e o vértice oposto.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6"
+    },
+    {
+     "frente": "Por que o perímetro interno vezes a largura perde área de uma moldura?",
+     "verso": "Num contorno retangular externo, o produto deixa de fora as regiões dos quatro cantos.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6"
+    },
+    {
+     "frente": "Qual a área de um setor de 90° e raio r?",
+     "verso": "Um quarto da área do círculo, πr²/4.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6"
+    },
+    {
+     "frente": "Como converter 1 m² em centímetros quadrados?",
+     "verso": "Multiplique 100 por 100. O resultado é 10.000 cm².",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6"
+    },
+    {
+     "frente": "Quando arredondar o número de caixas de piso para cima?",
+     "verso": "Quando a compra é inteira e a área total exige mais que a quantidade coberta pelo inteiro inferior.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6"
+    },
+    {
+     "frente": "Como achar a área de revestimento de uma caixa aberta?",
+     "verso": "Some a base e as faces laterais que serão revestidas e desconte aberturas quando indicado.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-areas-planas-revestimento-c14-q01",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "habilidade": "H8",
+     "texto_base": "Em maio, Artur mede uma peça triangular de base 12 cm, lado inclinado 10 cm e altura perpendicular 8 cm.",
+     "enunciado": "A área da peça é 48 cm².",
+     "gabarito": "C",
+     "comentario": "A altura perpendicular é a medida que compõe a fórmula. A metade do produto 12 × 8 é 48. (Matriz de Referência ENEM 2026, Matemática 2.6, H8.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6, H8"
+    },
+    {
+     "id": "enem-areas-planas-revestimento-c14-q02",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "habilidade": "H13",
+     "texto_base": "Em junho, Nicolau compara placas semelhantes. Todas as medidas lineares de uma placa nova são 20% maiores que as da antiga.",
+     "enunciado": "A área da nova placa é 20% maior.",
+     "gabarito": "E",
+     "comentario": "O fator linear 1,2 atua em duas dimensões. A área aumenta pelo fator 1,44, que representa 44%. (Matriz de Referência ENEM 2026, Matemática 2.6, H13.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6, H13"
+    },
+    {
+     "id": "enem-areas-planas-revestimento-c14-q03",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "habilidade": "H12",
+     "texto_base": "Para uma maquete de abril, Sara recorta um quadrado de 40 cm de lado em papel liso.",
+     "enunciado": "O quadrado tem 0,16 m².",
+     "gabarito": "C",
+     "comentario": "Os lados equivalem a 0,40 m. O produto 0,40 × 0,40 dá 0,16 m². (Matriz de Referência ENEM 2026, Matemática 2.6, H12.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6, H12"
+    },
+    {
+     "id": "enem-areas-planas-revestimento-c14-q04",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "habilidade": "H8",
+     "texto_base": "Uma moldura externa de largura 2 cm contorna por completo uma fotografia retangular de 20 cm por 10 cm. Os cantos externos são retos.",
+     "enunciado": "A moldura ocupa exatamente 120 cm², produto do perímetro da foto pela largura.",
+     "gabarito": "E",
+     "comentario": "O retângulo externo mede 24 por 14 cm e tem 336 cm². Menos 200 cm² da foto, restam 136 cm², incluindo os cantos. (Matriz de Referência ENEM 2026, Matemática 2.6, H8.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6, H8"
+    },
+    {
+     "id": "enem-areas-planas-revestimento-c14-q05",
+     "tipo": "me",
+     "dificuldade": "media",
+     "habilidade": "H8",
+     "texto_base": "Em 6 de maio, Nara vai pintar um painel de 4 m por 3 m, preservando uma janela de 1,2 m por 1,5 m e uma abertura de ventilação de 0,5 m por 0,4 m. As aberturas não se sobrepõem.",
+     "enunciado": "Qual área será pintada?",
+     "alternativas": {
+      "A": "12,0 m²",
+      "B": "10,2 m²",
+      "C": "11,8 m²",
+      "D": "10,0 m²",
+      "E": "8,0 m²"
+     },
+     "gabarito": "D",
+     "comentario": "A) Essa é a área total do retângulo, sem excluir as aberturas.\nB) A conta desconta a janela e deixa de descontar a ventilação.\nC) A conta desconta a ventilação e inclui a janela na área pintada.\nD) Correta. A área total é 12 m². A janela ocupa 1,8 m² e a ventilação, 0,2 m².\nE) Esse resultado exigiria descontar 4 m², enquanto as duas aberturas somam 2 m².\n(Matriz de Referência ENEM 2026, Matemática 2.6, H8.)",
+     "comentarios_por_alternativa": {
+      "A": "Essa é a área total do retângulo, sem excluir as aberturas.",
+      "B": "A conta desconta a janela e deixa de descontar a ventilação.",
+      "C": "A conta desconta a ventilação e inclui a janela na área pintada.",
+      "D": "Correta. A área total é 12 m². A janela ocupa 1,8 m² e a ventilação, 0,2 m².",
+      "E": "Esse resultado exigiria descontar 4 m², enquanto as duas aberturas somam 2 m²."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6, H8"
+    },
+    {
+     "id": "enem-areas-planas-revestimento-c14-q06",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "habilidade": "H12",
+     "texto_base": "Em 17 de julho, Beatriz precisa revestir o piso e as quatro paredes internas de um depósito retangular de 5 m por 3 m, com 2 m de altura. Há uma porta de 1 m por 2 m numa parede. Cada caixa de revestimento cobre 4 m². Despreze perdas e admita aproveitar recortes.",
+     "enunciado": "Quantas caixas devem ser compradas, no mínimo?",
+     "alternativas": {
+      "A": "12",
+      "B": "8",
+      "C": "11",
+      "D": "13",
+      "E": "15"
+     },
+     "gabarito": "A",
+     "comentario": "A) Correta. Piso de 15 m² mais paredes de 32 m², menos porta de 2 m², resulta em 45 m². Onze caixas cobrem só 44 m².\nB) Oito caixas cobrem 32 m², o valor das paredes sem desconto da porta, mas não incluem o piso.\nC) Onze caixas deixam 1 m² da área a revestir descoberto.\nD) Doze caixas já cobrem 48 m² e atendem ao enunciado.\nE) Quinze caixas cobrem 60 m², o que corresponderia a incluir ainda uma superfície de 15 m² como o teto.\n(Matriz de Referência ENEM 2026, Matemática 2.6, H12.)",
+     "comentarios_por_alternativa": {
+      "A": "Correta. Piso de 15 m² mais paredes de 32 m², menos porta de 2 m², resulta em 45 m². Onze caixas cobrem só 44 m².",
+      "B": "Oito caixas cobrem 32 m², o valor das paredes sem desconto da porta, mas não incluem o piso.",
+      "C": "Onze caixas deixam 1 m² da área a revestir descoberto.",
+      "D": "Doze caixas já cobrem 48 m² e atendem ao enunciado.",
+      "E": "Quinze caixas cobrem 60 m², o que corresponderia a incluir ainda uma superfície de 15 m² como o teto."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6, H12"
+    },
+    {
+     "id": "enem-areas-planas-revestimento-c14-q07",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "habilidade": "H13",
+     "texto_base": "Em setembro, Davi compara dois setores circulares numa planta. O primeiro tem raio 8 m e ângulo de 90°. O segundo tem raio 12 m e ângulo de 40°.",
+     "enunciado": "Como se comparam as áreas?",
+     "alternativas": {
+      "A": "O segundo é 50% maior, pois o raio cresce de 8 m para 12 m.",
+      "B": "O segundo é menor na razão 40/90, pois seu ângulo é menor.",
+      "C": "As áreas são iguais, pois o fator de aumento de r² compensa a redução do ângulo.",
+      "D": "O primeiro tem o dobro da área porque seu ângulo é ligeiramente maior que o dobro do segundo.",
+      "E": "O segundo tem 2,25 vezes a área porque seu raio é multiplicado por 1,5."
+     },
+     "gabarito": "C",
+     "comentario": "A) A área depende do quadrado do raio e da proporção angular.\nB) Essa razão só se aplicaria diretamente se os raios fossem iguais.\nC) Correta. (90/360) × 64π = 16π e (40/360) × 144π = 16π m².\nD) Comparar ângulos sem considerar os raios não determina a área.\nE) Esse fator valeria mantendo o mesmo ângulo, mas o ângulo também muda.\n(Matriz de Referência ENEM 2026, Matemática 2.6, H13.)",
+     "comentarios_por_alternativa": {
+      "A": "A área depende do quadrado do raio e da proporção angular.",
+      "B": "Essa razão só se aplicaria diretamente se os raios fossem iguais.",
+      "C": "Correta. (90/360) × 64π = 16π e (40/360) × 144π = 16π m².",
+      "D": "Comparar ângulos sem considerar os raios não determina a área.",
+      "E": "Esse fator valeria mantendo o mesmo ângulo, mas o ângulo também muda."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6, H13"
+    },
+    {
+     "id": "enem-areas-planas-revestimento-c14-q08",
+     "tipo": "me",
+     "dificuldade": "media",
+     "habilidade": "H12",
+     "texto_base": "Em abril, Alice recebe 0,42 hectare para canteiros. Ela reserva 600 m² para circulação e usa o restante em módulos inteiros de 225 m². Adote 1 hectare = 10.000 m² e suponha que os módulos possam ser dispostos no terreno.",
+     "enunciado": "Qual é o máximo de módulos?",
+     "alternativas": {
+      "A": "12",
+      "B": "16",
+      "C": "18",
+      "D": "19",
+      "E": "21"
+     },
+     "gabarito": "B",
+     "comentario": "A) Doze módulos somam 2.700 m², deixando superfície utilizável para outros.\nB) Correta. São 4.200 m² totais, com 3.600 m² disponíveis. O quociente 3.600/225 é 16.\nC) Dezoito módulos caberiam apenas se parte da área reservada para circulação também fosse usada.\nD) Dezenove módulos exigem 4.275 m², mais que a área total.\nE) Vinte e um módulos exigem 4.725 m², além dos 3.600 m² destinados aos canteiros.\n(Matriz de Referência ENEM 2026, Matemática 2.6, H12.)",
+     "comentarios_por_alternativa": {
+      "A": "Doze módulos somam 2.700 m², deixando superfície utilizável para outros.",
+      "B": "Correta. São 4.200 m² totais, com 3.600 m² disponíveis. O quociente 3.600/225 é 16.",
+      "C": "Dezoito módulos caberiam apenas se parte da área reservada para circulação também fosse usada.",
+      "D": "Dezenove módulos exigem 4.275 m², mais que a área total.",
+      "E": "Vinte e um módulos exigem 4.725 m², além dos 3.600 m² destinados aos canteiros."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6, H12"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "A área de um triângulo de base 9 m e altura perpendicular 4 m é ___ m²; a área do retângulo de mesmas medidas é ___ m².",
+     "opcoes": [
+      "18",
+      "36",
+      "13",
+      "26"
+     ],
+     "respostas": [
+      "18",
+      "36"
+     ],
+     "explicacao": "O retângulo usa o produto e o triângulo usa metade.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Uma conversão de metro para centímetro multiplica comprimentos por ___ e áreas por ___.",
+     "opcoes": [
+      "100",
+      "10.000",
+      "10",
+      "1.000"
+     ],
+     "respostas": [
+      "100",
+      "10.000"
+     ],
+     "explicacao": "O fator de área é o quadrado do fator de comprimento.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.6"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a solução de uma questão de revestimento com abertura.",
+     "itens": [
+      "Definir as faces incluídas no revestimento",
+      "Uniformizar unidades e calcular as áreas",
+      "Subtrair as aberturas e somar as áreas revestidas",
+      "Dividir pela cobertura de cada caixa e checar o inteiro mínimo"
+     ],
+     "explicacao": "O arredondamento ocorre após a determinação da área útil."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Triângulo",
+       "Base × altura ÷ 2"
+      ],
+      [
+       "Trapézio",
+       "Média das bases × altura"
+      ],
+      [
+       "Setor circular",
+       "Fração angular × área do círculo"
+      ],
+      [
+       "Perímetro",
+       "Comprimento do contorno"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,257 @@
+{
+ "assunto": "ENEM 2026 — Matemática — Função afim, tarifa fixa e taxa de variação",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23",
+ "origem": "2026-11-23_banco-enem-funcao-afim-modelagem_C14_lote15_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "enem-funcao-afim-modelagem-c14",
+   "titulo": "Função afim, tarifa fixa e taxa de variação",
+   "microconteudo": "RAIO-X DA PROVA: Triagem dirigida nos cadernos azuis regulares do Inep de 2021 a 2025 confirmou 5 de 225 itens de Matemática (2,22% como mínimo observado). Os itens confirmados incluem modelagem de parcelas fixas e variáveis, cálculo com regras por faixas e extensão de uma tendência retilínea. As alternativas exploram a troca entre intercepto e taxa e a aplicação indevida de uma faixa a toda a quantidade.\n\nO QUE A BANCA COBRA:\nNas provas, variação constante aparece em tarifas, estimativas a partir de tendências e situações que mudam de regra depois de um limite. A questão pode pedir uma expressão, a interpretação de seu coeficiente ou o ponto a partir do qual um plano custa menos. Leia as unidades e o sentido da regra antes de fazer contas. É comum uma alternativa confundir o valor inicial com a quantia que se acrescenta por unidade. Também é comum estender ao trecho inteiro uma cobrança que só vale depois de determinada quantidade.\n\nENTENDA:\nUma função afim tem forma f(x) = ax + b. Enquanto o modelo vale, a variável de saída muda sempre a unidades quando x aumenta uma unidade. O coeficiente b é o valor previsto em x = 0, mesmo quando o domínio considerado exclui o zero. Em muitos livros escolares, chama-se função do primeiro grau a função afim com a diferente de zero. A função constante, com a = 0, pode aparecer como trecho de um modelo, por exemplo enquanto uma máquina permanece desligada e o total acumulado fica fixo. A função linear, na terminologia escolar que a distingue da afim geral, tem b = 0. Alguns livros em inglês empregam linear para toda expressão da forma ax + b.\n\nSuponha que uma oficina use a expressão C(x) = 90 + 14x para cobrar um serviço, com x em metros de costura. O primeiro termo representa o valor básico de R$ 90 por encomenda. O segundo cresce R$ 14 a cada metro. Para cinco metros, o custo é 90 + 14 × 5 = R$ 160. Se o orçamento máximo é R$ 240, a condição é 90 + 14x ≤ 240. A solução real é x ≤ 150/14, aproximadamente 10,71 m. Caso o estabelecimento só aceite encomendas em metros inteiros e positivos, o maior valor permitido é 10. O domínio é parte da solução e vem da situação. A existência de uma saída algébrica para x = 0 não implica que a oficina venda o serviço sem encomenda.\n\nSe a regra vier dada por dois pares, obtenha primeiro a taxa com a razão das diferenças. Uma gráfica anuncia R$ 83 por 20 exemplares e R$ 131 por 36, dentro do mesmo regime de preço. A diferença de custo é R$ 48 para 16 exemplares adicionais, logo a = 3 reais por exemplar. Substituindo o ponto de 20 exemplares em C(x) = 3x + b, resulta b = 83 − 60 = 23. A expressão C(x) = 3x + 23 pode ser verificada com o outro par. Dividir 83 por 20 dá R$ 4,15 de custo médio no primeiro pedido e mistura a parcela fixa com a variável. O custo médio por exemplar tende a mudar conforme o tamanho do pedido, apesar de a taxa marginal de R$ 3 se manter.\n\nNa comparação de dois planos, iguale expressões para encontrar o cruzamento. Considere P(x) = 35 + 4x e Q(x) = 15 + 6x, com x inteiro positivo. O empate ocorre quando 20 = 2x, portanto x = 10. Antes desse ponto, Q começa mais barato porque tem parcela fixa menor. Depois, a taxa menor de P compensa sua entrada maior. Conferir x = 9 e x = 11 evita inverter os intervalos. Se o cruzamento ocorresse em x = 10,5, não existiria empate no domínio inteiro. A troca entre os planos ocorreria entre 10 e 11 unidades, se ambas as quantidades forem admitidas.\n\nFunções por trechos aparecem quando há franquia, faixa de preço ou pausa. Um laboratório cobra R$ 50 pela visita e R$ 7 por amostra até dez amostras. Para cada amostra além da décima, cobra R$ 5. No primeiro trecho vale C(x) = 50 + 7x. Para x > 10, o total inclui a visita e R$ 70 pelas dez primeiras, além de R$ 5 por amostra excedente. Assim, C(x) = 120 + 5(x − 10) = 70 + 5x. Calcular 50 + 5x aplicaria retrospectivamente o menor valor a todas as amostras. Confira o ponto de troca: dez custam R$ 120, onze custam R$ 125. Um gráfico de total acumulado também pode ter uma etapa de taxa zero, na qual a reta fica horizontal.\n\nNum gráfico de uma função afim, o coeficiente angular é a variação vertical dividida pela horizontal. A altura de um ponto não informa sozinha a taxa de variação. Uma reta mais alta pode estar descendo, enquanto outra mais baixa pode estar subindo. Leia as escalas dos eixos, pois a aparência do desenho depende delas. Em uma previsão, prolongar a reta além das observações usa a hipótese de que a tendência continuará. A extensão matemática é possível, mas a interpretação deve respeitar o intervalo em que a pergunta autoriza aplicar o modelo.\n\nDOUTRINA:\nJay Abramson, College Algebra 2e, 2ª ed., Houston, OpenStax, 2021, seções 4.1 e 4.2, apresenta taxa de variação constante, construção de expressões afins e interpretação de modelos. Na resolução, associe cada termo a uma unidade e a uma parte da situação. Essa prática discrimina uma taxa marginal de uma razão média e ajuda a tratar corretamente mudanças de regime.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nO objeto 2.20 inclui funções do primeiro grau. A resolução usa modelagem algébrica e análise da regra em seu domínio. A condição de constância da taxa deve ser verificada dentro de cada trecho.\n\nPEGADINHAS:\n1. A taxa é diferença de saídas dividida por diferença de entradas.\n2. Parcela fixa é um valor em reais. A taxa pode vir em reais por unidade.\n3. Um empate fora do domínio não representa uma escolha disponível.\n4. O preço da faixa seguinte pode valer só para itens excedentes.\n5. Extrapolar uma reta depende da hipótese de manutenção do padrão.\n\nESQUEMA:\nVariáveis e domínio → entrada, saída, unidades e restrições.\nTaxa → calcular a razão entre variações ou ler a tarifa marginal.\nValor inicial → usar o ponto de referência na equação.\nTrechos → preservar os valores acumulados até o limite.\nDecisão → calcular, comparar e testar a resposta no domínio.\n\nLIGAÇÕES:\nEquações e inequações resolvem pontos de equilíbrio e tetos de preço. Representações gráficas permitem visualizar taxa, valor inicial e segmentos de um modelo por partes.",
+   "flashcards": [
+    {
+     "frente": "Como achar a taxa afim a partir de dois valores da função?",
+     "verso": "Divida a diferença entre as saídas pela diferença entre as entradas correspondentes.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.20"
+    },
+    {
+     "frente": "Que unidade tem a taxa de preço por quilômetro?",
+     "verso": "Reais por quilômetro. A parcela fixa é medida apenas em reais.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.20"
+    },
+    {
+     "frente": "Como encontrar o encontro de dois planos afins?",
+     "verso": "Iguale os custos, resolva para a quantidade e confira se ela está no domínio.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.20"
+    },
+    {
+     "frente": "Quando a razão f(x)/x é igual à taxa a?",
+     "verso": "Quando b = 0 e x é distinto de zero.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.20"
+    },
+    {
+     "frente": "O que significa um trecho horizontal em um gráfico acumulado?",
+     "verso": "O total fica constante durante aquele intervalo.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.20"
+    },
+    {
+     "frente": "Como cobrar apenas por itens acima de uma franquia n?",
+     "verso": "Multiplique a tarifa de excedente por x − n quando x for maior que n.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.20"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-funcao-afim-modelagem-c14-q01",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "habilidade": "H19",
+     "texto_base": "Em março, Rebeca cobra R$ 60 por visita e mais R$ 9 por peça ajustada. Seja x o número de peças da visita.",
+     "enunciado": "A expressão é C(x) = 60 + 9x.",
+     "gabarito": "C",
+     "comentario": "Os R$ 60 são fixos por visita e os R$ 9 se repetem a cada peça. (Matriz de Referência ENEM 2026, Matemática 2.20, H19.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.20, H19"
+    },
+    {
+     "id": "enem-funcao-afim-modelagem-c14-q02",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "habilidade": "H21",
+     "texto_base": "Em abril, a copiadora de Silva anuncia R$ 58 por 10 exemplares e R$ 78 por 18. Os dois valores integram uma mesma regra afim.",
+     "enunciado": "O custo adicional a cada exemplar é R$ 2,50.",
+     "gabarito": "C",
+     "comentario": "O aumento de R$ 20 dividido pelos oito exemplares adicionais dá 2,50 reais por exemplar. (Matriz de Referência ENEM 2026, Matemática 2.20, H21.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.20, H21"
+    },
+    {
+     "id": "enem-funcao-afim-modelagem-c14-q03",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "habilidade": "H20",
+     "texto_base": "Uma máquina acumula material segundo V(t) = 22 − 3t, de t = 0 a t = 6, com V em litros e t em minutos.",
+     "enunciado": "A máquina acumula três litros adicionais a cada minuto nesse trecho.",
+     "gabarito": "E",
+     "comentario": "O coeficiente negativo indica redução de três litros por minuto, como se vê comparando dois instantes consecutivos. (Matriz de Referência ENEM 2026, Matemática 2.20, H20.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.20, H20"
+    },
+    {
+     "id": "enem-funcao-afim-modelagem-c14-q04",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "habilidade": "H21",
+     "texto_base": "Em junho, dois planos recebem x pedidos inteiros e custam 30 + 4x e 18 + 7x reais, respectivamente.",
+     "enunciado": "O primeiro plano é sempre mais caro porque tem maior cobrança inicial.",
+     "gabarito": "E",
+     "comentario": "As expressões empatam em x = 4. Acima de quatro pedidos, a menor taxa do primeiro torna seu custo inferior. (Matriz de Referência ENEM 2026, Matemática 2.20, H21.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.20, H21"
+    },
+    {
+     "id": "enem-funcao-afim-modelagem-c14-q05",
+     "tipo": "me",
+     "dificuldade": "media",
+     "habilidade": "H19",
+     "texto_base": "Em 7 de maio, um tanque recebe líquido a taxa constante. O volume passa de 32 L em t = 2 min a 56 L em t = 6 min.",
+     "enunciado": "Qual modelo descreve V, em litros, no intervalo?",
+     "alternativas": {
+      "A": "V(t) = 32 + 6t",
+      "B": "V(t) = 20 + 4t",
+      "C": "V(t) = 20 + 6t",
+      "D": "V(t) = 6 + 20t",
+      "E": "V(t) = 32 + 24t"
+     },
+     "gabarito": "C",
+     "comentario": "A) Atribui a t = 0 o volume observado em t = 2.\nB) A taxa de quatro litros por minuto não produz a variação de 24 L em quatro minutos.\nC) Correta. A diferença 24/4 fornece 6 L/min e 32 − 6 × 2 = 20.\nD) A taxa e o valor inicial foram trocados.\nE) O aumento de todo o intervalo foi usado como se fosse o aumento de um único minuto.\n(Matriz de Referência ENEM 2026, Matemática 2.20, H19.)",
+     "comentarios_por_alternativa": {
+      "A": "Atribui a t = 0 o volume observado em t = 2.",
+      "B": "A taxa de quatro litros por minuto não produz a variação de 24 L em quatro minutos.",
+      "C": "Correta. A diferença 24/4 fornece 6 L/min e 32 − 6 × 2 = 20.",
+      "D": "A taxa e o valor inicial foram trocados.",
+      "E": "O aumento de todo o intervalo foi usado como se fosse o aumento de um único minuto."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.20, H19"
+    },
+    {
+     "id": "enem-funcao-afim-modelagem-c14-q06",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "habilidade": "H21",
+     "texto_base": "Em junho, uma loja cobra R$ 24 de taxa fixa, R$ 8 por embalagem nas seis primeiras e R$ 5 por embalagem excedente.",
+     "enunciado": "Quanto custa um pedido de 11 embalagens?",
+     "alternativas": {
+      "A": "R$ 97",
+      "B": "R$ 79",
+      "C": "R$ 112",
+      "D": "R$ 73",
+      "E": "R$ 104"
+     },
+     "gabarito": "A",
+     "comentario": "A) Correta. São R$ 24 de taxa, R$ 48 nas seis primeiras e R$ 25 nas cinco excedentes.\nB) Aplica indevidamente R$ 5 a todas as embalagens, além da taxa fixa.\nC) Aplica R$ 8 às onze embalagens, sem mudar a faixa depois da sexta.\nD) Soma os dois trechos variáveis e omite a taxa fixa.\nE) Esse valor não corresponde aos cinco itens excedentes a R$ 5 mais o total acumulado de R$ 72.\n(Matriz de Referência ENEM 2026, Matemática 2.20, H21.)",
+     "comentarios_por_alternativa": {
+      "A": "Correta. São R$ 24 de taxa, R$ 48 nas seis primeiras e R$ 25 nas cinco excedentes.",
+      "B": "Aplica indevidamente R$ 5 a todas as embalagens, além da taxa fixa.",
+      "C": "Aplica R$ 8 às onze embalagens, sem mudar a faixa depois da sexta.",
+      "D": "Soma os dois trechos variáveis e omite a taxa fixa.",
+      "E": "Esse valor não corresponde aos cinco itens excedentes a R$ 5 mais o total acumulado de R$ 72."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.20, H21"
+    },
+    {
+     "id": "enem-funcao-afim-modelagem-c14-q07",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "habilidade": "H21",
+     "texto_base": "Em julho, Nara compara os preços 40 + 6x e 17 + 10x reais para um serviço com x períodos inteiros e positivos.",
+     "enunciado": "Qual é o menor x para o primeiro preço ser estritamente menor que o segundo?",
+     "alternativas": {
+      "A": "4",
+      "B": "5",
+      "C": "5,75",
+      "D": "6",
+      "E": "7"
+     },
+     "gabarito": "D",
+     "comentario": "A) A diferença 40 − 17 é maior que 4 × 4, então o primeiro ainda custa mais.\nB) Com cinco períodos, a diferença entre os termos variáveis ainda não supera a parcela fixa adicional.\nC) É a solução do empate no domínio real. Além de não dar preço estritamente menor, não é um número inteiro de períodos.\nD) Correta. A condição é 23 < 4x, ou x > 5,75. O menor inteiro é seis.\nE) Sete períodos também satisfazem a desigualdade, mas seis já bastam.\n(Matriz de Referência ENEM 2026, Matemática 2.20, H21.)",
+     "comentarios_por_alternativa": {
+      "A": "A diferença 40 − 17 é maior que 4 × 4, então o primeiro ainda custa mais.",
+      "B": "Com cinco períodos, a diferença entre os termos variáveis ainda não supera a parcela fixa adicional.",
+      "C": "É a solução do empate no domínio real. Além de não dar preço estritamente menor, não é um número inteiro de períodos.",
+      "D": "Correta. A condição é 23 < 4x, ou x > 5,75. O menor inteiro é seis.",
+      "E": "Sete períodos também satisfazem a desigualdade, mas seis já bastam."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.20, H21"
+    },
+    {
+     "id": "enem-funcao-afim-modelagem-c14-q08",
+     "tipo": "me",
+     "dificuldade": "media",
+     "habilidade": "H20",
+     "texto_base": "O gráfico de tempo e folhas digitalizadas tem pontos sucessivos (0,0), (2,30), (5,30) e (8,60), unidos por segmentos. O tempo está em minutos.",
+     "enunciado": "Como interpretar o segundo segmento?",
+     "alternativas": {
+      "A": "Foram digitalizadas 15 folhas por minuto.",
+      "B": "A máquina passou a operar a 10 folhas por minuto.",
+      "C": "A máquina devolveu as folhas processadas e zerou o total.",
+      "D": "Foram adicionadas 30 folhas por minuto.",
+      "E": "Durante três minutos, nenhuma nova folha entrou no total."
+     },
+     "gabarito": "E",
+     "comentario": "A) Essa taxa corresponde ao trecho inicial entre zero e dois minutos.\nB) A taxa dez aparece no último trecho, quando o acumulado cresce de 30 para 60.\nC) O acumulado se mantém em 30, sem queda.\nD) O valor 30 indica o acumulado, e não sua taxa de variação.\nE) Correta. De t = 2 a t = 5, o segmento horizontal mantém o acumulado em 30.\n(Matriz de Referência ENEM 2026, Matemática 2.20, H20.)",
+     "comentarios_por_alternativa": {
+      "A": "Essa taxa corresponde ao trecho inicial entre zero e dois minutos.",
+      "B": "A taxa dez aparece no último trecho, quando o acumulado cresce de 30 para 60.",
+      "C": "O acumulado se mantém em 30, sem queda.",
+      "D": "O valor 30 indica o acumulado, e não sua taxa de variação.",
+      "E": "Correta. De t = 2 a t = 5, o segmento horizontal mantém o acumulado em 30."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.20, H20"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Em C(x) = 28 + 5x, a parcela fixa é ___ reais e a taxa variável é ___ reais por unidade.",
+     "opcoes": [
+      "28",
+      "5",
+      "33",
+      "23"
+     ],
+     "respostas": [
+      "28",
+      "5"
+     ],
+     "explicacao": "O termo independente permanece constante. O coeficiente de x determina o custo adicional por unidade.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.20"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Um gráfico acumulado sem crescimento tem taxa ___ no trecho. Um modelo com custo adicional positivo tem coeficiente ___ no trecho correspondente.",
+     "opcoes": [
+      "zero",
+      "positivo",
+      "negativo",
+      "inexistente"
+     ],
+     "respostas": [
+      "zero",
+      "positivo"
+     ],
+     "explicacao": "O coeficiente angular representa a variação da saída para uma unidade de entrada.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática 2.20"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a construção de uma expressão afim a partir de dois pontos.",
+     "itens": [
+      "Ler as coordenadas e unidades dos dois pontos",
+      "Calcular a taxa pelas diferenças",
+      "Substituir um ponto para achar o termo independente",
+      "Verificar a expressão com o outro ponto"
+     ],
+     "explicacao": "A confirmação com o segundo ponto ajuda a detectar erro de sinal ou troca de coeficientes."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Coeficiente angular",
+       "Taxa de mudança por unidade de entrada"
+      ],
+      [
+       "Intercepto vertical",
+       "Saída prevista em x igual a zero"
+      ],
+      [
+       "Domínio",
+       "Valores de entrada considerados"
+      ],
+      [
+       "Função por trechos",
+       "Regra escolhida conforme o intervalo"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

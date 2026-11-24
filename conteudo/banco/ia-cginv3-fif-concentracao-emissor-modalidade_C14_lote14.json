@@ -1,0 +1,232 @@
+{
+ "assunto": "Fundos de Investimentos — FIF: limites por emissor e modalidade e reenquadramento",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 — fontes oficiais conferidas",
+ "origem": "2026-11-23_banco-cginv3-fif-concentracao-emissor-modalidade_C14_lote14_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "cginv3-c14-fif-concentracao-emissor-modalidade",
+   "titulo": "FIF: limites por emissor e modalidade e reenquadramento",
+   "microconteudo": "RAIO-X DA PROVA: Sem provas públicas do CGINV III localizadas para calcular incidência. Prioridade pelo peso do edital e pela apostila. O programa pede comparação cumulativa entre o limite por emissor e o limite por modalidade, além dos deveres na persistência de excesso.\n\nO QUE A BANCA COBRA:\nUma posição pode satisfazer o teto por tipo de ativo e exceder o teto por emissor do mesmo grupo. Também pode respeitar o limite individual de cada emissor e ultrapassar a soma de modalidades do mesmo inciso. Leia a base em PL da classe, as exceções por público ou estratégia e a diferença entre emitir um alerta inicial e encaminhar um plano de reenquadramento.\n\nENTENDA:\nO art. 44 do Anexo I da Resolução CVM 175, como regra, limita a 20% do PL a exposição a uma instituição financeira autorizada pelo BCB. Aplica até 10% a companhias abertas, com a regra própria de BDR-Ações, e também 10% a sociedade de propósito específico que seja subsidiária integral de securitizadora S2. O limite de 5% alcança pessoa natural ou pessoa jurídica de direito privado fora das categorias indicadas no inciso IV, consideradas as hipóteses próprias dos demais incisos. A União Federal e os fundos de investimento não têm limite por emissor nessa tabela. Também há hipótese sem limite por emissor para ativos fungíveis de emissão única como política de investimento, com alerta no termo de adesão. A finalidade do alerta é dar ao investidor ciência de que a arquitetura da classe concentra a exposição em um emissor.\n\nNo cálculo, a responsabilidade pela liquidação ajuda a identificar emissor e coobrigado. Ativos de pessoas de um mesmo grupo econômico são agregados, salvo emissões de títulos de securitização com segregação patrimonial. Se uma classe com R$ 90 milhões de PL aplica R$ 6 milhões em notas de companhia aberta e R$ 4 milhões em debêntures de outra companhia aberta do mesmo grupo, os R$ 10 milhões equivalem a 11,11% do PL. O teto de 10% corresponde a R$ 9 milhões, então o excesso é de R$ 1 milhão. A ausência de teto por modalidade para certos títulos de companhia aberta ofertados publicamente não altera o cálculo por grupo.\n\nDerivativos contam conforme a exposição corrente e potencial. A exposição entra no cálculo do emissor do subjacente e, quando a operação não tem garantia de liquidação por infraestrutura autorizada, também no da contraparte. Para operações sem tal garantia com a mesma contraparte, a consolidação observa as exposições líquidas quando a compensação bilateral não foi contratualmente afastada. Há ainda restrições de até 20% em ativos do gestor e de companhias do grupo e regras sobre aquisição de ações do grupo, com exceções nos §§ 2º e 3º. Antes de usar uma autorização para replicar índice, identifique qual exceção está concretamente configurada.\n\nNo art. 45, a carteira é verificada também por modalidades. O primeiro grupo usa teto ordinário de 20% em conjunto, por exemplo para cotas de FIF restrito nas condições da alínea a, FII, FIDC e certificados de recebíveis. Confirme sublimites de 5% quando se tratar de FIF exclusivamente profissional nas condições do inciso, FIDC com política que admite direitos não padronizados ou certificados de recebíveis cujo lastro os contenha. A soma de FIP e Fiagro fica ordinariamente em 15%, observada a restrição de 5% para Fiagro com direitos não padronizados na política. O terceiro grupo tem 10% e inclui, entre outros ativos, contratos de investimento coletivo e criptoativos. Entre as hipóteses sem teto por modalidade estão títulos públicos federais, certas emissões de instituições financeiras autorizadas, ETFs e cotas de FIF voltadas ao público geral.\n\nParte da faixa adicional nos grupos de 20% e 15% pode ser usada sob os requisitos de formador de mercado dos §§ 1º e 2º. Os máximos ordinários então podem alcançar 40% e 25%, conforme o grupo, com a parcela adicional integralmente formada por ativos ou cotas com ofertas contínuas e regulares nas condições da norma. Para exclusivos de qualificados, o art. 75 dobra os limites dos incisos I a III do art. 45 e os do art. 60, com previsões específicas para as faixas com formador e para cotas de FIF igualmente qualificadas. A classe exclusivamente profissional pode prever no regulamento dispensa dos limites de emissor e modalidade nos termos do art. 76, preservando a tipificação e a política. A carteira de FI-Infra tem exceção própria à aplicação do art. 45.\n\nO gestor observa os limites e diligencia pelo reenquadramento no interesse dos cotistas. O administrador verifica as operações já efetuadas e, pelo art. 25, II, informa gestor e CVM sobre excesso até o fim do dia seguinte ao da verificação. Se persistir por dez dias úteis consecutivos, o art. 46 exige do administrador comunicação à CVM até o fim do dia útil seguinte e do gestor plano de ação no mesmo prazo. O administrador comunica também o reenquadramento assim que verificado. A dispensa de consolidar certas aplicações só opera nas hipóteses dos §§ 4º–5º. Os prazos de enquadramento inicial do art. 47, em regra 60 dias da primeira integralização para abertas e 180 do encerramento da distribuição para fechadas, têm marcos distintos do alerta e do plano após verificação de excesso.\n\nDOUTRINA:\nCOMISSÃO DE VALORES MOBILIÁRIOS. Cadernos CVM 3: Fundos de Investimento. 3. ed. CVM, 2016, p. 17–23. Diversificar posições reduz a dependência econômica de fontes isoladas de perda. Várias emissões de um mesmo grupo conservam riscos compartilhados. A dupla classificação por emissor e modalidade traduz essa lógica prudencial em métricas diferentes, dentro das regras atuais do Anexo I.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nSem precedente relevante identificado no recorte. Os relatórios de diligência devem explicitar se o cálculo decorre da Parte Geral ou dos deveres específicos do Anexo I.\n\nPEGADINHAS:\n1. Somar modalidades como se cada uma tivesse o teto integral do inciso.\n2. Fracionar títulos do mesmo grupo como se cada companhia sempre tivesse teto próprio.\n3. Tratar ausência de limite por modalidade como dispensa do limite por emissor.\n4. Contar 60 dias de classe aberta desde a aprovação do regulamento.\n5. Deixar para comunicar a verificação inicial só depois dos dez dias úteis de persistência.\n\nESQUEMA:\nEmissor e grupo → art. 44.\nModalidade e sublimites → art. 45.\nPúblico e exceções → arts. 75–76.\nExcesso verificado → aviso art. 25, II.\nExcesso persistente → aviso e plano art. 46.\nEnquadramento inicial → marcos do art. 47.\n\nLIGAÇÕES:\nFundos 9.2, investimento em cotas e crédito privado. Fundos 9.1, deveres gerais de enquadramento.",
+   "flashcards": [
+    {
+     "frente": "Qual regra básica para títulos de companhias do mesmo grupo?",
+     "verso": "Agregar como de um emissor, ressalvadas emissões de securitização com segregação patrimonial.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 44, § 1º, II"
+    },
+    {
+     "frente": "Com que limite se combina o teto de modalidade?",
+     "verso": "Com o limite por emissor e as demais regras aplicáveis à tipificação.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, arts. 44 e 45, caput"
+    },
+    {
+     "frente": "Qual soma ordinária abrange FII e FIDC?",
+     "verso": "O grupo do art. 45, I, tem teto de 20% do PL, com sublimites nas alíneas pertinentes.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 45, I e §§ 1º–2º"
+    },
+    {
+     "frente": "Quem envia o plano após excesso persistente?",
+     "verso": "O gestor, até o final do dia útil seguinte à persistência por dez dias úteis consecutivos.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 46, §§ 1º–2º"
+    },
+    {
+     "frente": "Quando começa o prazo ordinário de concentração de classe aberta?",
+     "verso": "Na primeira integralização, com prazo de 60 dias.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 47, I–II"
+    },
+    {
+     "frente": "Quem emite o alerta inicial de desenquadramento verificado?",
+     "verso": "O administrador informa ao gestor e à CVM até o fim do dia seguinte à verificação.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, arts. 25, II, e 46, §§ 1º–2º"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Títulos de duas companhias abertas do mesmo grupo são agregados para o limite por emissor, observada a exceção de securitização com segregação patrimonial.",
+     "gabarito": "C",
+     "comentario": "O grupo econômico recebe tratamento de mesmo emissor, salvo o caso especificado de títulos de securitização. (Resolução CVM 175/2022, Anexo I, art. 44, § 1º, II)",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 44, § 1º, II"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "A ausência de limite por modalidade para determinado ativo sempre elimina a aferição por emissor.",
+     "gabarito": "E",
+     "comentario": "Os dois limites são cumulativos, e as dispensa devem ser localizadas em cada dispositivo. (Resolução CVM 175/2022, Anexo I, arts. 44 e 45, caput)",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, arts. 44 e 45, caput"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Derivativo sem garantia de liquidação na forma do art. 44 pode gerar exposição computada para o emissor do ativo subjacente e para a contraparte.",
+     "gabarito": "C",
+     "comentario": "A apuração considera a exposição corrente e potencial nos dois referenciais previstos. (Resolução CVM 175/2022, Anexo I, art. 44, §§ 4º–6º)",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 44, §§ 4º–6º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "O administrador pode deixar de comunicar o excesso verificado no art. 25, II, até saber se a posição ficará desenquadrada por dez dias úteis consecutivos.",
+     "gabarito": "E",
+     "comentario": "A comunicação após verificação e o informe por persistência são deveres com gatilhos distintos. (Resolução CVM 175/2022, Anexo I, arts. 25, II, e 46, §§ 1º–2º)",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, arts. 25, II, e 46, §§ 1º–2º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 13/10/2026, Júlia revisa FIF com R$ 50 milhões de PL. Há R$ 3,5 milhões em notas comerciais de companhia aberta e R$ 2 milhões em debêntures de outra companhia aberta do mesmo grupo. Os títulos foram ofertados publicamente e não há exceção por emissor. Qual a posição?",
+     "alternativas": {
+      "A": "O grupo soma 11% do PL, com excesso de R$ 500 mil.",
+      "B": "A exposição vai a 7%, pela maior de duas posições.",
+      "C": "O grupo soma 11%, abaixo de teto de 20% para toda companhia aberta.",
+      "D": "O grupo soma 9% após compensar a menor posição.",
+      "E": "A oferta pública cria dispensa automática do limite por emissor."
+     },
+     "gabarito": "A",
+     "comentario": "A (correta). O teto de 10% é R$ 5 milhões e o grupo concentra R$ 5,5 milhões. B (incorreta). As posições do mesmo grupo são somadas. C (incorreta). O limite padrão do emissor companhia aberta é 10%. D (incorreta). São ativos comprados do mesmo grupo, sem compensação indicada. E (incorreta). A hipótese sem limite por modalidade não elimina o teste por emissor. (Resolução CVM 175/2022, Anexo I, art. 44, II e § 1º, II)",
+     "comentarios_por_alternativa": {
+      "A": "O teto de 10% é R$ 5 milhões e o grupo concentra R$ 5,5 milhões.",
+      "B": "As posições do mesmo grupo são somadas.",
+      "C": "O limite padrão do emissor companhia aberta é 10%.",
+      "D": "São ativos comprados do mesmo grupo, sem compensação indicada.",
+      "E": "A hipótese sem limite por modalidade não elimina o teste por emissor."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 44, II e § 1º, II"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 12/11/2026, Gil analisa classe de público geral com PL de R$ 40 milhões. São R$ 4 milhões em FII e R$ 5 milhões em FIDC com política restrita a direitos padronizados. Nenhum ativo conta com formador de mercado nas condições da norma. Qual leitura do art. 45, I?",
+     "alternativas": {
+      "A": "Enquadra, porque cada classe investida tem teto próprio de 20%.",
+      "B": "Excede em R$ 5 milhões porque todo FIDC se limita a 5% do PL.",
+      "C": "O grupo totaliza 22,5% do PL e supera em R$ 1 milhão o teto ordinário.",
+      "D": "Pode chegar a 40% mesmo sem formador de mercado.",
+      "E": "Estes ativos compõem o grupo de 15% dos Fiagros e FIPs."
+     },
+     "gabarito": "C",
+     "comentario": "A (incorreta). O inciso fixa limite para o conjunto dos ativos listados. B (incorreta). O sublimite direcionado a créditos não padronizados não se aplica à hipótese descrita. C (correta). A posição soma R$ 9 milhões, diante de teto de R$ 8 milhões. D (incorreta). A parcela adicional depende das condições do § 1º. E (incorreta). FII e FIDC integram o grupo do inciso I. (Resolução CVM 175/2022, Anexo I, art. 45, I e §§ 1º–2º)",
+     "comentarios_por_alternativa": {
+      "A": "O inciso fixa limite para o conjunto dos ativos listados.",
+      "B": "O sublimite direcionado a créditos não padronizados não se aplica à hipótese descrita.",
+      "C": "A posição soma R$ 9 milhões, diante de teto de R$ 8 milhões.",
+      "D": "A parcela adicional depende das condições do § 1º.",
+      "E": "FII e FIDC integram o grupo do inciso I."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 45, I e §§ 1º–2º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 18/11/2026, Teresa acompanha classe de R$ 70 milhões que permanece dez dias úteis consecutivos acima do limite de concentração. O aviso de verificação inicial foi enviado tempestivamente. O que se exige no fim do dia útil seguinte ao décimo dia útil?",
+     "alternativas": {
+      "A": "Apenas nova análise interna do conselho, sem comunicação à CVM.",
+      "B": "Comunicação do administrador à CVM e plano de reenquadramento encaminhado pelo gestor, juntos ou em expedientes separados.",
+      "C": "Somente um plano do custodiante à CVM.",
+      "D": "Cancelamento automático do registro do FIF.",
+      "E": "Aguardar 15 dias úteis para qualquer providência adicional."
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). O art. 46 fixa comunicação à CVM e plano de ação. B (correta). Os dois deveres têm o mesmo prazo e responsáveis distintos. C (incorreta). O plano cabe ao gestor. D (incorreta). A norma exige tratamento do desenquadramento, não cancelamento automático. E (incorreta). O gatilho específico dos §§ 1º e 2º é de dez dias úteis consecutivos. (Resolução CVM 175/2022, Anexo I, art. 46, §§ 1º–2º)",
+     "comentarios_por_alternativa": {
+      "A": "O art. 46 fixa comunicação à CVM e plano de ação.",
+      "B": "Os dois deveres têm o mesmo prazo e responsáveis distintos.",
+      "C": "O plano cabe ao gestor.",
+      "D": "A norma exige tratamento do desenquadramento, não cancelamento automático.",
+      "E": "O gatilho específico dos §§ 1º e 2º é de dez dias úteis consecutivos."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 46, §§ 1º–2º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 5/10/2026, Dante verifica compromisso de R$ 3 milhões em classe fechada comum de FIF. A primeira integralização ocorreu em 1/9/2026, e a distribuição encerrou em 28/9/2026. Qual marco geral do art. 47 para atingir limites de concentração?",
+     "alternativas": {
+      "A": "Sessenta dias da primeira integralização.",
+      "B": "Cento e oitenta dias da primeira integralização.",
+      "C": "Sessenta dias depois de concluída a distribuição.",
+      "D": "Dez dias úteis da constatação pelo administrador.",
+      "E": "Cento e oitenta dias do encerramento da distribuição."
+     },
+     "gabarito": "E",
+     "comentario": "A (incorreta). Esse é o prazo geral para classe aberta. B (incorreta). O intervalo é o ordinário da fechada, mas a data inicial é o encerramento da distribuição. C (incorreta). A fechada comum dispõe de 180 dias. D (incorreta). O prazo trata de comunicação de excesso persistente em outro dispositivo. E (correta). A classe fechada comum segue o art. 47, II. (Resolução CVM 175/2022, Anexo I, art. 47, I–II)",
+     "comentarios_por_alternativa": {
+      "A": "Esse é o prazo geral para classe aberta.",
+      "B": "O intervalo é o ordinário da fechada, mas a data inicial é o encerramento da distribuição.",
+      "C": "A fechada comum dispõe de 180 dias.",
+      "D": "O prazo trata de comunicação de excesso persistente em outro dispositivo.",
+      "E": "A classe fechada comum segue o art. 47, II."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 47, I–II"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "A posição de duas companhias abertas do mesmo grupo econômico é tratada como um único ___.",
+     "opcoes": [
+      "emissor",
+      "tipo de mercado",
+      "custodiante"
+     ],
+     "respostas": [
+      "emissor"
+     ],
+     "explicacao": "A segregação patrimonial de certas emissões de securitização é exceção expressa.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 44, II e § 1º, II"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Após ___ dias úteis consecutivos de excesso, o gestor apresenta plano de ___ à CVM.",
+     "opcoes": [
+      "10",
+      "15",
+      "reenquadramento",
+      "subscrição"
+     ],
+     "respostas": [
+      "10",
+      "reenquadramento"
+     ],
+     "explicacao": "O administrador também informa à CVM no prazo do art. 46.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 46, §§ 1º–2º"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a apuração de concentração em carteira de FIF.",
+     "itens": [
+      "Determinar o PL da classe e o valor das posições",
+      "Agregar exposições por emissor ou grupo",
+      "Somar as modalidades de cada conjunto regulamentar",
+      "Aplicar cumulativamente os limites e registrar eventuais excessos"
+     ],
+     "explicacao": "Os testes seguem bases distintas que precisam ser satisfeitas de forma cumulativa.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, arts. 44 e 45, caput"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Instituição financeira autorizada",
+       "Teto ordinário por emissor de 20%"
+      ],
+      [
+       "Companhia aberta",
+       "Teto ordinário por emissor de 10%"
+      ],
+      [
+       "FIP e Fiagro",
+       "Teto ordinário agregado de 15%"
+      ],
+      [
+       "FII e FIDC",
+       "Integram a faixa ordinária de 20%"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

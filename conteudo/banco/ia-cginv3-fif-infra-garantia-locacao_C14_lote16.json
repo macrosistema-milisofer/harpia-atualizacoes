@@ -1,0 +1,234 @@
+{
+ "assunto": "Fundos de Investimentos — FIFs especiais: infraestrutura incentivada e garantia de locação",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 — fontes oficiais conferidas",
+ "origem": "2026-11-23_banco-cginv3-fif-infra-garantia-locacao_C14_lote16_v2.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "cginv3-c14-fif-infra-garantia-locacao",
+   "titulo": "FIFs especiais: infraestrutura incentivada e garantia de locação",
+   "microconteudo": "RAIO-X DA PROVA: Sem provas públicas do CGINV III localizadas para estimar incidência. Prioridade pelo peso do edital e pela apostila. O programa distingue o incentivo legal ligado à carteira do FI-Infra e a afetação de cotas na garantia de locação imobiliária.\n\nO QUE A BANCA COBRA:\nNo FI-Infra, o enquadramento da carteira nos ativos incentivados é diferente do controle de concentração em um emissor. Na garantia de locação, o caso costuma girar em torno do bem gravado, da formalização da cessão e da possibilidade de resgate. Identificar o mandato do veículo é a primeira etapa para evitar tratar a exposição a uma garantia locatícia como investimento imobiliário direto.\n\nENTENDA:\nO FI-Infra previsto no art. 59 do Anexo I da Resolução CVM 175 é um FIF de renda fixa voltado ao regime tributário do art. 3º da Lei 12.431/2011. Pode ter regime aberto ou fechado. Em veículo multiclasses, cada classe tem objetivo de enquadramento no regime e permanece sujeita ao mínimo legal de alocação nos ativos do art. 2º da lei. A denominação do fundo e das classes identifica investimento em infraestrutura e, se houver parcela preponderante em segmento específico, seu direcionamento. O material de divulgação informa benefícios, quando aplicáveis, condições para mantê-los e riscos de concentração e possível iliquidez.\n\nA Lei 14.801/2024 modificou a base dos 85% do art. 3º. A regra toma o menor valor entre o PL e a média do PL nos 180 dias anteriores à apuração. No período inicial de dois anos, o percentual mínimo pode ser de 67% desse valor de referência, nos termos do § 1º-A, com o prazo de 180 dias da primeira integralização para enquadramento inicial nesse percentual. Considere um fundo já fora da janela inicial, com PL de R$ 125 milhões e média dos 180 dias anteriores de R$ 100 milhões. O enquadramento mínimo da hipótese usa R$ 85 milhões, que correspondem a 85% de R$ 100 milhões. Aplicar automaticamente os 85% sobre o PL do dia geraria R$ 106,25 milhões, base diferente da lei vigente.\n\nO limite de concentração por emissor que atenda ao art. 2º da Lei 12.431 é em regra de 20% do PL da classe conforme o art. 60 do Anexo I, sujeito, por exemplo, ao tratamento do art. 75 para classe exclusivamente qualificada. Para outros ativos aplicam-se os limites por emissor do art. 44. O teste por emissor usa o PL da classe e não o valor de referência fiscal. No caso de SPE emissora de debêntures constituída como sociedade por ações, há hipótese de computá-la como emissor independente com garantias das obrigações principais e acessórias nas condições do art. 60, § 4º. Garantia prestada pelo grupo econômico em regra impede o tratamento, ressalvada a garantia real sobre ações da própria SPE pertencentes a sociedades do grupo.\n\nQuando aplicável, certificados de recebíveis e classes fechadas de FIDC elegíveis para a carteira seguem a exigência de classe única ou subclasse sênior do § 2º. O gestor verifica a consolidação se a política prevê CRI ou cotas de classe fechada de FIDC, com a exceção do § 6º para FIDC administrado ou gerido por terceiros não ligados ao gestor da classe investidora. Benefício tributário e enquadramento do produto não respondem sozinhos à decisão previdenciária. Uma carteira concentrada em projetos semelhantes pode ter exposição a riscos setoriais, prazo de mercado e crédito incompatíveis com o uso do investimento como reserva de curto prazo para pagamentos de benefícios.\n\nO fundo destinado a garantir locação imobiliária usa a cessão fiduciária de cotas prevista no art. 88 da Lei 11.196/2005 e nos arts. 61–69 do Anexo I. Todas as classes de fundo constituído para essa finalidade devem tê-la, em regime aberto, e a denominação da classe identifica a garantia. Embora a classe seja aberta, o resgate das cotas que foram cedidas fiduciariamente é vedado durante o vínculo. As cotas cedidas, individualizadas em quantidade, tornam-se indisponíveis, inalienáveis e impenhoráveis sob o regime fiduciário. A titularidade resolúvel se constitui em favor do credor fiduciário pela formalização da cessão no registro. O cotista apresenta requerimento ao administrador, com termo de cessão e via do contrato de locação. Se o cedente for pessoa distinta do locatário, assina o contrato ou aditivo como garantidor. O voto permanece com o cedente na falta de disposição contrária no termo, e os dois recebem as comunicações.\n\nSe há mora, o credor fiduciário, notifica extrajudicialmente o locatário e o cedente, se distinto, para quitação em dez dias. Sem pagamento integral, pode requerer ao agente fiduciário a transferência definitiva das cotas suficientes para a quitação. O regulamento disciplina o procedimento, em anexo quando houver classes diferentes. A cessão pode também envolver cotas de FIF fora do fim exclusivo, observados os arts. 64 e 65. Nessa hipótese, o administrador não imputa ao fundo despesas específicas da cessão. Em reorganização de fundo de garantia, confira a preservação da finalidade e a exceção para cotas livres da cessão. Em liquidação, o termo pode autorizar o uso do pagamento a que o cedente faria jus para subscrever cotas de outro FIF, na forma do art. 68.\n\nDOUTRINA:\nCOMISSÃO DE VALORES MOBILIÁRIOS. Cadernos CVM 3: Fundos de Investimento. 3. ed. CVM, 2016, p. 17–22 e 35–40. Estratégia de carteira e possibilidade de converter a cota em caixa compõem dimensões separadas de uma posição. O FI-Infra evidencia o efeito do mandato sobre os ativos. A cessão fiduciária evidencia como o gravame altera a disponibilidade de certas cotas. As condições especiais vigentes vêm das leis citadas e do Anexo I atual.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nSem precedente relevante identificado neste recorte. A solução usa as regras de enquadramento do FI-Infra e do procedimento extrajudicial da garantia disciplinado em lei e no regulamento.\n\nPEGADINHAS:\n1. Usar o PL do dia como única base do percentual de ativos incentivados.\n2. Confundir o mínimo da carteira incentivada com o máximo por emissor.\n3. Imaginar que a dispensa do sufixo Crédito Privado torna irrelevante risco de concentração.\n4. Supor que a condição de classe aberta libera cotas já cedidas.\n5. Atribuir automaticamente o voto ao credor, mesmo com termo silencioso.\n\nESQUEMA:\nFI-Infra → renda fixa, aberto ou fechado → art. 59.\nAlocação incentivada → valor de referência → Lei 12.431, art. 3º.\nConcentração por emissor → PL da classe → Anexo I, art. 60.\nGarantia locatícia → termo, contrato e averbação → art. 64.\nMora → notificação, dez dias, eventual transferência → Lei 11.196, art. 88.\n\nLIGAÇÕES:\nFundos 9.2, renda fixa e concentração. Fundos 9.3, FII e FIDC.",
+   "flashcards": [
+    {
+     "frente": "Que regime de cotas cabe em FI-Infra?",
+     "verso": "Pode ser aberto ou fechado, como FIF do tipo Renda Fixa.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 59, caput e §§ 1º–5º"
+    },
+    {
+     "frente": "Qual é a base dos 85% do FI-Infra?",
+     "verso": "O menor entre o PL do fundo e sua média nos 180 dias anteriores à apuração.",
+     "dispositivo": "Lei 12.431/2011, art. 3º, caput e §§ 1º-A e 1º-B"
+    },
+    {
+     "frente": "Qual é o teto ordinário do FI-Infra por emissor incentivado?",
+     "verso": "Até 20% do PL da classe, ressalvadas hipóteses específicas.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 60, caput e § 1º"
+    },
+    {
+     "frente": "Cota cedida de classe aberta de garantia pode ser resgatada?",
+     "verso": "O resgate é vedado para a cota objeto da cessão fiduciária.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 62, I"
+    },
+    {
+     "frente": "Quem vota, se o termo de cessão for silencioso?",
+     "verso": "O cotista-cedente. As comunicações alcançam também o proprietário fiduciário.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, arts. 64, § 3º, e 65"
+    },
+    {
+     "frente": "Qual prazo após a notificação por mora do credor fiduciário?",
+     "verso": "Dez dias para pagamento integral antes de eventual pedido de excussão extrajudicial.",
+     "dispositivo": "Lei 11.196/2005, art. 88, §§ 6º–7º; Resolução CVM 175/2022, Anexo I, art. 66"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Um FI-Infra de renda fixa pode funcionar em regime aberto ou fechado, e todas as suas classes devem buscar o enquadramento da Lei 12.431.",
+     "gabarito": "C",
+     "comentario": "Regime de resgate e finalidade incentivada coexistem nos termos do art. 59. (Resolução CVM 175/2022, Anexo I, art. 59, caput e §§ 1º–5º)",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 59, caput e §§ 1º–5º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "As cotas cedidas fiduciariamente de classe destinada à garantia de locação podem ser resgatadas pelo cedente durante a cessão, por se tratar de classe aberta.",
+     "gabarito": "E",
+     "comentario": "A classe é aberta, mas a vedação específica alcança as cotas efetivamente cedidas. (Resolução CVM 175/2022, Anexo I, art. 62, I)",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 62, I"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Sem regra contrária no termo, o voto continua com o cotista-cedente, e tanto ele quanto o proprietário fiduciário recebem comunicações.",
+     "gabarito": "C",
+     "comentario": "Os arts. 64 e 65 regulam separadamente o voto e as comunicações. (Resolução CVM 175/2022, Anexo I, arts. 64, § 3º, e 65)",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, arts. 64, § 3º, e 65"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Em cessão de cotas de FIF sem destinação exclusiva à garantia locatícia, o administrador pode debitar do fundo os custos de averbar o gravame e de avisar o proprietário fiduciário.",
+     "gabarito": "E",
+     "comentario": "O art. 69 veda imputar ao fundo as despesas relativas à cessão na hipótese descrita. (Resolução CVM 175/2022, Anexo I, art. 69, § 1º, II)",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 69, § 1º, II"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 18/11/2026, Beatriz avalia FI-Infra com R$ 112 milhões de PL e média dos 180 dias anteriores de R$ 92 milhões. A classe já superou o período inicial do art. 3º, § 1º-A. Qual é o mínimo de ativos incentivados pelo teste da lei?",
+     "alternativas": {
+      "A": "R$ 95,2 milhões, correspondentes a 85% do PL atual.",
+      "B": "R$ 61,64 milhões, 67% da média.",
+      "C": "R$ 92 milhões, por ser a média de referência integral.",
+      "D": "R$ 78,2 milhões, desde que esse valor seja tratado como teto de aquisição.",
+      "E": "R$ 78,2 milhões, porque 85% incidem sobre o valor de referência de R$ 92 milhões."
+     },
+     "gabarito": "E",
+     "comentario": "A (incorreta). A base de referência é o menor valor entre as duas medidas. B (incorreta). O percentual reduzido se refere ao período inicial. C (incorreta). Aplica-se a alíquota de composição de 85% sobre a base. D (incorreta). O cálculo está correto, mas representa o mínimo da carteira. E (correta). A média é o menor valor e determina a base da proporção. (Lei 12.431/2011, art. 3º, caput e §§ 1º-A e 1º-B)",
+     "comentarios_por_alternativa": {
+      "A": "A base de referência é o menor valor entre as duas medidas.",
+      "B": "O percentual reduzido se refere ao período inicial.",
+      "C": "Aplica-se a alíquota de composição de 85% sobre a base.",
+      "D": "O cálculo está correto, mas representa o mínimo da carteira.",
+      "E": "A média é o menor valor e determina a base da proporção."
+     },
+     "dispositivo": "Lei 12.431/2011, art. 3º, caput e §§ 1º-A e 1º-B"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 27/10/2026, Ernani verifica carteira de classe FI-Infra aberta ao público geral. PL de R$ 100 milhões, posição de R$ 24 milhões em debêntures incentivadas de um emissor com requisitos do art. 2º da Lei 12.431, sem exceção aplicável. Qual teste da CVM deve registrar?",
+     "alternativas": {
+      "A": "A concentração é de 24% do PL e excede o teto por emissor em R$ 4 milhões.",
+      "B": "A exposição se enquadra sempre que a carteira cumpra o mínimo de 85%.",
+      "C": "A concentração se mede pelo valor de referência fiscal, ainda que mude o denominador.",
+      "D": "O teto de qualquer classe FI-Infra é de 40%.",
+      "E": "Ativos incentivados não têm limite por emissor."
+     },
+     "gabarito": "A",
+     "comentario": "A (correta). A regra ordinária do art. 60, caput, fixa 20% do PL da classe. B (incorreta). O cálculo do mínimo fiscal é distinto do limite por emissor. C (incorreta). O art. 60 usa PL da classe. D (incorreta). A classe de público geral não recebe a duplicação do art. 75. E (incorreta). O limite específico de 20% incide nas condições do caso. (Resolução CVM 175/2022, Anexo I, art. 60, caput e § 1º)",
+     "comentarios_por_alternativa": {
+      "A": "A regra ordinária do art. 60, caput, fixa 20% do PL da classe.",
+      "B": "O cálculo do mínimo fiscal é distinto do limite por emissor.",
+      "C": "O art. 60 usa PL da classe.",
+      "D": "A classe de público geral não recebe a duplicação do art. 75.",
+      "E": "O limite específico de 20% incide nas condições do caso."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 60, caput e § 1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 16/11/2026, Ivan, cotista e terceiro garantidor de uma locação, cede R$ 120 mil em cotas. Para formalizar a garantia, qual conjunto de atos cabe?",
+     "alternativas": {
+      "A": "Entregar declaração informal ao locador e aguardar anotação do gestor.",
+      "B": "Juntar só uma via do contrato sem indicação do número de cotas.",
+      "C": "Depositar mensalmente o equivalente às cotas em conta do gestor.",
+      "D": "Requerer ao administrador com termo que identifique as cotas e via do contrato, assinar como garantidor e averbar a cessão.",
+      "E": "Resgatar as cotas cedidas e constituir garantia em dinheiro antes de formalizar a cessão."
+     },
+     "gabarito": "D",
+     "comentario": "A (incorreta). A formalização exige os documentos legais e registro pelo administrador. B (incorreta). O termo de cessão precisa identificar a quantidade de cotas. C (incorreta). O mecanismo é cessão fiduciária de cotas, formalizada documentalmente. D (correta). A condição de terceiro exige assinatura nessa qualidade e o administrador averba no registro do cotista-cedente. E (incorreta). O gravame incide sobre cotas, não pressupõe resgate. (Resolução CVM 175/2022, Anexo I, art. 64, I–II e §§ 1º–2º; Lei 11.196/2005, art. 88, §§ 1º–4º)",
+     "comentarios_por_alternativa": {
+      "A": "A formalização exige os documentos legais e registro pelo administrador.",
+      "B": "O termo de cessão precisa identificar a quantidade de cotas.",
+      "C": "O mecanismo é cessão fiduciária de cotas, formalizada documentalmente.",
+      "D": "A condição de terceiro exige assinatura nessa qualidade e o administrador averba no registro do cotista-cedente.",
+      "E": "O gravame incide sobre cotas, não pressupõe resgate."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 64, I–II e §§ 1º–2º; Lei 11.196/2005, art. 88, §§ 1º–4º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 6/10/2026, Dora revisa inadimplemento de R$ 18 mil garantido por cessão fiduciária de cotas em contrato de locação. O locatário e o cedente são pessoas diferentes. Qual é a sequência legal da excussão?",
+     "alternativas": {
+      "A": "Transferência imediata das cotas ao credor sem prazo de pagamento.",
+      "B": "Notificação só do administrador pelo locador, sem envolver o locatário.",
+      "C": "Notificar extrajudicialmente ambos para pagar em dez dias. Ausente pagamento integral, requerer ao agente fiduciário as cotas suficientes.",
+      "D": "Notificar por 30 dias e requerer todas as cotas, independentemente do saldo.",
+      "E": "Pedir transferência ao gestor, ainda que tenha havido pagamento integral no prazo."
+     },
+     "gabarito": "C",
+     "comentario": "A (incorreta). A norma exige notificação e prazo para quitação integral. B (incorreta). A notificação é dirigida ao locatário e ao cedente distinto. C (correta). Os §§ 6º e 7º regulam a mora e a transferência definitiva de cotas suficientes. D (incorreta). O prazo de 30 dias está ligado a outra hipótese. A transferência é limitada ao necessário. E (incorreta). O pressuposto é a falta de pagamento integral no prazo e o pedido dirige-se ao agente fiduciário. (Lei 11.196/2005, art. 88, §§ 6º–7º; Resolução CVM 175/2022, Anexo I, art. 66)",
+     "comentarios_por_alternativa": {
+      "A": "A norma exige notificação e prazo para quitação integral.",
+      "B": "A notificação é dirigida ao locatário e ao cedente distinto.",
+      "C": "Os §§ 6º e 7º regulam a mora e a transferência definitiva de cotas suficientes.",
+      "D": "O prazo de 30 dias está ligado a outra hipótese. A transferência é limitada ao necessário.",
+      "E": "O pressuposto é a falta de pagamento integral no prazo e o pedido dirige-se ao agente fiduciário."
+     },
+     "dispositivo": "Lei 11.196/2005, art. 88, §§ 6º–7º; Resolução CVM 175/2022, Anexo I, art. 66"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Na regra do FI-Infra para período ordinário, o mínimo é ___ do valor de referência; o teto ordinário por emissor abrangido é ___ do PL da classe.",
+     "opcoes": [
+      "85%",
+      "20%",
+      "67%",
+      "45%"
+     ],
+     "respostas": [
+      "85%",
+      "20%"
+     ],
+     "explicacao": "Piso de alocação incentivada e teto por emissor usam denominadores diferentes.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 60, caput e § 1º"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Na garantia de locação, o termo indica o número de ___ cedidas, e o ___ averba a cessão no registro do cotista.",
+     "opcoes": [
+      "cotas",
+      "administrador",
+      "ações",
+      "gestor"
+     ],
+     "respostas": [
+      "cotas",
+      "administrador"
+     ],
+     "explicacao": "A averbação formaliza a propriedade fiduciária nos termos legais.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 64, I–II e §§ 1º–2º; Lei 11.196/2005, art. 88, §§ 1º–4º"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o tratamento de inadimplemento garantido por cessão fiduciária de cotas.",
+     "itens": [
+      "Identificar a mora e o saldo devido",
+      "Notificar extrajudicialmente locatário e cedente distinto",
+      "Aguardar dez dias para pagamento integral",
+      "Se persistir a dívida, pedir transferência das cotas suficientes"
+     ],
+     "explicacao": "A transferência definitiva exige observar a possibilidade de pagamento após notificação.",
+     "dispositivo": "Lei 11.196/2005, art. 88, §§ 6º–7º; Resolução CVM 175/2022, Anexo I, art. 66"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "FI-Infra",
+       "Carteira incentivada de renda fixa"
+      ],
+      [
+       "Valor de referência",
+       "Base do piso legal de alocação"
+      ],
+      [
+       "Averbação da cessão",
+       "Propriedade fiduciária resolúvel"
+      ],
+      [
+       "Mora com dívida não quitada",
+       "Possível excussão extrajudicial"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

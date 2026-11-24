@@ -1,0 +1,191 @@
+{
+ "assunto": "Teoria da utilidade esperada e atitudes diante do risco",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 — Claude (C-14-CGINV, frente Claude)",
+ "origem": "2026-11-23_banco-cginv3-utilidade-esperada-aversao-risco_C14C_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "cginv3-c14c-utilidade-esperada",
+   "titulo": "Utilidade esperada: risco, retorno, dominância e aversão ao risco",
+   "microconteudo": "RAIO-X DA PROVA: Sem provas públicas do CGINV III para contar incidência. Prioridade pela Onda 1 do Pareto (peso do edital) e pela apostila-parâmetro do CP RPPS (módulo Investimentos, p. 143–176). Tema comum a CGINV I/II/III, DIRIG e CODEF quando o edital repete o ponto.\n\nO QUE A BANCA COBRA:\nReconhecer pelo formato da curva de utilidade se o investidor é avesso, neutro ou propenso ao risco; aplicar dominância para descartar alternativas; calcular retorno esperado e entender por que variância mede risco.\n\nENTENDA:\nRetorno esperado e risco. O retorno esperado é a média dos retornos possíveis ponderada pelas probabilidades: E(R) = Σ p·R. O risco é medido pela dispersão em torno dessa média — variância (σ²) ou desvio-padrão (σ). Dois ativos com o mesmo retorno esperado podem ter riscos muito diferentes.\n\nUtilidade esperada. O investidor não escolhe pelo valor esperado do dinheiro, mas pela utilidade esperada: E[U(W)] = Σ p·U(W). A função de utilidade traduz quanto \"satisfação\" cada nível de riqueza gera.\n\nSaciabilidade (não saciedade). Mais riqueza é sempre preferível a menos: a utilidade é crescente (U' > 0). É a premissa básica da teoria.\n\nAtitudes diante do risco (pela curvatura, U''):\n• Aversão ao risco: utilidade côncava (U'' < 0), cada real adicional vale menos que o anterior. O avesso recusa uma aposta justa (valor esperado zero) e só aceita risco com prêmio. É a hipótese padrão para investidores institucionais como os RPPS.\n• Neutralidade: utilidade linear (U'' = 0); só importa o valor esperado, o risco é indiferente.\n• Propensão (amor) ao risco: utilidade convexa (U'' > 0); aceita aposta justa e até paga para correr risco.\n\nEquivalente certo e prêmio de risco. Equivalente certo é a quantia certa que dá a mesma utilidade que a aposta. Para o avesso, o equivalente certo é menor que o valor esperado; a diferença é o prêmio de risco que ele exigiria para entrar na aposta.\n\nDominância estocástica. Permite descartar alternativas sem conhecer a função de utilidade exata:\n• 1ª ordem: A domina B se, para qualquer resultado, a probabilidade de obter pelo menos aquele valor é sempre maior ou igual em A. Vale para qualquer investidor que prefira mais a menos.\n• 2ª ordem: com médias iguais, A domina B se é \"menos arriscada\" (B é A com ruído adicionado). Vale para todo investidor avesso ao risco.\nPelo critério média-variância, A domina B se tem retorno esperado maior ou igual e risco menor ou igual (com pelo menos uma desigualdade estrita).\n\nAplicação no Comitê. A política de investimentos traduz a aversão ao risco do RPPS em limites, alocação-alvo e meta atuarial: busca-se a carteira que atinge a meta com o menor risco compatível, e não o maior retorno possível.\n\nESQUEMA:\nU' > 0 (mais é melhor) | Côncava = avesso | Linear = neutro | Convexa = propenso | Avesso: equivalente certo < valor esperado | 1ª ordem: todo investidor racional | 2ª ordem: todo avesso.\n\nPEGADINHAS:\n• \"Curva convexa indica aversão ao risco\" — errado: convexa é propensão; aversão é côncava.\n• \"O investidor neutro recusa apostas justas\" — errado: é indiferente a elas.\n• \"Dominância de 2ª ordem vale para qualquer investidor\" — errado: vale para os avessos ao risco.\n• \"Risco é a probabilidade de perder dinheiro\" — na teoria de carteiras, risco é a dispersão (variância/desvio-padrão).\n\nDOUTRINA:\nConceitos conforme Elton, Gruber, Brown e Goetzmann (Moderna Teoria de Carteiras e Análise de Investimentos) e Markowitz (Portfolio Selection, 1952), bases da bibliografia das certificações de investimentos.",
+   "flashcards": [
+    {
+     "frente": "Formato da utilidade do avesso ao risco?",
+     "verso": "Côncava (U'' < 0).",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Neutro ao risco?",
+     "verso": "Utilidade linear; decide só pelo valor esperado.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Propenso ao risco?",
+     "verso": "Utilidade convexa; aceita aposta justa.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Equivalente certo do avesso?",
+     "verso": "Menor que o valor esperado da aposta; a diferença é o prêmio de risco.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Dominância de 1ª ordem vale para quem?",
+     "verso": "Para qualquer investidor que prefere mais a menos.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Dominância de 2ª ordem vale para quem?",
+     "verso": "Para todo investidor avesso ao risco.",
+     "dispositivo": ""
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Investidor com função de utilidade côncava é avesso ao risco e recusa apostas justas.",
+     "gabarito": "C",
+     "comentario": "Certo. A concavidade faz a perda pesar mais que o ganho equivalente.",
+     "dispositivo": "Teoria da utilidade"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Para o investidor neutro ao risco, o equivalente certo de uma aposta é inferior ao seu valor esperado.",
+     "gabarito": "E",
+     "comentario": "Errado. Para o neutro, equivalente certo = valor esperado; é inferior para o avesso.",
+     "dispositivo": "Teoria da utilidade"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A premissa de não saciedade significa que o investidor sempre prefere mais riqueza a menos.",
+     "gabarito": "C",
+     "comentario": "Certo. Utilidade crescente.",
+     "dispositivo": "Teoria da utilidade"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "facil",
+     "enunciado": "Um ativo rende 20% com probabilidade 0,4 e −5% com probabilidade 0,6. O retorno esperado é:",
+     "alternativas": {
+      "A": "5%",
+      "B": "7,5%",
+      "C": "12,5%",
+      "D": "15%",
+      "E": "2%"
+     },
+     "gabarito": "A",
+     "comentario": "A (correta). 0,4×20 + 0,6×(−5) = 8 − 3 = 5%. B (incorreta). Média simples, sem ponderar probabilidades. C (incorreta). Erro de sinal. D (incorreta). Ignora o cenário negativo. E (incorreta). Erro de conta. (E(R) = Σ p·R)",
+     "comentarios_por_alternativa": {
+      "A": "0,4×20 + 0,6×(−5) = 8 − 3 = 5%.",
+      "B": "Média simples, sem ponderar probabilidades.",
+      "C": "Erro de sinal.",
+      "D": "Ignora o cenário negativo.",
+      "E": "Erro de conta."
+     },
+     "dispositivo": "E(R) = Σ p·R"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Pelo critério média-variância, qual alternativa domina as demais? A: E=10%, σ=8%; B: E=10%, σ=12%; C: E=8%, σ=8%; D: E=12%, σ=8%; E: E=12%, σ=15%.",
+     "alternativas": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+     },
+     "gabarito": "D",
+     "comentario": "A (incorreta). D tem mais retorno com o mesmo risco. B (incorreta). Mesmo retorno de A com mais risco. C (incorreta). Menos retorno com o mesmo risco de D. D (correta). Maior retorno com o menor risco do conjunto. E (incorreta). Mesmo retorno de D com mais risco. (Dominância média-variância)",
+     "comentarios_por_alternativa": {
+      "A": "D tem mais retorno com o mesmo risco.",
+      "B": "Mesmo retorno de A com mais risco.",
+      "C": "Menos retorno com o mesmo risco de D.",
+      "D": "Maior retorno com o menor risco do conjunto.",
+      "E": "Mesmo retorno de D com mais risco."
+     },
+     "dispositivo": "Dominância média-variância"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "facil",
+     "enunciado": "O formato de função de utilidade compatível com um RPPS que exige prêmio para assumir risco é:",
+     "alternativas": {
+      "A": "Convexa",
+      "B": "Linear",
+      "C": "Côncava",
+      "D": "Decrescente",
+      "E": "Constante"
+     },
+     "gabarito": "C",
+     "comentario": "A (incorreta). Convexa é propensão. B (incorreta). Linear é neutralidade. C (correta). Côncava é aversão: exige prêmio de risco. D (incorreta). Violaria a não saciedade. E (incorreta). Não há preferência por riqueza. (Teoria da utilidade)",
+     "comentarios_por_alternativa": {
+      "A": "Convexa é propensão.",
+      "B": "Linear é neutralidade.",
+      "C": "Côncava é aversão: exige prêmio de risco.",
+      "D": "Violaria a não saciedade.",
+      "E": "Não há preferência por riqueza."
+     },
+     "dispositivo": "Teoria da utilidade"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Utilidade ___ indica aversão, ___ indica neutralidade e ___ indica propensão ao risco.",
+     "opcoes": [
+      "côncava",
+      "linear",
+      "convexa",
+      "decrescente"
+     ],
+     "respostas": [
+      "côncava",
+      "linear",
+      "convexa"
+     ],
+     "explicacao": "Formato da curva x atitude.",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Avesso",
+       "Recusa aposta justa"
+      ],
+      [
+       "Neutro",
+       "Indiferente à aposta justa"
+      ],
+      [
+       "Propenso",
+       "Aceita aposta justa"
+      ],
+      [
+       "Prêmio de risco",
+       "Valor esperado − equivalente certo"
+      ]
+     ],
+     "explicacao": "Atitudes e conceitos.",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o cálculo do retorno esperado.",
+     "itens": [
+      "Listar cenários",
+      "Atribuir probabilidades",
+      "Multiplicar retorno por probabilidade",
+      "Somar os produtos"
+     ],
+     "explicacao": "E(R) = Σ p·R.",
+     "dispositivo": ""
+    }
+   ]
+  }
+ ]
+}

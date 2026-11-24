@@ -1,0 +1,234 @@
+{
+ "assunto": "Fundos de Investimentos — FIF: ativos no exterior, diligência e limites",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 — fontes oficiais conferidas",
+ "origem": "2026-11-23_banco-cginv3-fif-ativos-exterior-limites_C14_lote13_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "cginv3-c14-fif-ativos-exterior-limites",
+   "titulo": "FIF: ativos no exterior, diligência e limites",
+   "microconteudo": "RAIO-X DA PROVA: Sem provas públicas do CGINV III localizadas para contar ocorrências. Prioridade pelo peso do edital e pela apostila. O recorte relaciona a exposição no exterior ao público da classe, à diligência do gestor e do custodiante e ao cálculo do risco em veículos investidos.\n\nO QUE A BANCA COBRA:\nÉ comum que um caso didático dê o patrimônio da classe, o volume investido lá fora e o público-alvo. Calcule a exposição, mas examine primeiro se a política preserva a tipificação da classe e se existem requisitos adicionais de custódia e liquidez. O valor investido nas cotas do veículo no exterior e a exposição efetiva gerada por derivativos podem divergir.\n\nENTENDA:\nOs arts. 41 a 43 do Anexo I da Resolução CVM 175 disciplinam ativos no exterior para FIFs. Negociar em país signatário do Tratado de Assunção implica equiparação ao mercado nacional para os efeitos do Anexo I. O art. 41, § 2º, ainda alcança esses ativos na verificação da sua existência. A norma admite registro, escrituração, custódia ou depósito por instituições autorizadas no país de origem e supervisionadas localmente, ou diligência do custodiante da classe sobre existência e escrituração ou custódia por entidade autorizada nos termos do inciso II. Crédito de carbono tem exceção própria quando negociado em mercado regulado de emissões com autoridade reconhecida e há diligência sobre existência, integridade e titularidade.\n\nPara derivativos, o § 3º apresenta rotas alternativas. Exemplos incluem registro ou custódia em sistema autorizado e supervisionado, informação à autoridade local, negociação em bolsa ou plataforma eletrônica ou liquidação por contraparte central. Outra rota envolve contraparte financeira ou as entidades nela enquadradas, com os requisitos de supervisão, baixo risco de crédito avaliado pelo gestor e aderência bancária previstos na norma. Por isso, a proposição de que todo derivativo no exterior exige negociação em bolsa deve ser testada contra as demais hipóteses do dispositivo.\n\nAo investir em fundo ou veículo estrangeiro, o custodiador da classe investidora verifica estrutura, processos e controle do prestador estrangeiro sobre escrituração ou guarda e regular movimentação, nos termos do art. 42. O gestor verifica a supervisão, a frequência de cálculo da cota compatível com a liquidez da classe investidora, a autorização e capacidade de prestadores, auditoria e política de risco. ETF-Internacional é modalidade à parte para os fins desse artigo. A dispensa destinada à classe exclusivamente profissional alcança os deveres do gestor dos incisos e parágrafos indicados no § 3º, especificamente o inciso II do caput e o § 1º. A diligência do custodiante do inciso I continua aplicável.\n\nSe o gestor exerce influência nas decisões do veículo investido, o demonstrativo mensal detalha seus ativos, seus derivativos devem atender ao art. 41, § 3º, e a exposição a risco de capital é consolidada. Para isso, somam-se margens exigidas nas operações com garantia e a margem potencial dos derivativos sem garantia, estimada pelo administrador sem compensar uma parcela com a outra. Sem influência, a regra do § 2º considera a exposição máxima possível pelas características do investido. Por exemplo, se uma classe investidora expõe R$ 6 milhões em operações com garantia e a respectiva parcela sem garantia acrescenta R$ 2 milhões de margem potencial no cálculo consolidado, o resultado dessas parcelas é R$ 8 milhões, e não R$ 4 milhões.\n\nNo art. 43, as classes de renda fixa dívida externa e as destinadas exclusivamente a profissionais têm limite ilimitado para ativos no exterior em relação a esse dispositivo. Para classes exclusivamente qualificadas, o teto usual é 40% do PL. Para público em geral, 20%. O regulamento da classe exclusivamente qualificada pode superar o teto se preservar a tipificação, detalhar os ativos estrangeiros e cumprir as exigências do § 1º quando usar veículos. O público geral só pode extrapolar se todos os investimentos no exterior ocorrerem por fundos ou veículos estrangeiros nas condições adicionais do § 2º, além dos requisitos do § 1º. Entre as exigências estão liquidez no mínimo semanal do investido, gerenciamento de risco e liquidez compatível, metodologia reconhecida de precificação e alavancagem, proteção contra PL negativo ou aporte além do capital comprometido na forma do inciso IV, público equivalente ao geral na jurisdição de origem e limites específicos de concentração.\n\nO cômputo observa exposição corrente e potencial nos derivativos dos veículos, por método verificável. Os correspondentes limites por emissor e modalidade dos ativos domésticos não incorporam cumulativamente as posições no exterior na forma do § 4º. Veja o RPPS de Ponte do Campo, que examina uma classe de público geral de PL de R$ 60 milhões com R$ 16 milhões de exposição externa. A proporção é aproximadamente 26,67%, acima do teto comum. Se um trecho da carteira internacional é comprado diretamente pela classe, a rota de extrapolação do público geral não se confirma. Para a aplicação do RPPS, incide ainda a disciplina previdenciária aplicável à posição que ele próprio detém. O teto do FIF e o limite do RPPS usam sujeitos, denominadores e bases normativas próprios.\n\nDOUTRINA:\nCOMISSÃO DE VALORES MOBILIÁRIOS. Cadernos CVM 3: Fundos de Investimento. 3. ed. CVM, 2016, p. 20–23. A análise de cotas de outros fundos deve chegar aos ativos e aos fatores de risco de suas carteiras para dar conteúdo econômico à diversificação. Investimento no exterior pode adicionar risco de jurisdição, liquidez e exposição cambial. Limites e formalidades vigentes derivam do Anexo I da Resolução CVM 175.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nSem precedente relevante identificado para este recorte. O art. 43, §§ 1º–2º, contém as consequências específicas para extrapolação do limite comum. Os requisitos do investidor RPPS não se inferem desses percentuais.\n\nPEGADINHAS:\n1. Equiparação do Mercosul não dispensa diligência do art. 41, § 2º.\n2. Isenção do gestor profissional do art. 42, § 3º, não exonera a diligência do custodiante.\n3. O limite do público geral admite extrapolação condicionada, sem compra direta no exterior quando usada essa rota.\n4. Exposição máxima do veículo tem aplicação específica quando o gestor não influencia as decisões.\n5. A margem potencial sem garantia é somada, sem compensação com a margem das operações com garantia.\n\nESQUEMA:\nAtivo direto → identificação e condição do art. 41.\nVeículo → deveres de custódia e gestão → art. 42.\nInfluência → demonstrativo, derivativos e consolidação.\nPúblico geral 20% e qualificados 40% → exceções do art. 43.\nCômputo → exposição corrente e potencial verificável.\n\nLIGAÇÕES:\nFundos 9.2, risco de capital e limites de carteira. Legislação 7.1, segmento de investimentos no exterior do RPPS.",
+   "flashcards": [
+    {
+     "frente": "Quais são os tetos usuais no exterior para público geral e qualificados?",
+     "verso": "20% do PL para público geral e 40% para exclusivamente qualificados, com exceções normativas.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 43, III e §§ 1º–2º"
+    },
+    {
+     "frente": "Qual situação autoriza superar o limite do público geral?",
+     "verso": "Todos os investimentos externos por fundos ou veículos, com os requisitos adicionais dos §§ 1º e 2º do art. 43.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 43, III e §§ 1º–2º"
+    },
+    {
+     "frente": "Quem calcula a margem potencial dos derivativos sem garantia?",
+     "verso": "O administrador, quando aplicável o cálculo consolidado do art. 42, § 1º, III.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 42, § 1º, III"
+    },
+    {
+     "frente": "Como tratar o veículo estrangeiro sem influência do gestor?",
+     "verso": "Considerar sua exposição máxima possível pelas características do veículo.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 42, § 2º"
+    },
+    {
+     "frente": "Qual diligência permanece na classe exclusivamente profissional pelo art. 42?",
+     "verso": "A do custodiante sobre estrutura, processos e controles do prestador estrangeiro, conforme inciso I.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 42, I–II e § 3º"
+    },
+    {
+     "frente": "O que a equiparação do Tratado de Assunção preserva no § 2º?",
+     "verso": "Preserva os requisitos de registro, guarda ou diligência sobre existência do ativo.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 41, §§ 1º–2º"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A equiparação ao mercado brasileiro dos ativos negociados em país signatário do Tratado de Assunção não elimina os requisitos de verificação ou registro do art. 41, § 2º.",
+     "gabarito": "C",
+     "comentario": "O § 2º inclui expressamente os ativos equiparados pelo § 1º. (Resolução CVM 175/2022, Anexo I, art. 41, §§ 1º–2º)",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 41, §§ 1º–2º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "A classe exclusivamente profissional fica dispensada de diligência pelo custodiante quanto ao prestador do veículo estrangeiro com fundamento no art. 42, § 3º.",
+     "gabarito": "E",
+     "comentario": "O dispositivo dispensa o gestor do inciso II e do § 1º. O dever do custodiante consta do inciso I. (Resolução CVM 175/2022, Anexo I, art. 42, I–II e § 3º)",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 42, I–II e § 3º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Sem influência direta ou indireta do gestor nas decisões do veículo exterior, usa-se a exposição máxima possível segundo as características do investido.",
+     "gabarito": "C",
+     "comentario": "Essa é a forma de apuração expressa no § 2º. (Resolução CVM 175/2022, Anexo I, art. 42, § 2º)",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 42, § 2º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Para os limites de concentração por modalidade doméstica, somam-se cumulativamente as aplicações no exterior à modalidade correspondente.",
+     "gabarito": "E",
+     "comentario": "O § 4º exclui essa soma para os limites correspondentes aplicáveis a ativos domésticos. (Resolução CVM 175/2022, Anexo I, art. 43, § 4º)",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 43, § 4º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 11/11/2026, Roberta avalia FIF de público geral com PL de R$ 80 milhões. O gestor quer R$ 24 milhões de exposição externa, comprando diretamente R$ 4 milhões em títulos, e alega que o restante passa por veículos aptos. Qual conclusão?",
+     "alternativas": {
+      "A": "O teto usual é 40% e dispensa exceção neste caso.",
+      "B": "O teto de 20% incide apenas sobre a fatia comprada diretamente.",
+      "C": "A presença de veículos aptos autoriza a exceção para a carteira inteira, mesmo com parcela direta.",
+      "D": "A exposição de 30% supera a regra geral e a compra direta impede usar a exceção descrita para público geral.",
+      "E": "O gestor pode elevar o teto sem alterar o regulamento."
+     },
+     "gabarito": "D",
+     "comentario": "A (incorreta). O teto usual de público geral é 20%. B (incorreta). O limite considera as aplicações externas da classe. C (incorreta). A rota para público geral exige que todos os investimentos no exterior passem por veículos elegíveis. D (correta). Os R$ 24 milhões são 30% do PL e incluem aquisição direta. E (incorreta). A previsão regulamentar e as condições materiais são necessárias. (Resolução CVM 175/2022, Anexo I, art. 43, III e §§ 1º–2º)",
+     "comentarios_por_alternativa": {
+      "A": "O teto usual de público geral é 20%.",
+      "B": "O limite considera as aplicações externas da classe.",
+      "C": "A rota para público geral exige que todos os investimentos no exterior passem por veículos elegíveis.",
+      "D": "Os R$ 24 milhões são 30% do PL e incluem aquisição direta.",
+      "E": "A previsão regulamentar e as condições materiais são necessárias."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 43, III e §§ 1º–2º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 20/10/2026, Miguel analisa veículo estrangeiro influenciado pela gestora do FIF. Para a consolidação, há R$ 3,2 milhões de margem exigida em operações com garantia e R$ 1,4 milhão de margem potencial sem garantia. Como tratar as duas parcelas?",
+     "alternativas": {
+      "A": "Compensar e registrar R$ 1,8 milhão de margem líquida.",
+      "B": "Somar para obter R$ 4,6 milhões, cabendo ao administrador calcular a margem potencial.",
+      "C": "Contar só R$ 3,2 milhões, porque parcela sem garantia ainda não foi exigida.",
+      "D": "Usar só R$ 1,4 milhão e excluir operações com garantia.",
+      "E": "Usar apenas o valor contábil das cotas do veículo."
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). A norma veda essa compensação. B (correta). O § 1º, III, exige soma das parcelas e especifica o cálculo da margem potencial pelo administrador. C (incorreta). A margem potencial também integra o cálculo. D (incorreta). A margem efetivamente exigida também entra na consolidação. E (incorreta). A exposição a risco de capital usa as margens nos termos do dispositivo. (Resolução CVM 175/2022, Anexo I, art. 42, § 1º, III)",
+     "comentarios_por_alternativa": {
+      "A": "A norma veda essa compensação.",
+      "B": "O § 1º, III, exige soma das parcelas e especifica o cálculo da margem potencial pelo administrador.",
+      "C": "A margem potencial também integra o cálculo.",
+      "D": "A margem efetivamente exigida também entra na consolidação.",
+      "E": "A exposição a risco de capital usa as margens nos termos do dispositivo."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 42, § 1º, III"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em 9/11/2026, Lígia revisa classe exclusiva para qualificados, PL de R$ 90 milhões. A proposta aloca R$ 43 milhões no exterior, preserva a tipificação e os requisitos do § 1º foram integralmente comprovados, inclusive no regulamento. Qual conclusão?",
+     "alternativas": {
+      "A": "A proposta é vedada porque 40% nunca podem ser superados.",
+      "B": "A alocação de 47,78% transforma a classe automaticamente em profissional.",
+      "C": "É necessário mudar para público geral para se valer do § 1º.",
+      "D": "A classe pode superar 40% somente se deixar de preservar a sua tipificação.",
+      "E": "A extrapolação de 40% é admitida nas condições descritas."
+     },
+     "gabarito": "E",
+     "comentario": "A (incorreta). O § 1º prevê hipótese de extrapolação. B (incorreta). O público-alvo não se altera automaticamente pelo percentual. C (incorreta). O § 1º alcança justamente classe exclusivamente qualificada. D (incorreta). Preservar a tipificação é requisito da exceção. E (correta). A exceção regulamentar e os requisitos adicionais suportam a alocação em análise. (Resolução CVM 175/2022, Anexo I, art. 43, II e § 1º)",
+     "comentarios_por_alternativa": {
+      "A": "O § 1º prevê hipótese de extrapolação.",
+      "B": "O público-alvo não se altera automaticamente pelo percentual.",
+      "C": "O § 1º alcança justamente classe exclusivamente qualificada.",
+      "D": "Preservar a tipificação é requisito da exceção.",
+      "E": "A exceção regulamentar e os requisitos adicionais suportam a alocação em análise."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 43, II e § 1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 13/10/2026, Jonas analisa derivativo no exterior de exposição de R$ 780 mil da carteira de FIF. A operação é informada às autoridades locais, sem negociação em bolsa. Quanto ao art. 41, § 3º, o que se conclui?",
+     "alternativas": {
+      "A": "Só negociação em bolsa satisfaz o parágrafo.",
+      "B": "Informar às autoridades locais só serve se também houver contraparte central.",
+      "C": "A informação às autoridades locais é uma das rotas previstas, observados os demais requisitos aplicáveis à operação.",
+      "D": "A informação ao custodiante brasileiro substitui qualquer rota do § 3º.",
+      "E": "O volume em reais torna dispensável conhecer a regra da jurisdição."
+     },
+     "gabarito": "C",
+     "comentario": "A (incorreta). A norma oferece várias condições alternativas. B (incorreta). O inciso II é uma das condições alternativas. C (correta). O inciso II contempla a hipótese narrada. D (incorreta). O inciso II se refere às autoridades locais. E (incorreta). O dispositivo não fixa franquia em reais para esse requisito. (Resolução CVM 175/2022, Anexo I, art. 41, § 3º, II)",
+     "comentarios_por_alternativa": {
+      "A": "A norma oferece várias condições alternativas.",
+      "B": "O inciso II é uma das condições alternativas.",
+      "C": "O inciso II contempla a hipótese narrada.",
+      "D": "O inciso II se refere às autoridades locais.",
+      "E": "O dispositivo não fixa franquia em reais para esse requisito."
+     },
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 41, § 3º, II"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Nas condições do art. 43, a classe para público geral tem teto usual de ___, e a exclusivamente qualificada, ___ do PL.",
+     "opcoes": [
+      "20%",
+      "40%",
+      "60%",
+      "10%"
+     ],
+     "respostas": [
+      "20%",
+      "40%"
+     ],
+     "explicacao": "A extrapolação depende do público, do regulamento e das condições adicionais aplicáveis.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 43, III e §§ 1º–2º"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Quando houver influência do gestor, a margem potencial sem garantia é ___ à margem com garantia, sem ___.",
+     "opcoes": [
+      "somada",
+      "compensação",
+      "subtraída",
+      "publicação"
+     ],
+     "respostas": [
+      "somada",
+      "compensação"
+     ],
+     "explicacao": "A apuração consolidada conserva as duas parcelas.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 42, § 1º, III"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize o exame de uma carteira de FIF com exposição externa.",
+     "itens": [
+      "Identificar ativos diretos e veículos no exterior",
+      "Conferir custódia, supervisão e público-alvo",
+      "Medir exposição aplicável, inclusive derivativos",
+      "Comparar com o limite e verificar eventual exceção"
+     ],
+     "explicacao": "A forma da exposição determina as verificações e o cálculo antes de aceitar a posição.",
+     "dispositivo": "Resolução CVM 175/2022, Anexo I, art. 43, III e §§ 1º–2º"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Mercosul",
+       "Equiparação no Anexo I"
+      ],
+      [
+       "Veículo sem influência do gestor",
+       "Exposição máxima possível"
+      ],
+      [
+       "Público geral",
+       "Limite ordinário de 20%"
+      ],
+      [
+       "Classe exclusivamente qualificada",
+       "Limite ordinário de 40%"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,191 @@
+{
+ "assunto": "Derivativos: conceitos, mercados e estratégias",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 — Claude (C-14-CGINV, frente Claude)",
+ "origem": "2026-11-23_banco-cginv3-derivativos-hedge-especulacao-arbitragem_C14C_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "cginv3-c14c-derivativos",
+   "titulo": "Derivativos: termo, futuro, opções e swap; hedge, especulação e arbitragem",
+   "microconteudo": "RAIO-X DA PROVA: Sem provas públicas do CGINV III para contar incidência. Prioridade pela Onda 1 do Pareto (peso do edital) e pela apostila-parâmetro do CP RPPS (módulo Derivativos, p. 143–176). Tema comum a CGINV I/II/III, DIRIG e CODEF quando o edital repete o ponto.\n\nO QUE A BANCA COBRA:\nDistinguir os quatro mercados derivativos, entender ajuste diário e margem, saber quem tem direito e quem tem obrigação na opção, e classificar a finalidade de cada operação (hedge, especulação, arbitragem).\n\nENTENDA:\nDerivativo é contrato cujo valor deriva de outro ativo (o objeto ou ativo-subjacente): ações, índices, juros, câmbio, commodities.\n\nTermo: compra ou venda para liquidação em data futura, a preço combinado hoje; contrato bilateral, normalmente não negociável antes do vencimento, com risco de contraparte se não houver garantia.\nFuturo: termo padronizado e negociado em bolsa. As posições são ajustadas diariamente (ajuste diário): quem perdeu no dia paga e quem ganhou recebe, o que reduz o risco de contraparte. A câmara de compensação da B3 é a contraparte central e exige margem de garantia.\nOpções: o titular (comprador) paga o prêmio e adquire o direito; o lançador (vendedor) recebe o prêmio e assume a obrigação. Call = direito de comprar; put = direito de vender. Opção americana pode ser exercida a qualquer momento até o vencimento; europeia, só no vencimento. A perda máxima do titular é o prêmio; o lançador de call descoberta tem risco teoricamente ilimitado.\nSwap: troca de indexadores sobre um valor de referência (por exemplo, DI x prefixado, DI x dólar); liquida-se só a diferença.\n\nFinalidades:\n• Hedge (proteção): reduzir risco de uma posição já existente; por exemplo, travar a taxa de um título ou proteger carteira de ações com put.\n• Especulação: assumir risco para ganhar com a variação de preço, sem posição a proteger.\n• Arbitragem: aproveitar distorção de preços entre mercados para ganho com risco muito baixo; ela aproxima os preços e dá eficiência ao mercado.\n• Alavancagem: exposição maior que o capital aplicado, típica de futuros e opções; amplia ganhos e perdas.\n\nRiscos: mercado (variação do ativo-objeto), alavancagem, liquidez (contratos pouco negociados), contraparte (no balcão sem garantia), operacional e de modelo de precificação.\n\nPara o RPPS. A regulamentação do CMN admite derivativos nos fundos em que o RPPS investe com finalidade e limites definidos — em regra, para proteção ou sem alavancagem — conforme a categoria do fundo; os limites e condições devem ser conferidos no texto vigente da resolução e no regulamento do fundo. O Comitê deve checar, na lâmina e no regulamento, se a classe pode alavancar e qual a margem máxima.\n\nESQUEMA:\nTermo (bilateral, no vencimento) | Futuro (padronizado, ajuste diário, margem, contraparte central) | Opção (titular: direito e prêmio pago; lançador: obrigação e prêmio recebido; call compra, put venda; americana x europeia) | Swap (troca de indexadores). Finalidades: hedge, especulação, arbitragem.\n\nPEGADINHAS:\n• \"O titular de uma call é obrigado a comprar\" — errado: tem o direito.\n• \"O mercado a termo tem ajuste diário\" — errado: o ajuste diário é do futuro.\n• \"Arbitragem é operação de alto risco\" — errado: explora distorções com risco muito baixo.\n• \"Opção europeia pode ser exercida antes do vencimento\" — errado.\n\nDOUTRINA:\nClassificação e finalidades seguem John Hull (Opções, Futuros e Outros Derivativos), referência padrão das certificações de mercado.",
+   "flashcards": [
+    {
+     "frente": "Termo x futuro?",
+     "verso": "Termo: bilateral, liquida no vencimento. Futuro: padronizado em bolsa, ajuste diário e margem.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Titular x lançador de opção?",
+     "verso": "Titular paga prêmio e tem o direito; lançador recebe prêmio e tem a obrigação.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Call x put?",
+     "verso": "Call: direito de comprar. Put: direito de vender.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Americana x europeia?",
+     "verso": "Americana: exercício a qualquer tempo até o vencimento; europeia: só no vencimento.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "O que é hedge?",
+     "verso": "Operação para reduzir o risco de uma posição existente.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "O que é arbitragem?",
+     "verso": "Ganho com distorção de preços entre mercados, com risco muito baixo.",
+     "dispositivo": ""
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "No mercado futuro, o mecanismo de ajuste diário reduz o risco de contraparte, pois as perdas e ganhos são liquidados a cada pregão.",
+     "gabarito": "C",
+     "comentario": "Certo. É a principal diferença em relação ao termo.",
+     "dispositivo": "Funcionamento da B3"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O lançador de uma opção de compra adquire o direito de comprar o ativo-objeto ao preço de exercício.",
+     "gabarito": "E",
+     "comentario": "Errado. O direito é do titular; o lançador assume a obrigação de vender se exercido.",
+     "dispositivo": "Opções"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A perda máxima do titular de uma opção corresponde ao prêmio pago.",
+     "gabarito": "C",
+     "comentario": "Certo. Se não exercer, perde só o prêmio.",
+     "dispositivo": "Opções"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "facil",
+     "enunciado": "Um fundo de ações em que o RPPS de Campo Alto aplica compra opções de venda (puts) sobre o Ibovespa para limitar perdas da carteira. A finalidade é:",
+     "alternativas": {
+      "A": "Especulação",
+      "B": "Arbitragem",
+      "C": "Hedge",
+      "D": "Alavancagem",
+      "E": "Captação de prêmio"
+     },
+     "gabarito": "C",
+     "comentario": "A (incorreta). Há posição a proteger. B (incorreta). Não explora distorção entre mercados. C (correta). A put protege a carteira existente contra queda. D (incorreta). Não amplia exposição. E (incorreta). Quem capta prêmio é o lançador. (Estratégias com derivativos)",
+     "comentarios_por_alternativa": {
+      "A": "Há posição a proteger.",
+      "B": "Não explora distorção entre mercados.",
+      "C": "A put protege a carteira existente contra queda.",
+      "D": "Não amplia exposição.",
+      "E": "Quem capta prêmio é o lançador."
+     },
+     "dispositivo": "Estratégias com derivativos"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Uma operação de swap DI x pré tem como característica:",
+     "alternativas": {
+      "A": "Entrega física de títulos no vencimento.",
+      "B": "Troca de indexadores sobre valor de referência, liquidando-se a diferença.",
+      "C": "Direito, sem obrigação, de trocar taxas.",
+      "D": "Ajuste diário obrigatório em todas as modalidades.",
+      "E": "Negociação exclusiva em pregão de ações."
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). Swap não entrega o principal. B (correta). É a definição de swap. C (incorreta). Direito sem obrigação é opção. D (incorreta). Swap de balcão não tem ajuste diário como o futuro. E (incorreta). Swaps são majoritariamente de balcão, registrados na B3. (Derivativos de balcão)",
+     "comentarios_por_alternativa": {
+      "A": "Swap não entrega o principal.",
+      "B": "É a definição de swap.",
+      "C": "Direito sem obrigação é opção.",
+      "D": "Swap de balcão não tem ajuste diário como o futuro.",
+      "E": "Swaps são majoritariamente de balcão, registrados na B3."
+     },
+     "dispositivo": "Derivativos de balcão"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Assinale a afirmação correta sobre riscos em derivativos:",
+     "alternativas": {
+      "A": "O lançador de call descoberta tem perda limitada ao prêmio.",
+      "B": "O titular de put tem risco ilimitado.",
+      "C": "Operações alavancadas ampliam ganhos e perdas em relação ao capital aplicado.",
+      "D": "Derivativos negociados em bolsa têm risco de contraparte maior que os de balcão sem garantia.",
+      "E": "Hedge elimina qualquer risco da carteira."
+     },
+     "gabarito": "C",
+     "comentario": "A (incorreta). O lançador descoberto tem risco teoricamente ilimitado. B (incorreta). O titular perde no máximo o prêmio. C (correta). É a definição de alavancagem. D (incorreta). A contraparte central reduz esse risco na bolsa. E (incorreta). Hedge reduz, não elimina, e pode ter risco de base. (Gestão de risco)",
+     "comentarios_por_alternativa": {
+      "A": "O lançador descoberto tem risco teoricamente ilimitado.",
+      "B": "O titular perde no máximo o prêmio.",
+      "C": "É a definição de alavancagem.",
+      "D": "A contraparte central reduz esse risco na bolsa.",
+      "E": "Hedge reduz, não elimina, e pode ter risco de base."
+     },
+     "dispositivo": "Gestão de risco"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O ___ paga o prêmio e tem o direito; o ___ recebe o prêmio e tem a ___.",
+     "opcoes": [
+      "titular",
+      "lançador",
+      "obrigação",
+      "margem"
+     ],
+     "respostas": [
+      "titular",
+      "lançador",
+      "obrigação"
+     ],
+     "explicacao": "Partes da opção.",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Termo",
+       "Bilateral, liquida no vencimento"
+      ],
+      [
+       "Futuro",
+       "Ajuste diário e contraparte central"
+      ],
+      [
+       "Opção",
+       "Direito mediante prêmio"
+      ],
+      [
+       "Swap",
+       "Troca de indexadores"
+      ]
+     ],
+     "explicacao": "Os quatro mercados derivativos.",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a vida de uma posição comprada em futuro.",
+     "itens": [
+      "Depósito de margem",
+      "Abertura da posição",
+      "Ajustes diários",
+      "Encerramento ou vencimento"
+     ],
+     "explicacao": "Ciclo da posição no mercado futuro.",
+     "dispositivo": ""
+    }
+   ]
+  }
+ ]
+}

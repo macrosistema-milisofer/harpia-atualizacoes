@@ -1,0 +1,257 @@
+{
+ "assunto": "ENEM 2026 — Ciências da Natureza — Proporções estequiométricas, reagente limitante e rendimento",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23",
+ "origem": "2026-11-23_banco-enem-proporcoes-estequiometricas_C14_lote17_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "enem-proporcoes-estequiometricas-c14",
+   "titulo": "Proporções estequiométricas, reagente limitante e rendimento",
+   "microconteudo": "RAIO-X DA PROVA: Triagem dirigida nos cadernos azuis regulares do Inep de 2021 a 2025 confirmou 5 de 225 itens de Ciências da Natureza (2,22% como mínimo observado). Os itens confirmados envolvem conversão massa–mol, proporções entre reagentes e produtos, limitação da produção, excesso de reagente e rendimento. O ponto decisivo é comparar as quantidades na base dos coeficientes da equação.\n\nO QUE A BANCA COBRA:\nOs cadernos trazem equações químicas para estimar quanto produto pode ser formado, quanto reagente precisa ser comprado ou como um rendimento menor que o teórico altera a quantidade obtida. Os itens confirmados usam situações como hidratação de um sal, formação de precipitado, análise de composição e produção industrial. O desafio recorrente é levar a grandeza fornecida, como massa ou volume, à relação em mol expressa pelos coeficientes da reação. Depois, selecione a unidade da resposta e aplique as condições de pureza ou rendimento quando indicadas.\n\nENTENDA:\nUma equação ajustada conserva o número de átomos de cada elemento ao representar a transformação. Na reação 2 Mg + O₂ → 2 MgO, os coeficientes indicam que dois mols de magnésio reagem com um mol de oxigênio e produzem dois mols de óxido de magnésio. Essa é uma relação de quantidades de matéria. Em massa, usando Mg = 24 g/mol e O = 16 g/mol, 48 g de Mg reagem com 32 g de O₂ e formam 80 g de MgO. A proporção em gramas depende das massas molares. É por isso que a relação 2:1 não pode ser aplicada diretamente a quaisquer massas de magnésio e oxigênio.\n\nComece pela substância informada. Se uma amostra contém 12 g de Mg puro, ela tem 12/24 = 0,50 mol de Mg. Com oxigênio em excesso e conversão completa, a relação entre Mg e MgO é de um para um em mols, então são produzidos 0,50 mol de MgO. Como sua massa molar é 40 g/mol, obtêm-se 20 g. A diferença de massa entre reagente inicial e produto corresponde a oxigênio incorporado do meio. Ao fazer o caminho inverso, comece pelo produto desejado, converta sua massa em mols e use a razão de coeficientes na direção que leva ao reagente procurado. Anotar as unidades ajuda a detectar inversões.\n\nSe as quantidades dos dois reagentes forem dadas, é necessário determinar qual limita o avanço. Para 1,5 mol de Mg e 0,50 mol de O₂, compare 1,5/2 = 0,75 com 0,50/1 = 0,50. O menor valor corresponde à extensão máxima em mol, para a equação escrita. Por isso, todo o O₂ é consumido no modelo de reação completa. São utilizados 2 × 0,50 = 1,0 mol de Mg e produzidos 2 × 0,50 = 1,0 mol de MgO. Sobram 0,50 mol de Mg. O reagente com menor massa, ou mesmo menor quantidade em mol, nem sempre é o limitante. A decisão leva em conta quanto de cada espécie a reação exige.\n\nO mesmo raciocínio explica gráficos de massa de produto. Imagine que o laboratório mantém 0,50 mol de O₂ disponível em todas as repetições e aumenta gradualmente a quantidade inicial de Mg. Até 1,0 mol de Mg, aumentar sua quantidade aumenta a produção, enquanto o oxigênio é suficiente. Acima desse ponto, o oxigênio fixa a quantidade máxima de produto. Acrescentar mais Mg apenas eleva a sobra desse reagente. Em prova, a quebra de inclinação pode marcar a troca de reagente limitante. Examine o eixo horizontal para identificar qual reagente varia e a legenda para reconhecer o que foi medido.\n\nPureza e rendimento atuam em etapas diferentes. Em 150 g de uma matéria-prima com 80% de uma substância reativa em massa, só 120 g correspondem à espécie especificada. Converta esses 120 g em mols usando a massa molar da substância. Para calcular rendimento, compare o produto medido e o produto teórico, na mesma unidade e para a mesma reação. Se o cálculo prevê 50 g e o experimento fornece 42 g, o rendimento é 84%. Quando o enunciado pede a quantidade de reagente para obter 42 g reais a rendimento de 84%, a meta teórica é 42/0,84 = 50 g, que precisa ser usada na proporção química. Já um reagente fornecido com 20% de excesso terá quantidade inicial 1,20 vez a estritamente requerida. O excedente não multiplica a massa prevista de produto quando outro reagente limita o processo.\n\nVolumes de gases podem ser convertidos com o volume molar indicado no problema ou com o modelo de gás ideal, dadas pressão e temperatura. Uma razão direta entre volumes gasosos e coeficientes só é válida sob as condições que permitem comparar volumes por quantidade de matéria, como mesma temperatura e pressão no modelo ideal. Um volume por mol fornecido para um estado particular deve ser usado naquele estado. Em solução, a concentração em mol/L multiplicada pelo volume em litros fornece mols de soluto. Essa etapa prepara a razão estequiométrica, que ainda deve ser aplicada quando duas espécies reagem em proporção diferente de um para um.\n\nDOUTRINA:\nPaul Flowers, Klaus Theopold, Richard Langley e William R. Robinson, Chemistry 2e, 2ª ed., Houston, OpenStax, 2019, seções 4.3 e 4.4, organizam o cálculo em conversão de grandezas, fatores estequiométricos e avaliação de rendimento. A análise do limitante determina a produção teórica antes da comparação com o resultado real. Escrever o caminho massa → mol → mol → massa evita misturar pureza, excesso e rendimento num único fator sem significado.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nOs objetos 4.17 e 4.21 da Matriz de Ciências da Natureza abrangem quantificação de reações e cálculos estequiométricos. A conta parte da equação ajustada e das condições informadas na situação.\n\nPEGADINHAS:\n1. Coeficientes comparam mols. Massas exigem conversão.\n2. Compare reagentes pela razão quantidade disponível/coeficiente estequiométrico.\n3. Pureza afeta a quantidade de reagente disponível.\n4. Rendimento relaciona produto real e produto teórico.\n5. Excesso de um reagente não eleva o produto acima do limite imposto pelo outro.\n\nESQUEMA:\nIdentificar → substâncias, equação e unidade da resposta.\nConverter → obter mols da espécie informada, corrigindo a pureza.\nRelacionar → usar os coeficientes e verificar o limitante.\nAjustar → aplicar rendimento ou excesso no sentido indicado.\nConferir → verificar unidades, massas e condições do modelo.\n\nLIGAÇÕES:\nConcentração de soluções fornece a quantidade de soluto a partir de volume e concentração. O balanço de equações garante que os fatores usados respeitem a conservação dos átomos.",
+   "flashcards": [
+    {
+     "frente": "Que grandeza é comparada por coeficientes estequiométricos?",
+     "verso": "Quantidades de matéria, normalmente expressas em mol.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.17 e 4.21"
+    },
+    {
+     "frente": "Como encontrar o reagente limitante se há dois reagentes?",
+     "verso": "Divida os mols disponíveis de cada um pelo seu coeficiente. O menor quociente identifica o limitante.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.17 e 4.21"
+    },
+    {
+     "frente": "Como usar a pureza antes do cálculo em mol?",
+     "verso": "Multiplique a massa da amostra pela fração efetiva da substância que entra na reação.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.17 e 4.21"
+    },
+    {
+     "frente": "Como passar de produto real desejado para a meta teórica?",
+     "verso": "Divida a quantidade real pelo rendimento expresso em fração decimal.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.17 e 4.21"
+    },
+    {
+     "frente": "O que pode causar um platô em gráfico de formação de produto?",
+     "verso": "A oferta fixa do outro reagente passa a limitar a produção.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.17 e 4.21"
+    },
+    {
+     "frente": "Como converter massa de uma substância em quantidade de matéria?",
+     "verso": "Divida a massa em gramas pela massa molar em gramas por mol.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.17 e 4.21"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-proporcoes-estequiometricas-c14-q01",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "habilidade": "H24",
+     "texto_base": "Em maio, Lara representa a formação de água pela equação 2 H₂ + O₂ → 2 H₂O em uma simulação escolar.",
+     "enunciado": "Dois mols de H₂ correspondem a dois mols de H₂O na proporção indicada.",
+     "gabarito": "C",
+     "comentario": "Os coeficientes de reagente e produto são iguais e, por isso, a proporção em mol entre essas duas espécies é de um para um. (Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.17 e 4.21, H24.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.17 e 4.21, H24"
+    },
+    {
+     "id": "enem-proporcoes-estequiometricas-c14-q02",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "habilidade": "H25",
+     "texto_base": "Em junho, uma simulação da reação 2 Mg + O₂ → 2 MgO começa com 1,20 mol de Mg e 0,45 mol de O₂.",
+     "enunciado": "O modelo de conversão completa prevê 1,20 mol de MgO.",
+     "gabarito": "E",
+     "comentario": "O O₂ limita o avanço a 0,45 mol da reação escrita, que forma 0,90 mol de MgO. (Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.17 e 4.21, H25.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.17 e 4.21, H25"
+    },
+    {
+     "id": "enem-proporcoes-estequiometricas-c14-q03",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "habilidade": "H17",
+     "texto_base": "Daniel registra 24 g de produto numa prática de março cujo cálculo teórico previa 30 g.",
+     "enunciado": "O rendimento informado pelos dois valores é de 80%.",
+     "gabarito": "C",
+     "comentario": "Dividir a massa obtida pela teórica produz 24/30 = 0,80. (Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.17 e 4.21, H17.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.17 e 4.21, H17"
+    },
+    {
+     "id": "enem-proporcoes-estequiometricas-c14-q04",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "habilidade": "H25",
+     "texto_base": "Em julho, a planta piloto de Mara precisa entregar 80 g reais de uma substância, com rendimento de 80% sob as condições fornecidas.",
+     "enunciado": "O cálculo de reagentes deve começar com meta teórica de 64 g de produto.",
+     "gabarito": "E",
+     "comentario": "A meta teórica é 80/0,80 = 100 g. Multiplicar por 0,80 estimaria o produto real a partir de uma meta teórica. (Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.17 e 4.21, H25.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.17 e 4.21, H25"
+    },
+    {
+     "id": "enem-proporcoes-estequiometricas-c14-q05",
+     "tipo": "me",
+     "dificuldade": "media",
+     "habilidade": "H24",
+     "texto_base": "Em 5 de maio, Rui analisa a decomposição CaCO₃ → CaO + CO₂ de 25 g de CaCO₃ puro. Adote massas molares 100 g/mol para CaCO₃ e 44 g/mol para CO₂.",
+     "enunciado": "Qual massa teórica de CO₂ resulta da conversão completa?",
+     "alternativas": {
+      "A": "5,5 g",
+      "B": "11 g",
+      "C": "14 g",
+      "D": "25 g",
+      "E": "44 g"
+     },
+     "gabarito": "B",
+     "comentario": "A) Corresponde à metade dos 0,25 mol de gás que a reação pode produzir.\nB) Correta. Os 25 g de carbonato equivalem a 0,25 mol. A proporção um para um leva a 0,25 × 44 g.\nC) Esse valor corresponde à massa teórica de CaO e não à do gás.\nD) A massa inicial se reparte entre óxido e dióxido de carbono.\nE) Essa massa é a de um mol inteiro de CO₂, quatro vezes o que a amostra permite.\n(Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.17 e 4.21, H24.)",
+     "comentarios_por_alternativa": {
+      "A": "Corresponde à metade dos 0,25 mol de gás que a reação pode produzir.",
+      "B": "Correta. Os 25 g de carbonato equivalem a 0,25 mol. A proporção um para um leva a 0,25 × 44 g.",
+      "C": "Esse valor corresponde à massa teórica de CaO e não à do gás.",
+      "D": "A massa inicial se reparte entre óxido e dióxido de carbono.",
+      "E": "Essa massa é a de um mol inteiro de CO₂, quatro vezes o que a amostra permite."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.17 e 4.21, H24"
+    },
+    {
+     "id": "enem-proporcoes-estequiometricas-c14-q06",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "habilidade": "H25",
+     "texto_base": "Em 12 de agosto, uma atividade de simulação representa 2 Mg + O₂ → 2 MgO com 2,0 mol de Mg e 0,60 mol de O₂. Use 40 g/mol para MgO.",
+     "enunciado": "Qual é a massa teórica de produto?",
+     "alternativas": {
+      "A": "24 g",
+      "B": "32 g",
+      "C": "40 g",
+      "D": "48 g",
+      "E": "80 g"
+     },
+     "gabarito": "D",
+     "comentario": "A) Esse valor aplica 40 g/mol diretamente a 0,60 mol sem dobrar a quantidade para obter os mols do produto.\nB) O valor equivale a 0,80 mol de MgO e não decorre do limite de 0,60 mol de O₂.\nC) Corresponde a 1 mol de produto, abaixo dos 1,20 mol que os reagentes permitem.\nD) Correta. O oxigênio é limitante e gera 2 × 0,60 = 1,20 mol, ou 48 g de MgO.\nE) Esse total exigiria 1 mol de O₂ para consumir os 2,0 mol de Mg, acima da oferta inicial.\n(Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.17 e 4.21, H25.)",
+     "comentarios_por_alternativa": {
+      "A": "Esse valor aplica 40 g/mol diretamente a 0,60 mol sem dobrar a quantidade para obter os mols do produto.",
+      "B": "O valor equivale a 0,80 mol de MgO e não decorre do limite de 0,60 mol de O₂.",
+      "C": "Corresponde a 1 mol de produto, abaixo dos 1,20 mol que os reagentes permitem.",
+      "D": "Correta. O oxigênio é limitante e gera 2 × 0,60 = 1,20 mol, ou 48 g de MgO.",
+      "E": "Esse total exigiria 1 mol de O₂ para consumir os 2,0 mol de Mg, acima da oferta inicial."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.17 e 4.21, H25"
+    },
+    {
+     "id": "enem-proporcoes-estequiometricas-c14-q07",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "habilidade": "H25",
+     "texto_base": "Em setembro, um lote de 250 g de material contém 80% de CaCO₃ em massa. Para CaCO₃ → CaO + CO₂, adote 100 g/mol e 56 g/mol para CaCO₃ e CaO. O rendimento em CaO é de 75%.",
+     "enunciado": "Qual é a massa de CaO efetivamente obtida?",
+     "alternativas": {
+      "A": "84 g",
+      "B": "105 g",
+      "C": "112 g",
+      "D": "140 g",
+      "E": "75 g"
+     },
+     "gabarito": "A",
+     "comentario": "A) Correta. Há 200 g, ou 2 mol, de CaCO₃. A massa teórica de CaO é 112 g e seu rendimento produz 84 g.\nB) Usa os 250 g como se a amostra inteira fosse carbonato, embora aplique o rendimento.\nC) É a previsão para a massa pura disponível sem aplicar a redução de rendimento.\nD) É a massa teórica calculada quando se ignora tanto a pureza como a redução de rendimento.\nE) Usa o número do rendimento percentual como se fosse uma massa em gramas.\n(Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.17 e 4.21, H25.)",
+     "comentarios_por_alternativa": {
+      "A": "Correta. Há 200 g, ou 2 mol, de CaCO₃. A massa teórica de CaO é 112 g e seu rendimento produz 84 g.",
+      "B": "Usa os 250 g como se a amostra inteira fosse carbonato, embora aplique o rendimento.",
+      "C": "É a previsão para a massa pura disponível sem aplicar a redução de rendimento.",
+      "D": "É a massa teórica calculada quando se ignora tanto a pureza como a redução de rendimento.",
+      "E": "Usa o número do rendimento percentual como se fosse uma massa em gramas."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.17 e 4.21, H25"
+    },
+    {
+     "id": "enem-proporcoes-estequiometricas-c14-q08",
+     "tipo": "me",
+     "dificuldade": "media",
+     "habilidade": "H17",
+     "texto_base": "Em outubro, uma série de simulações mantém 1,0 mol de reagente B e aumenta A na reação A + 2 B → C. Considere produção completa até esgotar o limitante.",
+     "enunciado": "Como varia a quantidade de C quando A sobe de 0,25 mol a 0,75 mol?",
+     "alternativas": {
+      "A": "C cresce de 0,25 mol até 0,75 mol de modo proporcional por todo o intervalo.",
+      "B": "C permanece em 1,0 mol porque essa é a quantidade de B disponível.",
+      "C": "C cai à medida que A aumenta depois de 0,50 mol.",
+      "D": "C fica em 0,25 mol porque o primeiro ponto impede formar mais produto.",
+      "E": "C cresce de 0,25 mol até 0,50 mol e fica constante daí em diante."
+     },
+     "gabarito": "E",
+     "comentario": "A) A partir de 0,50 mol de A, a oferta fixa de B limita C.\nB) São necessários dois mols de B por mol de C.\nC) Com B fixo e sem outras reações, A extra permanece em excesso e não reduz o produto.\nD) Cada simulação usa nova quantidade inicial de A, que pode produzir mais até atingir o limite de B.\nE) Correta. A inicialmente limita. Quando A chega a 0,50 mol, os 1,0 mol de B passam a fixar a produção máxima.\n(Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.17 e 4.21, H17.)",
+     "comentarios_por_alternativa": {
+      "A": "A partir de 0,50 mol de A, a oferta fixa de B limita C.",
+      "B": "São necessários dois mols de B por mol de C.",
+      "C": "Com B fixo e sem outras reações, A extra permanece em excesso e não reduz o produto.",
+      "D": "Cada simulação usa nova quantidade inicial de A, que pode produzir mais até atingir o limite de B.",
+      "E": "Correta. A inicialmente limita. Quando A chega a 0,50 mol, os 1,0 mol de B passam a fixar a produção máxima."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.17 e 4.21, H17"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "A relação entre coeficientes indica proporção em ___. Para partir de gramas, divida pela ___.",
+     "opcoes": [
+      "mol",
+      "massa molar",
+      "litro",
+      "capacidade térmica"
+     ],
+     "respostas": [
+      "mol",
+      "massa molar"
+     ],
+     "explicacao": "A massa molar faz a conversão para a unidade à qual se aplicam os coeficientes.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.17 e 4.21"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Se uma reação prevê 60 g e entrega 45 g, o rendimento vale ___%. Para obter 45 g reais nesse rendimento, a meta teórica é ___ g.",
+     "opcoes": [
+      "75",
+      "60",
+      "45",
+      "25"
+     ],
+     "respostas": [
+      "75",
+      "60"
+     ],
+     "explicacao": "O rendimento é 45/60. A meta teórica recupera 45/0,75.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Química 4.17 e 4.21"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene um cálculo de produto real a partir de massa de reagente impuro.",
+     "itens": [
+      "Determinar a massa do reagente puro",
+      "Converter a massa pura em mols",
+      "Aplicar a proporção da equação para achar o produto teórico",
+      "Aplicar o rendimento e expressar a unidade pedida"
+     ],
+     "explicacao": "A pureza corrige a entrada. O rendimento corrige a produção prevista."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Massa molar",
+       "Massa correspondente a um mol"
+      ],
+      [
+       "Limitante",
+       "Reagente que fixa a extensão máxima"
+      ],
+      [
+       "Rendimento",
+       "Razão entre produto real e teórico"
+      ],
+      [
+       "Excesso",
+       "Quantidade acima da relação requerida"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

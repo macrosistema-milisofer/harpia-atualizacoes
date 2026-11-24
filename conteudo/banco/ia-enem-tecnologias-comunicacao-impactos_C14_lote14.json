@@ -1,0 +1,257 @@
+{
+ "assunto": "ENEM 2026 — Linguagens — Tecnologias de comunicação, participação e circulação de informação",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23",
+ "origem": "2026-11-23_banco-enem-tecnologias-comunicacao-impactos_C14_lote14_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "enem-tecnologias-comunicacao-impactos-c14",
+   "titulo": "Tecnologias de comunicação, participação e circulação de informação",
+   "microconteudo": "RAIO-X DA PROVA: Triagem dirigida nos cadernos azuis regulares do Inep de 2021 a 2025 confirmou 7 de 225 itens de Linguagens (3,11% como mínimo observado). Foram observados itens sobre usos sociais da rede, participação coletiva, alcance de conteúdos, circulação cultural e efeitos sobre relações humanas. A comparação distingue possibilidade técnica, condições efetivas de uso e efeito demonstrado.\n\nO QUE A BANCA COBRA:\nNas questões sobre tecnologias de comunicação, a prova apresenta notícias, depoimentos, textos literários e práticas culturais para perguntar o que muda na circulação de informação ou na participação de grupos. Os itens consultados mobilizam acesso desigual, circulação de obras, mobilização coletiva e alcance de mensagens. Leia a descrição da tecnologia como parte de uma prática social. Identifique que problema motivou seu uso, quem produz a mensagem, quem pode recebê-la e que evidência permite afirmar que uma prática se transformou.\n\nENTENDA:\nUm meio de comunicação reúne condições técnicas e formas de uso. Pense num boletim comunitário que inicialmente é impresso e distribuído numa praça. Ao passar para áudio assíncrono, pode ser ouvido por quem está longe no horário da distribuição e por parte do público que prefere escutar. Ao mesmo tempo, essa mudança pode dificultar o acesso de quem tem conexão instável ou precisa de transcrição. Descrever a transformação exige relacionar uma propriedade do meio, como poder ouvir no momento escolhido, a uma consequência social identificável, como permitir a participação de trabalhadores em horários diferentes.\n\nUma tecnologia pode alterar a produção, a circulação e a recepção de uma mensagem. Imagine uma associação que registra depoimentos sobre deslocamentos de barco para a escola. Na produção, gravar áudio preserva pausas e entonações e pede autorização e condições adequadas de gravação. Na circulação, um arquivo leve pode ser compartilhado pelo telefone. Na recepção, a pessoa pode ouvir, pausar e encaminhar o conteúdo a uma associação de outro bairro. Se o texto da questão afirma que o projeto ampliou seu público ao incluir um canal de envio de relatos, a mudança em foco é a possibilidade de colaborar, que vai além de ouvir um material que já estava pronto.\n\nAcesso é uma condição com várias dimensões. Uma família pode ter telefone compartilhado, pacote de dados limitado e nenhum local reservado para gravar uma entrevista. Outra pode usar computador, conexão estável e programas que tornam o conteúdo legível com tecnologias assistivas. Dizer apenas que ambas têm conexão esconde diferenças que alteram suas capacidades concretas de participar. Recursos de acessibilidade também precisam responder às características do público e da mensagem. Uma transcrição recupera partes verbais de um áudio. Uma descrição das informações visuais pode ser necessária em um cartaz com instruções expressas só por ícones. Um mapa interativo pode exigir alternativa que preserve nomes e relações relevantes para quem usa leitor de tela.\n\nO alcance de um material também depende do modo como é distribuído. Em um boletim por assinatura, a instituição tem uma lista de destinatários. Em um serviço que recomenda conteúdos, a exposição pode variar conforme critérios da plataforma, formatos, interesses presumidos, horários e comportamentos do público. Considere um caso fictício em que vídeos curtos tenham mais visualizações que textos publicados pela mesma equipe. Essa observação é suficiente para comparar os totais registrados. Para afirmar que a duração causou o aumento, seria preciso examinar tema, público, divulgação e outras variáveis. A prova costuma pedir interpretação do argumento do texto, inclusive o que seu autor quer sugerir com um dado. Atribuir uma conclusão ao autor e verificar se ela foi bem demonstrada são operações diferentes.\n\nEm situações de participação coletiva, a tecnologia facilita certas etapas e deixa outras dependentes de decisões institucionais. Um formulário digital pode recolher propostas de moradores e organizar respostas antes de uma audiência. Para demonstrar que houve ampliação de participação, seria útil saber quem respondeu, se existiam formas alternativas de contribuir e se as propostas entraram na discussão. Um número alto de envios pode incluir respostas repetidas ou participação concentrada num único grupo. A ferramenta oferece uma possibilidade. A realização do objetivo depende de condições de uso e de como os destinatários incorporam as contribuições.\n\nInterpretar conteúdo que circula rapidamente também envolve olhar o contexto de origem. Um quadro com números sem data pode parecer recente quando se refere a outra etapa de um programa. Uma captura recortada pode preservar uma frase e omitir que ela foi contestada logo depois. Em uma mensagem viral, procure sinais como autoria, fontes e data e compare a afirmação com o material de origem. Um comentário popular pode indicar engajamento, sem comprovar a precisão da informação compartilhada. Em prova, o ponto costuma ser relacionar a forma como um material circula com seus efeitos, evitando deduzir valor de verdade apenas da velocidade ou do alcance.\n\nDOUTRINA:\nA pesquisa TIC Domicílios 2025, coordenada pelo CGI.br e executada pelo NIC.br por meio do Cetic.br, distingue condições de conectividade que abrangem dispositivos, qualidade, custo e ambiente de uso. Essa abordagem permite interpretar o acesso como capacidade prática de usar meios informacionais e participar de atividades. Ao ler uma questão, compare o recurso disponível e a atividade que o texto descreve. Identificar conexão e identificar condições para enviar, ler ou produzir conteúdo são perguntas diferentes.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nAs habilidades H28, H29 e H30 da Matriz do ENEM orientam a leitura da função, das linguagens e dos impactos das tecnologias da comunicação. O efeito precisa ser inferido das características e evidências fornecidas pela situação apresentada.\n\nPEGADINHAS:\n1. Maior alcance descreve exposição. Influência sobre decisões exige evidência adicional.\n2. Estar conectado pode não garantir tempo, equipamento ou formatos para participar.\n3. Um recurso de acessibilidade deve recuperar a informação necessária à tarefa.\n4. Passar do papel para a rede pode alterar quem produz e responde à mensagem.\n5. Popularidade de uma postagem não determina que seus dados sejam atuais ou corretos.\n\nESQUEMA:\nRecurso → o que a tecnologia permite fazer.\nSituação → quem usa, publica, recebe ou responde.\nAcesso → quais condições possibilitam ou restringem participação.\nEfeito → diferença observável na produção, circulação ou recepção.\nLimite → o que os dados do texto permitem concluir.\n\nLIGAÇÕES:\nA análise de interlocutores e propósitos ajuda a reconhecer para quem o conteúdo foi construído. O confronto de pontos de vista auxilia a examinar como fontes distintas interpretam um mesmo impacto tecnológico.",
+   "flashcards": [
+    {
+     "frente": "Que elo uma questão sobre impacto tecnológico pede reconstruir?",
+     "verso": "A relação entre uma característica do recurso e uma consequência observável na prática social.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens 1.40"
+    },
+    {
+     "frente": "Por que conexão não é sinônimo de participação?",
+     "verso": "Equipamento, formato, qualidade da conexão e condições de uso afetam a capacidade de ler, produzir ou responder.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens 1.40"
+    },
+    {
+     "frente": "O que um total de visualizações mede diretamente?",
+     "verso": "Exposição registrada, conforme a métrica usada. Sozinho, o total não mede adesão nem mudança de comportamento.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens 1.40"
+    },
+    {
+     "frente": "Quando um recorte visual pode induzir erro?",
+     "verso": "Quando preserva a frase e omite data, autoria, contexto ou informações necessárias à interpretação.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens 1.40"
+    },
+    {
+     "frente": "Qual a função de uma transcrição de áudio?",
+     "verso": "Disponibilizar o conteúdo verbal em texto para leitura e consulta.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens 1.40"
+    },
+    {
+     "frente": "Como avaliar promessa de alcance de uma plataforma?",
+     "verso": "Compare a proposta, o público possível e os resultados observados, explicitando limites e condições.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens 1.40"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-tecnologias-comunicacao-impactos-c14-q01",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "habilidade": "H28",
+     "texto_base": "Em março, uma escola oferece a gravação de uma reunião com arquivo de áudio e transcrição. Antes, o encontro só podia ser acompanhado presencialmente.",
+     "enunciado": "Os novos formatos podem ampliar as formas de acompanhamento para pessoas com necessidades e horários distintos.",
+     "gabarito": "C",
+     "comentario": "O acesso assíncrono flexibiliza o horário. A transcrição oferece outra maneira de recuperar o conteúdo verbal. (Matriz de Referência ENEM 2026, Linguagens 1.40, H28.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens 1.40, H28"
+    },
+    {
+     "id": "enem-tecnologias-comunicacao-impactos-c14-q02",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "habilidade": "H30",
+     "texto_base": "Em abril, a página de Zélia teve 400 visualizações numa notícia. Em maio, um vídeo sobre tema diferente teve 1.200, após divulgação em duas listas.",
+     "enunciado": "A mudança de formato, por si só, explica todo o aumento.",
+     "gabarito": "E",
+     "comentario": "Tema e distribuição também mudaram. Os números permitem constatar diferença de alcance, sem isolar seu motivo. (Matriz de Referência ENEM 2026, Linguagens 1.40, H30.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens 1.40, H30"
+    },
+    {
+     "id": "enem-tecnologias-comunicacao-impactos-c14-q03",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "habilidade": "H29",
+     "texto_base": "Em junho, Raul recebe um cartaz com uma animação. O sentido surge quando a seta muda de direção junto de uma legenda que informa a alteração da rota.",
+     "enunciado": "Movimento e texto colaboram para orientar o leitor.",
+     "gabarito": "C",
+     "comentario": "A mudança visual indica a direção e a legenda indica que a rota foi alterada. A informação depende da leitura combinada. (Matriz de Referência ENEM 2026, Linguagens 1.40, H29.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens 1.40, H29"
+    },
+    {
+     "id": "enem-tecnologias-comunicacao-impactos-c14-q04",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "habilidade": "H30",
+     "texto_base": "Em julho, um órgão recolhe propostas on-line. O relatório informa 300 envios, mas não apresenta quantas pessoas responderam nem em quais bairros moravam.",
+     "enunciado": "O número de envios prova que cada bairro participou na mesma proporção.",
+     "gabarito": "E",
+     "comentario": "Não há contagem individual nem distribuição territorial. O número total não descreve a composição dos participantes. (Matriz de Referência ENEM 2026, Linguagens 1.40, H30.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens 1.40, H30"
+    },
+    {
+     "id": "enem-tecnologias-comunicacao-impactos-c14-q05",
+     "tipo": "me",
+     "dificuldade": "media",
+     "habilidade": "H28",
+     "texto_base": "Em 4 de março, Davi emprega arquivos de áudio em um serviço de avisos. A comunidade solicita uma alternativa para pessoas surdas e para quem precisa ler as instruções sem reproduzir som.",
+     "enunciado": "Qual medida responde diretamente ao pedido?",
+     "alternativas": {
+      "A": "Aumentar o volume padrão de reprodução do aviso.",
+      "B": "Publicar uma transcrição fiel junto de cada aviso falado.",
+      "C": "Acrescentar uma trilha musical ao áudio para diferenciar os avisos.",
+      "D": "Substituir cada áudio por uma fotografia do local sem texto.",
+      "E": "Aumentar a duração dos avisos para repetir as falas."
+     },
+     "gabarito": "B",
+     "comentario": "A) O volume não disponibiliza o conteúdo em um formato que possa ser lido.\nB) Correta. A mesma informação verbal passa a poder ser consultada por leitura.\nC) A trilha pode marcar identidade, mas não oferece alternativa textual.\nD) A fotografia não recupera o conteúdo verbal das instruções.\nE) A repetição não atende a quem precisa ler as informações.\n(Matriz de Referência ENEM 2026, Linguagens 1.40, H28.)",
+     "comentarios_por_alternativa": {
+      "A": "O volume não disponibiliza o conteúdo em um formato que possa ser lido.",
+      "B": "Correta. A mesma informação verbal passa a poder ser consultada por leitura.",
+      "C": "A trilha pode marcar identidade, mas não oferece alternativa textual.",
+      "D": "A fotografia não recupera o conteúdo verbal das instruções.",
+      "E": "A repetição não atende a quem precisa ler as informações."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens 1.40, H28"
+    },
+    {
+     "id": "enem-tecnologias-comunicacao-impactos-c14-q06",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "habilidade": "H30",
+     "texto_base": "Em 18 de maio, duas associações abrem uma consulta. Uma usa apenas formulário para computador. A outra aceita formulário para celular e ficha no posto local. Um estudo do bairro identifica conexão doméstica irregular e mostra que muitos moradores usam somente telefone.",
+     "enunciado": "Qual conclusão encontra apoio nas informações?",
+     "alternativas": {
+      "A": "A consulta em computador tem dados mais corretos porque usa uma tela maior.",
+      "B": "O canal no posto local garante adesão idêntica em todos os bairros.",
+      "C": "O formulário para computador elimina desigualdades porque todos recebem as mesmas perguntas.",
+      "D": "A oferta de canais distintos enfrenta barreiras observadas no bairro, embora a participação precise ser medida.",
+      "E": "O telefone deve substituir toda forma presencial de consulta."
+     },
+     "gabarito": "D",
+     "comentario": "A) O tamanho da tela não prova a qualidade das respostas.\nB) Disponibilizar um canal não estabelece o grau de adesão nem sua distribuição.\nC) Ter perguntas iguais não resolve diferenças de equipamentos e acesso.\nD) Correta. Celular e ficha local oferecem alternativas coerentes com o diagnóstico.\nE) O estudo indica obstáculos de conexão que podem tornar útil manter um canal presencial.\n(Matriz de Referência ENEM 2026, Linguagens 1.40, H30.)",
+     "comentarios_por_alternativa": {
+      "A": "O tamanho da tela não prova a qualidade das respostas.",
+      "B": "Disponibilizar um canal não estabelece o grau de adesão nem sua distribuição.",
+      "C": "Ter perguntas iguais não resolve diferenças de equipamentos e acesso.",
+      "D": "Correta. Celular e ficha local oferecem alternativas coerentes com o diagnóstico.",
+      "E": "O estudo indica obstáculos de conexão que podem tornar útil manter um canal presencial."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens 1.40, H30"
+    },
+    {
+     "id": "enem-tecnologias-comunicacao-impactos-c14-q07",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "habilidade": "H29",
+     "texto_base": "Em julho, Luiza recebe uma captura de tela que diz “inscrições encerradas”. No portal original, a frase se refere ao ano anterior e o edital do ciclo atual aparece em outra página.",
+     "enunciado": "Qual leitura identifica o papel do recorte na circulação?",
+     "alternativas": {
+      "A": "A captura conservou palavras do portal e ocultou o contexto temporal necessário para interpretá-las.",
+      "B": "A captura é necessariamente falsa porque toda imagem de uma página altera suas palavras.",
+      "C": "A data tem pouca importância porque o objetivo de todo edital se mantém ao longo dos anos.",
+      "D": "A imagem substitui a consulta ao portal porque tem a mesma aparência.",
+      "E": "Um grande número de encaminhamentos confirma a abertura do ciclo atual."
+     },
+     "gabarito": "A",
+     "comentario": "A) Correta. A frase pode estar fielmente reproduzida e produzir leitura errada pela perda de data e referência.\nB) A imagem pode manter o texto e retirar elementos de contexto.\nC) Vigências e ciclos mudam. O significado prático de “encerradas” depende da edição.\nD) A aparência não recupera a data e os documentos omitidos.\nE) O total de encaminhamentos não determina a validade do aviso.\n(Matriz de Referência ENEM 2026, Linguagens 1.40, H29.)",
+     "comentarios_por_alternativa": {
+      "A": "Correta. A frase pode estar fielmente reproduzida e produzir leitura errada pela perda de data e referência.",
+      "B": "A imagem pode manter o texto e retirar elementos de contexto.",
+      "C": "Vigências e ciclos mudam. O significado prático de “encerradas” depende da edição.",
+      "D": "A aparência não recupera a data e os documentos omitidos.",
+      "E": "O total de encaminhamentos não determina a validade do aviso."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens 1.40, H29"
+    },
+    {
+     "id": "enem-tecnologias-comunicacao-impactos-c14-q08",
+     "tipo": "me",
+     "dificuldade": "media",
+     "habilidade": "H28",
+     "texto_base": "Em novembro, Rubens põe à disposição um arquivo sonoro com histórias do bairro. Ao criar um canal de contribuições, recebe de ouvintes novos depoimentos e uma correção de data que incorpora à coleção.",
+     "enunciado": "Que efeito o caso documenta?",
+     "alternativas": {
+      "A": "A substituição integral do arquivo pelas mensagens dos ouvintes.",
+      "B": "O abandono da escuta por quem enviou material.",
+      "C": "O aumento comprovado de acesso em todos os bairros da cidade.",
+      "D": "O fim da necessidade de conferir autoria e erros de data.",
+      "E": "A passagem de parte dos ouvintes à condição de participantes da produção do acervo."
+     },
+     "gabarito": "E",
+     "comentario": "A) Os novos depoimentos foram incorporados à coleção já existente.\nB) Os ouvintes podem escutar e contribuir. O caso não indica que deixaram de ouvir.\nC) Não há levantamento territorial da audiência.\nD) A correção incorporada indica a continuidade do trabalho de verificação.\nE) Correta. Eles forneceram relatos e ajudaram a atualizar uma informação.\n(Matriz de Referência ENEM 2026, Linguagens 1.40, H28.)",
+     "comentarios_por_alternativa": {
+      "A": "Os novos depoimentos foram incorporados à coleção já existente.",
+      "B": "Os ouvintes podem escutar e contribuir. O caso não indica que deixaram de ouvir.",
+      "C": "Não há levantamento territorial da audiência.",
+      "D": "A correção incorporada indica a continuidade do trabalho de verificação.",
+      "E": "Correta. Eles forneceram relatos e ajudaram a atualizar uma informação."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens 1.40, H28"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Uma transcrição altera o ___ de acesso e pode preservar o ___ verbal do áudio.",
+     "opcoes": [
+      "formato",
+      "conteúdo",
+      "número",
+      "idioma obrigatório"
+     ],
+     "respostas": [
+      "formato",
+      "conteúdo"
+     ],
+     "explicacao": "A informação verbal passa a poder ser lida em vez de apenas ouvida.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens 1.40"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Para avaliar ___, observe quem recebe a mensagem. Para avaliar ___, verifique quem consegue contribuir e em que condições.",
+     "opcoes": [
+      "alcance",
+      "participação",
+      "ortografia",
+      "frequência sonora"
+     ],
+     "respostas": [
+      "alcance",
+      "participação"
+     ],
+     "explicacao": "Alcance diz respeito à distribuição. Participação exige ações possíveis dos usuários e condições para realizá-las.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Linguagens 1.40"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a leitura de uma notícia sobre a adoção de um novo meio de comunicação.",
+     "itens": [
+      "Identificar o recurso e o problema que motivou o uso",
+      "Localizar as formas de acesso e os públicos envolvidos",
+      "Separar efeitos observados de benefícios prometidos",
+      "Concluir conforme o comando e as evidências"
+     ],
+     "explicacao": "A inferência de impacto resulta do confronto entre a função do recurso e seu uso documentado."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Formato",
+       "Modo de apresentação de uma mensagem"
+      ],
+      [
+       "Recepção",
+       "Modo como o público acessa e interpreta"
+      ],
+      [
+       "Alcance",
+       "Exposição registrada a um conteúdo"
+      ],
+      [
+       "Participação",
+       "Possibilidade e exercício de contribuir"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

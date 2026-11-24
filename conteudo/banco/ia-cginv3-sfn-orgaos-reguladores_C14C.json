@@ -1,0 +1,190 @@
+{
+ "assunto": "Sistema Financeiro Nacional e participantes do mercado",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 — Claude (C-14-CGINV, frente Claude)",
+ "origem": "2026-11-23_banco-cginv3-sfn-orgaos-reguladores_C14C_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "cginv3-c14c-sfn-orgaos",
+   "titulo": "Sistema Financeiro Nacional: quem regula, quem fiscaliza, quem opera",
+   "microconteudo": "RAIO-X DA PROVA: Sem provas públicas do CGINV III para contar incidência. Prioridade pela Onda 1 do Pareto (peso do edital) e pela apostila-parâmetro do CP RPPS (módulo Economia e Mercado Financeiro, p. 69–85). Tema comum a CGINV I/II/III, DIRIG e CODEF quando o edital repete o ponto.\n\nO QUE A BANCA COBRA:\nA prova quer saber se você separa três camadas do Sistema Financeiro Nacional (SFN): o órgão normativo (que cria as regras), as entidades supervisoras (que fiscalizam e punem) e os operadores (que fazem os negócios). A pegadinha clássica é trocar as funções: atribuir ao Banco Central a criação de normas gerais que são do CMN, ou atribuir à CVM a fiscalização de bancos.\n\nENTENDA:\n1) Órgãos normativos. No mercado de crédito, câmbio e capitais, o normativo é o Conselho Monetário Nacional (CMN), criado pela Lei 4.595/1964. Ele não fiscaliza nem opera: expede diretrizes e resoluções. Compõem o CMN o Ministro da Fazenda (que o preside), o Ministro do Planejamento e Orçamento e o Presidente do Banco Central (Lei 9.069/1995, art. 8º). É o CMN que fixa a meta de inflação e que edita as regras de aplicação dos recursos dos RPPS — hoje a Resolução CMN 5.272/2025. Nos outros subsistemas há normativos próprios: o CNSP (seguros privados, com a Susep como supervisora) e o CNPC (previdência complementar fechada, com a Previc).\n\n2) Supervisores. O Banco Central do Brasil (BCB) executa a política monetária, administra o sistema de pagamentos, emite moeda, autoriza o funcionamento e fiscaliza instituições financeiras (bancos, cooperativas de crédito, financeiras, corretoras e distribuidoras no que toca à atividade financeira). Desde a Lei Complementar 179/2021 o BCB é autarquia de natureza especial, sem vinculação a Ministério, com mandatos fixos de quatro anos para presidente e diretores, não coincidentes com o do Presidente da República. A Comissão de Valores Mobiliários (CVM), criada pela Lei 6.385/1976, regula e fiscaliza o mercado de valores mobiliários: companhias abertas, ofertas públicas, fundos de investimento (Resolução CVM 175/2022), administradores de carteira, consultores, analistas e a bolsa.\n\n3) Operadores. Bancos comerciais e múltiplos captam depósitos à vista; bancos de investimento estruturam operações; corretoras e distribuidoras intermediam títulos e valores mobiliários; a B3 é a bolsa e a principal infraestrutura de mercado (negociação, câmara de compensação e depositária central); o Selic, mantido pelo BCB, registra e liquida títulos públicos federais. Administradores e gestores de recursos (inclusive dos fundos em que o RPPS aplica) precisam de autorização da CVM.\n\n4) Por que isso importa ao Comitê de Investimentos. O RPPS só aplica por meio de instituições autorizadas e credenciadas, e o credenciamento exige verificar exatamente essas autorizações (BCB para a instituição financeira, CVM para administrador e gestor). Saber \"quem responde por quê\" é a base da análise de credenciamento e da responsabilização em caso de irregularidade.\n\nESQUEMA:\nCMN (norma) → BCB (instituições financeiras, moeda, pagamentos) e CVM (valores mobiliários, fundos, companhias abertas) → operadores (bancos, corretoras, distribuidoras, B3, gestores e administradores).\nSeguros: CNSP → Susep. Previdência complementar fechada: CNPC → Previc. RPPS: regras de investimento pelo CMN; supervisão e normas previdenciárias pelo Ministério da Previdência.\n\nPEGADINHAS:\n• \"O Banco Central edita as regras de aplicação dos recursos dos RPPS\" — errado: é resolução do CMN.\n• \"A CVM fiscaliza os bancos\" — errado: a fiscalização prudencial dos bancos é do BCB; a CVM entra quando o banco atua no mercado de valores mobiliários (por exemplo, como administrador de fundo).\n• \"O presidente do BCB tem mandato coincidente com o do Presidente da República\" — errado desde a LC 179/2021: mandatos de 4 anos, não coincidentes.\n• \"O CMN é presidido pelo Presidente do BCB\" — errado: preside o Ministro da Fazenda.\n\nDOUTRINA:\nA divisão entre normatização, supervisão e operação é a forma como os manuais de mercado de capitais (por exemplo, Eduardo Fortuna, Mercado Financeiro: produtos e serviços) organizam o SFN; a cobrança das certificações segue esse mesmo desenho.",
+   "flashcards": [
+    {
+     "frente": "Quem preside o CMN?",
+     "verso": "O Ministro da Fazenda; compõem também o Ministro do Planejamento e Orçamento e o Presidente do BCB.",
+     "dispositivo": "Lei 9.069/1995, art. 8º"
+    },
+    {
+     "frente": "Qual órgão edita as regras de investimento dos RPPS?",
+     "verso": "O CMN, por resolução (hoje a Resolução CMN 5.272/2025).",
+     "dispositivo": "Lei 9.717/1998, art. 6º, IV"
+    },
+    {
+     "frente": "O que mudou no BCB com a LC 179/2021?",
+     "verso": "Autonomia: autarquia de natureza especial, sem vinculação a Ministério, mandatos fixos de 4 anos não coincidentes.",
+     "dispositivo": "LC 179/2021"
+    },
+    {
+     "frente": "Quem regula e fiscaliza fundos de investimento?",
+     "verso": "A CVM (Lei 6.385/1976; Resolução CVM 175/2022).",
+     "dispositivo": "Lei 6.385/1976"
+    },
+    {
+     "frente": "Supervisor de seguros e de previdência complementar fechada?",
+     "verso": "Susep (normativo CNSP) e Previc (normativo CNPC).",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Qual sistema registra e liquida títulos públicos federais?",
+     "verso": "O Selic, administrado pelo BCB.",
+     "dispositivo": ""
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O Conselho Monetário Nacional é órgão normativo do SFN e, por isso, não exerce a fiscalização direta das instituições financeiras.",
+     "gabarito": "C",
+     "comentario": "Certo. O CMN expede normas; fiscalizar instituições financeiras é atribuição do BCB.",
+     "dispositivo": "Lei 4.595/1964, arts. 2º–4º e 10"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A fiscalização prudencial dos bancos comerciais compete à Comissão de Valores Mobiliários.",
+     "gabarito": "E",
+     "comentario": "Errado. Compete ao Banco Central. A CVM supervisiona o mercado de valores mobiliários.",
+     "dispositivo": "Lei 4.595/1964, art. 10; Lei 6.385/1976"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Após a Lei Complementar 179/2021, o Presidente do Banco Central passou a ter mandato de quatro anos, não coincidente com o mandato do Presidente da República.",
+     "gabarito": "C",
+     "comentario": "Certo. É o núcleo da autonomia formal do BCB.",
+     "dispositivo": "LC 179/2021"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "O Comitê de Investimentos do RPPS de Serra Clara analisa o credenciamento de um gestor de fundo. Qual autorização é essencial verificar quanto à atividade de gestão de carteira?",
+     "alternativas": {
+      "A": "Autorização do Banco Central para funcionar como banco múltiplo.",
+      "B": "Registro na Susep como corretora de seguros.",
+      "C": "Autorização da CVM para administração de carteiras de valores mobiliários.",
+      "D": "Inscrição na Previc como entidade fechada.",
+      "E": "Aprovação do CMN para cada fundo administrado."
+     },
+     "gabarito": "C",
+     "comentario": "A (incorreta). Autorização bancária não substitui a da CVM para gerir carteira. B (incorreta). Susep cuida de seguros, não de gestão de fundos. C (correta). A gestão de carteira de valores mobiliários depende de autorização da CVM. D (incorreta). Previc supervisiona entidades fechadas de previdência complementar. E (incorreta). O CMN não aprova fundos individualmente. (Lei 6.385/1976, art. 23; Resolução CVM 175/2022)",
+     "comentarios_por_alternativa": {
+      "A": "Autorização bancária não substitui a da CVM para gerir carteira.",
+      "B": "Susep cuida de seguros, não de gestão de fundos.",
+      "C": "A gestão de carteira de valores mobiliários depende de autorização da CVM.",
+      "D": "Previc supervisiona entidades fechadas de previdência complementar.",
+      "E": "O CMN não aprova fundos individualmente."
+     },
+     "dispositivo": "Lei 6.385/1976, art. 23; Resolução CVM 175/2022"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "facil",
+     "enunciado": "Assinale a correspondência correta entre órgão normativo e entidade supervisora.",
+     "alternativas": {
+      "A": "CMN – Previc",
+      "B": "CNSP – Susep",
+      "C": "CNPC – CVM",
+      "D": "CMN – Susep",
+      "E": "CNSP – BCB"
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). Previc responde ao CNPC. B (correta). O CNSP normatiza seguros e a Susep fiscaliza. C (incorreta). CNPC liga-se à Previc, não à CVM. D (incorreta). Susep responde ao CNSP. E (incorreta). O BCB está no subsistema monetário, sob o CMN. (Estrutura normativa do SFN)",
+     "comentarios_por_alternativa": {
+      "A": "Previc responde ao CNPC.",
+      "B": "O CNSP normatiza seguros e a Susep fiscaliza.",
+      "C": "CNPC liga-se à Previc, não à CVM.",
+      "D": "Susep responde ao CNSP.",
+      "E": "O BCB está no subsistema monetário, sob o CMN."
+     },
+     "dispositivo": "Estrutura normativa do SFN"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Sobre a composição do CMN, é correto afirmar:",
+     "alternativas": {
+      "A": "É presidido pelo Presidente do Banco Central.",
+      "B": "Inclui o Presidente da CVM com direito a voto.",
+      "C": "É composto pelo Ministro da Fazenda, pelo Ministro do Planejamento e Orçamento e pelo Presidente do BCB.",
+      "D": "Inclui representantes dos bancos privados.",
+      "E": "É presidido pelo Presidente da República."
+     },
+     "gabarito": "C",
+     "comentario": "A (incorreta). Quem preside é o Ministro da Fazenda. B (incorreta). A CVM não integra o CMN como membro votante. C (correta). É a composição legal vigente. D (incorreta). Não há representação do setor privado no colegiado. E (incorreta). O Presidente da República não integra o CMN. (Lei 9.069/1995, art. 8º)",
+     "comentarios_por_alternativa": {
+      "A": "Quem preside é o Ministro da Fazenda.",
+      "B": "A CVM não integra o CMN como membro votante.",
+      "C": "É a composição legal vigente.",
+      "D": "Não há representação do setor privado no colegiado.",
+      "E": "O Presidente da República não integra o CMN."
+     },
+     "dispositivo": "Lei 9.069/1995, art. 8º"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O ___ edita as normas, o ___ fiscaliza as instituições financeiras e a ___ fiscaliza o mercado de valores mobiliários.",
+     "opcoes": [
+      "CMN",
+      "BCB",
+      "CVM",
+      "Susep"
+     ],
+     "respostas": [
+      "CMN",
+      "BCB",
+      "CVM"
+     ],
+     "explicacao": "Normativo, supervisor bancário e supervisor do mercado de capitais.",
+     "dispositivo": "Lei 4.595/1964; Lei 6.385/1976"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "CMN",
+       "Normas e meta de inflação"
+      ],
+      [
+       "BCB",
+       "Política monetária e fiscalização bancária"
+      ],
+      [
+       "CVM",
+       "Fundos e companhias abertas"
+      ],
+      [
+       "Previc",
+       "Previdência complementar fechada"
+      ]
+     ],
+     "explicacao": "Cada órgão no seu papel.",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene as camadas do SFN, da regra à operação.",
+     "itens": [
+      "Órgão normativo (CMN)",
+      "Entidades supervisoras (BCB, CVM)",
+      "Operadores (bancos, corretoras, B3, gestores)"
+     ],
+     "explicacao": "Quem faz a regra, quem fiscaliza, quem executa.",
+     "dispositivo": ""
+    }
+   ]
+  }
+ ]
+}
