@@ -1,0 +1,191 @@
+{
+ "assunto": "Riscos de renda fixa: duration e convexidade",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 — Claude (C-14-CGINV, frente Claude)",
+ "origem": "2026-11-23_banco-cginv3-duration-convexidade-riscos-renda-fixa_C14C_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "cginv3-c14c-duration-convexidade",
+   "titulo": "Duration (Macaulay, modificada, efetiva), convexidade e riscos da curva",
+   "microconteudo": "RAIO-X DA PROVA: Sem provas públicas do CGINV III para contar incidência. Prioridade pela Onda 1 do Pareto (peso do edital) e pela apostila-parâmetro do CP RPPS (módulo Gestão de Risco, p. 177–185). Tema comum a CGINV I/II/III, DIRIG e CODEF quando o edital repete o ponto.\n\nO QUE A BANCA COBRA:\nDiferenciar as três durations, estimar variação de preço, entender a convexidade e reconhecer riscos de curva, resgate antecipado e reinvestimento.\n\nENTENDA:\nRisco de taxa de juros: alta de juros derruba preços de títulos já emitidos. Mensuração: análise de cenário (reprecificar a carteira sob choques de taxa) e medidas de sensibilidade.\n\nDuration de Macaulay: prazo médio dos fluxos ponderado pelo valor presente; em anos. Título sem cupom: igual ao prazo.\nDuration modificada: Dmod = DMac ÷ (1 + y), sendo y a taxa por período. Variação percentual aproximada do preço: ΔP/P ≈ −Dmod × Δy. Ex.: Dmod 6, juros sobem 1 p.p. → preço cai cerca de 6%.\nDuration efetiva: calculada por reprecificação com choques para cima e para baixo; necessária quando o fluxo muda com a taxa (títulos com opção de resgate).\n\nConvexidade: a relação preço–taxa é curva, não reta. A duration subestima a alta de preço quando juros caem e superestima a queda quando sobem; a convexidade corrige: ΔP/P ≈ −Dmod·Δy + ½·C·(Δy)². Convexidade positiva é desejável.\n\nRisco da curva: mudanças não paralelas (inclinação e curvatura) afetam vértices diferentes; a duration só capta deslocamentos paralelos — usam-se durations por vértice (key rate).\nRisco de resgate antecipado: o emissor recompra quando juros caem, limitando ganho do investidor (convexidade negativa).\nRisco de reinvestimento: cupons recebidos podem ser reinvestidos a taxas menores; maior em títulos com cupom alto. Sem cupom não há esse risco durante a vida do título, mas há maior risco de preço. Riscos de preço e de reinvestimento se compensam no horizonte igual à duration (imunização).\n\nESQUEMA:\nMacaulay (anos) → modificada = Mac/(1+y) → ΔP% ≈ −Dmod·Δy (+ ½C·Δy²) | Efetiva: títulos com opção | Curva: não paralela | Reinvestimento x preço: imunização na duration.\n\nPEGADINHAS:\n• \"Duration modificada é maior que a de Macaulay\" — errado: é menor (divide por 1 + y).\n• \"Duration captura bem mudanças de inclinação da curva\" — errado: só paralelas.\n• \"Título sem cupom tem risco de reinvestimento\" — errado durante a vida do título.",
+   "flashcards": [
+    {
+     "frente": "Duration modificada?",
+     "verso": "Macaulay ÷ (1 + y).",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Variação aproximada do preço?",
+     "verso": "−Dmod × Δy.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Duration efetiva?",
+     "verso": "Por reprecificação; para títulos com opções.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Convexidade positiva?",
+     "verso": "Ganha mais quando juros caem do que perde quando sobem.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Risco de reinvestimento?",
+     "verso": "Reinvestir cupons a taxas menores.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Imunização?",
+     "verso": "Horizonte igual à duration compensa preço e reinvestimento.",
+     "dispositivo": ""
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Título com duration modificada de 5 tende a cair cerca de 5% se as taxas subirem 1 ponto percentual.",
+     "gabarito": "C",
+     "comentario": "Certo, em primeira aproximação.",
+     "dispositivo": "Duration"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A duration modificada é sempre superior à duration de Macaulay.",
+     "gabarito": "E",
+     "comentario": "Errado. É menor.",
+     "dispositivo": "Duration"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A convexidade positiva faz o preço subir mais com a queda de juros do que cai com alta de mesma magnitude.",
+     "gabarito": "C",
+     "comentario": "Certo.",
+     "dispositivo": "Convexidade"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Duration de Macaulay 8,4 anos, taxa 12% a.a. Duration modificada:",
+     "alternativas": {
+      "A": "9,4",
+      "B": "7,5",
+      "C": "8,4",
+      "D": "0,75",
+      "E": "1,12"
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). Somou 1. B (correta). 8,4/1,12 = 7,5. C (incorreta). Não ajustou. D (incorreta). Erro de escala. E (incorreta). É o fator. (Duration modificada)",
+     "comentarios_por_alternativa": {
+      "A": "Somou 1.",
+      "B": "8,4/1,12 = 7,5.",
+      "C": "Não ajustou.",
+      "D": "Erro de escala.",
+      "E": "É o fator."
+     },
+     "dispositivo": "Duration modificada"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Qual duration é apropriada para debênture com cláusula de resgate antecipado pelo emissor?",
+     "alternativas": {
+      "A": "Macaulay",
+      "B": "Modificada",
+      "C": "Efetiva",
+      "D": "De vértice zero",
+      "E": "Nenhuma"
+     },
+     "gabarito": "C",
+     "comentario": "A (incorreta). Supõe fluxos fixos. B (incorreta). Supõe fluxos fixos. C (correta). Reprecifica considerando a opção. D (incorreta). Inexistente. E (incorreta). Há medida adequada. (Duration efetiva)",
+     "comentarios_por_alternativa": {
+      "A": "Supõe fluxos fixos.",
+      "B": "Supõe fluxos fixos.",
+      "C": "Reprecifica considerando a opção.",
+      "D": "Inexistente.",
+      "E": "Há medida adequada."
+     },
+     "dispositivo": "Duration efetiva"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "facil",
+     "enunciado": "O RPPS tem NTN-B com cupom semestral e teme queda de juros futuros. O risco específico ligado aos cupons é:",
+     "alternativas": {
+      "A": "Risco de preço",
+      "B": "Risco de reinvestimento",
+      "C": "Risco cambial",
+      "D": "Risco de resgate antecipado",
+      "E": "Risco soberano"
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). Queda de juros valoriza. B (correta). Cupons serão reinvestidos a taxas menores. C (incorreta). Não há câmbio. D (incorreta). Tesouro não resgata antecipadamente. E (incorreta). Não é a preocupação descrita. (Reinvestimento)",
+     "comentarios_por_alternativa": {
+      "A": "Queda de juros valoriza.",
+      "B": "Cupons serão reinvestidos a taxas menores.",
+      "C": "Não há câmbio.",
+      "D": "Tesouro não resgata antecipadamente.",
+      "E": "Não é a preocupação descrita."
+     },
+     "dispositivo": "Reinvestimento"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "A duration ___ mede o prazo médio; a ___ estima a variação de preço; a ___ corrige a curvatura.",
+     "opcoes": [
+      "de Macaulay",
+      "modificada",
+      "convexidade",
+      "efetiva"
+     ],
+     "respostas": [
+      "de Macaulay",
+      "modificada",
+      "convexidade"
+     ],
+     "explicacao": "Medidas.",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Resgate antecipado",
+       "Emissor recompra com juros baixos"
+      ],
+      [
+       "Reinvestimento",
+       "Cupons a taxas menores"
+      ],
+      [
+       "Curva",
+       "Mudança não paralela"
+      ],
+      [
+       "Taxa de juros",
+       "Preço cai com alta"
+      ]
+     ],
+     "explicacao": "",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a estimativa de preço com convexidade.",
+     "itens": [
+      "Calcular Dmod",
+      "Aplicar −Dmod·Δy",
+      "Somar ½·C·Δy²",
+      "Obter variação estimada"
+     ],
+     "explicacao": "Aproximação de 2ª ordem.",
+     "dispositivo": ""
+    }
+   ]
+  }
+ ]
+}

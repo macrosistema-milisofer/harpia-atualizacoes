@@ -1,0 +1,191 @@
+{
+ "assunto": "Fundamentos e governança da gestão de riscos",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 — Claude (C-14-CGINV, frente Claude)",
+ "origem": "2026-11-23_banco-cginv3-fundamentos-gestao-risco-backtesting_C14C_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "cginv3-c14c-fundamentos-risco",
+   "titulo": "Gestão de riscos: papel, tipos, gestão integrada e backtesting",
+   "microconteudo": "RAIO-X DA PROVA: Sem provas públicas do CGINV III para contar incidência. Prioridade pela Onda 1 do Pareto (peso do edital) e pela apostila-parâmetro do CP RPPS (módulo Gestão de Risco, p. 177–185). Tema comum a CGINV I/II/III, DIRIG e CODEF quando o edital repete o ponto.\n\nO QUE A BANCA COBRA:\nPara que serve a gestão de riscos, quais os tipos de risco, como funciona a área de risco independente e o que é backtesting.\n\nENTENDA:\nRisco é a incerteza sobre resultados, medida pela possibilidade de desvio em relação ao esperado. Gerir risco não é eliminá-lo, mas identificá-lo, medi-lo, controlá-lo dentro de limites (apetite a risco) e comunicá-lo, para que se assuma só o risco que é remunerado e compatível com o passivo.\n\nTipos: mercado (preços, juros, câmbio, ações), crédito (inadimplência ou rebaixamento da contraparte/emissor), liquidez (de mercado: vender sem afetar preço; de fluxo de caixa: pagar obrigações), operacional (falhas de pessoas, processos, sistemas, eventos externos), legal e de compliance, imagem/reputação, e, para RPPS, atuarial (descasamento entre ativos e passivo).\n\nFerramentas básicas: limites de exposição e concentração, diversificação, hedge, VaR, testes de estresse, monitoramento de duration, ratings e acompanhamento de liquidez.\n\nGestão integrada (ERM): visão consolidada de todos os riscos e de suas correlações, em vez de silos; o risco total não é a soma simples dos riscos isolados.\n\nÁrea de riscos: deve ser independente da gestão (segregação de funções) para evitar conflito de interesse; define e monitora limites, reporta excessos ao comitê, valida modelos e precificação. Backtesting compara o VaR previsto com as perdas efetivas: com VaR de 99% em 1 dia, espera-se cerca de 2 a 3 violações em 250 dias úteis; muitas violações indicam modelo subestimando risco.\n\nESQUEMA:\nIdentificar → medir → controlar (limites) → monitorar → reportar | Independência da área de risco | Backtesting: violações observadas x esperadas.\n\nPEGADINHAS:\n• \"Gestão de risco busca eliminar o risco\" — errado: busca administrá-lo dentro do apetite.\n• \"A área de risco pode ser subordinada ao gestor para agilidade\" — errado: exige independência.\n• \"Zero violações no backtesting provam modelo perfeito\" — pode indicar modelo conservador demais.",
+   "flashcards": [
+    {
+     "frente": "Objetivo da gestão de riscos?",
+     "verso": "Assumir só riscos compatíveis com o apetite e remunerados; identificar, medir, controlar, reportar.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Risco operacional?",
+     "verso": "Falhas de pessoas, processos, sistemas ou eventos externos.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Liquidez de mercado x de caixa?",
+     "verso": "Vender sem afetar preço x honrar obrigações no prazo.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "ERM?",
+     "verso": "Gestão integrada de todos os riscos e correlações.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Backtesting?",
+     "verso": "Comparar perdas reais com o VaR previsto.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "VaR 99%, 250 dias: violações esperadas?",
+     "verso": "Cerca de 2,5.",
+     "dispositivo": ""
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A área de gestão de riscos deve atuar de forma independente da área de gestão de recursos.",
+     "gabarito": "C",
+     "comentario": "Certo. Segregação de funções.",
+     "dispositivo": "Governança de riscos"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O objetivo da gestão de riscos é eliminar todos os riscos da carteira.",
+     "gabarito": "E",
+     "comentario": "Errado. É administrá-los dentro do apetite.",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "No backtesting de um VaR de 99% em 250 dias úteis, um número de violações muito superior a 3 sugere subestimação do risco.",
+     "gabarito": "C",
+     "comentario": "Certo.",
+     "dispositivo": "Backtesting"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "facil",
+     "enunciado": "Falha no sistema de cotização que gera ordem duplicada é risco:",
+     "alternativas": {
+      "A": "De mercado",
+      "B": "De crédito",
+      "C": "Operacional",
+      "D": "Soberano",
+      "E": "Atuarial"
+     },
+     "gabarito": "C",
+     "comentario": "A (incorreta). Não é variação de preço. B (incorreta). Não há inadimplência. C (correta). Falha de sistema/processo. D (incorreta). Não envolve o Estado emissor. E (incorreta). Não é descasamento de passivo. (Tipos de risco)",
+     "comentarios_por_alternativa": {
+      "A": "Não é variação de preço.",
+      "B": "Não há inadimplência.",
+      "C": "Falha de sistema/processo.",
+      "D": "Não envolve o Estado emissor.",
+      "E": "Não é descasamento de passivo."
+     },
+     "dispositivo": "Tipos de risco"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Para um RPPS, o risco de os ativos não cobrirem os benefícios futuros é chamado:",
+     "alternativas": {
+      "A": "Risco de evento",
+      "B": "Risco atuarial / de descasamento ativo-passivo",
+      "C": "Risco cambial",
+      "D": "Risco de imagem",
+      "E": "Risco de modelo"
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). Evento é choque pontual. B (correta). Descasamento com o passivo. C (incorreta). Não há moeda estrangeira. D (incorreta). Reputação. E (incorreta). Erro de modelo. (Riscos do RPPS)",
+     "comentarios_por_alternativa": {
+      "A": "Evento é choque pontual.",
+      "B": "Descasamento com o passivo.",
+      "C": "Não há moeda estrangeira.",
+      "D": "Reputação.",
+      "E": "Erro de modelo."
+     },
+     "dispositivo": "Riscos do RPPS"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "A gestão integrada de riscos parte da ideia de que:",
+     "alternativas": {
+      "A": "Cada risco deve ser gerido isoladamente",
+      "B": "O risco total é a soma simples dos riscos",
+      "C": "Correlações entre riscos alteram o risco consolidado",
+      "D": "Só o risco de mercado importa",
+      "E": "Não é preciso limite"
+     },
+     "gabarito": "C",
+     "comentario": "A (incorreta). É a abordagem em silos. B (incorreta). A soma ignora diversificação. C (correta). É o fundamento do ERM. D (incorreta). Há vários riscos. E (incorreta). Limites são essenciais. (ERM)",
+     "comentarios_por_alternativa": {
+      "A": "É a abordagem em silos.",
+      "B": "A soma ignora diversificação.",
+      "C": "É o fundamento do ERM.",
+      "D": "Há vários riscos.",
+      "E": "Limites são essenciais."
+     },
+     "dispositivo": "ERM"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "A gestão de riscos deve ___, medir, controlar e ___ os riscos, com área ___ da gestão.",
+     "opcoes": [
+      "identificar",
+      "reportar",
+      "independente",
+      "eliminar"
+     ],
+     "respostas": [
+      "identificar",
+      "reportar",
+      "independente"
+     ],
+     "explicacao": "Ciclo e governança.",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Mercado",
+       "Oscilação de preços"
+      ],
+      [
+       "Crédito",
+       "Inadimplência do emissor"
+      ],
+      [
+       "Liquidez",
+       "Vender sem afetar preço"
+      ],
+      [
+       "Operacional",
+       "Falha de processo ou sistema"
+      ]
+     ],
+     "explicacao": "",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o ciclo de gestão de riscos.",
+     "itens": [
+      "Identificar",
+      "Medir",
+      "Controlar com limites",
+      "Monitorar e reportar"
+     ],
+     "explicacao": "Ciclo.",
+     "dispositivo": ""
+    }
+   ]
+  }
+ ]
+}

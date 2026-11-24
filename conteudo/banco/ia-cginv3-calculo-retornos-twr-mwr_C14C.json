@@ -1,0 +1,189 @@
+{
+ "assunto": "Medição de desempenho: cálculo de retornos",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 — Claude (C-14-CGINV, frente Claude)",
+ "origem": "2026-11-23_banco-cginv3-calculo-retornos-twr-mwr_C14C_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "cginv3-c14c-retornos",
+   "titulo": "Como medir o retorno: sem e com fluxos, TWR, MWR e anualização",
+   "microconteudo": "RAIO-X DA PROVA: Sem provas públicas do CGINV III para contar incidência. Prioridade pela Onda 1 do Pareto (peso do edital) e pela apostila-parâmetro do CP RPPS (módulo Investimentos, p. 143–176). Tema comum a CGINV I/II/III, DIRIG e CODEF quando o edital repete o ponto.\n\nO QUE A BANCA COBRA:\nCalcular retorno simples, distinguir taxa ponderada pelo tempo (TWR) da ponderada pelo dinheiro (MWR) e anualizar corretamente.\n\nENTENDA:\nMedição de desempenho (performance measurement) é o primeiro passo da avaliação: apurar quanto a carteira rendeu. Depois vêm a atribuição (de onde veio) e a avaliação (se foi bom considerando o risco).\n\nSem fluxos externos: R = (VF − VI) ÷ VI. Retorno total soma ganho de capital e rendimentos recebidos (juros, dividendos): R = (VF − VI + D) ÷ VI.\n\nCom fluxos externos (aportes e resgates), a fórmula simples distorce o resultado, porque o dinheiro novo não é rendimento. Duas soluções:\n• TWR (time-weighted): divide o período em subperíodos a cada fluxo, calcula o retorno de cada um e encadeia: (1+r1)(1+r2)…(1+rn) − 1. Elimina o efeito do tamanho e do momento dos fluxos, que o gestor não controla. É a medida padrão para comparar gestores e fundos (cota).\n• MWR (money-weighted): é a TIR da carteira, a taxa que iguala valor inicial e fluxos ao valor final. Reflete as decisões de quando aportar ou resgatar; mede a experiência do investidor, não a habilidade do gestor.\nExemplo: o gestor ganha 20% num semestre com R$ 1 milhão e perde 10% no seguinte, depois de o RPPS aportar R$ 9 milhões. TWR = 1,2 × 0,9 − 1 = 8%; a MWR fica negativa, porque a perda atingiu muito mais dinheiro.\n\nAnualização: retorno de n anos → (1+R)^(1/n) − 1; retorno mensal médio → (1+rm)^12 − 1. Não se anualiza retorno de período inferior a um ano em relatórios de desempenho, pois projeta um resultado que pode não se repetir.\n\nESQUEMA:\nSimples: (VF − VI)/VI | Total: inclui rendimentos | TWR: encadeia subperíodos, avalia o gestor | MWR: TIR, avalia o investidor | Anualizar: composto, não linear.\n\nPEGADINHAS:\n• \"A MWR é a melhor medida para comparar gestores\" — errado: é a TWR.\n• \"Anualiza-se multiplicando o retorno mensal por 12\" — errado: capitaliza-se.\n• \"Aportes elevam o retorno da carteira\" — errado: fluxo não é rendimento.",
+   "flashcards": [
+    {
+     "frente": "TWR?",
+     "verso": "Encadeia retornos de subperíodos entre fluxos; mede o gestor.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "MWR?",
+     "verso": "TIR da carteira; mede o resultado do investidor, incluindo o momento dos fluxos.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Retorno total?",
+     "verso": "(VF − VI + rendimentos)/VI.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Anualizar 3 anos de 33,1%?",
+     "verso": "(1,331)^(1/3) − 1 = 10% a.a.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Mensal de 1% em taxa anual?",
+     "verso": "(1,01)^12 − 1 ≈ 12,68%.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Por que a cota do fundo usa TWR?",
+     "verso": "Porque neutraliza aplicações e resgates dos cotistas.",
+     "dispositivo": ""
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A taxa ponderada pelo tempo neutraliza o efeito de aportes e resgates, sendo adequada para avaliar o gestor.",
+     "gabarito": "C",
+     "comentario": "Certo. O gestor não controla os fluxos.",
+     "dispositivo": "TWR"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A taxa ponderada pelo dinheiro corresponde à taxa interna de retorno da carteira.",
+     "gabarito": "C",
+     "comentario": "Certo. Por isso reflete o momento dos fluxos.",
+     "dispositivo": "MWR"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Um retorno de 1% ao mês equivale a exatamente 12% ao ano.",
+     "gabarito": "E",
+     "comentario": "Errado. Composto: cerca de 12,68%.",
+     "dispositivo": "Anualização"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "facil",
+     "enunciado": "Carteira começa com R$ 100, recebe R$ 4 de juros e termina com R$ 106. Retorno total:",
+     "alternativas": {
+      "A": "6%",
+      "B": "10%",
+      "C": "4%",
+      "D": "2%",
+      "E": "106%"
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). Ignora os juros. B (correta). (106 − 100 + 4)/100 = 10%. C (incorreta). Só os juros. D (incorreta). Erro de conta. E (incorreta). Confunde valor e retorno. (Retorno total)",
+     "comentarios_por_alternativa": {
+      "A": "Ignora os juros.",
+      "B": "(106 − 100 + 4)/100 = 10%.",
+      "C": "Só os juros.",
+      "D": "Erro de conta.",
+      "E": "Confunde valor e retorno."
+     },
+     "dispositivo": "Retorno total"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Subperíodos com retornos de 10% e −5%. TWR do período:",
+     "alternativas": {
+      "A": "5%",
+      "B": "4,5%",
+      "C": "15%",
+      "D": "5,5%",
+      "E": "−0,5%"
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). Soma simples. B (correta). 1,10 × 0,95 − 1 = 4,5%. C (incorreta). Erro de sinal. D (incorreta). Erro de conta. E (incorreta). Erro de conta. (TWR)",
+     "comentarios_por_alternativa": {
+      "A": "Soma simples.",
+      "B": "1,10 × 0,95 − 1 = 4,5%.",
+      "C": "Erro de sinal.",
+      "D": "Erro de conta.",
+      "E": "Erro de conta."
+     },
+     "dispositivo": "TWR"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "O RPPS aportou muito logo antes de uma queda forte. Em relação à TWR do gestor, a MWR do RPPS tende a ser:",
+     "alternativas": {
+      "A": "Igual",
+      "B": "Maior",
+      "C": "Menor",
+      "D": "Indefinida",
+      "E": "Sempre zero"
+     },
+     "gabarito": "C",
+     "comentario": "A (incorreta). Fluxos tornam as medidas diferentes. B (incorreta). A perda atingiu mais capital. C (correta). Mais dinheiro exposto à queda reduz a MWR. D (incorreta). É calculável. E (incorreta). Sem fundamento. (TWR x MWR)",
+     "comentarios_por_alternativa": {
+      "A": "Fluxos tornam as medidas diferentes.",
+      "B": "A perda atingiu mais capital.",
+      "C": "Mais dinheiro exposto à queda reduz a MWR.",
+      "D": "É calculável.",
+      "E": "Sem fundamento."
+     },
+     "dispositivo": "TWR x MWR"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Para avaliar o ___ usa-se a TWR; para avaliar o resultado do ___ usa-se a MWR.",
+     "opcoes": [
+      "gestor",
+      "investidor",
+      "benchmark"
+     ],
+     "respostas": [
+      "gestor",
+      "investidor"
+     ],
+     "explicacao": "Quem controla os fluxos.",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "TWR",
+       "Encadeia subperíodos"
+      ],
+      [
+       "MWR",
+       "TIR"
+      ],
+      [
+       "Retorno total",
+       "Inclui rendimentos"
+      ],
+      [
+       "Anualização",
+       "Capitalização composta"
+      ]
+     ],
+     "explicacao": "",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o cálculo da TWR.",
+     "itens": [
+      "Separar subperíodos nos fluxos",
+      "Calcular o retorno de cada subperíodo",
+      "Somar 1 a cada retorno e multiplicar",
+      "Subtrair 1"
+     ],
+     "explicacao": "Encadeamento.",
+     "dispositivo": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,191 @@
+{
+ "assunto": "Medidas de desempenho ajustadas ao risco",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 — Claude (C-14-CGINV, frente Claude)",
+ "origem": "2026-11-23_banco-cginv3-sharpe-treynor-jensen-ir-m2_C14C_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "cginv3-c14c-indices-desempenho",
+   "titulo": "Sharpe, Treynor, alfa de Jensen, Information Ratio, tracking error e M²",
+   "microconteudo": "RAIO-X DA PROVA: Sem provas públicas do CGINV III para contar incidência. Prioridade pela Onda 1 do Pareto (peso do edital) e pela apostila-parâmetro do CP RPPS (módulo Investimentos, p. 143–176). Tema comum a CGINV I/II/III, DIRIG e CODEF quando o edital repete o ponto.\n\nO QUE A BANCA COBRA:\nFórmulas, qual risco cada índice usa e quando cada um é adequado. Cálculos simples são frequentes.\n\nENTENDA:\nAvaliação (performance appraisal) responde se o retorno compensou o risco.\n• Índice de Sharpe = (Rp − Rf) ÷ σp. Usa risco total; adequado quando a carteira é todo o patrimônio do investidor (não diversificado). Quanto maior, melhor.\n• Índice de Treynor = (Rp − Rf) ÷ βp. Usa só o risco sistemático; adequado para carteiras que são parte de um conjunto diversificado.\n• Alfa de Jensen = Rp − [Rf + βp(Rm − Rf)]. Retorno acima do previsto pelo CAPM; alfa positivo indica geração de valor.\n• Tracking error (TE) = desvio-padrão das diferenças de retorno entre carteira e benchmark; mede o risco ativo.\n• Information Ratio (IR) = (Rp − Rb) ÷ TE. Excesso de retorno sobre o benchmark por unidade de risco ativo; mede consistência do gestor ativo.\n• M² (Modigliani) = Rf + Sharpe_p × σm. Converte o Sharpe em retorno percentual na mesma volatilidade do mercado, permitindo comparar diretamente com o retorno do mercado; ordena igual ao Sharpe.\n\nExemplo: Rp = 14%, Rf = 10%, σp = 8%, βp = 0,8 → Sharpe = 0,5; Treynor = 5%.\n\nESQUEMA:\nSharpe: σ total | Treynor: β | Jensen: retorno − CAPM | IR: excesso sobre benchmark / TE | M²: Sharpe em % com σ do mercado.\n\nPEGADINHAS:\n• \"Treynor usa desvio-padrão\" — errado: usa beta.\n• \"Tracking error alto é sempre ruim\" — depende do mandato; gestão passiva pede TE baixo.\n• \"M² pode ordenar diferente do Sharpe\" — errado: ordena igual.",
+   "flashcards": [
+    {
+     "frente": "Sharpe?",
+     "verso": "(Rp − Rf)/σp.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Treynor?",
+     "verso": "(Rp − Rf)/βp.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Alfa de Jensen?",
+     "verso": "Rp − [Rf + β(Rm − Rf)].",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Tracking error?",
+     "verso": "Desvio-padrão da diferença de retornos carteira − benchmark.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Information Ratio?",
+     "verso": "(Rp − Rb)/TE.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "M²?",
+     "verso": "Rf + Sharpe × σm.",
+     "dispositivo": ""
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O índice de Treynor utiliza o beta como medida de risco, sendo adequado para carteiras inseridas em patrimônio diversificado.",
+     "gabarito": "C",
+     "comentario": "Certo.",
+     "dispositivo": "Treynor"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O Information Ratio divide o excesso de retorno sobre o benchmark pelo desvio-padrão total da carteira.",
+     "gabarito": "E",
+     "comentario": "Errado. Divide pelo tracking error.",
+     "dispositivo": "IR"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O índice M² ordena as carteiras da mesma forma que o índice de Sharpe.",
+     "gabarito": "C",
+     "comentario": "Certo. É transformação do Sharpe.",
+     "dispositivo": "M²"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "facil",
+     "enunciado": "Rp = 15%, Rf = 9%, σp = 12%. Sharpe:",
+     "alternativas": {
+      "A": "1,25",
+      "B": "0,5",
+      "C": "0,75",
+      "D": "0,6",
+      "E": "6%"
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). Ignora Rf. B (correta). (15 − 9)/12 = 0,5. C (incorreta). Erro de conta. D (incorreta). Erro de conta. E (incorreta). É o prêmio, não o índice. (Sharpe)",
+     "comentarios_por_alternativa": {
+      "A": "Ignora Rf.",
+      "B": "(15 − 9)/12 = 0,5.",
+      "C": "Erro de conta.",
+      "D": "Erro de conta.",
+      "E": "É o prêmio, não o índice."
+     },
+     "dispositivo": "Sharpe"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Rp = 14%, Rf = 10%, Rm = 13%, β = 1,2. Alfa de Jensen:",
+     "alternativas": {
+      "A": "+0,4%",
+      "B": "+1%",
+      "C": "−0,4%",
+      "D": "+4%",
+      "E": "+3,6%"
+     },
+     "gabarito": "A",
+     "comentario": "A (correta). CAPM: 10 + 1,2·3 = 13,6; alfa = 14 − 13,6 = 0,4%. B (incorreta). Usa β = 1. C (incorreta). Erro de sinal. D (incorreta). É Rp − Rf. E (incorreta). É o prêmio esperado. (Jensen)",
+     "comentarios_por_alternativa": {
+      "A": "CAPM: 10 + 1,2·3 = 13,6; alfa = 14 − 13,6 = 0,4%.",
+      "B": "Usa β = 1.",
+      "C": "Erro de sinal.",
+      "D": "É Rp − Rf.",
+      "E": "É o prêmio esperado."
+     },
+     "dispositivo": "Jensen"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Para comparar a consistência de gestores ativos de fundos IMA-B, a medida mais adequada é:",
+     "alternativas": {
+      "A": "Sharpe",
+      "B": "Information Ratio",
+      "C": "Beta isolado",
+      "D": "Retorno absoluto",
+      "E": "Volatilidade"
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). Não considera o benchmark. B (correta). Mede excesso sobre o benchmark por risco ativo. C (incorreta). Beta não mede desempenho. D (incorreta). Ignora risco. E (incorreta). Ignora retorno. (IR)",
+     "comentarios_por_alternativa": {
+      "A": "Não considera o benchmark.",
+      "B": "Mede excesso sobre o benchmark por risco ativo.",
+      "C": "Beta não mede desempenho.",
+      "D": "Ignora risco.",
+      "E": "Ignora retorno."
+     },
+     "dispositivo": "IR"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Sharpe usa risco ___; Treynor usa ___; IR usa o ___.",
+     "opcoes": [
+      "total",
+      "beta",
+      "tracking error",
+      "VaR"
+     ],
+     "respostas": [
+      "total",
+      "beta",
+      "tracking error"
+     ],
+     "explicacao": "Medida de risco de cada índice.",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Sharpe",
+       "Risco total"
+      ],
+      [
+       "Treynor",
+       "Beta"
+      ],
+      [
+       "Jensen",
+       "Retorno acima do CAPM"
+      ],
+      [
+       "IR",
+       "Excesso sobre benchmark / TE"
+      ]
+     ],
+     "explicacao": "",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o cálculo do alfa de Jensen.",
+     "itens": [
+      "Calcular o prêmio de mercado",
+      "Multiplicar pelo beta",
+      "Somar Rf (retorno exigido)",
+      "Subtrair do retorno da carteira"
+     ],
+     "explicacao": "Jensen.",
+     "dispositivo": ""
+    }
+   ]
+  }
+ ]
+}

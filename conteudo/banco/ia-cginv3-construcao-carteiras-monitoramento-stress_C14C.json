@@ -1,0 +1,189 @@
+{
+ "assunto": "Gestão de investimentos e risco: construção, monitoramento e estresse",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 — Claude (C-14-CGINV, frente Claude)",
+ "origem": "2026-11-23_banco-cginv3-construcao-carteiras-monitoramento-stress_C14C_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "cginv3-c14c-carteira-stress",
+   "titulo": "Construção de carteiras, monitoramento de risco e testes de estresse",
+   "microconteudo": "RAIO-X DA PROVA: Sem provas públicas do CGINV III para contar incidência. Prioridade pela Onda 1 do Pareto (peso do edital) e pela apostila-parâmetro do CP RPPS (módulo Gestão de Risco, p. 177–185). Tema comum a CGINV I/II/III, DIRIG e CODEF quando o edital repete o ponto.\n\nO QUE A BANCA COBRA:\nComo risco e retorno se integram na construção da carteira, como monitorar e o que diferencia teste de estresse de análise de cenário.\n\nENTENDA:\nGestão de investimentos e de risco são complementares: a política de investimentos define objetivo (meta atuarial), restrições (legais, liquidez, prazo) e apetite a risco; a construção da carteira escolhe a alocação que maximiza retorno esperado dentro desse risco, considerando correlações e o passivo (ALM).\n\nConstrução: definir classes e limites, estimar retorno, risco e correlação, otimizar (fronteira eficiente), aplicar restrições legais e de liquidez, distribuir o orçamento de risco entre classes e gestores, rebalancear quando os pesos se desviam das bandas.\n\nMonitoramento e medição: acompanhar periodicamente VaR, volatilidade, tracking error, duration, concentração, liquidez e enquadramento legal; comparar retorno com benchmark e meta; reportar desenquadramentos e excessos de limite ao comitê com plano de ação.\n\nStress testing: avalia a perda sob choques extremos, porém plausíveis, que estão na cauda que o VaR não captura. Pode usar cenários históricos (crise de 2008, pandemia de 2020) ou hipotéticos (alta abrupta de juros, desvalorização cambial). Análise de cenário projeta a carteira em conjuntos coerentes de variáveis (base, otimista, pessimista). Testes de estresse reversos partem de uma perda inaceitável e buscam os cenários que a produziriam.\n\nESQUEMA:\nPolítica → construção (otimização + restrições + orçamento de risco) → monitoramento (VaR, TE, duration, liquidez, enquadramento) → estresse (caudas) → rebalanceamento.\n\nPEGADINHAS:\n• \"Stress test substitui o VaR\" — errado: complementa, cobrindo a cauda.\n• \"Rebalancear só no fim do ano\" — depende da política; bandas de tolerância disparam o rebalanceamento.\n• \"Análise de cenário usa só choques extremos\" — usa cenários coerentes, inclusive base.",
+   "flashcards": [
+    {
+     "frente": "Stress test?",
+     "verso": "Perda sob choques extremos plausíveis, na cauda.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Estresse reverso?",
+     "verso": "Parte da perda inaceitável e busca os cenários que a causariam.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Cenário histórico x hipotético?",
+     "verso": "Repete crise real x choque construído.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "O que se monitora?",
+     "verso": "VaR, volatilidade, TE, duration, concentração, liquidez, enquadramento.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Rebalanceamento?",
+     "verso": "Voltar aos pesos-alvo quando superadas bandas de tolerância.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "ALM?",
+     "verso": "Gestão integrada de ativos e passivo.",
+     "dispositivo": ""
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Os testes de estresse complementam o VaR por avaliar perdas em cenários extremos não capturados pelo nível de confiança.",
+     "gabarito": "C",
+     "comentario": "Certo.",
+     "dispositivo": "Stress testing"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O teste de estresse reverso parte de cenário definido e calcula a perda resultante.",
+     "gabarito": "E",
+     "comentario": "Errado. Parte da perda e busca o cenário.",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Desenquadramentos identificados no monitoramento devem ser reportados ao comitê com plano de ação.",
+     "gabarito": "C",
+     "comentario": "Certo. Boa governança.",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "facil",
+     "enunciado": "Repetir na carteira atual os movimentos de mercado de março de 2020 é exemplo de:",
+     "alternativas": {
+      "A": "Backtesting",
+      "B": "Estresse com cenário histórico",
+      "C": "VaR paramétrico",
+      "D": "Estresse reverso",
+      "E": "Atribuição"
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). Compara VaR com perdas. B (correta). Usa crise real como cenário. C (incorreta). É medida estatística normal. D (incorreta). Parte da perda. E (incorreta). Explica desempenho. (Stress testing)",
+     "comentarios_por_alternativa": {
+      "A": "Compara VaR com perdas.",
+      "B": "Usa crise real como cenário.",
+      "C": "É medida estatística normal.",
+      "D": "Parte da perda.",
+      "E": "Explica desempenho."
+     },
+     "dispositivo": "Stress testing"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Etapa que distribui o risco total permitido entre classes e gestores:",
+     "alternativas": {
+      "A": "Backtesting",
+      "B": "Orçamento de risco",
+      "C": "Atribuição macro",
+      "D": "Anualização",
+      "E": "Credenciamento"
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). Valida modelos. B (correta). Define quanto risco cada parte pode consumir. C (incorreta). Avalia decisões. D (incorreta). Converte retornos. E (incorreta). Habilita instituições. (Orçamento de risco)",
+     "comentarios_por_alternativa": {
+      "A": "Valida modelos.",
+      "B": "Define quanto risco cada parte pode consumir.",
+      "C": "Avalia decisões.",
+      "D": "Converte retornos.",
+      "E": "Habilita instituições."
+     },
+     "dispositivo": "Orçamento de risco"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Renda variável do RPPS subiu de 15% para 22% da carteira por valorização, acima da banda da política. Medida típica:",
+     "alternativas": {
+      "A": "Ignorar até dezembro",
+      "B": "Rebalancear para a faixa da política",
+      "C": "Aumentar a banda",
+      "D": "Vender toda a renda variável",
+      "E": "Trocar o benchmark"
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). Contraria a política. B (correta). Rebalanceamento por bandas. C (incorreta). Só por revisão formal da política. D (incorreta). Exagero. E (incorreta). Não resolve o desvio. (Rebalanceamento)",
+     "comentarios_por_alternativa": {
+      "A": "Contraria a política.",
+      "B": "Rebalanceamento por bandas.",
+      "C": "Só por revisão formal da política.",
+      "D": "Exagero.",
+      "E": "Não resolve o desvio."
+     },
+     "dispositivo": "Rebalanceamento"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O ___ cobre a cauda que o VaR não mede; o ___ reverso parte da perda inaceitável.",
+     "opcoes": [
+      "stress test",
+      "estresse",
+      "backtesting"
+     ],
+     "respostas": [
+      "stress test",
+      "estresse"
+     ],
+     "explicacao": "Estresse.",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Política",
+       "Objetivo e apetite"
+      ],
+      [
+       "Construção",
+       "Otimização e restrições"
+      ],
+      [
+       "Monitoramento",
+       "VaR, TE, liquidez"
+      ],
+      [
+       "Rebalanceamento",
+       "Volta às bandas"
+      ]
+     ],
+     "explicacao": "",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o ciclo de gestão.",
+     "itens": [
+      "Política de investimentos",
+      "Construção da carteira",
+      "Monitoramento e estresse",
+      "Rebalanceamento"
+     ],
+     "explicacao": "Ciclo integrado.",
+     "dispositivo": ""
+    }
+   ]
+  }
+ ]
+}

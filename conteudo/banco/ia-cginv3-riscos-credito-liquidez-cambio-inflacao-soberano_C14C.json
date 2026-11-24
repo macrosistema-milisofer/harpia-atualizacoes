@@ -1,0 +1,191 @@
+{
+ "assunto": "Riscos de crédito, liquidez, câmbio, inflação, volatilidade, evento e soberano",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-23 — Claude (C-14-CGINV, frente Claude)",
+ "origem": "2026-11-23_banco-cginv3-riscos-credito-liquidez-cambio-inflacao-soberano_C14C_v1.json (versão de teste)",
+ "licoes": [
+  {
+   "id": "cginv3-c14c-outros-riscos",
+   "titulo": "Crédito, liquidez, câmbio, inflação, volatilidade, evento e soberano",
+   "microconteudo": "RAIO-X DA PROVA: Sem provas públicas do CGINV III para contar incidência. Prioridade pela Onda 1 do Pareto (peso do edital) e pela apostila-parâmetro do CP RPPS (módulo Gestão de Risco, p. 177–185). Tema comum a CGINV I/II/III, DIRIG e CODEF quando o edital repete o ponto.\n\nO QUE A BANCA COBRA:\nReconhecer cada risco num caso concreto e saber a ferramenta típica de controle.\n\nENTENDA:\nCrédito: emissor ou contraparte não paga (default) ou piora sua qualidade (rebaixamento de rating, alargamento de spread, que derruba o preço). Controle: análise de crédito, rating, limites por emissor, garantias e diversificação. Perda esperada = probabilidade de default × exposição × (1 − recuperação).\nLiquidez: de mercado (não vender sem forte desconto; ativos pouco negociados, mercados estressados) e de fluxo de caixa (não ter recursos para pagar benefícios). Controle: casar prazos de resgate e carência dos fundos com o fluxo do passivo, manter reserva de liquidez, acompanhar volume negociado. Fundos fechados e de prazo longo de resgate concentram esse risco.\nCâmbio: variação da moeda estrangeira afeta ativos no exterior e BDRs; controle com hedge cambial ou limites.\nInflação: perda de poder de compra; títulos prefixados sofrem com inflação acima do esperado; o passivo do RPPS é corrigido pela inflação, por isso NTN-B ajuda a casar ativo e passivo.\nVolatilidade: mudança no nível da volatilidade afeta preço de opções e de estratégias que dependem dela.\nEvento: choques pontuais e difíceis de prever (fusão, desastre, decisão judicial, mudança regulatória) que alteram o valor de um ativo; tratado por diversificação e testes de estresse.\nSoberano: risco de o governo não honrar dívida ou impor controles (moratória, restrição cambial); afeta títulos públicos e todo o mercado do país; medido pelo rating soberano e pelo CDS.\n\nESQUEMA:\nCrédito → rating, limites, garantia | Liquidez → casamento de prazos e reserva | Câmbio → hedge | Inflação → indexação (NTN-B) | Evento → diversificação e estresse | Soberano → rating/CDS do país.\n\nPEGADINHAS:\n• \"Rebaixamento de rating sem default não gera perda\" — errado: derruba o preço a mercado.\n• \"Liquidez é só ter caixa\" — também é poder vender sem desconto relevante.\n• \"Título público federal não tem risco algum\" — tem risco de mercado e soberano, embora mínimo de crédito em moeda local.",
+   "flashcards": [
+    {
+     "frente": "Perda esperada de crédito?",
+     "verso": "PD × exposição × (1 − taxa de recuperação).",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Liquidez de mercado x de caixa?",
+     "verso": "Vender sem desconto x pagar obrigações.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Proteção natural contra inflação no RPPS?",
+     "verso": "Títulos indexados ao IPCA (NTN-B).",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Risco de evento?",
+     "verso": "Choque pontual imprevisível que altera valor de ativos.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Medidas de risco soberano?",
+     "verso": "Rating soberano e CDS do país.",
+     "dispositivo": ""
+    },
+    {
+     "frente": "Controle típico do risco de crédito?",
+     "verso": "Rating, limites por emissor, garantias, diversificação.",
+     "dispositivo": ""
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O rebaixamento do rating de um emissor pode causar perda a mercado mesmo sem inadimplência.",
+     "gabarito": "C",
+     "comentario": "Certo. O spread sobe e o preço cai.",
+     "dispositivo": "Risco de crédito"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Aplicar parcela relevante em fundos com resgate em 720 dias aumenta o risco de liquidez do RPPS.",
+     "gabarito": "C",
+     "comentario": "Certo. Recursos ficam indisponíveis.",
+     "dispositivo": "Risco de liquidez"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Títulos prefixados protegem o RPPS contra inflação acima do esperado.",
+     "gabarito": "E",
+     "comentario": "Errado. Perdem poder de compra; indexados protegem.",
+     "dispositivo": "Risco de inflação"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "PD = 2%, exposição R$ 10 milhões, recuperação 40%. Perda esperada:",
+     "alternativas": {
+      "A": "R$ 200 mil",
+      "B": "R$ 120 mil",
+      "C": "R$ 80 mil",
+      "D": "R$ 4 milhões",
+      "E": "R$ 6 milhões"
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). Ignora a recuperação. B (correta). 0,02 × 10 mi × 0,6 = 120 mil. C (incorreta). Usou a recuperação no lugar da perda. D (incorreta). Erro de escala. E (incorreta). Sem fundamento. (Perda esperada)",
+     "comentarios_por_alternativa": {
+      "A": "Ignora a recuperação.",
+      "B": "0,02 × 10 mi × 0,6 = 120 mil.",
+      "C": "Usou a recuperação no lugar da perda.",
+      "D": "Erro de escala.",
+      "E": "Sem fundamento."
+     },
+     "dispositivo": "Perda esperada"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "facil",
+     "enunciado": "Decisão judicial inesperada derruba as ações de uma companhia. É risco:",
+     "alternativas": {
+      "A": "Soberano",
+      "B": "De evento",
+      "C": "Cambial",
+      "D": "De reinvestimento",
+      "E": "Atuarial"
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). Não envolve o Estado devedor. B (correta). Choque pontual imprevisível. C (incorreta). Não há moeda. D (incorreta). Não há cupons. E (incorreta). Não é passivo. (Risco de evento)",
+     "comentarios_por_alternativa": {
+      "A": "Não envolve o Estado devedor.",
+      "B": "Choque pontual imprevisível.",
+      "C": "Não há moeda.",
+      "D": "Não há cupons.",
+      "E": "Não é passivo."
+     },
+     "dispositivo": "Risco de evento"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "facil",
+     "enunciado": "Ferramenta mais adequada contra risco cambial de um fundo global:",
+     "alternativas": {
+      "A": "Rating",
+      "B": "Hedge cambial",
+      "C": "Duration",
+      "D": "Backtesting",
+      "E": "Benchmark CDI"
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). Mede crédito. B (correta). Neutraliza variação da moeda. C (incorreta). Mede juros. D (incorreta). Valida modelos. E (incorreta). Não protege câmbio. (Risco cambial)",
+     "comentarios_por_alternativa": {
+      "A": "Mede crédito.",
+      "B": "Neutraliza variação da moeda.",
+      "C": "Mede juros.",
+      "D": "Valida modelos.",
+      "E": "Não protege câmbio."
+     },
+     "dispositivo": "Risco cambial"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Contra inflação usam-se títulos ___; contra câmbio, ___; contra crédito, limites por ___.",
+     "opcoes": [
+      "indexados",
+      "hedge",
+      "emissor",
+      "prefixados"
+     ],
+     "respostas": [
+      "indexados",
+      "hedge",
+      "emissor"
+     ],
+     "explicacao": "Controles.",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Crédito",
+       "Default ou rebaixamento"
+      ],
+      [
+       "Soberano",
+       "Moratória do governo"
+      ],
+      [
+       "Evento",
+       "Choque pontual"
+      ],
+      [
+       "Volatilidade",
+       "Afeta opções"
+      ]
+     ],
+     "explicacao": "",
+     "dispositivo": ""
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o controle de liquidez.",
+     "itens": [
+      "Projetar fluxo de benefícios",
+      "Mapear prazos de resgate dos ativos",
+      "Definir reserva de liquidez",
+      "Monitorar e ajustar"
+     ],
+     "explicacao": "Casamento de prazos.",
+     "dispositivo": ""
+    }
+   ]
+  }
+ ]
+}
