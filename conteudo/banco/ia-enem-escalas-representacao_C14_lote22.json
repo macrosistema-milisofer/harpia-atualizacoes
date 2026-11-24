@@ -1,0 +1,258 @@
+{
+ "assunto": "ENEM 2026 — Matemática — Escalas, unidades de medida e leitura de representações",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-24",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-escalas-representacao-c14",
+   "titulo": "Escalas, unidades de medida e leitura de representações",
+   "microconteudo": "RAIO-X DA PROVA: Triagem dirigida nos cadernos azuis regulares do Inep de 2021 a 2025 confirmou 4 de 225 itens de Matemática (1,78% como mínimo observado). Os quatro itens identificados abordam escala numérica em planta residencial (2022), malha de instrumento de voo (2023), área de vão em maquete arquitetônica (2024) e ampliação de desenho para obra (2025). A recorrência atravessa leitura gráfica, proporcionalidade e conversão de unidades; é útil dominar a razão linear antes de enfrentar área e volume.\n\nPOR QUE IMPORTA:\nEscalas permitem ler plantas, mapas, maquetes e gráficos de instrumentos, convertendo uma representação reduzida em uma medida real. Nos cadernos regulares analisados, esse raciocínio apareceu em questões de anos distintos; na vida cotidiana, serve para planejar reformas, conferir distâncias e avaliar dimensões antes de construir ou comprar.\n\nO QUE A BANCA COBRA:\nA questão costuma esconder a conta principal dentro de um contexto: é preciso identificar o que significa a razão, manter unidades compatíveis e converter o resultado para a unidade solicitada. Quando a grandeza é comprimento, a razão atua linearmente; quando se pergunta área ou volume, o fator precisa ser elevado ao quadrado ou ao cubo. Figuras, malhas e números com unidades diferentes são comuns.\n\nENTENDA:\nUma escala compara uma medida feita no desenho com a medida correspondente no objeto representado. Na forma numérica 1:n, uma unidade de comprimento no desenho corresponde a n unidades de comprimento no real. A regra só funciona diretamente quando as duas medidas estão expressas na mesma unidade. Assim, escala 1:50 significa que 1 cm no papel representa 50 cm no objeto; significa também que 1 mm representa 50 mm. A escala não determina por si só se a medida final será expressa em centímetros, metros ou quilômetros: essa conversão vem depois.\n\nO primeiro passo é separar três informações: a medida observada na representação, o fator de escala e a unidade pedida. Por exemplo, uma parede mede 6,4 cm numa planta em escala 1:75. Como 1 cm na planta corresponde a 75 cm reais, o comprimento real é 6,4 × 75 = 480 cm. A conversão final fornece 4,8 m. Um erro comum seria multiplicar por 75 e registrar 480 m, esquecendo que a unidade inicial era centímetro.\n\nA razão também pode ser escrita como fração. Na escala 1:200, a fração desenho/real é 1/200. Logo, uma distância real de 14 m deve ser comparada com 1 400 cm: 1 400 ÷ 200 = 7 cm no desenho. Em escalas pequenas, como mapas regionais, um centímetro pode representar dezenas ou centenas de metros. Em escalas grandes, como plantas de interiores, o denominador costuma ser menor e os detalhes aparecem com mais clareza. Essa nomenclatura depende da quantidade de território mostrada: uma escala 1:5 000 tem escala cartográfica maior que 1:100 000, pois o denominador é menor.\n\nA proporcionalidade precisa conservar a mesma orientação. Uma forma segura de montar a relação é escrever desenho/real = 1/n. Se o desenho mede d e a medida real é r, então d/r = 1/n. Daí r = n·d ou d = r/n. Antes de calcular, transforme d e r para uma unidade comum. Uma distância de 3,5 cm na planta em escala 1:20 000 representa 70 000 cm. Como 100 cm formam 1 m, são 700 m. Como 1 000 m formam 1 km, são 0,7 km. O valor não muda, mas sua expressão depende da unidade escolhida.\n\nEm levantamentos com malha quadriculada, não se deve confundir a medida de um segmento com o número de quadradinhos atravessados. Se cada quadrado mede 0,5 cm e o segmento ocupa 12 quadrados, a medida desenhada é 6 cm. Só então se aplica a escala. Para uma representação 1:25 000, isso corresponde a 150 000 cm, ou 1,5 km. Quando o percurso é sinuoso, é necessário medir o traçado com uma linha flexível ou somar pequenos segmentos; medir apenas a distância entre os extremos produz a distância em linha reta, que pode ser diferente do trajeto.\n\nA mudança de escala afeta comprimentos e dimensões lineares pelo mesmo fator. Se uma maquete está na escala 1:100, uma altura real de 8 m aparece como 8 cm: converta primeiro 8 m para 800 cm, depois divida por 100. Se a maquete for ampliada de 1:100 para 1:50, suas dimensões lineares duplicam, pois cada centímetro passa a representar metade do comprimento real. Ampliar o desenho não altera o objeto; altera apenas a correspondência entre papel e realidade.\n\nÁreas exigem atenção especial porque combinam duas dimensões. Quando o fator linear desenho/real é 1/n, o fator entre áreas é 1/n². Imagine uma praça quadrada com lado real de 20 m representada em escala 1:100. O lado no desenho é 20 cm. A área real é 400 m²; a área correspondente no desenho é 400 cm². Para comparar diretamente as áreas, é preciso converter 400 m² para 4 000 000 cm². A razão 400/4 000 000 é 1/10 000, isto é, 1/100². Dividir a área por 100 seria incorreto, pois 100 é o fator linear, não o de área.\n\nO mesmo princípio se estende ao volume: uma redução linear de 1/n corresponde a uma redução volumétrica de 1/n³. Um cubo de 2 m de aresta, na escala 1:10, aparece com aresta de 20 cm. O volume real é 8 m³ e o volume do modelo é 8 000 cm³. Para comparar em uma única unidade, 8 m³ equivalem a 8 000 000 cm³; a razão é 1/1 000, igual a 1/10³. Modelos físicos, embalagens e protótipos tornam essa diferença importante: reduzir as dimensões à décima parte reduz o volume à milésima parte.\n\nHá situações em que a escala não vem escrita como 1:n, mas precisa ser inferida. Se uma maquete de 12 cm representa uma estrutura de 30 m, primeiro transforme 30 m em 3 000 cm. A razão 12:3 000 simplifica para 1:250. Em outro caso, um mapa indica que uma barra de 4 cm equivale a 10 km. Cada centímetro representa 2,5 km. A barra pode ser usada como escala gráfica mesmo que a imagem tenha sido redimensionada, desde que a própria barra acompanhe a reprodução. Já uma escala numérica impressa pode deixar de representar o tamanho correto se a página for ampliada ou reduzida sem atualizar a indicação.\n\nA conversão de unidades deve respeitar o sistema métrico. Entre unidades consecutivas de comprimento — km, hm, dam, m, dm, cm, mm — cada passo muda por fator 10. Para área, a mudança por passo é 100; para volume, 1 000. É possível evitar erros escrevendo os fatores de conversão como frações: 1 m/100 cm ou 100 cm/1 m, escolhendo a orientação que cancela a unidade inicial. Por exemplo, 2,4 km × 1 000 m/1 km = 2 400 m. Unidades quadradas exigem fator ao quadrado: 1 m² = 10 000 cm², não 100 cm².\n\nSe uma questão combinar escala e uma condição prática, aplique a regra em etapas. Uma pessoa precisa comprar uma estante que caiba num nicho representado por 4,2 cm de largura em escala 1:50. A largura real máxima é 210 cm. Se o fabricante exigir 5 cm livres de cada lado, o móvel pode ter no máximo 200 cm. A escala resolve a conversão; a folga é uma segunda condição, que deve ser subtraída depois. Misturar a margem de segurança antes de converter pode levar a operar com centímetros do papel e centímetros reais na mesma expressão.\n\nPor fim, confira se o resultado faz sentido. Numa escala de redução 1:10 000, o objeto real deve ser maior do que sua representação; se uma medida de mapa de 2 cm resultar em 2 mm no terreno, houve provável inversão da razão. Confira também a ordem de grandeza: uma sala não tem centenas de quilômetros de largura e um mapa regional não costuma representar um trajeto de poucos milímetros. A prova recompensa uma sequência curta e controlada: identificar a escala, uniformizar unidades, aplicar a razão, converter a resposta e verificar o tamanho obtido.\n\nQuando o enunciado fornece uma barra gráfica, trate-a como uma comparação visual com comprimentos proporcionais. Se a barra desenhada de 2 cm corresponde a 5 km, uma estrada representada por 7 cm mede 17,5 km. A razão pode ser obtida por unidade: cada centímetro vale 2,5 km. Se uma cópia impressa for ampliada em 150%, a barra também cresce em 150%, e a leitura permanece válida. A escala numérica “1:250 000” associada à mesma cópia, porém, exigiria ajuste, pois seus centímetros físicos mudaram. Em questões com reprodução digital, observe se o item informa uma dimensão de referência ou se apresenta uma barra que acompanha o redimensionamento. Essa distinção evita aplicar um fator correto a uma figura que já não conserva o tamanho original.\n\nTROCANDO EM MIÚDOS:\nPense na escala como uma receita que diz quantas vezes o desenho foi encolhido ou aumentado. Em 1:50, cada 1 cm do papel vale 50 cm na vida real. Se uma mesa mede 3 cm na planta, ela mede 3 × 50 = 150 cm, ou 1,5 m. Primeiro multiplique pelo número da escala; depois transforme a unidade para aquela que a pergunta quer.\n\nA parte mais importante é não misturar unidades. Se a planta está em centímetros e o resultado pedido é em metros, a conta fica mais segura assim: 3 cm × 50 = 150 cm; 150 cm ÷ 100 = 1,5 m. O número 50 não quer dizer 50 metros; ele quer dizer 50 vezes a mesma unidade que você mediu no desenho.\n\nPara achar a medida no desenho, faça o caminho inverso. Uma estrada de 2 km, mostrada num mapa de escala 1:100 000, mede 2 km = 200 000 cm no mundo real. Divida 200 000 por 100 000 e o mapa mostrará 2 cm. Desenho pequeno corresponde a distância real grande porque o mapa foi reduzido.\n\nÁreas e volumes pedem uma regra extra. Se cada lado fica 10 vezes menor, a área fica 100 vezes menor porque há dois lados; o volume fica 1 000 vezes menor porque há três dimensões. Para não decorar sem entender, imagine um quadrado dividido em 10 partes em cada lado: aparecem 10 × 10 = 100 quadradinhos. Num cubo há mais uma direção: 10 × 10 × 10 = 1 000 cubinhos.\n\nUse esta ordem toda vez: anote a medida dada; marque se é desenho ou realidade; coloque as duas medidas na mesma unidade; multiplique ou divida pelo fator; converta a unidade final; pergunte se o tamanho parece plausível. Se houver espaço livre exigido, área, volume ou outro detalhe, trate isso depois da conversão principal. Marque cada etapa no papel para não perder a unidade.\n\nLEI SECA:\n“Utilizar a noção de escalas na leitura de representação de situação do cotidiano.” — Matriz de Referência de Matemática e suas Tecnologias, H11, Inep.\n“Identificar relações entre grandezas e unidades de medida.” — Matriz de Referência de Matemática e suas Tecnologias, H10, Inep.\n\nSÚMULAS E TESES:\nNão se aplicam súmulas ou teses jurisprudenciais a este conteúdo matemático. A competência avaliada é a leitura proporcional de representações e medidas.\n\nESQUEMA:\n• Escala numérica 1:n → desenho/real = 1/n.\n• Medida real = medida do desenho × n; medida do desenho = medida real ÷ n.\n• Comprimento: fator n; área: fator n²; volume: fator n³.\n• Sempre iguale as unidades antes da razão e converta a unidade final depois.\n• Escala gráfica: barra e medida devem aumentar ou reduzir juntas.\n• Finalize com uma verificação de ordem de grandeza.\n\nPEGADINHAS:\n• Multiplicar por n antes de converter, mas anotar o resultado como se já estivesse em metros.\n• Inverter desenho/real e dividir uma distância do desenho pelo fator.\n• Aplicar n diretamente à área ou ao volume, sem elevar ao quadrado ou cubo.\n• Confundir número de quadradinhos com medida do segmento na malha.\n• Ignorar que uma escala numérica impressa pode ficar incorreta após redimensionamento da página.\n• Subtrair folgas reais de medidas ainda expressas no desenho.\n\nDOUTRINA:\nA leitura de escala é um caso de proporcionalidade entre grandezas, acompanhado de conversão dimensional. A abordagem didática deve fazer o estudante explicitar quais unidades se cancelam antes de operar, para que a razão deixe de ser uma regra mecânica. Para revisão de razão, proporção e unidades, consulte OpenStax, Prealgebra 2e, capítulos sobre razões, taxas e proporções, edição on-line aberta.\n\nNA PRÁTICA:\nUma arquiteta mede 5,6 cm numa planta na escala 1:75. O móvel precisa deixar 12 cm de folga em cada lado. Converta primeiro: 5,6 × 75 = 420 cm. Retire duas folgas: 420 − 24 = 396 cm, ou 3,96 m. Logo, a largura máxima do móvel é 3,96 m, antes de considerar tolerâncias construtivas adicionais.",
+   "flashcards": [
+    {
+     "frente": "Na escala 1:n, quanto mede na realidade um segmento de d centímetros no desenho?",
+     "verso": "d × n centímetros; converta depois para a unidade pedida.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática e suas Tecnologias 2.5"
+    },
+    {
+     "frente": "O que deve ser feito antes de comparar a medida do desenho com a medida real?",
+     "verso": "Expressar ambas na mesma unidade.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática e suas Tecnologias 2.5"
+    },
+    {
+     "frente": "Qual é a razão entre áreas quando a escala linear é 1:n?",
+     "verso": "1:n².",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática e suas Tecnologias 2.5"
+    },
+    {
+     "frente": "Qual é a razão entre volumes quando a escala linear é 1:n?",
+     "verso": "1:n³.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática e suas Tecnologias 2.5"
+    },
+    {
+     "frente": "Uma medida real de 3 km numa escala 1:100 000 ocupa quantos centímetros?",
+     "verso": "3 cm: 3 km são 300 000 cm; 300 000 ÷ 100 000 = 3.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática e suas Tecnologias 2.5"
+    },
+    {
+     "frente": "Como verificar rapidamente o sentido de uma conta em escala de redução?",
+     "verso": "A medida real calculada deve superar a medida no desenho.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática e suas Tecnologias 2.5"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-escalas-representacao-c14-q01",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "habilidade": "H11",
+     "texto_base": "A arquiteta mede 4,2 cm entre duas paredes numa planta em escala 1:50.",
+     "enunciado": "A distância correspondente na construção é 210 cm.",
+     "gabarito": "C",
+     "comentario": "Correta. 4,2 × 50 = 210; como a medida inicial estava em centímetros, a resposta também está em centímetros. (Matriz de Referência ENEM 2026, Matemática e suas Tecnologias 2.5, H11.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática e suas Tecnologias 2.5, H11"
+    },
+    {
+     "id": "enem-escalas-representacao-c14-q02",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "habilidade": "H11",
+     "texto_base": "Num mapa, 1 cm representa 25 000 cm no terreno. Um ciclista mede um trajeto de 3,6 cm.",
+     "enunciado": "O trajeto mede 9 km.",
+     "gabarito": "E",
+     "comentario": "Incorreta. 3,6 × 25 000 = 90 000 cm = 900 m = 0,9 km. A conversão para quilômetros foi deslocada uma casa decimal. (Matriz de Referência ENEM 2026, Matemática e suas Tecnologias 2.5, H11.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática e suas Tecnologias 2.5, H11"
+    },
+    {
+     "id": "enem-escalas-representacao-c14-q03",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "habilidade": "H12",
+     "texto_base": "Uma maquete em escala 1:20 representa um reservatório cúbico de 2 m de aresta.",
+     "enunciado": "A aresta do modelo mede 10 cm e seu volume é 1 000 cm³.",
+     "gabarito": "C",
+     "comentario": "Correta. 2 m = 200 cm; 200 ÷ 20 = 10 cm. O volume do cubo-modelo é 10³ = 1 000 cm³. (Matriz de Referência ENEM 2026, Matemática e suas Tecnologias 2.5, H12.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática e suas Tecnologias 2.5, H12"
+    },
+    {
+     "id": "enem-escalas-representacao-c14-q04",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "habilidade": "H12",
+     "texto_base": "Uma planta de praça está em escala 1:100.",
+     "enunciado": "A razão entre a área desenhada e a área real é 1:100.",
+     "gabarito": "E",
+     "comentario": "Incorreta. Cada comprimento é reduzido 100 vezes, mas a área usa duas dimensões; sua razão é 1:100², ou 1:10 000. (Matriz de Referência ENEM 2026, Matemática e suas Tecnologias 2.5, H12.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática e suas Tecnologias 2.5, H12"
+    },
+    {
+     "id": "enem-escalas-representacao-c14-q05",
+     "tipo": "me",
+     "dificuldade": "media",
+     "habilidade": "H11",
+     "texto_base": "Um técnico avalia uma planta de corredor desenhada em escala 1:75. O segmento mede 9,6 cm no papel.",
+     "enunciado": "Qual é o comprimento real do corredor?",
+     "alternativas": {
+      "A": "5,6 m",
+      "B": "7,2 m",
+      "C": "72 m",
+      "D": "0,128 m",
+      "E": "720 m"
+     },
+     "gabarito": "B",
+     "comentario": "A) A escala foi dividida pela medida: 75 ÷ 9,6 não converte o desenho em tamanho real.\nB) Correta. 9,6 × 75 = 720 cm; dividindo por 100, são 7,2 m.\nC) O valor 720 cm foi convertido incorretamente; 720 cm equivalem a 7,2 m.\nD) A razão foi invertida. Para sair do desenho e chegar à realidade, multiplica-se por 75.\nE) O resultado intermediário é 720 cm, não 720 m; faltou converter centímetros em metros.\n(Matriz de Referência ENEM 2026, Matemática e suas Tecnologias 2.5, H11.)",
+     "comentarios_por_alternativa": {
+      "A": "A escala foi dividida pela medida: 75 ÷ 9,6 não converte o desenho em tamanho real.",
+      "B": "Correta. 9,6 × 75 = 720 cm; dividindo por 100, são 7,2 m.",
+      "C": "O valor 720 cm foi convertido incorretamente; 720 cm equivalem a 7,2 m.",
+      "D": "A razão foi invertida. Para sair do desenho e chegar à realidade, multiplica-se por 75.",
+      "E": "O resultado intermediário é 720 cm, não 720 m; faltou converter centímetros em metros."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática e suas Tecnologias 2.5, H11"
+    },
+    {
+     "id": "enem-escalas-representacao-c14-q06",
+     "tipo": "me",
+     "dificuldade": "media",
+     "habilidade": "H10",
+     "texto_base": "Uma planta informa que uma parede mede 2,4 m. A representação está em escala 1:40.",
+     "enunciado": "Qual medida deve aparecer no desenho?",
+     "alternativas": {
+      "A": "0,6 cm",
+      "B": "4 cm",
+      "C": "6 cm",
+      "D": "60 cm",
+      "E": "96 cm"
+     },
+     "gabarito": "C",
+     "comentario": "A) Dividir 2,4 m diretamente por 40 mistura metros e centímetros e ainda não expressa corretamente o desenho.\nB) O valor 4,8 cm resulta de dividir 2,4 m por 50, em vez de converter a parede para 240 cm e dividir por 40.\nC) Correta. 2,4 m = 240 cm; 240 ÷ 40 = 6 cm.\nD) O valor foi multiplicado em vez de dividido pelo fator de redução.\nE) Esse valor resulta de 2,4 × 40, sem converter a unidade e com a razão no sentido errado.\n(Matriz de Referência ENEM 2026, Matemática e suas Tecnologias 2.5, H10.)",
+     "comentarios_por_alternativa": {
+      "A": "Dividir 2,4 m diretamente por 40 mistura metros e centímetros e ainda não expressa corretamente o desenho.",
+      "B": "O valor 4,8 cm resulta de dividir 2,4 m por 50, em vez de converter a parede para 240 cm e dividir por 40.",
+      "C": "Correta. 2,4 m = 240 cm; 240 ÷ 40 = 6 cm.",
+      "D": "O valor foi multiplicado em vez de dividido pelo fator de redução.",
+      "E": "Esse valor resulta de 2,4 × 40, sem converter a unidade e com a razão no sentido errado."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática e suas Tecnologias 2.5, H10"
+    },
+    {
+     "id": "enem-escalas-representacao-c14-q07",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "habilidade": "H12",
+     "texto_base": "Um cubo de 6 m de aresta será apresentado num modelo em escala 1:10.",
+     "enunciado": "Qual é o volume do modelo?",
+     "alternativas": {
+      "A": "0,6 m³",
+      "B": "6 000 cm³",
+      "C": "21,6 m³",
+      "D": "216 000 cm³",
+      "E": "216 cm³"
+     },
+     "gabarito": "D",
+     "comentario": "A) A redução do volume não é de dez vezes; as três dimensões são reduzidas.\nB) A aresta do modelo é 60 cm; seu cubo é 216 000 cm³, não 6 000 cm³.\nC) O valor supera o volume real, embora o modelo seja menor; houve inversão da escala.\nD) Correta. 6 m = 600 cm; a aresta-modelo é 60 cm; 60³ = 216 000 cm³.\nE) 60³ não é 216: é preciso multiplicar 60 × 60 × 60.\n(Matriz de Referência ENEM 2026, Matemática e suas Tecnologias 2.5, H12.)",
+     "comentarios_por_alternativa": {
+      "A": "A redução do volume não é de dez vezes; as três dimensões são reduzidas.",
+      "B": "A aresta do modelo é 60 cm; seu cubo é 216 000 cm³, não 6 000 cm³.",
+      "C": "O valor supera o volume real, embora o modelo seja menor; houve inversão da escala.",
+      "D": "Correta. 6 m = 600 cm; a aresta-modelo é 60 cm; 60³ = 216 000 cm³.",
+      "E": "60³ não é 216: é preciso multiplicar 60 × 60 × 60."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática e suas Tecnologias 2.5, H12"
+    },
+    {
+     "id": "enem-escalas-representacao-c14-q08",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "habilidade": "H11",
+     "texto_base": "Um esboço de 4,8 cm representa uma fachada de 12 m. A pessoa quer registrar a escala numérica desenho:real.",
+     "enunciado": "Qual escala representa corretamente a fachada?",
+     "alternativas": {
+      "A": "1:250",
+      "B": "1:25",
+      "C": "1:2 500",
+      "D": "250:1",
+      "E": "1:2,5"
+     },
+     "gabarito": "A",
+     "comentario": "A) Correta. 12 m = 1 200 cm; 4,8:1 200 simplifica dividindo ambos por 4,8 e resulta em 1:250.\nB) A conversão para centímetros foi omitida; 12 m não são 120 cm.\nC) A fachada foi convertida para milímetros, mas a medida do desenho permaneceu em centímetros.\nD) A razão real/desenho foi apresentada ao contrário da ordem solicitada.\nE) A razão foi calculada como se os 12 m fossem 12 cm; as unidades não foram igualadas.\n(Matriz de Referência ENEM 2026, Matemática e suas Tecnologias 2.5, H11.)",
+     "comentarios_por_alternativa": {
+      "A": "Correta. 12 m = 1 200 cm; 4,8:1 200 simplifica dividindo ambos por 4,8 e resulta em 1:250.",
+      "B": "A conversão para centímetros foi omitida; 12 m não são 120 cm.",
+      "C": "A fachada foi convertida para milímetros, mas a medida do desenho permaneceu em centímetros.",
+      "D": "A razão real/desenho foi apresentada ao contrário da ordem solicitada.",
+      "E": "A razão foi calculada como se os 12 m fossem 12 cm; as unidades não foram igualadas."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática e suas Tecnologias 2.5, H11"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Numa escala 1:n, a medida real é a medida do desenho ___ n; a medida do desenho é a medida real ___ n.",
+     "opcoes": [
+      "multiplicada por",
+      "dividida por",
+      "somada a",
+      "subtraída de"
+     ],
+     "respostas": [
+      "multiplicada por",
+      "dividida por"
+     ],
+     "explicacao": "A razão desenho/real é 1/n: multiplicar leva do desenho à realidade, dividir leva da realidade ao desenho.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática e suas Tecnologias 2.5"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Se o fator linear é 1:n, os fatores de área e volume são, respectivamente, 1:n___ e 1:n___.",
+     "opcoes": [
+      "n",
+      "n²",
+      "n³",
+      "2n"
+     ],
+     "respostas": [
+      "n²",
+      "n³"
+     ],
+     "explicacao": "Área envolve duas dimensões e volume envolve três; por isso o fator é elevado ao quadrado ou ao cubo.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Matemática e suas Tecnologias 2.5"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a resolução de uma questão que pede a medida real a partir de uma planta em escala numérica.",
+     "itens": [
+      "Identificar a medida no desenho e a escala.",
+      "Converter a medida do desenho para a unidade compatível com o fator.",
+      "Multiplicar a medida do desenho pelo denominador da escala.",
+      "Converter o resultado para a unidade solicitada.",
+      "Conferir se a ordem de grandeza é plausível."
+     ],
+     "explicacao": "A ordem evita misturar unidades e separa a proporcionalidade da conversão final."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "1:50",
+       "1 cm no desenho corresponde a 50 cm reais."
+      ],
+      [
+       "Comprimento",
+       "Usa o fator linear da escala."
+      ],
+      [
+       "Área",
+       "Usa o quadrado do fator linear."
+      ],
+      [
+       "Volume",
+       "Usa o cubo do fator linear."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
