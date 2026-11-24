@@ -1,8 +1,8 @@
 {
  "assunto": "Direitos Humanos — Sistema regional interamericano de proteção dos direitos humanos",
  "fonte": "autoral (MILISOFER TED & TIC)",
- "atualizado_em": "2026-11-23 (Convenção Americana, Estatuto e Regulamento da CIDH e materiais oficiais da Corte IDH conferidos em fontes oficiais)",
- "origem": "2026-11-23_banco-direitos-humanos-sistema-interamericano_v1.json (versão de teste)",
+ "atualizado_em": "2026-11-23",
+ "origem": "Equipe Harpia",
  "licoes": [
   {
    "id": "dh-interamericano-1",
@@ -250,7 +250,7 @@
   {
    "id": "dh-interamericano-4",
    "titulo": "Competências e decisões da Corte Interamericana",
-   "microconteudo": "A Corte Interamericana exerce jurisdição contenciosa sobre casos relativos à interpretação e aplicação da Convenção que lhe sejam submetidos por legitimados, desde que o Estado tenha reconhecido sua competência nos termos convencionais. Pessoas e representantes participam do processo conforme o Regulamento, mas não submetem sozinhos um caso à Corte: a Convenção reserva essa iniciativa aos Estados-partes e à Comissão. Ao decidir que houve violação, a Corte pode determinar que se assegure ao lesado o gozo do direito e, quando cabível, reparação das consequências e indenização. Suas sentenças são definitivas e os Estados-partes comprometem-se a cumpri-las nos casos em que forem partes. A Corte também possui competência consultiva para interpretar a Convenção e outros tratados de direitos humanos nos termos do art. 64. As opiniões consultivas não são sentenças de um caso contencioso; respondem a consultas autorizadas. Distinguir jurisdição contenciosa, medidas provisórias, reparações e função consultiva é essencial para compreender o papel judicial do órgão.",
+   "microconteudo": "A Corte Interamericana exerce jurisdição contenciosa sobre casos relativos à interpretação e aplicação da Convenção que lhe sejam submetidos por legitimados, desde que o Estado tenha reconhecido sua competência nos termos convencionais. Pessoas e representantes participam do processo conforme o Regulamento, mas não submetem sozinhos um caso à Corte: a Convenção reserva essa iniciativa aos Estados-partes e à Comissão. Ao decidir que houve violação, a Corte pode determinar que se assegure ao lesado o gozo do direito e, quando cabível, reparação das consequências e indenização. Suas sentenças são definitivas e os Estados-partes comprometem-se a cumpri-las nos casos em que forem partes. A Corte também possui competência consultiva para interpretar a Convenção e outros tratados de direitos humanos nos termos do art. 64. As opiniões consultivas não são sentenças de um caso contencioso; respondem a consultas autorizadas.",
    "flashcards": [
     {
      "frente": "Quem pode submeter caso contencioso à Corte IDH?",

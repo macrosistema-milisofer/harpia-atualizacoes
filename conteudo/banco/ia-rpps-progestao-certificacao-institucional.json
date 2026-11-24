@@ -1,8 +1,8 @@
 {
  "assunto": "CP RPPS — Pró-Gestão: certificação institucional e modernização da gestão",
  "fonte": "autoral (MILISOFER TED & TIC)",
- "atualizado_em": "2026-11-23 (Manual Pró-Gestão RPPS v4.2, vigente desde 08/09/2026, e Portaria SRPC/MPS nº 236/2026 atualizada)",
- "origem": "2026-11-23_banco-rpps-progestao-certificacao-institucional_v1.json (versão de teste)",
+ "atualizado_em": "2026-11-23",
+ "origem": "Equipe Harpia",
  "licoes": [
   {
    "id": "rpps-progestao-1",
@@ -97,10 +97,10 @@
       "B": "O RPPS ainda precisa demonstrar conformidade nas ações do nível pretendido; credencial individual, relatório atuarial e adesão não substituem a avaliação integral dos processos.",
       "C": "A auditoria deve se limitar aos controles financeiros porque educação previdenciária é voluntária.",
       "D": "O relatório atuarial, isoladamente, prova conformidade nas três dimensões.",
-      "E": "A certificadora deve conceder selo provisório por 90 dias sem registrar inconformidades."
+      "E": ""
      },
      "gabarito": "B",
-     "comentario": "A correta é B: a certificação institucional depende de evidências de conformidade do conjunto de ações e dimensões do nível. A confunde credencial pessoal com auditoria da organização; C exclui duas dimensões; D transforma um relatório em prova de todo o sistema; E inventa certificado provisório e impede registrar falhas. (Manual do Pró-Gestão RPPS v4.2, itens 2.2.2 e 2.3.1; item 3)",
+     "comentario": "A correta é B: a certificação institucional depende de evidências de conformidade do conjunto de ações e dimensões do nível. A confunde credencial pessoal com auditoria da organização; C exclui duas dimensões; D transforma um relatório em prova de todo o sistema; (Manual do Pró-Gestão RPPS v4.2, itens 2.2.2 e 2.3.1; item 3)",
      "dispositivo": "Manual do Pró-Gestão RPPS v4.2, itens 2.2.2 e 2.3.1; item 3"
     },
     {

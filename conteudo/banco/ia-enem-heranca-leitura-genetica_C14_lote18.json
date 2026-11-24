@@ -1,0 +1,257 @@
+{
+ "assunto": "ENEM 2026 — Ciências da Natureza — Transmissão hereditária, cruzamentos e leitura de heredogramas",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-24",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-heranca-leitura-genetica-c14",
+   "titulo": "Transmissão hereditária, cruzamentos e leitura de heredogramas",
+   "microconteudo": "RAIO-X DA PROVA: Triagem dirigida nos cadernos azuis regulares do Inep de 2021 a 2025 confirmou 2 de 225 itens de Ciências da Natureza (0,89% como mínimo observado). Os itens confirmados cobram identificação de um padrão autossômico recessivo e combinação de genótipos na herança ligada ao X. Escolha o conjunto de possibilidades a partir do cromossomo, da legenda e das condições do comando.\n\nPOR QUE IMPORTA:\nO Inep cobrou o reconhecimento de herança autossômica recessiva em 2021 e a interpretação de descendência com herança ligada ao X em 2024. Entender como os alelos passam entre gerações ajuda a ler heredogramas e a avaliar probabilidades sem confundir uma previsão com uma certeza.\n\nO QUE A BANCA COBRA:\nAs questões combinam descrição de um traço, genótipos explícitos ou inferíveis e alternativas que trocam as possibilidades de transmissão. O comando pode pedir o padrão de herança ou a probabilidade de um resultado dentro de um grupo já delimitado. A primeira decisão é identificar a localização do gene e as relações entre os alelos previstas no enunciado.\n\nENTENDA:\nHereditariedade é a transmissão de informação genética entre gerações. Uma característica observável é chamada de fenótipo. O genótipo, no recorte desta lição, é a combinação de alelos de um gene que estamos examinando. Alelos são versões diferentes de uma mesma região genética. Em um modelo escolar com um gene autossômico e duas variantes, escrevemos A e a para indicar essas versões. Um indivíduo diploide pode ter AA, Aa ou aa. As duas primeiras combinações compartilham o alelo A. A primeira e a última são homozigotas porque apresentam duas cópias da mesma variante. A combinação Aa é heterozigota. As letras são uma convenção do problema e precisam ser usadas com consistência.\n\nA passagem dos alelos se explica pela formação de gametas. Para simplificar, considere um gene que ocupa a mesma posição em dois cromossomos homólogos. As duas cópias estão juntas no indivíduo diploide, uma em cada cromossomo do par. Na meiose normal, a separação dos homólogos contribui para que cada gameta receba apenas uma cópia daquele gene. Em um heterozigoto Aa, o modelo mendeliano prevê metade dos gametas com A e metade com a. Na fecundação, um gameta de cada progenitor contribui para o genótipo do descendente. Assim, identificar os gametas possíveis é uma etapa anterior ao cálculo dos descendentes.\n\nA relação de dominância orienta a tradução de genótipo em fenótipo. Com dominância completa de A, AA e Aa apresentam o mesmo fenótipo para a característica em estudo, enquanto aa apresenta o fenótipo recessivo. O alelo a continua presente em Aa e pode ser transmitido. A palavra dominante descreve a manifestação observada no heterozigoto naquele modelo. Frequência populacional, vantagem adaptativa e intensidade da característica são questões diferentes. Há situações em que o heterozigoto apresenta um fenótipo intermediário ou manifesta contribuições de ambos os alelos. Se o enunciado indicar dominância incompleta ou codominância, use a regra informada e mantenha a segregação dos alelos como etapa do raciocínio.\n\nConsidere duas plantas fictícias Aa. Cada uma contribui com A ou a, em proporções iguais. As quatro combinações de gametas são A com A, A com a, a com A e a com a. Duas combinações produzem o mesmo genótipo heterozigoto, embora venham de trajetórias diferentes. A distribuição prevista é um quarto AA, metade Aa e um quarto aa. Se a característica recessiva só aparece em aa, a proporção fenotípica esperada é três quartos com o fenótipo dominante e um quarto com o recessivo. Em uma amostra de quatro sementes, pode aparecer zero, uma ou mais plantas recessivas. A proporção esperada descreve as chances no modelo, enquanto a contagem observada varia entre amostras.\n\nUm cruzamento com aa permite distinguir genótipos que têm o mesmo fenótipo dominante. Se a planta testada for AA, todos os descendentes esperados do cruzamento AA × aa serão Aa. Se for Aa, o cruzamento Aa × aa prevê metade Aa e metade aa. Observar uma única descendente aa nesse modelo mostra que a planta testada forneceu um alelo a. Observar apenas descendentes de fenótipo dominante num grupo pequeno é compatível com AA e também pode ocorrer ao acaso em um cruzamento Aa × aa. A quantidade de descendentes observados muda a força da evidência. Sempre confira se a questão pede uma dedução lógica ou a avaliação de resultados amostrais.\n\nUm heredograma usa símbolos e linhas para registrar relações familiares e a presença de um fenótipo. Leia sua legenda antes de interpretar preenchimentos ou abreviações. Em um modelo autossômico recessivo com expressão completa, um indivíduo afetado é aa. Se seus dois progenitores apresentam fenótipo dominante, cada um precisa ter fornecido um alelo a sem ser aa. Nesse modelo, ambos são Aa. Comece pelos genótipos obrigatórios e deixe marcado o que permanece incerto. Um parente sem a característica pode ser AA ou Aa, conforme sua posição e os parentes já identificados. Uma única família pequena pode se ajustar a mais de um padrão quando o enunciado fornece poucas informações, então use também qualquer indicação sobre o cromossomo e as hipóteses de transmissão.\n\nO condicionamento altera o conjunto de resultados considerados. Do cruzamento Aa × Aa saem quatro combinações equiprováveis. Se o problema já diz que um descendente apresenta fenótipo dominante, retire aa do conjunto de possibilidades. Sobram uma combinação AA e duas Aa. Portanto, a probabilidade de o descendente informado ser heterozigoto é 2/3. A probabilidade de uma criança qualquer de Aa × Aa ser heterozigota, sem essa informação, é 1/2. A distinção está no denominador. A pergunta “entre os que exibem o fenótipo dominante” seleciona uma parte dos resultados antes da contagem. O método também se aplica a outras restrições, desde que se saiba quais combinações restam e qual a probabilidade de cada uma.\n\nNa herança recessiva ligada ao X, marque o alelo como parte do cromossomo. Escreva Xᴬ e Xᵃ para duas variantes e, no modelo escolar, considere que Y não possui uma cópia equivalente nesse locus. Um indivíduo XᵃY expressa o traço recessivo porque tem apenas esse alelo no locus. Em XᴬXᵃ, o modelo de dominância completa prevê a expressão do fenótipo associado a A. Quando um progenitor XᴬY tem descendentes com um progenitor XᴬXᵃ, os resultados XX recebem Xᴬ do primeiro. Os resultados XY recebem Y do primeiro e uma das duas variantes do segundo. Assim, entre descendentes XY, metade pode receber Xᵃ. Entre todos os descendentes, se XX e XY forem igualmente prováveis no exercício, o conjunto XᵃY corresponde a um quarto.\n\nCasos com duas etapas de probabilidade pedem atenção a palavras como “e”, “ou” e “ao menos”. Se duas sementes de Aa × Aa forem independentes no modelo, a chance de ambas serem aa é 1/4 × 1/4 = 1/16. Para obter pelo menos uma aa, pode-se calcular o complemento de nenhuma ser aa. A chance de duas com fenótipo dominante é 3/4 × 3/4 = 9/16. O complemento é 7/16. O nascimento anterior de um descendente aa não modifica, por si, os gametas possíveis de pais cujo genótipo já é conhecido. No caso de genótipo desconhecido, um nascimento pode modificar a informação disponível ao pesquisador, porque permite inferir um alelo que antes era incerto. A situação informacional muda, enquanto o mecanismo da segregação permanece o mesmo.\n\nAo terminar, confira se a resposta se refere a genótipos, fenótipos ou portadores. Uma pessoa heterozigota pode ser portadora de um alelo recessivo sem apresentar o fenótipo investigado. Uma afirmação sobre a chance de transmitir um alelo descreve apenas uma contribuição para o genótipo do descendente. Para saber seu fenótipo, talvez seja necessário saber o alelo fornecido pelo outro progenitor. Em um exercício de genes autossômicos diferentes, multiplicar probabilidades exige que a segregação independente seja válida para os loci considerados. Esses cuidados impedem que uma tabela correta de cruzamento seja usada para responder a uma pergunta diferente.\n\nTambém é útil comparar duas gerações sem misturar o significado das expressões. Se um heredograma usa um marcador diferente para “portador confirmado”, esse símbolo informa um genótipo que a cor do fenótipo sozinha talvez não mostrasse. Por exemplo, duas irmãs de fenótipo dominante podem parecer iguais no desenho. Se uma delas tiver genótipo Aa confirmado e a outra ainda não tiver genótipo identificado, os cálculos para seus descendentes serão diferentes. Para a primeira, a chance de fornecer a é conhecida no modelo. Para a segunda, uma conclusão depende das informações dos demais parentes ou da hipótese dada no exercício. Distinga ainda ausência de informação de presença de um resultado: um símbolo sem preenchimento pode representar fenótipo ausente, enquanto outro símbolo ou legenda pode indicar que o fenótipo não foi registrado.\n\nTROCANDO EM MIÚDOS:\nImagine que uma planta carrega duas fichas diferentes para a cor de uma flor, uma marcada A e outra marcada a. Cada semente recebe uma ficha de cada planta que participou do cruzamento. Se as duas plantas tiverem Aa, a primeira pode mandar A ou a, e a segunda também. Faça uma lista com as quatro combinações possíveis. Uma fica AA, duas ficam Aa e uma fica aa. Quando A tem dominância completa, basta uma ficha A para aparecer o fenótipo dominante. A ficha a pode viajar para os descendentes mesmo quando fica escondida no fenótipo de quem a levou.\n\nPara ler um desenho de família, comece pela legenda, como faria ao ler um mapa. Imagine que o símbolo pintado representa quem tem o traço recessivo autossômico. Se uma criança pintada recebeu um a de cada progenitor, procure esses a nos símbolos dos dois pais. Se ambos apresentam o fenótipo dominante, no modelo estudado eles precisam ter uma ficha A e uma a. Aí você sabe mais sobre as duas pessoas do que sabia olhando apenas a cor de seus símbolos.\n\nA expressão “já sabemos que a planta tem flores de fenótipo dominante” muda o tamanho do grupo que importa. Volte à lista de quatro resultados. Apague aa, pois essa combinação pertence ao outro grupo. Olhe apenas as três possibilidades restantes. Duas têm Aa. A chance de ser Aa entre as plantas desse grupo é dois em três. Observe como o problema não exigiu uma tabela nova. A informação da pergunta pediu somente que você contasse em um conjunto menor.\n\nPara o caso ligado ao X, escreva as letras junto ao cromossomo. Um X traz A ou a. No modelo, o Y chega sem uma segunda versão desse gene. Depois separe os resultados XX e XY. Se o comando começa com “sabendo que é XY”, conte só as combinações XY. Se o comando pergunta pela chance entre todos os descendentes, mantenha as combinações XX na conta também. Ao final, releia se a questão pediu o alelo recebido, a combinação inteira de alelos ou a característica observável. Essa conferência resolve muitos erros mesmo depois de um cruzamento bem feito.\n\nLEI SECA:\nA referência curricular é a Matriz de Referência do Inep, Ciências da Natureza — Biologia, objeto 5.16, com foco nos fundamentos da transmissão hereditária.\n\nSÚMULAS E TESES:\nPara resolver os casos, use a segregação de alelos e as hipóteses de dominância, localização cromossômica e independência fornecidas pelo enunciado.\n\nESQUEMA:\nLer a legenda → fenótipo, geração e relações de parentesco.\nLocalizar o gene → autossômico ou ligado ao X.\nInferir genótipos → escrever o que é obrigatório e preservar as incógnitas.\nListar gametas → combinar alelos e obter as chances pertinentes.\nRever o denominador → total de descendentes ou grupo condicionado.\n\nPEGADINHAS:\n1. Pessoa com fenótipo dominante pode ter duas cópias dominantes ou apenas uma.\n2. Dominância indica relação de expressão, sem indicar frequência populacional.\n3. Um quarto é probabilidade por resultado no modelo, sem obrigar cada grupo de quatro a reproduzir a proporção.\n4. Entre indivíduos com fenótipo dominante de Aa × Aa, a chance de Aa é 2/3.\n5. Em herança ligada ao X, confira qual progenitor fornece X ou Y no modelo apresentado.\n\nDOUTRINA:\nMary Ann Clark, Matthew Douglas e Jung Choi, Biology 2e, 2ª ed., Houston, OpenStax, 2018, seções 12.2 e 12.3, apresentam cruzamentos monohíbridos, relações entre genótipos e fenótipos, herança ligada ao X e leis de segregação. A separação entre transmissão e expressão permite adaptar a resolução quando muda a relação de dominância.\n\nNA PRÁTICA:\nHelena cultiva duas plantas Aa. Em junho, ela colhe sementes e quer estimar a chance de que pelo menos uma entre duas sementes independentes produza planta aa. O quadro de cruzamento indica 1/4 de aa por semente. A chance de nenhuma ser aa é 3/4 × 3/4 = 9/16. Portanto, pelo menos uma é aa com probabilidade 7/16. Isso inclui ter exatamente uma e ter duas.",
+   "flashcards": [
+    {
+     "frente": "Que informação separa genótipo de fenótipo?",
+     "verso": "Genótipo indica a combinação de alelos. Fenótipo indica a característica observável no contexto.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.16"
+    },
+    {
+     "frente": "Que gametas se esperam de um heterozigoto Aa?",
+     "verso": "Metade com A e metade com a, no modelo de segregação mendeliana.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.16"
+    },
+    {
+     "frente": "Qual é a chance de aa no cruzamento Aa × Aa?",
+     "verso": "Um quarto em cada descendente, sob o modelo mendeliano.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.16"
+    },
+    {
+     "frente": "Qual a chance de Aa entre descendentes de fenótipo dominante de Aa × Aa?",
+     "verso": "Dois terços, pois aa foi excluído e restam duas combinações Aa e uma AA.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.16"
+    },
+    {
+     "frente": "Quem fornece o X nos descendentes XY num cruzamento XX × XY?",
+     "verso": "O progenitor XX, no modelo de segregação cromossômica considerado.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.16"
+    },
+    {
+     "frente": "Um alelo dominante é necessariamente mais frequente?",
+     "verso": "Dominância descreve o fenótipo do heterozigoto. Frequência depende da população.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.16"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-heranca-leitura-genetica-c14-q01",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "habilidade": "H13",
+     "texto_base": "Em maio, Lara cruza duas variedades fictícias de planta com genótipos Aa e aa. O fenótipo recessivo aparece apenas em aa.",
+     "enunciado": "A chance de uma semente originar planta com fenótipo recessivo é 1/2.",
+     "gabarito": "C",
+     "comentario": "A planta aa sempre fornece a. A planta Aa o fornece à metade dos gametas. (Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.16, H13.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.16, H13"
+    },
+    {
+     "id": "enem-heranca-leitura-genetica-c14-q02",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "habilidade": "H15",
+     "texto_base": "Em junho, Pedro lê o cruzamento Aa × Aa. O modelo prevê dominância completa e a planta observada tem fenótipo dominante.",
+     "enunciado": "A chance de que essa planta seja Aa é 1/2.",
+     "gabarito": "E",
+     "comentario": "A informação exclui aa. Entre as três combinações restantes equiprováveis, duas são Aa, dando 2/3. (Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.16, H15.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.16, H15"
+    },
+    {
+     "id": "enem-heranca-leitura-genetica-c14-q03",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "habilidade": "H13",
+     "texto_base": "Em julho, Lúcia estuda um exemplo de herança ligada ao X com progenitores XᴬY e XᴬXᵃ, num modelo com dominância completa.",
+     "enunciado": "Entre os descendentes XY, metade tem expectativa de receber Xᵃ.",
+     "gabarito": "C",
+     "comentario": "Os descendentes XY receberam Y do progenitor XᴬY. Entre os gametas do outro progenitor, metade traz Xᵃ. (Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.16, H13.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.16, H13"
+    },
+    {
+     "id": "enem-heranca-leitura-genetica-c14-q04",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "habilidade": "H13",
+     "texto_base": "Em agosto, um exercício fixa os genótipos Aa × Aa e trata duas fecundações como independentes. A primeira descendente é aa.",
+     "enunciado": "A chance de a segunda ser aa cai a zero, pois o resultado recessivo já apareceu.",
+     "gabarito": "E",
+     "comentario": "Cada fecundação repete as mesmas possibilidades e o primeiro resultado não retira alelos dos gametas futuros. (Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.16, H13.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.16, H13"
+    },
+    {
+     "id": "enem-heranca-leitura-genetica-c14-q05",
+     "tipo": "me",
+     "dificuldade": "media",
+     "habilidade": "H15",
+     "texto_base": "Em 6 de maio, Nara observa duas plantas de fenótipo dominante gerarem uma planta aa. A característica é determinada por um locus autossômico com dominância completa.",
+     "enunciado": "Qual combinação parental explica o resultado?",
+     "alternativas": {
+      "A": "AA e AA",
+      "B": "Aa e Aa",
+      "C": "AA e Aa",
+      "D": "aa e Aa",
+      "E": "AA e aa"
+     },
+     "gabarito": "B",
+     "comentario": "A) Nenhuma planta AA fornece o alelo a exigido pela descendente.\nB) Correta. Cada progenitor exibe o fenótipo dominante e pode fornecer um alelo a.\nC) Um dos progenitores só fornece A, então aa fica impossível.\nD) O genótipo aa de um progenitor não corresponde ao fenótipo dominante informado.\nE) O cruzamento só produz Aa e um progenitor apresentaria o fenótipo recessivo.\n(Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.16, H15.)",
+     "comentarios_por_alternativa": {
+      "A": "Nenhuma planta AA fornece o alelo a exigido pela descendente.",
+      "B": "Correta. Cada progenitor exibe o fenótipo dominante e pode fornecer um alelo a.",
+      "C": "Um dos progenitores só fornece A, então aa fica impossível.",
+      "D": "O genótipo aa de um progenitor não corresponde ao fenótipo dominante informado.",
+      "E": "O cruzamento só produz Aa e um progenitor apresentaria o fenótipo recessivo."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.16, H15"
+    },
+    {
+     "id": "enem-heranca-leitura-genetica-c14-q06",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "habilidade": "H13",
+     "texto_base": "Em 8 de junho, uma turma combina os genótipos XᴬY e XᵃXᵃ num modelo recessivo ligado ao X. O locus considerado não tem alelo no Y.",
+     "enunciado": "Quais fenótipos e genótipos de descendentes o modelo prevê?",
+     "alternativas": {
+      "A": "Todo resultado XX é XᵃXᵃ e todo resultado XY é XᴬY.",
+      "B": "Metade dos resultados XY recebe Xᴬ e metade recebe Xᵃ.",
+      "C": "Todo resultado XX tem fenótipo recessivo e todo XY tem o dominante.",
+      "D": "Todos os resultados XX são XᴬXᵃ e todos os XY são XᵃY.",
+      "E": "Todos os resultados XX e XY exibem fenótipo dominante."
+     },
+     "gabarito": "D",
+     "comentario": "A) A transmissão está invertida. O primeiro progenitor dá Xᴬ aos XX ou Y aos XY.\nB) O progenitor que contribui com X para resultados XY só tem Xᵃ.\nC) No modelo, os XX ficam heterozigotos e os XY apresentam o fenótipo recessivo.\nD) Correta. O segundo progenitor sempre fornece Xᵃ. A contribuição do primeiro define a outra parte da combinação.\nE) Os resultados XY têm apenas Xᵃ nesse locus e exibem o traço recessivo.\n(Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.16, H13.)",
+     "comentarios_por_alternativa": {
+      "A": "A transmissão está invertida. O primeiro progenitor dá Xᴬ aos XX ou Y aos XY.",
+      "B": "O progenitor que contribui com X para resultados XY só tem Xᵃ.",
+      "C": "No modelo, os XX ficam heterozigotos e os XY apresentam o fenótipo recessivo.",
+      "D": "Correta. O segundo progenitor sempre fornece Xᵃ. A contribuição do primeiro define a outra parte da combinação.",
+      "E": "Os resultados XY têm apenas Xᵃ nesse locus e exibem o traço recessivo."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.16, H13"
+    },
+    {
+     "id": "enem-heranca-leitura-genetica-c14-q07",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "habilidade": "H13",
+     "texto_base": "Em setembro, Rui registra duas sementes independentes de Aa × Aa. A característica recessiva só aparece em aa.",
+     "enunciado": "Qual é a probabilidade de exatamente uma das sementes ser aa?",
+     "alternativas": {
+      "A": "1/16",
+      "B": "1/4",
+      "C": "3/16",
+      "D": "7/16",
+      "E": "3/8"
+     },
+     "gabarito": "E",
+     "comentario": "A) Essa é a chance de ambas serem aa.\nB) Esse é o risco de aa em uma semente específica sem considerar a outra.\nC) Conta apenas uma ordem, aa na primeira e fenótipo dominante na segunda.\nD) Essa é a chance de pelo menos uma ser aa, incluindo ambas.\nE) Correta. Há duas ordens, cada uma com probabilidade 1/4 × 3/4. A soma é 6/16.\n(Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.16, H13.)",
+     "comentarios_por_alternativa": {
+      "A": "Essa é a chance de ambas serem aa.",
+      "B": "Esse é o risco de aa em uma semente específica sem considerar a outra.",
+      "C": "Conta apenas uma ordem, aa na primeira e fenótipo dominante na segunda.",
+      "D": "Essa é a chance de pelo menos uma ser aa, incluindo ambas.",
+      "E": "Correta. Há duas ordens, cada uma com probabilidade 1/4 × 3/4. A soma é 6/16."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.16, H13"
+    },
+    {
+     "id": "enem-heranca-leitura-genetica-c14-q08",
+     "tipo": "me",
+     "dificuldade": "media",
+     "habilidade": "H15",
+     "texto_base": "Em outubro, Dora cruza uma planta de fenótipo dominante com aa. Entre seis descendentes há uma planta aa. Suponha dominância completa e os genótipos descritos pelo modelo.",
+     "enunciado": "Que inferência a descendente aa permite?",
+     "alternativas": {
+      "A": "A planta testada tem genótipo Aa.",
+      "B": "A planta testada apresenta necessariamente genótipo AA.",
+      "C": "A planta testada é aa, embora seu fenótipo seja dominante no modelo.",
+      "D": "A planta aa forneceu dois alelos no mesmo gameta para todas as sementes.",
+      "E": "O heredograma demonstra que todos os descendentes restantes são AA."
+     },
+     "gabarito": "A",
+     "comentario": "A) Correta. A descendente recebeu um a de cada progenitor, e a planta testada apresenta fenótipo dominante.\nB) Um progenitor AA jamais fornece o a necessário para aa.\nC) Com dominância completa, aa corresponde ao fenótipo recessivo.\nD) O modelo prevê que cada gameta contribui com uma cópia do locus.\nE) Nenhum descendente pode ser AA porque o progenitor aa sempre fornece a.\n(Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.16, H15.)",
+     "comentarios_por_alternativa": {
+      "A": "Correta. A descendente recebeu um a de cada progenitor, e a planta testada apresenta fenótipo dominante.",
+      "B": "Um progenitor AA jamais fornece o a necessário para aa.",
+      "C": "Com dominância completa, aa corresponde ao fenótipo recessivo.",
+      "D": "O modelo prevê que cada gameta contribui com uma cópia do locus.",
+      "E": "Nenhum descendente pode ser AA porque o progenitor aa sempre fornece a."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.16, H15"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Na meiose normal, cada gameta recebe uma ___ do locus. Na fecundação, as contribuições se combinam no ___.",
+     "opcoes": [
+      "cópia",
+      "genótipo",
+      "frequência",
+      "ambiente"
+     ],
+     "respostas": [
+      "cópia",
+      "genótipo"
+     ],
+     "explicacao": "Por isso, é possível reconstruir os genótipos esperados combinando os gametas.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.16"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Em Aa × Aa, são esperados ___ de genótipo aa. Entre os descendentes de fenótipo dominante, ___ são esperados Aa.",
+     "opcoes": [
+      "1/4",
+      "2/3",
+      "1/2",
+      "3/4"
+     ],
+     "respostas": [
+      "1/4",
+      "2/3"
+     ],
+     "explicacao": "O segundo cálculo restringe as possibilidades ao excluir aa.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Biologia 5.16"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a resolução de um heredograma com herança indicada.",
+     "itens": [
+      "Ler a legenda e identificar o padrão de herança",
+      "Inferir os genótipos obrigatórios a partir da família",
+      "Combinar os gametas possíveis conforme o modelo",
+      "Contar os resultados no grupo pedido pelo comando"
+     ],
+     "explicacao": "A probabilidade deve responder ao grupo e ao tipo de característica definidos no enunciado."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Alelo",
+       "Versão de um locus genético"
+      ],
+      [
+       "Heterozigoto",
+       "Indivíduo com duas variantes diferentes no locus"
+      ],
+      [
+       "Homozigoto",
+       "Indivíduo com duas cópias da mesma variante"
+      ],
+      [
+       "Fenótipo",
+       "Característica observável estudada"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,8 +1,8 @@
 {
- "assunto": "Direito Constitucional — Teoria da Constituição e do Direito Constitucional (lote 01)",
+ "assunto": "",
  "fonte": "autoral (MILISOFER TED & TIC)",
- "atualizado_em": "2026-11-23 (Constituição compilada consultada no Planalto)",
- "origem": "2026-11-23_banco-constitucional-teoria-constituicao_v1.json (versão de teste)",
+ "atualizado_em": "2026-11-23",
+ "origem": "Equipe Harpia",
  "licoes": [
   {
    "id": "dconst-teoria-1",

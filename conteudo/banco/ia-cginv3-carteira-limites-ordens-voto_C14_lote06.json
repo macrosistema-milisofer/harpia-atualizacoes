@@ -1,8 +1,8 @@
 {
  "assunto": "Fundos de Investimentos — Carteira dos fundos, concentração, ordens e voto do gestor",
  "fonte": "autoral (MILISOFER TED & TIC)",
- "atualizado_em": "2026-11-23 — fontes oficiais conferidas",
- "origem": "2026-11-23_banco-cginv3-carteira-limites-ordens-voto_C14_lote06_v1.json (versão de teste)",
+ "atualizado_em": "2026-11-23",
+ "origem": "Equipe Harpia",
  "licoes": [
   {
    "id": "cginv3-c14-carteira-limites-ordens-voto",

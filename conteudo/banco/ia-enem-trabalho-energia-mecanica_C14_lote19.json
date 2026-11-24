@@ -1,0 +1,257 @@
+{
+ "assunto": "ENEM 2026 — Ciências da Natureza — Trabalho, energia cinética e transformações da energia mecânica",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-24",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-trabalho-energia-mecanica-c14",
+   "titulo": "Trabalho, energia cinética e transformações da energia mecânica",
+   "microconteudo": "RAIO-X DA PROVA: Triagem dirigida nos cadernos azuis regulares do Inep de 2021 a 2025 confirmou 4 de 225 itens de Ciências da Natureza (1,78% como mínimo observado). Os itens confirmados envolvem energia mecânica dissipada em choques, altura em movimento pendular, elevação de cargas por polias e conversão de energia cinética em deformação. A resolução distingue conservação de energia, balanço mecânico e variações de movimento.\n\nPOR QUE IMPORTA:\nO Inep usa trabalho e energia para interpretar deslocamentos, elevação de cargas e choques em que parte da energia mecânica se transforma. O mesmo raciocínio explica por que um carrinho desce mais rápido, por que uma rampa pode exigir menos força e o que se mede quando um dispositivo de proteção se deforma.\n\nO QUE A BANCA COBRA:\nOs exercícios misturam dados de massa, altura, velocidade e força, frequentemente separados entre texto e desenho. O comando pode pedir trabalho de uma força, variação de energia cinética, velocidade final ou energia convertida em outras formas. Leia qual sistema está sendo estudado e quais interações o problema manda desprezar.\n\nENTENDA:\nEm Física, o trabalho de uma força mede a transferência de energia relacionada ao deslocamento. Uma força constante de intensidade F atua enquanto seu ponto de aplicação se desloca de uma distância d. O trabalho é W = Fd cos θ, em que θ é o ângulo entre a força e o deslocamento. A projeção da força na direção do movimento determina quanto entra no produto. Quando a força aponta no mesmo sentido do deslocamento, o trabalho é positivo. Se aponta no sentido oposto, o trabalho é negativo. Uma força perpendicular ao deslocamento tem trabalho nulo nesse modelo. A unidade é o joule, equivalente a newton vezes metro. Contar apenas o tamanho da força pode ocultar a diferença entre aumentar a energia cinética, diminuí-la ou manter seu valor.\n\nImagine um carrinho puxado ao longo de uma pista horizontal. Ana exerce uma força de 15 N para a frente durante 4 m. Uma resistência de 5 N atua no sentido contrário. O trabalho da tração é 60 J e o da resistência é −20 J. Peso e normal apontam verticalmente e fazem trabalho nulo, pois a pista é horizontal. Somando as contribuições, o trabalho resultante é 40 J. Se Ana puxasse a corda inclinada, seria preciso usar a componente da força na direção do deslocamento. Em um gráfico dessa componente contra a posição, o trabalho é a área algébrica entre a curva e o eixo da posição. Áreas abaixo do eixo contribuem negativamente. Para uma força constante, essa área é o retângulo que corresponde ao produto usado no exemplo.\n\nO teorema trabalho–energia cinética afirma que o trabalho resultante sobre um corpo puntiforme, ou tratado pela translação no modelo, é igual à variação de sua energia cinética. Para massa m e rapidez v, K = mv²/2. Por exemplo, um bloco de 5 kg que passa de 2 m/s a 4 m/s muda sua energia cinética de 10 J para 40 J. O trabalho resultante foi de 30 J. A rapidez duplicou e a energia cinética final quadruplicou. O aumento corresponde a 30 J porque a etapa já começou com 10 J. A distinção entre valor final e variação evita a conclusão de que todo o trabalho produziu a energia medida no fim.\n\nUma força resultante pode mudar a direção da velocidade sem aumentar seu módulo. No movimento circular uniforme ideal, a força resultante aponta para o centro, perpendicular à velocidade em cada instante. Nesse caso, a energia cinética se mantém constante. Também pode haver velocidade constante com duas forças de trabalhos diferentes de zero. Pense num objeto levado em linha reta e sem aceleração, com tração de 10 N e atrito de 10 N. Em 3 m, a tração realiza 30 J e o atrito realiza −30 J. O trabalho total é nulo e a energia cinética não muda. A energia elétrica ou química mobilizada na origem da tração pode continuar sendo transformada, por exemplo em energia interna nas superfícies em contato.\n\nA energia potencial gravitacional depende da posição relativa entre o corpo e a Terra. Perto da superfície, quando g pode ser considerado constante, sua variação é ΔU = mgΔh. A altura é vertical e medida a partir da referência escolhida. O zero pode ser o piso, o fundo da trilha ou outro nível conveniente. Mudar a referência altera os valores que escrevemos para U, mas preserva a diferença de energia entre as duas alturas. Para levantar um objeto de 3 kg em 2 m, com g = 10 m/s², a variação é +60 J. O trabalho do peso nesse deslocamento é −60 J. Se a mesma caixa descer os dois metros, U diminui 60 J e o peso realiza trabalho positivo de 60 J.\n\nA diferença entre altura e percurso é importante em uma rampa. Uma caixa que sobe 1 m pela vertical ou por uma rampa ideal com o mesmo desnível ganha a mesma energia potencial gravitacional. Se a caixa de 20 kg subir lentamente 1 m de altura por uma rampa de 5 m, sem atrito e com a força paralela à rampa, seu ganho é 200 J. Como a energia cinética não muda, o trabalho positivo da força de puxar tem a mesma intensidade que o trabalho negativo da gravidade. Uma força de 40 N ao longo dos 5 m fornece 200 J. Levantar diretamente com a mesma velocidade pequena e constante exige força vertical de 200 N ao longo de 1 m. Reduzir a força foi possível porque aumentou o deslocamento ao longo do qual ela atua.\n\nA energia mecânica é a soma das energias cinética e potenciais consideradas. Para o sistema corpo–Terra, com resistência desprezível e sem trabalho externo relevante, K + U permanece constante durante uma queda. Uma esfera largada do repouso de 1,8 m acima do piso, com g = 10 m/s², chega imediatamente antes do piso com rapidez 6 m/s. A conta vem de mg × 1,8 = mv²/2. A massa se cancela sob essas condições. Se a esfera partisse com velocidade inicial, sua energia cinética inicial precisaria entrar na soma. Quando a pergunta compara dois caminhos para mesma altura, a rapidez final será a mesma nesse modelo se as energias mecânicas iniciais também forem iguais e não houver rotação ou outras formas relevantes de armazenamento.\n\nQuando o modelo inclui atrito, resistência do ar ou deformação permanente, parte da energia mecânica pode transformar-se em energia interna e som. Um carrinho que parte do repouso com 50 J de energia potencial e chega ao piso com 35 J de energia cinética teve diminuição de 15 J de energia mecânica. Isso não descreve destruição de energia. O balanço completo precisa representar onde ficam os 15 J no sistema escolhido ou quanto atravessa sua fronteira. Em uma colisão, um material deformável pode reduzir a parcela de energia cinética que permanece no movimento. A dissipação pode ser comparada pela energia cinética inicial e final se os outros termos mecânicos se mantêm. Para comparar força média dada uma duração, por outro lado, use a variação da quantidade de movimento, que tem direção e sentido.\n\nUma forma de organizar esses problemas é marcar estados inicial e final. Escreva as alturas e velocidades conhecidas, mesmo quando um valor é zero. Determine se a pergunta pede trabalho de uma força específica, trabalho resultante ou transformação entre formas de energia. Se escolher calcular o trabalho do peso diretamente, não conte de novo a mesma contribuição como variação da energia potencial no mesmo lado do balanço. Você pode usar a variação de K pelo trabalho de todas as forças ou usar a variação de K + U associada às contribuições que não foram representadas nas energias potenciais. Compare também a unidade do resultado com a grandeza pedida. Trabalho e energia têm unidade joule. Força é expressa em newtons. Potência é energia por tempo e tem outra unidade.\n\nEm um cálculo inverso, a rapidez informa quanto trabalho resistivo é necessário para parar o corpo. Considere um trenó de 10 kg que entra num trecho plano a 6 m/s. Sua energia cinética inicial vale 180 J. Uma força resistiva constante de 30 N, sozinha na direção do movimento, retira 30 J por metro percorrido. O trenó para após 6 m. Se entrasse a 12 m/s nas mesmas condições, a energia inicial seria 720 J e seriam necessários 24 m para parar. O modelo mostra como a distância de parada se relaciona ao quadrado da rapidez quando a força resistiva se mantém. Se a força variar ao longo do percurso, use seu trabalho total, que pode ser obtido pela área no gráfico correspondente.\n\nTROCANDO EM MIÚDOS:\nPense numa caixa com rodinhas. Você a empurra alguns metros e dá a ela energia por meio da força que faz para a frente. O piso pode tirar parte da energia do movimento com seu atrito. Se você põe 60 joules no movimento pela força de empurrar e a resistência retira 20 joules desse balanço, sobram 40 joules de aumento da energia cinética. O sinal negativo mostra que a resistência atuou na direção contrária. É parecido com registrar entradas e saídas, desde que você se lembre de que a energia que sai do movimento pode continuar no sistema, por exemplo aquecendo materiais.\n\nAgora coloque a caixa numa rampa. Do topo, ela tem mais energia potencial gravitacional em relação ao pé da rampa. Se a caixa começar parada e o atrito puder ser ignorado, ela vai trocar essa energia de altura por energia de movimento durante a descida. Em uma rampa áspera, parte dessa energia aparece em outras formas. A caixa pode chegar mais devagar mesmo tendo começado na mesma altura. Por isso, leia logo no início se o exercício manda desprezar resistência ou fornece um valor de perda de energia mecânica.\n\nA maneira de medir velocidade também importa. Se um carrinho dobra a rapidez, ele fica com quatro vezes a energia cinética anterior quando a massa se mantém. É o quadrado da rapidez que produz essa diferença. Para falar do quanto a energia aumentou, subtraia a energia de antes da energia de depois. Em um problema que compara um carrinho indo e outro voltando, a energia cinética usa a rapidez, sempre sem sinal. Se o exercício pede a força média durante uma batida, a mudança de sentido passa a importar para a quantidade de movimento. Perguntar se a grandeza usa só o tamanho da velocidade ou também sua direção ajuda a escolher a conta certa.\n\nLEI SECA:\nA referência curricular é a Matriz de Referência do Inep, Ciências da Natureza — Física, objetos 3.30 a 3.33.\n\nSÚMULAS E TESES:\nPrincípios físicos aplicados nesta lição: trabalho resultante igual à variação de energia cinética e conservação da energia mecânica quando são satisfeitas as condições do modelo.\n\nESQUEMA:\nForça constante → componente ao longo do deslocamento × distância.\nTrabalho resultante → ΔK.\nEnergia cinética → mv²/2.\nVariação de energia potencial gravitacional → mgΔh.\nEnergia mecânica → somar K e U, incluindo transferências e dissipação quando indicadas.\n\nPEGADINHAS:\n1. A normal só tem trabalho nulo quando se mantém perpendicular ao deslocamento de seu ponto de aplicação.\n2. Dobrar a rapidez quadruplica K para massa fixa.\n3. A altura vertical entra em mgΔh. O comprimento da rampa pode entrar no trabalho de atrito.\n4. Rapidez constante implica trabalho resultante nulo e pode coexistir com trabalhos individuais.\n5. Trabalho do peso e variação de U são formas alternativas de contabilizar a mesma contribuição.\n\nDOUTRINA:\nPaul Peter Urone e Roger Hinrichs, College Physics 2e, 2ª ed., Houston, OpenStax, 2022, seções 7.1 a 7.6, apresentam trabalho, teorema trabalho–energia e balanço de energia com forças não conservativas. Distinguir o sistema e as formas de energia permite aplicar as mesmas ideias tanto a uma rampa ideal quanto a um processo dissipativo.\n\nNA PRÁTICA:\nEm junho, Caio larga do repouso um carrinho de 2 kg a 2,5 m acima do ponto final. No trajeto, 14 J de energia mecânica são convertidos em outras formas. Adotando g = 10 m/s², a energia potencial disponível é 50 J. O carrinho chega com 36 J de energia cinética. De K = 2v²/2 resulta v = 6 m/s.",
+   "flashcards": [
+    {
+     "frente": "Quando uma força constante faz trabalho negativo?",
+     "verso": "Quando sua componente ao longo do deslocamento aponta contra o movimento.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.30 a 3.33"
+    },
+    {
+     "frente": "O que o trabalho resultante mede?",
+     "verso": "A variação da energia cinética do corpo no modelo.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.30 a 3.33"
+    },
+    {
+     "frente": "Que fator muda K quando a rapidez triplica?",
+     "verso": "Nove, se a massa permanecer constante.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.30 a 3.33"
+    },
+    {
+     "frente": "Qual medida entra em mgΔh?",
+     "verso": "A diferença vertical de altura.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.30 a 3.33"
+    },
+    {
+     "frente": "Por que K pode manter o valor com forças atuantes?",
+     "verso": "A soma dos trabalhos pode ser nula mesmo com trabalhos individuais diferentes de zero.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.30 a 3.33"
+    },
+    {
+     "frente": "Que energia pode receber parte da energia mecânica dissipada por atrito?",
+     "verso": "A energia interna dos materiais envolvidos, entre outras formas previstas pelo modelo.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.30 a 3.33"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-trabalho-energia-mecanica-c14-q01",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "habilidade": "H20",
+     "texto_base": "Em maio, Luca aplica 18 N a um carrinho por 3 m, na direção do deslocamento. Uma força de resistência de 6 N atua em sentido oposto e as demais forças são perpendiculares.",
+     "enunciado": "A energia cinética aumenta 36 J.",
+     "gabarito": "C",
+     "comentario": "O trabalho resultante é (18 − 6) × 3 = 36 J. Esse valor é a mudança de energia cinética. (Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.30 a 3.33, H20.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.30 a 3.33, H20"
+    },
+    {
+     "id": "enem-trabalho-energia-mecanica-c14-q02",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "habilidade": "H20",
+     "texto_base": "Em junho, uma caixa de 2 kg passa de rapidez 3 m/s para 6 m/s.",
+     "enunciado": "Sua energia cinética aumenta 18 J.",
+     "gabarito": "E",
+     "comentario": "A energia inicial é 9 J e a final é 36 J. A diferença é 27 J. (Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.30 a 3.33, H20.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.30 a 3.33, H20"
+    },
+    {
+     "id": "enem-trabalho-energia-mecanica-c14-q03",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "habilidade": "H17",
+     "texto_base": "Em julho, um gráfico da força na direção do deslocamento mostra 12 N de x = 0 a 2 m e −3 N de x = 2 a 5 m.",
+     "enunciado": "O trabalho dessa força no percurso total é 15 J.",
+     "gabarito": "C",
+     "comentario": "As duas contribuições são 24 J e −9 J. O total usa a área algébrica e vale 15 J. (Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.30 a 3.33, H17.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.30 a 3.33, H17"
+    },
+    {
+     "id": "enem-trabalho-energia-mecanica-c14-q04",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "habilidade": "H23",
+     "texto_base": "Em agosto, Val levanta uma mochila de 4 kg a velocidade vertical constante por 1,5 m. Use g = 10 m/s².",
+     "enunciado": "O ganho de energia potencial gravitacional vale zero porque a velocidade é constante.",
+     "gabarito": "E",
+     "comentario": "A constância de velocidade mantém K inalterada. A elevação aumenta U em 4 × 10 × 1,5 = 60 J. (Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.30 a 3.33, H23.)",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.30 a 3.33, H23"
+    },
+    {
+     "id": "enem-trabalho-energia-mecanica-c14-q05",
+     "tipo": "me",
+     "dificuldade": "media",
+     "habilidade": "H20",
+     "texto_base": "Em 8 de abril, Sônia movimenta um carrinho numa pista horizontal com força de 20 N que faz ângulo de 60° com o deslocamento de 5 m. Use cos 60° = 0,5.",
+     "enunciado": "Qual é o trabalho da força aplicada por Sônia?",
+     "alternativas": {
+      "A": "50 J",
+      "B": "100 J",
+      "C": "10 J",
+      "D": "0 J",
+      "E": "−50 J"
+     },
+     "gabarito": "A",
+     "comentario": "A) Correta. A componente ao longo da pista é 10 N, que atuam durante os 5 m.\nB) Multiplica a intensidade total da força pela distância como se as direções coincidissem.\nC) Dez é o valor da componente em newtons. Falta multiplicar pelo deslocamento.\nD) Trabalho nulo exigiria uma força perpendicular ou deslocamento nulo.\nE) O sinal negativo exigiria uma componente apontando contra o deslocamento.\n(Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.30 a 3.33, H20.)",
+     "comentarios_por_alternativa": {
+      "A": "Correta. A componente ao longo da pista é 10 N, que atuam durante os 5 m.",
+      "B": "Multiplica a intensidade total da força pela distância como se as direções coincidissem.",
+      "C": "Dez é o valor da componente em newtons. Falta multiplicar pelo deslocamento.",
+      "D": "Trabalho nulo exigiria uma força perpendicular ou deslocamento nulo.",
+      "E": "O sinal negativo exigiria uma componente apontando contra o deslocamento."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.30 a 3.33, H20"
+    },
+    {
+     "id": "enem-trabalho-energia-mecanica-c14-q06",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "habilidade": "H23",
+     "texto_base": "No dia 12 de maio, Eva larga do repouso dois carrinhos iguais no mesmo nível. Ambos chegam 2 m abaixo. No trajeto A, o atrito é desprezível. No B, 10 J são dissipados. Cada carrinho tem 2 kg e g = 10 m/s².",
+     "enunciado": "Como se comparam as energias cinéticas finais?",
+     "alternativas": {
+      "A": "A e B chegam com 40 J.",
+      "B": "A chega com 30 J e B com 40 J.",
+      "C": "A chega com 20 J e B com 10 J.",
+      "D": "A chega com 40 J e B com 50 J.",
+      "E": "A chega com 40 J e B com 30 J."
+     },
+     "gabarito": "E",
+     "comentario": "A) No trajeto B, 10 J de energia mecânica foram convertidos em outras formas.\nB) A perda foi informada apenas para B, que chega com a menor energia cinética.\nC) Os valores correspondem a partir de 20 J, mas a diferença de potencial é 2 × 10 × 2 = 40 J.\nD) Somar os joules dissipados a K inverte o sentido do balanço.\nE) Correta. Os dois perdem 40 J de U, mas no trajeto B apenas 30 J se convertem em K.\n(Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.30 a 3.33, H23.)",
+     "comentarios_por_alternativa": {
+      "A": "No trajeto B, 10 J de energia mecânica foram convertidos em outras formas.",
+      "B": "A perda foi informada apenas para B, que chega com a menor energia cinética.",
+      "C": "Os valores correspondem a partir de 20 J, mas a diferença de potencial é 2 × 10 × 2 = 40 J.",
+      "D": "Somar os joules dissipados a K inverte o sentido do balanço.",
+      "E": "Correta. Os dois perdem 40 J de U, mas no trajeto B apenas 30 J se convertem em K."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.30 a 3.33, H23"
+    },
+    {
+     "id": "enem-trabalho-energia-mecanica-c14-q07",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "habilidade": "H23",
+     "texto_base": "Em 17 de junho, Joel compara duas rampas ideais de 4 m e 8 m de comprimento que levam a uma plataforma 2 m acima do piso. Ele eleva uma caixa de 12 kg em velocidade constante, com força paralela à rampa. Adote g = 10 m/s².",
+     "enunciado": "Quais são as forças aplicadas, na rampa curta e na longa, respectivamente?",
+     "alternativas": {
+      "A": "120 N e 120 N",
+      "B": "30 N e 60 N",
+      "C": "60 N e 30 N",
+      "D": "48 N e 24 N",
+      "E": "240 N e 240 N"
+     },
+     "gabarito": "C",
+     "comentario": "A) Esses valores correspondem ao peso total e não à componente ao longo de cada rampa.\nB) Essa ordem atribui maior força à maior distância, embora o trabalho exigido seja o mesmo.\nC) Correta. O ganho de U é 240 J. Dividir por 4 m e 8 m dá as duas forças.\nD) Os produtos por 4 e 8 m dão 192 J, insuficientes para o desnível de 2 m.\nE) Duzentos e quarenta é o trabalho em joules. A unidade e o cálculo de força exigem dividir pela distância.\n(Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.30 a 3.33, H23.)",
+     "comentarios_por_alternativa": {
+      "A": "Esses valores correspondem ao peso total e não à componente ao longo de cada rampa.",
+      "B": "Essa ordem atribui maior força à maior distância, embora o trabalho exigido seja o mesmo.",
+      "C": "Correta. O ganho de U é 240 J. Dividir por 4 m e 8 m dá as duas forças.",
+      "D": "Os produtos por 4 e 8 m dão 192 J, insuficientes para o desnível de 2 m.",
+      "E": "Duzentos e quarenta é o trabalho em joules. A unidade e o cálculo de força exigem dividir pela distância."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.30 a 3.33, H23"
+    },
+    {
+     "id": "enem-trabalho-energia-mecanica-c14-q08",
+     "tipo": "me",
+     "dificuldade": "media",
+     "habilidade": "H17",
+     "texto_base": "Em julho, Tânia analisa uma colisão num simulador. Um corpo de 2 kg chega ao anteparo com rapidez de 5 m/s e retorna com rapidez de 3 m/s. A altura e as outras energias potenciais consideradas ficam constantes.",
+     "enunciado": "Qual é a diminuição da energia mecânica do corpo?",
+     "alternativas": {
+      "A": "4 J",
+      "B": "8 J",
+      "C": "25 J",
+      "D": "16 J",
+      "E": "34 J"
+     },
+     "gabarito": "D",
+     "comentario": "A) Esse resultado usa diferença linear entre as velocidades, enquanto K depende do quadrado.\nB) A energia inicial de 25 J e a final de 9 J diferem por duas vezes esse valor.\nC) É a energia inicial inteira. O corpo ainda tem energia cinética após o retorno.\nD) Correta. A energia diminui de 25 J para 9 J, usando o módulo da velocidade nos dois instantes.\nE) Esse valor soma as energias. A dinâmica aqui pede a diferença entre os estados.\n(Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.30 a 3.33, H17.)",
+     "comentarios_por_alternativa": {
+      "A": "Esse resultado usa diferença linear entre as velocidades, enquanto K depende do quadrado.",
+      "B": "A energia inicial de 25 J e a final de 9 J diferem por duas vezes esse valor.",
+      "C": "É a energia inicial inteira. O corpo ainda tem energia cinética após o retorno.",
+      "D": "Correta. A energia diminui de 25 J para 9 J, usando o módulo da velocidade nos dois instantes.",
+      "E": "Esse valor soma as energias. A dinâmica aqui pede a diferença entre os estados."
+     },
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.30 a 3.33, H17"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Para uma força constante, multiplique a ___ ao longo do movimento pela distância. O resultado vem em ___.",
+     "opcoes": [
+      "componente",
+      "joules",
+      "potência",
+      "newtons"
+     ],
+     "respostas": [
+      "componente",
+      "joules"
+     ],
+     "explicacao": "A componente paralela ao deslocamento determina a contribuição da força ao trabalho.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.30 a 3.33"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Na subida lenta de uma caixa, a energia ___ aumenta com a altura e a energia ___ fica constante se a rapidez se mantém.",
+     "opcoes": [
+      "potencial",
+      "cinética",
+      "elétrica",
+      "química"
+     ],
+     "respostas": [
+      "potencial",
+      "cinética"
+     ],
+     "explicacao": "O desnível afeta U. A rapidez constante mantém K.",
+     "dispositivo": "Matriz de Referência ENEM 2026, Ciências da Natureza — Física 3.30 a 3.33"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o balanço de energia de um carrinho que desce com atrito.",
+     "itens": [
+      "Escolher o sistema e os estados inicial e final",
+      "Escrever energia cinética e potencial em cada estado",
+      "Incluir a energia mecânica dissipada que o enunciado fornece",
+      "Resolver para a incógnita e verificar sua unidade"
+     ],
+     "explicacao": "O balanço só fica completo quando a dissipação informada entra com o sinal adequado."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Joule",
+       "Unidade de trabalho e energia"
+      ],
+      [
+       "Energia cinética",
+       "Energia associada ao movimento"
+      ],
+      [
+       "Energia potencial gravitacional",
+       "Energia associada à posição no campo gravitacional"
+      ],
+      [
+       "Dissipação",
+       "Conversão de energia mecânica em outras formas"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

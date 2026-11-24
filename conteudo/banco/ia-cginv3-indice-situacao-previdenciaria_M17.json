@@ -1,0 +1,391 @@
+{
+ "assunto": "Índice de Situação Previdenciária dos RPPS: metodologia, indicadores e leitura dos resultados",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-24",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "cginv3-m17-indice-situacao-previdenciaria",
+   "titulo": "ISP-RPPS: o que a classificação mede e como interpretar a metodologia atual",
+   "microconteudo": "RAIO-X DA PROVA: Não há contagem de provas para este assunto na entrada M15. Os oito vínculos são ocorrências em editais, não oito questões de prova. As cinco questões previstas e o peso de 6,25% pertencem ao domínio inteiro do CGINV III, sem rateio entre assuntos; não representam frequência do ISP. A seleção didática abaixo não constitui previsão estatística de cobrança.\n\nO QUE A BANCA COBRA:\nO foco desta lição é interpretar o Índice de Situação Previdenciária dos RPPS, denominado ISP-RPPS. Os itens autorais exploram finalidade, ano-base, fontes de dados, grupos comparáveis, indicadores, combinação das notas e impugnação. Isso é orientação de estudo, não frequência demonstrada: não há contagem de provas nem incidência calculada para o assunto. O peso do domínio do edital não pode ser transformado em percentual de cobrança do ISP. Uma situação-problema pode oferecer uma certificação institucional elevada ou receitas suficientes no ano e perguntar se isso, isoladamente, determina a classificação final. A resposta exige separar indicador, dimensão e índice.\n\nENTENDA:\nO art. 238 da Portaria MTP 1.467/2022 determina aferição anual, uso de informações do exercício anterior e divulgação da composição e metodologia em relatório com memória de cálculo. O ISP serve à comparabilidade e ao monitoramento da gestão previdenciária; não é uma garantia absoluta de solvência nem substitui a avaliação atuarial. Também não se confunde com o Certificado de Regularidade Previdenciária, o CRP, ou com a certificação do Pró-Gestão. Esses elementos alimentam partes do diagnóstico, sem se tornarem sinônimos da nota final.\n\nO calendário requer três separações. O ano do ISP é o de sua publicação; a posição dos dados, como regra, corresponde ao exercício anterior; o limite geral de recebimento é 31 de julho do ano de publicação. DRAA e DPIN são identificados pelo ano de publicação, mas o DRAA tem avaliação posicionada em 31 de dezembro do ano anterior. DIPR e DAIR referem-se, respectivamente, aos bimestres e meses do exercício anterior. O art. 1º, § 2º, IV, da Portaria SPREV 14.762/2020 prevê 30 de setembro como prazo limite normativo de publicação. Não confunda esse comando com a data efetiva de cada divulgação: o relatório final de 2025 foi publicado em 04/12/2025.\n\nHá uma atualização essencial. A Portaria SRPC/MPS 2.416/2025 incorporou melhorias à composição e à metodologia e remeteu seu detalhamento ao relatório final e aos estudos publicados. Portanto, ler somente os seis indicadores da redação original de 2020 produz uma fotografia incompleta da edição atual disponível. Em 23/11/2026, a página oficial apresentava resultado final de 2025 e dados preliminares de 2026. O comunicado de 06/11/2026 permite apontar correções pelo GESCON até 05/12/2026, mas não admite informações novas. Os critérios do Extrato Previdenciário nessa etapa refletem 31/12/2025. Validação de dados não é resultado definitivo.\n\nA comparação respeita porte e maturidade da massa. Estados e Distrito Federal integram o Porte Especial; municípios são distribuídos por quantidade de ativos, aposentados e pensionistas. Omissão de dados pode conduzir ao Porte Não Classificado. RPPS em extinção ou extintos não têm ISP calculado e divulgado. Porte não é definido pelo patrimônio investido. Maturidade utiliza a razão entre ativos e aposentados mais pensionistas: uma razão maior representa massa menos madura. O relatório de 2025 substituiu percentis e medianas por agrupamentos baseados na densidade dos dados; não cabe apresentar automaticamente a antiga regra dos 5% como critério atual. O corte de maturidade divulgado é 2,5324: acima dele, menor maturidade; igual ou abaixo, maior maturidade. Há divergência de inclusão dos valores-limite de porte entre o quadro e a explicação das páginas 23–24; por cautela, esta lição não resolve casos exatamente nessas fronteiras.\n\nGestão e transparência reúne Regularidade, Envio de Informações e Modernização da Gestão. Regularidade considera critérios do extrato, dias de CRP vigente e irregularidades afastadas judicialmente. Não basta mostrar um CRP válido na data de estudo para reconstruir a pontuação do exercício-base. Envio de Informações verifica demonstrativos, incluindo a MSC na metodologia detalhada de 2025; o RREO tem função nos indicadores financeiros, mas não integra diretamente esse indicador de envio. Modernização utiliza a certificação institucional: níveis III e IV correspondem a A; I e II, a B; ausência de certificação, a C. Essa nota parcial não transforma automaticamente todo o ISP em A.\n\nSituação financeira reúne Suficiência Financeira, Acumulação de Recursos e Resultado Financeiro da Medida de Equacionamento de Déficit Atuarial. Suficiência compara receitas e despesas anuais, com as exclusões metodológicas, como transferências para cobertura de insuficiência financeira. Na edição de 2025, confrontam-se RREO e DIPR, utilizando-se o resultado mais conservador, o menor; é necessário informar ambos. Acumulação relaciona a variação anual das aplicações e disponibilidades às despesas previdenciárias. Não equivale à rentabilidade da carteira: contribuições, benefícios e movimentações também afetam o saldo. O novo indicador examina a adoção de medidas de equacionamento e seus resultados sobre a acumulação, sem presumir que publicar uma lei baste para obter A.\n\nSituação atuarial considera Cobertura dos Compromissos Previdenciários, Reforma RPPS e Vigência de RPC, além de dois indicadores ligados à Receita Corrente Líquida. Na agregação, utiliza-se a melhor nota entre Sustentabilidade das Provisões em relação à RCL e Comprometimento Atuarial da RCL; não são dois votos independentes. Assim, estudam-se dez indicadores parciais, mas nove notas entram na combinação, três por dimensão. Na metodologia operacional de 2025, Cobertura divide aplicações e disponibilidades pelas provisões matemáticas dos benefícios concedidos e a conceder. O índice abrange o regime como um todo, inclusive os fundos em capitalização e repartição; não se seleciona apenas o fundo com melhor resultado.\n\nOs indicadores relativos à RCL acrescentam a perspectiva da capacidade fiscal do ente. Sustentabilidade relaciona provisões a 60% da RCL; Comprometimento incorpora resultado atuarial e dívida consolidada líquida, também com esse denominador metodológico. Esse percentual pertence à fórmula divulgada, não à incidência do assunto em prova. Menores resultados desses dois indicadores recebem melhor avaliação. Reforma RPPS e Vigência de RPC observa situações previamente definidas: reforma ampla acompanhada de RPC vigente permite A; reforma ampla sem RPC vigente, B; demais situações, C. Aqui se estuda somente sua função no ISP, não as regras materiais de reforma ou de benefícios.\n\nAs notas parciais A, B e C são combinadas primeiro dentro de cada dimensão. Pelo quadro 3 de 2025, AAB resulta em A na dimensão; BBB resulta em B. Depois, o quadro 4 combina as três dimensões e admite A, B, C ou D no índice final: AAA resulta em A; BBB, em C; BCC, em D. Portanto, a mesma sequência de letras pode produzir resposta diferente conforme o nível de agregação. O perfil atuarial é relacionado à nota final: D corresponde a I; C, a II; B, a III; A, a IV. Perfil atuarial IV e certificação institucional nível IV são classificações distintas.\n\nESQUEMA:\nIdentificar edição e ano-base → conferir demonstrativos e corte de recebimento → localizar porte e maturidade → apurar indicadores segundo a metodologia da edição → combinar três notas por dimensão → combinar as três dimensões → relacionar nota final ao perfil atuarial. Relatório com memória de cálculo → impugnação em 30 dias → decisão em até 30 dias contados do encerramento do prazo de impugnação → eventual revisão, válida até a próxima divulgação anual. Alteração metodológica antecipada, antes de três anos da anterior, exige continuidade da divulgação dos resultados antigos até completar esse período.\n\nPEGADINHAS:\nNão trocar data-base por prazo de publicação. Não aceitar dados novos na validação de 2026. Não atribuir porte pela carteira de investimentos. Não contar as duas notas de RCL separadamente na dimensão atuarial. Não transportar BBB da dimensão para o resultado final. Não confundir solvência com pagamento das despesas de um exercício. Não eliminar a massa do fundo em repartição para melhorar artificialmente o diagnóstico. Não aplicar percentis antigos sem observar a revisão autorizada de 2025.\n\nDOUTRINA:\nJANNUZZI, Paulo de Martino. Indicadores para diagnóstico, monitoramento e avaliação de programas sociais no Brasil. Revista do Serviço Público, Brasília, v. 56, n. 2, p. 137–160, abr./jun. 2005, especialmente p. 139–142, disponível no repositório da ENAP. O autor discute validade, confiabilidade e comparabilidade temporal. Aplicação didática: é necessário conhecer o conceito medido, a qualidade dos registros e a metodologia antes de interpretar a melhora de uma nota. Essa leitura orienta a análise crítica; os critérios jurídicos específicos do ISP continuam sendo os das fontes oficiais.\n\nJURISPRUDÊNCIA E ENTENDIMENTOS:\nNão foi identificado precedente judicial relevante verificado para este recorte. O relatório do MPS e o comunicado de validação são fontes administrativas oficiais, não precedentes judiciais.",
+   "flashcards": [
+    {
+     "frente": "O ano do ISP coincide necessariamente com o exercício de posição dos dados?",
+     "verso": "Não. O ano do ISP é o de publicação; a posição dos dados corresponde, como regra, ao exercício anterior.",
+     "dispositivo": "Portaria SPREV 14.762/2020, art. 1º, § 2º, I–III; Portaria MTP 1.467/2022, art. 238, § 1º"
+    },
+    {
+     "frente": "Quais são as três dimensões do ISP?",
+     "verso": "Gestão e transparência, situação financeira e situação atuarial.",
+     "dispositivo": "Portaria SPREV 14.762/2020, art. 4º; Relatório Final ISP 2025, seção 6, p. 27"
+    },
+    {
+     "frente": "Como os níveis do Pró-Gestão são convertidos no indicador de Modernização?",
+     "verso": "III e IV: A; I e II: B; sem certificação: C. É uma nota parcial, não a nota final do ISP.",
+     "dispositivo": "Portaria SPREV 14.762/2020, art. 7º; Relatório Final ISP 2025, seção 6.3, p. 37"
+    },
+    {
+     "frente": "Como entram os dois indicadores baseados em RCL na agregação atuarial de 2025?",
+     "verso": "Utiliza-se a melhor classificação entre Sustentabilidade das Provisões e Comprometimento Atuarial; apenas uma dessas notas entra na combinação.",
+     "dispositivo": "Portaria SRPC/MPS 2.416/2025, arts. 2º–3º; Relatório Final ISP 2025, seção 7, p. 61–62"
+    },
+    {
+     "frente": "BBB dá a mesma classificação dentro de uma dimensão e no ISP final?",
+     "verso": "Não. BBB dos indicadores resulta em B na dimensão; BBB das dimensões resulta em C no índice final.",
+     "dispositivo": "Relatório Final ISP 2025, quadros 3 e 4, p. 61–62; Portaria SRPC/MPS 2.416/2025, arts. 2º–3º"
+    },
+    {
+     "frente": "Qual a relação entre nota final e perfil atuarial?",
+     "verso": "D → I; C → II; B → III; A → IV. Não são os níveis de certificação do Pró-Gestão.",
+     "dispositivo": "Portaria SPREV 14.762/2020, art. 14; Relatório Final ISP 2025, seção 13, p. 84"
+    },
+    {
+     "frente": "Qual é o marco inicial do prazo para informar a decisão de impugnação?",
+     "verso": "O encerramento do prazo para apresentar a impugnação. A decisão é informada em até 30 dias a partir desse marco.",
+     "dispositivo": "Portaria MTP 1.467/2022, art. 238, § 4º; Portaria SPREV 14.762/2020, art. 12, § 2º"
+    },
+    {
+     "frente": "O que estava aberto no ISP 2026 em 23/11/2026?",
+     "verso": "Validação de dados preliminares, com apontamento de correções pelo GESCON até 05/12/2026, sem admissão de informações novas.",
+     "dispositivo": "MPS, comunicado oficial ISP 2026: aberto prazo para Validação de Dados, de 06/11/2026"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "enunciado": "A classificação final do ISP pode combinar notas de gestão e transparência, situação financeira e situação atuarial; por isso, uma nota A em Modernização da Gestão não determina, sozinha, um ISP final A.",
+     "gabarito": "C",
+     "comentario": "Modernização integra somente a primeira dimensão. O resultado final depende da combinação das três dimensões, não de um indicador isolado.",
+     "dispositivo": "Portaria SPREV 14.762/2020, arts. 4º, 7º e 11; Relatório Final ISP 2025, quadros 3–4, p. 61–62"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O porte do RPPS no ISP é determinado pelo volume da carteira de investimentos, e a maturidade é determinada pela rentabilidade obtida no exercício-base.",
+     "gabarito": "E",
+     "comentario": "Porte utiliza quantidades de segurados e beneficiários; maturidade reflete a estrutura da massa, pela razão entre ativos e aposentados mais pensionistas. Patrimônio e rentabilidade não são esses critérios.",
+     "dispositivo": "Portaria MTP 1.467/2022, art. 238, § 2º; Relatório Final ISP 2025, seção 5, p. 23–24"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Na agregação atuarial detalhada no relatório final de 2025, utiliza-se a melhor nota entre os dois indicadores relacionados à RCL, em vez de computar ambos separadamente.",
+     "gabarito": "C",
+     "comentario": "Sustentabilidade das Provisões em relação à RCL e Comprometimento Atuarial da RCL são apurados, mas apenas a melhor classificação entra na combinação atuarial.",
+     "dispositivo": "Portaria SRPC/MPS 2.416/2025, arts. 2º–3º; Relatório Final ISP 2025, p. 61–62"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "O prazo de até 30 dias para informar a decisão sobre impugnação começa na data em que cada interessado apresenta sua contestação.",
+     "gabarito": "E",
+     "comentario": "O marco normativo é o encerramento do prazo para apresentação das impugnações, e não a data da contestação individual.",
+     "dispositivo": "Portaria MTP 1.467/2022, art. 238, § 4º; Portaria SPREV 14.762/2020, art. 12, § 2º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A nota B no ISP final corresponde ao Perfil Atuarial III, sem que isso signifique certificação institucional no nível III do Pró-Gestão.",
+     "gabarito": "C",
+     "comentario": "O art. 14 estabelece a correspondência entre ISP e perfil atuarial. O nível do Pró-Gestão pertence a outra classificação.",
+     "dispositivo": "Portaria SPREV 14.762/2020, arts. 7º e 14, III; Relatório Final ISP 2025, p. 84"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "A existência de segregação da massa autoriza que o ISP desconsidere as obrigações do fundo em repartição para avaliar apenas o fundo em capitalização.",
+     "gabarito": "E",
+     "comentario": "A metodologia considera o regime em sua integralidade. Segregar a massa não autoriza excluir o fundo em repartição dos indicadores pertinentes.",
+     "dispositivo": "Portaria SPREV 14.762/2020, arts. 8º, § 3º, 9º, § 4º, e 10; Relatório Final ISP 2025, p. 8, 40 e 48–49"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Na validação dos dados preliminares do ISP 2026 anunciada pelo MPS, os apontamentos devem ser feitos pelo GESCON até 05/12/2026, sem admissão de informações novas.",
+     "gabarito": "C",
+     "comentario": "O comunicado de 06/11/2026 define o canal e o prazo para correções e ressalva expressamente que informações novas não serão admitidas.",
+     "dispositivo": "MPS, comunicado ISP 2026: aberto prazo para Validação de Dados, de 06/11/2026"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "A Acumulação de Recursos é simplesmente a taxa de rentabilidade da carteira, pois sua fórmula não utiliza despesas previdenciárias nem alterações de saldo.",
+     "gabarito": "E",
+     "comentario": "O indicador relaciona o acréscimo ou decréscimo anual das aplicações e disponibilidades às despesas previdenciárias. Não mede apenas retorno sobre os investimentos.",
+     "dispositivo": "Portaria SPREV 14.762/2020, art. 9º; Relatório Final ISP 2025, seção 6.5, p. 42–43"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Uma equipe inicia a leitura do ISP 2025 e quer distinguir o ano de publicação do período de posição dos dados. Qual descrição é adequada à edição final divulgada pelo MPS?",
+     "alternativas": {
+      "A": "Todos os dados considerados referem-se a janeiro a dezembro de 2025, inclusive DIPR e DAIR.",
+      "B": "O exercício-base é 2024; DRAA e DPIN são identificados como 2025, enquanto DIPR e DAIR referem-se a 2024.",
+      "C": "A data limite de recebimento foi 31 de dezembro de 2025 para todos os demonstrativos.",
+      "D": "O DRAA utilizado tem data focal em 31 de dezembro de 2025, pois coincide com o ano do ISP.",
+      "E": "O índice usa obrigatoriamente o exercício de 2023, dois anos antes da publicação."
+     },
+     "gabarito": "B",
+     "comentario": "A identificação do demonstrativo e a posição dos dados não são a mesma coisa. A edição final de 2025 tem ano-base 2024 e recebimento geral até 31/07/2025.",
+     "comentarios_por_alternativa": {
+      "A": "Incorreta. DIPR e DAIR são do exercício-base de 2024, não de 2025.",
+      "B": "Correta. DRAA e DPIN de 2025 convivem com os demonstrativos mensais e bimestrais de 2024; o DRAA tem data focal em 31/12/2024.",
+      "C": "Incorreta. O limite geral de recebimento do ISP 2025 foi 31/07/2025.",
+      "D": "Incorreta. A avaliação do DRAA de 2025 é posicionada em 31/12/2024.",
+      "E": "Incorreta. O exercício-base geral é o imediatamente anterior, 2024; a alternativa não descreve a edição."
+     },
+     "dispositivo": "Portaria SPREV 14.762/2020, arts. 1º, § 2º, e 2º, I; Relatório Final ISP 2025, p. 2 e 7"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em exercício didático que aplica o quadro 3 do ISP 2025, os três indicadores de cada dimensão têm notas B, B e B. Aplicando em seguida o quadro 4, quais são a nota de cada dimensão e a nota final?",
+     "alternativas": {
+      "A": "Cada dimensão A; índice final A.",
+      "B": "Cada dimensão C; índice final B.",
+      "C": "Cada dimensão B; índice final B.",
+      "D": "Cada dimensão B; índice final C.",
+      "E": "Cada dimensão D; índice final D."
+     },
+     "gabarito": "D",
+     "comentario": "Os quadros têm funções diferentes: BBB de indicadores gera B em cada dimensão; BBB das dimensões gera C no índice final.",
+     "comentarios_por_alternativa": {
+      "A": "Incorreta. BBB não produz A no quadro de agregação dos indicadores.",
+      "B": "Incorreta. BBB produz B, não C, em cada dimensão; CCC das dimensões tampouco produziria B.",
+      "C": "Incorreta. Acerta a nota das dimensões, mas BBB das dimensões resulta em C no ISP final.",
+      "D": "Correta. Respeita os dois níveis de combinação e seus resultados próprios.",
+      "E": "Incorreta. D é classificação possível no índice final, não nas dimensões do quadro 3."
+     },
+     "dispositivo": "Portaria SRPC/MPS 2.416/2025, arts. 2º–3º; Relatório Final ISP 2025, quadros 3–4, p. 61–62"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Aplicando a metodologia de 2025, um RPPS recebe C em Sustentabilidade das Provisões em relação à RCL e A em Comprometimento Atuarial da RCL. Qual procedimento corresponde à agregação atuarial?",
+     "alternativas": {
+      "A": "Utilizar A como a nota desse componente, combinando-a com Cobertura e Reforma RPPS e Vigência de RPC.",
+      "B": "Utilizar C, pois sempre prevalece o pior resultado.",
+      "C": "Inserir A e C separadamente e combinar quatro votos iguais.",
+      "D": "Converter a média aritmética das letras em B, mesmo sem previsão no relatório.",
+      "E": "Eliminar também Cobertura e Reforma, pois a nota de RCL substitui toda a dimensão."
+     },
+     "gabarito": "A",
+     "comentario": "A melhor nota entre os dois indicadores de RCL entra como um dos três componentes usados na agregação atuarial.",
+     "comentarios_por_alternativa": {
+      "A": "Correta. A supera C e é combinada com os outros dois componentes da dimensão.",
+      "B": "Incorreta. A metodologia manda considerar a melhor classificação, não a pior.",
+      "C": "Incorreta. Embora quatro indicadores sejam estudados na dimensão, só três notas entram na combinação.",
+      "D": "Incorreta. A escolha da melhor nota não se confunde com média aritmética de letras.",
+      "E": "Incorreta. Cobertura e Reforma RPPS e Vigência de RPC continuam compondo a agregação."
+     },
+     "dispositivo": "Portaria SRPC/MPS 2.416/2025, arts. 2º–3º; Relatório Final ISP 2025, seção 7, p. 61–62"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Uma associação afirma que um RPPS certificado no Pró-Gestão nível II tem necessariamente ISP final A. Qual correção está de acordo com a disciplina do indicador?",
+     "alternativas": {
+      "A": "O nível II gera A em Modernização e A no índice final, independentemente das demais notas.",
+      "B": "O nível II gera D em Modernização, que é a melhor nota parcial.",
+      "C": "O nível II gera B em Modernização; o ISP final depende das combinações das demais notas e dimensões.",
+      "D": "A certificação institucional não é utilizada em nenhum indicador do ISP.",
+      "E": "O nível II substitui os demonstrativos financeiros faltantes para todos os indicadores."
+     },
+     "gabarito": "C",
+     "comentario": "A certificação institucional nível II conduz à nota B em Modernização da Gestão. O índice final não decorre automaticamente dessa nota.",
+     "comentarios_por_alternativa": {
+      "A": "Incorreta. I e II geram B em Modernização, e nenhuma nota isolada garante o ISP final A.",
+      "B": "Incorreta. Modernização utiliza A, B ou C; D não é sua classificação parcial.",
+      "C": "Correta. Separa certificação institucional, indicador parcial e índice final.",
+      "D": "Incorreta. A certificação é justamente a base de Modernização da Gestão.",
+      "E": "Incorreta. Certificação não supre as informações financeiras utilizadas em outros indicadores."
+     },
+     "dispositivo": "Portaria SPREV 14.762/2020, arts. 4º, 7º e 11; Relatório Final ISP 2025, p. 37 e 61–62"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "No exame metodológico da Suficiência Financeira do ISP 2025, RREO e DIPR foram apresentados com as informações exigidas. Após as exclusões aplicáveis, os quocientes receitas/despesas são, respectivamente, 1,20 e 0,80. Sem atribuir uma letra antes de consultar os limites do grupo, qual valor deve ser considerado?",
+     "alternativas": {
+      "A": "1,20, porque o RREO prevalece em qualquer situação.",
+      "B": "1,00, obtido por média obrigatória das duas razões.",
+      "C": "2,00, obtido pela soma dos resultados.",
+      "D": "0,40, pois se subtrai o menor quociente do maior.",
+      "E": "0,80, o resultado mais conservador entre os dois demonstrativos."
+     },
+     "gabarito": "E",
+     "comentario": "A revisão de 2025 confronta RREO e DIPR e adota o menor resultado. A transformação do valor em nota ainda depende dos limites pertinentes ao grupo/subgrupo.",
+     "comentarios_por_alternativa": {
+      "A": "Incorreta. A revisão não impõe prevalência automática do RREO; adota o menor resultado.",
+      "B": "Incorreta. A metodologia não determina a média das duas razões.",
+      "C": "Incorreta. Somar as razões não corresponde ao procedimento divulgado.",
+      "D": "Incorreta. A diferença entre razões não é o indicador escolhido.",
+      "E": "Correta. 0,80 é o menor dos resultados apresentados e deve ser considerado nessa comparação."
+     },
+     "dispositivo": "Portaria SRPC/MPS 2.416/2025, arts. 2º–3º; Relatório Final ISP 2025, seção 6.4, p. 39–41"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Em 23/11/2026, uma equipe quer usar a planilha preliminar do ISP 2026 como se já trouxesse a classificação final vigente. Qual orientação é sustentada pelas páginas oficiais consultadas?",
+     "alternativas": {
+      "A": "A planilha preliminar já substitui automaticamente todos os resultados finais, sem validação.",
+      "B": "O ISP 2026 está em validação de dados; correções podem ser apontadas pelo GESCON até 05/12/2026, sem informações novas.",
+      "C": "A validação autoriza o primeiro envio de demonstrativos omitidos, sem qualquer limite temporal.",
+      "D": "Os apontamentos devem ser enviados a uma instituição financeira, não ao GESCON.",
+      "E": "A posição dos critérios do Extrato Previdenciário é a data de cada acesso à planilha."
+     },
+     "gabarito": "B",
+     "comentario": "A etapa disponibilizada em novembro de 2026 é de validação das informações que serão utilizadas no cálculo, não de homologação de um resultado final.",
+     "comentarios_por_alternativa": {
+      "A": "Incorreta. A página identifica dados preliminares para validação, sem os apresentar como resultado final.",
+      "B": "Correta. Reproduz a natureza da etapa, o canal, o prazo e a restrição do comunicado oficial.",
+      "C": "Incorreta. O comunicado não admite informações novas; o corte geral de fornecimento é 31 de julho.",
+      "D": "Incorreta. Os apontamentos devem usar o GESCON.",
+      "E": "Incorreta. O comunicado fixa a posição dos critérios em 31/12/2025."
+     },
+     "dispositivo": "MPS, página Índice de Situação Previdenciária — Divulgação de Resultados, atualizada em 06/11/2026; comunicado ISP 2026: aberto prazo para Validação de Dados, de 06/11/2026"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Um RPPS obtém notas de dimensão B em gestão e transparência, C em situação financeira e C em situação atuarial. Pela combinação final do ISP 2025 e pela correspondência de perfis, qual é o resultado?",
+     "alternativas": {
+      "A": "ISP D e Perfil Atuarial I.",
+      "B": "ISP C e Perfil Atuarial III.",
+      "C": "ISP B e Perfil Atuarial II.",
+      "D": "ISP A e Perfil Atuarial IV.",
+      "E": "ISP D e certificação automática Pró-Gestão nível IV."
+     },
+     "gabarito": "A",
+     "comentario": "BCC corresponde a D no quadro final. A nota D é relacionada ao Perfil Atuarial I, sem conceder certificação institucional.",
+     "comentarios_por_alternativa": {
+      "A": "Correta. Une a combinação BCC → D à correspondência D → Perfil I.",
+      "B": "Incorreta. BCC produz D, não C; além disso, C se relaciona ao Perfil II.",
+      "C": "Incorreta. A nota não é B; e B corresponderia ao Perfil III.",
+      "D": "Incorreta. A combinação que gera A final é AAA, não BCC.",
+      "E": "Incorreta. Acerta D, mas confunde perfil atuarial com certificação institucional e inventa concessão automática."
+     },
+     "dispositivo": "Relatório Final ISP 2025, quadro 4, p. 62, e seção 13, p. 84; Portaria SPREV 14.762/2020, arts. 11, II, e 14, I"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Após revisão autorizada da metodologia do ISP, uma equipe quer comparar a variação das notas como se os critérios fossem necessariamente idênticos. Qual procedimento normativo e analítico deve observar?",
+     "alternativas": {
+      "A": "Ocultar a metodologia anterior, porque qualquer revisão apaga a série histórica.",
+      "B": "Interpretar toda melhora de nota como aumento certo da solvência, sem examinar a fórmula.",
+      "C": "Exigir autorização da revisão pelo RPPS individual, em substituição ao ato da Secretaria.",
+      "D": "Verificar o ato autorizador e a metodologia; se a alteração ocorrer antes de três anos da anterior, continuar divulgando os resultados antigos até completar o período.",
+      "E": "Somar a nota antiga à nova para construir um resultado final não previsto nas fontes."
+     },
+     "gabarito": "D",
+     "comentario": "Há exigência de autorização da revisão e regra de continuidade da divulgação da metodologia antiga quando a mudança ocorre antes do intervalo de três anos. Comparabilidade não se presume sem verificar critérios.",
+     "comentarios_por_alternativa": {
+      "A": "Incorreta. Contraria a continuidade de divulgação prevista para a alteração antecipada.",
+      "B": "Incorreta. A alteração de critérios pode afetar notas; o ISP não atesta automaticamente uma melhora específica de solvência.",
+      "C": "Incorreta. A autorização é por ato da Secretaria competente, não pelo RPPS individual.",
+      "D": "Correta. Observa a autorização, a leitura metodológica e a regra temporal de preservação da divulgação anterior.",
+      "E": "Incorreta. Não há combinação normativa por soma das notas de edições diferentes."
+     },
+     "dispositivo": "Portaria MTP 1.467/2022, art. 238, § 5º; Portaria SPREV 14.762/2020, art. 13; Portaria SRPC/MPS 2.416/2025, arts. 2º–4º"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O ano do ISP é o de sua ___. A posição geral dos dados corresponde ao exercício ___.",
+     "opcoes": [
+      "publicação",
+      "anterior",
+      "posterior",
+      "adesão"
+     ],
+     "respostas": [
+      "publicação",
+      "anterior"
+     ],
+     "explicacao": "A identificação do ano do índice não desloca para esse mesmo ano o período-base dos dados.",
+     "dispositivo": "Portaria SPREV 14.762/2020, art. 1º, § 2º, I e III; Portaria MTP 1.467/2022, art. 238, § 1º"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "No quadro 3 de 2025, BBB dos indicadores produz ___ na dimensão; no quadro 4, BBB das dimensões produz ___ no índice final.",
+     "opcoes": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "respostas": [
+      "B",
+      "C"
+     ],
+     "explicacao": "O significado de BBB depende do nível de agregação. Os dois quadros não são intercambiáveis.",
+     "dispositivo": "Relatório Final ISP 2025, quadros 3–4, p. 61–62; Portaria SRPC/MPS 2.416/2025, arts. 2º–3º"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a sequência didática de leitura do ISP, partindo da edição identificada e dos dados conferidos até o perfil atuarial.",
+     "itens": [
+      "Identificar a edição e o exercício-base e conferir os dados utilizados",
+      "Localizar o grupo de porte e o subgrupo de maturidade",
+      "Apurar e classificar os indicadores segundo a metodologia da edição",
+      "Combinar as notas dos indicadores em cada dimensão",
+      "Combinar as três dimensões para obter o ISP final",
+      "Relacionar o ISP final ao perfil atuarial"
+     ],
+     "explicacao": "Esta é uma sequência didática, não um novo rito administrativo. A agregação deve distinguir notas de indicadores, de dimensões e do índice final.",
+     "dispositivo": "Portaria MTP 1.467/2022, art. 238, §§ 1º–3º; Portaria SPREV 14.762/2020, arts. 11 e 14; Relatório Final ISP 2025, p. 61–62 e 84"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Modernização da Gestão",
+       "Certificação institucional Pró-Gestão"
+      ],
+      [
+       "Suficiência Financeira",
+       "Cobertura das despesas anuais pelas receitas, com ajustes metodológicos"
+      ],
+      [
+       "Acumulação de Recursos",
+       "Variação anual das aplicações e disponibilidades em relação às despesas"
+      ],
+      [
+       "Cobertura dos Compromissos Previdenciários — metodologia 2025",
+       "Aplicações e disponibilidades divididas pelas provisões matemáticas"
+      ]
+     ],
+     "explicacao": "Cada indicador mede um aspecto específico; suficiência no ano, acumulação e cobertura atuarial não são sinônimos.",
+     "dispositivo": "Portaria SPREV 14.762/2020, arts. 7º–10; Relatório Final ISP 2025, seções 6.3–6.7, p. 36–49"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "ISP final D",
+       "Perfil Atuarial I"
+      ],
+      [
+       "ISP final C",
+       "Perfil Atuarial II"
+      ],
+      [
+       "ISP final B",
+       "Perfil Atuarial III"
+      ],
+      [
+       "ISP final A",
+       "Perfil Atuarial IV"
+      ]
+     ],
+     "explicacao": "A numeração crescente dos perfis acompanha a passagem de D para A; não corresponde aos níveis institucionais do Pró-Gestão.",
+     "dispositivo": "Portaria SPREV 14.762/2020, art. 14; Relatório Final ISP 2025, seção 13, p. 84"
+    }
+   ]
+  }
+ ]
+}
