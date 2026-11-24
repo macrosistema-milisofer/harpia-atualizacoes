@@ -1,5 +1,5 @@
 {
- "edital": "enem-2026",
+ "edital": "",
  "titulo": "Exame Nacional do Ensino Médio — ENEM 2026",
  "atualizado_em": "2026-11-24",
  "situacao": "Aplicação regular concluída; reaplicação prevista para 15 e 16/12/2026; resultado previsto para 18/01/2027, conforme notícia oficial do INEP.",
@@ -37,7 +37,7 @@
   },
   {
    "data": "18/01/2027",
-   "evento": "Divulgação dos resultados individuais, conforme notícia oficial do INEP consultada em 2026-11-24."
+   "evento": "Divulgação dos resultados individuais."
   }
  ],
  "remuneracao": {
@@ -121,12 +121,11 @@
   }
  ],
  "fontes": [
-  "Edital INEP nº 64/2026, cronograma e regras gerais: https://mecnormas.mec.gov.br/pesquisa/detalhar/11900 (consultado em 2026-11-24).",
-  "Retificação de 05/06/2026 do Edital INEP nº 64/2026 — cronograma vigente de inscrição, taxa e atendimento especializado: https://mecnormas.mec.gov.br/pesquisa/detalhar/12113 (consultada em 2026-11-24).",
-  "Retificação de 10/11/2026 — solicitação e datas da reaplicação: https://mecnormas.mec.gov.br/pesquisa/detalhar/15959 (consultada em 2026-11-24).",
-  "Balanço oficial do segundo dia do ENEM 2026 — série de inscrições confirmadas, com 2026 marcado como preliminar: https://download.inep.gov.br/enem/outros_documentos/enem_2026_balanco_da_aplicacao_segundo_dia.pdf (consultado em 2026-11-24).",
-  "INEP, notícia sobre divulgação dos resultados em 18/01/2027 e gabaritos em 18/11/2026: https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/enem/resultados-do-enem-serao-divulgados-em-18-de-janeiro (consultada em 2026-11-24).",
-  "INEP, Guia do Participante — Entenda sua nota no ENEM: https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/entenda_a_sua_nota_no_enem_guia_do_participante.pdf (consultado em 2026-11-24).",
-  "INEP, Nota Técnica da Teoria de Resposta ao Item: https://download.inep.gov.br/educacao_basica/enem/nota_tecnica/2011/nota_tecnica_tri.pdf (consultada em 2026-11-24)."
+  "Edital INEP nº 64/2026, cronograma e regras gerais: https://mecnormas.mec.gov.br/pesquisa/detalhar/11900.",
+  "Retificação de 05/06/2026 do Edital INEP nº 64/2026 — cronograma vigente de inscrição, taxa e atendimento especializado: https://mecnormas.mec.gov.br/pesquisa/detalhar/12113.",
+  "Retificação de 10/11/2026 — solicitação e datas da reaplicação: https://mecnormas.mec.gov.br/pesquisa/detalhar/15959.",
+  "Balanço oficial do segundo dia do ENEM 2026 — série de inscrições confirmadas, com 2026 marcado como preliminar: https://download.inep.gov.br/enem/outros_documentos/enem_2026_balanco_da_aplicacao_segundo_dia.pdf.",
+  "INEP, Guia do Participante — Entenda sua nota no ENEM: https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/entenda_a_sua_nota_no_enem_guia_do_participante.pdf.",
+  "INEP, Nota Técnica da Teoria de Resposta ao Item: https://download.inep.gov.br/educacao_basica/enem/nota_tecnica/2011/nota_tecnica_tri.pdf."
  ]
 }

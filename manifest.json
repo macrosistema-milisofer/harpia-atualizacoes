@@ -159,9 +159,9 @@
   "conteudo/mapas/incidencia.json": 2,
   "conteudo/mapas/incidencia_bancas.json": 1,
   "conteudo/mapas/topicos.json": 14,
-  "conteudo/raiox/enem-2026.json": 2,
-  "conteudo/raiox/magistratura-tjsc-2026.json": 2,
-  "conteudo/raiox/rpps-cginv-3.json": 2,
+  "conteudo/raiox/enem-2026.json": 3,
+  "conteudo/raiox/magistratura-tjsc-2026.json": 3,
+  "conteudo/raiox/rpps-cginv-3.json": 4,
   "editais/_indice.json": 3,
   "editais/_topicos.json": 2,
   "editais/agu-advogado-uniao-2022.json": 1,
@@ -388,9 +388,9 @@
  },
  "app": {
   "android": {
-   "build": 18,
-   "versao": "1.7.5",
-   "url": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-18.apk",
+   "build": 21,
+   "versao": "1.8.2",
+   "url": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-21.apk",
    "notas": "Lições com flashcards e questões, revisão espaçada e atualização automática.",
    "url32": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-32bits.apk"
   }

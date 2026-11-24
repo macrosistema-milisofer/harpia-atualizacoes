@@ -1,5 +1,5 @@
 {
- "edital": "magistratura-tjsc-2026",
+ "edital": "",
  "titulo": "Juiz Substituto — TJSC 2026",
  "atualizado_em": "2026-11-24",
  "situacao": "Edital retificado nº 33/2026; inscrições até 26/11/2026, às 16h (horário de Brasília).",
@@ -23,7 +23,8 @@
  "remuneracao": {
   "edital": "Subsídio de R$ 34.083,15 na data de publicação do edital.",
   "real": null,
-  "fonte": "Portal da Transparência do TJSC/Thema: https://tjsc.thema.inf.br/rhsysportaltransp/#!/relacaoservidoresmes — consultado em 2026-11-24; referência de competência 10/2026, mas a consulta individual de cargo/servidor exigiu CAPTCHA e não permitiu confirmar valor bruto ou líquido de juiz substituto."
+  "fonte": null,
+  "aviso": "Não foi possível verificar a remuneração real. Recomendamos acessar o Portal da Transparência do órgão: https://tjsc.thema.inf.br/rhsysportaltransp/#!/relacaoservidoresmes"
  },
  "concorrencia_atual": null,
  "concorrencia_historico": [
@@ -69,11 +70,11 @@
   }
  ],
  "fontes": [
-  "Edital retificado nº 33/2026 — FGV, itens 1.2–1.4, 3.4, 4.1–4.1.1, 9–12: https://conhecimento.fgv.br/sites/default/files/concursos/edital-n-33-2026-edital-de-abertura-retificado.pdf (consultado em 2026-11-24).",
-  "Página oficial do concurso — FGV: https://conhecimento.fgv.br/concursos/tjscjuiz26 (consultada em 2026-11-24).",
-  "Demanda por vaga — TJSC 2024, FGV: https://conhecimento.fgv.br/sites/default/files/concursos/116-tjsc-demandavaga_0.pdf (consultado em 2026-11-24).",
-  "Demanda por vaga — TJSC 2025, FGV: https://conhecimento.fgv.br/sites/default/files/concursos/118_tjsc_juizsubstituto_demandavaga_definitivo-002.pdf (consultado em 2026-11-24).",
-  "Portal da Transparência do TJSC/Thema: https://tjsc.thema.inf.br/rhsysportaltransp/#!/relacaoservidoresmes (consultado em 2026-11-24; consulta individual limitada por CAPTCHA).",
-  "Notícia oficial TJSC sobre inscritos em 2024: https://www.tjsc.jus.br/web/imprensa/-/tjsc-divulga-gabarito-da-prova-objetiva-do-concurso-da-magistratura- (consultada em 2026-11-24 por resultado de busca; leitura direta da página bloqueada por CAPTCHA)."
+  "Edital retificado nº 33/2026 — FGV, itens 1.2–1.4, 3.4, 4.1–4.1.1, 9–12: https://conhecimento.fgv.br/sites/default/files/concursos/edital-n-33-2026-edital-de-abertura-retificado.pdf.",
+  "Página oficial do concurso — FGV: https://conhecimento.fgv.br/concursos/tjscjuiz26.",
+  "Demanda por vaga — TJSC 2024, FGV: https://conhecimento.fgv.br/sites/default/files/concursos/116-tjsc-demandavaga_0.pdf.",
+  "Demanda por vaga — TJSC 2025, FGV: https://conhecimento.fgv.br/sites/default/files/concursos/118_tjsc_juizsubstituto_demandavaga_definitivo-002.pdf.",
+  "Portal da Transparência do TJSC/Thema: https://tjsc.thema.inf.br/rhsysportaltransp/#!/relacaoservidoresmes.",
+  "Notícia oficial TJSC sobre inscritos em 2024: https://www.tjsc.jus.br/web/imprensa/-/tjsc-divulga-gabarito-da-prova-objetiva-do-concurso-da-magistratura-."
  ]
 }
