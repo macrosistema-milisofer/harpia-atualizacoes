@@ -160,7 +160,7 @@
   "conteudo/mapas/incidencia_bancas.json": 1,
   "conteudo/mapas/topicos.json": 14,
   "conteudo/raiox/enem-2026.json": 3,
-  "conteudo/raiox/magistratura-tjsc-2026.json": 3,
+  "conteudo/raiox/magistratura-tjsc-2026.json": 4,
   "conteudo/raiox/rpps-cginv-3.json": 4,
   "editais/_indice.json": 3,
   "editais/_topicos.json": 2,
@@ -388,9 +388,9 @@
  },
  "app": {
   "android": {
-   "build": 21,
-   "versao": "1.8.2",
-   "url": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-21.apk",
+   "build": 22,
+   "versao": "1.8.3",
+   "url": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-22.apk",
    "notas": "Lições com flashcards e questões, revisão espaçada e atualização automática.",
    "url32": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-32bits.apk"
   }

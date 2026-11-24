@@ -24,7 +24,9 @@
   "edital": "Subsídio de R$ 34.083,15 na data de publicação do edital.",
   "real": null,
   "fonte": null,
-  "aviso": "Não foi possível verificar a remuneração real. Recomendamos acessar o Portal da Transparência do órgão: https://tjsc.thema.inf.br/rhsysportaltransp/#!/relacaoservidoresmes"
+  "aviso": "Não foi possível verificar a remuneração real. Recomendamos acessar o Portal da Transparência do órgão: https://tjsc.thema.inf.br/rhsysportaltransp/#!/relacaoservidoresmes",
+  "tabela_oficial": "Juiz Substituto: subsídio de R$ 34.083,15 (tabela oficial do TJSC, setembro/2026). Na carreira: Juiz de Entrância Inicial R$ 35.874,14; Final R$ 37.765,55; Especial R$ 39.753,21; Desembargador R$ 41.845,49.",
+  "fonte_tabela": "https://www.tjsc.jus.br/documents/d/transparencia/anexoiiic-setembro2026-pdf"
  },
  "concorrencia_atual": null,
  "concorrencia_historico": [
