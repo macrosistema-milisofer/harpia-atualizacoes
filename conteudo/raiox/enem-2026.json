@@ -1,0 +1,132 @@
+{
+ "edital": "enem-2026",
+ "titulo": "Exame Nacional do Ensino Médio — ENEM 2026",
+ "atualizado_em": "2026-11-24",
+ "situacao": "Aplicação regular concluída; reaplicação prevista para 15 e 16/12/2026; resultado previsto para 18/01/2027, conforme notícia oficial do INEP.",
+ "banca": "INEP/MEC",
+ "mensagem_inicial": "O ENEM reúne quatro provas objetivas de 45 questões cada e uma redação. A nota das provas objetivas é calculada pela TRI: o total de acertos, isoladamente, não determina a pontuação, pois também importa o padrão de respostas.",
+ "vagas": null,
+ "cronograma": [
+  {
+   "data": "25/05/2026 a 12/06/2026",
+   "evento": "Inscrições, tratamento pelo nome social e solicitação de atendimento especializado, conforme o cronograma retificado em 05/06/2026."
+  },
+  {
+   "data": "25/05/2026 a 17/06/2026",
+   "evento": "Pagamento da taxa de inscrição (R$ 85,00)."
+  },
+  {
+   "data": "26/06/2026; recurso de 29/06 a 03/07; resultado do recurso em 10/07/2026",
+   "evento": "Resultado das solicitações de atendimento especializado, prazo recursal e resultado dos recursos."
+  },
+  {
+   "data": "08/11/2026 e 15/11/2026",
+   "evento": "Aplicação regular das provas."
+  },
+  {
+   "data": "18/11/2026",
+   "evento": "Divulgação dos gabaritos oficiais, conforme notícia do INEP."
+  },
+  {
+   "data": "16/11/2026 a 20/11/2026",
+   "evento": "Período para solicitar reaplicação, conforme retificação de 10/11/2026."
+  },
+  {
+   "data": "15/12/2026 e 16/12/2026",
+   "evento": "Aplicação da reaplicação do ENEM 2026."
+  },
+  {
+   "data": "18/01/2027",
+   "evento": "Divulgação dos resultados individuais, conforme notícia oficial do INEP consultada em 2026-11-24."
+  }
+ ],
+ "remuneracao": {
+  "edital": null,
+  "real": null,
+  "fonte": null
+ },
+ "concorrencia_atual": "5.053.921 inscrições confirmadas em 2026; dado preliminar do balanço do INEP, sujeito a processamento final.",
+ "concorrencia_historico": [
+  {
+   "ano": "2022",
+   "inscritos": "3.476.105 inscrições confirmadas",
+   "vagas": null,
+   "relacao": null
+  },
+  {
+   "ano": "2023",
+   "inscritos": "3.934.242 inscrições confirmadas",
+   "vagas": null,
+   "relacao": null
+  },
+  {
+   "ano": "2024",
+   "inscritos": "4.325.960 inscrições confirmadas",
+   "vagas": null,
+   "relacao": null
+  },
+  {
+   "ano": "2025",
+   "inscritos": "4.811.338 inscrições confirmadas",
+   "vagas": null,
+   "relacao": null
+  },
+  {
+   "ano": "2026",
+   "inscritos": "5.053.921 inscrições confirmadas (preliminar; sujeito a processamento final)",
+   "vagas": null,
+   "relacao": null
+  }
+ ],
+ "formato_banca": {
+  "perfil": null,
+  "extensao": null,
+  "tipo": "Quatro provas objetivas de múltipla escolha, com 45 questões cada (180 questões no total), e redação em Língua Portuguesa. No primeiro dia são aplicadas Linguagens, Ciências Humanas e redação, em 5h30; no segundo dia, Ciências da Natureza e Matemática, em 5h. Horário oficial: início às 13h30; término às 19h no primeiro dia e às 18h30 no segundo."
+ },
+ "estrutura": {
+  "provas_objetivas": 4,
+  "questoes_por_prova": 45,
+  "total_questoes_objetivas": 180,
+  "areas": [
+   "Linguagens, Códigos e suas Tecnologias",
+   "Ciências Humanas e suas Tecnologias",
+   "Ciências da Natureza e suas Tecnologias",
+   "Matemática e suas Tecnologias"
+  ],
+  "redacao": "Uma redação em Língua Portuguesa, aplicada no primeiro dia."
+ },
+ "tri": {
+  "modelo": "Modelo logístico de três parâmetros (TRI).",
+  "parametros": [
+   "Discriminação do item",
+   "Dificuldade do item",
+   "Probabilidade de acerto casual"
+  ],
+  "interpretacao": "A nota não corresponde a uma conversão linear da quantidade de acertos. O padrão de respostas do participante é considerado; participantes com o mesmo número de acertos podem obter notas diferentes.",
+  "fonte": "INEP, Guia do Participante e Nota Técnica da TRI, URLs listadas em fontes."
+ },
+ "temas_preferidos": [],
+ "fases": [
+  {
+   "fase": "1º dia — aplicação regular",
+   "descricao": "45 questões de Linguagens, 45 de Ciências Humanas e redação; duração de 5h30."
+  },
+  {
+   "fase": "2º dia — aplicação regular",
+   "descricao": "45 questões de Ciências da Natureza e 45 de Matemática; duração de 5h."
+  },
+  {
+   "fase": "Reaplicação",
+   "descricao": "Aplicação em 15 e 16/12/2026 para os casos admitidos conforme o edital e a retificação; solicitação entre 16 e 20/11/2026."
+  }
+ ],
+ "fontes": [
+  "Edital INEP nº 64/2026, cronograma e regras gerais: https://mecnormas.mec.gov.br/pesquisa/detalhar/11900 (consultado em 2026-11-24).",
+  "Retificação de 05/06/2026 do Edital INEP nº 64/2026 — cronograma vigente de inscrição, taxa e atendimento especializado: https://mecnormas.mec.gov.br/pesquisa/detalhar/12113 (consultada em 2026-11-24).",
+  "Retificação de 10/11/2026 — solicitação e datas da reaplicação: https://mecnormas.mec.gov.br/pesquisa/detalhar/15959 (consultada em 2026-11-24).",
+  "Balanço oficial do segundo dia do ENEM 2026 — série de inscrições confirmadas, com 2026 marcado como preliminar: https://download.inep.gov.br/enem/outros_documentos/enem_2026_balanco_da_aplicacao_segundo_dia.pdf (consultado em 2026-11-24).",
+  "INEP, notícia sobre divulgação dos resultados em 18/01/2027 e gabaritos em 18/11/2026: https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/enem/resultados-do-enem-serao-divulgados-em-18-de-janeiro (consultada em 2026-11-24).",
+  "INEP, Guia do Participante — Entenda sua nota no ENEM: https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/entenda_a_sua_nota_no_enem_guia_do_participante.pdf (consultado em 2026-11-24).",
+  "INEP, Nota Técnica da Teoria de Resposta ao Item: https://download.inep.gov.br/educacao_basica/enem/nota_tecnica/2011/nota_tecnica_tri.pdf (consultada em 2026-11-24)."
+ ]
+}

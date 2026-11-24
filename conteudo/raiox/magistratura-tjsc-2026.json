@@ -1,0 +1,79 @@
+{
+ "edital": "magistratura-tjsc-2026",
+ "titulo": "Juiz Substituto — TJSC 2026",
+ "atualizado_em": "2026-11-24",
+ "situacao": "Edital retificado nº 33/2026; inscrições até 26/11/2026, às 16h (horário de Brasília).",
+ "banca": "FGV",
+ "mensagem_inicial": "O concurso prevê 15 vagas imediatas, além de cadastro de reserva, e tem cinco etapas sucessivas. A prova objetiva seletiva está prevista para 31/01/2027; acompanhe as publicações oficiais da FGV e do TJSC para eventuais atualizações.",
+ "vagas": "15 vagas + cadastro de reserva: 9 ampla concorrência, 1 PcD, 4 para pessoas negras e 1 para pessoa indígena; há cadastro de reserva para quilombolas.",
+ "cronograma": [
+  {
+   "data": "19/10/2026, 16h a 26/11/2026, 16h (Brasília)",
+   "evento": "Inscrição preliminar."
+  },
+  {
+   "data": "27/11/2026",
+   "evento": "Prazo final indicado no edital para pagamento da taxa de inscrição de R$ 340,00."
+  },
+  {
+   "data": "31/01/2027, 13h–18h (Brasília)",
+   "evento": "Prova objetiva seletiva, prevista no edital."
+  }
+ ],
+ "remuneracao": {
+  "edital": "Subsídio de R$ 34.083,15 na data de publicação do edital.",
+  "real": null,
+  "fonte": "Portal da Transparência do TJSC/Thema: https://tjsc.thema.inf.br/rhsysportaltransp/#!/relacaoservidoresmes — consultado em 2026-11-24; referência de competência 10/2026, mas a consulta individual de cargo/servidor exigiu CAPTCHA e não permitiu confirmar valor bruto ou líquido de juiz substituto."
+ },
+ "concorrencia_atual": null,
+ "concorrencia_historico": [
+  {
+   "ano": "2024",
+   "inscritos": "3.023 candidatos",
+   "vagas": "20",
+   "relacao": "151,15 candidatos por vaga"
+  },
+  {
+   "ano": "2025",
+   "inscritos": "2.774 candidatos",
+   "vagas": "20",
+   "relacao": "138,70 candidatos por vaga"
+  }
+ ],
+ "formato_banca": {
+  "perfil": null,
+  "extensao": null,
+  "tipo": "Primeira etapa: prova objetiva seletiva com 100 questões de múltipla escolha, cinco alternativas, divididas em três blocos de 40, 30 e 30 questões. O concurso também prevê provas escritas (discursiva e sentenças), avaliação eliminatória de inscrição definitiva, prova oral e avaliação de títulos."
+ },
+ "temas_preferidos": [],
+ "fases": [
+  {
+   "fase": "I — Prova objetiva seletiva",
+   "descricao": "Eliminatória e classificatória; 100 questões de múltipla escolha, cinco alternativas, em três blocos (40/30/30)."
+  },
+  {
+   "fase": "II — Provas escritas",
+   "descricao": "Prova discursiva e provas práticas de sentença; eliminatórias e classificatórias."
+  },
+  {
+   "fase": "III — Inscrição definitiva",
+   "descricao": "Eliminatória; sindicância da vida pregressa e investigação social, exame de sanidade física e mental (avaliação médica) e exame psicotécnico (avaliação psicológica)."
+  },
+  {
+   "fase": "IV — Prova oral",
+   "descricao": "Eliminatória e classificatória."
+  },
+  {
+   "fase": "V — Avaliação de títulos",
+   "descricao": "Classificatória."
+  }
+ ],
+ "fontes": [
+  "Edital retificado nº 33/2026 — FGV, itens 1.2–1.4, 3.4, 4.1–4.1.1, 9–12: https://conhecimento.fgv.br/sites/default/files/concursos/edital-n-33-2026-edital-de-abertura-retificado.pdf (consultado em 2026-11-24).",
+  "Página oficial do concurso — FGV: https://conhecimento.fgv.br/concursos/tjscjuiz26 (consultada em 2026-11-24).",
+  "Demanda por vaga — TJSC 2024, FGV: https://conhecimento.fgv.br/sites/default/files/concursos/116-tjsc-demandavaga_0.pdf (consultado em 2026-11-24).",
+  "Demanda por vaga — TJSC 2025, FGV: https://conhecimento.fgv.br/sites/default/files/concursos/118_tjsc_juizsubstituto_demandavaga_definitivo-002.pdf (consultado em 2026-11-24).",
+  "Portal da Transparência do TJSC/Thema: https://tjsc.thema.inf.br/rhsysportaltransp/#!/relacaoservidoresmes (consultado em 2026-11-24; consulta individual limitada por CAPTCHA).",
+  "Notícia oficial TJSC sobre inscritos em 2024: https://www.tjsc.jus.br/web/imprensa/-/tjsc-divulga-gabarito-da-prova-objetiva-do-concurso-da-magistratura- (consultada em 2026-11-24 por resultado de busca; leitura direta da página bloqueada por CAPTCHA)."
+ ]
+}

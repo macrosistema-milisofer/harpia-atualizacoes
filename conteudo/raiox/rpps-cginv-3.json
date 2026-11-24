@@ -1,0 +1,105 @@
+{
+ "edital": "cp-rpps-cginv-3",
+ "titulo": "Certificação Profissional dos Profissionais dos RPPS — CGINV III (Avançado)",
+ "atualizado_em": "2026-11-24",
+ "situacao": "Certificação profissional disponível por entidades credenciadas; o calendário de aplicação, agendamento e preço dependem da entidade certificadora e da modalidade escolhida.",
+ "banca": "ABIPEM, APIMEC Brasil e Instituto Totum (entidades com modalidade de exame CPR/CPT indicada na Portaria SRPC/MPS nº 607/2026).",
+ "mensagem_inicial": "A CGINV III é a certificação de nível avançado para profissionais de RPPS. O exame tem 80 questões e exige pelo menos 56 acertos; a certificação tem validade máxima de quatro anos. O nível aplicável depende da função e das regras do RPPS: CGINV III não é requisito universal para todo membro de comitê ou conselho.",
+ "vagas": null,
+ "cronograma": [
+  {
+   "data": null,
+   "evento": "Não há calendário nacional único de inscrição e aplicação; consultar a agenda atual da entidade credenciadora e a modalidade de certificação."
+  },
+  {
+   "data": "Até 90 dias após a aquisição",
+   "evento": "A página comercial APIMEC/FK informa prazo de até 90 dias para agendamento da prova CGINV III após a compra."
+  }
+ ],
+ "remuneracao": {
+  "edital": null,
+  "real": null,
+  "fonte": null
+ },
+ "concorrencia_atual": null,
+ "concorrencia_historico": [],
+ "formato_banca": {
+  "perfil": null,
+  "extensao": null,
+  "tipo": "Prova objetiva de múltipla escolha com 80 questões, quatro alternativas por questão e uma resposta correta. As questões têm igual valor; aprovação com pelo menos 70% de acertos (56 questões). Tempo mínimo de prova: 3h30. Validade máxima da certificação: quatro anos contados da emissão.",
+  "questoes": 80,
+  "alternativas_por_questao": 4,
+  "acertos_minimos": 56,
+  "nota_minima_percentual": 70,
+  "tempo_minimo": "3h30",
+  "validade": "Até quatro anos contados da data de emissão."
+ },
+ "certificadoras": [
+  {
+   "nome": "ABIPEM",
+   "status": "Credenciada pela Portaria SRPC/MPS nº 607/2026; o Anexo III relaciona modalidade de certificação profissional por exame CPR/CPT.",
+   "fonte": "https://www.gov.br/previdencia/pt-br/assuntos/rpps/legislacao-dos-rpps/2025/PortariaSRPCMPSn607de9abr2026RepublicadanoDOU15.4.2026.pdf"
+  },
+  {
+   "nome": "APIMEC Brasil",
+   "status": "Credenciada pela Portaria SRPC/MPS nº 607/2026; modalidade de prova CPR/CPT indicada no Anexo III.",
+   "fonte": "https://www.gov.br/previdencia/pt-br/assuntos/rpps/legislacao-dos-rpps/2025/PortariaSRPCMPSn607de9abr2026RepublicadanoDOU15.4.2026.pdf"
+  },
+  {
+   "nome": "Instituto Totum",
+   "status": "Credenciado pela Portaria SRPC/MPS nº 607/2026; modalidade de prova CPR/CPT indicada no Anexo III.",
+   "fonte": "https://www.gov.br/previdencia/pt-br/assuntos/rpps/legislacao-dos-rpps/2025/PortariaSRPCMPSn607de9abr2026RepublicadanoDOU15.4.2026.pdf"
+  },
+  {
+   "nome": "Centro Latino-Americano de Estudos Jurídicos",
+   "status": "Consta como entidade credenciada no Anexo III da Portaria nº 607/2026; o anexo lista cursos CCP/CAP, não modalidade de exame CPR/CPT para esta certificação.",
+   "fonte": "https://www.gov.br/previdencia/pt-br/assuntos/rpps/legislacao-dos-rpps/2025/PortariaSRPCMPSn607de9abr2026RepublicadanoDOU15.4.2026.pdf"
+  },
+  {
+   "nome": "Instituto Anasps",
+   "status": "Consta como entidade credenciada no Anexo III da Portaria nº 607/2026; o anexo lista cursos CCP/CAP, não modalidade de exame CPR/CPT para esta certificação.",
+   "fonte": "https://www.gov.br/previdencia/pt-br/assuntos/rpps/legislacao-dos-rpps/2025/PortariaSRPCMPSn607de9abr2026RepublicadanoDOU15.4.2026.pdf"
+  }
+ ],
+ "custos_consultados": [
+  {
+   "certificadora": "Instituto Totum",
+   "valor": "R$ 330,00 por prova na inscrição individual; R$ 270,00 por prova em lote via sistema Totum; R$ 320,00 por prova em lote para contratação pública.",
+   "data_consulta": "2026-11-24",
+   "fonte": "Edital de Certificação Profissional SRPC/MPS, revisão 37, de 31/08/2026: https://institutototum.com.br/wp-content/uploads/2026/08/DC.OPC_.SPREV_.00.37-Edital-de-Certificacao-Profissional-SRPC-MPS.pdf"
+  },
+  {
+   "certificadora": "APIMEC Brasil / FK Partners",
+   "valor": "R$ 376,00 (valor exibido para CGINV III no canal de inscrição consultado).",
+   "data_consulta": "2026-11-24",
+   "fonte": "https://apimec.fkpartners.com/loja/cp-rpps-cginv/"
+  }
+ ],
+ "requisitos_legais": {
+  "base_normativa": "Portaria MTP nº 1.467/2022, art. 76, redação vigente na consolidação oficial de 22/10/2026; Portaria SRPC/MPS nº 607/2026; Orientação MPS nº 1/DRPPS/SRPC-MPS, de 13/08/2026.",
+  "funcoes_abrangidas": [
+   "Dirigentes da unidade gestora do RPPS.",
+   "Titulares dos conselhos deliberativo e fiscal.",
+   "Responsável pela gestão das aplicações dos recursos do RPPS.",
+   "Membros titulares do comitê de investimentos."
+  ],
+  "regra_de_nivel": "A certificação profissional e o nível exigível dependem da função, das exigências normativas aplicáveis ao RPPS e da faixa pertinente. A Orientação MPS nº 1/2026 gradua especificamente a certificação do responsável pela gestão das aplicações, para fins de CRP, em básico até R$ 10 milhões, intermediário acima de R$ 10 milhões até R$ 500 milhões e avançado acima de R$ 500 milhões. Essa tabela específica não deve ser automaticamente estendida a todos os membros do comitê ou dos conselhos.",
+  "conclusao": "O art. 76 prevê certificação profissional para as funções nele abrangidas, mas não torna CGINV III obrigatório para todo profissional. A exigência de nível avançado deve ser apurada conforme função e critério aplicável ao RPPS."
+ },
+ "temas_preferidos": [],
+ "fases": [
+  {
+   "fase": "Exame de certificação profissional",
+   "descricao": "Aplicação pela entidade credenciada, em modalidade de prova ou prova com títulos/experiência quando oferecida. Para CGINV III, prova objetiva com 80 questões, mínimo de 56 acertos e tempo mínimo de 3h30."
+  }
+ ],
+ "fontes": [
+  "Manual da Certificação dos Profissionais dos RPPS, versão 2.0/2026 — item 2.1.3 (formato, nota mínima, duração e validade): https://www.gov.br/previdencia/pt-br/assuntos/rpps/Requisitos-para-Dirigentes-e-Conselheiros-de-RPPS/arquivos/copy_of_ManualdaCertificaodosProfissinaisdosRPPSVerso2.0.pdf (consultado em 2026-11-24).",
+  "Portaria SRPC/MPS nº 607/2026, republicada no DOU de 15/04/2026 — art. 1º, §1º, e Anexo III (funções e entidades credenciadas): https://www.gov.br/previdencia/pt-br/assuntos/rpps/legislacao-dos-rpps/2025/PortariaSRPCMPSn607de9abr2026RepublicadanoDOU15.4.2026.pdf (consultada em 2026-11-24).",
+  "Consolidação oficial da legislação RPPS atualizada até 22/10/2026, contendo a Portaria MTP nº 1.467/2022: https://www.gov.br/previdencia/pt-br/assuntos/rpps/legislacao-dos-rpps/leis-1/copy_of_28CONSOLIDAOLEGISLAORPPSatualizadaatde22deoutubrode2026.pdf (consultada em 2026-11-24).",
+  "Orientação nº 1/DRPPS/SRPC-MPS, de 13/08/2026 — item 14, níveis para o responsável pela gestão das aplicações: https://www.gov.br/previdencia/pt-br/assuntos/rpps/legislacao-dos-rpps/orientacoes-1/orientacao_1_2026.pdf (consultada em 2026-11-24).",
+  "Edital de certificação do Instituto Totum, revisão 37, 31/08/2026 — tabela de preços e modalidades: https://institutototum.com.br/wp-content/uploads/2026/08/DC.OPC_.SPREV_.00.37-Edital-de-Certificacao-Profissional-SRPC-MPS.pdf (consultado em 2026-11-24).",
+  "APIMEC Brasil/FK Partners — página de inscrição CGINV: https://apimec.fkpartners.com/loja/cp-rpps-cginv/ (consultada em 2026-11-24).",
+  "APIMEC Brasil — página institucional sobre CP RPPS e validade: https://www.apimecbrasil.com.br/certificacao/sobre-o-cp-rpps/ (consultada em 2026-11-24)."
+ ]
+}

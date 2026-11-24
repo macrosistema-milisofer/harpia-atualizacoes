@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-23",
+ "atualizado_em": "2026-11-24",
  "avatares": [
   {
    "id": "a01",
@@ -943,6 +943,327 @@
      "beca de formatura",
      "capelo"
     ],
+    "cadeira_rodas": false
+   }
+  },
+  {
+   "id": "a37",
+   "nome": "Paula",
+   "grupo": "Mulheres",
+   "poses": {
+    "busto": "avatares/a37/busto.webp",
+    "comemorando": "avatares/a37/comemorando.webp",
+    "trofeu": "avatares/a37/trofeu.webp",
+    "positivo": "avatares/a37/positivo.webp"
+   },
+   "tracos": {
+    "genero": "feminino",
+    "faixa_etaria": "30–45",
+    "tom_pele": 4,
+    "cabelo": {
+     "tipo": "cacheado",
+     "cor": "castanho escuro",
+     "comprimento": "médio"
+    },
+    "oculos": true,
+    "barba": false,
+    "acessorios": [
+     "faixa de cabelo amarela",
+     "argolas douradas"
+    ],
+    "cadeira_rodas": true
+   }
+  },
+  {
+   "id": "a38",
+   "nome": "Danilo",
+   "grupo": "Homens",
+   "poses": {
+    "busto": "avatares/a38/busto.webp",
+    "comemorando": "avatares/a38/comemorando.webp",
+    "trofeu": "avatares/a38/trofeu.webp",
+    "positivo": "avatares/a38/positivo.webp"
+   },
+   "tracos": {
+    "genero": "masculino",
+    "faixa_etaria": "18–25",
+    "tom_pele": 1,
+    "cabelo": {
+     "tipo": "ondulado",
+     "cor": "loiro claro",
+     "comprimento": "médio"
+    },
+    "oculos": true,
+    "barba": false,
+    "acessorios": [],
+    "cadeira_rodas": false
+   }
+  },
+  {
+   "id": "a39",
+   "nome": "Mônica",
+   "grupo": "Mulheres",
+   "poses": {
+    "busto": "avatares/a39/busto.webp",
+    "comemorando": "avatares/a39/comemorando.webp",
+    "trofeu": "avatares/a39/trofeu.webp",
+    "positivo": "avatares/a39/positivo.webp"
+   },
+   "tracos": {
+    "genero": "feminino",
+    "faixa_etaria": "45–55",
+    "tom_pele": 3,
+    "cabelo": {
+     "tipo": "liso",
+     "cor": "preto com mechas grisalhas",
+     "comprimento": "médio"
+    },
+    "oculos": false,
+    "barba": false,
+    "acessorios": [
+     "brincos de jade"
+    ],
+    "cadeira_rodas": false
+   }
+  },
+  {
+   "id": "a40",
+   "nome": "César",
+   "grupo": "Homens",
+   "poses": {
+    "busto": "avatares/a40/busto.webp",
+    "comemorando": "avatares/a40/comemorando.webp",
+    "trofeu": "avatares/a40/trofeu.webp",
+    "positivo": "avatares/a40/positivo.webp"
+   },
+   "tracos": {
+    "genero": "masculino",
+    "faixa_etaria": "60–65",
+    "tom_pele": 6,
+    "cabelo": {
+     "tipo": "raspado",
+     "cor": "grisalho",
+     "comprimento": "curto"
+    },
+    "oculos": false,
+    "barba": true,
+    "acessorios": [],
+    "cadeira_rodas": false
+   }
+  },
+  {
+   "id": "a41",
+   "nome": "Raquel",
+   "grupo": "Mulheres",
+   "poses": {
+    "busto": "avatares/a41/busto.webp",
+    "comemorando": "avatares/a41/comemorando.webp",
+    "trofeu": "avatares/a41/trofeu.webp",
+    "positivo": "avatares/a41/positivo.webp"
+   },
+   "tracos": {
+    "genero": "feminino",
+    "faixa_etaria": "25–35",
+    "tom_pele": 1,
+    "cabelo": {
+     "tipo": "raspado",
+     "cor": "loiro escuro",
+     "comprimento": "curto"
+    },
+    "oculos": false,
+    "barba": false,
+    "acessorios": [
+     "piercing nasal discreto"
+    ],
+    "cadeira_rodas": false
+   }
+  },
+  {
+   "id": "a42",
+   "nome": "Vítor",
+   "grupo": "Homens",
+   "poses": {
+    "busto": "avatares/a42/busto.webp",
+    "comemorando": "avatares/a42/comemorando.webp",
+    "trofeu": "avatares/a42/trofeu.webp",
+    "positivo": "avatares/a42/positivo.webp"
+   },
+   "tracos": {
+    "genero": "masculino",
+    "faixa_etaria": "35–45",
+    "tom_pele": 4,
+    "cabelo": {
+     "tipo": "ondulado",
+     "cor": "preto",
+     "comprimento": "médio"
+    },
+    "oculos": false,
+    "barba": true,
+    "acessorios": [
+     "elástico de cabelo preto"
+    ],
+    "cadeira_rodas": false
+   }
+  },
+  {
+   "id": "a43",
+   "nome": "Dalva",
+   "grupo": "Mulheres",
+   "poses": {
+    "busto": "avatares/a43/busto.webp",
+    "comemorando": "avatares/a43/comemorando.webp",
+    "trofeu": "avatares/a43/trofeu.webp",
+    "positivo": "avatares/a43/positivo.webp"
+   },
+   "tracos": {
+    "genero": "feminino",
+    "faixa_etaria": "60–65",
+    "tom_pele": 4,
+    "cabelo": {
+     "tipo": "cacheado",
+     "cor": "grisalho",
+     "comprimento": "médio"
+    },
+    "oculos": true,
+    "barba": false,
+    "acessorios": [
+     "broche âmbar",
+     "brincos dourados pequenos"
+    ],
+    "cadeira_rodas": false
+   }
+  },
+  {
+   "id": "a44",
+   "nome": "Murilo",
+   "grupo": "Homens",
+   "poses": {
+    "busto": "avatares/a44/busto.webp",
+    "comemorando": "avatares/a44/comemorando.webp",
+    "trofeu": "avatares/a44/trofeu.webp",
+    "positivo": "avatares/a44/positivo.webp"
+   },
+   "tracos": {
+    "genero": "masculino",
+    "faixa_etaria": "45–55",
+    "tom_pele": 3,
+    "cabelo": {
+     "tipo": "parcialmente coberto",
+     "cor": "castanho escuro",
+     "comprimento": "curto"
+    },
+    "oculos": true,
+    "barba": true,
+    "acessorios": [
+     "boné azul"
+    ],
+    "cadeira_rodas": false
+   }
+  },
+  {
+   "id": "a45",
+   "nome": "Lorena",
+   "grupo": "Mulheres",
+   "poses": {
+    "busto": "avatares/a45/busto.webp",
+    "comemorando": "avatares/a45/comemorando.webp",
+    "trofeu": "avatares/a45/trofeu.webp",
+    "positivo": "avatares/a45/positivo.webp"
+   },
+   "tracos": {
+    "genero": "feminino",
+    "faixa_etaria": "18–25",
+    "tom_pele": 6,
+    "cabelo": {
+     "tipo": "tranças",
+     "cor": "preto",
+     "comprimento": "longo"
+    },
+    "oculos": false,
+    "barba": false,
+    "acessorios": [
+     "contas âmbar nas tranças"
+    ],
+    "cadeira_rodas": false
+   }
+  },
+  {
+   "id": "a46",
+   "nome": "Nicolas",
+   "grupo": "Homens",
+   "poses": {
+    "busto": "avatares/a46/busto.webp",
+    "comemorando": "avatares/a46/comemorando.webp",
+    "trofeu": "avatares/a46/trofeu.webp",
+    "positivo": "avatares/a46/positivo.webp"
+   },
+   "tracos": {
+    "genero": "masculino",
+    "faixa_etaria": "26–35",
+    "tom_pele": 2,
+    "cabelo": {
+     "tipo": "cacheado",
+     "cor": "castanho claro",
+     "comprimento": "médio"
+    },
+    "oculos": false,
+    "barba": true,
+    "acessorios": [
+     "aparelho auditivo"
+    ],
+    "cadeira_rodas": false
+   }
+  },
+  {
+   "id": "a47",
+   "nome": "Tereza",
+   "grupo": "Mulheres",
+   "poses": {
+    "busto": "avatares/a47/busto.webp",
+    "comemorando": "avatares/a47/comemorando.webp",
+    "trofeu": "avatares/a47/trofeu.webp",
+    "positivo": "avatares/a47/positivo.webp"
+   },
+   "tracos": {
+    "genero": "feminino",
+    "faixa_etaria": "50–60",
+    "tom_pele": 5,
+    "cabelo": {
+     "tipo": "coberto",
+     "cor": null,
+     "comprimento": null
+    },
+    "oculos": false,
+    "barba": false,
+    "acessorios": [
+     "turbante azul com estampa geométrica",
+     "argolas douradas"
+    ],
+    "cadeira_rodas": false
+   }
+  },
+  {
+   "id": "a48",
+   "nome": "Gustavo",
+   "grupo": "Homens",
+   "poses": {
+    "busto": "avatares/a48/busto.webp",
+    "comemorando": "avatares/a48/comemorando.webp",
+    "trofeu": "avatares/a48/trofeu.webp",
+    "positivo": "avatares/a48/positivo.webp"
+   },
+   "tracos": {
+    "genero": "masculino",
+    "faixa_etaria": "55–65",
+    "tom_pele": 2,
+    "cabelo": {
+     "tipo": "ondulado",
+     "cor": "grisalho",
+     "comprimento": "médio"
+    },
+    "oculos": false,
+    "barba": true,
+    "acessorios": [],
     "cadeira_rodas": false
    }
   }
