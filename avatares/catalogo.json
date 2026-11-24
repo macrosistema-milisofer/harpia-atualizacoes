@@ -10,6 +10,16 @@
     "comemorando": "avatares/a01/comemorando.webp",
     "trofeu": "avatares/a01/trofeu.webp",
     "positivo": "avatares/a01/positivo.webp"
+   },
+   "tracos": {
+    "genero": "feminino",
+    "faixa_etaria": "25-35",
+    "tom_pele": 3,
+    "cabelo": "cacheado preto, comprimento médio",
+    "oculos": true,
+    "barba": false,
+    "acessorios": "",
+    "cadeira_rodas": false
    }
   },
   {
@@ -21,6 +31,16 @@
     "comemorando": "avatares/a02/comemorando.webp",
     "trofeu": "avatares/a02/trofeu.webp",
     "positivo": "avatares/a02/positivo.webp"
+   },
+   "tracos": {
+    "genero": "feminino",
+    "faixa_etaria": "25-40",
+    "tom_pele": 6,
+    "cabelo": "tranças longas pretas",
+    "oculos": false,
+    "barba": false,
+    "acessorios": "brincos de argola",
+    "cadeira_rodas": false
    }
   },
   {
@@ -32,6 +52,16 @@
     "comemorando": "avatares/a03/comemorando.webp",
     "trofeu": "avatares/a03/trofeu.webp",
     "positivo": "avatares/a03/positivo.webp"
+   },
+   "tracos": {
+    "genero": "masculino",
+    "faixa_etaria": "55-70",
+    "tom_pele": 3,
+    "cabelo": "grisalho curto",
+    "oculos": false,
+    "barba": "grisalha curta",
+    "acessorios": "terno",
+    "cadeira_rodas": true
    }
   },
   {
@@ -43,6 +73,16 @@
     "comemorando": "avatares/a04/comemorando.webp",
     "trofeu": "avatares/a04/trofeu.webp",
     "positivo": "avatares/a04/positivo.webp"
+   },
+   "tracos": {
+    "genero": "masculino",
+    "faixa_etaria": "50-65",
+    "tom_pele": 4,
+    "cabelo": "grisalho curto",
+    "oculos": true,
+    "barba": "grisalha curta",
+    "acessorios": "",
+    "cadeira_rodas": false
    }
   },
   {
@@ -54,6 +94,16 @@
     "comemorando": "avatares/a05/comemorando.webp",
     "trofeu": "avatares/a05/trofeu.webp",
     "positivo": "avatares/a05/positivo.webp"
+   },
+   "tracos": {
+    "genero": "feminino",
+    "faixa_etaria": "30-45",
+    "tom_pele": 2,
+    "cabelo": "coberto por véu",
+    "oculos": true,
+    "barba": false,
+    "acessorios": "véu (hijab) verde",
+    "cadeira_rodas": false
    }
   },
   {
@@ -65,6 +115,16 @@
     "comemorando": "avatares/a06/comemorando.webp",
     "trofeu": "avatares/a06/trofeu.webp",
     "positivo": "avatares/a06/positivo.webp"
+   },
+   "tracos": {
+    "genero": "masculino",
+    "faixa_etaria": "18-25",
+    "tom_pele": 5,
+    "cabelo": "crespo curto preto",
+    "oculos": false,
+    "barba": "bigode leve",
+    "acessorios": "",
+    "cadeira_rodas": true
    }
   }
  ]

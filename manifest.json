@@ -74,7 +74,7 @@
   "editais/rpps-dirig-2.json": 1,
   "editais/rpps-dirig-3.json": 1,
   "editais/tjro-tecnico-analista.json": 2,
-  "avatares/catalogo.json": 2,
+  "avatares/catalogo.json": 3,
   "avatares/a01/busto.webp": 1,
   "avatares/a01/comemorando.webp": 1,
   "avatares/a01/positivo.webp": 1,
@@ -102,9 +102,9 @@
  },
  "app": {
   "android": {
-   "build": 9,
-   "versao": "1.6.0",
-   "url": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-9.apk",
+   "build": 10,
+   "versao": "1.6.1",
+   "url": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-10.apk",
    "notas": "Lições com flashcards e questões, revisão espaçada e atualização automática.",
    "url32": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-32bits.apk"
   }
