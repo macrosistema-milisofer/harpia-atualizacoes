@@ -65,6 +65,7 @@
   "conteudo/banco/ia-eleitoral-lei-das-eleicoes-tjsc-pareto03.json": 2,
   "conteudo/banco/ia-eleitoral-mpe-improbidade_lote01.json": 2,
   "conteudo/banco/ia-enem-areas-planas-revestimento_C14_lote11.json": 2,
+  "conteudo/banco/ia-enem-circuitos-eletricos-simples_C14_lote300.json": 1,
   "conteudo/banco/ia-enem-concentracao-solucoes_C14_lote06.json": 2,
   "conteudo/banco/ia-enem-confronto-pontos-de-vista_C14_lote04.json": 2,
   "conteudo/banco/ia-enem-escalas-representacao_C14_lote22.json": 1,
@@ -238,6 +239,7 @@
   "conteudo/banco/ia-tjsc-processo-penal-sujeitos_C14_lote81.json": 1,
   "conteudo/banco/ia-tjsc-recursos-hidricos-saneamento-residuos-solidos_M18.json": 1,
   "conteudo/banco/ia-tjsc-tributario-competencia-capacidade-ativa_C14_lote121.json": 1,
+  "conteudo/banco/ia-tjsc-tributario-fato-gerador_C14_lote125.json": 1,
   "conteudo/banco/ia-tjsc-tributario-fontes-vigencia-aplicacao_C14_lote123.json": 1,
   "conteudo/banco/ia-tjsc-tributario-imunidades_C14_lote122.json": 1,
   "conteudo/banco/ia-tjsc-tributario-regra-matriz-incidencia_C14_lote124.json": 1,
@@ -246,7 +248,7 @@
   "conteudo/banco/ia-tjsc-zoneamento-ambiental_M18.json": 1,
   "conteudo/mapas/incidencia.json": 2,
   "conteudo/mapas/incidencia_bancas.json": 1,
-  "conteudo/mapas/topicos.json": 18,
+  "conteudo/mapas/topicos.json": 19,
   "conteudo/raiox/enem-2026.json": 4,
   "conteudo/raiox/magistratura-tjsc-2026.json": 6,
   "conteudo/raiox/rpps-cginv-3.json": 5,
@@ -476,9 +478,9 @@
  },
  "app": {
   "android": {
-   "build": 27,
-   "versao": "1.8.8",
-   "url": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-27.apk",
+   "build": 29,
+   "versao": "1.9.0",
+   "url": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-29.apk",
    "notas": "Lições com flashcards e questões, revisão espaçada e atualização automática.",
    "url32": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-32bits.apk"
   }

@@ -1,0 +1,259 @@
+{
+ "assunto": "Circuitos elétricos simples: série, paralelo e caminhos da corrente",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-25",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-circuitos-eletricos-simples-c14",
+   "titulo": "Circuitos elétricos simples: série, paralelo e caminhos da corrente",
+   "microconteudo": "RAIO-X DA PROVA: Nos cadernos azuis regulares de 2021 a 2025, identificamos seis questões de Ciências da Natureza sobre caminhos da corrente, montagem de circuitos ou associação de componentes. Isso corresponde a pelo menos 2,67% das 225 questões de Natureza desse recorte.\n\nPOR QUE IMPORTA:\nUma lanterna, um brinquedo e a iluminação de um quarto dependem de caminhos que a corrente elétrica pode percorrer. O Enem já pediu para escolher montagens que acendem lâmpadas e para calcular correntes quando uma conexão muda. Nesta lição, você vai ler esquemas, distinguir ligações em série e em paralelo e prever o que acontece quando uma parte do circuito abre.\n\nO QUE A BANCA COBRA:\nO enunciado costuma trazer uma necessidade prática e mostrar o circuito em um desenho. Siga o caminho da corrente, identifique quais pontos estão ligados pelo mesmo fio e use os dados das peças para decidir se a montagem atende ao objetivo.\n\nENTENDA:\nImagine uma exposição na escola. Dois grupos usam pilhas para acender lâmpadas em maquetes. No primeiro projeto, desligar uma lâmpada apaga a outra. No segundo, cada lâmpada pode ser desligada separadamente. A diferença está na forma como elas se ligam à fonte de tensão. Para prever o que acontece, desenhe os pontos de ligação, procure os caminhos que voltam à fonte e só então use uma fórmula. Essa ordem permite resolver questões até quando o desenho traz fios curvos, cruzamentos ou peças em posições pouco familiares.\n\nUma pilha mantém uma diferença de potencial entre seus terminais. Essa diferença, também chamada tensão, é medida em volts (V). Ela representa a energia transferida por unidade de carga. A corrente elétrica, medida em ampères (A), descreve quanta carga atravessa uma seção do fio por unidade de tempo. No modelo usual de corrente contínua, a corrente convencional sai pelo terminal positivo da fonte e percorre o circuito externo em direção ao terminal negativo. Um interruptor aberto cria uma interrupção. Pode haver tensão entre seus dois lados, embora a corrente nesse trecho seja zero. Pense em um aparelho desligado por uma chave: a fonte ainda existe, mas o caminho da corrente naquele ramo foi aberto.\n\nUm resistor é um componente que oferece resistência à passagem de corrente. Em um resistor ôhmico, a resistência é constante nas condições de funcionamento consideradas e vale a relação U = R × I. U é a tensão entre os terminais do resistor, R é a resistência em ohms (Ω) e I é a corrente que passa por ele. Uma fonte ideal de 12 V ligada diretamente a um resistor de 6 Ω produz corrente de 2 A. Se a fonte for de 12 V e o resistor tiver 12 Ω, a corrente será 1 A. Use a tensão da peça que você está analisando. Se houver mais peças na montagem, descubra primeiro quanto da tensão total aparece nos terminais daquela peça.\n\nAo ler um desenho, procure os nós. Um nó é um conjunto de pontos conectados por fios ideais, sem dispositivos no meio e com resistência desprezível. Todos os pontos do mesmo nó têm o mesmo potencial. Em esquemas que adotam pontos para marcar junções, um cruzamento com ponto indica que os fios se unem ali. Se o cruzamento estiver representado como fios que passam um sobre o outro sem contato, eles pertencem a caminhos diferentes. Confira a convenção do desenho antes de fechar o diagnóstico. Você pode redesenhar o circuito: mude a posição dos símbolos, mantendo cada terminal ligado aos mesmos nós.\n\nDois componentes estão em série quando compartilham uma conexão intermediária sem outro caminho por onde a corrente possa se desviar. A mesma corrente atravessa ambos. As resistências somam porque a tensão da fonte precisa cobrir as quedas de tensão em cada resistor. Se uma fonte ideal de 12 V alimenta um resistor de 2 Ω seguido de outro de 4 Ω em um caminho único, a resistência equivalente é 6 Ω. A corrente é 2 A. O primeiro resistor recebe 4 V e o segundo recebe 8 V. A conferência é simples: as duas quedas somam 12 V. Se a questão mostrar peças com resistências iguais, as quedas também serão iguais naquela série.\n\nEm paralelo, dois componentes têm seus terminais conectados ao mesmo par de nós. Por isso, recebem a mesma tensão. A corrente da fonte se divide entre os ramos e volta a se reunir, de modo que a soma das correntes dos ramos é a corrente total. Ligue um resistor de 6 Ω e outro de 3 Ω em paralelo a uma fonte ideal de 6 V. O primeiro recebe 6 V e conduz 1 A. O segundo também recebe 6 V, mas conduz 2 A. A fonte entrega 3 A e a resistência equivalente é 6 V ÷ 3 A, isto é, 2 Ω. O ramo de menor resistência conduz mais corrente, e a resistência equivalente fica abaixo de 3 Ω.\n\nVocê pode deduzir a expressão geral do paralelo com a mesma lógica. Se cada ramo recebe a mesma tensão U, a corrente total é U/R₁ + U/R₂. Dividir a equação por U dá 1/R_eq = 1/R₁ + 1/R₂. Para dois resistores, também vale R_eq = (R₁ × R₂)/(R₁ + R₂). Uma verificação mental reduz erros: dois resistores de 8 Ω em paralelo dão 4 Ω, enquanto os mesmos dois resistores em série dão 16 Ω. Se o seu cálculo do paralelo de dois resistores positivos deu um valor acima do menor deles, volte aos nós e revise a conta. Esse teste também ajuda quando a questão pede para eliminar opções sem realizar todos os cálculos.\n\nUma montagem pode reunir série e paralelo. Imagine uma bateria ideal de 9 V, um resistor de 1 Ω no caminho comum e, depois dele, dois resistores de 4 Ω em ramos paralelos. Comece pelos dois ramos: eles equivalem a 2 Ω. Some o resistor do caminho comum para obter 3 Ω. A corrente total é 3 A. Voltando ao circuito original, o resistor do caminho comum recebe 3 V, então restam 6 V entre os nós do paralelo. Cada ramo conduz 1,5 A. Observe que a corrente de 3 A vale no trecho comum e a tensão de 6 V vale nos ramos. Uma boa resolução marca esses valores em lugares diferentes do desenho.\n\nAbrir um interruptor produz efeitos diferentes dependendo de sua posição. Se ele estiver no caminho comum antes da divisão em ramos, a abertura interrompe a alimentação dos dois. Se estiver em apenas um dos ramos de uma associação ligada diretamente a uma fonte ideal, só aquele ramo fica sem corrente e a tensão no outro permanece a mesma. O resultado muda se existir um resistor compartilhado no caminho comum. Ao abrir um ramo, a corrente total muda e isso altera a tensão no resistor compartilhado. A tensão que sobra para o ramo ativo pode mudar também. Sempre releia o desenho antes de prever se a lâmpada que sobrou vai conservar seu brilho.\n\nEm questões sobre brilho, procure a potência elétrica recebida pela lâmpada, medida em watts. A relação P = U × I vale no modelo de corrente contínua usado aqui. Para lâmpadas idênticas tratadas como resistores ôhmicos, também podemos usar P = I² × R ou P = U²/R. Se duas dessas lâmpadas recebem a mesma tensão em paralelo, o modelo prevê a mesma potência para ambas. Em série, duas lâmpadas idênticas recebem metade da tensão da fonte cada uma. Comparando uma dessas lâmpadas em série com uma lâmpada idêntica ligada sozinha à mesma fonte ideal, reduzir a tensão à metade reduz a potência a um quarto. Um enunciado sobre LEDs pode fornecer um modelo diferente, com sentido de condução, tensão de funcionamento e limite de corrente. Use esses dados próprios do componente.\n\nOutra situação comum é a escolha de um resistor de proteção. Uma fonte ideal de 12 V precisa alimentar um aparelho que funciona com 8 V e consome 0,5 A nessa condição. Em série, o resistor de proteção deve receber os 4 V restantes enquanto conduz os mesmos 0,5 A do aparelho. A divisão 4 ÷ 0,5 dá 8 Ω. Nessas condições ele dissipa 2 W, resultado de 4 × 0,5. Ligar o resistor em paralelo diretamente à fonte deixaria os mesmos 12 V nos terminais do aparelho. O circuito precisa ganhar uma queda de tensão no caminho compartilhado pelo aparelho e pelo resistor em série. Esse tipo de item apresenta uma necessidade, e a escolha da ligação faz parte da resposta.\n\nNa revisão de sua resolução, diga em voz alta três coisas: quais peças compartilham corrente, quais compartilham tensão e onde você aplicou a tensão indicada pela fonte. Em seguida, confira as unidades. Se a resistência veio em kΩ e a corrente em mA, 1 kΩ × 1 mA corresponde a 1 V. Por exemplo, 1,5 kΩ × 2 mA dá 3 V. Finalize com uma checagem simples usando as leis do circuito: as correntes dos ramos somam a corrente que entrou na divisão, e as quedas de tensão ao longo de um caminho completo correspondem à elevação de tensão na fonte. Com essas duas conferências, você consegue explicar por que o gabarito funciona.\n\nTROCANDO EM MIÚDOS:\nImagine dois enfeites luminosos da sua feira de ciências. No primeiro, o único caminho sai da pilha, atravessa a lâmpada 1, atravessa a lâmpada 2 e volta à pilha. As lâmpadas estão em série. Se você tira uma peça do caminho e deixa aquele ponto aberto, a passagem toda é interrompida e as duas apagam. Como existe um caminho só, a corrente que passa pela primeira lâmpada é a mesma que passa pela segunda. A tensão da pilha se reparte entre elas, de acordo com suas resistências.\n\nAgora pense em dois caminhos completos, cada um ligando os mesmos lados da pilha e passando por uma lâmpada própria. Essa ligação é em paralelo. A tensão entre os terminais de cada lâmpada é a mesma, já que as duas estão ligadas ao mesmo par de pontos. A corrente da pilha se divide. Com uma pilha ideal e sem resistor no trecho comum, se você abre um dos caminhos, o outro continua funcionando com a mesma tensão. O ramo com menor resistência recebe mais corrente quando a tensão é a mesma.\n\nGuarde um roteiro para a prova. Primeiro, risque mentalmente os trechos em que o interruptor está aberto. Depois, marque com a mesma letra os pontos que você consegue alcançar percorrendo apenas fio ideal, sem passar por componente. Se duas peças ligam os mesmos dois pontos, elas estão em paralelo. Se a passagem de uma para a outra fica no único caminho, sem desvio, elas estão em série. Com isso, você sabe se deve comparar a corrente ou a tensão antes mesmo de pegar na calculadora.\n\nQuer testar? Em uma pilha ideal de 6 V, ligue no papel dois resistores iguais de 6 Ω em série. A resistência total fica 12 Ω e a corrente é 0,5 A, porque 6 ÷ 12 = 0,5. Agora imagine cada resistor diretamente entre os dois polos, em paralelo. Cada um recebe 6 V e conduz 1 A. A fonte, então, fornece 2 A. São as mesmas peças e a mesma fonte. A forma de ligar mudou o caminho e, com ele, a corrente.\n\nLEI SECA:\nLei de Ohm para um resistor ôhmico: U = R × I. Em um nó, a soma das correntes que chegam é igual à soma das que saem. Ao percorrer uma malha fechada, a soma algébrica das variações de potencial é zero.\n\nSÚMULAS E TESES:\nEm série, a corrente é comum e as quedas de tensão somam. Em paralelo, a tensão é comum e as correntes dos ramos somam.\n\nESQUEMA:\nFonte e interruptores → caminhos fechados → nós → série ou paralelo → resistência equivalente → corrente e tensão em cada peça.\n\nPEGADINHAS:\n1. Abrir o caminho comum interrompe todos os ramos que dependem dele.\n2. Resistores em série com valores diferentes recebem quedas de tensão diferentes.\n3. Ramos em paralelo compartilham tensão e podem receber correntes diferentes.\n4. Um ramo em paralelo pode ter várias peças em série dentro dele.\n5. A potência usada para comparar brilho é a recebida por cada lâmpada.\n\nDOUTRINA:\nOpenStax, College Physics 2e, capítulo 21, Direct-Current Circuits. A seção sobre resistores em série e em paralelo deduz as duas expressões a partir da conservação de energia e de carga.\n\nNA PRÁTICA:\nDuas cargas de 6 Ω ligadas em paralelo diretamente a uma fonte ideal de 12 V recebem 12 V cada uma. Cada carga conduz 2 A e a corrente total é 4 A. Ao abrir só o ramo de uma carga, a outra permanece com 12 V e 2 A. A corrente medida no fio comum passa de 4 A para 2 A.",
+   "flashcards": [
+    {
+     "frente": "Como reconhecer dois resistores em paralelo?",
+     "verso": "Os terminais dos dois resistores ligam o mesmo par de nós.",
+     "dispositivo": "Matriz de Referência do Enem, Ciências da Natureza — Física, circuitos elétricos simples"
+    },
+    {
+     "frente": "Qual grandeza é comum entre resistores em série?",
+     "verso": "A corrente, quando o nó intermediário não oferece um caminho adicional.",
+     "dispositivo": "Matriz de Referência do Enem, Ciências da Natureza — Física, circuitos elétricos simples"
+    },
+    {
+     "frente": "Qual grandeza é comum aos ramos em paralelo?",
+     "verso": "A tensão entre os dois nós que delimitam a associação.",
+     "dispositivo": "Matriz de Referência do Enem, Ciências da Natureza — Física, circuitos elétricos simples"
+    },
+    {
+     "frente": "Como calcular o equivalente de dois resistores em paralelo?",
+     "verso": "Multiplique os valores e divida o produto pela soma.",
+     "dispositivo": "Matriz de Referência do Enem, Ciências da Natureza — Física, circuitos elétricos simples"
+    },
+    {
+     "frente": "Como escolher o resistor em série para baixar a tensão em uma carga?",
+     "verso": "Divida a queda desejada no resistor pela corrente de operação da carga.",
+     "dispositivo": "Matriz de Referência do Enem, Ciências da Natureza — Física, circuitos elétricos simples"
+    },
+    {
+     "frente": "Quando a abertura de um interruptor apaga todos os ramos?",
+     "verso": "Quando ele interrompe o caminho comum que alimenta todos esses ramos.",
+     "dispositivo": "Matriz de Referência do Enem, Ciências da Natureza — Física, circuitos elétricos simples"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "habilidade": "H17",
+     "texto_base": "Uma pilha ideal alimenta duas lâmpadas instaladas uma após a outra em um caminho sem bifurcação.",
+     "enunciado": "As duas lâmpadas são percorridas pela mesma corrente.",
+     "gabarito": "C",
+     "comentario": "Certo. Toda carga que passa pela primeira atravessa também a segunda em regime estacionário.\n(Matriz de Referência do Enem, Ciências da Natureza — Física, circuitos elétricos simples, H17.)",
+     "id": "enem-circuitos-eletricos-simples-c14-q01",
+     "dispositivo": "Matriz de Referência do Enem, Ciências da Natureza — Física, circuitos elétricos simples, H17"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "habilidade": "H17",
+     "texto_base": "Dois resistores de 4 Ω e 8 Ω estão conectados diretamente ao mesmo par de terminais de uma bateria ideal de 8 V.",
+     "enunciado": "O resistor de 8 Ω recebe uma tensão duas vezes maior que a do resistor de 4 Ω.",
+     "gabarito": "E",
+     "comentario": "Errado. Ambos recebem 8 V. As correntes valem 2 A no de 4 Ω e 1 A no de 8 Ω.\n(Matriz de Referência do Enem, Ciências da Natureza — Física, circuitos elétricos simples, H17.)",
+     "id": "enem-circuitos-eletricos-simples-c14-q02",
+     "dispositivo": "Matriz de Referência do Enem, Ciências da Natureza — Física, circuitos elétricos simples, H17"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "habilidade": "H17",
+     "texto_base": "Em uma maquete, o interruptor está entre uma pilha ideal e o nó em que a corrente se divide para duas lâmpadas.",
+     "enunciado": "Abrir esse interruptor interrompe a corrente nos dois ramos.",
+     "gabarito": "C",
+     "comentario": "Certo. Cada ramo dependia do mesmo trecho para fechar o percurso até a fonte.\n(Matriz de Referência do Enem, Ciências da Natureza — Física, circuitos elétricos simples, H17.)",
+     "id": "enem-circuitos-eletricos-simples-c14-q03",
+     "dispositivo": "Matriz de Referência do Enem, Ciências da Natureza — Física, circuitos elétricos simples, H17"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "habilidade": "H17",
+     "texto_base": "Uma montagem em papel liga um resistor de 3 Ω e outro de 6 Ω em série. Em seguida, os mesmos resistores são desenhados em paralelo.",
+     "enunciado": "A resistência equivalente do paralelo continua em 9 Ω.",
+     "gabarito": "E",
+     "comentario": "Errado. A soma 3 + 6 = 9 Ω vale para a série. No paralelo, o cálculo (3 × 6)/(3 + 6) resulta em 2 Ω.\n(Matriz de Referência do Enem, Ciências da Natureza — Física, circuitos elétricos simples, H17.)",
+     "id": "enem-circuitos-eletricos-simples-c14-q04",
+     "dispositivo": "Matriz de Referência do Enem, Ciências da Natureza — Física, circuitos elétricos simples, H17"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "habilidade": "H17",
+     "texto_base": "Em um jogo de eletrônica, um resistor de 2 Ω e outro de 4 Ω são conectados em série a uma fonte ideal de 9 V.",
+     "enunciado": "Qual é a tensão entre os terminais do resistor de 4 Ω?",
+     "alternativas": {
+      "A": "3 V",
+      "B": "6 V",
+      "C": "9 V",
+      "D": "1,5 V",
+      "E": "18 V"
+     },
+     "gabarito": "B",
+     "comentarios_por_alternativa": {
+      "A": "É a queda no resistor de 2 Ω, pois 1,5 × 2 = 3.",
+      "B": "Correta. A corrente vale 9/(2 + 4) = 1,5 A, logo a queda pedida é 1,5 × 4 = 6 V.",
+      "C": "É a tensão total da fonte. As duas quedas somam esse valor.",
+      "D": "O número 1,5 corresponde à corrente em ampères.",
+      "E": "O produto 9 × (4/2) usa a tensão total como se fosse a queda do resistor de 2 Ω."
+     },
+     "comentario": "A) É a queda no resistor de 2 Ω, pois 1,5 × 2 = 3.\nB) Correta. A corrente vale 9/(2 + 4) = 1,5 A, logo a queda pedida é 1,5 × 4 = 6 V.\nC) É a tensão total da fonte. As duas quedas somam esse valor.\nD) O número 1,5 corresponde à corrente em ampères.\nE) O produto 9 × (4/2) usa a tensão total como se fosse a queda do resistor de 2 Ω.\n(Matriz de Referência do Enem, Ciências da Natureza — Física, circuitos elétricos simples, H17.)",
+     "id": "enem-circuitos-eletricos-simples-c14-q05",
+     "dispositivo": "Matriz de Referência do Enem, Ciências da Natureza — Física, circuitos elétricos simples, H17"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "habilidade": "H17",
+     "texto_base": "Uma bateria ideal de 12 V alimenta, em paralelo, dois módulos representados por resistores de 4 Ω e 12 Ω. Um sensor mede a corrente no fio que sai da bateria antes da bifurcação.",
+     "enunciado": "Qual corrente passa pelo sensor?",
+     "alternativas": {
+      "A": "0,75 A",
+      "B": "1 A",
+      "C": "3 A",
+      "D": "4 A",
+      "E": "6 A"
+     },
+     "gabarito": "D",
+     "comentarios_por_alternativa": {
+      "A": "O valor resulta de usar 16 Ω, a soma que valeria em série.",
+      "B": "Essa é a corrente que segue pelo ramo de 12 Ω.",
+      "C": "Essa é a corrente que segue pelo ramo de 4 Ω.",
+      "D": "Correta. Os ramos conduzem 12 ÷ 4 = 3 A e 12 ÷ 12 = 1 A. O sensor mede a soma.",
+      "E": "Esse valor exigiria resistência total de 2 Ω. O paralelo equivale a 3 Ω."
+     },
+     "comentario": "A) O valor resulta de usar 16 Ω, a soma que valeria em série.\nB) Essa é a corrente que segue pelo ramo de 12 Ω.\nC) Essa é a corrente que segue pelo ramo de 4 Ω.\nD) Correta. Os ramos conduzem 12 ÷ 4 = 3 A e 12 ÷ 12 = 1 A. O sensor mede a soma.\nE) Esse valor exigiria resistência total de 2 Ω. O paralelo equivale a 3 Ω.\n(Matriz de Referência do Enem, Ciências da Natureza — Física, circuitos elétricos simples, H17.)",
+     "id": "enem-circuitos-eletricos-simples-c14-q06",
+     "dispositivo": "Matriz de Referência do Enem, Ciências da Natureza — Física, circuitos elétricos simples, H17"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "habilidade": "H21",
+     "texto_base": "O projeto de um painel usa uma fonte ideal de 10 V e um módulo que opera a 6 V quando a corrente é de 0,2 A. Um resistor de proteção será escolhido para obter esse ponto de operação.",
+     "enunciado": "Qual configuração satisfaz as condições fornecidas?",
+     "alternativas": {
+      "A": "Resistor de 20 Ω em paralelo.",
+      "B": "Resistor de 30 Ω em série.",
+      "C": "Resistor de 50 Ω em série.",
+      "D": "Resistor de 2 Ω em série.",
+      "E": "Resistor de 20 Ω em série."
+     },
+     "gabarito": "E",
+     "comentarios_por_alternativa": {
+      "A": "Em paralelo com a fonte, o módulo receberia 10 V.",
+      "B": "A 0,2 A, esse resistor teria queda de 6 V. A queda necessária é de 4 V.",
+      "C": "A 0,2 A, esse resistor consumiria toda a diferença de potencial de 10 V.",
+      "D": "Com 0,2 A, a queda de tensão seria 0,4 V.",
+      "E": "Correta. A mesma corrente passa nas duas peças em série. O resistor precisa de (10 − 6)/0,2 = 20 Ω."
+     },
+     "comentario": "A) Em paralelo com a fonte, o módulo receberia 10 V.\nB) A 0,2 A, esse resistor teria queda de 6 V. A queda necessária é de 4 V.\nC) A 0,2 A, esse resistor consumiria toda a diferença de potencial de 10 V.\nD) Com 0,2 A, a queda de tensão seria 0,4 V.\nE) Correta. A mesma corrente passa nas duas peças em série. O resistor precisa de (10 − 6)/0,2 = 20 Ω.\n(Matriz de Referência do Enem, Ciências da Natureza — Física, circuitos elétricos simples, H21.)",
+     "id": "enem-circuitos-eletricos-simples-c14-q07",
+     "dispositivo": "Matriz de Referência do Enem, Ciências da Natureza — Física, circuitos elétricos simples, H21"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "habilidade": "H17",
+     "texto_base": "Uma fonte ideal de 12 V alimenta um resistor de 2 Ω no trecho comum. Depois dele estão dois ramos paralelos, cada um com um resistor de 4 Ω e seu interruptor. Inicialmente as duas chaves estão fechadas. Em seguida, uma delas é aberta.",
+     "enunciado": "Quanto passa a valer a tensão no resistor do ramo que permanece fechado?",
+     "alternativas": {
+      "A": "8 V",
+      "B": "4 V",
+      "C": "6 V",
+      "D": "12 V",
+      "E": "0 V"
+     },
+     "gabarito": "A",
+     "comentarios_por_alternativa": {
+      "A": "Correta. Sobram 2 Ω e 4 Ω em série. A corrente vale 12/6 = 2 A e a queda no ramo mantido é 2 × 4 = 8 V.",
+      "B": "É a queda no resistor de 2 Ω do caminho comum após a abertura.",
+      "C": "É a tensão no paralelo antes da abertura, quando o conjunto dos ramos equivalia a 2 Ω.",
+      "D": "A tensão da fonte é compartilhada com o resistor no trecho comum.",
+      "E": "O ramo fechado conserva um percurso completo até a fonte."
+     },
+     "comentario": "A) Correta. Sobram 2 Ω e 4 Ω em série. A corrente vale 12/6 = 2 A e a queda no ramo mantido é 2 × 4 = 8 V.\nB) É a queda no resistor de 2 Ω do caminho comum após a abertura.\nC) É a tensão no paralelo antes da abertura, quando o conjunto dos ramos equivalia a 2 Ω.\nD) A tensão da fonte é compartilhada com o resistor no trecho comum.\nE) O ramo fechado conserva um percurso completo até a fonte.\n(Matriz de Referência do Enem, Ciências da Natureza — Física, circuitos elétricos simples, H17.)",
+     "id": "enem-circuitos-eletricos-simples-c14-q08",
+     "dispositivo": "Matriz de Referência do Enem, Ciências da Natureza — Física, circuitos elétricos simples, H17"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Em série, as peças conduzem a mesma ___; em paralelo, os ramos recebem a mesma ___.",
+     "opcoes": [
+      "corrente",
+      "tensão",
+      "potência",
+      "resistência"
+     ],
+     "respostas": [
+      "corrente",
+      "tensão"
+     ],
+     "explicacao": "O caminho único preserva a corrente. Os extremos compartilhados fixam a diferença de potencial dos ramos.",
+     "dispositivo": "Matriz de Referência do Enem, Ciências da Natureza — Física, circuitos elétricos simples"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Dois resistores de 10 Ω dão ___ em paralelo e ___ em série.",
+     "opcoes": [
+      "5 Ω",
+      "20 Ω",
+      "10 Ω",
+      "100 Ω"
+     ],
+     "respostas": [
+      "5 Ω",
+      "20 Ω"
+     ],
+     "explicacao": "No paralelo, (10 × 10)/(10 + 10) = 5 Ω. No caminho único, 10 + 10 = 20 Ω.",
+     "dispositivo": "Matriz de Referência do Enem, Ciências da Natureza — Física, circuitos elétricos simples"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Uma fonte liga um resistor de 2 Ω em série com dois de 6 Ω em paralelo. Ordene a resolução para descobrir a corrente da fonte.",
+     "itens": [
+      "Localizar os dois ramos ligados aos mesmos nós.",
+      "Substituir os dois resistores de 6 Ω por um equivalente de 3 Ω.",
+      "Somar os 2 Ω do caminho comum aos 3 Ω do paralelo.",
+      "Dividir a tensão da fonte pela resistência total de 5 Ω."
+     ],
+     "explicacao": "O equivalente dos ramos é calculado antes de simplificar o caminho comum.",
+     "dispositivo": "Matriz de Referência do Enem, Ciências da Natureza — Física, circuitos elétricos simples"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Interruptor aberto no ramo",
+       "Corrente zero naquele ramo."
+      ],
+      [
+       "Resistores compartilhando um único caminho",
+       "Mesma corrente."
+      ],
+      [
+       "Resistores entre os mesmos nós",
+       "Mesma tensão."
+      ],
+      [
+       "Potência elétrica de uma carga",
+       "Produto da tensão pela corrente da carga."
+      ]
+     ],
+     "dispositivo": "Matriz de Referência do Enem, Ciências da Natureza — Física, circuitos elétricos simples"
+    }
+   ]
+  }
+ ]
+}

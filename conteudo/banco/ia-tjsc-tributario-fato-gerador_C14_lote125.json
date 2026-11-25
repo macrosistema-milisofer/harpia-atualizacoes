@@ -1,0 +1,225 @@
+{
+ "assunto": "Fato gerador da obrigação tributária: classificações e efeitos",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-25",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tjsc-b-c14-tributario-fato-gerador",
+   "titulo": "Fato gerador: ocorrência, classificações e efeitos",
+   "microconteudo": "RAIO-X DA PROVA: Separe hipótese legal e evento concreto; classifique situação de fato ou jurídica; aplique os arts. 116–117; avalie os efeitos sem confundir tributo, multa e ilicitude.\n\nO QUE A BANCA COBRA:\nA expressão “fato gerador” aparece no CTN tanto para a situação abstrata definida em lei quanto para a ocorrência concreta que faz nascer a obrigação. A prova costuma cobrar o momento do fato, situações jurídicas condicionais, fatos pendentes e a irrelevância da ilicitude quando a materialidade tributável ocorreu. Separe previsão legal, evento concreto, sujeito passivo e efeitos.\n\nENTENDA:\n1. Hipótese e ocorrência. O CTN, art. 114, define fato gerador da obrigação principal como a situação definida em lei necessária e suficiente à obrigação. Em linguagem didática, hipótese de incidência é a descrição abstrata; fato jurídico tributário é o evento concreto que coincide com ela. A lei deve estabelecer os elementos da incidência. O nome dado pelo legislador não substitui a análise da materialidade e da competência.\n\n2. Obrigações principal e acessória. A obrigação principal tem por objeto pagamento de tributo ou penalidade pecuniária. A acessória decorre da legislação e exige ação ou omissão de interesse fiscal (arts. 113 e 115). Pode existir mesmo quando não haja tributo principal devido no caso concreto. Seu descumprimento converte-se em obrigação principal quanto à penalidade, sem transformar multa em tributo: o art. 3º exclui sanção de ato ilícito do conceito de tributo.\n\n3. Situações de fato e jurídicas. Para situação de fato, o fato gerador ocorre quando se verificam as circunstâncias materiais necessárias à produção dos efeitos que normalmente lhe são próprios (art. 116, I). Para situação jurídica, ocorre quando ela esteja definitivamente constituída conforme o direito aplicável (art. 116, II). Se a situação estiver subordinada a condição suspensiva, ocorre quando implementada a condição; sob condição resolutória, desde a prática do ato ou celebração do negócio, salvo disposição legal em contrário (art. 117).\n\n4. Fatos pendentes e periódicos. O art. 105 aplica imediatamente a legislação aos fatos geradores futuros e aos pendentes, cuja ocorrência começou, mas ainda não se completou conforme o art. 116. A incidência temporal deve respeitar anterioridade, irretroatividade e regras específicas. Em tributos periódicos ou complexivos, identifique o período legal e o momento em que o fato se considera completo; não suponha que cada parcela ou evento isolado constitua por si o fato gerador anual.\n\n5. Atos ilícitos e interpretação. O art. 118 manda interpretar a definição legal abstraindo da validade jurídica dos atos praticados e da natureza do objeto ou de seus efeitos. Assim, renda não deixa automaticamente de ser tributável por ter origem ilícita, se a hipótese de incidência efetivamente se realizou. Isso não significa que o tributo sancione o crime, nem que se possa tributar fato inexistente. O STJ aplica o princípio chamado non olet, mas ressalta o contexto: se negócio jurídico é desfeito e a situação tributável deixa de subsistir, pode haver restituição, conforme as circunstâncias e a ausência de dolo do contribuinte.\n\n6. Dissimulação. O parágrafo único do art. 116 permite à autoridade desconsiderar atos ou negócios praticados para dissimular a ocorrência do fato gerador ou a natureza dos elementos da obrigação, observados os procedimentos previstos em lei ordinária. Não é autorização genérica para ignorar planejamento lícito, nem elimina a necessidade de procedimento e prova da dissimulação. A autoridade identifica a realidade dos atos sem criar hipótese de incidência por analogia.\n\n7. Circulação jurídica. ICMS não incide sobre mera movimentação física entre estabelecimentos do mesmo titular sem circulação jurídica de mercadoria. Para ISS e ICMS em operações mistas, a Constituição e a lei complementar delimitam a materialidade. O fato gerador depende do que a lei e a Constituição definem, e não apenas de registro contábil ou deslocamento físico.\n\nDOUTRINA:\nA distinção entre hipótese de incidência e fato jurídico tributário evita confundir norma e realidade. Classificações como instantâneo, periódico ou continuado descrevem a formação temporal da ocorrência; seus efeitos dependem da lei específica e dos arts. 116 e 117 do CTN.\n\nJURISPRUDÊNCIA:\nTema 1099/STF (ARE 1.255.885): não incide ICMS no deslocamento entre estabelecimentos do mesmo contribuinte sem transferência de titularidade ou ato de mercancia. ADC 49/STF reafirma a não incidência e disciplina seus efeitos. SV 31: é inconstitucional ISS sobre locação de bens móveis, que não configura obrigação de fazer. STJ, REsp 1.493.162/DF: art. 118 e non olet não se leem isoladamente; negócio desfeito com retorno ao estado anterior pode afastar a subsistência do fato gerador do ITBI, consideradas as circunstâncias.\n\nPEGADINHAS:\n• Hipótese abstrata está na lei; fato jurídico tributário é o evento realizado.\n• Multa é obrigação principal quanto à penalidade, mas não é tributo.\n• Ilicitude não afasta automaticamente imposto sobre renda; inexistência ou desconstituição do fato pode alterar o resultado.\n• Condições suspensiva e resolutória têm momentos distintos no art. 117.\n• Circulação física não equivale sempre a circulação jurídica para ICMS.\n• Art. 116, parágrafo único, trata de dissimulação com procedimento legal, não de autorização ilimitada contra elisão lícita.\n\nESQUEMA:\nLei descreve hipótese → ocorre evento material ou situação jurídica → aplica-se o momento dos arts. 116–117 → nasce obrigação principal ou dever acessório → apuram-se efeitos sem confundir tributo, multa ou circulação física.\n\nLIGAÇÕES:\nRelacione fato gerador à regra-matriz, legalidade, obrigação, sujeição passiva, lançamento e crédito. A distinção entre evento e materialidade orienta imunidade, não incidência, decadência e restituição.",
+   "flashcards": [
+    {
+     "frente": "Como o CTN define fato gerador da obrigação principal?",
+     "verso": "Situação definida em lei como necessária e suficiente à ocorrência da obrigação.",
+     "dispositivo": "CTN, art. 114"
+    },
+    {
+     "frente": "Quando ocorre fato gerador sob condição suspensiva?",
+     "verso": "Quando a condição se implementa, salvo regra legal em contrário.",
+     "dispositivo": "CTN, art. 117, I"
+    },
+    {
+     "frente": "A ilicitude impede sempre tributar renda?",
+     "verso": "Não. O art. 118 manda abstrair da validade do ato, sem dispensar materialidade ou legalidade.",
+     "dispositivo": "CTN, art. 118"
+    },
+    {
+     "frente": "Multa tributária é tributo?",
+     "verso": "Não. O descumprimento de obrigação acessória gera obrigação principal quanto à penalidade, mas multa não integra o conceito de tributo.",
+     "dispositivo": "CTN, arts. 3º e 113, §§ 2º–3º"
+    },
+    {
+     "frente": "Transferência entre filiais próprias gera ICMS?",
+     "verso": "Não pelo mero deslocamento sem transferência de titularidade ou ato de mercancia.",
+     "dispositivo": "Tema 1099/STF; ADC 49/STF"
+    },
+    {
+     "frente": "O art. 116, parágrafo único, autoriza desconsiderar qualquer planejamento?",
+     "verso": "Não. Exige dissimulação do fato gerador ou de elementos da obrigação e procedimento previsto em lei ordinária.",
+     "dispositivo": "CTN, art. 116, parágrafo único"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O CTN, art. 114, define fato gerador da obrigação principal como situação definida em lei necessária e suficiente à ocorrência da obrigação.",
+     "gabarito": "C",
+     "comentario": "Correto. Essa é a definição do art. 114 do CTN.",
+     "dispositivo": "CTN, art. 114"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Se a hipótese tributária se realiza em atividade ilícita, a incidência fica sempre afastada, ainda que haja renda tributável.",
+     "gabarito": "E",
+     "comentario": "Errado. O art. 118 manda abstrair da validade jurídica do ato ao interpretar o fato gerador; a ilicitude não impede automaticamente tributar materialidade efetivamente realizada.",
+     "dispositivo": "CTN, art. 118"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Em situação jurídica sob condição suspensiva, o fato gerador ocorre quando a condição é implementada, salvo regra legal em contrário.",
+     "gabarito": "C",
+     "comentario": "Correto. É a regra do art. 117, I, do CTN.",
+     "dispositivo": "CTN, art. 117, I"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Toda movimentação física de mercadoria entre estabelecimentos do mesmo contribuinte realiza fato gerador do ICMS.",
+     "gabarito": "E",
+     "comentario": "Errado. O Tema 1099/STF afasta ICMS no mero deslocamento entre estabelecimentos do mesmo titular sem transferência de titularidade ou mercancia.",
+     "dispositivo": "CF, art. 155, II; Tema 1099/STF"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Contrato de compra e venda sob condição suspensiva: em que momento ocorre, em regra, o fato gerador da situação jurídica?",
+     "alternativas": {
+      "A": "Na assinatura, mesmo antes do implemento.",
+      "B": "Sempre no pagamento do preço.",
+      "C": "No registro contábil, exclusivamente.",
+      "D": "Quando a condição suspensiva se implementa."
+     },
+     "gabarito": "D",
+     "comentario": "D (correta). CTN, art. 117, I. A (incorreta). A condição suspensiva posterga a ocorrência. B (incorreta). Pagamento não é o critério geral do dispositivo. C (incorreta). Lançamento contábil não substitui a lei.",
+     "comentarios_por_alternativa": {
+      "A": "A condição suspensiva posterga o momento até seu implemento.",
+      "B": "O pagamento só define o momento se regra específica assim dispuser.",
+      "C": "Registro contábil não é critério geral do art. 117.",
+      "D": "É a regra expressa do CTN, art. 117, I."
+     },
+     "dispositivo": "CTN, art. 117, I"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Uma empresa transfere máquinas entre filiais próprias, sem alienação nem mudança de titularidade. Conforme o Tema 1099/STF:",
+     "alternativas": {
+      "A": "Incide ICMS pela simples saída física.",
+      "B": "Não incide ICMS só pelo deslocamento entre estabelecimentos do mesmo titular, sem circulação jurídica.",
+      "C": "Incide ISS por transporte próprio.",
+      "D": "A emissão de nota fiscal cria a incidência."
+     },
+     "gabarito": "B",
+     "comentario": "B (correta). O Tema 1099 exige circulação jurídica com transferência de titularidade ou ato de mercancia. A (incorreta). Saída física isolada não basta. C (incorreta). A situação não é prestação autônoma a terceiro. D (incorreta). Documento fiscal não cria fato gerador.",
+     "comentarios_por_alternativa": {
+      "A": "Deslocamento físico sem circulação jurídica não gera ICMS.",
+      "B": "Essa é a tese do Tema 1099/STF.",
+      "C": "Transferência interna não configura por si serviço prestado a terceiro.",
+      "D": "Documento fiscal registra a operação, mas não cria materialidade."
+     },
+     "dispositivo": "CF, art. 155, II; Tema 1099/STF; ADC 49/STF"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "São localizadas receitas de atividade proibida. Qual proposição melhor aplica o art. 118 do CTN?",
+     "alternativas": {
+      "A": "A origem ilícita impede sempre tributar renda.",
+      "B": "A tributação transforma o tributo em sanção penal.",
+      "C": "A ilicitude não afasta automaticamente a incidência se a materialidade ocorreu, mas os demais requisitos legais continuam necessários.",
+      "D": "O art. 118 permite cobrar tributo sem lei."
+     },
+     "gabarito": "C",
+     "comentario": "C (correta). O art. 118 afasta a relevância automática da validade do ato para interpretar o fato gerador, sem dispensar materialidade e legalidade. A (incorreta). A origem ilícita não elimina automaticamente renda tributável. B (incorreta). Tributo não é pena. D (incorreta). A legalidade permanece.",
+     "comentarios_por_alternativa": {
+      "A": "A origem ilícita não elimina automaticamente a aquisição de renda.",
+      "B": "Cobrança tributária não se confunde com sanção penal.",
+      "C": "Combina art. 118 com prova da materialidade e legalidade.",
+      "D": "O art. 118 interpreta hipótese legal; não cria incidência."
+     },
+     "dispositivo": "CTN, arts. 3º e 118"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "A fiscalização pretende desconsiderar negócio jurídico alegadamente usado para dissimular fato gerador. O CTN exige:",
+     "alternativas": {
+      "A": "Finalidade de dissimular a ocorrência ou elementos da obrigação e observância do procedimento previsto em lei ordinária.",
+      "B": "Apenas economia fiscal, sem procedimento ou prova.",
+      "C": "Decreto criando fato gerador novo.",
+      "D": "Autorização judicial prévia em todos os casos."
+     },
+     "gabarito": "A",
+     "comentario": "A (correta). Requisitos do art. 116, parágrafo único. B (incorreta). Economia fiscal lícita não equivale automaticamente à dissimulação. C (incorreta). Desconsideração não cria hipótese. D (incorreta). O CTN não exige autorização judicial geral prévia.",
+     "comentarios_por_alternativa": {
+      "A": "Reproduz pressupostos e reserva procedimental do art. 116, parágrafo único.",
+      "B": "Economia fiscal isolada não é dissimulação.",
+      "C": "A administração não pode criar fato gerador por decreto.",
+      "D": "O CTN não prevê requisito universal de autorização judicial."
+     },
+     "dispositivo": "CTN, art. 116, parágrafo único"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Na condição suspensiva, o fato gerador ocorre com o implemento da ___; na resolutória, em regra, desde a prática do ato.",
+     "opcoes": [
+      "condição",
+      "alíquota",
+      "declaração",
+      "fiscalização"
+     ],
+     "respostas": [
+      "condição"
+     ],
+     "explicacao": "As duas hipóteses têm momentos distintos no CTN.",
+     "dispositivo": "CTN, art. 117"
+    },
+    {
+     "tipo": "associacao",
+     "pares": [
+      {
+       "esquerda": "Art. 114",
+       "direita": "definição do fato gerador principal"
+      },
+      {
+       "esquerda": "Art. 116",
+       "direita": "situação de fato ou jurídica"
+      },
+      {
+       "esquerda": "Art. 117",
+       "direita": "condição suspensiva e resolutória"
+      },
+      {
+       "esquerda": "Art. 118",
+       "direita": "interpretação abstraindo validade jurídica"
+      }
+     ],
+     "explicacao": "Associe os dispositivos à disciplina do fato gerador.",
+     "dispositivo": "CTN, arts. 114 e 116–118"
+    },
+    {
+     "tipo": "classificacao",
+     "itens": [
+      {
+       "enunciado": "Imposto sobre renda de atividade ilícita",
+       "resposta": "ilicitude não afasta automaticamente a incidência"
+      },
+      {
+       "enunciado": "Multa por declaração omitida",
+       "resposta": "obrigação principal quanto à penalidade, sem ser tributo"
+      },
+      {
+       "enunciado": "Transferência interna entre filiais do mesmo titular",
+       "resposta": "sem ICMS se não houver circulação jurídica"
+      }
+     ],
+     "explicacao": "Classifique pela materialidade e os efeitos legais.",
+     "dispositivo": "CTN, arts. 3º, 113 e 118; Tema 1099/STF"
+    },
+    {
+     "tipo": "caso_pratico",
+     "enunciado": "Contrato é anulado e as partes retornam ao estado anterior. O imposto de transmissão é sempre mantido só porque o negócio foi celebrado?",
+     "resposta": "Não necessariamente. Deve-se verificar se a situação tributável subsistiu, o retorno ao estado anterior e as circunstâncias do caso; o art. 118 não é aplicado isoladamente para manter tributo quando o fato gerador deixou de existir.",
+     "explicacao": "O STJ distingue a tributação de atividade ilícita da situação em que negócio desfeito deixa de produzir a materialidade tributável.",
+     "dispositivo": "CTN, arts. 116–118; STJ, REsp 1.493.162/DF"
+    }
+   ]
+  }
+ ]
+}
