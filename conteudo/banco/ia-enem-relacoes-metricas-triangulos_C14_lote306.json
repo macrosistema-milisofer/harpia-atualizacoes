@@ -1,0 +1,254 @@
+{
+ "assunto": "Relações métricas nos triângulos: catetos, projeções e diagonais",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-25",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-relacoes-metricas-triangulos-c14",
+   "titulo": "Relações métricas nos triângulos: catetos, projeções e diagonais",
+   "microconteudo": "RAIO-X DA PROVA: Nos cadernos azuis regulares do Enem de 2021 a 2025, foram identificadas 2 questões relacionadas a este assunto, de um total de 225 em Matemática.\n\nPOR QUE IMPORTA:\nVocê pode calcular quanto cabo será necessário para ligar dois cantos de uma sala sem medir a diagonal. O Enem também usa relações entre os lados de um triângulo para comparar áreas de figuras e interpretar modelos em três dimensões.\n\nO QUE A BANCA COBRA:\nIdentifique primeiro onde está o ângulo reto. Em seguida, decida se a pergunta pede um lado, a altura até a hipotenusa ou a projeção de um cateto sobre ela.\n\nENTENDA:\nImagine uma sala retangular com lados de 6 m e 8 m. Para representar um cabo que liga cantos opostos, desenhe a diagonal. Ela divide a sala em dois triângulos retângulos. Os lados de 6 e 8 formam o ângulo de 90° e são chamados catetos. A diagonal fica em frente a esse ângulo e é chamada hipotenusa. Pelo teorema de Pitágoras, o quadrado da diagonal vale 6² + 8² = 100. A diagonal mede 10 m. A conta responde à distância em linha reta. O percurso junto às paredes, com uma mudança de direção, seria a soma de 6 m e 8 m: 14 m. Leia qual trajeto a situação pede.\n\nEscrevemos a² = b² + c² quando a é a hipotenusa e b e c são os catetos. A soma ocorre entre os quadrados das medidas, e a raiz quadrada devolve o comprimento. Se o enunciado fornecer um cateto e a hipotenusa, a operação passa por uma subtração. Suponha que uma rampa desenhada tenha comprimento de 13 m e projeção horizontal de 12 m. O desnível é o outro cateto. Seu quadrado vale 13² − 12² = 169 − 144 = 25, então o desnível é 5 m. A hipotenusa precisa ser maior que cada cateto, o que oferece uma checagem imediata para o resultado.\n\nO teorema também pode ser usado para identificar um ângulo reto quando você conhece os três lados. Um triângulo de lados 7, 24 e 25 tem 7² + 24² = 625, exatamente 25². Assim, ele é retângulo, com o ângulo reto oposto ao lado de medida 25. Já um triângulo de lados 5, 6 e 8 terá 5² + 6² = 61 e 8² = 64. Nesse caso, as medidas não atendem à condição de um triângulo retângulo. Em problemas que descrevem duas direções, confirme se são perpendiculares antes de somar quadrados. Andar para o norte e depois para o leste fornece dois segmentos perpendiculares. Seguir duas ruas que se cruzam em um ângulo qualquer pode exigir outra relação.\n\nA mesma fórmula pode ser usada duas vezes em uma caixa retangular. Suponha que ela tenha 3 m de largura, 4 m de profundidade e 12 m de altura. Primeiro, calcule a diagonal da base: a raiz de 3² + 4² vale 5 m. Depois, use a diagonal da base e a altura, que são perpendiculares, para achar a diagonal interna da caixa. Ela mede a raiz de 5² + 12², que é 13 m. Se uma questão pede a maior extensão em linha reta dentro de uma caixa retangular vazia, esse segmento liga vértices opostos. A diagonal desenhada em uma face tem apenas duas dimensões, e a diagonal interna depende das três.\n\nAgora desenhe a altura que sai do ângulo reto e cai perpendicularmente sobre a hipotenusa. Esse traço divide a hipotenusa em dois segmentos. Chamaremos de m o segmento junto ao cateto b e de n o segmento junto ao cateto c. Esses segmentos são as projeções dos catetos na hipotenusa. A soma m + n é o comprimento a da hipotenusa. A altura h divide o triângulo original em outros dois triângulos retângulos. Cada um deles compartilha um ângulo agudo com o original. Como os ângulos de cada triângulo somam 180°, os dois menores e o original são semelhantes: seus lados correspondentes mantêm proporções.\n\nDa semelhança surgem duas relações importantes. O quadrado do cateto b é o produto da hipotenusa pela projeção desse cateto: b² = am. Para o cateto c, c² = an. Se a hipotenusa mede 25 cm e a projeção junto a b mede 9 cm, o quadrado de b vale 25 × 9 = 225 cm², de modo que b mede 15 cm. Como o outro trecho mede 16 cm, o quadrado de c vale 25 × 16 = 400 cm² e c mede 20 cm. Os valores satisfazem Pitágoras: 15² + 20² = 625 = 25². Na hora de escolher qual projeção usar, marque no desenho o trecho que toca o mesmo vértice agudo que o cateto pedido.\n\nOs dois triângulos menores também permitem escrever h² = mn. No exemplo dos trechos de 9 e 16 cm, a altura mede a raiz de 144, ou 12 cm. A mesma altura pode ser calculada pela área do triângulo. Usando os catetos como base e altura, a área vale bc/2. Usando a hipotenusa como base, a área vale ah/2. As duas expressões representam a mesma figura, então bc = ah. Substituindo os valores, 15 × 20 = 25 × h e encontramos h = 12 cm. Você pode escolher o caminho que usa os dados que já aparecem. Se souber os catetos e a hipotenusa, usar h = bc/a evita calcular as projeções antes.\n\nPitágoras ainda pode comparar áreas quando as figuras são construídas do mesmo modo sobre cada lado. Se o diâmetro de um círculo vale d, sua área vale πd²/4. Considere três círculos com diâmetros iguais aos três lados de um triângulo retângulo. A soma das áreas dos círculos sobre os catetos é π(b² + c²)/4. Pelo teorema, essa expressão vale πa²/4, que é a área do círculo sobre a hipotenusa. A relação funciona porque em todos os círculos a área é proporcional ao quadrado do comprimento que veio do triângulo. Se a figura do enunciado usa raios em vez de diâmetros, o fator muda, mas precisa ser o mesmo nas três figuras.\n\nNo Enem, os comprimentos podem aparecer em um mapa ou em coordenadas. Em um plano cartesiano, considere A = (2, 1) e B = (8, 9). O deslocamento horizontal entre eles é 8 − 2 = 6 unidades, e o vertical é 9 − 1 = 8. Os deslocamentos são perpendiculares e a distância direta vale 10 unidades. Se cada unidade no mapa representa 50 m, a distância real é 500 m. Uma estratégia é fazer primeiro toda a geometria na mesma unidade e só depois passar à escala real. Caso seja preciso converter logo no início, aplique a escala aos dois catetos antes de usar a relação.\n\nAo revisar, escreva o que representa cada trecho encontrado. Um cálculo de altura pode pedir um desnível vertical ou a distância perpendicular a um lado inclinado. Essas duas alturas coincidem somente se a base escolhida for horizontal. Fique atento também às unidades: somar o quadrado de uma medida em centímetros ao quadrado de outra em metros sem conversão produz uma conta incompatível. Por fim, compare a resposta com o desenho. Uma diagonal retangular precisa superar cada lado, e a altura até a hipotenusa fica menor que os catetos de um triângulo retângulo não degenerado.\n\nOutra aplicação é conferir se um objeto rígido cabe em uma abertura retangular quando pode ser girado no plano da abertura. Uma barra ideal, de espessura desprezível, cabe no plano de uma janela de 60 cm por 80 cm se seu comprimento for no máximo 100 cm. A diagonal dá esse limite porque, entre dois pontos da janela, a diferença horizontal não ultrapassa 60 cm e a vertical não ultrapassa 80 cm. Uma barra com largura relevante exige que a forma inteira caiba, e a diagonal sozinha não garante o encaixe. Antes de usar esse modelo, confira se o enunciado descreve um segmento ou um objeto com largura.\n\nTROCANDO EM MIÚDOS:\nDesenhe um retângulo em um papel quadriculado. Ligue dois cantos opostos. A reta que você desenhou fica diante do canto de 90°, e por isso é a hipotenusa de um dos triângulos. Se as bordas medirem 3 e 4 quadradinhos, faça 3² + 4²: são 9 + 16 = 25. A raiz de 25 dá 5. Esse é o comprimento da diagonal no modelo. É maior que cada borda, mas menor que o caminho de 7 quadradinhos que faria a volta por duas delas.\n\nSe a pergunta trouxer o valor do lado inclinado e de uma das bordas, subtraia. Imagine uma escada de 10 m desenhada com sua base a 6 m de uma parede vertical. A altura que ela alcança tem quadrado igual a 100 − 36, ou 64. Tirando a raiz, encontramos 8 m. Comece marcando o ângulo reto, assim você escolhe o valor que fica sozinho na igualdade.\n\nEm outros desenhos, a pergunta mostra uma linha do canto reto até a hipotenusa. Essa linha forma outro ângulo reto no ponto em que chega ao lado inclinado. Ela divide a hipotenusa em dois segmentos. Se os pedaços medirem 4 e 9 cm, a altura traçada mede a raiz de 4 × 9, isto é, 6 cm. Esse 6 representa uma medida perpendicular ao lado inclinado. Para descobrir um cateto, use a hipotenusa inteira vezes o pedaço que encosta no mesmo canto agudo do cateto e depois tire a raiz.\n\nGuarde o roteiro: ache o ângulo reto, escolha o segmento que corresponde ao pedido e escreva as medidas na mesma unidade. Ao terminar, explique a resposta em uma frase: distância direta entre dois pontos, altura perpendicular a uma base ou tamanho de um dos pedaços. Essa última leitura evita confundir segmentos com comprimentos parecidos no papel. Na dúvida, aponte o segmento pedido no desenho.\n\nLEI SECA:\nCom hipotenusa a, catetos b e c, projeções m e n e altura h: a² = b² + c²; b² = am; c² = an; h² = mn; ah = bc.\n\nSÚMULAS E TESES:\nAs projeções somam a hipotenusa. A diagonal interna de um bloco retangular pode ser obtida por duas aplicações de Pitágoras.\n\nESQUEMA:\nMarcar 90° → identificar hipotenusa e catetos → localizar altura ou projeção → escolher a relação → conferir a unidade.\n\nPEGADINHAS:\n1. Somar lados em vez de quadrados.\n2. Usar um cateto como hipotenusa.\n3. Trocar as projeções.\n4. Omitir a raiz no fim.\n5. Misturar unidades antes de elevar ao quadrado.\n\nDOUTRINA:\nOpenStax, Prealgebra 2e, seção 9.3, Use Properties of Angles, Triangles, and the Pythagorean Theorem.\n\nNA PRÁTICA:\nUma caixa retangular mede 6 cm, 8 cm e 24 cm. A diagonal da base mede 10 cm. A diagonal interna resulta da raiz de 10² + 24² = 676, ou 26 cm.",
+   "flashcards": [
+    {
+     "frente": "Qual lado está diante de 90°?",
+     "verso": "A hipotenusa.",
+     "dispositivo": "Conhecimentos geométricos — Relações métricas nos triângulos"
+    },
+    {
+     "frente": "Qual é a equação de Pitágoras?",
+     "verso": "O quadrado da hipotenusa é a soma dos quadrados dos catetos.",
+     "dispositivo": "Conhecimentos geométricos — Relações métricas nos triângulos"
+    },
+    {
+     "frente": "Como calcular a altura a partir das projeções?",
+     "verso": "Tire a raiz quadrada do produto das projeções.",
+     "dispositivo": "Conhecimentos geométricos — Relações métricas nos triângulos"
+    },
+    {
+     "frente": "Como calcular o cateto a partir de sua projeção?",
+     "verso": "Tire a raiz do produto entre a hipotenusa e a projeção desse cateto.",
+     "dispositivo": "Conhecimentos geométricos — Relações métricas nos triângulos"
+    },
+    {
+     "frente": "Qual é o produto dos catetos em termos da hipotenusa?",
+     "verso": "Hipotenusa vezes a altura perpendicular a ela.",
+     "dispositivo": "Conhecimentos geométricos — Relações métricas nos triângulos"
+    },
+    {
+     "frente": "Como obter a diagonal interna de um bloco?",
+     "verso": "Use Pitágoras na base, depois use sua diagonal e a altura como catetos.",
+     "dispositivo": "Conhecimentos geométricos — Relações métricas nos triângulos"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Um retângulo mede 5 m por 12 m.",
+     "enunciado": "A diagonal mede 13 m.",
+     "gabarito": "C",
+     "comentario": "Certo. A raiz de 25 + 144 é 13.\n(Conhecimentos geométricos — Relações métricas nos triângulos, H8.)",
+     "habilidade": "H8",
+     "id": "enem-relacoes-metricas-triangulos-c14-q01",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Relações métricas nos triângulos, H8"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Os lados de um triângulo medem 5 cm, 6 cm e 8 cm.",
+     "enunciado": "O lado de 8 cm é a hipotenusa de um triângulo retângulo.",
+     "gabarito": "E",
+     "comentario": "Errado. 25 + 36 = 61, valor diferente de 64.\n(Conhecimentos geométricos — Relações métricas nos triângulos, H8.)",
+     "habilidade": "H8",
+     "id": "enem-relacoes-metricas-triangulos-c14-q02",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Relações métricas nos triângulos, H8"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "A altura de um triângulo retângulo divide sua hipotenusa em segmentos de 4 cm e 9 cm.",
+     "enunciado": "A altura mede 6 cm.",
+     "gabarito": "C",
+     "comentario": "Certo. O quadrado da altura é 4 × 9.\n(Conhecimentos geométricos — Relações métricas nos triângulos, H8.)",
+     "habilidade": "H8",
+     "id": "enem-relacoes-metricas-triangulos-c14-q03",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Relações métricas nos triângulos, H8"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma caixa retangular mede 3 cm, 4 cm e 12 cm.",
+     "enunciado": "O segmento direto entre vértices opostos mede 19 cm.",
+     "gabarito": "E",
+     "comentario": "Errado. 19 resulta da soma das arestas. A diagonal é a raiz de 9 + 16 + 144, ou 13 cm.\n(Conhecimentos geométricos — Relações métricas nos triângulos, H8.)",
+     "habilidade": "H8",
+     "id": "enem-relacoes-metricas-triangulos-c14-q04",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Relações métricas nos triângulos, H8"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um mapa cartesiano marca a escola em (1, 2) e a biblioteca em (7, 10). Cada unidade vale 20 m.",
+     "enunciado": "Qual é a distância em linha reta?",
+     "gabarito": "B",
+     "comentario": "A) Só considera o avanço horizontal.\nB) Correta. A raiz de 6² + 8² vale 10 unidades, equivalentes a 200 m.\nC) Só considera o avanço vertical.\nD) Soma os dois deslocamentos em vez de achar a diagonal.\nE) Multiplica o quadrado da distância pela escala.\n(Conhecimentos geométricos — Relações métricas nos triângulos, H8.)",
+     "comentarios_por_alternativa": {
+      "A": "Só considera o avanço horizontal.",
+      "B": "Correta. A raiz de 6² + 8² vale 10 unidades, equivalentes a 200 m.",
+      "C": "Só considera o avanço vertical.",
+      "D": "Soma os dois deslocamentos em vez de achar a diagonal.",
+      "E": "Multiplica o quadrado da distância pela escala."
+     },
+     "alternativas": {
+      "A": "120 m",
+      "B": "200 m",
+      "C": "160 m",
+      "D": "280 m",
+      "E": "2.000 m"
+     },
+     "habilidade": "H8",
+     "id": "enem-relacoes-metricas-triangulos-c14-q05",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Relações métricas nos triângulos, H8"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma prancha desenhada liga o solo a uma plataforma vertical. A prancha mede 17 m e avança 15 m na horizontal.",
+     "enunciado": "Qual é o desnível?",
+     "gabarito": "D",
+     "comentario": "A) Subtrai medidas diretamente.\nB) Não é a raiz da diferença 289 − 225.\nC) É o valor médio entre os dados.\nD) Correta. A raiz de 17² − 15² é a raiz de 64: 8 m.\nE) Soma a hipotenusa e o avanço.\n(Conhecimentos geométricos — Relações métricas nos triângulos, H8.)",
+     "comentarios_por_alternativa": {
+      "A": "Subtrai medidas diretamente.",
+      "B": "Não é a raiz da diferença 289 − 225.",
+      "C": "É o valor médio entre os dados.",
+      "D": "Correta. A raiz de 17² − 15² é a raiz de 64: 8 m.",
+      "E": "Soma a hipotenusa e o avanço."
+     },
+     "alternativas": {
+      "A": "2 m",
+      "B": "4 m",
+      "C": "16 m",
+      "D": "8 m",
+      "E": "32 m"
+     },
+     "habilidade": "H8",
+     "id": "enem-relacoes-metricas-triangulos-c14-q06",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Relações métricas nos triângulos, H8"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "A hipotenusa de um triângulo mede 25 cm. A projeção de um de seus catetos sobre ela mede 16 cm.",
+     "enunciado": "Quanto mede esse cateto?",
+     "gabarito": "A",
+     "comentario": "A) Correta. A raiz de 25 × 16 é 20 cm.\nB) É o cateto cuja projeção tem 9 cm.\nC) É o comprimento da outra projeção.\nD) É a medida da projeção dada.\nE) Somar hipotenusa e projeção não fornece o cateto.\n(Conhecimentos geométricos — Relações métricas nos triângulos, H8.)",
+     "comentarios_por_alternativa": {
+      "A": "Correta. A raiz de 25 × 16 é 20 cm.",
+      "B": "É o cateto cuja projeção tem 9 cm.",
+      "C": "É o comprimento da outra projeção.",
+      "D": "É a medida da projeção dada.",
+      "E": "Somar hipotenusa e projeção não fornece o cateto."
+     },
+     "alternativas": {
+      "A": "20 cm",
+      "B": "15 cm",
+      "C": "9 cm",
+      "D": "16 cm",
+      "E": "41 cm"
+     },
+     "habilidade": "H8",
+     "id": "enem-relacoes-metricas-triangulos-c14-q07",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Relações métricas nos triângulos, H8"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Dois círculos com diâmetros iguais aos catetos de um triângulo retângulo têm áreas de 9π cm² e 16π cm².",
+     "enunciado": "Qual é a área do círculo cujo diâmetro é a hipotenusa?",
+     "gabarito": "E",
+     "comentario": "A) É a diferença das áreas.\nB) É a média geométrica das duas áreas.\nC) Resulta de somar os raios 3 e 4 e elevar ao quadrado.\nD) Usa o quadrado do diâmetro sem dividir por quatro.\nE) Correta. As três áreas são proporcionais aos quadrados dos lados com o mesmo fator π/4. Somamos 9π e 16π.\n(Conhecimentos geométricos — Relações métricas nos triângulos, H9.)",
+     "comentarios_por_alternativa": {
+      "A": "É a diferença das áreas.",
+      "B": "É a média geométrica das duas áreas.",
+      "C": "Resulta de somar os raios 3 e 4 e elevar ao quadrado.",
+      "D": "Usa o quadrado do diâmetro sem dividir por quatro.",
+      "E": "Correta. As três áreas são proporcionais aos quadrados dos lados com o mesmo fator π/4. Somamos 9π e 16π."
+     },
+     "alternativas": {
+      "A": "7π cm²",
+      "B": "12π cm²",
+      "C": "49π cm²",
+      "D": "100π cm²",
+      "E": "25π cm²"
+     },
+     "habilidade": "H9",
+     "id": "enem-relacoes-metricas-triangulos-c14-q08",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Relações métricas nos triângulos, H9"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O lado oposto ao ângulo reto é a ___ e seu quadrado é a ___ dos quadrados dos catetos.",
+     "opcoes": [
+      "hipotenusa",
+      "soma",
+      "diferença",
+      "mediana"
+     ],
+     "respostas": [
+      "hipotenusa",
+      "soma"
+     ],
+     "explicacao": "O teorema relaciona o lado maior com os dois segmentos perpendiculares."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Se as projeções medem 1 e 9 cm, a altura tem ___ cm.",
+     "opcoes": [
+      "3",
+      "9",
+      "10",
+      "8"
+     ],
+     "respostas": [
+      "3"
+     ],
+     "explicacao": "A altura é a raiz quadrada de 1 × 9."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o cálculo da diagonal interna de uma caixa.",
+     "itens": [
+      "Localizar duas arestas perpendiculares da base.",
+      "Calcular a diagonal da base.",
+      "Identificar o triângulo formado por essa diagonal e pela altura da caixa.",
+      "Aplicar Pitágoras para obter a diagonal interna."
+     ],
+     "explicacao": "O segundo triângulo usa a diagonal da base como cateto."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "a²",
+       "b² + c²"
+      ],
+      [
+       "b²",
+       "am"
+      ],
+      [
+       "h²",
+       "mn"
+      ],
+      [
+       "ah",
+       "bc"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

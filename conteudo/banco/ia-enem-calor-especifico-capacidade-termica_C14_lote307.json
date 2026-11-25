@@ -1,0 +1,254 @@
+{
+ "assunto": "Calor específico e capacidade térmica: massa, energia e temperatura",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-25",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-calor-especifico-capacidade-termica-c14",
+   "titulo": "Calor específico e capacidade térmica: massa, energia e temperatura",
+   "microconteudo": "RAIO-X DA PROVA: Nos cadernos azuis regulares do Enem de 2021 a 2025, foram identificadas 1 questões relacionadas a este assunto, de um total de 225 em Ciências da Natureza.\n\nPOR QUE IMPORTA:\nA mesma quantidade de energia pode aquecer bastante uma caneca pequena e alterar pouco a temperatura de uma panela cheia. O Enem usa essa diferença para relacionar massa, temperatura e energia em situações como o aquecimento de água.\n\nO QUE A BANCA COBRA:\nObserve o que se mantém fixo e se a substância muda de estado. Nos casos sem mudança de fase, relacione energia, massa, calor específico e variação de temperatura.\n\nENTENDA:\nImagine duas panelas iguais, uma com 500 g de água e outra com 1.000 g. Em um exercício idealizado, as duas recebem 4.200 J, e toda essa energia passa para a água líquida. A porção de 500 g aumenta sua temperatura em 2 °C. A de 1.000 g aumenta em 1 °C. A energia recebida é a mesma, mas a massa que precisa aquecer é diferente. O cálculo usa o calor específico da água líquida, aproximadamente 4,2 J/(g·°C) nas condições usuais de problemas escolares. O valor indica quantos joules são necessários, aproximadamente, para elevar em um grau Celsius a temperatura de um grama de água.\n\nCalor é energia transferida em razão de uma diferença de temperatura. Em equilíbrio térmico, dois corpos em contato têm a mesma temperatura média macroscópica e não apresentam troca líquida de calor entre si. A energia interna de um corpo depende de seu estado, da quantidade de matéria e de como suas partículas se movem e interagem. Por isso, estar a uma temperatura mais alta e possuir mais energia interna total são ideias diferentes. Uma gota aquecida pode ter temperatura mais alta que um balde de água morna, embora o balde tenha muito mais massa. Quando a questão usa o termo calor recebido, procure uma transferência de energia no cenário.\n\nSe o corpo permanece no mesmo estado físico e o calor específico pode ser tratado como constante, utilize Q = mcΔT. A massa é m, o calor específico é c, e ΔT é a temperatura final menos a inicial. Se você usa massa em gramas, o valor de c deve ter gramas no denominador. Caso use quilogramas, pode escrever para a água 4.200 J/(kg·°C). Os resultados coincidem: 500 g × 4,2 J/(g·°C) × 2 °C = 4.200 J, enquanto 0,5 kg × 4.200 J/(kg·°C) × 2 °C também vale 4.200 J. Essa conferência evita erros por um fator mil.\n\nA capacidade térmica C refere-se ao corpo inteiro. Para um corpo uniforme, vale C = mc. Ela mede a energia necessária para variar em um grau a temperatura daquele corpo. Uma porção de 250 g de água tem capacidade térmica aproximada de 1.050 J/°C. Uma porção de 500 g tem o dobro da capacidade, mesmo sendo feita da mesma substância. Assim, o calor específico continua igual nas duas amostras, mas suas capacidades térmicas são diferentes. Caso um problema informe diretamente a capacidade térmica do conjunto, use Q = CΔT. Multiplicar pela massa outra vez repetiria uma informação que já entrou no valor fornecido.\n\nCompare dois materiais com massas iguais. Se recebem a mesma quantidade de calor, o de menor calor específico apresenta maior aumento de temperatura, nas condições em que a equação vale. Imagine 100 g de um sólido A com c = 0,5 J/(g·°C) e 100 g de um sólido B com c = 1,0 J/(g·°C). Cada um recebe 500 J. A capacidade térmica de A é 50 J/°C e a de B é 100 J/°C. As variações são 10 °C e 5 °C, respectivamente. Se as massas mudarem também, a comparação correta usa o produto mc. Um material de calor específico menor pode formar o corpo com maior capacidade térmica caso a massa seja suficientemente grande.\n\nConsidere agora o resfriamento de uma amostra. Se 200 g de água passam de 50 °C a 30 °C, ΔT = −20 °C. Logo, Q = 200 × 4,2 × (−20) = −16.800 J para a água. O sinal negativo indica perda de energia por transferência térmica no modelo. Se o enunciado perguntar a quantidade cedida, informe o módulo, 16.800 J, e diga que a água cedeu essa energia. Em um sistema termicamente isolado com apenas dois corpos trocando calor, o calor cedido por um tem o mesmo módulo do calor recebido pelo outro. Com os sinais, a soma de Q dos corpos vale zero.\n\nQuando duas massas de água se misturam em um recipiente cuja capacidade térmica pode ser desprezada, a mesma relação permite achar a temperatura final. Misture, em um problema idealizado, 100 g a 60 °C com 300 g a 20 °C. Como as duas partes são água, seus calores específicos cancelam na igualdade. A condição é 100(60 − T) = 300(T − 20). Você encontra T = 30 °C. O valor está mais perto de 20 °C porque há mais água inicialmente fria. Se as duas partes fossem feitas de materiais diferentes, as massas seriam ponderadas pelos respectivos calores específicos. Se o recipiente também esquentar, inclua a energia que ele recebe.\n\nAlguns itens relacionam calor específico a uma fonte de potência constante. Se um equipamento entrega efetivamente 420 W à água por 10 s, transfere 4.200 J. Esse valor aquece 100 g de água em 10 °C, supondo c = 4,2 J/(g·°C). Se 420 W for a potência elétrica de entrada e apenas 80% chegar à água, a potência útil é 336 W. Em 10 s, a água recebe 3.360 J, e sua temperatura sobe 8 °C. A leitura das palavras “entrada”, “útil” ou “transferida” define qual potência entra na equação. O valor em watts indica joules por segundo, por isso o tempo precisa estar em segundos se você quer calcular Q em joules.\n\nUma ducha em funcionamento apresenta outra ideia: a massa de água atravessa o equipamento continuamente. Se passam 0,05 kg a cada segundo e cada porção aquece 20 °C, a energia útil transferida por segundo é 0,05 × 4.200 × 20 = 4.200 J. A potência útil é 4.200 W. Em vez de considerar uma caixa inteira de água, use a massa que passa durante um segundo para obter diretamente uma taxa. Quando a vazão aparece em litros por minuto, converta o volume em massa com a densidade indicada e converta o intervalo para segundos. A ligação com a calorimetria depende de quanto cada porção de água aquece.\n\nSepare casos de calor sensível e mudança de fase. Se o enunciado descreve gelo derretendo à temperatura de fusão, a energia é usada na mudança de estado e o cálculo envolve calor latente. A expressão mcΔT vale nos trechos em que a temperatura muda sem mudança de fase, com c aproximadamente constante. Uma pergunta pode combinar etapas: aquecer gelo até a temperatura de fusão, derreter e depois aquecer a água obtida. Nesse caso, calcule cada etapa com sua relação e some as energias. Identifique também se o calor específico do gelo difere daquele da água líquida, pois cada trecho se refere a um estado físico.\n\nPara fechar, associe cada número do exercício à palavra que ele mede. Calor específico informa energia por unidade de massa e por unidade de variação térmica. Capacidade térmica informa energia por unidade de variação para o corpo inteiro. Energia transferida vem em joules e a variação de temperatura em graus Celsius ou kelvins. Diferenças têm o mesmo valor numérico nessas duas escalas: subir de 20 °C a 30 °C é um aumento de 10 °C ou 10 K. Com esse mapa de unidades, você consegue detectar se a pergunta quer energia, temperatura final ou propriedade do material.\n\nSe aparecer um gráfico de energia recebida em função da temperatura, a inclinação do trecho linear corresponde à capacidade térmica. Se os eixos estiverem trocados, a inclinação é seu inverso. Um corpo que precisa de 800 J para subir 4 °C tem capacidade de 200 J/°C.\n\nTROCANDO EM MIÚDOS:\nPense em duas canecas com quantidades diferentes de água. A menor precisa de menos energia para subir o mesmo número de graus. Se você entrega a mesma energia às duas, a que tem menos água aquece mais, desde que as perdas sejam iguais ou desprezíveis. É como dividir a energia disponível entre mais ou menos gramas: quanto maior a massa, menor a energia recebida por grama.\n\nO calor específico descreve o material. Para a água, usamos aproximadamente 4,2 joules para esquentar um grama em um grau Celsius. Quer saber quanto custa esquentar 100 g em 5 °C? Multiplique 100 por 4,2 e por 5. São 2.100 J. Se o enunciado usa quilogramas na massa, escolha o valor de 4.200 joules por quilograma e por grau. Usar a unidade certa protege a conta contra um erro de mil vezes.\n\nCapacidade térmica fala do corpo inteiro. Os mesmos 100 g de água precisam de 420 J por grau Celsius. Esse valor já inclui a massa. Então, com a capacidade dada, basta multiplicar por cinco graus para obter aqueles mesmos 2.100 J. Um copo maior de água pode ter o mesmo calor específico e uma capacidade térmica maior porque tem mais água.\n\nVeja agora a direção da troca. Se a água passa de 40 °C para 30 °C, a variação da temperatura é 30 menos 40, ou menos dez. O sinal mostra que ela esfria, e a energia cedida pode ser informada como quantidade positiva se você escrever que saiu da água. Em uma mistura ideal de água quente e fria, a energia que uma porção cede é recebida pela outra. A temperatura final fica entre as iniciais. Antes de fazer a conta, confira também se o problema menciona derretimento, ebulição ou outra mudança de fase, pois isso altera o cálculo. Leia sempre as duas temperaturas antes de calcular a diferença.\n\nLEI SECA:\nPara calor sensível, Q = mcΔT = CΔT, com ΔT = Tfinal − Tinicial. Para um corpo uniforme, C = mc.\n\nSÚMULAS E TESES:\nEm trocas isoladas, a soma algébrica das energias térmicas trocadas é zero. Com mesma energia recebida, o corpo de menor C aquece mais.\n\nESQUEMA:\nConfirmar estado físico → compatibilizar unidades → calcular ΔT → aplicar Q = mcΔT → interpretar sinal e unidade.\n\nPEGADINHAS:\n1. Trocar capacidade térmica por calor específico.\n2. Misturar g e kg.\n3. Usar a temperatura final no lugar da diferença.\n4. Ignorar a fração útil.\n5. Aplicar calor sensível durante a mudança de fase.\n\nDOUTRINA:\nOpenStax, College Physics 2e, seção 14.2, Temperature Change and Heat Capacity.\n\nNA PRÁTICA:\nUm aquecedor entrega 840 J a 100 g de água líquida. O aumento de temperatura vale 840/(100 × 4,2) = 2 °C. Se a água começou a 22 °C, termina a 24 °C no modelo.",
+   "flashcards": [
+    {
+     "frente": "O que significa calor específico?",
+     "verso": "Energia por unidade de massa e por grau de variação de temperatura.",
+     "dispositivo": "O calor e os fenômenos térmicos — Capacidade calorífica e calor específico"
+    },
+    {
+     "frente": "Qual é a fórmula da capacidade térmica?",
+     "verso": "C = mc para um corpo uniforme.",
+     "dispositivo": "O calor e os fenômenos térmicos — Capacidade calorífica e calor específico"
+    },
+    {
+     "frente": "Quanto vale ΔT?",
+     "verso": "Temperatura final menos temperatura inicial.",
+     "dispositivo": "O calor e os fenômenos térmicos — Capacidade calorífica e calor específico"
+    },
+    {
+     "frente": "Qual a unidade de capacidade térmica?",
+     "verso": "J/°C ou J/K.",
+     "dispositivo": "O calor e os fenômenos térmicos — Capacidade calorífica e calor específico"
+    },
+    {
+     "frente": "O que representa Q negativo?",
+     "verso": "Energia cedida pelo corpo na convenção adotada.",
+     "dispositivo": "O calor e os fenômenos térmicos — Capacidade calorífica e calor específico"
+    },
+    {
+     "frente": "Qual princípio rege as trocas isoladas entre dois corpos?",
+     "verso": "A energia cedida por um tem mesmo módulo que a recebida pelo outro.",
+     "dispositivo": "O calor e os fenômenos térmicos — Capacidade calorífica e calor específico"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Duas amostras de água líquida têm 200 g e 400 g.",
+     "enunciado": "A segunda tem o dobro da capacidade térmica.",
+     "gabarito": "C",
+     "comentario": "Certo. Para o mesmo calor específico, C é proporcional à massa.\n(O calor e os fenômenos térmicos — Capacidade calorífica e calor específico, H17.)",
+     "habilidade": "H17",
+     "id": "enem-calor-especifico-capacidade-termica-c14-q01",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Capacidade calorífica e calor específico, H17"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um corpo passa de 45 °C para 35 °C por troca térmica.",
+     "enunciado": "Sua variação de temperatura vale +10 °C.",
+     "gabarito": "E",
+     "comentario": "Errado. Subtraímos a inicial da final: 35 − 45 = −10 °C.\n(O calor e os fenômenos térmicos — Capacidade calorífica e calor específico, H17.)",
+     "habilidade": "H17",
+     "id": "enem-calor-especifico-capacidade-termica-c14-q02",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Capacidade calorífica e calor específico, H17"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um dispositivo fornece 50 W úteis por 4 s a uma amostra.",
+     "enunciado": "A amostra recebe 200 J.",
+     "gabarito": "C",
+     "comentario": "Certo. 50 joules por segundo durante 4 segundos totalizam 200 joules.\n(O calor e os fenômenos térmicos — Capacidade calorífica e calor específico, H17.)",
+     "habilidade": "H17",
+     "id": "enem-calor-especifico-capacidade-termica-c14-q03",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Capacidade calorífica e calor específico, H17"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Duas peças de massas iguais absorvem a mesma energia. Uma tem calor específico duas vezes maior.",
+     "enunciado": "A peça de maior calor específico aquece o dobro.",
+     "gabarito": "E",
+     "comentario": "Errado. Mantidos Q e m, dobrar c faz ΔT cair à metade.\n(O calor e os fenômenos térmicos — Capacidade calorífica e calor específico, H17.)",
+     "habilidade": "H17",
+     "id": "enem-calor-especifico-capacidade-termica-c14-q04",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Capacidade calorífica e calor específico, H17"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um simulador fornece energia a 200 g de água líquida. Use c = 4,2 J/(g·°C) e aumento de 5 °C.",
+     "enunciado": "Qual energia é transferida?",
+     "gabarito": "C",
+     "comentario": "A) Omitir a contribuição de toda a massa reduz demais a estimativa.\nB) É a capacidade térmica em J/°C.\nC) Correta. 200 × 4,2 × 5 = 4.200 J.\nD) Corresponde a um aumento de 10 °C.\nE) Corresponde a um aumento de 50 °C.\n(O calor e os fenômenos térmicos — Capacidade calorífica e calor específico, H21.)",
+     "comentarios_por_alternativa": {
+      "A": "Omitir a contribuição de toda a massa reduz demais a estimativa.",
+      "B": "É a capacidade térmica em J/°C.",
+      "C": "Correta. 200 × 4,2 × 5 = 4.200 J.",
+      "D": "Corresponde a um aumento de 10 °C.",
+      "E": "Corresponde a um aumento de 50 °C."
+     },
+     "alternativas": {
+      "A": "42 J",
+      "B": "840 J",
+      "C": "4.200 J",
+      "D": "8.400 J",
+      "E": "42.000 J"
+     },
+     "habilidade": "H21",
+     "id": "enem-calor-especifico-capacidade-termica-c14-q05",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Capacidade calorífica e calor específico, H21"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma caixa térmica ideal recebe 100 g de água a 50 °C e 100 g a 20 °C. A capacidade térmica da caixa é desprezível.",
+     "enunciado": "Qual é a temperatura de equilíbrio?",
+     "gabarito": "A",
+     "comentario": "A) Correta. As porções têm capacidades iguais, logo a temperatura final é a média.\nB) É a diferença entre as temperaturas iniciais.\nC) A porção fria recebe energia e sua temperatura aumenta.\nD) Seria mais próxima da inicial quente e exigiria capacidades diferentes.\nE) Soma temperaturas; o equilíbrio deve ficar entre os valores iniciais.\n(O calor e os fenômenos térmicos — Capacidade calorífica e calor específico, H21.)",
+     "comentarios_por_alternativa": {
+      "A": "Correta. As porções têm capacidades iguais, logo a temperatura final é a média.",
+      "B": "É a diferença entre as temperaturas iniciais.",
+      "C": "A porção fria recebe energia e sua temperatura aumenta.",
+      "D": "Seria mais próxima da inicial quente e exigiria capacidades diferentes.",
+      "E": "Soma temperaturas; o equilíbrio deve ficar entre os valores iniciais."
+     },
+     "alternativas": {
+      "A": "35 °C",
+      "B": "30 °C",
+      "C": "20 °C",
+      "D": "45 °C",
+      "E": "70 °C"
+     },
+     "habilidade": "H21",
+     "id": "enem-calor-especifico-capacidade-termica-c14-q06",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Capacidade calorífica e calor específico, H21"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Dois blocos de mesma massa absorvem 600 J cada. A capacidade térmica de A vale 60 J/°C e a de B, 120 J/°C.",
+     "enunciado": "Quais são os aumentos de temperatura de A e B?",
+     "gabarito": "D",
+     "comentario": "A) Troca as capacidades usadas nas divisões.\nB) B precisa de mais energia por grau.\nC) Esses valores não são os quocientes de 600 pelas capacidades.\nD) Correta. A aumenta 600/60 = 10 °C; B aumenta 600/120 = 5 °C.\nE) Esses aumentos demandariam o dobro da energia.\n(O calor e os fenômenos térmicos — Capacidade calorífica e calor específico, H17.)",
+     "comentarios_por_alternativa": {
+      "A": "Troca as capacidades usadas nas divisões.",
+      "B": "B precisa de mais energia por grau.",
+      "C": "Esses valores não são os quocientes de 600 pelas capacidades.",
+      "D": "Correta. A aumenta 600/60 = 10 °C; B aumenta 600/120 = 5 °C.",
+      "E": "Esses aumentos demandariam o dobro da energia."
+     },
+     "alternativas": {
+      "A": "5 °C e 10 °C",
+      "B": "10 °C e 10 °C",
+      "C": "6 °C e 12 °C",
+      "D": "10 °C e 5 °C",
+      "E": "20 °C e 10 °C"
+     },
+     "habilidade": "H17",
+     "id": "enem-calor-especifico-capacidade-termica-c14-q07",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Capacidade calorífica e calor específico, H17"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um equipamento opera a 250 W por 20 s. Apenas 60% da energia elétrica recebida chega à amostra.",
+     "enunciado": "Qual a energia útil?",
+     "gabarito": "E",
+     "comentario": "A) É a potência útil, em watts.\nB) Não corresponde ao tempo e ao rendimento dados.\nC) Representa a parcela de 40% que não chega à amostra.\nD) É toda a energia recebida pelo equipamento.\nE) Correta. 250 × 20 × 0,60 = 3.000 J.\n(O calor e os fenômenos térmicos — Capacidade calorífica e calor específico, H21.)",
+     "comentarios_por_alternativa": {
+      "A": "É a potência útil, em watts.",
+      "B": "Não corresponde ao tempo e ao rendimento dados.",
+      "C": "Representa a parcela de 40% que não chega à amostra.",
+      "D": "É toda a energia recebida pelo equipamento.",
+      "E": "Correta. 250 × 20 × 0,60 = 3.000 J."
+     },
+     "alternativas": {
+      "A": "150 J",
+      "B": "500 J",
+      "C": "2.000 J",
+      "D": "5.000 J",
+      "E": "3.000 J"
+     },
+     "habilidade": "H21",
+     "id": "enem-calor-especifico-capacidade-termica-c14-q08",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Capacidade calorífica e calor específico, H21"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Em Q = mcΔT, a massa é ___ e a variação de temperatura é ___.",
+     "opcoes": [
+      "m",
+      "ΔT",
+      "c",
+      "Q"
+     ],
+     "respostas": [
+      "m",
+      "ΔT"
+     ],
+     "explicacao": "A equação usa a diferença entre as temperaturas final e inicial."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Se o enunciado já fornece a capacidade térmica C, calcule Q multiplicando C por ___.",
+     "opcoes": [
+      "ΔT",
+      "m",
+      "c",
+      "t"
+     ],
+     "respostas": [
+      "ΔT"
+     ],
+     "explicacao": "A capacidade térmica já incorpora a massa."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize o cálculo da energia recebida por uma amostra sem mudança de fase.",
+     "itens": [
+      "Ler as temperaturas final e inicial.",
+      "Subtrair a inicial da final.",
+      "Compatibilizar a massa com a unidade do calor específico.",
+      "Multiplicar massa, calor específico e variação."
+     ],
+     "explicacao": "A unidade final é joule quando a energia específica é dada em joules."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "J",
+       "Energia"
+      ],
+      [
+       "J/°C",
+       "Capacidade térmica"
+      ],
+      [
+       "J/(g·°C)",
+       "Calor específico"
+      ],
+      [
+       "Tfinal − Tinicial",
+       "Variação de temperatura"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
