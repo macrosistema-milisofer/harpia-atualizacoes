@@ -1,0 +1,254 @@
+{
+ "assunto": "Trigonometria do ângulo agudo: alturas, rampas e trajetos",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-25",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-trigonometria-angulo-agudo-c14",
+   "titulo": "Trigonometria do ângulo agudo: alturas, rampas e trajetos",
+   "microconteudo": "RAIO-X DA PROVA: Nos cadernos azuis regulares do Enem de 2021 a 2025, foram identificadas 1 questões relacionadas a este assunto, de um total de 225 em Matemática.\n\nPOR QUE IMPORTA:\nComo descobrir a altura de uma árvore usando uma distância medida no chão? A trigonometria permite relacionar distâncias e ângulos em situações como essa. No Enem, ela pode aparecer em desenhos de trajetos, rampas e medições indiretas.\n\nO QUE A BANCA COBRA:\nProcure um triângulo retângulo na situação descrita. Depois de marcar o ângulo indicado, escolha a relação entre os lados que você conhece e aquele que precisa calcular.\n\nENTENDA:\nUm grupo do grêmio quer estimar a altura de um poste do pátio. Ele está a 12 m da base em terreno plano. À altura dos olhos, a linha de visão para o topo forma 30° com a horizontal. Esse desenho tem um ângulo reto onde a linha vertical do poste encontra a horizontal traçada na altura dos olhos. A distância de 12 m é um lado do triângulo. A altura procurada acima dos olhos é outro lado. Se a questão fornecer a tangente de 30° como 0,58, calcule 12 × 0,58 = 6,96 m. Com os olhos a 1,6 m do solo, o poste mede aproximadamente 8,56 m. O passo final depende da leitura do desenho: o triângulo começa na altura dos olhos.\n\nEm um triângulo retângulo, o lado oposto ao ângulo reto é a hipotenusa. Ela é o maior lado e permanece a mesma quando você troca o ângulo agudo de referência. Os outros dois lados são os catetos. Escolhido um dos ângulos agudos, o cateto do outro lado do triângulo é o oposto, e o que toca o ângulo é o adjacente. Para identificar o adjacente, elimine primeiro a hipotenusa. Ela também toca o ângulo, mas ocupa uma categoria própria. Em um triângulo com catetos de 3 m e 4 m e hipotenusa de 5 m, se você escolher o ângulo oposto ao lado de 3 m, o adjacente será o lado de 4 m. Trocado o ângulo, as duas funções dos catetos se invertem.\n\nAs três razões são frações entre comprimentos. Seno é cateto oposto dividido pela hipotenusa. Cosseno é cateto adjacente dividido pela hipotenusa. Tangente é cateto oposto dividido pelo adjacente. No triângulo de lados 3, 4 e 5, com referência ao ângulo oposto a 3, o seno é 3/5, o cosseno é 4/5 e a tangente é 3/4. Em outro triângulo com o mesmo ângulo e ângulo reto, os lados aparecem na mesma proporção. Por exemplo, ao dobrar todos os comprimentos para 6, 8 e 10, as três razões continuam iguais. A semelhança entre triângulos explica por que você pode usar uma tabela de razões de ângulos em diferentes cenários.\n\nPara escolher uma razão, observe o par de lados envolvido. Se você tem a extensão de uma rampa e quer o desnível vertical, use seno quando o ângulo foi medido com a horizontal. Uma rampa geométrica de 5 m a 30° eleva o caminho em 5 × 0,5 = 2,5 m. Se você quer a projeção horizontal dessa mesma rampa, use cosseno: 5 × √3/2, aproximadamente 4,33 m. Se você conhece o desnível e deseja encontrar a distância horizontal, a tangente liga os dois catetos. Antes de substituir, escreva a fração com os nomes das medidas. Isso deixa claro se a distância pedida está no numerador ou no denominador.\n\nUma pergunta que muda a incógnita também muda a operação. Um cabo esticado faz 30° com o terreno horizontal e alcança um ponto a 4 m do chão. O comprimento do cabo é a hipotenusa. Sabendo que seno de 30° é 0,5, escreva 0,5 = 4/L. Quando você isola L, encontra 4 ÷ 0,5 = 8 m. Se multiplicasse 4 por 0,5, teria 2 m, o que é menor que o desnível vertical. A geometria oferece uma verificação rápida: a hipotenusa precisa superar cada cateto. O mesmo raciocínio funciona com aproximações dadas no enunciado, como cosseno de 40° igual a 0,77.\n\nQuando o ângulo é medido em relação à vertical, localize o arco diretamente no desenho. Suponha que uma barra de 10 m forma 60° com a vertical. A projeção vertical é o cateto adjacente, então vale 10 × cos 60° = 5 m. A projeção horizontal é o oposto, então vale 10 × sen 60°, aproximadamente 8,66 m. Você pode obter o mesmo resultado usando o ângulo complementar de 30° com a horizontal. Agora o cateto vertical é oposto, de modo que o seno entra no cálculo do mesmo desnível. Nomear os lados em relação ao ângulo é mais confiável que associar automaticamente seno à altura.\n\nA inclinação também pode ser indicada por uma porcentagem. Em um desenho no qual a indicação corresponde ao desnível dividido pelo avanço horizontal, 8% significa 8 unidades de subida para cada 100 de avanço. A tangente do ângulo com a horizontal é 0,08. O número 8 exprime a inclinação em porcentagem, enquanto o ângulo seria medido em graus. Com avanço horizontal de 25 m, o desnível vale 25 × 0,08 = 2 m. A extensão percorrida sobre a rampa é a hipotenusa. Se o exercício pedir essa extensão, combine os catetos: ela vale √(25² + 2²) = √629 m, um pouco acima de 25 m.\n\nUm desenho de percurso pode esconder o triângulo. Alguém anda 60 m para leste e depois 80 m para norte. A linha direta entre início e fim forma a hipotenusa de um triângulo com catetos perpendiculares. Pela relação de Pitágoras, a distância direta vale √(60² + 80²) = 100 m. Se o ângulo for medido desde o leste, a tangente é 80/60 e o cosseno é 60/100. Se partir do norte, invertem-se os papéis dos dois catetos. Ao comparar com as alternativas, confira de onde começa a referência angular. Um mesmo deslocamento tem a mesma extensão, mas pode ser descrito com diferentes números conforme a direção de referência.\n\nAlguns valores podem ser reconstruídos sem calculadora. Em um triângulo retângulo isósceles, os catetos têm a mesma medida. Os ângulos agudos são de 45°, então a tangente de 45° é 1. Se os catetos medem uma unidade cada, a hipotenusa vale √2. Seno e cosseno de 45° valem 1/√2. Os valores de 30° e 60° surgem ao dividir um triângulo equilátero de lado 2 ao meio por sua altura. Cada metade tem hipotenusa 2, cateto menor 1 e cateto maior √3. O lado de medida 1 fica oposto a 30°, e sua razão pela hipotenusa dá 1/2. Esse desenho ajuda a lembrar quais razões trocam de lugar quando o ângulo passa de 30° a 60°.\n\nAntes de concluir, faça uma verificação de escala. Seno e cosseno de ângulos agudos ficam entre zero e um, porque comparam um cateto à hipotenusa. A tangente pode ser maior que um, caso o cateto oposto seja maior que o adjacente. Portanto, um resultado de 1,5 pode representar uma tangente, mas seria incompatível com um seno. Se o problema usar centímetros e metros no mesmo desenho, passe os lados para a mesma unidade antes de montar a fração. Guarde a aproximação pedida e deixe o arredondamento, quando possível, para a última etapa. Assim você reduz a chance de escolher uma alternativa próxima apenas por ter perdido precisão durante a conta.\n\nTambém dá para resolver o problema no sentido inverso quando a pergunta pede o ângulo. Um desenho mostra um cabo que vence 5 metros de desnível ao longo de 5 metros horizontais. A tangente é 5/5, ou 1. Entre os ângulos agudos, esse valor corresponde a 45°. Se os dados não coincidirem com um ângulo conhecido, o exercício pode oferecer uma tabela ou pedir apenas uma comparação. Para dois avanços horizontais iguais, o maior desnível produz a maior tangente e o maior ângulo de inclinação. Esse raciocínio permite ordenar três subidas sem descobrir o ângulo em graus de nenhuma delas.\n\nTROCANDO EM MIÚDOS:\nDesenhe um triângulo com um cantinho de 90°. O lado que fica de frente para esse canto é a hipotenusa. Ele é o lado mais comprido. Agora marque o ângulo agudo que aparece na pergunta. O menor conjunto que você precisa identificar tem dois catetos. O que fica em frente ao ângulo marcado é o oposto. O que encosta nele, sem ser a hipotenusa, é o adjacente.\n\nPense em uma escada desenhada encostada na parede. Se o ângulo marcado fica onde a escada encontra o chão, a parede entra como cateto oposto e o chão, como adjacente. A escada é a hipotenusa. Se alguém marcar o ângulo lá em cima, onde a escada encontra a parede, a parede passa a ser o adjacente. As peças do desenho ficaram no mesmo lugar, mas a referência mudou.\n\nAgora escolha o par de medidas. Para relacionar altura na parede e comprimento da escada usando o ângulo com o chão, use seno. Para relacionar chão e escada, use cosseno. Para relacionar parede e chão, use tangente. Escreva a fração antes de fazer conta. Se uma escada tem 6 m e seno do ângulo com o chão igual a 0,5, a altura alcançada é 3 m. Se você conhece a altura de 3 m e quer descobrir a escada com esse mesmo seno, divida 3 por 0,5 e recupere os 6 m.\n\nNa prova, a distância pedida pode incluir algo fora do triângulo. Ao medir a altura de uma árvore a partir dos seus olhos, você encontra primeiro a distância vertical entre seus olhos e o topo. Em chão plano, some a altura dos olhos para medir desde a base. Ao fim, compare as medidas: um cateto sozinho deve ser menor que o lado inclinado do triângulo. Se a pergunta pede apenas qual trajeto sobe mais rápido, compare o desnível por metro de avanço.\n\nLEI SECA:\nSeno = oposto/hipotenusa. Cosseno = adjacente/hipotenusa. Tangente = oposto/adjacente, com referência ao ângulo agudo marcado.\n\nSÚMULAS E TESES:\nSe os ângulos agudos são complementares, o seno de um é igual ao cosseno do outro. Inverter a referência também troca os catetos de papel.\n\nESQUEMA:\nLocalizar o ângulo reto → marcar o ângulo de referência → identificar os lados → escolher a razão → resolver e conferir.\n\nPEGADINHAS:\n1. Trocar os catetos ao ler o ângulo com a vertical.\n2. Tratar uma porcentagem de inclinação como ângulo.\n3. Usar comprimento inclinado como projeção horizontal.\n4. Multiplicar quando a medida procurada aparece no denominador.\n5. Esquecer a altura dos olhos quando a medição começa acima do solo.\n\nDOUTRINA:\nOpenStax, Algebra and Trigonometry 2e, seção 7.4, Right Triangle Trigonometry.\n\nNA PRÁTICA:\nUma equipe fica a 15 m da base de uma parede em terreno plano. A tangente do ângulo de elevação é 0,4. O topo está 15 × 0,4 = 6 m acima da linha horizontal dos olhos. Com altura de observação de 1,5 m, a parede mede 7,5 m.",
+   "flashcards": [
+    {
+     "frente": "Qual lado se opõe ao ângulo reto?",
+     "verso": "A hipotenusa.",
+     "dispositivo": "Conhecimentos geométricos — Trigonometria do ângulo agudo"
+    },
+    {
+     "frente": "Qual é a razão do seno?",
+     "verso": "Cateto oposto dividido pela hipotenusa.",
+     "dispositivo": "Conhecimentos geométricos — Trigonometria do ângulo agudo"
+    },
+    {
+     "frente": "Qual é a razão do cosseno?",
+     "verso": "Cateto adjacente dividido pela hipotenusa.",
+     "dispositivo": "Conhecimentos geométricos — Trigonometria do ângulo agudo"
+    },
+    {
+     "frente": "Qual é a razão da tangente?",
+     "verso": "Cateto oposto dividido pelo cateto adjacente.",
+     "dispositivo": "Conhecimentos geométricos — Trigonometria do ângulo agudo"
+    },
+    {
+     "frente": "O que acontece ao mudar para o outro ângulo agudo?",
+     "verso": "Os papéis de cateto oposto e adjacente se trocam.",
+     "dispositivo": "Conhecimentos geométricos — Trigonometria do ângulo agudo"
+    },
+    {
+     "frente": "O que significa inclinação de 10% nesse modelo?",
+     "verso": "O desnível é 0,10 vez o avanço horizontal.",
+     "dispositivo": "Conhecimentos geométricos — Trigonometria do ângulo agudo"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Em uma maquete, um cabo de 6 m faz 30° com o chão plano.",
+     "enunciado": "Seu alcance vertical é 3 m.",
+     "gabarito": "C",
+     "comentario": "Certo. A altura é 6 × sen 30° = 3 m.\n(Conhecimentos geométricos — Trigonometria do ângulo agudo, H8.)",
+     "habilidade": "H8",
+     "id": "enem-trigonometria-angulo-agudo-c14-q01",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Trigonometria do ângulo agudo, H8"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma régua inclinada forma 40° com a vertical.",
+     "enunciado": "Sua projeção horizontal é o comprimento da régua multiplicado por cos 40°.",
+     "gabarito": "E",
+     "comentario": "Errado. A projeção horizontal é o cateto oposto ao ângulo com a vertical e usa sen 40°.\n(Conhecimentos geométricos — Trigonometria do ângulo agudo, H8.)",
+     "habilidade": "H8",
+     "id": "enem-trigonometria-angulo-agudo-c14-q02",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Trigonometria do ângulo agudo, H8"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma subida ganha 3 m de altura enquanto avança 12 m na horizontal.",
+     "enunciado": "A tangente do ângulo com a horizontal é 0,25.",
+     "gabarito": "C",
+     "comentario": "Certo. O quociente 3/12 vale 0,25.\n(Conhecimentos geométricos — Trigonometria do ângulo agudo, H8.)",
+     "habilidade": "H8",
+     "id": "enem-trigonometria-angulo-agudo-c14-q03",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Trigonometria do ângulo agudo, H8"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um triângulo retângulo tem dois catetos de 7 cm.",
+     "enunciado": "A tangente de cada ângulo agudo é √2.",
+     "gabarito": "E",
+     "comentario": "Errado. O quociente dos catetos é 7/7 = 1.\n(Conhecimentos geométricos — Trigonometria do ângulo agudo, H8.)",
+     "habilidade": "H8",
+     "id": "enem-trigonometria-angulo-agudo-c14-q04",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Trigonometria do ângulo agudo, H8"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Do ponto de fixação no chão, um cabo de 16 m faz 30° com o piso horizontal até alcançar uma bandeira.",
+     "enunciado": "A que altura do piso está a bandeira?",
+     "gabarito": "C",
+     "comentario": "A) Usa um quarto da hipotenusa.\nB) Esse valor mede a projeção horizontal.\nC) Correta. O desnível é 16 × sen 30° = 8 m.\nD) É o comprimento do cabo, que forma a hipotenusa.\nE) Dividir por 0,5 seria adequado se 16 m fosse a altura conhecida.\n(Conhecimentos geométricos — Trigonometria do ângulo agudo, H8.)",
+     "comentarios_por_alternativa": {
+      "A": "Usa um quarto da hipotenusa.",
+      "B": "Esse valor mede a projeção horizontal.",
+      "C": "Correta. O desnível é 16 × sen 30° = 8 m.",
+      "D": "É o comprimento do cabo, que forma a hipotenusa.",
+      "E": "Dividir por 0,5 seria adequado se 16 m fosse a altura conhecida."
+     },
+     "alternativas": {
+      "A": "4 m",
+      "B": "8√3 m",
+      "C": "8 m",
+      "D": "16 m",
+      "E": "32 m"
+     },
+     "habilidade": "H8",
+     "id": "enem-trigonometria-angulo-agudo-c14-q05",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Trigonometria do ângulo agudo, H8"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Em uma representação de trilha, a subida ganha 9 m de altura em 60 m medidos horizontalmente. O mapa indica inclinação percentual como desnível dividido pelo avanço horizontal.",
+     "enunciado": "Qual é a inclinação indicada?",
+     "gabarito": "A",
+     "comentario": "A) Correta. 9/60 = 0,15, equivalente a 15%.\nB) 0,15 é o valor decimal da razão. Para expressar em porcentagem, multiplique por 100.\nC) O quociente inverso é 60/9 e não representa desnível por avanço.\nD) É a diferença numérica 60 − 9, em metros.\nE) Esse percentual corresponderia a desnível de cerca de 40 m sobre 60 m.\n(Conhecimentos geométricos — Trigonometria do ângulo agudo, H12.)",
+     "comentarios_por_alternativa": {
+      "A": "Correta. 9/60 = 0,15, equivalente a 15%.",
+      "B": "0,15 é o valor decimal da razão. Para expressar em porcentagem, multiplique por 100.",
+      "C": "O quociente inverso é 60/9 e não representa desnível por avanço.",
+      "D": "É a diferença numérica 60 − 9, em metros.",
+      "E": "Esse percentual corresponderia a desnível de cerca de 40 m sobre 60 m."
+     },
+     "alternativas": {
+      "A": "15%",
+      "B": "0,15%",
+      "C": "6,67%",
+      "D": "51%",
+      "E": "66,67%"
+     },
+     "habilidade": "H12",
+     "id": "enem-trigonometria-angulo-agudo-c14-q06",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Trigonometria do ângulo agudo, H12"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma observadora está a 20 m da base de uma parede. Seus olhos estão a 1,55 m acima do solo. A tangente do ângulo entre a horizontal e a linha dos olhos ao topo é 0,6.",
+     "enunciado": "Qual é a altura da parede?",
+     "gabarito": "D",
+     "comentario": "A) É o desnível entre a linha dos olhos e o topo.\nB) Subtrai a altura dos olhos do desnível em vez de somá-la.\nC) Esse valor não resulta da relação desnível = 20 × 0,6.\nD) Correta. O desnível vale 12 m; desde o solo, a altura é 12 + 1,55 = 13,55 m.\nE) Divide o avanço pela tangente, invertendo a operação.\n(Conhecimentos geométricos — Trigonometria do ângulo agudo, H8.)",
+     "comentarios_por_alternativa": {
+      "A": "É o desnível entre a linha dos olhos e o topo.",
+      "B": "Subtrai a altura dos olhos do desnível em vez de somá-la.",
+      "C": "Esse valor não resulta da relação desnível = 20 × 0,6.",
+      "D": "Correta. O desnível vale 12 m; desde o solo, a altura é 12 + 1,55 = 13,55 m.",
+      "E": "Divide o avanço pela tangente, invertendo a operação."
+     },
+     "alternativas": {
+      "A": "12 m",
+      "B": "10,45 m",
+      "C": "20,93 m",
+      "D": "13,55 m",
+      "E": "33,33 m"
+     },
+     "habilidade": "H8",
+     "id": "enem-trigonometria-angulo-agudo-c14-q07",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Trigonometria do ângulo agudo, H8"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um suporte inclinado tem 12 m e faz 60° com a parede vertical. Considere cos 60° = 0,50 e sen 60° = 0,87.",
+     "enunciado": "Qual é a projeção vertical do suporte?",
+     "gabarito": "E",
+     "comentario": "A) Corresponde a um quarto do suporte.\nB) É a projeção horizontal, obtida por 12 × 0,87.\nC) É a extensão inclinada, não a projeção.\nD) Divide a hipotenusa pelo cosseno, produzindo um valor maior que ela.\nE) Correta. O segmento vertical é adjacente ao ângulo indicado: 12 × 0,50 = 6 m.\n(Conhecimentos geométricos — Trigonometria do ângulo agudo, H8.)",
+     "comentarios_por_alternativa": {
+      "A": "Corresponde a um quarto do suporte.",
+      "B": "É a projeção horizontal, obtida por 12 × 0,87.",
+      "C": "É a extensão inclinada, não a projeção.",
+      "D": "Divide a hipotenusa pelo cosseno, produzindo um valor maior que ela.",
+      "E": "Correta. O segmento vertical é adjacente ao ângulo indicado: 12 × 0,50 = 6 m."
+     },
+     "alternativas": {
+      "A": "3 m",
+      "B": "10,44 m",
+      "C": "12 m",
+      "D": "24 m",
+      "E": "6 m"
+     },
+     "habilidade": "H8",
+     "id": "enem-trigonometria-angulo-agudo-c14-q08",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Trigonometria do ângulo agudo, H8"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Em relação ao ângulo marcado, dividimos o cateto oposto pela ___ para achar o ___.",
+     "opcoes": [
+      "hipotenusa",
+      "seno",
+      "tangente",
+      "mediana"
+     ],
+     "respostas": [
+      "hipotenusa",
+      "seno"
+     ],
+     "explicacao": "O seno compara o cateto oposto ao maior lado do triângulo."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Uma inclinação de 12% corresponde a tangente igual a ___.",
+     "opcoes": [
+      "0,12",
+      "1,2",
+      "12",
+      "0,012"
+     ],
+     "respostas": [
+      "0,12"
+     ],
+     "explicacao": "Divida 12 por 100 para escrever a razão na forma decimal."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene os passos para encontrar a altura de um poste com distância horizontal, tangente e altura dos olhos.",
+     "itens": [
+      "Desenhar a horizontal na altura dos olhos.",
+      "Marcar o ângulo com a linha de visão.",
+      "Multiplicar o avanço horizontal pela tangente.",
+      "Somar a altura dos olhos ao desnível calculado."
+     ],
+     "explicacao": "A medida pedida parte do solo e inclui a altura abaixo do triângulo."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Seno",
+       "Oposto/hipotenusa"
+      ],
+      [
+       "Cosseno",
+       "Adjacente/hipotenusa"
+      ],
+      [
+       "Tangente",
+       "Oposto/adjacente"
+      ],
+      [
+       "Hipotenusa",
+       "Lado oposto aos 90°"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
