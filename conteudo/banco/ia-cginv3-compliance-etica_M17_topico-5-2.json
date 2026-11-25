@@ -1,0 +1,311 @@
+{
+ "assunto": "Prevenção à lavagem de dinheiro",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-24",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "cginv3-m17-compliance-prevencao-lavagem-dinheiro-52",
+   "titulo": "Prevenção à lavagem de dinheiro: conceitos, sinais e resposta",
+   "microconteudo": "RAIO-X DA PROVA: Assunto prioritário do edital: compreenda o crime de lavagem, as medidas preventivas, os sinais de atipicidade e o fluxo responsável de análise e comunicação. Saiba distinguir alerta, operação suspeita e prova de ilícito.\n\nPOR QUE IMPORTA:\nA lavagem de dinheiro tenta ocultar ou dissimular a origem ilícita de bens, direitos ou valores e fazê-los circular com aparência de legitimidade. Controles preventivos ajudam a proteger o sistema econômico, os recursos administrados e a confiança nas instituições. Conhecer o risco não significa presumir culpa: a prevenção identifica situações para análise, enquanto a conclusão sobre crime depende da apuração e das autoridades competentes. [1] [2] [3]\n\nO QUE A BANCA COBRA:\nDomine a definição legal, o modelo didático das fases, a diferença entre atipicidade e prova, os pilares de prevenção, o dever de comunicação no âmbito de incidência da Lei nº 9.613/1998 e o sigilo da comunicação. Normas setoriais ilustram procedimentos concretos, mas sua aplicação depende do sujeito, da atividade e da competência regulatória. Não converta um alerta em acusação nem amplie uma regra do BCB ou da CVM para qualquer RPPS ou profissional. [1] [2] [4] [5]\n\nENTENDA:\nPrevenção à lavagem de dinheiro é o conjunto de medidas destinado a reduzir a possibilidade de que bens, direitos ou valores de origem criminosa sejam ocultados, dissimulados ou movimentados como se fossem lícitos. No Brasil, a Lei nº 9.613/1998 define no art. 1º o crime por meio dos verbos “ocultar ou dissimular” a natureza, origem, localização, disposição, movimentação ou propriedade de bens, direitos ou valores provenientes, direta ou indiretamente, de infração penal. A redação atual fala em “infração penal”; não se limita ao rol fechado de delitos antecedentes que aparecia na versão original da lei. Isso não torna lavagem sinônimo de qualquer irregularidade: é preciso relacionar a conduta de ocultar ou dissimular aos bens provenientes de infração penal, conforme os elementos legais e a prova do caso. [2]\n\nLavagem é um crime; prevenção é atividade de governança e controle. Uma transação incomum, uma falha cadastral ou um cliente com perfil de risco elevado, isoladamente, não prova lavagem. Esses dados podem ser sinais para que uma instituição abrangida por norma examine o contexto, a origem e o destino dos recursos, os envolvidos, a justificativa econômica e os relacionamentos entre operações. A análise deve ser documentada e feita por pessoas designadas, sob regras de confidencialidade. Ela não substitui investigação policial, acusação do Ministério Público ou decisão judicial. O COAF recebe e examina comunicações e pode encaminhar informações às autoridades competentes; a comunicação não equivale a condenação nem demonstra, por si só, crime. [2] [3]\n\nO COAF apresenta três fases como modelo didático: colocação, ocultação e integração. Na colocação, recursos de origem ilícita ingressam no circuito econômico, por exemplo, por depósitos ou aquisição de bens. Na ocultação, movimentações e estruturas buscam dificultar o rastreamento da origem e dos beneficiários. Na integração, valores voltam à economia com aparência de legitimidade, inclusive por meio de negócios ou ativos. O próprio material oficial ressalva que se trata de um processo teoricamente dividido em fases, que são consideradas independentes e frequentemente podem ocorrer ao mesmo tempo. Portanto, não exija que todo caso percorra três etapas em ordem rígida; elas são lentes para compreender estratégias, não elementos adicionais do tipo penal. [3]\n\nUma política preventiva começa pela avaliação de risco. A instituição identifica suas atividades, produtos, canais, clientes, parceiros, localidades e tipos de operação; avalia como poderiam ser usados para lavagem; e dimensiona controles proporcionais aos riscos. Nos setores regulados, o BCB exige política compatível com perfis de risco de clientes, instituição, operações, produtos, serviços, funcionários, parceiros e prestadores. A CVM também exige política de PLD/FTP, avaliação interna de risco e procedimentos de controle para os sujeitos do mercado de valores mobiliários abrangidos pela sua resolução. Esses exemplos não autorizam presumir que os mesmos artigos incidam diretamente em toda unidade gestora de RPPS; primeiro se identifica a regra aplicável ao sujeito. [4] [5]\n\nConhecer o cliente significa coletar, verificar, validar e atualizar informações necessárias para compreender quem participa da relação e qual é a finalidade do vínculo. Conforme a regulamentação incidente, isso pode exigir identificar representantes e beneficiários finais, avaliar a atividade econômica, entender a origem dos recursos e conhecer o padrão de movimentação esperado. O cadastro não é mera formalidade: constitui linha de base para que mudanças relevantes possam ser percebidas. Se a pessoa jurídica muda de atividade, passa a operar valores incompatíveis com seu porte ou usa estruturas que dificultam identificar quem controla ou se beneficia, a divergência merece avaliação, sem conclusão automática de ilícito. [2] [4] [5]\n\nMonitorar não significa bloquear toda operação diferente. É comparar a atividade observada com a informação disponível e com o padrão de risco, usando critérios aprovados, dados adequados e revisão humana quando necessário. A Circular BCB nº 3.978/2020, no âmbito das instituições autorizadas pelo BCB, cita como situações que podem exigir atenção tentativas de contornar procedimentos de identificação, operações em espécie com sinais de ocultação, incompatibilidade com capacidade financeira, dificuldade de identificar beneficiário final e operações sem fundamento econômico ou legal aparente. A Resolução CVM nº 50, para os sujeitos do mercado de valores mobiliários definidos no art. 3º, também descreve atipicidades como mudanças injustificadas de modalidade, complexidade incompatível com o perfil e movimentos em nome de terceiros. A lista é indicativa, não um mecanismo para declarar suspeito qualquer cliente que tenha uma característica isolada. [4] [5]\n\nA análise deve reunir contexto, frequência, valor, contraparte, origem e destino, justificativa econômica e ligação com operações anteriores ou simultâneas. Fracionar operações, usar terceiros ou alternar instrumentos pode ser relevante quando houver contexto compatível com tentativa de evitar controles, mas a mesma forma de movimentação pode ter explicação legítima. Uma pessoa politicamente exposta, por exemplo, pode estar sujeita a diligência reforçada em determinados regimes; essa condição não prova corrupção ou lavagem. A instituição deve aplicar os critérios vigentes, documentar por que a situação foi descartada ou encaminhada e evitar decisões baseadas em estereótipos ou impressão pessoal. [4] [5]\n\nA lei prevê obrigações específicas para as pessoas que enumera no art. 9º. Entre elas estão identificar clientes, manter cadastro, registrar determinadas operações e adotar políticas, procedimentos e controles compatíveis com porte e volume. A legislação exige conservação de cadastros e registros por período mínimo de cinco anos, contado do encerramento da conta ou da conclusão da transação, sem prejuízo de prazo maior fixado pela autoridade competente. Limites operacionais e procedimentos detalhados podem depender de regulamento; não se deve decorar um valor monetário sem identificar o setor e a norma vigente. A falha em cumprir deveres dos arts. 10 e 11 pode gerar consequências administrativas próprias para os sujeitos previstos no art. 12; isso não é o mesmo que afirmar que o infrator cometeu o crime de lavagem. [2]\n\nQuando a situação se enquadra nas hipóteses legais, a pessoa obrigada comunica a proposta ou operação ao COAF, observa o prazo legal e não dá ciência da comunicação à pessoa a que ela se refere nem a terceiros. O art. 11 da Lei nº 9.613/1998 fixa 24 horas para as comunicações ali previstas e inclui operações suspeitas, além das transações sujeitas a registro conforme a autoridade competente. O inciso III também prevê comunicação da não ocorrência de propostas ou operações comunicáveis na periodicidade, forma e condições estabelecidas pelo regulador ou fiscalizador; o dever não deve ser convertido em regra operacional idêntica para todos os setores sem consultar a regulamentação pertinente. Comunicações de boa-fé, feitas na forma legal, não acarretam responsabilidade civil ou administrativa, conforme o § 2º. [2]\n\nA decisão de comunicar não é anúncio público nem denúncia criminal formulada por qualquer observador. É uma comunicação reservada prevista em lei e em regras próprias para determinados sujeitos. Não se deve avisar a contraparte, “dar dica” de que foi reportada, nem oferecer explicações que possam comprometer a confidencialidade ou alertar alguém sobre controles. Ao mesmo tempo, o sigilo não autoriza destruir registros, ocultar informação de autoridade competente ou impedir auditoria legítima. O fluxo interno deve preservar acesso restrito, cadeia de registros, revisão por responsável designado e cumprimento de determinações legais. [2] [4] [5]\n\nA aplicação setorial muda com o tipo de instituição. A Circular BCB nº 3.978 disciplina controles de instituições autorizadas a funcionar pelo Banco Central. A Resolução CVM nº 50 abrange sujeitos do mercado de valores mobiliários e limita os deveres às respectivas atribuições. Em 2026, a Resolução CVM nº 245 acrescentou o art. 17-A à Resolução 50: sujeitos dos incisos I a III do art. 3º devem adotar diligência reforçada em operações ou situações com investidor não residente ligado a jurisdição que não aplique, ou aplique insuficientemente, recomendações do GAFI. As medidas mínimas abrangem restrições ou condições adicionais, informações ou comprovações adicionais, limitação/postergação/recusa de operações de maior risco e encerramento da relação quando o risco for inaceitável e não mitigável. A norma entrou em vigor em 15 de julho de 2026; não é obrigação universal para todo RPPS, investidor ou servidor. [5] [6]\n\nNa prática de uma unidade que administra recursos previdenciários, o profissional deve reconhecer alertas, seguir a política interna e encaminhar a informação ao responsável competente. Não cabe ao analista improvisar uma investigação, confrontar o cliente sem autorização, prometer sigilo absoluto fora das regras ou divulgar suspeitas. Se uma operação de investimento apresenta comportamento atípico, o caminho prudente é registrar os fatos observados, verificar as informações disponíveis, preservar documentos conforme a política aplicável e escalar o caso. A decisão sobre análise especializada, comunicação regulatória ou outra providência pertence à pessoa e à instituição que tenham atribuição legal. [1] [2] [4] [5]\n\nImagine uma entidade regulada observar movimentações repetidas de alto valor incompatíveis com o cadastro e distribuídas por diversas contas relacionadas. Esse padrão é um alerta, não veredito. O responsável verifica o histórico, o objetivo declarado, quem controla as contas e se existem explicações documentadas. Se persistirem elementos que satisfaçam os critérios de suspeição do regime aplicável, a instituição submete o caso ao fluxo confidencial e comunica à unidade de inteligência financeira no prazo devido. Não avisa o titular sobre o reporte. Se a análise encontrar justificativa legítima, registra a conclusão e avalia se o controle precisa de ajuste. A resposta é proporcional e baseada em evidências, sem tratamento discriminatório nem omissão de dever legal. [2] [4] [5]\n\nUma prevenção efetiva também revisa sua própria qualidade. Treinamento explica sinais e canais; auditoria testa se os parâmetros detectam situações relevantes; governança verifica se alertas são tratados em prazo e se controles são corrigidos. A avaliação de risco precisa ser atualizada quando mudam produtos, tecnologia, perfis, mercados ou normas. Números de risco não devem ser fabricados: quando faltarem dados para estimar probabilidade ou impacto, registre a limitação e faça análise qualitativa. A finalidade não é prometer risco zero, mas reduzir vulnerabilidades, detectar comportamento atípico e responder dentro da lei. [4] [5]\n\nGuarde a distinção final: lavagem é uma infração penal definida pela lei; prevenção são controles para impedir uso indevido; atipicidade é um sinal que precisa de contexto; comunicação ao COAF é dever reservado de sujeitos legalmente alcançados; e a prova de crime depende de apuração própria. A conduta segura começa por conhecer a norma e o risco, continua com análise proporcional e termina com registro, encaminhamento e correção. [2] [3] [4] [5]\n\nTROCANDO EM MIÚDOS:\nLavagem de dinheiro é tentar esconder ou disfarçar de onde vieram bens ou valores que têm origem em uma infração penal. A prevenção busca reduzir essa possibilidade. Ela não transforma toda operação diferente em crime: uma movimentação incomum é um alerta para analisar com cuidado, e não uma conclusão sobre a pessoa. [2]\n\nO COAF ensina três fases como modelo para entender o processo: colocação, quando o dinheiro entra na economia; ocultação, quando as movimentações dificultam rastrear sua origem; e integração, quando ele volta com aparência de legalidade. O material oficial ressalva que essas fases podem ocorrer ao mesmo tempo. Não são etapas obrigatórias que todo caso precisa cumprir. [3]\n\nControles preventivos incluem cadastro confiável, compreensão do cliente e dos beneficiários finais, registro de operações, avaliação de risco, monitoramento, análise, treinamento e revisão de falhas. As regras concretas dependem do setor e de quem a lei alcança. A Circular do Banco Central vale para instituições autorizadas pelo BCB; a Resolução da CVM alcança os participantes definidos na própria norma. Não se deve aplicar essas regras automaticamente a todos os RPPS. [2] [4] [5]\n\nSe uma pessoa obrigada identifica uma situação que se enquadra nos critérios legais, deve seguir o fluxo e o prazo aplicável para comunicar ao COAF, sem avisar quem é objeto da comunicação. O reporte não declara que alguém é culpado. O COAF analisa informações e pode encaminhá-las às autoridades competentes. Investigação e decisão de responsabilidade acontecem em procedimentos próprios. [2] [3]\n\nNa rotina, registre fatos, compare a operação com o perfil e o contexto, consulte a política interna e encaminhe o caso ao responsável. Não confronte o cliente por conta própria, não esconda documentos e não divulgue a suspeita. Se não houver dados suficientes, explicite a incerteza em vez de inventar um risco numérico. [4] [5]\n\nA Lei nº 9.613/1998 também prevê conservação de cadastros e registros por pelo menos cinco anos após o encerramento da conta ou a conclusão da transação, para as pessoas abrangidas pelo art. 9º; a autoridade competente pode ampliar esse prazo. Não aplique esse dever automaticamente a qualquer pessoa sem conferir o regime que a alcança. [2]\n\nLEI SECA:\n“Art. 1º Ocultar ou dissimular a natureza, origem, localização, disposição, movimentação ou propriedade de bens, direitos ou valores provenientes, direta ou indiretamente, de infração penal.”\n— Lei nº 9.613/1998, art. 1º, caput. [2]\n\n“III - deverão adotar políticas, procedimentos e controles internos, compatíveis com seu porte e volume de operações, que lhes permitam atender ao disposto neste artigo e no art. 11, na forma disciplinada pelos órgãos competentes;”\n— Lei nº 9.613/1998, art. 10, inciso III. [2]\n\n“II - deverão comunicar ao Coaf, abstendo-se de dar ciência de tal ato a qualquer pessoa, inclusive àquela à qual se refira a informação, no prazo de 24 (vinte e quatro) horas, a proposta ou realização:\na) de todas as transações referidas no inciso II do art. 10, acompanhadas da identificação de que trata o inciso I do mencionado artigo; e\nb) das operações referidas no inciso I;”\n— Lei nº 9.613/1998, art. 11, inciso II, alíneas “a” e “b”. [2]\n\n“§ 2º As comunicações de boa-fé, feitas na forma prevista neste artigo, não acarretarão responsabilidade civil ou administrativa.”\n— Lei nº 9.613/1998, art. 11, § 2º. [2]\n\nSÚMULAS E TESES:\nO programa oficial do tópico 5.2 não indica súmula ou tese jurisprudencial específica sobre prevenção à lavagem de dinheiro. Não se atribui precedente sem pertinência direta demonstrada; o recorte é desenvolvido a partir da lei e das normas regulatórias oficiais aplicáveis. [1]\n\nESQUEMA:\nPREVENÇÃO → avaliar riscos → conhecer cliente/beneficiário final → registrar → monitorar → analisar → comunicar conforme a regra aplicável → testar e corrigir controles.\nATIPICIDADE ≠ PROVA: é alerta que exige análise de contexto.\nCOMUNICAÇÃO → reservada + dentro do âmbito legal/regulatório + sem dar ciência à pessoa referida.\nÂMBITO → Lei 9.613/1998: pessoas do art. 9º; BCB/CVM: sujeitos e atribuições definidos em suas normas.\n\nPEGADINHAS:\n1. O crime de lavagem não se confunde com qualquer irregularidade: o art. 1º exige ocultar ou dissimular bens provenientes de infração penal.\n2. Colocação, ocultação e integração são um modelo didático; não são três requisitos legais em sequência obrigatória.\n3. Operação atípica ou pessoa politicamente exposta não provam, por si, crime ou culpa.\n4. A obrigação de comunicar e o prazo de 24 horas da Lei 9.613/1998 referem-se aos sujeitos e às hipóteses legais; não generalize a qualquer RPPS ou profissional.\n5. O reporte ao COAF é confidencial e não equivale a denúncia pública ou condenação.\n6. Circular BCB 3.978 e Resolução CVM 50 têm âmbitos próprios; não são regulamentos universais para todo investidor.\n\nDOUTRINA:\nA prevenção eficaz combina abordagem baseada em risco, diligência compatível com o perfil, monitoramento contextual e resposta documentada. O volume ou a aparência incomum de uma operação ganha sentido quando confrontado com a finalidade econômica, o histórico e as pessoas relacionadas. Controles que só acumulam alertas sem análise podem gerar falsos positivos; controles que não consideram relações entre operações podem deixar de perceber padrões. O desenho deve ser proporcional e revisado, dentro do regime jurídico de cada sujeito. [4] [5]\n\nNA PRÁTICA:\nHipótese: uma entidade sujeita a regulação identifica uma aplicação seguida de resgates e transferências para terceiros sem justificativa clara, em desacordo com o perfil cadastral. A equipe não conclui que houve lavagem. Preserva as informações, verifica o padrão e a relação entre operações, consulta as regras internas e encaminha a análise ao responsável. Se os indícios satisfizerem os critérios da norma aplicável, a instituição efetua a comunicação reservada no prazo devido e não avisa a pessoa referida. Se a análise afastar a suspeita, registra os fundamentos e avalia a adequação dos controles. O tratamento distingue diligência de acusação. [2] [4] [5]\n\nREFERÊNCIAS:\n[1]: https://www.gov.br/previdencia/pt-br/assuntos/rpps/Requisitos-para-Dirigentes-e-Conselheiros-de-RPPS/arquivos/copy_of_ManualdaCertificaodosProfissinaisdosRPPSVerso2.0.pdf \"MPS: Manual CP RPPS, versão 2.0/2026, Anexo III-C, fl. 68 — consulta em 24/11/2026\"\n[2]: https://www.planalto.gov.br/ccivil_03/leis/l9613compilado.htm \"Planalto: Lei nº 9.613/1998, texto compilado, arts. 1º e 9º–12 — consulta em 24/11/2026\"\n[3]: https://www.gov.br/coaf/pt-br/assuntos/o-sistema-de-prevencao-a-lavagem-de-dinheiro/o-que-e-o-crime-de-lavagem-de-dinheiro-ld \"COAF: O que é Lavagem de Dinheiro e Financiamento do Terrorismo — consulta em 24/11/2026\"\n[4]: https://normativos.bcb.gov.br/Lists/Normativos/Attachments/50905/Circ_3978_v6_P.pdf \"BCB: Circular nº 3.978/2020, texto oficial atualizado v6 — consulta em 24/11/2026\"\n[5]: https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/001/resol050consolid.pdf \"CVM: Resolução nº 50/2021, texto consolidado após Resoluções 179/2023 e 245/2026 — consulta em 24/11/2026\"\n[6]: https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol245.htm \"CVM: Resolução nº 245, de 1º de julho de 2026 — consulta em 24/11/2026\"",
+   "flashcards": [
+    {
+     "frente": "Como o art. 1º define a lavagem de dinheiro?",
+     "verso": "Como ocultar ou dissimular elementos relativos a bens, direitos ou valores provenientes, direta ou indiretamente, de infração penal.",
+     "dispositivo": "Lei nº 9.613/1998, art. 1º"
+    },
+    {
+     "frente": "As três fases didáticas da lavagem são etapas obrigatórias e sucessivas?",
+     "verso": "Não. Colocação, ocultação e integração são um modelo explicativo; o COAF registra que podem ocorrer simultaneamente.",
+     "dispositivo": "COAF, O que é Lavagem de Dinheiro e Financiamento do Terrorismo"
+    },
+    {
+     "frente": "Uma operação atípica prova que ocorreu lavagem?",
+     "verso": "Não. É um indicador que deve ser analisado em contexto; não é prova automática de crime ou culpa.",
+     "dispositivo": "Lei nº 9.613/1998, art. 11; Circular BCB nº 3.978/2020, arts. 38–39"
+    },
+    {
+     "frente": "A quem a Lei nº 9.613/1998 dirige os deveres preventivos dos arts. 10 e 11?",
+     "verso": "Às pessoas referidas no art. 9º, conforme os deveres legais e a regulamentação competente.",
+     "dispositivo": "Lei nº 9.613/1998, arts. 9º–11"
+    },
+    {
+     "frente": "Qual prazo legal e dever de sigilo aparecem no art. 11, II?",
+     "verso": "Nas hipóteses legais, comunicação ao COAF em 24 horas e abstenção de dar ciência do reporte à pessoa referida ou a qualquer outra pessoa.",
+     "dispositivo": "Lei nº 9.613/1998, art. 11, II"
+    },
+    {
+     "frente": "A Circular BCB nº 3.978/2020 aplica-se a todo RPPS?",
+     "verso": "Não. Seu art. 1º delimita a disciplina às instituições autorizadas a funcionar pelo Banco Central.",
+     "dispositivo": "Circular BCB nº 3.978/2020, art. 1º"
+    },
+    {
+     "frente": "A quem a Resolução CVM nº 50/2021 se aplica?",
+     "verso": "Aos sujeitos definidos no art. 3º, no limite de suas atribuições no mercado de valores mobiliários.",
+     "dispositivo": "Resolução CVM nº 50/2021, art. 3º"
+    },
+    {
+     "frente": "O que a Resolução CVM nº 245/2026 adicionou à Resolução CVM nº 50?",
+     "verso": "Diligência reforçada para situações com não residente ligado a jurisdição que não aplique ou aplique insuficientemente recomendações do GAFI, nos termos do art. 17-A.",
+     "dispositivo": "Resolução CVM nº 245/2026; Resolução CVM nº 50/2021, art. 17-A"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Para a configuração do crime de lavagem previsto no art. 1º da Lei nº 9.613/1998, basta que uma operação seja incomum, ainda que não envolva ocultação ou dissimulação de bens provenientes de infração penal.",
+     "gabarito": "E",
+     "comentario": "Errado. A atipicidade pode justificar análise preventiva, mas não substitui os elementos do art. 1º: ocultar ou dissimular bens, direitos ou valores provenientes de infração penal.",
+     "dispositivo": "Lei nº 9.613/1998, art. 1º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "enunciado": "As fases de colocação, ocultação e integração são apresentadas pelo COAF como modelo didático; podem ocorrer simultaneamente e não constituem uma sequência legal obrigatória.",
+     "gabarito": "C",
+     "comentario": "Certo. A página institucional do COAF qualifica as fases como teóricas e observa que frequentemente podem ocorrer ao mesmo tempo.",
+     "dispositivo": "COAF, O que é Lavagem de Dinheiro e Financiamento do Terrorismo"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A presença de uma pessoa politicamente exposta em uma operação é prova suficiente de lavagem e dispensa análise individualizada.",
+     "gabarito": "E",
+     "comentario": "Errado. A condição pode exigir atenção reforçada conforme a norma aplicável, mas não prova, isoladamente, crime ou responsabilidade.",
+     "dispositivo": "Circular BCB nº 3.978/2020, arts. 38–39; Resolução CVM nº 50/2021, art. 20"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Na hipótese prevista pela Lei nº 9.613/1998, art. 11, II, os sujeitos abrangidos devem comunicar a proposta ou operação ao COAF no prazo legal e abster-se de dar ciência da comunicação à pessoa a que ela se refere.",
+     "gabarito": "C",
+     "comentario": "Certo. O inciso II prevê prazo de 24 horas nas hipóteses legais e expressamente veda dar ciência do ato, inclusive à pessoa referida na informação.",
+     "dispositivo": "Lei nº 9.613/1998, art. 11, II"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A Circular BCB nº 3.978/2020 impõe diretamente seu programa de PLD/FTP a todo RPPS, sem considerar autorização ou supervisão do Banco Central.",
+     "gabarito": "E",
+     "comentario": "Errado. O art. 1º delimita seu âmbito às instituições autorizadas a funcionar pelo BCB; a incidência não decorre apenas de uma entidade ser RPPS.",
+     "dispositivo": "Circular BCB nº 3.978/2020, art. 1º"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "A Resolução CVM nº 245/2026 acrescentou diligência reforçada para determinadas situações envolvendo investidor não residente vinculado a jurisdição com deficiências na aplicação das recomendações do GAFI, dentro do âmbito da Resolução CVM nº 50.",
+     "gabarito": "C",
+     "comentario": "Certo. A regra consta do art. 17-A inserido na Resolução CVM nº 50 e se dirige às pessoas dos incisos I a III do art. 3º, no limite de suas atribuições.",
+     "dispositivo": "Resolução CVM nº 245/2026, art. 1º; Resolução CVM nº 50/2021, arts. 3º e 17-A"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "facil",
+     "enunciado": "Segundo o art. 1º da Lei nº 9.613/1998, qual alternativa descreve corretamente o núcleo do crime de lavagem?",
+     "alternativas": {
+      "A": "Deixar de preencher um cadastro, mesmo sem qualquer relação com bens de origem ilícita.",
+      "B": "Ocultar ou dissimular elemento legalmente indicado sobre bens, direitos ou valores provenientes de infração penal.",
+      "C": "Realizar qualquer operação em espécie acima de um valor escolhido pela instituição, independentemente do contexto.",
+      "D": "Comunicar uma operação ao COAF em boa-fé.",
+      "E": "Investir em ativo de risco elevado com recursos de origem comprovadamente lícita."
+     },
+     "gabarito": "B",
+     "comentario": "A alternativa B reproduz o núcleo do art. 1º. A mera falha cadastral ou operação em espécie não basta para afirmar o crime; a comunicação de boa-fé é um dever preventivo quando aplicável; risco de investimento não é lavagem por si.",
+     "comentarios_por_alternativa": {
+      "A": "Incorreta. Falha cadastral pode ser infração regulatória ou sinal de atenção, mas não substitui os elementos penais do art. 1º.",
+      "B": "Correta. O art. 1º exige ocultação ou dissimulação relacionada a bens, direitos ou valores provenientes de infração penal.",
+      "C": "Incorreta. O critério depende da lei e da autoridade competente; superar um parâmetro não prova lavagem.",
+      "D": "Incorreta. Comunicação prevista em lei é medida de prevenção e inteligência, não a conduta criminosa descrita no art. 1º.",
+      "E": "Incorreta. Risco financeiro elevado e origem ilícita são conceitos distintos; investimento arriscado não configura lavagem sem os elementos legais."
+     },
+     "dispositivo": "Lei nº 9.613/1998, art. 1º"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Qual descrição corresponde ao modelo didático das fases divulgado pelo COAF?",
+     "alternativas": {
+      "A": "Identificação, acusação e condenação, nessa ordem fixa.",
+      "B": "Cadastro, bloqueio e confisco, obrigatórios em todos os casos.",
+      "C": "Colocação, ocultação e integração, fases teóricas que podem ocorrer simultaneamente.",
+      "D": "Depósito, sentença e execução penal.",
+      "E": "Auditoria, comunicação e sanção administrativa."
+     },
+     "gabarito": "C",
+     "comentario": "A alternativa C corresponde à explicação didática do COAF e respeita a ressalva de que as fases não precisam ocorrer em sequência rígida.",
+     "comentarios_por_alternativa": {
+      "A": "Incorreta. São etapas processuais inventadas e não as fases didáticas de lavagem.",
+      "B": "Incorreta. Cadastro e medidas constritivas não formam o modelo de três fases.",
+      "C": "Correta. Colocação, ocultação e integração são as três fases teóricas descritas pelo COAF; podem se sobrepor.",
+      "D": "Incorreta. Refere-se a etapas processuais penais, não a fases de lavagem.",
+      "E": "Incorreta. São funções possíveis de controle institucional, não fases do processo de lavagem."
+     },
+     "dispositivo": "COAF, O que é Lavagem de Dinheiro e Financiamento do Terrorismo"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Uma transação se mostra incompatível com o perfil cadastral e sem explicação econômica aparente. Qual resposta inicial é tecnicamente mais adequada para a instituição sujeita ao regime aplicável?",
+     "alternativas": {
+      "A": "Publicar o nome do cliente para proteger outros investidores.",
+      "B": "Concluir imediatamente que ocorreu crime e encerrar todos os vínculos sem análise.",
+      "C": "Avisar o cliente de que será feita comunicação ao COAF e pedir que corrija a operação.",
+      "D": "Analisar o contexto e as relações com outras operações, documentar a avaliação e seguir o canal reservado definido pela norma aplicável.",
+      "E": "Ignorar o caso se o valor individual estiver abaixo de um limite não verificado."
+     },
+     "gabarito": "D",
+     "comentario": "A alternativa D concilia análise contextual, registro e encaminhamento confidencial. Atipicidade é sinal para examinar, não prova nem justificativa para alertar a pessoa referida.",
+     "comentarios_por_alternativa": {
+      "A": "Incorreta. Divulgação pública pode violar sigilo e prejudicar direitos; comunicação legal é reservada.",
+      "B": "Incorreta. Uma suspeita exige análise; não permite declarar culpa automaticamente.",
+      "C": "Incorreta. A lei veda dar ciência do ato de comunicação à pessoa a que se refere a informação.",
+      "D": "Correta. Monitoramento, análise documentada e fluxo confidencial são a resposta preventiva compatível com o regime aplicável.",
+      "E": "Incorreta. Não se deve inventar limiar nem ignorar indícios; os parâmetros dependem da regra competente e da análise de risco."
+     },
+     "dispositivo": "Lei nº 9.613/1998, art. 11; Circular BCB nº 3.978/2020, arts. 38–40; Resolução CVM nº 50/2021, arts. 20–22"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em relação ao dever de comunicar previsto na Lei nº 9.613/1998, qual alternativa é correta?",
+     "alternativas": {
+      "A": "Todo servidor público deve reportar diretamente ao COAF qualquer movimentação atípica em 24 horas.",
+      "B": "A comunicação só pode ocorrer depois de condenação criminal definitiva.",
+      "C": "O dever descrito no art. 11, II, alcança as pessoas referidas no art. 9º nas hipóteses legais, no prazo de 24 horas, sem dar ciência à pessoa referida.",
+      "D": "O sujeito deve avisar o cliente antes de enviar o reporte para garantir contraditório prévio.",
+      "E": "A comunicação pública nas redes sociais substitui o canal legal."
+     },
+     "gabarito": "C",
+     "comentario": "A alternativa C preserva o sujeito, as hipóteses, o prazo e o sigilo definidos na lei.",
+     "comentarios_por_alternativa": {
+      "A": "Incorreta. A lei não impõe esse dever universal a qualquer servidor; o art. 11 remete às pessoas do art. 9º e às hipóteses legais.",
+      "B": "Incorreta. A comunicação preventiva não exige condenação definitiva; ela trata de sinais ou hipóteses previstos no regime.",
+      "C": "Correta. Resume a incidência legal e o comando do art. 11, II, sem generalização.",
+      "D": "Incorreta. O próprio inciso determina abstenção de dar ciência, inclusive à pessoa a que se refere a informação.",
+      "E": "Incorreta. Comunicação pública não substitui reporte reservado ao órgão competente."
+     },
+     "dispositivo": "Lei nº 9.613/1998, arts. 9º e 11, II"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Qual alternativa apresenta sinais que podem ser considerados na análise de operações, sem convertê-los em prova automática de lavagem?",
+     "alternativas": {
+      "A": "Incompatibilidade relevante com o perfil financeiro, dificuldade de identificar beneficiário final e ausência de fundamento econômico aparente.",
+      "B": "Qualquer aplicação em renda variável, independentemente da pessoa ou do contexto.",
+      "C": "Somente operações cujo titular tenha sido condenado por crime.",
+      "D": "A mera nacionalidade estrangeira do cliente, sem outro dado ou regra aplicável.",
+      "E": "Qualquer movimentação que gere rentabilidade positiva."
+     },
+     "gabarito": "A",
+     "comentario": "A alternativa A reúne exemplos de atipicidades citados em normas setoriais; cada elemento pede avaliação de contexto e incidência normativa.",
+     "comentarios_por_alternativa": {
+      "A": "Correta. Incompatibilidade com capacidade financeira, identificação do beneficiário final e fundamento econômico são fatores de monitoramento em normas BCB/CVM.",
+      "B": "Incorreta. O tipo de ativo isolado não prova suspeita; deve ser analisado com perfil e contexto.",
+      "C": "Incorreta. Monitoramento é preventivo e não depende de condenação prévia do cliente.",
+      "D": "Incorreta. Nacionalidade por si só não é conclusão de risco nem prova; a avaliação depende de fatores objetivos e regras.",
+      "E": "Incorreta. Resultado positivo de investimento não indica lavagem sem outros sinais e elementos."
+     },
+     "dispositivo": "Circular BCB nº 3.978/2020, art. 39; Resolução CVM nº 50/2021, art. 20"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Qual hipótese está abrangida pela diligência reforçada introduzida pela Resolução CVM nº 245/2026?",
+     "alternativas": {
+      "A": "Operação ou situação com investidor não residente ligado a jurisdição que não aplique ou aplique insuficientemente recomendações do GAFI, no âmbito dos sujeitos da Resolução CVM nº 50.",
+      "B": "Todo investimento feito por pessoa idosa em qualquer RPPS brasileiro.",
+      "C": "Qualquer operação de pessoa politicamente exposta, ainda que fora do mercado regulado pela CVM.",
+      "D": "Toda aplicação de investidor nacional em ativo de risco médio.",
+      "E": "Qualquer operação que tenha resultado negativo."
+     },
+     "gabarito": "A",
+     "comentario": "A alternativa A reflete o art. 17-A acrescido à Resolução 50 e seu alcance subjetivo limitado.",
+     "comentarios_por_alternativa": {
+      "A": "Correta. O art. 17-A exige medidas reforçadas para as situações descritas, dentro da competência dos sujeitos do art. 3º.",
+      "B": "Incorreta. Idade é matéria distinta e não define a incidência da Resolução 245.",
+      "C": "Incorreta. A condição de PEP pode ter regras próprias, mas a Resolução 245 não se estende universalmente a qualquer pessoa ou setor.",
+      "D": "Incorreta. O dispositivo não estabelece diligência reforçada para todo investidor nacional ou qualquer perfil de risco.",
+      "E": "Incorreta. Prejuízo financeiro não caracteriza, sozinho, suspeita de lavagem."
+     },
+     "dispositivo": "Resolução CVM nº 245/2026, art. 1º; Resolução CVM nº 50/2021, arts. 3º e 17-A"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O art. 1º da Lei nº 9.613/1998 descreve o crime como ______ ou dissimular bens, direitos ou valores provenientes de ______ penal.",
+     "opcoes": [
+      "ocultar",
+      "infração",
+      "identificar",
+      "contrato"
+     ],
+     "respostas": [
+      "ocultar",
+      "infração"
+     ],
+     "explicacao": "A redação legal emprega os verbos ocultar ou dissimular e exige origem direta ou indireta em infração penal.",
+     "dispositivo": "Lei nº 9.613/1998, art. 1º"
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "O COAF apresenta como modelo didático as fases de ______, ocultação e ______.",
+     "opcoes": [
+      "colocação",
+      "integração",
+      "investigação",
+      "condenação"
+     ],
+     "respostas": [
+      "colocação",
+      "integração"
+     ],
+     "explicacao": "As fases ajudam a entender o processo, mas não são uma sequência obrigatória em todos os casos.",
+     "dispositivo": "COAF, O que é Lavagem de Dinheiro e Financiamento do Terrorismo"
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a resposta institucional a uma operação atípica, sem antecipar culpa:",
+     "itens": [
+      "Registrar a atipicidade e preservar os dados pertinentes conforme a regra aplicável",
+      "Comparar a operação com o perfil, o histórico, as partes e a finalidade econômica",
+      "Submeter os elementos ao responsável e canal interno designados",
+      "Decidir, com base na análise e na incidência normativa, se há dever de comunicação reservada",
+      "Rever o controle e documentar o encerramento ou a providência adotada"
+     ],
+     "explicacao": "A ordem promove registro, análise contextual, encaminhamento competente e resposta proporcional, sem divulgar a suspeita ou concluir crime automaticamente.",
+     "dispositivo": "Lei nº 9.613/1998, arts. 10–11; Circular BCB nº 3.978/2020; Resolução CVM nº 50/2021"
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Lavagem de dinheiro",
+       "Crime de ocultar ou dissimular bens provenientes de infração penal"
+      ],
+      [
+       "Atipicidade",
+       "Sinal para análise, não prova automática de crime"
+      ],
+      [
+       "COAF",
+       "Recebe e examina comunicações e pode encaminhar informações às autoridades competentes"
+      ],
+      [
+       "Abordagem baseada em risco",
+       "Dimensiona diligências e controles conforme riscos avaliados"
+      ],
+      [
+       "Comunicação suspeita",
+       "Reporte reservado dentro do regime aplicável, sem dar ciência à pessoa referida"
+      ]
+     ],
+     "explicacao": "Associe a natureza penal, o indicador de risco, o papel institucional e a lógica de prevenção sem confundi-los.",
+     "dispositivo": "Lei nº 9.613/1998, arts. 1º e 11; COAF; Circular BCB nº 3.978/2020; Resolução CVM nº 50/2021"
+    }
+   ]
+  }
+ ]
+}
