@@ -1,0 +1,254 @@
+{
+ "assunto": "Efeito Joule: potência dissipada e aquecimento",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-25",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-efeito-joule-c14",
+   "titulo": "Efeito Joule: potência dissipada e aquecimento",
+   "microconteudo": "RAIO-X DA PROVA: Nos cadernos azuis regulares do Enem de 2021 a 2025, foram identificadas 3 questões relacionadas a este assunto, de um total de 225 em Ciências da Natureza.\n\nPOR QUE IMPORTA:\nUma torradeira usa corrente elétrica para aquecer. O mesmo efeito explica por que parte da energia fica no fio de um circuito, mesmo quando o objetivo é alimentar outro aparelho. No Enem, esses casos aparecem em duchas, resistores e fogões por indução.\n\nO QUE A BANCA COBRA:\nDetermine onde ocorre o aquecimento e quais grandezas estão fixas. Distinga potência dissipada de energia acumulada e, se necessário, calcule a parcela que chega à água ou ao alimento.\n\nENTENDA:\nImagine uma caixa demonstrativa que recebe energia de uma fonte e a usa para aquecer uma pequena peça resistiva. Quando a corrente passa, a peça aquece. Os elétrons são impulsionados pelo campo elétrico e interagem com o material; a energia fornecida pela fonte se transforma em energia interna do condutor. Esse processo recebe o nome de efeito Joule. A peça aquecida pode transferir energia ao ar ou a um objeto mais frio. É a mesma ideia que está por trás da resistência de uma torradeira e do aquecimento indesejado de um trecho de fio em uma instalação. O efeito pode ser o objetivo do circuito ou apenas uma parte da energia que ele consome.\n\nA potência indica quanto de energia é transferida por unidade de tempo. Para corrente contínua e valores constantes, a potência elétrica recebida por um componente é P = U × I. U é a diferença de potencial entre seus terminais e I é a corrente no componente. Um watt equivale a um joule por segundo. Um resistor que recebe 6 V enquanto conduz 2 A dissipa 12 W. Ao longo de 30 s, transforma 12 × 30 = 360 J de energia elétrica em energia interna e transferência térmica para o entorno. Para achar a energia total com potência constante, multiplique a potência pelo tempo: E = P × t.\n\nEm um resistor ôhmico, a diferença de potencial também pode ser escrita como U = R × I. Substitua essa expressão em P = U × I para obter P = R × I². Se você conhece a tensão e a resistência, use I = U/R e obtenha P = U²/R. As três formas descrevem o mesmo resistor em um mesmo ponto de operação. Você escolhe a que usa os dados disponíveis. Um resistor de 8 Ω, sob 16 V, conduz 2 A. Calculando com tensão e corrente, P = 16 × 2 = 32 W. Com resistência e corrente, P = 8 × 2² = 32 W. Com tensão e resistência, P = 16²/8 = 32 W.\n\nNa comparação de dois casos, comece pela grandeza que permanece fixa. Se uma fonte de corrente mantém 2 A em dois resistores testados separadamente, um de 2 Ω e o outro de 6 Ω, as potências são 8 W e 24 W. Para essa corrente fixa, triplicar a resistência triplica a potência, e a fonte precisa aplicar mais tensão. Se uma fonte ideal mantém 12 V sobre esses resistores, as potências são 72 W e 24 W. Agora o resistor maior conduz menos corrente e dissipa menos potência. As duas conclusões saem das mesmas equações. Em cada situação, a fonte ou a ligação do circuito fixa uma grandeza diferente.\n\nConsidere dois resistores em série. Ambos conduzem a mesma corrente. Se seus valores forem 3 Ω e 6 Ω, a potência dissipada no resistor maior será o dobro, pois P = I²R. Em um paralelo ideal, cada ramo tem a mesma tensão. Se os mesmos resistores estiverem diretamente em paralelo, o de 3 Ω dissipa o dobro da potência do de 6 Ω, pois esse ramo conduz o dobro da corrente. Esses resultados comparam peças dentro de uma dada montagem. Se a pergunta comparar a potência total de duas montagens ligadas à mesma fonte ideal, você precisa descobrir a resistência equivalente em cada configuração. Mudar a ligação também pode mudar a corrente total que sai da fonte.\n\nO tempo entra apenas quando você quer energia acumulada. Uma resistência de 40 W funciona por 2 minutos. Converta o tempo para 120 s: a energia é 40 × 120 = 4.800 J. Se o enunciado usa quilowatts e horas, você pode trabalhar em quilowatt-hora. Um componente de 1,2 kW funcionando por 30 min usa 1,2 × 0,5 = 0,6 kWh. Para converter para joules, lembre que 1 kWh é 1.000 W durante 3.600 s, ou 3,6 milhões de joules. Se o enunciado pede potência, a resposta deve indicar taxa, em W ou kW. Se pede energia, a resposta deve indicar quantidade, em J, kJ ou kWh conforme o contexto.\n\nQuando o objetivo é aquecer água, parte da energia pode seguir para o recipiente e para o ar. O rendimento η indica a fração da energia de entrada que atende à finalidade. Imagine um ensaio em que um elemento resistivo dissipa 200 W por 100 s e a água recebe 75% dessa energia. A entrada fornece 20.000 J e a água recebe 15.000 J. Se o enunciado der massa e calor específico, você pode relacionar a energia recebida com a variação de temperatura por Q = m × c × ΔT, desde que não ocorra mudança de estado nesse intervalo. Usando 0,5 kg de água e c = 4.200 J/(kg·°C), o aumento previsto é de aproximadamente 7,14 °C. Use kg quando o calor específico estiver expresso por quilograma.\n\nTambém dá para estudar um aparelho que aquece água enquanto ela escoa. Imagine uma vazão de 0,10 kg por segundo e um aumento de temperatura de 10 °C. A cada segundo, a água recebe 0,10 × 4.200 × 10 = 4.200 J. A potência útil então é 4.200 W. Caso o enunciado informe rendimento de 84%, a potência elétrica de entrada é 4.200/0,84 = 5.000 W. A lógica usa o calor necessário por segundo, sem exigir que toda a água do exemplo esteja no recipiente ao mesmo tempo. Leia também a unidade da vazão: um valor por minuto precisa ser convertido antes da comparação com watts.\n\nO efeito Joule também ocorre nos condutores que transportam corrente até a carga. Um trecho com resistência de 0,4 Ω, percorrido por 5 A, dissipa 0,4 × 25 = 10 W. Se a corrente dobrar e a resistência ficar constante, a dissipação passa a 0,4 × 100 = 40 W. Isso porque a corrente entra ao quadrado. Em um modelo de linha de transmissão, reduzir a corrente pode reduzir bastante as perdas nos fios. Compare sempre fios sob as condições dadas: o valor de resistência pode depender do material, da geometria e da temperatura. No cálculo escolar, costuma ser fornecido diretamente ou tratado como constante na comparação.\n\nEm um fogão por indução, um campo magnético variável pode induzir correntes no fundo compatível da panela. O efeito Joule converte energia associada a essas correntes em aquecimento do material. Campo variável e efeito Joule cumprem papéis diferentes na explicação: o primeiro está ligado ao aparecimento da corrente, e o segundo ao aquecimento resistivo onde ela circula. Ao ler uma questão sobre essa tecnologia, veja se a pergunta quer a origem da corrente ou a transformação da energia. Para fechar qualquer exercício, marque o local da dissipação, escreva as unidades e confira se o resultado se refere à potência elétrica, à energia total convertida ou apenas à parcela útil.\n\nQuando um equipamento alterna entre dois modos, calcule separadamente a energia de cada intervalo. Um elemento que passa 20 s a 60 W e depois 40 s a 30 W transforma 1.200 J em cada fase. No intervalo inteiro, são 2.400 J em 60 s, o que corresponde a uma potência média de 40 W. A média simples de 60 e 30 daria 45 W e só funcionaria se as duas fases durassem igualmente. Em gráficos de potência por tempo, cada fase constante corresponde a um retângulo cuja área dá a energia do trecho.\n\nTROCANDO EM MIÚDOS:\nPense em um aparelho que esquenta de propósito, como uma torradeira. A eletricidade passa por uma peça que oferece resistência. A energia que chega faz a peça esquentar e parte dela segue para o pão. Esse aquecimento é chamado efeito Joule. A mesma transformação acontece em fios de outros aparelhos, mesmo quando esquentar o fio não ajuda no funcionamento.\n\nPara resolver uma questão, pergunte primeiro quanto de energia se transforma a cada segundo. Se uma peça opera com 8 V e 2 A, multiplique os dois valores e obtenha 16 W. Isso quer dizer 16 joules por segundo. Para calcular a energia em cinco segundos, multiplique de novo, agora pelo tempo. Nesse período, são 80 J. Se a potência durar dois minutos, você usa 120 segundos para obter o resultado em joules.\n\nA segunda pergunta é o que ficou igual quando o problema mudou. Se a corrente permanece igual, o resistor maior esquenta com maior potência, pois usamos R vezes o quadrado da corrente. Se a tensão permanece igual, o resistor maior recebe menos corrente e sua potência é menor. A fórmula para esse segundo caso é o quadrado da tensão dividido pela resistência. Uma dica é sublinhar as palavras “mesma corrente” ou “mesma tensão” antes de comparar.\n\nA última pergunta é onde chegou a energia que você quer contar. Imagine que um aquecedor forneceu 1.000 J e a água recebeu 800 J. O aparelho aproveitou 80% da energia para aquecer a água. Se o exercício pedir a energia que chegou à água e informar a entrada, multiplique pelo rendimento. Se informar a energia que chegou à água e pedir quanto entrou, divida pelo rendimento na forma decimal. Repare que a entrada precisa ser pelo menos tão grande quanto a energia útil. Essa checagem mostra rapidamente se você escolheu a operação certa.\n\nLEI SECA:\nP = UI. Para resistor ôhmico, P = I²R = U²/R. Com potência constante, E = P × t.\n\nSÚMULAS E TESES:\nCorrente fixa: P cresce com R. Tensão fixa: P diminui com R. A energia útil é a fração da energia de entrada definida pelo rendimento.\n\nESQUEMA:\nLocal da dissipação → grandeza constante → potência → intervalo de tempo → energia total e parcela útil.\n\nPEGADINHAS:\n1. Confundir potência com energia.\n2. Deixar minutos na conta em joules.\n3. Comparar resistores usando uma grandeza que mudou.\n4. Esquecer o quadrado de I ou U.\n5. Tratar toda energia de entrada como energia útil.\n\nDOUTRINA:\nOpenStax, College Physics 2e, seção 20.4, Electric Power and Energy.\n\nNA PRÁTICA:\nUm elemento recebe 10 V e conduz 3 A por 20 s. Sua potência fica em 30 W e a energia em 600 J. Com rendimento de 70% no aquecimento desejado, 420 J chegam ao objeto.",
+   "flashcards": [
+    {
+     "frente": "O que é efeito Joule?",
+     "verso": "Conversão de energia elétrica em energia interna no condutor percorrido por corrente.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Efeito Joule"
+    },
+    {
+     "frente": "Como obter energia em joules a partir de watts?",
+     "verso": "Multiplique a potência constante pelo tempo em segundos.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Efeito Joule"
+    },
+    {
+     "frente": "Que fórmula usa corrente e resistência?",
+     "verso": "P = I²R.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Efeito Joule"
+    },
+    {
+     "frente": "Que fórmula usa tensão e resistência?",
+     "verso": "P = U²/R.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Efeito Joule"
+    },
+    {
+     "frente": "Quanto vale 1 kWh em joules?",
+     "verso": "3,6 milhões de joules.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Efeito Joule"
+    },
+    {
+     "frente": "Como achar a energia útil?",
+     "verso": "Multiplique a energia de entrada pelo rendimento em forma decimal.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Efeito Joule"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Um resistor recebe 10 V e conduz 2 A.",
+     "enunciado": "A potência dissipada vale 20 W.",
+     "gabarito": "C",
+     "comentario": "Certo. O produto 10 × 2 equivale a 20 J por segundo.\n(Fenômenos Elétricos e Magnéticos — Efeito Joule, H17.)",
+     "habilidade": "H17",
+     "id": "enem-efeito-joule-c14-q01",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Efeito Joule, H17"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Dois resistores são testados sob a mesma tensão.",
+     "enunciado": "O de maior resistência dissipa mais potência.",
+     "gabarito": "E",
+     "comentario": "Errado. Com U constante, P = U²/R diminui quando R cresce.\n(Fenômenos Elétricos e Magnéticos — Efeito Joule, H17.)",
+     "habilidade": "H17",
+     "id": "enem-efeito-joule-c14-q02",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Efeito Joule, H17"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um fio mantém a mesma resistência enquanto a corrente dobra.",
+     "enunciado": "A potência dissipada no fio quadruplica.",
+     "gabarito": "C",
+     "comentario": "Certo. A corrente entra ao quadrado na expressão I²R.\n(Fenômenos Elétricos e Magnéticos — Efeito Joule, H17.)",
+     "habilidade": "H17",
+     "id": "enem-efeito-joule-c14-q03",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Efeito Joule, H17"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um elemento fornece 60 W durante 2 minutos.",
+     "enunciado": "A energia dissipada nesse intervalo é 120 J.",
+     "gabarito": "E",
+     "comentario": "Errado. São 120 segundos, então a energia vale 60 × 120 = 7.200 J.\n(Fenômenos Elétricos e Magnéticos — Efeito Joule, H17.)",
+     "habilidade": "H17",
+     "id": "enem-efeito-joule-c14-q04",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Efeito Joule, H17"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma peça resistiva de 5 Ω é submetida a 10 V constantes em um equipamento demonstrativo.",
+     "enunciado": "Qual potência ela dissipa?",
+     "gabarito": "B",
+     "comentario": "A) É o valor da corrente em ampères.\nB) Correta. 10²/5 = 20 W.\nC) Multiplicar U por R não fornece potência.\nD) O quadrado da tensão ainda deve ser dividido por 5 Ω.\nE) Essa potência exigiria 20 A sob 10 V.\n(Fenômenos Elétricos e Magnéticos — Efeito Joule, H21.)",
+     "comentarios_por_alternativa": {
+      "A": "É o valor da corrente em ampères.",
+      "B": "Correta. 10²/5 = 20 W.",
+      "C": "Multiplicar U por R não fornece potência.",
+      "D": "O quadrado da tensão ainda deve ser dividido por 5 Ω.",
+      "E": "Essa potência exigiria 20 A sob 10 V."
+     },
+     "alternativas": {
+      "A": "2 W",
+      "B": "20 W",
+      "C": "50 W",
+      "D": "100 W",
+      "E": "200 W"
+     },
+     "habilidade": "H21",
+     "id": "enem-efeito-joule-c14-q05",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Efeito Joule, H21"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um aquecedor didático opera a 100 W por 90 s. Nesse intervalo, 80% da energia elétrica recebida chega à água.",
+     "enunciado": "Qual energia chega à água?",
+     "gabarito": "D",
+     "comentario": "A) É a potência útil em watts.\nB) Corresponde a um décimo da energia total.\nC) É a fração de 20% que não chega à água.\nD) Correta. 100 × 90 × 0,8 = 7.200 J.\nE) É a energia recebida antes de aplicar o rendimento.\n(Fenômenos Elétricos e Magnéticos — Efeito Joule, H21.)",
+     "comentarios_por_alternativa": {
+      "A": "É a potência útil em watts.",
+      "B": "Corresponde a um décimo da energia total.",
+      "C": "É a fração de 20% que não chega à água.",
+      "D": "Correta. 100 × 90 × 0,8 = 7.200 J.",
+      "E": "É a energia recebida antes de aplicar o rendimento."
+     },
+     "alternativas": {
+      "A": "80 J",
+      "B": "900 J",
+      "C": "1.800 J",
+      "D": "7.200 J",
+      "E": "9.000 J"
+     },
+     "habilidade": "H21",
+     "id": "enem-efeito-joule-c14-q06",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Efeito Joule, H21"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Em um painel, dois resistores ôhmicos em série têm 2 Ω e 8 Ω.",
+     "enunciado": "Quanto vale a razão entre a potência no resistor de 8 Ω e a do resistor de 2 Ω?",
+     "gabarito": "A",
+     "comentario": "A) Correta. A corrente é a mesma, então a razão de potências é 8/2 = 4.\nB) Corresponderia à comparação inversa de resistências.\nC) A corrente é comum, mas as resistências são diferentes.\nD) A raiz da razão não representa a relação para corrente fixa.\nE) A resistência aparece em primeira potência em I²R.\n(Fenômenos Elétricos e Magnéticos — Efeito Joule, H17.)",
+     "comentarios_por_alternativa": {
+      "A": "Correta. A corrente é a mesma, então a razão de potências é 8/2 = 4.",
+      "B": "Corresponderia à comparação inversa de resistências.",
+      "C": "A corrente é comum, mas as resistências são diferentes.",
+      "D": "A raiz da razão não representa a relação para corrente fixa.",
+      "E": "A resistência aparece em primeira potência em I²R."
+     },
+     "alternativas": {
+      "A": "4",
+      "B": "1/4",
+      "C": "1",
+      "D": "2",
+      "E": "16"
+     },
+     "habilidade": "H17",
+     "id": "enem-efeito-joule-c14-q07",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Efeito Joule, H17"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um trecho resistivo dissipa 12 W quando percorrido por 2 A. A resistência permanece constante, mas a corrente é reduzida a 1 A.",
+     "enunciado": "Qual é a nova potência dissipada?",
+     "gabarito": "E",
+     "comentario": "A) Seria mantida se a corrente permanecesse em 2 A.\nB) A potência depende do quadrado da corrente.\nC) 1 A é a corrente, e não a potência.\nD) Reduzir a corrente com R fixa reduz a dissipação.\nE) Correta. Metade da corrente resulta em um quarto da potência: 12/4 = 3 W.\n(Fenômenos Elétricos e Magnéticos — Efeito Joule, H21.)",
+     "comentarios_por_alternativa": {
+      "A": "Seria mantida se a corrente permanecesse em 2 A.",
+      "B": "A potência depende do quadrado da corrente.",
+      "C": "1 A é a corrente, e não a potência.",
+      "D": "Reduzir a corrente com R fixa reduz a dissipação.",
+      "E": "Correta. Metade da corrente resulta em um quarto da potência: 12/4 = 3 W."
+     },
+     "alternativas": {
+      "A": "12 W",
+      "B": "6 W",
+      "C": "1 W",
+      "D": "24 W",
+      "E": "3 W"
+     },
+     "habilidade": "H21",
+     "id": "enem-efeito-joule-c14-q08",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Efeito Joule, H21"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Watt mede ___ e joule mede ___.",
+     "opcoes": [
+      "potência",
+      "energia",
+      "tensão",
+      "corrente"
+     ],
+     "respostas": [
+      "potência",
+      "energia"
+     ],
+     "explicacao": "A potência indica joules transferidos por segundo."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Com R constante, se a corrente triplica, a potência passa a ___ vezes o valor inicial.",
+     "opcoes": [
+      "nove",
+      "três",
+      "seis",
+      "doze"
+     ],
+     "respostas": [
+      "nove"
+     ],
+     "explicacao": "O quadrado de 3 é 9."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o cálculo do aquecimento útil quando o tempo vem em minutos.",
+     "itens": [
+      "Determinar a potência em watts.",
+      "Converter minutos em segundos.",
+      "Multiplicar potência e tempo para obter energia de entrada.",
+      "Aplicar o rendimento decimal para achar a energia útil."
+     ],
+     "explicacao": "Watt multiplicado por segundo fornece joule."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "U e I",
+       "P = UI"
+      ],
+      [
+       "I e R",
+       "P = I²R"
+      ],
+      [
+       "U e R",
+       "P = U²/R"
+      ],
+      [
+       "P constante e t",
+       "E = Pt"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

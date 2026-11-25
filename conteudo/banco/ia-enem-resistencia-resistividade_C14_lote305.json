@@ -1,0 +1,254 @@
+{
+ "assunto": "Resistência elétrica e resistividade: material, comprimento e seção",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-25",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-resistencia-resistividade-c14",
+   "titulo": "Resistência elétrica e resistividade: material, comprimento e seção",
+   "microconteudo": "RAIO-X DA PROVA: Nos cadernos azuis regulares do Enem de 2021 a 2025, foram identificadas 1 questões relacionadas a este assunto, de um total de 225 em Ciências da Natureza.\n\nPOR QUE IMPORTA:\nDois fios que parecem semelhantes podem oferecer resistências bem diferentes. Nesta lição, você vai descobrir como o material, o comprimento e a espessura mudam a resistência elétrica e como aplicar essa ideia ao ler esquemas e resolver problemas do Enem.\n\nO QUE A BANCA COBRA:\nO enunciado pode comparar fios de mesmo material, pedir o efeito de mudar uma dimensão ou relacionar tensão e comprimento em um fio uniforme. Escreva o que fica constante antes de comparar.\n\nENTENDA:\nUm clube de eletrônica recebe dois fios de cobre do mesmo comprimento. Um é visivelmente mais grosso. Uma colega sugere que a resistência é igual porque ambos são de cobre. O material realmente importa, mas o caminho que a corrente percorre também importa. Se os fios forem uniformes, estiverem à mesma temperatura e tiverem comprimentos iguais, o fio mais grosso oferece menor resistência. A área maior da seção transversal permite distribuir a corrente por uma região maior. Em outro par de fios de mesma espessura, a mudança do comprimento tem o efeito oposto: quanto mais longo o caminho no material uniforme, maior a resistência elétrica entre as extremidades.\n\nA resistência R descreve a relação entre a diferença de potencial e a corrente de um componente em um ponto de operação. Sua unidade é o ohm, representado por Ω. A resistividade, indicada pela letra grega ρ, caracteriza o material nas condições consideradas. No Sistema Internacional, mede-se em Ω·m. Uma peça de determinado material pode ter várias resistências possíveis, pois pode assumir formas e comprimentos distintos. Para um fio uniforme de comprimento L e área de seção transversal A, a relação é R = ρL/A. Pense na seção transversal como a superfície que aparece quando você imagina um corte perpendicular à direção do fio. Essa superfície descreve a espessura por meio de uma área.\n\nVale conferir a dimensão da fórmula. Multiplicamos Ω·m por m e dividimos o resultado por m², obtendo Ω. Um fio hipotético de resistividade 2 × 10⁻⁶ Ω·m tem 3 m de comprimento e área de seção de 2 × 10⁻⁶ m². A resistência é (2 × 10⁻⁶ × 3)/(2 × 10⁻⁶) = 3 Ω. Se a área for informada como 2 mm², o valor é o mesmo: 1 mm corresponde a 10⁻³ m, então 1 mm² corresponde a 10⁻⁶ m². Escrever a conversão ao lado do cálculo evita usar o fator de comprimento diretamente em uma área.\n\nUm exercício de comparação pode dispensar os valores absolutos. Se dois fios têm resistividade e área iguais, um comprimento três vezes maior dá uma resistência três vezes maior. Se os comprimentos e as resistividades são iguais, uma área três vezes maior dá um terço da resistência. Quando todas as grandezas mudam, acompanhe os fatores separadamente. Um fio B tem o dobro da resistividade, o triplo do comprimento e o quádruplo da área de um fio A. Então R de B dividida por R de A vale 2 × 3/4 = 1,5. Você consegue saber que a nova resistência é 50% maior sem escolher valores para o primeiro fio.\n\nJá dobrar o diâmetro de um fio cilíndrico produz mais do que dobrar a área. A seção é um círculo de área πd²/4, em que d é o diâmetro. Se d passa de 1 mm para 2 mm, a área fica quatro vezes maior. Mantidos comprimento e material, a resistência cai a um quarto. Compare agora um fio B com diâmetro duas vezes maior e comprimento também duas vezes maior, em relação a um fio A do mesmo material. A resistência de B vale 2/4 da de A. O resultado é metade. Esse tipo de pergunta testa a diferença entre uma medida linear, como diâmetro, e uma medida quadrática, como área.\n\nEm um fio uniforme, trechos de comprimento igual apresentam resistências iguais, nas mesmas condições. Se você divide no papel um fio de 24 cm em quatro trechos de 6 cm, cada trecho tem um quarto da resistência total. Se a mesma corrente percorre o fio inteiro, essa divisão também reparte a queda de tensão em quatro partes iguais. Sob 12 V entre as extremidades, a queda em cada quarto é 3 V. Um ponto a 18 cm da extremidade escolhida como referência fica a três quartos do comprimento, correspondendo a uma diferença de 9 V em módulo em relação àquela extremidade. A proporcionalidade vale no fio uniforme quando a corrente é comum a todos os trechos analisados.\n\nCortar e religar um fio é um problema diferente de apenas marcar pontos nele. Imagine um fio uniforme de 12 Ω cortado em três partes iguais. Cada parte tem 4 Ω. Em série, elas somam 12 Ω. Em paralelo, cada peça está diretamente entre os mesmos dois nós e as três juntas equivalem a 4/3 Ω. O corte reduziu o comprimento de cada peça e a nova montagem mudou a resistência equivalente depois do corte. Se um enunciado disser que as partes foram reaproveitadas, represente as conexões antes de multiplicar ou dividir. Cortar em três partes e ligar todas de novo pode gerar resultados muito diferentes conforme os terminais estejam ligados.\n\nOutro problema compara um fio antes e depois de ser esticado. Imagine que o volume e a resistividade permaneçam constantes. Como volume é área da seção vezes comprimento, dobrar o comprimento reduz a área à metade. Em R = ρL/A, o numerador dobra e o denominador passa à metade, de modo que a resistência fica quatro vezes maior. Essa conclusão depende das hipóteses: se a área ou a resistividade mudar de maneira diferente, o fator precisa ser calculado novamente. Em um exercício escolar, você pode escrever primeiro L novo = 2L e A nova = A/2. Ao substituir, obtém R nova = ρ(2L)/(A/2) = 4ρL/A.\n\nA resistividade depende de condições físicas, em especial da temperatura. Em muitos metais, ela aumenta à medida que a temperatura sobe, em faixas usuais. Por isso, comparar medições tomadas com um fio frio e outro quente exige cuidado. Se a questão declara mesma temperatura, você pode usar o mesmo valor de ρ para o mesmo material. Uma barra de alumínio e uma de cobre com as mesmas dimensões podem exibir resistências diferentes devido ao material. Se a barra de material mais resistivo for bem mais grossa ou curta, a geometria pode compensar essa diferença. Não use apenas o nome do material para decidir qual peça apresenta a maior resistência quando o enunciado também muda as dimensões.\n\nNa resolução, deixe explícito se o objetivo é a resistência da peça inteira, a de um trecho ou o potencial em algum ponto do circuito. Em seguida, veja se é necessário converter unidade ou apenas calcular um fator. Para verificar, imagine uma alteração de cada vez. Aumentar o caminho mantendo a área aumenta a resistência. Aumentar a área mantendo o caminho reduz a resistência. Trocar para material com maior resistividade, com a mesma geometria, aumenta a resistência. Se dois efeitos se opõem, calcule a razão, como em uma comparação entre dobro do comprimento e triplo da área. Assim você consegue prever o sentido do resultado antes de conferir os números.\n\nUma aplicação desse raciocínio é comparar dois materiais num mesmo ensaio, usando fios com geometrias diferentes. Um fio mede 2 m, tem seção de 1 mm² e oferece 4 Ω. Um segundo mede 4 m, tem seção de 2 mm² e oferece 6 Ω. Nos dois, a razão L/A é igual. Assim, a diferença nas resistências corresponde à diferença de resistividade: a do segundo é 6/4, ou 1,5 vez a do primeiro. Esse atalho funciona porque a geometria foi controlada na comparação. Se as razões geométricas dos dois fios fossem diferentes, seria preciso obter cada resistividade isolando ρ na fórmula: multiplique a resistência pela área e divida pelo comprimento.\n\nTROCANDO EM MIÚDOS:\nImagine dois canudos do mesmo tamanho, um fino e outro grosso. O grosso oferece mais espaço para a passagem. Um fio funciona com outra física, mas a comparação ajuda a lembrar por que uma seção maior diminui sua resistência quando material e comprimento são iguais. Se você aumenta o comprimento mantendo a mesma espessura, aumenta o caminho a percorrer dentro do material, e a resistência fica maior.\n\nO material também faz diferença. Dois fios de mesmo tamanho e forma podem ser fabricados com materiais diferentes. A resistividade é o número que descreve essa característica do material em certas condições. A resistência é o resultado para aquela peça, depois que você também considera seu comprimento e sua área. Use a fórmula com as três informações: resistividade vezes comprimento, dividido pela área do corte do fio.\n\nCuidado com a palavra espessura. Se a questão diz que a área dobrou, a resistência cai à metade quando todo o resto fica igual. Se ela diz que o diâmetro dobrou, é preciso pensar no círculo do corte. Um círculo duas vezes mais largo tem quatro vezes a área. Nesse caso a resistência cai a um quarto. Isso vale para fios cilíndricos, comparados com os mesmos comprimento e material.\n\nEm um fio uniforme percorrido por uma mesma corrente, imagine dez pedaços iguais marcados com caneta. Cada pedaço oferece um décimo da resistência total. Se a tensão de uma ponta à outra vale 20 V, a queda em cada pedaço será 2 V. A marca que está no meio fica a 10 V de diferença em relação a uma ponta. Esse raciocínio ajuda em circuitos com pontos de contato ao longo de um fio. Para acertar a conta, veja de qual ponta o enunciado começa a medir. Se cada metade estiver ligada de forma diferente, examine a corrente em cada caminho antes de repartir a tensão.\n\nLEI SECA:\nR = ρL/A, para condutor uniforme nas condições dadas. Em seção circular, A = πd²/4.\n\nSÚMULAS E TESES:\nCom o mesmo material e a mesma área, R é proporcional a L. Com material e comprimento iguais, R varia com 1/A.\n\nESQUEMA:\nMaterial e temperatura → comprimento → área da seção → resistência → verificar as unidades ou os fatores.\n\nPEGADINHAS:\n1. Usar o diâmetro no lugar da área.\n2. Converter mm² como se fosse mm.\n3. Confundir resistividade do material com resistência da peça.\n4. Ignorar a forma de religação das partes cortadas.\n5. Supor repartição uniforme de tensão quando a corrente muda ao longo dos trechos.\n\nDOUTRINA:\nOpenStax, College Physics 2e, seção 20.3, Resistance and Resistivity.\n\nNA PRÁTICA:\nUm fio de 8 Ω é trocado por outro de mesmo material, com o dobro do comprimento e o dobro do diâmetro. A nova área é quatro vezes maior e a nova resistência fica em 8 × 2/4 = 4 Ω.",
+   "flashcards": [
+    {
+     "frente": "Qual é a unidade de resistência elétrica?",
+     "verso": "Ohm, símbolo Ω.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Resistência elétrica e resistividade"
+    },
+    {
+     "frente": "Qual é a unidade SI da resistividade?",
+     "verso": "Ohm-metro, símbolo Ω·m.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Resistência elétrica e resistividade"
+    },
+    {
+     "frente": "Quanto vale 1 mm² em metros quadrados?",
+     "verso": "10⁻⁶ m².",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Resistência elétrica e resistividade"
+    },
+    {
+     "frente": "Se o diâmetro dobra, por qual fator a área circular aumenta?",
+     "verso": "A área fica quatro vezes maior.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Resistência elétrica e resistividade"
+    },
+    {
+     "frente": "Em fio uniforme, como varia R com L a mesma área?",
+     "verso": "A resistência é diretamente proporcional ao comprimento.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Resistência elétrica e resistividade"
+    },
+    {
+     "frente": "Quando a queda de tensão é proporcional ao comprimento do trecho?",
+     "verso": "Em fio uniforme, se todos os trechos conduzem a mesma corrente.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Resistência elétrica e resistividade"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Fios uniformes do mesmo material têm área igual e estão à mesma temperatura. O segundo tem o dobro do comprimento do primeiro.",
+     "enunciado": "A resistência do segundo é o dobro.",
+     "gabarito": "C",
+     "comentario": "Certo. Mantidos ρ e A, R cresce com L.\n(Fenômenos Elétricos e Magnéticos — Resistência elétrica e resistividade, H17.)",
+     "habilidade": "H17",
+     "id": "enem-resistencia-resistividade-c14-q01",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Resistência elétrica e resistividade, H17"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um fio cilíndrico é substituído por outro com o dobro do diâmetro. Material, temperatura e comprimento são mantidos.",
+     "enunciado": "A resistência cai à metade.",
+     "gabarito": "E",
+     "comentario": "Errado. A área quadruplica, então a resistência cai a um quarto.\n(Fenômenos Elétricos e Magnéticos — Resistência elétrica e resistividade, H17.)",
+     "habilidade": "H17",
+     "id": "enem-resistencia-resistividade-c14-q02",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Resistência elétrica e resistividade, H17"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um fio uniforme de 18 Ω recebe marcas que dividem o comprimento em três partes iguais.",
+     "enunciado": "A resistência entre os limites de um desses trechos vale 6 Ω.",
+     "gabarito": "C",
+     "comentario": "Certo. As partes têm a mesma área e um terço do comprimento total.\n(Fenômenos Elétricos e Magnéticos — Resistência elétrica e resistividade, H17.)",
+     "habilidade": "H17",
+     "id": "enem-resistencia-resistividade-c14-q03",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Resistência elétrica e resistividade, H17"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Dois fios são feitos do mesmo material e mantidos à mesma temperatura, mas têm formas diferentes.",
+     "enunciado": "As resistências devem ser iguais.",
+     "gabarito": "E",
+     "comentario": "Errado. As resistividades são iguais nessas condições. Os valores de L e A ainda precisam ser comparados.\n(Fenômenos Elétricos e Magnéticos — Resistência elétrica e resistividade, H17.)",
+     "habilidade": "H17",
+     "id": "enem-resistencia-resistividade-c14-q04",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Resistência elétrica e resistividade, H17"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um fio de referência tem 6 Ω. Outro, feito do mesmo material, tem o triplo do comprimento e o dobro da área da seção.",
+     "enunciado": "Qual é a resistência do segundo fio, à mesma temperatura?",
+     "gabarito": "C",
+     "comentario": "A) Divide por seis, sem usar corretamente comprimento e área.\nB) Usa o inverso do fator geométrico.\nC) Correta. 6 × 3/2 = 9 Ω.\nD) Dobrar a área por si só reduziria a resistência à metade.\nE) Multiplica os dois fatores, embora a área esteja no denominador.\n(Fenômenos Elétricos e Magnéticos — Resistência elétrica e resistividade, H17.)",
+     "comentarios_por_alternativa": {
+      "A": "Divide por seis, sem usar corretamente comprimento e área.",
+      "B": "Usa o inverso do fator geométrico.",
+      "C": "Correta. 6 × 3/2 = 9 Ω.",
+      "D": "Dobrar a área por si só reduziria a resistência à metade.",
+      "E": "Multiplica os dois fatores, embora a área esteja no denominador."
+     },
+     "alternativas": {
+      "A": "1 Ω",
+      "B": "4 Ω",
+      "C": "9 Ω",
+      "D": "12 Ω",
+      "E": "36 Ω"
+     },
+     "habilidade": "H17",
+     "id": "enem-resistencia-resistividade-c14-q05",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Resistência elétrica e resistividade, H17"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um painel utiliza fio uniforme com 40 cm, submetido a 20 V entre as pontas. A corrente é a mesma ao longo do fio.",
+     "enunciado": "Qual é a diferença de potencial em módulo entre uma ponta e a marca a 10 cm dela?",
+     "gabarito": "A",
+     "comentario": "A) Correta. A marca está a um quarto do comprimento, logo a queda é 20/4 = 5 V.\nB) Corresponderia a um décimo do fio, ou 4 cm.\nC) Corresponderia à metade do fio.\nD) É a diferença entre a marca e a ponta oposta.\nE) É a diferença entre as duas extremidades.\n(Fenômenos Elétricos e Magnéticos — Resistência elétrica e resistividade, H17.)",
+     "comentarios_por_alternativa": {
+      "A": "Correta. A marca está a um quarto do comprimento, logo a queda é 20/4 = 5 V.",
+      "B": "Corresponderia a um décimo do fio, ou 4 cm.",
+      "C": "Corresponderia à metade do fio.",
+      "D": "É a diferença entre a marca e a ponta oposta.",
+      "E": "É a diferença entre as duas extremidades."
+     },
+     "alternativas": {
+      "A": "5 V",
+      "B": "2 V",
+      "C": "10 V",
+      "D": "15 V",
+      "E": "20 V"
+     },
+     "habilidade": "H17",
+     "id": "enem-resistencia-resistividade-c14-q06",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Resistência elétrica e resistividade, H17"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um fio de 9 Ω é cortado em três partes iguais. Cada parte liga diretamente os mesmos dois terminais em uma nova montagem.",
+     "enunciado": "Qual é a resistência equivalente?",
+     "gabarito": "D",
+     "comentario": "A) Multiplica a resistência inicial por três.\nB) É o valor obtido ao reunir as partes em série.\nC) É a resistência de cada parte isolada.\nD) Correta. Três partes de 3 Ω em paralelo equivalem a 3/3 = 1 Ω.\nE) Seria o equivalente de três resistores de 1 Ω em paralelo.\n(Fenômenos Elétricos e Magnéticos — Resistência elétrica e resistividade, H21.)",
+     "comentarios_por_alternativa": {
+      "A": "Multiplica a resistência inicial por três.",
+      "B": "É o valor obtido ao reunir as partes em série.",
+      "C": "É a resistência de cada parte isolada.",
+      "D": "Correta. Três partes de 3 Ω em paralelo equivalem a 3/3 = 1 Ω.",
+      "E": "Seria o equivalente de três resistores de 1 Ω em paralelo."
+     },
+     "alternativas": {
+      "A": "27 Ω",
+      "B": "9 Ω",
+      "C": "3 Ω",
+      "D": "1 Ω",
+      "E": "1/3 Ω"
+     },
+     "habilidade": "H21",
+     "id": "enem-resistencia-resistividade-c14-q07",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Resistência elétrica e resistividade, H21"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um fio uniforme é alongado até ter o dobro do comprimento, com volume e resistividade constantes.",
+     "enunciado": "Por qual fator é multiplicada a resistência inicial?",
+     "gabarito": "B",
+     "comentario": "A) Considera apenas a mudança no comprimento.\nB) Correta. O comprimento dobra e a área cai à metade, dando fator 2/(1/2) = 4.\nC) A conservação do volume não conserva L/A.\nD) Trata o comprimento maior como redução de resistência.\nE) Inverte o fator que resulta dos dois efeitos.\n(Fenômenos Elétricos e Magnéticos — Resistência elétrica e resistividade, H21.)",
+     "comentarios_por_alternativa": {
+      "A": "Considera apenas a mudança no comprimento.",
+      "B": "Correta. O comprimento dobra e a área cai à metade, dando fator 2/(1/2) = 4.",
+      "C": "A conservação do volume não conserva L/A.",
+      "D": "Trata o comprimento maior como redução de resistência.",
+      "E": "Inverte o fator que resulta dos dois efeitos."
+     },
+     "alternativas": {
+      "A": "2",
+      "B": "4",
+      "C": "1",
+      "D": "1/2",
+      "E": "1/4"
+     },
+     "habilidade": "H21",
+     "id": "enem-resistencia-resistividade-c14-q08",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Resistência elétrica e resistividade, H21"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Na fórmula R = ρL/A, ρ é a ___ e A é a ___.",
+     "opcoes": [
+      "resistividade",
+      "área da seção",
+      "tensão",
+      "potência"
+     ],
+     "respostas": [
+      "resistividade",
+      "área da seção"
+     ],
+     "explicacao": "A fórmula combina uma propriedade do material e duas medidas geométricas."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Ao dobrar o diâmetro circular, a área fica ___ vezes maior.",
+     "opcoes": [
+      "quatro",
+      "duas",
+      "oito",
+      "uma"
+     ],
+     "respostas": [
+      "quatro"
+     ],
+     "explicacao": "O diâmetro aparece elevado ao quadrado."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o cálculo da resistência de um fio cujo diâmetro foi dado em milímetros.",
+     "itens": [
+      "Converter o diâmetro para metros.",
+      "Calcular a área circular da seção.",
+      "Multiplicar a resistividade pelo comprimento em metros.",
+      "Dividir o produto pela área em metros quadrados."
+     ],
+     "explicacao": "O cálculo deve conservar unidades consistentes."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Ω",
+       "Resistência"
+      ],
+      [
+       "Ω·m",
+       "Resistividade"
+      ],
+      [
+       "m²",
+       "Área de seção"
+      ],
+      [
+       "πd²/4",
+       "Área de seção circular"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
