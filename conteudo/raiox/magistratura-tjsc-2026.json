@@ -1,7 +1,7 @@
 {
  "edital": "",
  "titulo": "Juiz Substituto — TJSC 2026",
- "atualizado_em": "2026-11-24",
+ "atualizado_em": "2026-11-25",
  "situacao": "Edital retificado nº 33/2026; inscrições até 26/11/2026, às 16h (horário de Brasília).",
  "banca": "FGV",
  "mensagem_inicial": "O concurso prevê 15 vagas imediatas, além de cadastro de reserva, e tem cinco etapas sucessivas. A prova objetiva seletiva está prevista para 31/01/2027; acompanhe as publicações oficiais da FGV e do TJSC para eventuais atualizações.",
@@ -43,11 +43,73 @@
   }
  ],
  "formato_banca": {
-  "perfil": null,
-  "extensao": null,
-  "tipo": "Primeira etapa: prova objetiva seletiva com 100 questões de múltipla escolha, cinco alternativas, divididas em três blocos de 40, 30 e 30 questões. O concurso também prevê provas escritas (discursiva e sentenças), avaliação eliminatória de inscrição definitiva, prova oral e avaliação de títulos."
+  "perfil": "A prova objetiva combina interpretação de casos concretos com domínio de legislação, categorias jurídicas e jurisprudência. Nas provas escritas, o concurso também exige elaboração discursiva e de sentenças.",
+  "extensao": "A objetiva tem 100 questões de cinco alternativas em cinco horas, organizadas em três blocos. Os enunciados variam de formulações diretas a casos com vários fatos, datas e personagens.",
+  "tipo": "Prova objetiva seletiva com 100 questões, cinco alternativas e três blocos (40/30/30). O concurso também prevê provas discursiva e de sentenças cível e criminal, prova oral e avaliação de títulos.",
+  "tipos_questao": "Há casos práticos com dados fáticos relevantes, questões diretas sobre institutos e itens que apresentam assertivas para combinação. Os cadernos também trazem perguntas que exigem aplicar jurisprudência do STF ou STJ a uma situação concreta.",
+  "como_cobra": "A resolução costuma exigir identificar o regime jurídico aplicável e testar a consequência concreta, inclusive prazos, competência, legitimidade, efeitos e exceções. A legislação aparece articulada com precedentes, especialmente em temas processuais, penais, constitucionais e de direito público.",
+  "aprofunda": "Os cadernos evidenciam tratamento analítico de Civil e Processo Civil, Penal e Processo Penal, Constitucional e Administrativo, com situações que cruzam institutos e jurisprudência. Também há questões específicas de ECA, Consumidor, Empresarial, Tributário, Ambiental, Eleitoral e Direitos Humanos.",
+  "nao_aprofunda": "Não há base para considerar matéria do edital dispensável ou sistematicamente superficial. Mesmo quando a pergunta é curta, ela pode depender da distinção precisa entre regra, exceção e efeito jurídico.",
+  "pegadinhas": "Atenção a mudanças de um fato, data, sujeito ou fase processual que alteram a solução; à diferença entre regra geral e exceção; e à competência, prazos, legitimidade e efeitos dos precedentes. Em questões com assertivas, confira cada proposição separadamente antes de escolher a combinação."
  },
- "temas_preferidos": [],
+ "temas_preferidos": [
+  {
+   "tema": "Direito Civil: negócios jurídicos, contratos, obrigações, responsabilidade civil, família e sucessões",
+   "peso": "alta"
+  },
+  {
+   "tema": "Processo Civil: competência, partes, intervenção de terceiros, tutelas, recursos, execução e procedimentos especiais",
+   "peso": "alta"
+  },
+  {
+   "tema": "Direito do Consumidor: responsabilidade, contratos bancários, serviços, tutela coletiva e superendividamento",
+   "peso": "alta"
+  },
+  {
+   "tema": "ECA: proteção integral, adoção, medidas socioeducativas e infrações administrativas",
+   "peso": "alta"
+  },
+  {
+   "tema": "Direito Penal: tipicidade, concurso de pessoas, ilicitude, culpabilidade, penas e dosimetria",
+   "peso": "alta"
+  },
+  {
+   "tema": "Processo Penal: investigação, cautelares, prova, competência, recursos, júri e colaboração premiada",
+   "peso": "alta"
+  },
+  {
+   "tema": "Direito Constitucional: competências federativas, direitos fundamentais, controle de constitucionalidade e organização do Estado",
+   "peso": "alta"
+  },
+  {
+   "tema": "Direito Administrativo: agentes públicos, improbidade, licitações e contratos, serviços, responsabilidade e controle",
+   "peso": "alta"
+  },
+  {
+   "tema": "Direito Empresarial: sociedades, títulos de crédito, debêntures, recuperação judicial e insolvência",
+   "peso": "alta"
+  },
+  {
+   "tema": "Direito Tributário e Financeiro: competências, impostos, repartição de receitas, processo tributário e execução fiscal",
+   "peso": "alta"
+  },
+  {
+   "tema": "Direito Ambiental: licenciamento, responsabilidade, proteção de biomas, CAR/PRA e sanções",
+   "peso": "média"
+  },
+  {
+   "tema": "Direito Eleitoral: registro de candidaturas, eleições, cotas de gênero, prestação de contas e inelegibilidades",
+   "peso": "média"
+  },
+  {
+   "tema": "Direitos Humanos e antidiscriminação: sistemas de proteção, acessibilidade, igualdade e controle de convencionalidade",
+   "peso": "média"
+  },
+  {
+   "tema": "Organização judiciária e magistratura: promoção, disciplina, estrutura dos tribunais e administração da Justiça",
+   "peso": "média"
+  }
+ ],
  "fases": [
   {
    "fase": "I — Prova objetiva seletiva",
@@ -76,6 +138,82 @@
   "Demanda por vaga — TJSC 2024, FGV: https://conhecimento.fgv.br/sites/default/files/concursos/116-tjsc-demandavaga_0.pdf.",
   "Demanda por vaga — TJSC 2025, FGV: https://conhecimento.fgv.br/sites/default/files/concursos/118_tjsc_juizsubstituto_demandavaga_definitivo-002.pdf.",
   "Portal da Transparência do TJSC/Thema: https://tjsc.thema.inf.br/rhsysportaltransp/#!/relacaoservidoresmes.",
-  "Notícia oficial TJSC sobre inscritos em 2024: https://www.tjsc.jus.br/web/imprensa/-/tjsc-divulga-gabarito-da-prova-objetiva-do-concurso-da-magistratura-."
- ]
+  "Notícia oficial TJSC sobre inscritos em 2024: https://www.tjsc.jus.br/web/imprensa/-/tjsc-divulga-gabarito-da-prova-objetiva-do-concurso-da-magistratura-.",
+  "Edital retificado TJSC nº 33/2026, itens 4, 6–8 (reservas, requisitos PcD, heteroidentificação e documentos): https://conhecimento.fgv.br/sites/default/files/concursos/edital-n-33-2026-edital-de-abertura-retificado.pdf (consulta em 2026-11-25).",
+  "TJSC/FGV 2024, Edital nº 44/2024, itens 4 e 13.3.4: https://conhecimento.fgv.br/sites/default/files/concursos/edital-n.-44-2024-abertura-concurso-magistratura.pdf (consulta em 2026-11-25).",
+  "TJSC/FGV 2024, demanda geral: https://conhecimento.fgv.br/sites/default/files/concursos/116-tjsc-demandavaga_0.pdf; listas definitivas negros https://conhecimento.fgv.br/sites/default/files/concursos/116-tjsc-definitivo-negro_03-10-2024.pdf, indígenas https://conhecimento.fgv.br/sites/default/files/concursos/116-tjsc-definitivo-indigena_0.pdf, PcD deferidos https://conhecimento.fgv.br/sites/default/files/concursos/116-tjsc-definitivo-pcd-deferido_0.pdf e indeferidos https://conhecimento.fgv.br/sites/default/files/concursos/116-tjsc-definitivo-pcd-indeferido_0.pdf; resultado objetivo https://conhecimento.fgv.br/sites/default/files/concursos/116-tjsc-resultado-definitivo-prova-objetiva.pdf (consulta em 2026-11-25).",
+  "TJSC/FGV 2025, Edital nº 11/2025, itens 4, 6–8 e 13.3.4: https://conhecimento.fgv.br/sites/default/files/concursos/edital-n.-11-2025-edital-de-abertura-1aretificacao.pdf (consulta em 2026-11-25).",
+  "TJSC/FGV 2025, demanda geral: https://conhecimento.fgv.br/sites/default/files/concursos/118_tjsc_juizsubstituto_demandavaga_definitivo-002.pdf; listas definitivas negros https://conhecimento.fgv.br/sites/default/files/concursos/118_tjsc_juizsubstituto_definitivo_negro.pdf, indígenas https://conhecimento.fgv.br/sites/default/files/concursos/118_tjsc_juizsubstituto_definitivo_indigena.pdf, PcD deferidos https://conhecimento.fgv.br/sites/default/files/concursos/118_tjsc_juizsubstituto_definitivo_pcd_deferido.pdf e indeferidos https://conhecimento.fgv.br/sites/default/files/concursos/118_tjsc_juizsubstituto_definitivo_pcd_indeferido.pdf; resultado objetivo https://conhecimento.fgv.br/sites/default/files/concursos/resultado-definitivo-da-prova-objetiva-ed.-11-2025-magis.pdf (consulta em 2026-11-25).",
+  "Resolução CNJ nº 203/2015, texto consolidado: https://atos.cnj.jus.br/atos/detalhar/2203; Resolução CNJ nº 512/2023: https://atos.cnj.jus.br/atos/detalhar/5138; Resolução CNJ nº 541/2023: https://atos.cnj.jus.br/atos/detalhar/5175; Resolução CNJ nº 75/2009: https://atos.cnj.jus.br/atos/detalhar/100 (consultas em 2026-11-25)."
+ ],
+ "cotas": {
+  "reservas": [
+   {
+    "modalidade": "Pessoas pretas e pardas",
+    "percentual": "25%",
+    "vagas": "4"
+   },
+   {
+    "modalidade": "Indígenas",
+    "percentual": "3%",
+    "vagas": "1"
+   },
+   {
+    "modalidade": "Quilombolas",
+    "percentual": "2%",
+    "vagas": "Cadastro de reserva"
+   },
+   {
+    "modalidade": "Pessoas com deficiência (PcD)",
+    "percentual": "5%",
+    "vagas": "1"
+   }
+  ],
+  "historico": [
+   {
+    "ano": "2024",
+    "modalidade": "Pessoas pretas e pardas",
+    "inscritos": "661 na lista definitiva de inscritos da FGV",
+    "nota_corte": "6,0: mínimo editalício para cotistas avançarem à etapa seguinte; o resultado objetivo inclui aprovados negros com 6,0",
+    "relacao": "165,25 candidatos por vaga reservada (661/4)"
+   },
+   {
+    "ano": "2024",
+    "modalidade": "Indígenas",
+    "inscritos": "6 na lista definitiva da FGV",
+    "nota_corte": "6,0: mínimo editalício de avanço; não foi identificado corte empírico específico da modalidade na lista pública de resultados",
+    "relacao": "6,00 candidatos por vaga reservada (6/1)"
+   },
+   {
+    "ano": "2024",
+    "modalidade": "Pessoas com deficiência (PcD)",
+    "inscritos": "183 pedidos deferidos; 3 indeferidos (186 pedidos analisados)",
+    "nota_corte": "6,0: mínimo editalício para cotistas avançarem; o resultado objetivo inclui aprovados PcD com 6,0",
+    "relacao": "183,00 candidatos deferidos por vaga reservada (183/1)"
+   },
+   {
+    "ano": "2025",
+    "modalidade": "Pessoas pretas e pardas",
+    "inscritos": "495 na lista definitiva de manifestações de interesse da FGV",
+    "nota_corte": "6,0: mínimo editalício para cotistas avançarem à etapa seguinte; o resultado objetivo inclui aprovados negros com 6,0",
+    "relacao": "123,75 candidatos por vaga reservada (495/4)"
+   },
+   {
+    "ano": "2025",
+    "modalidade": "Indígenas",
+    "inscritos": "3 na lista definitiva da FGV",
+    "nota_corte": "6,0: mínimo editalício de avanço; não foi identificado corte empírico específico da modalidade na lista pública de resultados",
+    "relacao": "3,00 candidatos por vaga reservada (3/1)"
+   },
+   {
+    "ano": "2025",
+    "modalidade": "Pessoas com deficiência (PcD)",
+    "inscritos": "150 pedidos deferidos; 37 indeferidos (187 pedidos analisados)",
+    "nota_corte": "6,0: mínimo editalício para cotistas avançarem; o resultado objetivo inclui aprovados PcD com 6,0",
+    "relacao": "150,00 candidatos deferidos por vaga reservada (150/1)"
+   }
+  ],
+  "procedimento": "A opção pela modalidade deve ser marcada na inscrição preliminar, de 19/10/2026, 16h, a 26/11/2026, 16h (Brasília). PcD: enviar atestado/laudo assinado, com registro profissional, PDF/JPEG/JPG até 5 MB, com os dados clínicos exigidos no edital; recurso contra indeferimento em 2 dias úteis e avaliação multiprofissional no exame de sanidade física e mental. Pessoas pretas e pardas passam por heteroidentificação fenotípica na inscrição definitiva, com recurso em 2 dias úteis; indígenas passam por comissão e apresentam declaração assinada por ao menos 3 integrantes indígenas da etnia; quilombolas passam por verificação documental, com declaração de 3 lideranças da comunidade e certificação da Fundação Cultural Palmares. A confirmação e os demais documentos seguem os itens 6–8 do edital retificado nº 33/2026.",
+  "base_legal": "Edital retificado TJSC nº 33/2026, itens 4, 6–8; CF, art. 37, VIII; Resoluções CNJ nº 203/2015 (texto vigente e alterações), 75/2009, 512/2023, 541/2023 e 657/2025; Lei nº 13.146/2015; Lei estadual SC nº 17.292/2017; Decreto nº 4.887/2003. Aplicar sempre a redação vigente do edital e das normas."
+ }
 }

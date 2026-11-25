@@ -1,7 +1,7 @@
 {
  "edital": "cp-rpps-cginv-3",
  "titulo": "Certificação Profissional dos Profissionais dos RPPS — CGINV III (Avançado)",
- "atualizado_em": "2026-11-24",
+ "atualizado_em": "2026-11-25",
  "situacao": "Certificação profissional disponível por entidades credenciadas; o calendário de aplicação, agendamento e preço dependem da entidade certificadora e da modalidade escolhida.",
  "banca": "ABIPEM, APIMEC Brasil e Instituto Totum (entidades com modalidade de exame CPR/CPT indicada na Portaria SRPC/MPS nº 607/2026).",
  "mensagem_inicial": "A CGINV III é a certificação de nível avançado para profissionais de RPPS. O exame tem 80 questões e exige pelo menos 56 acertos; a certificação tem validade máxima de quatro anos. O nível aplicável depende da função e das regras do RPPS: CGINV III não é requisito universal para todo membro de comitê ou conselho.",
@@ -24,15 +24,14 @@
  "concorrencia_atual": null,
  "concorrencia_historico": [],
  "formato_banca": {
-  "perfil": null,
-  "extensao": null,
+  "perfil": "O exame é aplicado por entidade certificadora credenciada, não por uma única banca nacional. O Manual fixa o formato objetivo e exige cobertura do programa conforme a distribuição oficial de questões.",
+  "extensao": "São 80 questões de múltipla escolha, com quatro alternativas e igual valor, duração mínima de 3h30 e aprovação com pelo menos 56 acertos (70%).",
   "tipo": "Prova objetiva de múltipla escolha com 80 questões, quatro alternativas por questão e uma resposta correta. As questões têm igual valor; aprovação com pelo menos 70% de acertos (56 questões). Tempo mínimo de prova: 3h30. Validade máxima da certificação: quatro anos contados da emissão.",
-  "questoes": 80,
-  "alternativas_por_questao": 4,
-  "acertos_minimos": 56,
-  "nota_minima_percentual": 70,
-  "tempo_minimo": "3h30",
-  "validade": "Até quatro anos contados da data de emissão."
+  "tipos_questao": "A regra oficial informa múltipla escolha com quatro alternativas, mas não fornece cadernos históricos para caracterizar modelos de enunciado. O programa combina normas de RPPS e investimentos, economia, produtos financeiros, cálculos, carteiras, desempenho e riscos.",
+  "como_cobra": "A distribuição do Anexo III-C reserva questões para todas as 14 áreas do conteúdo programático. O maior bloco oficial é Fundos de Investimentos; os demais pesos variam conforme a tabela do Manual.",
+  "aprofunda": "O programa destina 14 questões a Fundos de Investimentos e 8 a Instrumentos de Renda Fixa, Renda Variável e Derivativos. Também prevê blocos expressivos de Teoria Moderna das Carteiras e Alocação de Ativos (7 cada), além de Avaliação de Desempenho e Gestão de Risco (6 cada).",
+  "nao_aprofunda": "Nenhuma área pode ser tratada como dispensável: o Manual prevê cobertura integral do programa. As seções com menor número de questões têm menor peso na distribuição, mas continuam cobradas.",
+  "pegadinhas": "Não há amostra histórica oficial que permita afirmar quais armadilhas se repetem. Como estratégia, diferencie atribuições dos órgãos e agentes, regras e limites de investimento, características dos produtos, medidas de risco e fórmulas financeiras; confira as premissas de cada situação."
  },
  "certificadoras": [
   {
@@ -86,7 +85,64 @@
   "regra_de_nivel": "A certificação profissional e o nível exigível dependem da função, das exigências normativas aplicáveis ao RPPS e da faixa pertinente. A Orientação MPS nº 1/2026 gradua especificamente a certificação do responsável pela gestão das aplicações, para fins de CRP, em básico até R$ 10 milhões, intermediário acima de R$ 10 milhões até R$ 500 milhões e avançado acima de R$ 500 milhões. Essa tabela específica não deve ser automaticamente estendida a todos os membros do comitê ou dos conselhos.",
   "conclusao": "O art. 76 prevê certificação profissional para as funções nele abrangidas, mas não torna CGINV III obrigatório para todo profissional. A exigência de nível avançado deve ser apurada conforme função e critério aplicável ao RPPS."
  },
- "temas_preferidos": [],
+ "temas_preferidos": [
+  {
+   "tema": "Regimes Próprios de Previdência Social (RPPS) — 4 questões na distribuição programática oficial do Anexo III-C",
+   "peso": "média"
+  },
+  {
+   "tema": "Gestão Atuarial — 4 questões na distribuição programática oficial do Anexo III-C",
+   "peso": "média"
+  },
+  {
+   "tema": "Certificação Institucional/Pró-Gestão, requisitos de dirigentes e conselheiros e ISP-RPPS — 5 questões na distribuição programática oficial do Anexo III-C",
+   "peso": "média"
+  },
+  {
+   "tema": "Controle, regulação, supervisão e fiscalização — 2 questões na distribuição programática oficial do Anexo III-C",
+   "peso": "média"
+  },
+  {
+   "tema": "Compliance e Ética — 2 questões na distribuição programática oficial do Anexo III-C",
+   "peso": "média"
+  },
+  {
+   "tema": "Noções Básicas de Economia — 5 questões na distribuição programática oficial do Anexo III-C",
+   "peso": "média"
+  },
+  {
+   "tema": "Legislação específica dos investimentos do RPPS — 5 questões na distribuição programática oficial do Anexo III-C",
+   "peso": "média"
+  },
+  {
+   "tema": "Instrumentos de Renda Fixa, Renda Variável e Derivativos — 8 questões na distribuição programática oficial do Anexo III-C",
+   "peso": "alta"
+  },
+  {
+   "tema": "Fundos de Investimentos — 14 questões na distribuição programática oficial do Anexo III-C",
+   "peso": "altíssima"
+  },
+  {
+   "tema": "Conhecimentos Básicos de Finanças — 5 questões na distribuição programática oficial do Anexo III-C",
+   "peso": "média"
+  },
+  {
+   "tema": "Teoria Moderna das Carteiras — 7 questões na distribuição programática oficial do Anexo III-C",
+   "peso": "alta"
+  },
+  {
+   "tema": "Alocação de Ativos — 7 questões na distribuição programática oficial do Anexo III-C",
+   "peso": "alta"
+  },
+  {
+   "tema": "Avaliação de Desempenho — 6 questões na distribuição programática oficial do Anexo III-C",
+   "peso": "alta"
+  },
+  {
+   "tema": "Gestão de Risco — 6 questões na distribuição programática oficial do Anexo III-C",
+   "peso": "alta"
+  }
+ ],
  "fases": [
   {
    "fase": "Exame de certificação profissional",

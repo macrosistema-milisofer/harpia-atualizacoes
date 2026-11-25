@@ -1,7 +1,7 @@
 {
  "edital": "",
  "titulo": "Exame Nacional do Ensino Médio — ENEM 2026",
- "atualizado_em": "2026-11-24",
+ "atualizado_em": "2026-11-25",
  "situacao": "Aplicação regular concluída; reaplicação prevista para 15 e 16/12/2026; resultado previsto para 18/01/2027, conforme notícia oficial do INEP.",
  "banca": "INEP/MEC",
  "mensagem_inicial": "O ENEM reúne quatro provas objetivas de 45 questões cada e uma redação. A nota das provas objetivas é calculada pela TRI: o total de acertos, isoladamente, não determina a pontuação, pois também importa o padrão de respostas.",
@@ -79,9 +79,14 @@
   }
  ],
  "formato_banca": {
-  "perfil": null,
-  "extensao": null,
-  "tipo": "Quatro provas objetivas de múltipla escolha, com 45 questões cada (180 questões no total), e redação em Língua Portuguesa. No primeiro dia são aplicadas Linguagens, Ciências Humanas e redação, em 5h30; no segundo dia, Ciências da Natureza e Matemática, em 5h. Horário oficial: início às 13h30; término às 19h no primeiro dia e às 18h30 no segundo."
+  "perfil": "O exame avalia competências e habilidades em quatro áreas, além da redação, por meio de situações contextualizadas e leitura de diferentes linguagens. A resolução exige selecionar informações relevantes e aplicar conhecimentos ao contexto apresentado.",
+  "extensao": "São 180 questões objetivas distribuídas em dois dias e uma redação no primeiro dia. Os cadernos combinam textos, imagens, gráficos, mapas, tabelas, esquemas e situações-problema.",
+  "tipo": "Quatro provas objetivas de múltipla escolha, com 45 questões cada (180 questões no total), e redação em Língua Portuguesa. No primeiro dia são aplicadas Linguagens, Ciências Humanas e redação, em 5h30; no segundo dia, Ciências da Natureza e Matemática, em 5h. O horário oficial de início é 13h30; o término é às 19h no primeiro dia e às 18h30 no segundo.",
+  "tipos_questao": "As questões são de múltipla escolha e frequentemente se apoiam em textos, dados, imagens, gráficos, mapas ou esquemas. Os itens mobilizam leitura e aplicação de conhecimentos, com alternativas que exigem avaliar consequências, relações e evidências.",
+  "como_cobra": "A Matriz do INEP organiza a avaliação por competências e habilidades; não fixa uma lista anual de assuntos nem pesos numéricos por tema. No caderno de 2025 foram observadas tarefas de interpretação, análise de dados e aplicação de conceitos a contextos sociais, científicos e matemáticos.",
+  "aprofunda": "O exame explora a integração entre informação e contexto: leitura crítica em Linguagens, relações históricas e socioespaciais em Humanas, interpretação de fenômenos e dados em Natureza e modelagem/quantificação em Matemática. A redação é avaliada pelas cinco competências oficiais do INEP.",
+  "nao_aprofunda": "A Matriz não declara temas dispensáveis nem atribui pesos numéricos a cada assunto. A lista de temas abaixo registra observações do caderno regular de 2025 e não deve ser lida como ranking histórico ou previsão de incidência.",
+  "pegadinhas": "Leia o comando e o material de apoio em conjunto: uma alternativa pode repetir um dado, mas não responder ao que foi perguntado. Confira unidade, escala, legenda, condição do problema e limites da inferência antes de escolher a opção."
  },
  "estrutura": {
   "provas_objetivas": 4,
@@ -105,7 +110,68 @@
   "interpretacao": "A nota não corresponde a uma conversão linear da quantidade de acertos. O padrão de respostas do participante é considerado; participantes com o mesmo número de acertos podem obter notas diferentes.",
   "fonte": "INEP, Guia do Participante e Nota Técnica da TRI, URLs listadas em fontes."
  },
- "temas_preferidos": [],
+ "temas_preferidos": [
+  {
+   "tema": "Linguagens — leitura, interpretação, gêneros textuais e efeitos de sentido em textos verbais e multimodais (observado em 2025)",
+   "peso": "alta"
+  },
+  {
+   "tema": "Linguagens — literatura, artes, música e referências culturais brasileiras (observado em 2025)",
+   "peso": "média"
+  },
+  {
+   "tema": "Linguagens — língua, identidade, variação linguística, cultura indígena e afro-brasileira (observado em 2025)",
+   "peso": "alta"
+  },
+  {
+   "tema": "Linguagens — leitura em língua estrangeira e compreensão contextual (observado em 2025)",
+   "peso": "média"
+  },
+  {
+   "tema": "Ciências Humanas — cidadania, democracia, direitos, Estado e pensamento político (observado em 2025)",
+   "peso": "alta"
+  },
+  {
+   "tema": "Ciências Humanas — história do Brasil, formação social, memória e patrimônio cultural (observado em 2025)",
+   "peso": "alta"
+  },
+  {
+   "tema": "Ciências Humanas — desigualdades, gênero, raça, povos indígenas, trabalho e relações sociais (observado em 2025)",
+   "peso": "alta"
+  },
+  {
+   "tema": "Ciências Humanas — território, urbanização, cartografia, ambiente, energia e sustentabilidade (observado em 2025)",
+   "peso": "alta"
+  },
+  {
+   "tema": "Ciências da Natureza — ecologia, clima, biodiversidade e impactos ambientais (observado em 2025)",
+   "peso": "alta"
+  },
+  {
+   "tema": "Ciências da Natureza — biologia, genética, fisiologia, saúde e biotecnologia (observado em 2025)",
+   "peso": "alta"
+  },
+  {
+   "tema": "Ciências da Natureza — química, materiais, substâncias, reações e processos (observado em 2025)",
+   "peso": "média"
+  },
+  {
+   "tema": "Ciências da Natureza — física: mecânica, energia, eletricidade, ondas, óptica e fenômenos térmicos (observado em 2025)",
+   "peso": "alta"
+  },
+  {
+   "tema": "Matemática — proporcionalidade, porcentagem, razões, taxas, grandezas e conversão de unidades (observado em 2025)",
+   "peso": "alta"
+  },
+  {
+   "tema": "Matemática — estatística, leitura de gráficos e tabelas, medidas-resumo e probabilidade (observado em 2025)",
+   "peso": "alta"
+  },
+  {
+   "tema": "Matemática — geometria, medidas, área, volume e visualização espacial (observado em 2025)",
+   "peso": "alta"
+  }
+ ],
  "fases": [
   {
    "fase": "1º dia — aplicação regular",
@@ -126,6 +192,7 @@
   "Retificação de 10/11/2026 — solicitação e datas da reaplicação: https://mecnormas.mec.gov.br/pesquisa/detalhar/15959.",
   "Balanço oficial do segundo dia do ENEM 2026 — série de inscrições confirmadas, com 2026 marcado como preliminar: https://download.inep.gov.br/enem/outros_documentos/enem_2026_balanco_da_aplicacao_segundo_dia.pdf.",
   "INEP, Guia do Participante — Entenda sua nota no ENEM: https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/entenda_a_sua_nota_no_enem_guia_do_participante.pdf.",
-  "INEP, Nota Técnica da Teoria de Resposta ao Item: https://download.inep.gov.br/educacao_basica/enem/nota_tecnica/2011/nota_tecnica_tri.pdf."
+  "INEP, Nota Técnica da Teoria de Resposta ao Item: https://download.inep.gov.br/educacao_basica/enem/nota_tecnica/2011/nota_tecnica_tri.pdf.",
+  "Cadernos oficiais ENEM 2025 usados para observação temática, D1 azul caderno 1 e D2 amarelo caderno 5: https://download.inep.gov.br/enem/provas_e_gabaritos/2025_PV_impresso_D1_CD1.pdf e https://download.inep.gov.br/enem/provas_e_gabaritos/2025_PV_impresso_D2_CD5.pdf."
  ]
 }
