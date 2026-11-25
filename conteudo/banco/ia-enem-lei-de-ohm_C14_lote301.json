@@ -1,0 +1,253 @@
+{
+ "assunto": "Lei de Ohm: tensão, corrente e gráficos",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-25",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-lei-de-ohm-c14",
+   "titulo": "Lei de Ohm: tensão, corrente e gráficos",
+   "microconteudo": "RAIO-X DA PROVA: Nos cadernos azuis regulares do Enem de 2021 a 2025, foram identificadas 3 questões relacionadas a este assunto, de um total de 225 em Ciências da Natureza.\n\nPOR QUE IMPORTA:\nVocê pode usar tensão e corrente para descobrir o que acontece dentro de um componente elétrico. No Enem, grandezas elétricas aparecem em situações como lanternas, aparelhos e modelos de trânsito. Aqui você vai calcular valores, ler o gráfico de um resistor e reconhecer quando a proporcionalidade funciona.\n\nO QUE A BANCA COBRA:\nA questão pode fornecer uma tabela, um gráfico ou dados de funcionamento. Identifique a grandeza desconhecida, leia as unidades e verifique se o componente pode ser tratado como ôhmico nas condições indicadas.\n\nENTENDA:\nUma equipe de robótica testa um componente com duas tensões. A 2 V, ela mede 10 mA. A 4 V, mede 20 mA. A corrente dobrou junto com a tensão. Esse é um primeiro sinal de comportamento ôhmico. Calcule a razão entre as duas grandezas nas duas condições: 2 V ÷ 0,010 A = 200 Ω e 4 V ÷ 0,020 A = 200 Ω. Se o comportamento se mantiver na faixa em estudo, o componente pode ser modelado por um resistor de 200 Ω. A 6 V, a corrente prevista será 30 mA. A previsão depende da condição do modelo, e isso importa tanto quanto a conta.\n\nA tensão U é a diferença de potencial entre dois pontos. Uma diferença de 1 V corresponde a 1 J por coulomb de carga. A corrente I informa quanto de carga atravessa uma seção em certo intervalo de tempo. Uma corrente constante de 1 A corresponde à passagem de 1 C por segundo. A resistência R, medida em ohms, relaciona tensão e corrente. Em um resistor ôhmico, o valor de R permanece constante nas condições do problema, de modo que U = R × I. A unidade 1 Ω equivale a 1 V/A. Ao escrever a equação, identifique os terminais do componente: U é a tensão medida entre eles, e I é a corrente que atravessa o próprio componente.\n\nAs três formas da relação resolvem perguntas diferentes. Se um resistor de 300 Ω conduz 20 mA, a tensão é 300 × 0,020 = 6 V. Se há 6 V sobre um resistor de 150 Ω, a corrente é 6 ÷ 150 = 0,040 A ou 40 mA. Se uma tensão de 6 V produz 15 mA em um componente considerado ôhmico, a resistência é 6 ÷ 0,015 = 400 Ω. Em cada conta, escreva pelo menos uma conversão. Isso evita que um resultado em ampères seja apresentado com o número correspondente em miliampères. Uma conferência rápida também ajuda: se R é grande e U é baixa, uma corrente muito grande deve chamar atenção.\n\nAs abreviações das unidades mudam o valor representado por um número. Um miliampère vale um milésimo de ampère, então 5 mA equivalem a 0,005 A. Um quilo-ohm vale mil ohms, então 2,4 kΩ equivalem a 2.400 Ω. As duas escalas também podem trabalhar juntas: 1 kΩ × 1 mA = 1 V, pois os fatores mil e um milésimo se cancelam. Isso permite calcular de cabeça que um resistor de 2,4 kΩ percorrido por 2 mA tem uma queda de 4,8 V. Quando uma alternativa vem em ampères e outra em miliampères, transforme as duas na mesma unidade antes de comparar.\n\nNo gráfico com corrente no eixo horizontal e tensão no vertical, um resistor ôhmico produz uma reta que passa pela origem. A inclinação é ΔU/ΔI e vale a resistência. Imagine duas retas, com A subindo 6 V para cada 0,1 A e B subindo 2 V para cada 0,1 A. A resistência de A vale 60 Ω e a de B vale 20 Ω. A reta de A aparece mais inclinada porque precisa de uma tensão maior para conduzir a mesma corrente. Se os eixos forem trocados, a inclinação passa a ser ΔI/ΔU = 1/R. Agora o componente de menor resistência fornece a reta mais inclinada. Leia os nomes dos eixos antes de atribuir significado à inclinação.\n\nA reta também pode representar uma escolha prática. Se a tensão disponível sobre um resistor é 3 V, e a corrente desejada é 10 mA, o ponto de funcionamento tem coordenadas (0,010 A, 3 V) em um gráfico U contra I. Um resistor de 300 Ω passa por esse ponto. Um de 600 Ω conduz apenas 5 mA sob 3 V. Se a pergunta pedir um limite em vez de um valor exato, o raciocínio muda de igualdade para faixa aceitável. Para garantir I ≤ 10 mA sob 3 V em um resistor de valor positivo, é necessário R ≥ 300 Ω. Aumentar R produz uma corrente menor quando a tensão continua fixa.\n\nConsidere agora uma lâmpada incandescente. Sob 2 V, ela conduz 0,20 A, e sob 4 V, conduz 0,30 A. As razões U/I são 10 Ω e aproximadamente 13,3 Ω. Os dois valores descrevem condições distintas. A corrente aumentou com a tensão, mas aumentar a tensão pelo dobro não fez a corrente dobrar. Uma tabela com razões diferentes justifica usar os valores medidos ou a curva fornecida na questão. Ajustar uma reta imaginária a partir de um único ponto e extrapolar para outra tensão daria uma previsão sem sustentação nesses dados.\n\nA temperatura é uma condição importante quando se fala em resistência constante. Um componente que responde quase linearmente em uma faixa pequena pode se afastar da reta se a temperatura aumentar bastante. Também pode ocorrer que dois ensaios tenham temperaturas diferentes ou que a tabela apresente valores arredondados. Em uma questão com dados de baixa precisão, pequenas diferenças na razão podem decorrer do arredondamento. Siga a hipótese indicada no enunciado e compare as razões com o nível de precisão disponível. Uma variação clara, como de 10 Ω para 13,3 Ω, sinaliza que uma única resistência tem dificuldade de representar toda aquela faixa.\n\nEm problemas contextualizados, separe a tensão da fonte da tensão no componente. Uma bateria ideal de 9 V alimenta um conjunto em que uma peça recebe 3 V e outra peça em série recebe os 6 V restantes. Se o resistor em estudo for a peça de 6 V, e a corrente for de 12 mA, sua resistência será 6 ÷ 0,012 = 500 Ω. Dividir 9 por 0,012 calcularia a resistência equivalente da montagem inteira, admitindo o modelo resistivo. Essa distinção resolve uma armadilha comum: o cálculo pode estar impecável, mas responder à pergunta sobre outro trecho do circuito.\n\nA mesma estrutura matemática serve para comparar cenários. Se dois componentes ôhmicos recebem 8 V, um com 200 Ω e outro com 400 Ω, as correntes são 40 mA e 20 mA. A resistência dobrou sob a mesma tensão, então a corrente caiu pela metade. Se a resistência ficar fixa e a tensão dobrar dentro da faixa indicada, a corrente dobra. Se tanto a tensão quanto a resistência dobrarem, a razão fica igual. Declare o que permanece constante antes de dizer que duas grandezas são direta ou inversamente proporcionais. Essa frase curta ajuda a sustentar a conclusão quando o item é conceitual.\n\nDurante uma questão, procure fechar o raciocínio em duas etapas. Primeiro, escolha a tensão e a corrente do mesmo componente, faça as conversões e calcule o que falta. Depois, teste o resultado usando a situação inicial: em um resistor de valor positivo, uma corrente maior exige uma tensão maior quando a resistência se conserva. Em gráficos, confira os eixos e a unidade da inclinação. Ao terminar, você deve conseguir explicar o número e a condição em que ele vale.\n\nEm alguns gráficos, a corrente vem em miliampères. Se a tensão cresce 6 V enquanto a corrente cresce 20 mA, a inclinação é 0,3 V/mA. Essa mesma inclinação corresponde a 300 Ω, porque o intervalo horizontal é 0,020 A. Escrever a unidade da inclinação evita confundir 0,3 com o número em ohms.\n\nTROCANDO EM MIÚDOS:\nQuando você lê que um resistor tem 100 Ω, pense em uma regra de comparação: se houver 1 V nos terminais desse resistor, passam 0,01 A, ou 10 mA. Com 2 V, passam 20 mA, enquanto o componente se comportar como um resistor de valor constante. O resistor vincula os números da tensão e da corrente. Se você usa a mesma pilha em um resistor de 200 Ω, a corrente se reduz pela metade, porque agora a resistência é o dobro.\n\nPegue um exemplo com os números que aparecem nos exercícios de eletrônica. Uma peça recebe 4,5 V e conduz 15 mA. Escreva primeiro 15 mA = 0,015 A. A resistência é 4,5 ÷ 0,015 = 300 Ω. Agora faça a prova da conta multiplicando 300 por 0,015. Você recupera os 4,5 V. Outra maneira de verificar é pensar em quilo-ohms: 0,3 kΩ × 15 mA dá os mesmos 4,5 V.\n\nQuando surgir um gráfico, faça uma pergunta antes de olhar qual linha sobe mais: o que está em cada eixo? Se o eixo de cima mede volts e o de baixo mede ampères, o quanto a tensão sobe para um mesmo passo de corrente indica a resistência. Se o eixo de cima mede ampères e o de baixo mede volts, o quanto a corrente sobe para o mesmo passo de tensão indica o inverso da resistência. O significado muda porque a divisão mudou de ordem.\n\nOlhe também para a forma do gráfico. Uma reta pela origem indica uma razão constante no intervalo mostrado. Em uma curva, compare dois pontos. Se 1 V produz 10 mA e 2 V produz 15 mA, a segunda corrente ficou abaixo dos 20 mA previstos pelo primeiro ponto. Use a curva ou a tabela do enunciado para descobrir cada valor necessário. Assim você escolhe a ferramenta que combina com o componente real descrito no problema.\n\nLEI SECA:\nEm um resistor ôhmico, U = RI, com R constante nas condições consideradas. Nas unidades do SI, V = Ω × A.\n\nSÚMULAS E TESES:\nNa reta U em função de I, a inclinação vale R. Na reta I em função de U, vale 1/R.\n\nESQUEMA:\nTensão no componente → converter a corrente → checar proporcionalidade → calcular U, R ou I → conferir unidades.\n\nPEGADINHAS:\n1. Usar a tensão da bateria em vez da tensão no componente.\n2. Tratar mA como A.\n3. Trocar o significado da inclinação ao inverter os eixos.\n4. Aplicar a mesma resistência a toda uma curva não linear.\n5. Confundir aumentar R a tensão fixa com aumentar U a resistência fixa.\n\nDOUTRINA:\nOpenStax, College Physics 2e, seção 20.2, Ohm’s Law: Resistance and Simple Circuits.\n\nNA PRÁTICA:\nSob 6 V, uma maquete requer no máximo 15 mA em um resistor ligado diretamente à fonte. O valor mínimo é 6 ÷ 0,015 = 400 Ω. Entre 330 Ω e 470 Ω, use 470 Ω: conduz aproximadamente 12,8 mA.",
+   "flashcards": [
+    {
+     "frente": "O que caracteriza um resistor ôhmico?",
+     "verso": "A razão entre tensão e corrente permanece constante na faixa considerada.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Lei de Ohm"
+    },
+    {
+     "frente": "Quanto vale 20 mA em ampères?",
+     "verso": "0,020 A.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Lei de Ohm"
+    },
+    {
+     "frente": "O que mede a inclinação de U contra I?",
+     "verso": "A resistência do componente, se a relação for linear pela origem.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Lei de Ohm"
+    },
+    {
+     "frente": "O que mede a inclinação de I contra U?",
+     "verso": "O inverso da resistência em um resistor ôhmico.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Lei de Ohm"
+    },
+    {
+     "frente": "Qual tensão entra em U = RI?",
+     "verso": "A diferença de potencial entre os terminais do resistor calculado.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Lei de Ohm"
+    },
+    {
+     "frente": "O que acontece com I se R dobrar a U fixa?",
+     "verso": "A corrente cai pela metade.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Lei de Ohm"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "O gráfico U por I de um resistor é uma reta pela origem; em um ponto, I = 0,05 A e U = 2 V.",
+     "enunciado": "A inclinação vale 40 Ω.",
+     "gabarito": "C",
+     "comentario": "Certo. Divida 2 V por 0,05 A.\n(Fenômenos Elétricos e Magnéticos — Lei de Ohm, H17.)",
+     "habilidade": "H17",
+     "id": "enem-lei-de-ohm-c14-q01",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Lei de Ohm, H17"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um resistor de valor constante recebe 3 V e depois 6 V.",
+     "enunciado": "Se a tensão dobra, a resistência também dobra.",
+     "gabarito": "E",
+     "comentario": "Errado. Nesse modelo a resistência permanece constante, e a corrente dobra.\n(Fenômenos Elétricos e Magnéticos — Lei de Ohm, H17.)",
+     "habilidade": "H17",
+     "id": "enem-lei-de-ohm-c14-q02",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Lei de Ohm, H17"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um resistor de 2 kΩ conduz 3 mA em um painel.",
+     "enunciado": "A diferença de potencial no resistor vale 6 V.",
+     "gabarito": "C",
+     "comentario": "Certo. O produto 2.000 × 0,003 é 6.\n(Fenômenos Elétricos e Magnéticos — Lei de Ohm, H17.)",
+     "habilidade": "H17",
+     "id": "enem-lei-de-ohm-c14-q03",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Lei de Ohm, H17"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma lâmpada conduz 10 mA sob 1 V e 15 mA sob 2 V.",
+     "enunciado": "Uma resistência constante de 100 Ω reproduz as duas medições.",
+     "gabarito": "E",
+     "comentario": "Errado. Sob 2 V, 100 Ω preveria 20 mA.\n(Fenômenos Elétricos e Magnéticos — Lei de Ohm, H17.)",
+     "habilidade": "H17",
+     "id": "enem-lei-de-ohm-c14-q04",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Lei de Ohm, H17"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um circuito de maquete tem um resistor ôhmico. O voltímetro mede 8 V em seus terminais e o amperímetro registra 40 mA.",
+     "enunciado": "Qual é o valor da resistência?",
+     "gabarito": "D",
+     "comentario": "A) Usa 40 como se a corrente fosse 40 A.\nB) Inverte a divisão e ainda conserva o número em miliampères.\nC) Multiplica 8 por 4; resistência é tensão dividida por corrente.\nD) Correta. 8 ÷ 0,040 = 200 Ω.\nE) O produto 8 × 40 não calcula U/I.\n(Fenômenos Elétricos e Magnéticos — Lei de Ohm, H17.)",
+     "comentarios_por_alternativa": {
+      "A": "Usa 40 como se a corrente fosse 40 A.",
+      "B": "Inverte a divisão e ainda conserva o número em miliampères.",
+      "C": "Multiplica 8 por 4; resistência é tensão dividida por corrente.",
+      "D": "Correta. 8 ÷ 0,040 = 200 Ω.",
+      "E": "O produto 8 × 40 não calcula U/I."
+     },
+     "alternativas": {
+      "A": "0,2 Ω",
+      "B": "5 Ω",
+      "C": "32 Ω",
+      "D": "200 Ω",
+      "E": "320 Ω"
+     },
+     "habilidade": "H17",
+     "id": "enem-lei-de-ohm-c14-q05",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Lei de Ohm, H17"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um gráfico tem tensão no eixo horizontal e corrente em ampères no vertical. A reta de um resistor passa pela origem e pelo ponto (4 V, 0,02 A).",
+     "enunciado": "Qual é a resistência do componente?",
+     "gabarito": "A",
+     "comentario": "A) Correta. A resistência vale 4 ÷ 0,02 = 200 Ω.\nB) Essa é a inclinação em A/V, inversa da resistência.\nC) Multiplicar U por I fornece potência.\nD) Sob 4 V, 50 Ω conduziria 0,08 A.\nE) Sob 4 V, 400 Ω conduziria 0,01 A.\n(Fenômenos Elétricos e Magnéticos — Lei de Ohm, H17.)",
+     "comentarios_por_alternativa": {
+      "A": "Correta. A resistência vale 4 ÷ 0,02 = 200 Ω.",
+      "B": "Essa é a inclinação em A/V, inversa da resistência.",
+      "C": "Multiplicar U por I fornece potência.",
+      "D": "Sob 4 V, 50 Ω conduziria 0,08 A.",
+      "E": "Sob 4 V, 400 Ω conduziria 0,01 A."
+     },
+     "alternativas": {
+      "A": "200 Ω",
+      "B": "0,005 Ω",
+      "C": "0,08 Ω",
+      "D": "50 Ω",
+      "E": "400 Ω"
+     },
+     "habilidade": "H17",
+     "id": "enem-lei-de-ohm-c14-q06",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Lei de Ohm, H17"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma fonte mantém 5 V sobre o componente de um painel. O projeto aceita corrente de até 25 mA.",
+     "enunciado": "Qual é a menor resistência disponível que respeita o limite?",
+     "gabarito": "C",
+     "comentario": "A) Produz 50 mA.\nB) Produz aproximadamente 27,8 mA.\nC) Correta. 5 ÷ 0,025 = 200 Ω e a corrente atinge o limite permitido.\nD) É aceitável, mas conduz 20 mA e supera o menor valor necessário.\nE) Conduz 10 mA, mas o valor é maior que o mínimo.\n(Fenômenos Elétricos e Magnéticos — Lei de Ohm, H21.)",
+     "comentarios_por_alternativa": {
+      "A": "Produz 50 mA.",
+      "B": "Produz aproximadamente 27,8 mA.",
+      "C": "Correta. 5 ÷ 0,025 = 200 Ω e a corrente atinge o limite permitido.",
+      "D": "É aceitável, mas conduz 20 mA e supera o menor valor necessário.",
+      "E": "Conduz 10 mA, mas o valor é maior que o mínimo."
+     },
+     "alternativas": {
+      "A": "100 Ω",
+      "B": "180 Ω",
+      "C": "200 Ω",
+      "D": "250 Ω",
+      "E": "500 Ω"
+     },
+     "habilidade": "H21",
+     "id": "enem-lei-de-ohm-c14-q07",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Lei de Ohm, H21"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "O resistor de um medidor recebe 3 V e conduz 12 mA. Uma segunda versão mantém a mesma tensão, mas usa resistor com o triplo da resistência.",
+     "enunciado": "Qual corrente passa no segundo resistor?",
+     "gabarito": "B",
+     "comentario": "A) Dividir por quatro exigiria quadruplicar a resistência.\nB) Correta. A tensão é fixa, então triplicar R reduz a corrente à terça parte: 12 ÷ 3 = 4 mA.\nC) Subtrair 3 mA não representa a relação inversa.\nD) A corrente seria mantida se a tensão também triplicasse.\nE) Multiplica a corrente por três, invertendo o efeito esperado.\n(Fenômenos Elétricos e Magnéticos — Lei de Ohm, H21.)",
+     "comentarios_por_alternativa": {
+      "A": "Dividir por quatro exigiria quadruplicar a resistência.",
+      "B": "Correta. A tensão é fixa, então triplicar R reduz a corrente à terça parte: 12 ÷ 3 = 4 mA.",
+      "C": "Subtrair 3 mA não representa a relação inversa.",
+      "D": "A corrente seria mantida se a tensão também triplicasse.",
+      "E": "Multiplica a corrente por três, invertendo o efeito esperado."
+     },
+     "alternativas": {
+      "A": "3 mA",
+      "B": "4 mA",
+      "C": "9 mA",
+      "D": "12 mA",
+      "E": "36 mA"
+     },
+     "habilidade": "H21",
+     "id": "enem-lei-de-ohm-c14-q08",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Lei de Ohm, H21"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Na expressão U = RI, a tensão U é medida em ___ e a corrente I em ___.",
+     "opcoes": [
+      "volts",
+      "ampères",
+      "ohms",
+      "watts"
+     ],
+     "respostas": [
+      "volts",
+      "ampères"
+     ],
+     "explicacao": "Volt é unidade de diferença de potencial. Ampère é unidade de corrente."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Com tensão fixa, se a resistência dobra, a corrente cai à ___.",
+     "opcoes": [
+      "metade",
+      "terça parte",
+      "quarta parte"
+     ],
+     "respostas": [
+      "metade"
+     ],
+     "explicacao": "I = U/R. Dobrar o denominador reduz o quociente à metade."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene as etapas para calcular a resistência a partir de 6 V e 10 mA.",
+     "itens": [
+      "Identificar a tensão no próprio componente.",
+      "Converter 10 mA para 0,010 A.",
+      "Dividir 6 V por 0,010 A.",
+      "Registrar a resistência de 600 Ω."
+     ],
+     "explicacao": "A conversão permite obter diretamente a resistência em ohms."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "U",
+       "Diferença de potencial."
+      ],
+      [
+       "I",
+       "Corrente elétrica."
+      ],
+      [
+       "R",
+       "Resistência elétrica."
+      ],
+      [
+       "U/I constante",
+       "Comportamento ôhmico."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
