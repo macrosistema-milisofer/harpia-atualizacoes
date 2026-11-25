@@ -459,9 +459,9 @@
  },
  "app": {
   "android": {
-   "build": 26,
-   "versao": "1.8.7",
-   "url": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-26.apk",
+   "build": 27,
+   "versao": "1.8.8",
+   "url": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-27.apk",
    "notas": "Lições com flashcards e questões, revisão espaçada e atualização automática.",
    "url32": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-32bits.apk"
   }
