@@ -1,0 +1,252 @@
+{
+ "assunto": "Mudanças de estado e calor latente: fusão e gráficos de aquecimento",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-25",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-mudancas-estado-calor-latente-c14",
+   "titulo": "Mudanças de estado e calor latente: fusão e gráficos de aquecimento",
+   "microconteudo": "RAIO-X DA PROVA: Nos cadernos azuis regulares do Enem de 2021 a 2025, foram identificadas 1 questões relacionadas a este assunto, de um total de 225 em Ciências da Natureza.\n\nPOR QUE IMPORTA:\nO gelo pode receber energia e continuar a 0 °C enquanto derrete. Entender essa etapa ajuda a interpretar gráficos de aquecimento e a explicar situações como a conservação de alimentos e a formação de gelo em uma geladeira.\n\nO QUE A BANCA COBRA:\nO Enem pode pedir que você relacione a temperatura do ambiente ao estado físico ou diferencie o aquecimento de uma substância da energia usada em sua mudança de fase.\n\nENTENDA:\nEm um dia quente, você coloca uma bebida em um recipiente com gelo. Depois de algum tempo, parte do gelo derreteu, embora ainda existam pedaços sólidos no recipiente. Em condições próximas ao equilíbrio e à pressão atmosférica usual, a mistura de gelo e água líquida coexistindo fica perto de 0 °C. A energia que entrou nesse intervalo ajudou a transformar parte do gelo em água líquida. A temperatura pode voltar a subir depois de terminado o derretimento. Esse exemplo mostra por que nem toda transferência de energia na forma de calor aparece imediatamente como aumento de temperatura.\n\nUma fase é uma porção do sistema com propriedades físicas uniformes. Gelo, água líquida e vapor de água são formas físicas da mesma substância. Na fusão, o sólido passa ao líquido. Na solidificação, ocorre a mudança inversa. Na vaporização, um líquido passa à fase gasosa. Na condensação, o gás volta à fase líquida. Para algumas substâncias e condições, a passagem pode ocorrer do sólido diretamente para o gás. Essa transformação é chamada sublimação. O sentido inverso pode ser chamado deposição ou ressublimação. Ao ler o enunciado, marque o estado de partida e o estado final para escolher o nome da etapa.\n\nCalor latente específico é a energia transferida por unidade de massa em uma dada mudança de fase nas condições do problema. A letra L representa esse valor, com unidades como J/kg ou J/g. Se m gramas mudam de fase e L está em J/g, multiplique os dois valores para obter energia em joules. Por exemplo, suponha gelo já a 0 °C, que derrete sob pressão atmosférica usual, com L de fusão de 334 J/g. Para derreter 20 g, é preciso fornecer 20 × 334 = 6.680 J. A mesma quantidade de energia precisa sair da água para solidificar essa massa nas mesmas condições. Nessa segunda situação, o calor do ponto de vista da água é negativo se a convenção adotada toma calor recebido como positivo.\n\nCompare essa conta com o aquecimento de 20 g de água líquida de 0 °C até 20 °C. Usando calor específico de 4,2 J/(g·°C), seriam necessários 20 × 4,2 × 20 = 1.680 J. A fórmula agora é Q = mcΔT porque o estado físico se mantém. Se o problema pedir transformar gelo a 0 °C em água a 20 °C, some as duas etapas: 6.680 J para derreter e 1.680 J para aquecer a água. A energia total é 8.360 J. O cálculo para o processo inteiro depende de identificar corretamente a sequência de estados.\n\nEm um gráfico de temperatura por tempo, o aquecimento de uma substância pura, sob pressão fixa, pode apresentar trechos inclinados e patamares. No trecho inclinado, a substância está em uma fase e a temperatura varia. Durante um patamar de mudança de fase em equilíbrio, duas fases podem coexistir enquanto a temperatura fica constante. Imagine um aquecedor que fornece 100 W úteis e um patamar que dura 30 s. Durante esses 30 s, a energia fornecida é 100 × 30 = 3.000 J. Para converter isso em calor latente por unidade de massa, você ainda precisa saber a massa que mudou de fase. A duração do patamar, sozinha, não informa o valor de L.\n\nA forma do gráfico também depende de quais grandezas foram medidas. Se o eixo horizontal mostra energia fornecida em joules, a largura do patamar já dá a energia daquela etapa. Se o eixo horizontal mostra tempo, você precisa conhecer a taxa de fornecimento para descobrir a energia. Em dois experimentos com a mesma substância e o mesmo aquecedor ideal, dobrar a massa dobra a energia necessária para fundir o material e dobra o tempo de patamar. A temperatura de fusão permanece a mesma quando pressão e composição são mantidas. Assim, um patamar mais longo pode indicar uma amostra maior sem significar que o material possui calor latente específico maior.\n\nA origem da energia também muda de um cenário para outro. No congelador, retirar energia da água que está a 0 °C faz parte dela solidificar. Se a água começou a 15 °C, o congelador primeiro retira energia para resfriar o líquido até perto de 0 °C. Depois retira a energia de solidificação. O gelo formado pode esfriar ainda mais após a mudança de fase. Para prever a formação de gelo, além de existir um meio capaz de retirar energia, a temperatura e as condições precisam permitir a solidificação da água. Se o ambiente permanece acima da temperatura de solidificação e a água só troca calor com ele, não se pode contar com a formação de gelo no equilíbrio.\n\nA pressão afeta as temperaturas em que as fases coexistem. A água ferve quando a pressão de vapor se iguala à pressão externa. Em um local mais alto, onde a pressão atmosférica é menor, a água geralmente ferve a temperatura inferior àquela observada ao nível do mar. Uma panela de pressão opera com pressão interna maior e pode alcançar temperatura de ebulição mais alta. Evaporação e ebulição são formas de vaporização. A evaporação pode ocorrer na superfície em várias temperaturas. A ebulição envolve a formação de bolhas no líquido nas condições apropriadas. Uma camiseta pode secar ao ar livre sem que a água tenha chegado à temperatura de ebulição.\n\nA constância de temperatura durante a transformação é um modelo com condições. A pressão, a composição e a aproximação de equilíbrio importam. Uma solução com sal dissolvido pode começar a congelar abaixo da temperatura de solidificação da água pura. Conforme cristais de gelo se formam, os sais tendem a ficar no líquido restante e a composição muda. Uma mistura também pode mudar de fase ao longo de um intervalo de temperaturas. Se a questão representar uma substância pura sob pressão constante e fornecer um patamar, trabalhe com esse modelo. Se apresentar uma solução ou dados medidos, use as informações da situação específica em vez de presumir que toda curva repete o desenho da água pura.\n\nVocê também pode calcular uma mudança parcial. Imagine 100 g de gelo a 0 °C. O sistema recebe 16.700 J, sem perdas. Com calor latente de fusão de 334 J/g, essa energia derrete 50 g. Restam 50 g de gelo junto dos 50 g de água, em equilíbrio próximo de 0 °C nas condições descritas. A conta não deve usar os 100 g como se a fusão tivesse acabado. Compare a energia disponível com a energia para a mudança completa antes de calcular a temperatura final. Se a energia disponível for maior, use a diferença para determinar a variação de temperatura da fase que resultou.\n\nPara revisar, organize as etapas em uma linha, escrevendo o estado e a temperatura no começo e no fim de cada uma. Nos trechos sem mudança de fase, use massa, calor específico e diferença de temperatura. Nos trechos de transformação, use a massa que de fato muda de fase e o calor latente correspondente. Se o problema fornece potência útil e pede tempo, divida a energia total pela potência. A conta pode ser conferida em unidades: joule dividido por joule por segundo produz segundo. Essa conferência ajuda a distinguir o resultado procurado da duração de apenas um trecho. Para interpretar gráficos de resfriamento, a mesma divisão em etapas vale, com energia saindo do material em vez de entrar.\n\nTROCANDO EM MIÚDOS:\nColoque gelo em um copo e imagine observar o termômetro enquanto ele derrete. Durante a coexistência de gelo e água em equilíbrio, perto da pressão atmosférica usual, a temperatura fica próxima de zero grau Celsius. A energia que entra durante essa parte faz mais gelo virar água. Quando o último pedaço derrete, a água pode começar a subir de temperatura à medida que recebe mais energia.\n\nA prova costuma separar esses dois momentos. Se continua tudo líquido e a temperatura sobe, você multiplica massa, calor específico e variação de temperatura. Se o sólido vira líquido na temperatura de fusão, multiplica a massa que derrete pelo calor latente de fusão. Quer transformar 10 g de gelo a zero grau em água líquida também a zero grau? Com 334 joules por grama, são 3.340 joules. A medida em gramas combina com a unidade em joules por grama.\n\nE se você receber a informação em um gráfico? Veja de que lado estão tempo, temperatura e energia. Uma linha horizontal em um gráfico de temperatura durante um processo de aquecimento indica que a temperatura se conservou naquele trecho. No modelo de substância pura, se o desenho mostra uma mudança de estado, marque esse pedaço como o tempo em que as duas fases coexistem. Para descobrir a energia com tempo em segundos e potência em watts, multiplique os dois.\n\nTambém dá para acompanhar o processo ao contrário. Para fazer gelo, a água líquida primeiro esfria até as condições de solidificação. Para virar gelo, ainda precisa ceder energia. Depois que toda a água congelou, o gelo pode ficar mais frio. Uma dica é usar três caixas no rascunho: antes da mudança, durante a mudança e depois da mudança. Nem toda pergunta usa as três. Marque onde o problema começa e termina e faça só as contas necessárias. Assim você consegue interpretar a situação antes de escolher a fórmula.\n\nLEI SECA:\nNa mudança de fase, |Q| = mL. Em uma fase, com calor específico constante, Q = mcΔT.\n\nSÚMULAS E TESES:\nUma substância pura em equilíbrio, sob pressão fixa, muda de fase a temperatura constante. Em um gráfico com potência constante, E = Pt.\n\nESQUEMA:\nIdentificar fases → separar etapas → calcular energia de cada etapa → conferir se toda a massa se transformou.\n\nPEGADINHAS:\n1. Usar mcΔT no patamar.\n2. Confundir tempo com energia.\n3. Usar a massa total em uma fusão parcial.\n4. Confundir evaporação com ebulição.\n5. Ignorar a pressão.\n\nDOUTRINA:\nOpenStax, College Physics 2e, seção 14.3, Phase Change and Latent Heat.\n\nNA PRÁTICA:\nCom 6.680 J disponíveis, derretem 20 g de gelo a 0 °C para L = 334 J/g. Se havia 30 g, sobram 10 g de gelo.",
+   "flashcards": [
+    {
+     "frente": "Qual é a fórmula do módulo de calor latente?",
+     "verso": "|Q| = mL.",
+     "dispositivo": "O calor e os fenômenos térmicos — Mudanças de estado físico e calor latente de transformação"
+    },
+    {
+     "frente": "O que é fusão?",
+     "verso": "Passagem do sólido para o líquido.",
+     "dispositivo": "O calor e os fenômenos térmicos — Mudanças de estado físico e calor latente de transformação"
+    },
+    {
+     "frente": "O que é solidificação?",
+     "verso": "Passagem do líquido para o sólido.",
+     "dispositivo": "O calor e os fenômenos térmicos — Mudanças de estado físico e calor latente de transformação"
+    },
+    {
+     "frente": "Como distinguir evaporação de ebulição?",
+     "verso": "A evaporação pode ocorrer na superfície abaixo da temperatura de ebulição.",
+     "dispositivo": "O calor e os fenômenos térmicos — Mudanças de estado físico e calor latente de transformação"
+    },
+    {
+     "frente": "Como calcular a energia de um patamar com potência fixa?",
+     "verso": "Multiplique a potência útil pela duração.",
+     "dispositivo": "O calor e os fenômenos térmicos — Mudanças de estado físico e calor latente de transformação"
+    },
+    {
+     "frente": "Como calcular massa que funde parcialmente?",
+     "verso": "Divida a energia útil de fusão pelo calor latente específico.",
+     "dispositivo": "O calor e os fenômenos térmicos — Mudanças de estado físico e calor latente de transformação"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Um recipiente mantém gelo e água em equilíbrio perto de 0 °C sob pressão usual, enquanto recebe calor.",
+     "enunciado": "Parte do gelo pode fundir sem aumento imediato da temperatura.",
+     "gabarito": "C",
+     "comentario": "Certo. A energia recebida pode promover a fusão durante a coexistência das fases.\n(O calor e os fenômenos térmicos — Mudanças de estado físico e calor latente de transformação, H17.)",
+     "habilidade": "H17",
+     "id": "enem-mudancas-estado-calor-latente-c14-q01",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Mudanças de estado físico e calor latente de transformação, H17"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um aquecedor de 200 W úteis mantém um patamar de 10 s.",
+     "enunciado": "A energia útil no patamar vale 20 J.",
+     "gabarito": "E",
+     "comentario": "Errado. São 200 J por segundo durante 10 s, totalizando 2.000 J.\n(O calor e os fenômenos térmicos — Mudanças de estado físico e calor latente de transformação, H17.)",
+     "habilidade": "H17",
+     "id": "enem-mudancas-estado-calor-latente-c14-q02",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Mudanças de estado físico e calor latente de transformação, H17"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Água a 0 °C se solidifica sob pressão usual.",
+     "enunciado": "Durante a etapa descrita, a água cede energia.",
+     "gabarito": "C",
+     "comentario": "Certo. A solidificação libera energia para o meio.\n(O calor e os fenômenos térmicos — Mudanças de estado físico e calor latente de transformação, H17.)",
+     "habilidade": "H17",
+     "id": "enem-mudancas-estado-calor-latente-c14-q03",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Mudanças de estado físico e calor latente de transformação, H17"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma roupa molhada seca em ambiente ventilado a 25 °C.",
+     "enunciado": "O processo exige que toda a água atinja a ebulição.",
+     "gabarito": "E",
+     "comentario": "Errado. A evaporação na superfície pode ocorrer abaixo da temperatura de ebulição.\n(O calor e os fenômenos térmicos — Mudanças de estado físico e calor latente de transformação, H17.)",
+     "habilidade": "H17",
+     "id": "enem-mudancas-estado-calor-latente-c14-q04",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Mudanças de estado físico e calor latente de transformação, H17"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma amostra de 30 g de gelo está à temperatura de fusão. Seu calor latente de fusão vale 334 J/g.",
+     "enunciado": "Qual energia é necessária para fundi-la por completo?",
+     "gabarito": "B",
+     "comentario": "A) É o valor por grama.\nB) Correta. 30 × 334 = 10.020 J.\nC) Corresponde a apenas 3 g.\nD) O cálculo requer multiplicar a massa pelo valor por grama.\nE) Corresponde a 100 g.\n(O calor e os fenômenos térmicos — Mudanças de estado físico e calor latente de transformação, H21.)",
+     "comentarios_por_alternativa": {
+      "A": "É o valor por grama.",
+      "B": "Correta. 30 × 334 = 10.020 J.",
+      "C": "Corresponde a apenas 3 g.",
+      "D": "O cálculo requer multiplicar a massa pelo valor por grama.",
+      "E": "Corresponde a 100 g."
+     },
+     "alternativas": {
+      "A": "334 J",
+      "B": "10.020 J",
+      "C": "1.002 J",
+      "D": "11,1 J",
+      "E": "33.400 J"
+     },
+     "habilidade": "H21",
+     "id": "enem-mudancas-estado-calor-latente-c14-q05",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Mudanças de estado físico e calor latente de transformação, H21"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma carga térmica de 3.340 J chega integralmente a 15 g de gelo à temperatura de fusão. Use L = 334 J/g.",
+     "enunciado": "Quanto gelo permanece após a transferência?",
+     "gabarito": "D",
+     "comentario": "A) A fusão total precisaria de 5.010 J.\nB) Uma parte do gelo se transforma.\nC) Essa é a massa que derrete.\nD) Correta. Derretem 3.340/334 = 10 g, restando 5 g.\nE) Esse resto exigiria derreter 14 g.\n(O calor e os fenômenos térmicos — Mudanças de estado físico e calor latente de transformação, H21.)",
+     "comentarios_por_alternativa": {
+      "A": "A fusão total precisaria de 5.010 J.",
+      "B": "Uma parte do gelo se transforma.",
+      "C": "Essa é a massa que derrete.",
+      "D": "Correta. Derretem 3.340/334 = 10 g, restando 5 g.",
+      "E": "Esse resto exigiria derreter 14 g."
+     },
+     "alternativas": {
+      "A": "0 g",
+      "B": "15 g",
+      "C": "10 g",
+      "D": "5 g",
+      "E": "1 g"
+     },
+     "habilidade": "H21",
+     "id": "enem-mudancas-estado-calor-latente-c14-q06",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Mudanças de estado físico e calor latente de transformação, H21"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um gráfico de laboratório mostra um patamar de fusão que dura 25 s, com potência útil constante de 80 W.",
+     "enunciado": "Qual energia útil corresponde ao patamar?",
+     "gabarito": "A",
+     "comentario": "A) Correta. 80 × 25 = 2.000 J.\nB) Somar tempo e potência mistura unidades diferentes.\nC) O cálculo de energia requer o produto.\nD) É o número associado à potência em watts.\nE) É a duração em segundos.\n(O calor e os fenômenos térmicos — Mudanças de estado físico e calor latente de transformação, H17.)",
+     "comentarios_por_alternativa": {
+      "A": "Correta. 80 × 25 = 2.000 J.",
+      "B": "Somar tempo e potência mistura unidades diferentes.",
+      "C": "O cálculo de energia requer o produto.",
+      "D": "É o número associado à potência em watts.",
+      "E": "É a duração em segundos."
+     },
+     "alternativas": {
+      "A": "2.000 J",
+      "B": "105 J",
+      "C": "3,2 J",
+      "D": "80 J",
+      "E": "25 J"
+     },
+     "habilidade": "H17",
+     "id": "enem-mudancas-estado-calor-latente-c14-q07",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Mudanças de estado físico e calor latente de transformação, H17"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um recipiente fornece 3.340 J para fundir gelo e depois 420 J para aquecer a água formada.",
+     "enunciado": "Qual energia útil total foi fornecida?",
+     "gabarito": "E",
+     "comentario": "A) Subtrai duas energias recebidas.\nB) Considera só a fusão.\nC) Considera só o aquecimento após a fusão.\nD) Acrescenta apenas 160 J ao primeiro trecho.\nE) Correta. As duas etapas receberam energia: 3.340 + 420 = 3.760 J.\n(O calor e os fenômenos térmicos — Mudanças de estado físico e calor latente de transformação, H21.)",
+     "comentarios_por_alternativa": {
+      "A": "Subtrai duas energias recebidas.",
+      "B": "Considera só a fusão.",
+      "C": "Considera só o aquecimento após a fusão.",
+      "D": "Acrescenta apenas 160 J ao primeiro trecho.",
+      "E": "Correta. As duas etapas receberam energia: 3.340 + 420 = 3.760 J."
+     },
+     "alternativas": {
+      "A": "2.920 J",
+      "B": "3.340 J",
+      "C": "420 J",
+      "D": "3.500 J",
+      "E": "3.760 J"
+     },
+     "habilidade": "H21",
+     "id": "enem-mudancas-estado-calor-latente-c14-q08",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Mudanças de estado físico e calor latente de transformação, H21"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Na fusão, o estado ___ passa ao estado ___.",
+     "opcoes": [
+      "sólido",
+      "líquido",
+      "gasoso"
+     ],
+     "respostas": [
+      "sólido",
+      "líquido"
+     ],
+     "explicacao": "A fusão produz líquido a partir do sólido."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Sob potência constante, multiplique watts por ___ para obter joules.",
+     "opcoes": [
+      "segundos",
+      "gramas",
+      "graus"
+     ],
+     "respostas": [
+      "segundos"
+     ],
+     "explicacao": "Watt equivale a joule por segundo."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene as etapas para passar de gelo abaixo de 0 °C a água acima de 0 °C.",
+     "itens": [
+      "Aquecer o gelo até a fusão.",
+      "Fundir o gelo.",
+      "Aquecer a água líquida.",
+      "Somar as energias das três etapas."
+     ],
+     "explicacao": "Use calor sensível antes e depois, e calor latente na fusão."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Fusão",
+       "Sólido para líquido"
+      ],
+      [
+       "Vaporização",
+       "Líquido para gás"
+      ],
+      [
+       "Solidificação",
+       "Líquido para sólido"
+      ],
+      [
+       "Condensação",
+       "Gás para líquido"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
