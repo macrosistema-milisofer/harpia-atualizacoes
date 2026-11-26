@@ -1,0 +1,251 @@
+{
+ "assunto": "Equações e inequações na resolução de problemas",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-equacoes-e-inequacoes-c14",
+   "titulo": "Equações e inequações na resolução de problemas",
+   "microconteudo": "RAIO-X DA PROVA: Traduza igualdades e limites em expressões, resolva e verifique as soluções. Confira se o limite é inclusivo e se a variável é contínua ou inteira.\n\nPOR QUE IMPORTA:\nDividir uma conta, escolher um plano dentro do orçamento e descobrir medidas envolvem equações ou inequações. O resultado precisa responder à pergunta e respeitar o contexto.\n\nO QUE A BANCA COBRA:\nTraduza igualdades e limites em expressões, resolva e verifique as soluções. Confira se o limite é inclusivo e se a variável é contínua ou inteira.\n\nENTENDA:\n1. Igualdade e solução\n\nUma inscrição custa R$ 12 mais R$ 4 por oficina. O total pago foi R$ 32. De quantas oficinas a pessoa participou? Para decidir, precisamos deste conceito: Uma solução torna verdadeira a igualdade da equação original. No caso apresentado, a resposta é **5 oficinas**. Resolver 12 + 4x = 32 resulta em 4x = 20, então x = 5.\n\nUma leitura que pode parecer plausível é “8 oficinas”. Compare essa hipótese com o que a situação descreve. Resolver 12 + 4x = 32 resulta em 4x = 20, então x = 5. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n2. Incógnita nos dois lados\n\nO plano A custa 10 + 3x reais. O B custa 18 + x reais. O número de usos é x. Com quantos usos os custos coincidem? Para decidir, precisamos deste conceito: Isolar a incógnita exige aplicar operações equivalentes aos dois lados da igualdade. No caso apresentado, a resposta é **4 usos**. De 10 + 3x = 18 + x vem 2x = 8 e, portanto, x = 4.\n\nUma leitura que pode parecer plausível é “8 usos”. Compare essa hipótese com o que a situação descreve. De 10 + 3x = 18 + x vem 2x = 8 e, portanto, x = 4. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n3. Equação quadrática por fatoração\n\nEm um modelo, x² − 5x + 6 = 0. Quais raízes reais satisfazem a equação? Para decidir, precisamos deste conceito: Um produto de fatores reais é zero quando pelo menos um fator é zero. No caso apresentado, a resposta é **2 e 3**. Fatorando, obtemos (x − 2)(x − 3) = 0. Cada fator fornece uma raiz.\n\nUma leitura que pode parecer plausível é “−2 e −3”. Compare essa hipótese com o que a situação descreve. Fatorando, obtemos (x − 2)(x − 3) = 0. Cada fator fornece uma raiz. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n4. Inversão da desigualdade\n\nA condição sobre uma variável é −4x > 12. Qual conjunto de soluções resulta? Para decidir, precisamos deste conceito: Multiplicar ou dividir uma desigualdade por número negativo inverte o sentido do sinal. No caso apresentado, a resposta é **x < −3**. A divisão por −4 produz −3 e inverte > para <.\n\nUma leitura que pode parecer plausível é “x > −3”. Compare essa hipótese com o que a situação descreve. A divisão por −4 produz −3 e inverte > para <. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n5. Limite inclusivo e inteiro\n\nCom R$ 45, uma pessoa paga R$ 7 de entrada e R$ 6 por rodada. Qual é o máximo de rodadas pagas? Para decidir, precisamos deste conceito: Uma expressão como “até” permite a igualdade, e uma contagem admite somente inteiros. No caso apresentado, a resposta é **6 rodadas**. 7 + 6x ≤ 45 dá x ≤ 38/6. Seis custam R$ 43; sete custariam R$ 49.\n\nUma leitura que pode parecer plausível é “7 rodadas”. Compare essa hipótese com o que a situação descreve. 7 + 6x ≤ 45 dá x ≤ 38/6. Seis custam R$ 43; sete custariam R$ 49. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n6. Sinal do produto\n\nDois fatores reais são x − 1 e x − 5. Quando o produto é estritamente negativo? Para decidir, precisamos deste conceito: O produto de dois fatores tem sinal negativo quando exatamente um fator é negativo. No caso apresentado, a resposta é **1 < x < 5**. Entre as raízes, x − 1 é positivo e x − 5 é negativo. Nas raízes, o produto vale zero.\n\nUma leitura que pode parecer plausível é “x ≤ 1 ou x ≥ 5”. Compare essa hipótese com o que a situação descreve. Entre as raízes, x − 1 é positivo e x − 5 é negativo. Nas raízes, o produto vale zero. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\nTROCANDO EM MIÚDOS:\n**Igualdade e solução.** Uma solução torna verdadeira a igualdade da equação original. Tente resolver esta situação: Uma inscrição custa R$ 12 mais R$ 4 por oficina. O total pago foi R$ 32. De quantas oficinas a pessoa participou? Confira: 5 oficinas. Resolver 12 + 4x = 32 resulta em 4x = 20, então x = 5.\n\n**Incógnita nos dois lados.** Isolar a incógnita exige aplicar operações equivalentes aos dois lados da igualdade. Tente resolver esta situação: O plano A custa 10 + 3x reais. O B custa 18 + x reais. O número de usos é x. Com quantos usos os custos coincidem? Confira: 4 usos. De 10 + 3x = 18 + x vem 2x = 8 e, portanto, x = 4.\n\n**Equação quadrática por fatoração.** Um produto de fatores reais é zero quando pelo menos um fator é zero. Tente resolver esta situação: Em um modelo, x² − 5x + 6 = 0. Quais raízes reais satisfazem a equação? Confira: 2 e 3. Fatorando, obtemos (x − 2)(x − 3) = 0. Cada fator fornece uma raiz.\n\n**Inversão da desigualdade.** Multiplicar ou dividir uma desigualdade por número negativo inverte o sentido do sinal. Tente resolver esta situação: A condição sobre uma variável é −4x > 12. Qual conjunto de soluções resulta? Confira: x < −3. A divisão por −4 produz −3 e inverte > para <.\n\n**Limite inclusivo e inteiro.** Uma expressão como “até” permite a igualdade, e uma contagem admite somente inteiros. Tente resolver esta situação: Com R$ 45, uma pessoa paga R$ 7 de entrada e R$ 6 por rodada. Qual é o máximo de rodadas pagas? Confira: 6 rodadas. 7 + 6x ≤ 45 dá x ≤ 38/6. Seis custam R$ 43; sete custariam R$ 49.\n\n**Sinal do produto.** O produto de dois fatores tem sinal negativo quando exatamente um fator é negativo. Tente resolver esta situação: Dois fatores reais são x − 1 e x − 5. Quando o produto é estritamente negativo? Confira: 1 < x < 5. Entre as raízes, x − 1 é positivo e x − 5 é negativo. Nas raízes, o produto vale zero.\n\nESQUEMA:\n• Igualdade e solução → Uma solução torna verdadeira a igualdade da equação original.\n• Incógnita nos dois lados → Isolar a incógnita exige aplicar operações equivalentes aos dois lados da igualdade.\n• Equação quadrática por fatoração → Um produto de fatores reais é zero quando pelo menos um fator é zero.\n• Inversão da desigualdade → Multiplicar ou dividir uma desigualdade por número negativo inverte o sentido do sinal.\n• Limite inclusivo e inteiro → Uma expressão como “até” permite a igualdade, e uma contagem admite somente inteiros.\n• Sinal do produto → O produto de dois fatores tem sinal negativo quando exatamente um fator é negativo.\n\nPEGADINHAS:\n• Igualdade e solução: ao ler “8 oficinas”, confira o que o enunciado permite concluir.\n• Incógnita nos dois lados: ao ler “8 usos”, confira o que o enunciado permite concluir.\n• Equação quadrática por fatoração: ao ler “−2 e −3”, confira o que o enunciado permite concluir.\n• Inversão da desigualdade: ao ler “x > −3”, confira o que o enunciado permite concluir.\n• Limite inclusivo e inteiro: ao ler “7 rodadas”, confira o que o enunciado permite concluir.\n• Sinal do produto: ao ler “x ≤ 1 ou x ≥ 5”, confira o que o enunciado permite concluir.\n\nNA PRÁTICA:\nDois fatores reais são x − 1 e x − 5. Quando o produto é estritamente negativo? **Resposta:** 1 < x < 5. Entre as raízes, x − 1 é positivo e x − 5 é negativo. Nas raízes, o produto vale zero.",
+   "flashcards": [
+    {
+     "frente": "Como reconhecer igualdade e solução?",
+     "verso": "Uma solução torna verdadeira a igualdade da equação original.",
+     "dispositivo": "Conhecimentos algébricos — Equações e inequações"
+    },
+    {
+     "frente": "Como reconhecer incógnita nos dois lados?",
+     "verso": "Isolar a incógnita exige aplicar operações equivalentes aos dois lados da igualdade.",
+     "dispositivo": "Conhecimentos algébricos — Equações e inequações"
+    },
+    {
+     "frente": "Como reconhecer equação quadrática por fatoração?",
+     "verso": "Um produto de fatores reais é zero quando pelo menos um fator é zero.",
+     "dispositivo": "Conhecimentos algébricos — Equações e inequações"
+    },
+    {
+     "frente": "Como reconhecer inversão da desigualdade?",
+     "verso": "Multiplicar ou dividir uma desigualdade por número negativo inverte o sentido do sinal.",
+     "dispositivo": "Conhecimentos algébricos — Equações e inequações"
+    },
+    {
+     "frente": "Como reconhecer limite inclusivo e inteiro?",
+     "verso": "Uma expressão como “até” permite a igualdade, e uma contagem admite somente inteiros.",
+     "dispositivo": "Conhecimentos algébricos — Equações e inequações"
+    },
+    {
+     "frente": "Como reconhecer sinal do produto?",
+     "verso": "O produto de dois fatores tem sinal negativo quando exatamente um fator é negativo.",
+     "dispositivo": "Conhecimentos algébricos — Equações e inequações"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-equacoes-e-inequacoes-c14-q01",
+     "tipo": "ce",
+     "texto_base": "O total de duas parcelas iguais mais R$ 8 ficou em R$ 30.",
+     "enunciado": "Cada parcela é de R$ 11.",
+     "gabarito": "C",
+     "habilidade": "H21",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos — Equações e inequações",
+     "comentario": "A equação 2x + 8 = 30 resulta em x = 11."
+    },
+    {
+     "id": "enem-equacoes-e-inequacoes-c14-q02",
+     "tipo": "ce",
+     "texto_base": "A desigualdade é −2x ≤ 10.",
+     "enunciado": "Sua solução é x ≤ −5.",
+     "gabarito": "E",
+     "habilidade": "H21",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos — Equações e inequações",
+     "comentario": "Dividir por −2 inverte o sinal: x ≥ −5."
+    },
+    {
+     "id": "enem-equacoes-e-inequacoes-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Um armário suporta estritamente menos de 32 kg.",
+     "enunciado": "Uma carga de 32 kg atende ao limite.",
+     "gabarito": "E",
+     "habilidade": "H21",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos — Equações e inequações",
+     "comentario": "“Estritamente menos” exclui o valor 32."
+    },
+    {
+     "id": "enem-equacoes-e-inequacoes-c14-q04",
+     "tipo": "ce",
+     "texto_base": "A equação (x + 1)(x − 4) = 0 tem duas raízes reais.",
+     "enunciado": "As raízes são −1 e 4.",
+     "gabarito": "C",
+     "habilidade": "H21",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos — Equações e inequações",
+     "comentario": "Cada valor zera um dos fatores."
+    },
+    {
+     "id": "enem-equacoes-e-inequacoes-c14-q05",
+     "tipo": "me",
+     "texto_base": "O plano A custa 10 + 3x reais. O B custa 18 + x reais. O número de usos é x.",
+     "enunciado": "Com quantos usos os custos coincidem?",
+     "gabarito": "A",
+     "habilidade": "H21",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos — Equações e inequações",
+     "alternativas": {
+      "A": "4 usos",
+      "B": "8 usos",
+      "C": "2 e 3",
+      "D": "x < −3",
+      "E": "6 rodadas"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. De 10 + 3x = 18 + x vem 2x = 8 e, portanto, x = 4.",
+      "B": "Essa leitura falha neste caso. De 10 + 3x = 18 + x vem 2x = 8 e, portanto, x = 4.",
+      "C": "Essa resposta se relaciona a equação quadrática por fatoração. Aqui, a pista decisiva é outra. De 10 + 3x = 18 + x vem 2x = 8 e, portanto, x = 4.",
+      "D": "Essa resposta se relaciona a inversão da desigualdade. Aqui, a pista decisiva é outra. De 10 + 3x = 18 + x vem 2x = 8 e, portanto, x = 4.",
+      "E": "Essa resposta se relaciona a limite inclusivo e inteiro. Aqui, a pista decisiva é outra. De 10 + 3x = 18 + x vem 2x = 8 e, portanto, x = 4."
+     },
+     "comentario": "A) Correta. De 10 + 3x = 18 + x vem 2x = 8 e, portanto, x = 4.\nB) Essa leitura falha neste caso. De 10 + 3x = 18 + x vem 2x = 8 e, portanto, x = 4.\nC) Essa resposta se relaciona a equação quadrática por fatoração. Aqui, a pista decisiva é outra. De 10 + 3x = 18 + x vem 2x = 8 e, portanto, x = 4.\nD) Essa resposta se relaciona a inversão da desigualdade. Aqui, a pista decisiva é outra. De 10 + 3x = 18 + x vem 2x = 8 e, portanto, x = 4.\nE) Essa resposta se relaciona a limite inclusivo e inteiro. Aqui, a pista decisiva é outra. De 10 + 3x = 18 + x vem 2x = 8 e, portanto, x = 4."
+    },
+    {
+     "id": "enem-equacoes-e-inequacoes-c14-q06",
+     "tipo": "me",
+     "texto_base": "Em um modelo, x² − 5x + 6 = 0.",
+     "enunciado": "Quais raízes reais satisfazem a equação?",
+     "gabarito": "B",
+     "habilidade": "H21",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos — Equações e inequações",
+     "alternativas": {
+      "A": "−2 e −3",
+      "B": "2 e 3",
+      "C": "x < −3",
+      "D": "6 rodadas",
+      "E": "1 < x < 5"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Essa leitura falha neste caso. Fatorando, obtemos (x − 2)(x − 3) = 0. Cada fator fornece uma raiz.",
+      "B": "Correta. Fatorando, obtemos (x − 2)(x − 3) = 0. Cada fator fornece uma raiz.",
+      "C": "Essa resposta se relaciona a inversão da desigualdade. Aqui, a pista decisiva é outra. Fatorando, obtemos (x − 2)(x − 3) = 0. Cada fator fornece uma raiz.",
+      "D": "Essa resposta se relaciona a limite inclusivo e inteiro. Aqui, a pista decisiva é outra. Fatorando, obtemos (x − 2)(x − 3) = 0. Cada fator fornece uma raiz.",
+      "E": "Essa resposta se relaciona a sinal do produto. Aqui, a pista decisiva é outra. Fatorando, obtemos (x − 2)(x − 3) = 0. Cada fator fornece uma raiz."
+     },
+     "comentario": "A) Essa leitura falha neste caso. Fatorando, obtemos (x − 2)(x − 3) = 0. Cada fator fornece uma raiz.\nB) Correta. Fatorando, obtemos (x − 2)(x − 3) = 0. Cada fator fornece uma raiz.\nC) Essa resposta se relaciona a inversão da desigualdade. Aqui, a pista decisiva é outra. Fatorando, obtemos (x − 2)(x − 3) = 0. Cada fator fornece uma raiz.\nD) Essa resposta se relaciona a limite inclusivo e inteiro. Aqui, a pista decisiva é outra. Fatorando, obtemos (x − 2)(x − 3) = 0. Cada fator fornece uma raiz.\nE) Essa resposta se relaciona a sinal do produto. Aqui, a pista decisiva é outra. Fatorando, obtemos (x − 2)(x − 3) = 0. Cada fator fornece uma raiz."
+    },
+    {
+     "id": "enem-equacoes-e-inequacoes-c14-q07",
+     "tipo": "me",
+     "texto_base": "A condição sobre uma variável é −4x > 12.",
+     "enunciado": "Qual conjunto de soluções resulta?",
+     "gabarito": "C",
+     "habilidade": "H21",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos — Equações e inequações",
+     "alternativas": {
+      "A": "x > −3",
+      "B": "6 rodadas",
+      "C": "x < −3",
+      "D": "1 < x < 5",
+      "E": "5 oficinas"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Essa leitura falha neste caso. A divisão por −4 produz −3 e inverte > para <.",
+      "B": "Essa resposta se relaciona a limite inclusivo e inteiro. Aqui, a pista decisiva é outra. A divisão por −4 produz −3 e inverte > para <.",
+      "C": "Correta. A divisão por −4 produz −3 e inverte > para <.",
+      "D": "Essa resposta se relaciona a sinal do produto. Aqui, a pista decisiva é outra. A divisão por −4 produz −3 e inverte > para <.",
+      "E": "Essa resposta se relaciona a igualdade e solução. Aqui, a pista decisiva é outra. A divisão por −4 produz −3 e inverte > para <."
+     },
+     "comentario": "A) Essa leitura falha neste caso. A divisão por −4 produz −3 e inverte > para <.\nB) Essa resposta se relaciona a limite inclusivo e inteiro. Aqui, a pista decisiva é outra. A divisão por −4 produz −3 e inverte > para <.\nC) Correta. A divisão por −4 produz −3 e inverte > para <.\nD) Essa resposta se relaciona a sinal do produto. Aqui, a pista decisiva é outra. A divisão por −4 produz −3 e inverte > para <.\nE) Essa resposta se relaciona a igualdade e solução. Aqui, a pista decisiva é outra. A divisão por −4 produz −3 e inverte > para <."
+    },
+    {
+     "id": "enem-equacoes-e-inequacoes-c14-q08",
+     "tipo": "me",
+     "texto_base": "Com R$ 45, uma pessoa paga R$ 7 de entrada e R$ 6 por rodada.",
+     "enunciado": "Qual é o máximo de rodadas pagas?",
+     "gabarito": "D",
+     "habilidade": "H21",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos — Equações e inequações",
+     "alternativas": {
+      "A": "7 rodadas",
+      "B": "1 < x < 5",
+      "C": "5 oficinas",
+      "D": "6 rodadas",
+      "E": "4 usos"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Essa leitura falha neste caso. 7 + 6x ≤ 45 dá x ≤ 38/6. Seis custam R$ 43; sete custariam R$ 49.",
+      "B": "Essa resposta se relaciona a sinal do produto. Aqui, a pista decisiva é outra. 7 + 6x ≤ 45 dá x ≤ 38/6. Seis custam R$ 43; sete custariam R$ 49.",
+      "C": "Essa resposta se relaciona a igualdade e solução. Aqui, a pista decisiva é outra. 7 + 6x ≤ 45 dá x ≤ 38/6. Seis custam R$ 43; sete custariam R$ 49.",
+      "D": "Correta. 7 + 6x ≤ 45 dá x ≤ 38/6. Seis custam R$ 43; sete custariam R$ 49.",
+      "E": "Essa resposta se relaciona a incógnita nos dois lados. Aqui, a pista decisiva é outra. 7 + 6x ≤ 45 dá x ≤ 38/6. Seis custam R$ 43; sete custariam R$ 49."
+     },
+     "comentario": "A) Essa leitura falha neste caso. 7 + 6x ≤ 45 dá x ≤ 38/6. Seis custam R$ 43; sete custariam R$ 49.\nB) Essa resposta se relaciona a sinal do produto. Aqui, a pista decisiva é outra. 7 + 6x ≤ 45 dá x ≤ 38/6. Seis custam R$ 43; sete custariam R$ 49.\nC) Essa resposta se relaciona a igualdade e solução. Aqui, a pista decisiva é outra. 7 + 6x ≤ 45 dá x ≤ 38/6. Seis custam R$ 43; sete custariam R$ 49.\nD) Correta. 7 + 6x ≤ 45 dá x ≤ 38/6. Seis custam R$ 43; sete custariam R$ 49.\nE) Essa resposta se relaciona a incógnita nos dois lados. Aqui, a pista decisiva é outra. 7 + 6x ≤ 45 dá x ≤ 38/6. Seis custam R$ 43; sete custariam R$ 49."
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Uma inscrição custa R$ 12 mais R$ 4 por oficina. O total pago foi R$ 32. De quantas oficinas a pessoa participou? Resposta: ___.",
+     "opcoes": [
+      "5 oficinas",
+      "8 oficinas",
+      "2 e 3"
+     ],
+     "respostas": [
+      "5 oficinas"
+     ],
+     "explicacao": "Resolver 12 + 4x = 32 resulta em 4x = 20, então x = 5."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Dois fatores reais são x − 1 e x − 5. Quando o produto é estritamente negativo? Resposta: ___.",
+     "opcoes": [
+      "1 < x < 5",
+      "x ≤ 1 ou x ≥ 5",
+      "4 usos"
+     ],
+     "respostas": [
+      "1 < x < 5"
+     ],
+     "explicacao": "Entre as raízes, x − 1 é positivo e x − 5 é negativo. Nas raízes, o produto vale zero."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a resolução do caso de equação quadrática por fatoração. Em um modelo, x² − 5x + 6 = 0. Quais raízes reais satisfazem a equação?",
+     "itens": [
+      "Identificar o que a pergunta quer saber.",
+      "Relacionar as pistas ao conceito estudado.",
+      "Formular a resposta sustentada pelas pistas.",
+      "Conferir se a resposta atende à pergunta."
+     ],
+     "explicacao": "Fatorando, obtemos (x − 2)(x − 3) = 0. Cada fator fornece uma raiz."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Igualdade e solução",
+       "Uma solução torna verdadeira a igualdade da equação original."
+      ],
+      [
+       "Incógnita nos dois lados",
+       "Isolar a incógnita exige aplicar operações equivalentes aos dois lados da igualdade."
+      ],
+      [
+       "Equação quadrática por fatoração",
+       "Um produto de fatores reais é zero quando pelo menos um fator é zero."
+      ],
+      [
+       "Inversão da desigualdade",
+       "Multiplicar ou dividir uma desigualdade por número negativo inverte o sentido do sinal."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

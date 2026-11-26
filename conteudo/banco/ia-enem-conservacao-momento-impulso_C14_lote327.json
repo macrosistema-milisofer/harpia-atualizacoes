@@ -1,0 +1,253 @@
+{
+ "assunto": "Conservação do momento e teorema do impulso",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-conservacao-momento-impulso-c14",
+   "titulo": "Conservação do momento e teorema do impulso",
+   "microconteudo": "RAIO-X DA PROVA: Interprete a situação e justifique a conclusão com a relação física pertinente. O impulso resultante equivale à variação de momento. O momento total se conserva na direção em que o impulso externo é nulo.\n\nPOR QUE IMPORTA:\nEm uma colisão entre carrinhos, as velocidades mudam rapidamente. A soma dos momentos pode permanecer igual mesmo que os carrinhos se prendam um ao outro.\n\nO QUE A BANCA COBRA:\nInterprete a situação e justifique a conclusão com a relação física pertinente. O impulso resultante equivale à variação de momento. O momento total se conserva na direção em que o impulso externo é nulo.\n\nENTENDA:\nComece por esta situação: Em uma colisão entre carrinhos, as velocidades mudam rapidamente. A soma dos momentos pode permanecer igual mesmo que os carrinhos se prendam um ao outro. Leia os dados disponíveis e faça uma previsão antes de procurar uma fórmula. O impulso resultante equivale à variação de momento. O momento total se conserva na direção em que o impulso externo é nulo. Um carrinho de 2 kg a 6 m/s se prende a outro de 4 kg parado. Sem impulso externo, a velocidade conjunta fica em 2 m/s.\n\nO tempo de contato pode mudar bastante o pico de força em um choque. Uma espuma comprime enquanto recebe uma bola, prolongando sua desaceleração. Para a mesma mudança de momento, isso reduz o módulo da força média. A energia cinética também pode virar deformação, som e energia interna. Separar esses balanços é essencial: a energia cinética pode cair mesmo quando o momento total se conserva.\n\nUm carrinho de 2 kg a 6 m/s se prende a outro de 4 kg parado. Sem impulso externo, a velocidade conjunta fica em 2 m/s. Ao interpretar esse exemplo, escreva a condição física que torna possível prever o resultado. Pergunte se ela continuaria valendo caso um dos dados omitidos passasse a ter importância. Diferencie o que você consegue concluir numericamente do que pode apenas prever qualitativamente. A descrição do resultado deve manter explícito qual corpo ou conjunto está sendo observado e em qual intervalo a afirmação é válida.\n\nConfira o significado das palavras da questão. O que é impulso? A integral da força no tempo, ou força média vezes intervalo.\nQual sua unidade? Newton segundo.\nQual é o teorema do impulso? Impulso resultante igual à variação de momento.\nQuando se conserva o momento total? Quando o impulso externo total é nulo.\nEnergia cinética sempre se conserva no choque? Não. A conservação exige choque elástico.\nComo calcular velocidade conjunta? Divida o momento total pela massa total. Se dois termos parecem próximos, compare o que cada um descreve no caso inicial. Em Física, trocar o nome de uma grandeza pode mudar o cálculo ou até o que se está tentando explicar. Escreva, ao lado de cada símbolo, qual parte da situação ele representa e em que unidade seria medido.\n\nExemplo 1. Dois carrinhos de 2 kg se unem: um chega a 6 m/s e o outro está parado. Qual a velocidade conjunta? A resposta é 3 m/s. O momento vale 12 e a massa total vale 4. Ignora a massa do carrinho inicialmente parado. É o número do momento do sistema. Divide duas vezes pela massa. O momento inicial é positivo.\n\nExemplo 2. Uma força de +15 N atua por 0,2 s. Qual seu impulso no eixo? A resposta é +3 N·s. Multiplique 15 por 0,2. Divide força por tempo. Seria o impulso em um segundo. Inverte o sentido. É o número do intervalo.\n\nExemplo 3. O momento inicial é +8 kg·m/s e o impulso externo é −2 N·s. Qual o momento final? A resposta é +6 kg·m/s. Some o impulso com o sinal dado. Desconsidera o sinal negativo. Inverte o resultado. Usa só o módulo do impulso. Inverte a velocidade sem base.\n\nExemplo 4. Um carrinho tem +4 kg·m/s e outro −4 kg·m/s antes de se unirem. Qual a velocidade final em sistema isolado? A resposta é 0 m/s. O momento total é zero. Usa só um dos momentos. Soma módulos de sentidos opostos. Usa apenas o segundo carrinho. Divide um momento isolado sem somar os dois.\n\nTeste de interpretação. Colisão com impulso externo nulo. Considere a afirmação: “O momento total se conserva.” Certo. Forças internas não alteram o momento total. Dois carrinhos ficam unidos. Considere a afirmação: “A energia cinética necessariamente se conserva.” Errado. A união é característica de choque perfeitamente inelástico. Força constante de 4 N atua por 2 s. Considere a afirmação: “Seu impulso vale 8 N·s.” Certo. O impulso é o produto da força pelo tempo. Força variável. Considere a afirmação: “O impulso é dado apenas pelo pico da força.” Errado. É a área algébrica sob a curva força-tempo.\n\nUma sequência de resolução é útil quando a questão traz mais dados que o necessário. Primeiro, escolher os corpos do sistema. Depois, definir o sentido positivo. Em seguida, comparar impulso externo e momento total. Por último, resolver a equação para o estado final. Explique oralmente por que cada passo vem nessa posição. Se a última conclusão mudar quando você troca um detalhe do enunciado, localize qual hipótese provocou essa mudança. Isso ajuda a distinguir o resultado de uma conta das condições em que ele vale.\n\nEm uma prova, procure separar o que o texto observou, o que o modelo assume e o que você concluiu. Um valor informado é um dado. Uma condição como desprezar o atrito ou tratar o intervalo como uniforme pode ser uma hipótese. Já o resultado é aquilo que você obtém ao combinar os dados com a regra escolhida. Se houver tabela ou figura, confira a legenda, os eixos e as unidades antes de usar os números. Para revisar, refaça um dos exemplos mudando um dado por vez e preveja o sentido da mudança antes de calcular.\n\nCheck de leitura. Escolha dois exemplos desta lição e compare o papel de cada informação. O que foi medido diretamente? Qual relação precisou ser usada para inferir uma resposta? Há alguma observação que, sozinha, seria insuficiente? Se a resposta for um número, faça uma estimativa simples para checar se ele é plausível. Se for uma explicação, procure indicar qual condição a torna válida. Depois, tente escrever uma resposta que inclua o dado utilizado, o raciocínio e a conclusão em uma ou duas frases.\n\nAo montar um rascunho, deixe os dados de um lado e a conclusão do outro. Comece pelo dado que tem relação direta com a pergunta. Caso sobrem informações, veja se elas servem para comparar hipóteses ou apenas situar a história. Em uma comparação, mantenha a mesma referência e o mesmo intervalo sempre que o enunciado permitir. Quando um resultado contradiz a previsão inicial, revise primeiro a interpretação do que foi pedido; em seguida, revise a operação e as condições assumidas.\n\nNa primeira, destaque o que o enunciado informa sobre as condições da situação. Na segunda, explique como a regra escolhida conecta essas condições ao resultado. Se houver um cálculo, escreva as unidades intermediárias. Em uma resposta sobre direção ou sentido, declare a orientação de referência. Uma alternativa pode conter um número familiar do enunciado e ainda responder sobre a grandeza errada.\n\nPara fechar, compare estas duas situações e procure a diferença física entre elas. Colisão com impulso externo nulo. Dois carrinhos ficam unidos. Quando o contexto muda, a leitura deve partir das informações apresentadas naquele caso. Considere a primeira afirmação e justifique o resultado: “O momento total se conserva.” Certo. Forças internas não alteram o momento total. Agora avalie a segunda: “A energia cinética necessariamente se conserva.” Errado. A união é característica de choque perfeitamente inelástico. Uma explicação adequada pode usar palavras e cálculos, desde que a relação com a situação seja clara. Pense em qual mudança nos dados tornaria cada afirmação válida ou inválida.\n\nUse este conjunto de definições como roteiro para checar o raciocínio. O que é impulso? A integral da força no tempo, ou força média vezes intervalo.\nQual sua unidade? Newton segundo.\nQual é o teorema do impulso? Impulso resultante igual à variação de momento.\nQuando se conserva o momento total? Quando o impulso externo total é nulo.\nEnergia cinética sempre se conserva no choque? Não. A conservação exige choque elástico.\nComo calcular velocidade conjunta? Divida o momento total pela massa total. Ao voltar aos dados do começo, selecione as definições pertinentes ao caso. Leia a conclusão como se ela fosse uma frase independente: confira a unidade, a referência adotada e a condição de validade.\n\nTROCANDO EM MIÚDOS:\nImagine a situação do começo da lição. Em uma colisão entre carrinhos, as velocidades mudam rapidamente. A soma dos momentos pode permanecer igual mesmo que os carrinhos se prendam um ao outro. Um carrinho de 2 kg a 6 m/s se prende a outro de 4 kg parado. Sem impulso externo, a velocidade conjunta fica em 2 m/s.\n\nA regra principal pode ser escrita assim: O impulso resultante equivale à variação de momento. O momento total se conserva na direção em que o impulso externo é nulo. Tente explicar essa regra em voz alta para alguém que ainda não viu o conteúdo, usando o exemplo inicial como apoio.\n\nAntes de marcar uma alternativa, faça esta checagem. O que é impulso? A integral da força no tempo, ou força média vezes intervalo. Qual sua unidade? Newton segundo. Qual é o teorema do impulso? Impulso resultante igual à variação de momento. Quando se conserva o momento total? Quando o impulso externo total é nulo. Energia cinética sempre se conserva no choque? Não. A conservação exige choque elástico. Como calcular velocidade conjunta? Divida o momento total pela massa total.\n\nEm um rascunho curto, anote quatro passos. Escolher os corpos do sistema. Definir o sentido positivo. Comparar impulso externo e momento total. Resolver a equação para o estado final. Em seguida, tente aplicar os passos a um exemplo com números ou condições diferentes. As grandezas que foram medidas e o que você quer descobrir devem ficar em linhas separadas. Isso ajuda a identificar qual informação ainda falta.\n\nExperimente responder a esta situação sem olhar as opções. Dois carrinhos de 2 kg se unem: um chega a 6 m/s e o outro está parado. Qual a velocidade conjunta? O momento vale 12 e a massa total vale 4. Depois, confira nos exemplos quais seriam as consequências de escolher uma interpretação diferente. Se tiver que refazer, comece pelas condições do problema e pelo significado de cada dado.\n\nPara fixar, releia uma afirmação verdadeira e uma falsa da lição. Reescreva a falsa trocando só o trecho necessário para corrigi-la. Na afirmação verdadeira, diga qual detalhe do enunciado permite chegar a essa conclusão. Assim você pratica explicar um resultado, além de reconhecer qual opção está certa.\n\nLEI SECA:\nO impulso resultante equivale à variação de momento. O momento total se conserva na direção em que o impulso externo é nulo.\n\nSÚMULAS E TESES:\nUm carrinho de 2 kg a 6 m/s se prende a outro de 4 kg parado. Sem impulso externo, a velocidade conjunta fica em 2 m/s.\n\nESQUEMA:\nEscolher os corpos do sistema → Definir o sentido positivo → Comparar impulso externo e momento total → Resolver a equação para o estado final\n\nPEGADINHAS:\n1. Certo. Forças internas não alteram o momento total.\n2. Errado. A união é característica de choque perfeitamente inelástico.\n3. Certo. O impulso é o produto da força pelo tempo.\n4. Errado. É a área algébrica sob a curva força-tempo.\n\nDOUTRINA:\nOpenStax — College Physics 2e, Conservation of Momentum\n\nNA PRÁTICA:\nExemplo 1. Dois carrinhos de 2 kg se unem: um chega a 6 m/s e o outro está parado. Qual a velocidade conjunta? A resposta é 3 m/s. O momento vale 12 e a massa total vale 4. Ignora a massa do carrinho inicialmente parado. É o número do momento do sistema. Divide duas vezes pela massa. O momento inicial é positivo.",
+   "flashcards": [
+    {
+     "frente": "O que é impulso?",
+     "verso": "A integral da força no tempo, ou força média vezes intervalo.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Lei da conservação da quantidade de movimento (momento linear) e teorema do impulso"
+    },
+    {
+     "frente": "Qual sua unidade?",
+     "verso": "Newton segundo.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Lei da conservação da quantidade de movimento (momento linear) e teorema do impulso"
+    },
+    {
+     "frente": "Qual é o teorema do impulso?",
+     "verso": "Impulso resultante igual à variação de momento.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Lei da conservação da quantidade de movimento (momento linear) e teorema do impulso"
+    },
+    {
+     "frente": "Quando se conserva o momento total?",
+     "verso": "Quando o impulso externo total é nulo.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Lei da conservação da quantidade de movimento (momento linear) e teorema do impulso"
+    },
+    {
+     "frente": "Energia cinética sempre se conserva no choque?",
+     "verso": "Não. A conservação exige choque elástico.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Lei da conservação da quantidade de movimento (momento linear) e teorema do impulso"
+    },
+    {
+     "frente": "Como calcular velocidade conjunta?",
+     "verso": "Divida o momento total pela massa total.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Lei da conservação da quantidade de movimento (momento linear) e teorema do impulso"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-conservacao-momento-impulso-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Colisão com impulso externo nulo.",
+     "enunciado": "O momento total se conserva.",
+     "gabarito": "C",
+     "comentario": "Certo. Forças internas não alteram o momento total.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Lei da conservação da quantidade de movimento (momento linear) e teorema do impulso"
+    },
+    {
+     "id": "enem-fisica-conservacao-momento-impulso-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Dois carrinhos ficam unidos.",
+     "enunciado": "A energia cinética necessariamente se conserva.",
+     "gabarito": "E",
+     "comentario": "Errado. A união é característica de choque perfeitamente inelástico.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Lei da conservação da quantidade de movimento (momento linear) e teorema do impulso"
+    },
+    {
+     "id": "enem-fisica-conservacao-momento-impulso-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Força constante de 4 N atua por 2 s.",
+     "enunciado": "Seu impulso vale 8 N·s.",
+     "gabarito": "C",
+     "comentario": "Certo. O impulso é o produto da força pelo tempo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Lei da conservação da quantidade de movimento (momento linear) e teorema do impulso"
+    },
+    {
+     "id": "enem-fisica-conservacao-momento-impulso-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Força variável.",
+     "enunciado": "O impulso é dado apenas pelo pico da força.",
+     "gabarito": "E",
+     "comentario": "Errado. É a área algébrica sob a curva força-tempo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Lei da conservação da quantidade de movimento (momento linear) e teorema do impulso"
+    },
+    {
+     "id": "enem-fisica-conservacao-momento-impulso-c14-q05",
+     "tipo": "me",
+     "texto_base": "Dois carrinhos de 2 kg se unem: um chega a 6 m/s e o outro está parado.",
+     "enunciado": "Qual a velocidade conjunta?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "6 m/s",
+      "B": "3 m/s",
+      "C": "12 m/s",
+      "D": "1,5 m/s",
+      "E": "0 m/s"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Ignora a massa do carrinho inicialmente parado.",
+      "B": "Correta. O momento vale 12 e a massa total vale 4.",
+      "C": "É o número do momento do sistema.",
+      "D": "Divide duas vezes pela massa.",
+      "E": "O momento inicial é positivo."
+     },
+     "comentario": "A) Ignora a massa do carrinho inicialmente parado.\nB) Correta. O momento vale 12 e a massa total vale 4.\nC) É o número do momento do sistema.\nD) Divide duas vezes pela massa.\nE) O momento inicial é positivo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Lei da conservação da quantidade de movimento (momento linear) e teorema do impulso"
+    },
+    {
+     "id": "enem-fisica-conservacao-momento-impulso-c14-q06",
+     "tipo": "me",
+     "texto_base": "Uma força de +15 N atua por 0,2 s.",
+     "enunciado": "Qual seu impulso no eixo?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "+75 N·s",
+      "B": "+15 N·s",
+      "C": "−3 N·s",
+      "D": "+3 N·s",
+      "E": "+0,2 N·s"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Divide força por tempo.",
+      "B": "Seria o impulso em um segundo.",
+      "C": "Inverte o sentido.",
+      "D": "Correta. Multiplique 15 por 0,2.",
+      "E": "É o número do intervalo."
+     },
+     "comentario": "A) Divide força por tempo.\nB) Seria o impulso em um segundo.\nC) Inverte o sentido.\nD) Correta. Multiplique 15 por 0,2.\nE) É o número do intervalo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Lei da conservação da quantidade de movimento (momento linear) e teorema do impulso"
+    },
+    {
+     "id": "enem-fisica-conservacao-momento-impulso-c14-q07",
+     "tipo": "me",
+     "texto_base": "O momento inicial é +8 kg·m/s e o impulso externo é −2 N·s.",
+     "enunciado": "Qual o momento final?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "+6 kg·m/s",
+      "B": "+10 kg·m/s",
+      "C": "−6 kg·m/s",
+      "D": "+2 kg·m/s",
+      "E": "−8 kg·m/s"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Some o impulso com o sinal dado.",
+      "B": "Desconsidera o sinal negativo.",
+      "C": "Inverte o resultado.",
+      "D": "Usa só o módulo do impulso.",
+      "E": "Inverte a velocidade sem base."
+     },
+     "comentario": "A) Correta. Some o impulso com o sinal dado.\nB) Desconsidera o sinal negativo.\nC) Inverte o resultado.\nD) Usa só o módulo do impulso.\nE) Inverte a velocidade sem base.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Lei da conservação da quantidade de movimento (momento linear) e teorema do impulso"
+    },
+    {
+     "id": "enem-fisica-conservacao-momento-impulso-c14-q08",
+     "tipo": "me",
+     "texto_base": "Um carrinho tem +4 kg·m/s e outro −4 kg·m/s antes de se unirem.",
+     "enunciado": "Qual a velocidade final em sistema isolado?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "4 m/s",
+      "B": "8 m/s",
+      "C": "−4 m/s",
+      "D": "2 m/s",
+      "E": "0 m/s"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Usa só um dos momentos.",
+      "B": "Soma módulos de sentidos opostos.",
+      "C": "Usa apenas o segundo carrinho.",
+      "D": "Divide um momento isolado sem somar os dois.",
+      "E": "Correta. O momento total é zero."
+     },
+     "comentario": "A) Usa só um dos momentos.\nB) Soma módulos de sentidos opostos.\nC) Usa apenas o segundo carrinho.\nD) Divide um momento isolado sem somar os dois.\nE) Correta. O momento total é zero.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Lei da conservação da quantidade de movimento (momento linear) e teorema do impulso"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O que é impulso? Resposta: ___.",
+     "opcoes": [
+      "A integral da força no tempo, ou força média vezes intervalo.",
+      "Newton segundo.",
+      "Impulso resultante igual à variação de momento.",
+      "Quando o impulso externo total é nulo."
+     ],
+     "respostas": [
+      "A integral da força no tempo, ou força média vezes intervalo."
+     ],
+     "explicacao": "A integral da força no tempo, ou força média vezes intervalo."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Energia cinética sempre se conserva no choque? Resposta: ___.",
+     "opcoes": [
+      "Impulso resultante igual à variação de momento.",
+      "Quando o impulso externo total é nulo.",
+      "Não. A conservação exige choque elástico.",
+      "Divida o momento total pela massa total."
+     ],
+     "respostas": [
+      "Não. A conservação exige choque elástico."
+     ],
+     "explicacao": "Não. A conservação exige choque elástico."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma situação sobre conservação do momento e teorema do impulso.",
+     "itens": [
+      "Escolher os corpos do sistema.",
+      "Definir o sentido positivo.",
+      "Comparar impulso externo e momento total.",
+      "Resolver a equação para o estado final."
+     ],
+     "explicacao": "O impulso resultante equivale à variação de momento. O momento total se conserva na direção em que o impulso externo é nulo."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O que é impulso?",
+       "A integral da força no tempo, ou força média vezes intervalo."
+      ],
+      [
+       "Qual sua unidade?",
+       "Newton segundo."
+      ],
+      [
+       "Qual é o teorema do impulso?",
+       "Impulso resultante igual à variação de momento."
+      ],
+      [
+       "Quando se conserva o momento total?",
+       "Quando o impulso externo total é nulo."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

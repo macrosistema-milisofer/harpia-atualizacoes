@@ -1,0 +1,253 @@
+{
+ "assunto": "Empuxo e peso do fluido deslocado",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-empuxo-c14",
+   "titulo": "Empuxo e peso do fluido deslocado",
+   "microconteudo": "RAIO-X DA PROVA: Interprete a situação e justifique a conclusão com a relação física pertinente. O empuxo tem módulo igual ao peso do fluido deslocado: E = ρ do fluido × g × volume submerso.\n\nPOR QUE IMPORTA:\nUma bola submersa tende a subir. A diferença de pressão entre seu fundo e seu topo produz uma força vertical para cima.\n\nO QUE A BANCA COBRA:\nInterprete a situação e justifique a conclusão com a relação física pertinente. O empuxo tem módulo igual ao peso do fluido deslocado: E = ρ do fluido × g × volume submerso.\n\nENTENDA:\nComece por esta situação: Uma bola submersa tende a subir. A diferença de pressão entre seu fundo e seu topo produz uma força vertical para cima. Leia os dados disponíveis e faça uma previsão antes de procurar uma fórmula. O empuxo tem módulo igual ao peso do fluido deslocado: E = ρ do fluido × g × volume submerso. Se 0,002 m³ de água forem deslocados, com densidade 1.000 kg/m³ e g = 10 m/s², o empuxo vale 20 N.\n\nUm barco flutua porque seu casco permite deslocar bastante água com massa total relativamente pequena. Ao colocar carga no barco, o peso aumenta, então o casco precisa afundar um pouco mais para deslocar maior volume e elevar o empuxo até recuperar o equilíbrio. Se essa condição não puder ser alcançada mantendo o casco acima da água, o modelo deixa de prever flutuação estável.\n\nSe 0,002 m³ de água forem deslocados, com densidade 1.000 kg/m³ e g = 10 m/s², o empuxo vale 20 N. Ao interpretar esse exemplo, escreva a condição física que torna possível prever o resultado. Pergunte se ela continuaria valendo caso um dos dados omitidos passasse a ter importância. Diferencie o que você consegue concluir numericamente do que pode apenas prever qualitativamente. A descrição do resultado deve manter explícito qual corpo ou conjunto está sendo observado e em qual intervalo a afirmação é válida.\n\nConfira o significado das palavras da questão. O que é empuxo? A resultante das forças de pressão do fluido sobre um corpo, no modelo hidrostático.\nQual é seu sentido nesse modelo? Vertical para cima em um fluido uniforme em repouso sob gravidade.\nQue volume entra no cálculo? O volume de fluido deslocado.\nQue densidade entra na fórmula? A densidade do fluido.\nQuanto vale o empuxo sobre objeto que flutua livremente? Igual ao módulo do peso em equilíbrio.\nPode um corpo que afunda receber empuxo? Sim, mesmo se o empuxo for menor que o peso. Se dois termos parecem próximos, compare o que cada um descreve no caso inicial. Em Física, trocar o nome de uma grandeza pode mudar o cálculo ou até o que se está tentando explicar. Escreva, ao lado de cada símbolo, qual parte da situação ele representa e em que unidade seria medido.\n\nExemplo 1. Um corpo desloca 0,003 m³ de água; ρ = 1.000 kg/m³ e g = 10 m/s². Qual o empuxo? A resposta é 30 N. Multiplique 1.000, 0,003 e 10. É o número da massa de água deslocada. Exagera o volume por um fator dez. Omite a densidade da água. Soma massa deslocada e g.\n\nExemplo 2. Um objeto flutua livremente em equilíbrio e pesa 18 N. Qual é o empuxo em módulo? A resposta é 18 N. O empuxo equilibra o peso. Haveria força para baixo. O peso não é dividido por dois. Duplica o peso. É o número da massa para g igual a 10 m/s².\n\nExemplo 3. Um bloco totalmente imerso recebe empuxo de 40 N e pesa 55 N. Despreze outras forças. Qual o módulo da resultante? A resposta é 15 N. O peso é maior e a diferença vale 15. Soma módulos com sentidos opostos. Desconsidera o peso. Ignora o empuxo. As forças não se equilibram.\n\nExemplo 4. Um corpo desloca 0,002 m³ de óleo de densidade 800 kg/m³ onde g = 10 m/s². Qual é o empuxo? A resposta é 16 N. O produto 800 × 0,002 × 10 vale 16. Seria para um fluido de densidade 1.000 kg/m³. É a massa deslocada em quilogramas. Usa volume dez vezes maior. Corresponde a metade do volume informado.\n\nTeste de interpretação. Um corpo flutua sem fio nem apoio. Considere a afirmação: “O peso é equilibrado pelo empuxo.” Certo. O corpo está em equilíbrio. Uma pedra afunda na água. Considere a afirmação: “Ela não recebe empuxo.” Errado. O empuxo atua mesmo quando é menor que o peso. Dois corpos deslocam o mesmo volume de um líquido homogêneo. Considere a afirmação: “Recebem empuxos iguais no mesmo local.” Certo. Densidade, g e volume deslocado são iguais. Um bloco flutua parcialmente fora da água. Considere a afirmação: “Usa-se sempre seu volume total para calcular o empuxo.” Errado. Usa-se o volume efetivamente submerso.\n\nUma sequência de resolução é útil quando a questão traz mais dados que o necessário. Primeiro, identificar o fluido. Depois, ler a densidade e o volume deslocado. Em seguida, multiplicar densidade, volume e g. Por último, comparar empuxo e outras forças. Explique oralmente por que cada passo vem nessa posição. Se a última conclusão mudar quando você troca um detalhe do enunciado, localize qual hipótese provocou essa mudança. Isso ajuda a distinguir o resultado de uma conta das condições em que ele vale.\n\nEm uma prova, procure separar o que o texto observou, o que o modelo assume e o que você concluiu. Um valor informado é um dado. Uma condição como desprezar o atrito ou tratar o intervalo como uniforme pode ser uma hipótese. Já o resultado é aquilo que você obtém ao combinar os dados com a regra escolhida. Se houver tabela ou figura, confira a legenda, os eixos e as unidades antes de usar os números. Para revisar, refaça um dos exemplos mudando um dado por vez e preveja o sentido da mudança antes de calcular.\n\nCheck de leitura. Escolha dois exemplos desta lição e compare o papel de cada informação. O que foi medido diretamente? Qual relação precisou ser usada para inferir uma resposta? Há alguma observação que, sozinha, seria insuficiente? Se a resposta for um número, faça uma estimativa simples para checar se ele é plausível. Se for uma explicação, procure indicar qual condição a torna válida. Depois, tente escrever uma resposta que inclua o dado utilizado, o raciocínio e a conclusão em uma ou duas frases.\n\nAo montar um rascunho, deixe os dados de um lado e a conclusão do outro. Comece pelo dado que tem relação direta com a pergunta. Caso sobrem informações, veja se elas servem para comparar hipóteses ou apenas situar a história. Em uma comparação, mantenha a mesma referência e o mesmo intervalo sempre que o enunciado permitir. Quando um resultado contradiz a previsão inicial, revise primeiro a interpretação do que foi pedido; em seguida, revise a operação e as condições assumidas.\n\nNa primeira, destaque o que o enunciado informa sobre as condições da situação. Na segunda, explique como a regra escolhida conecta essas condições ao resultado. Se houver um cálculo, escreva as unidades intermediárias. Em uma resposta sobre direção ou sentido, declare a orientação de referência. Uma alternativa pode conter um número familiar do enunciado e ainda responder sobre a grandeza errada.\n\nPara fechar, compare estas duas situações e procure a diferença física entre elas. Um corpo flutua sem fio nem apoio. Uma pedra afunda na água. Quando o contexto muda, a leitura deve partir das informações apresentadas naquele caso. Considere a primeira afirmação e justifique o resultado: “O peso é equilibrado pelo empuxo.” Certo. O corpo está em equilíbrio. Agora avalie a segunda: “Ela não recebe empuxo.” Errado. O empuxo atua mesmo quando é menor que o peso. Uma explicação adequada pode usar palavras e cálculos, desde que a relação com a situação seja clara. Pense em qual mudança nos dados tornaria cada afirmação válida ou inválida.\n\nUse este conjunto de definições como roteiro para checar o raciocínio. O que é empuxo? A resultante das forças de pressão do fluido sobre um corpo, no modelo hidrostático.\nQual é seu sentido nesse modelo? Vertical para cima em um fluido uniforme em repouso sob gravidade.\nQue volume entra no cálculo? O volume de fluido deslocado.\nQue densidade entra na fórmula? A densidade do fluido.\nQuanto vale o empuxo sobre objeto que flutua livremente? Igual ao módulo do peso em equilíbrio.\nPode um corpo que afunda receber empuxo? Sim, mesmo se o empuxo for menor que o peso. Ao voltar aos dados do começo, selecione as definições pertinentes ao caso. Leia a conclusão como se ela fosse uma frase independente: confira a unidade, a referência adotada e a condição de validade.\n\nTROCANDO EM MIÚDOS:\nImagine a situação do começo da lição. Uma bola submersa tende a subir. A diferença de pressão entre seu fundo e seu topo produz uma força vertical para cima. Se 0,002 m³ de água forem deslocados, com densidade 1.000 kg/m³ e g = 10 m/s², o empuxo vale 20 N.\n\nA regra principal pode ser escrita assim: O empuxo tem módulo igual ao peso do fluido deslocado: E = ρ do fluido × g × volume submerso. Tente explicar essa regra em voz alta para alguém que ainda não viu o conteúdo, usando o exemplo inicial como apoio.\n\nAntes de marcar uma alternativa, faça esta checagem. O que é empuxo? A resultante das forças de pressão do fluido sobre um corpo, no modelo hidrostático. Qual é seu sentido nesse modelo? Vertical para cima em um fluido uniforme em repouso sob gravidade. Que volume entra no cálculo? O volume de fluido deslocado. Que densidade entra na fórmula? A densidade do fluido. Quanto vale o empuxo sobre objeto que flutua livremente? Igual ao módulo do peso em equilíbrio. Pode um corpo que afunda receber empuxo? Sim, mesmo se o empuxo for menor que o peso.\n\nEm um rascunho curto, anote quatro passos. Identificar o fluido. Ler a densidade e o volume deslocado. Multiplicar densidade, volume e g. Comparar empuxo e outras forças. Em seguida, tente aplicar os passos a um exemplo com números ou condições diferentes. As grandezas que foram medidas e o que você quer descobrir devem ficar em linhas separadas. Isso ajuda a identificar qual informação ainda falta.\n\nExperimente responder a esta situação sem olhar as opções. Um corpo desloca 0,003 m³ de água; ρ = 1.000 kg/m³ e g = 10 m/s². Qual o empuxo? Multiplique 1.000, 0,003 e 10. Depois, confira nos exemplos quais seriam as consequências de escolher uma interpretação diferente. Se tiver que refazer, comece pelas condições do problema e pelo significado de cada dado.\n\nPara fixar, releia uma afirmação verdadeira e uma falsa da lição. Reescreva a falsa trocando só o trecho necessário para corrigi-la. Na afirmação verdadeira, diga qual detalhe do enunciado permite chegar a essa conclusão. Assim você pratica explicar um resultado, além de reconhecer qual opção está certa.\n\nLEI SECA:\nO empuxo tem módulo igual ao peso do fluido deslocado: E = ρ do fluido × g × volume submerso.\n\nSÚMULAS E TESES:\nSe 0,002 m³ de água forem deslocados, com densidade 1.000 kg/m³ e g = 10 m/s², o empuxo vale 20 N.\n\nESQUEMA:\nIdentificar o fluido → Ler a densidade e o volume deslocado → Multiplicar densidade, volume e g → Comparar empuxo e outras forças\n\nPEGADINHAS:\n1. Certo. O corpo está em equilíbrio.\n2. Errado. O empuxo atua mesmo quando é menor que o peso.\n3. Certo. Densidade, g e volume deslocado são iguais.\n4. Errado. Usa-se o volume efetivamente submerso.\n\nDOUTRINA:\nOpenStax — College Physics 2e, Archimedes’ Principle\n\nNA PRÁTICA:\nExemplo 1. Um corpo desloca 0,003 m³ de água; ρ = 1.000 kg/m³ e g = 10 m/s². Qual o empuxo? A resposta é 30 N. Multiplique 1.000, 0,003 e 10. É o número da massa de água deslocada. Exagera o volume por um fator dez. Omite a densidade da água. Soma massa deslocada e g.",
+   "flashcards": [
+    {
+     "frente": "O que é empuxo?",
+     "verso": "A resultante das forças de pressão do fluido sobre um corpo, no modelo hidrostático.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Empuxo"
+    },
+    {
+     "frente": "Qual é seu sentido nesse modelo?",
+     "verso": "Vertical para cima em um fluido uniforme em repouso sob gravidade.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Empuxo"
+    },
+    {
+     "frente": "Que volume entra no cálculo?",
+     "verso": "O volume de fluido deslocado.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Empuxo"
+    },
+    {
+     "frente": "Que densidade entra na fórmula?",
+     "verso": "A densidade do fluido.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Empuxo"
+    },
+    {
+     "frente": "Quanto vale o empuxo sobre objeto que flutua livremente?",
+     "verso": "Igual ao módulo do peso em equilíbrio.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Empuxo"
+    },
+    {
+     "frente": "Pode um corpo que afunda receber empuxo?",
+     "verso": "Sim, mesmo se o empuxo for menor que o peso.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Empuxo"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-empuxo-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Um corpo flutua sem fio nem apoio.",
+     "enunciado": "O peso é equilibrado pelo empuxo.",
+     "gabarito": "C",
+     "comentario": "Certo. O corpo está em equilíbrio.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Empuxo"
+    },
+    {
+     "id": "enem-fisica-empuxo-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Uma pedra afunda na água.",
+     "enunciado": "Ela não recebe empuxo.",
+     "gabarito": "E",
+     "comentario": "Errado. O empuxo atua mesmo quando é menor que o peso.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Empuxo"
+    },
+    {
+     "id": "enem-fisica-empuxo-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Dois corpos deslocam o mesmo volume de um líquido homogêneo.",
+     "enunciado": "Recebem empuxos iguais no mesmo local.",
+     "gabarito": "C",
+     "comentario": "Certo. Densidade, g e volume deslocado são iguais.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Empuxo"
+    },
+    {
+     "id": "enem-fisica-empuxo-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Um bloco flutua parcialmente fora da água.",
+     "enunciado": "Usa-se sempre seu volume total para calcular o empuxo.",
+     "gabarito": "E",
+     "comentario": "Errado. Usa-se o volume efetivamente submerso.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Empuxo"
+    },
+    {
+     "id": "enem-fisica-empuxo-c14-q05",
+     "tipo": "me",
+     "texto_base": "Um corpo desloca 0,003 m³ de água; ρ = 1.000 kg/m³ e g = 10 m/s².",
+     "enunciado": "Qual o empuxo?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "3 N",
+      "B": "30 N",
+      "C": "300 N",
+      "D": "0,03 N",
+      "E": "13 N"
+     },
+     "comentarios_por_alternativa": {
+      "A": "É o número da massa de água deslocada.",
+      "B": "Correta. Multiplique 1.000, 0,003 e 10.",
+      "C": "Exagera o volume por um fator dez.",
+      "D": "Omite a densidade da água.",
+      "E": "Soma massa deslocada e g."
+     },
+     "comentario": "A) É o número da massa de água deslocada.\nB) Correta. Multiplique 1.000, 0,003 e 10.\nC) Exagera o volume por um fator dez.\nD) Omite a densidade da água.\nE) Soma massa deslocada e g.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Empuxo"
+    },
+    {
+     "id": "enem-fisica-empuxo-c14-q06",
+     "tipo": "me",
+     "texto_base": "Um objeto flutua livremente em equilíbrio e pesa 18 N.",
+     "enunciado": "Qual é o empuxo em módulo?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "0 N",
+      "B": "9 N",
+      "C": "36 N",
+      "D": "18 N",
+      "E": "1,8 N"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Haveria força para baixo.",
+      "B": "O peso não é dividido por dois.",
+      "C": "Duplica o peso.",
+      "D": "Correta. O empuxo equilibra o peso.",
+      "E": "É o número da massa para g igual a 10 m/s²."
+     },
+     "comentario": "A) Haveria força para baixo.\nB) O peso não é dividido por dois.\nC) Duplica o peso.\nD) Correta. O empuxo equilibra o peso.\nE) É o número da massa para g igual a 10 m/s².",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Empuxo"
+    },
+    {
+     "id": "enem-fisica-empuxo-c14-q07",
+     "tipo": "me",
+     "texto_base": "Um bloco totalmente imerso recebe empuxo de 40 N e pesa 55 N. Despreze outras forças.",
+     "enunciado": "Qual o módulo da resultante?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "15 N",
+      "B": "95 N",
+      "C": "40 N",
+      "D": "55 N",
+      "E": "0 N"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. O peso é maior e a diferença vale 15.",
+      "B": "Soma módulos com sentidos opostos.",
+      "C": "Desconsidera o peso.",
+      "D": "Ignora o empuxo.",
+      "E": "As forças não se equilibram."
+     },
+     "comentario": "A) Correta. O peso é maior e a diferença vale 15.\nB) Soma módulos com sentidos opostos.\nC) Desconsidera o peso.\nD) Ignora o empuxo.\nE) As forças não se equilibram.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Empuxo"
+    },
+    {
+     "id": "enem-fisica-empuxo-c14-q08",
+     "tipo": "me",
+     "texto_base": "Um corpo desloca 0,002 m³ de óleo de densidade 800 kg/m³ onde g = 10 m/s².",
+     "enunciado": "Qual é o empuxo?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "20 N",
+      "B": "1,6 N",
+      "C": "160 N",
+      "D": "8 N",
+      "E": "16 N"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Seria para um fluido de densidade 1.000 kg/m³.",
+      "B": "É a massa deslocada em quilogramas.",
+      "C": "Usa volume dez vezes maior.",
+      "D": "Corresponde a metade do volume informado.",
+      "E": "Correta. O produto 800 × 0,002 × 10 vale 16."
+     },
+     "comentario": "A) Seria para um fluido de densidade 1.000 kg/m³.\nB) É a massa deslocada em quilogramas.\nC) Usa volume dez vezes maior.\nD) Corresponde a metade do volume informado.\nE) Correta. O produto 800 × 0,002 × 10 vale 16.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Empuxo"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O que é empuxo? Resposta: ___.",
+     "opcoes": [
+      "A resultante das forças de pressão do fluido sobre um corpo, no modelo hidrostático.",
+      "Vertical para cima em um fluido uniforme em repouso sob gravidade.",
+      "O volume de fluido deslocado.",
+      "A densidade do fluido."
+     ],
+     "respostas": [
+      "A resultante das forças de pressão do fluido sobre um corpo, no modelo hidrostático."
+     ],
+     "explicacao": "A resultante das forças de pressão do fluido sobre um corpo, no modelo hidrostático."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Quanto vale o empuxo sobre objeto que flutua livremente? Resposta: ___.",
+     "opcoes": [
+      "O volume de fluido deslocado.",
+      "A densidade do fluido.",
+      "Igual ao módulo do peso em equilíbrio.",
+      "Sim, mesmo se o empuxo for menor que o peso."
+     ],
+     "respostas": [
+      "Igual ao módulo do peso em equilíbrio."
+     ],
+     "explicacao": "Igual ao módulo do peso em equilíbrio."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma situação sobre empuxo e peso do fluido deslocado.",
+     "itens": [
+      "Identificar o fluido.",
+      "Ler a densidade e o volume deslocado.",
+      "Multiplicar densidade, volume e g.",
+      "Comparar empuxo e outras forças."
+     ],
+     "explicacao": "O empuxo tem módulo igual ao peso do fluido deslocado: E = ρ do fluido × g × volume submerso."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O que é empuxo?",
+       "A resultante das forças de pressão do fluido sobre um corpo, no modelo hidrostático."
+      ],
+      [
+       "Qual é seu sentido nesse modelo?",
+       "Vertical para cima em um fluido uniforme em repouso sob gravidade."
+      ],
+      [
+       "Que volume entra no cálculo?",
+       "O volume de fluido deslocado."
+      ],
+      [
+       "Que densidade entra na fórmula?",
+       "A densidade do fluido."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

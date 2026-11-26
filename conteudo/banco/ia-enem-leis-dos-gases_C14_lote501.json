@@ -1,0 +1,253 @@
+{
+ "assunto": "Leis dos gases: pressão, volume e temperatura",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-leis-dos-gases-c14",
+   "titulo": "Leis dos gases: pressão, volume e temperatura",
+   "microconteudo": "RAIO-X DA PROVA: Em questões do Enem sobre gases, compare as condições de dois estados e identifique a grandeza mantida constante. Cálculos com temperatura exigem a escala absoluta.\n\nPOR QUE IMPORTA:\nUma seringa tampada oferece resistência quando o ar preso é comprimido. As leis dos gases explicam essa observação e ajudam a analisar processos como o funcionamento de recipientes flexíveis e o aquecimento em reservatórios.\n\nO QUE A BANCA COBRA:\nA prova pode descrever um dispositivo, mostrar um gráfico ou pedir uma previsão. Identifique as grandezas que variam e as que permanecem constantes, use pressões absolutas e converta temperaturas para kelvin quando houver razões de temperatura.\n\nENTENDA:\nUma seringa sem agulha, com a saída fechada, serve como modelo mental. Imagine que o ar preso está inicialmente em equilíbrio com a temperatura do ambiente. Você empurra o êmbolo e segura na posição final. Agora o ar encarcerado ocupa menos espaço. Se você esperar o conjunto voltar à temperatura inicial e não houver vazamentos, restará a mesma quantidade de ar em um volume menor. A pressão interna será maior que a inicial. Essa descrição separa a variável que você alterou, o volume, da grandeza controlada, a temperatura. Também estabelece que a mesma amostra de gás participa dos estados inicial e final.\n\nUse pressão absoluta nas relações das leis dos gases. Ela tem como referência o vácuo. Diversos medidores mostram pressão manométrica, a diferença entre a pressão interna e a pressão atmosférica local. Se o aparelho indica 120 kPa acima da atmosfera e a pressão atmosférica é 100 kPa, a pressão absoluta no interior é 220 kPa. Um gás em equilíbrio com a atmosfera tem pressão absoluta positiva mesmo quando um medidor relativo indica zero. Em problemas que indicam expressamente uma pressão interna absoluta, use esse valor diretamente. Quando a pressão é dada como excesso sobre a atmosfera, faça a soma antes de comparar ou multiplicar.\n\nPara entender as relações, pense nas partículas de um gás batendo nas paredes do recipiente. A pressão expressa a força normal exercida por unidade de área. Se o volume diminui e o gás retorna à mesma temperatura, a agitação térmica média permanece compatível com aquela temperatura, mas as colisões com as paredes se tornam mais frequentes. Essa explicação ajuda a entender de onde vem o aumento da pressão. Se a compressão é muito rápida, o gás pode aquecer durante o processo. Comparar esse instante com o estado inicial usando temperatura constante seria arriscado. O enunciado precisa garantir a temperatura constante ou permitir comparar dois estados que tenham a mesma temperatura.\n\nA compressão a temperatura constante segue a relação de Boyle para uma quantidade fixa de gás em condições próximas das ideais. Pressão e volume são inversamente proporcionais: P₁V₁ = P₂V₂. Ao reduzir o volume de 60 mL para 20 mL, o volume fica com um terço do valor inicial. A pressão absoluta triplica. Se era 100 kPa, passa a 300 kPa. Em um gráfico de pressão no eixo vertical e volume no horizontal, essa relação aparece como uma curva decrescente. O produto PV permanece constante, então uma reta decrescente comum não descreve toda a transformação.\n\nAgora imagine um cilindro com êmbolo móvel e atrito desprezível. Se a pressão externa se mantém constante e o êmbolo pode acompanhar as mudanças lentamente, a pressão interna pode permanecer praticamente constante. O gás aquecido tende a expandir, porque as partículas com maior agitação térmica poderiam elevar a pressão se o volume ficasse fixo. O deslocamento do êmbolo aumenta o espaço ocupado pelo gás. Para a mesma quantidade de gás em condições ideais, V₁/T₁ = V₂/T₂. A relação é direta: quando a temperatura absoluta aumenta por um fator, o volume cresce pelo mesmo fator se a pressão estiver fixa.\n\nA unidade de temperatura pede atenção especial. Um aquecimento de 27 °C para 57 °C representa aumento de 30 graus Celsius, equivalente a um aumento de 30 kelvin. Os valores absolutos, porém, passam aproximadamente de 300 K para 330 K, usando T(K) = t(°C) + 273 como aproximação escolar. O fator de aumento é 330/300 = 1,10. Se o volume inicial era 2,0 L e a pressão se mantém constante, ele passa a 2,2 L. A conta 57/27 daria uma expansão muito maior por escolher uma escala cujo zero não coincide com o zero absoluto.\n\nO terceiro cenário é um reservatório rígido e fechado. O volume permanece fixo porque a parede não muda de posição, e a quantidade de gás permanece fixa se não houver entrada nem saída. Se a temperatura absoluta aumenta, a pressão também aumenta. A relação é P₁/T₁ = P₂/T₂. Um gás que parte de 120 kPa a 300 K e chega a 350 K passa a 140 kPa. No modelo de partículas, o aquecimento eleva a energia cinética média de translação. A interpretação da pressão combina a frequência das colisões com a quantidade de movimento transferida às paredes.\n\nEm questões com gráficos, pergunte primeiro qual grandeza ocupa cada eixo. A pressão em função do volume, sob temperatura constante, forma uma curva. A pressão em função do inverso do volume pode formar uma reta crescente, porque P é proporcional a 1/V. Sob volume fixo, a pressão em função da temperatura em kelvin forma uma reta crescente no modelo ideal. A mesma tendência aparece se o gráfico usar graus Celsius, mas o zero do eixo Celsius muda a posição da reta. Uma reta crescente por si só não autoriza dizer que dobrar o número registrado em qualquer escala dobra a pressão.\n\nAlguns problemas apresentam dados em unidades diferentes. Se um volume está em litros e o outro em mililitros, transforme os dois para a mesma unidade ou escreva a razão de modo explícito. Por exemplo, 250 mL equivalem a 0,250 L. Em uma comparação de pressão, 1 atm é aproximadamente 101 kPa. É possível usar kPa nos dois estados, ou atm nos dois estados, desde que a unidade escolhida seja consistente e represente pressão absoluta. Quando a equação envolve um quociente entre valores de uma mesma grandeza, a unidade se cancela após essa padronização. O resultado carrega a unidade da grandeza que você está calculando.\n\nA expressão P₁V₁/T₁ = P₂V₂/T₂ reúne as três relações para os mesmos mols de gás ideal em dois estados de equilíbrio. Se duas grandezas mudam ao mesmo tempo, não conclua automaticamente qual será o resultado da terceira. Imagine que um gás passa de 300 K para 360 K enquanto seu volume dobra. O aquecimento por si só aumentaria a pressão, mas a expansão tende a reduzi-la. A razão de pressões é (360/300) × (V₁/V₂) = 1,2 × 0,5 = 0,6. Nesse caso, a pressão final é 60% da inicial, porque a expansão pesa mais na razão.\n\nOs exemplos supõem comportamento aproximadamente ideal. Um gás real costuma se aproximar desse modelo em pressões relativamente baixas e temperaturas afastadas da região de condensação. Se parte do gás condensa, a quantidade de substância na fase gasosa pode mudar. A presença de válvula aberta também pode permitir trocas de matéria. Por isso, um recipiente fechado e um recipiente rígido representam condições diferentes: o primeiro restringe a troca de matéria, e o segundo restringe a mudança de volume. Um balão bem vedado pode trocar calor com o ar e mudar de volume sem perder gás.\n\nFinalmente, confira se o resultado faz sentido para as condições apresentadas. Se o gás esfria num recipiente rígido e fechado, uma previsão de pressão maior merece revisão. Se ele se expande isotermicamente, pense que os mesmos mols ocupam mais espaço. Em um cilindro sob pressão constante, confira a razão entre as temperaturas absolutas para estimar a expansão. Ao ler a questão, circule a condição fixa, organize uma coluna para cada estado e faça primeiro uma previsão qualitativa. A conta serve para precisar uma tendência que você consegue explicar em palavras.\n\nUma diferença de pressão também explica o movimento do êmbolo: se o gás empurra a face interna com força maior do que as forças que se opõem ao deslocamento, o êmbolo tende a sair. Ao se aproximar do equilíbrio, o movimento pode cessar.\n\nTROCANDO EM MIÚDOS:\nPense num grupo de pessoas andando numa quadra. Se você encolher a área disponível e mantiver o mesmo grupo andando de maneira parecida, elas vão encontrar os limites da quadra com mais frequência. Essa imagem ajuda a lembrar o que acontece com o gás numa seringa tampada. Quando sobra menos espaço e a temperatura volta ao ponto inicial, o ar fica sob pressão maior. Metade do volume significa o dobro da pressão absoluta nesse caso.\n\nAgora imagine um pote rígido e fechado, como se as paredes fossem incapazes de ceder. Se o gás lá dentro esquenta, as partículas ficam mais agitadas, mas o espaço permanece igual. A pressão tende a subir. Já num cilindro idealizado com êmbolo móvel que sustenta sempre a mesma pressão, o gás pode empurrar o êmbolo e ocupar mais espaço. O aquecimento tem dois resultados diferentes porque a regra do recipiente mudou. No primeiro exemplo, a parede segura o volume. No segundo, o peso sobre o êmbolo ajuda a manter a pressão.\n\nO detalhe que mais atrapalha a conta é o termômetro. Se uma questão disser que o gás saiu de 27 °C e foi para 54 °C, seria tentador pensar que a temperatura dobrou. Na escala que entra nas fórmulas, ela foi de aproximadamente 300 K para 327 K. É um aumento perto de 9%. Num recipiente de volume fixo, a pressão também sobe perto de 9%, quando a quantidade de gás permanece a mesma.\n\nNa prova, procure quatro pistas antes de calcular: se entra ou sai gás, se o volume pode mudar, se a pressão foi mantida e se a temperatura está em kelvin. Depois faça uma previsão simples, como “a pressão sobe” ou “o volume diminui”. Quando duas coisas mudam juntas, use a relação completa e veja qual efeito predomina. Esse hábito também ajuda a perceber erros na leitura de números em litros, mililitros e pressões relativas.\n\nESQUEMA:\nAmostra fixa → em T constante, PV fica constante. Em P constante, V/T fica constante. Em V constante, P/T fica constante.\n\nPEGADINHAS:\n• Razões exigem temperatura em kelvin.\n• Pressão manométrica pede conversão quando a relação usa pressão absoluta.\n• A curva P × V em temperatura constante é hiperbólica.\n• Frasco rígido pode ter válvula aberta. Confira se os mols permanecem fixos.\n• Após uma compressão rápida, o gás pode estar mais quente.\n\nNA PRÁTICA:\nUm laboratório comprime lentamente um gás de 4,0 L para 2,5 L em temperatura constante. A pressão absoluta inicial é 100 kPa. Como o produto PV permanece constante, a pressão final é 100 × 4,0/2,5 = 160 kPa. A pressão sobe porque o mesmo gás ocupa menos volume.",
+   "flashcards": [
+    {
+     "frente": "Qual grandeza fica constante numa transformação isotérmica?",
+     "verso": "A temperatura.",
+     "dispositivo": "Transformações químicas — Sistemas Gasosos: Lei dos gases"
+    },
+    {
+     "frente": "A temperatura e os mols são fixos. Se o volume dobra, como fica a pressão?",
+     "verso": "Cai à metade.",
+     "dispositivo": "Transformações químicas — Sistemas Gasosos: Lei dos gases"
+    },
+    {
+     "frente": "Num recipiente rígido e fechado com gás ideal, qual razão fica constante?",
+     "verso": "P/T, com pressão absoluta e temperatura em kelvin.",
+     "dispositivo": "Transformações químicas — Sistemas Gasosos: Lei dos gases"
+    },
+    {
+     "frente": "Sob pressão e quantidade fixas, como comparar volumes de gás ideal?",
+     "verso": "Use V₂/V₁ = T₂/T₁, com temperaturas em kelvin.",
+     "dispositivo": "Transformações químicas — Sistemas Gasosos: Lei dos gases"
+    },
+    {
+     "frente": "Como converter 47 °C para kelvin numa aproximação escolar?",
+     "verso": "Some 273, obtendo aproximadamente 320 K.",
+     "dispositivo": "Transformações químicas — Sistemas Gasosos: Lei dos gases"
+    },
+    {
+     "frente": "Como achar pressão absoluta com um manômetro que mede excesso?",
+     "verso": "Some a pressão atmosférica local à leitura manométrica.",
+     "dispositivo": "Transformações químicas — Sistemas Gasosos: Lei dos gases"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Um cilindro fechado e rígido aquece de 300 K para 360 K, sem mudança de fase.",
+     "enunciado": "A pressão absoluta cresce aproximadamente 20% para um gás ideal.",
+     "gabarito": "C",
+     "comentario": "Com volume e quantidade fixos, a pressão cresce na razão 360/300 = 1,2.",
+     "id": "enem-leis-dos-gases-c14-q01",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas — Sistemas Gasosos: Lei dos gases",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um êmbolo mantém a pressão constante enquanto a temperatura de uma amostra passa de 20 °C a 40 °C.",
+     "enunciado": "O volume dobra.",
+     "gabarito": "E",
+     "comentario": "A temperatura absoluta vai de aproximadamente 293 K a 313 K. O fator do volume é 313/293.",
+     "id": "enem-leis-dos-gases-c14-q02",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas — Sistemas Gasosos: Lei dos gases",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Em uma compressão isotérmica de gás ideal, o volume final é 40% do inicial.",
+     "enunciado": "A pressão absoluta final vale 2,5 vezes a inicial.",
+     "gabarito": "C",
+     "comentario": "P₂/P₁ = V₁/V₂ = 1/0,4 = 2,5.",
+     "id": "enem-leis-dos-gases-c14-q03",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas — Sistemas Gasosos: Lei dos gases",
+     "dificuldade": "dificil"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um manômetro marca 150 kPa num local onde a pressão atmosférica é 100 kPa. O aparelho mede excesso em relação ao ambiente.",
+     "enunciado": "A pressão absoluta do gás é 150 kPa.",
+     "gabarito": "E",
+     "comentario": "A pressão absoluta é 150 + 100 = 250 kPa.",
+     "id": "enem-leis-dos-gases-c14-q04",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas — Sistemas Gasosos: Lei dos gases",
+     "dificuldade": "dificil"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma amostra de gás ideal mantida a 300 K ocupa 2,4 L sob pressão absoluta de 100 kPa. Após compressão isotérmica, ocupa 1,6 L.",
+     "enunciado": "Qual é a pressão absoluta final?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "67 kPa",
+      "B": "150 kPa",
+      "C": "100 kPa",
+      "D": "200 kPa",
+      "E": "250 kPa"
+     },
+     "comentarios_por_alternativa": {
+      "A": "67 kPa resulta de multiplicar pela razão inversa à necessária.",
+      "B": "100 × 2,4/1,6 = 150 kPa.",
+      "C": "O volume caiu, então a pressão precisa subir.",
+      "D": "200 kPa corresponderiam a reduzir o volume à metade.",
+      "E": "250 kPa corresponderiam a reduzir o volume para 0,96 L."
+     },
+     "comentario": "A) 67 kPa resulta de multiplicar pela razão inversa à necessária.\nB) 100 × 2,4/1,6 = 150 kPa.\nC) O volume caiu, então a pressão precisa subir.\nD) 200 kPa corresponderiam a reduzir o volume à metade.\nE) 250 kPa corresponderiam a reduzir o volume para 0,96 L.",
+     "id": "enem-leis-dos-gases-c14-q05",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas — Sistemas Gasosos: Lei dos gases",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Em um cilindro com êmbolo, 5,0 L de gás ideal a 300 K são aquecidos a 360 K sob pressão constante.",
+     "enunciado": "Qual volume deve ser observado?",
+     "gabarito": "C",
+     "alternativas": {
+      "A": "4,0 L",
+      "B": "5,0 L",
+      "C": "6,0 L",
+      "D": "6,8 L",
+      "E": "10,0 L"
+     },
+     "comentarios_por_alternativa": {
+      "A": "O aquecimento sob pressão constante gera expansão.",
+      "B": "A temperatura mudou e o volume pode variar.",
+      "C": "5,0 × 360/300 = 6,0 L.",
+      "D": "6,8 L exigiriam temperatura final de 408 K.",
+      "E": "Dobrar o volume exigiria dobrar a temperatura absoluta."
+     },
+     "comentario": "A) O aquecimento sob pressão constante gera expansão.\nB) A temperatura mudou e o volume pode variar.\nC) 5,0 × 360/300 = 6,0 L.\nD) 6,8 L exigiriam temperatura final de 408 K.\nE) Dobrar o volume exigiria dobrar a temperatura absoluta.",
+     "id": "enem-leis-dos-gases-c14-q06",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas — Sistemas Gasosos: Lei dos gases",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma amostra lacrada, inicialmente a 300 K e 90 kPa absolutos, é aquecida a 450 K enquanto o volume triplica.",
+     "enunciado": "Qual é a pressão final?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "45 kPa",
+      "B": "60 kPa",
+      "C": "90 kPa",
+      "D": "135 kPa",
+      "E": "270 kPa"
+     },
+     "comentarios_por_alternativa": {
+      "A": "A razão P₂/P₁ é 450/300 × 1/3 = 1/2.",
+      "B": "60 kPa equivalem a uma razão de 2/3, diferente do produto informado.",
+      "C": "Os efeitos não se compensam: 1,5 × 1/3 = 0,5.",
+      "D": "135 kPa seriam obtidos mantendo o volume inicial.",
+      "E": "270 kPa correspondem ao triplo da pressão e ignoram as razões do processo."
+     },
+     "comentario": "A) A razão P₂/P₁ é 450/300 × 1/3 = 1/2.\nB) 60 kPa equivalem a uma razão de 2/3, diferente do produto informado.\nC) Os efeitos não se compensam: 1,5 × 1/3 = 0,5.\nD) 135 kPa seriam obtidos mantendo o volume inicial.\nE) 270 kPa correspondem ao triplo da pressão e ignoram as razões do processo.",
+     "id": "enem-leis-dos-gases-c14-q07",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas — Sistemas Gasosos: Lei dos gases",
+     "dificuldade": "dificil"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma equipe mede P e V para a mesma quantidade de gás ideal, sempre à mesma temperatura.",
+     "enunciado": "Que gráfico é compatível com os dados?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "P contra V em reta crescente pela origem.",
+      "B": "P contra 1/V em reta decrescente.",
+      "C": "P contra V com pressão constante.",
+      "D": "P contra V em reta decrescente até pressão nula em volume finito.",
+      "E": "P contra 1/V em reta crescente."
+     },
+     "comentarios_por_alternativa": {
+      "A": "P varia inversamente com V.",
+      "B": "P cresce à medida que 1/V cresce.",
+      "C": "Variações de V exigem variações de P nessa condição.",
+      "D": "Para PV constante e positivo, P não chega a zero em volume finito.",
+      "E": "P = (PV) × 1/V, com produto PV fixo e positivo."
+     },
+     "comentario": "A) P varia inversamente com V.\nB) P cresce à medida que 1/V cresce.\nC) Variações de V exigem variações de P nessa condição.\nD) Para PV constante e positivo, P não chega a zero em volume finito.\nE) P = (PV) × 1/V, com produto PV fixo e positivo.",
+     "id": "enem-leis-dos-gases-c14-q08",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas — Sistemas Gasosos: Lei dos gases",
+     "dificuldade": "dificil"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Em uma transformação ___, a temperatura permanece constante.",
+     "opcoes": [
+      "isotérmica",
+      "isobárica",
+      "isocórica",
+      "adiabática"
+     ],
+     "respostas": [
+      "isotérmica"
+     ],
+     "explicacao": "A palavra isotérmica indica temperatura constante."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "A pressão absoluta corresponde à soma da pressão local atmosférica com a leitura ___.",
+     "opcoes": [
+      "manométrica",
+      "calorimétrica",
+      "volumétrica",
+      "molar"
+     ],
+     "respostas": [
+      "manométrica"
+     ],
+     "explicacao": "A leitura manométrica mede a diferença em relação à atmosfera."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize o cálculo de volume final quando o gás ideal aquece a pressão constante.",
+     "itens": [
+      "Confirmar que pressão e quantidade de gás ficam fixas.",
+      "Converter as duas temperaturas para kelvin.",
+      "Calcular a razão entre temperatura final e inicial.",
+      "Multiplicar o volume inicial pela razão obtida."
+     ],
+     "explicacao": "A relação V/T constante determina V₂ = V₁ × T₂/T₁."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Isotérmica",
+       "Temperatura constante"
+      ],
+      [
+       "Isobárica",
+       "Pressão constante"
+      ],
+      [
+       "Isocórica",
+       "Volume constante"
+      ],
+      [
+       "Pressão atmosférica mais manométrica",
+       "Pressão absoluta"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

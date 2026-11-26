@@ -1,0 +1,253 @@
+{
+ "assunto": "Hidrostática: pressão, profundidade e densidade",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-hidrostatica-c14",
+   "titulo": "Hidrostática: pressão, profundidade e densidade",
+   "microconteudo": "RAIO-X DA PROVA: Interprete a situação e justifique a conclusão com a relação física pertinente. Em um líquido homogêneo em repouso, a variação de pressão entre dois níveis vale ρgΔh. A pressão total soma a pressão da superfície.\n\nPOR QUE IMPORTA:\nAo mergulhar em uma piscina, a pressão aumenta com a profundidade. O formato da piscina pouco importa para comparar pontos no mesmo nível.\n\nO QUE A BANCA COBRA:\nInterprete a situação e justifique a conclusão com a relação física pertinente. Em um líquido homogêneo em repouso, a variação de pressão entre dois níveis vale ρgΔh. A pressão total soma a pressão da superfície.\n\nENTENDA:\nComece por esta situação: Ao mergulhar em uma piscina, a pressão aumenta com a profundidade. O formato da piscina pouco importa para comparar pontos no mesmo nível. Leia os dados disponíveis e faça uma previsão antes de procurar uma fórmula. Em um líquido homogêneo em repouso, a variação de pressão entre dois níveis vale ρgΔh. A pressão total soma a pressão da superfície. Na água de densidade 1.000 kg/m³, com g = 10 m/s², cada metro adicional de profundidade acrescenta 10.000 Pa.\n\nAs ideias sobre pressão hidrostática também ajudam a entender instrumentos históricos. Um barômetro de coluna usa a diferença de pressão entre a base e o topo para relacionar a altura do líquido à pressão externa. A mesma pressão externa requer alturas diferentes para líquidos de densidades diferentes.\n\nNa água de densidade 1.000 kg/m³, com g = 10 m/s², cada metro adicional de profundidade acrescenta 10.000 Pa. Ao interpretar esse exemplo, escreva a condição física que torna possível prever o resultado. Pergunte se ela continuaria valendo caso um dos dados omitidos passasse a ter importância. Diferencie o que você consegue concluir numericamente do que pode apenas prever qualitativamente. A descrição do resultado deve manter explícito qual corpo ou conjunto está sendo observado e em qual intervalo a afirmação é válida.\n\nConfira o significado das palavras da questão. O que mede pressão? Força normal distribuída por área.\nQual é a unidade de pressão? Pascal, equivalente a newton por metro quadrado.\nO que é profundidade? Distância vertical abaixo da superfície de referência.\nO que indica pressão manométrica? A diferença em relação à pressão de referência, normalmente a atmosférica.\nA forma do recipiente determina a pressão a igual profundidade? Não, se o fluido, a superfície e a gravidade forem equivalentes.\nQue ideia aparece no barômetro de Torricelli? Uma coluna de líquido pode equilibrar a pressão atmosférica. Se dois termos parecem próximos, compare o que cada um descreve no caso inicial. Em Física, trocar o nome de uma grandeza pode mudar o cálculo ou até o que se está tentando explicar. Escreva, ao lado de cada símbolo, qual parte da situação ele representa e em que unidade seria medido.\n\nExemplo 1. Água de densidade 1.000 kg/m³, com g = 10 m/s², tem um ponto a 3 m de profundidade. Qual a pressão excedente sobre a da superfície? A resposta é 30 kPa. ρgh = 30.000 Pa = 30 kPa. É o número da profundidade. Corresponde a apenas um metro. Converte pascal para quilopascal com fator incorreto. Somaria 100 kPa mesmo sem serem pedidos.\n\nExemplo 2. Um líquido de densidade 800 kg/m³ ocupa uma cuba. g = 10 m/s². Qual a diferença de pressão entre níveis separados verticalmente por 2 m? A resposta é 16 kPa. Calcule 800 × 10 × 2 = 16.000 Pa. Considera só um metro. Usa fator incorreto de conversão. Erra uma ordem de grandeza. Usa densidade de 1.000 kg/m³.\n\nExemplo 3. A superfície de um tanque está a 100 kPa e a pressão manométrica no fundo vale 25 kPa. Qual a pressão absoluta no fundo? A resposta é 125 kPa. Some 100 e 25. Subtrai a contribuição do líquido. É apenas a pressão manométrica. É a pressão na superfície. Divide grandezas de mesma unidade.\n\nExemplo 4. Uma prensa de demonstração exerce 60 N uniformemente em uma área de 0,02 m². Qual a pressão média? A resposta é 3000 Pa. Divida força pela área. Multiplica em vez de dividir. É o número da força. Desloca casas decimais. É o número da área.\n\nTeste de interpretação. Dois pontos do mesmo líquido em repouso estão na mesma altura e conectados. Considere a afirmação: “As pressões são iguais.” Certo. A diferença vertical de nível é zero. Uma piscina tem dois locais à mesma profundidade. Considere a afirmação: “O mais perto da parede sempre tem maior pressão.” Errado. No modelo hidrostático, essa distância horizontal não altera a pressão. Uma amostra de água tem profundidade de 2 m. Considere a afirmação: “A pressão excedente cresce se g aumentar, com densidade fixa.” Certo. A pressão manométrica é ρgh. A pressão atmosférica é 100 kPa e a manométrica é 20 kPa. Considere a afirmação: “A pressão total é 80 kPa.” Errado. As duas contribuições somam 120 kPa.\n\nUma sequência de resolução é útil quando a questão traz mais dados que o necessário. Primeiro, identificar líquido e densidade. Depois, medir a diferença vertical de nível. Em seguida, calcular ρgδh. Por último, somar a pressão da superfície se for pedida pressão total. Explique oralmente por que cada passo vem nessa posição. Se a última conclusão mudar quando você troca um detalhe do enunciado, localize qual hipótese provocou essa mudança. Isso ajuda a distinguir o resultado de uma conta das condições em que ele vale.\n\nEm uma prova, procure separar o que o texto observou, o que o modelo assume e o que você concluiu. Um valor informado é um dado. Uma condição como desprezar o atrito ou tratar o intervalo como uniforme pode ser uma hipótese. Já o resultado é aquilo que você obtém ao combinar os dados com a regra escolhida. Se houver tabela ou figura, confira a legenda, os eixos e as unidades antes de usar os números. Para revisar, refaça um dos exemplos mudando um dado por vez e preveja o sentido da mudança antes de calcular.\n\nCheck de leitura. Escolha dois exemplos desta lição e compare o papel de cada informação. O que foi medido diretamente? Qual relação precisou ser usada para inferir uma resposta? Há alguma observação que, sozinha, seria insuficiente? Se a resposta for um número, faça uma estimativa simples para checar se ele é plausível. Se for uma explicação, procure indicar qual condição a torna válida. Depois, tente escrever uma resposta que inclua o dado utilizado, o raciocínio e a conclusão em uma ou duas frases.\n\nAo montar um rascunho, deixe os dados de um lado e a conclusão do outro. Comece pelo dado que tem relação direta com a pergunta. Caso sobrem informações, veja se elas servem para comparar hipóteses ou apenas situar a história. Em uma comparação, mantenha a mesma referência e o mesmo intervalo sempre que o enunciado permitir. Quando um resultado contradiz a previsão inicial, revise primeiro a interpretação do que foi pedido; em seguida, revise a operação e as condições assumidas.\n\nNa primeira, destaque o que o enunciado informa sobre as condições da situação. Na segunda, explique como a regra escolhida conecta essas condições ao resultado. Se houver um cálculo, escreva as unidades intermediárias. Em uma resposta sobre direção ou sentido, declare a orientação de referência. Uma alternativa pode conter um número familiar do enunciado e ainda responder sobre a grandeza errada.\n\nPara fechar, compare estas duas situações e procure a diferença física entre elas. Dois pontos do mesmo líquido em repouso estão na mesma altura e conectados. Uma piscina tem dois locais à mesma profundidade. Quando o contexto muda, a leitura deve partir das informações apresentadas naquele caso. Considere a primeira afirmação e justifique o resultado: “As pressões são iguais.” Certo. A diferença vertical de nível é zero. Agora avalie a segunda: “O mais perto da parede sempre tem maior pressão.” Errado. No modelo hidrostático, essa distância horizontal não altera a pressão. Uma explicação adequada pode usar palavras e cálculos, desde que a relação com a situação seja clara. Pense em qual mudança nos dados tornaria cada afirmação válida ou inválida.\n\nUse este conjunto de definições como roteiro para checar o raciocínio. O que mede pressão? Força normal distribuída por área.\nQual é a unidade de pressão? Pascal, equivalente a newton por metro quadrado.\nO que é profundidade? Distância vertical abaixo da superfície de referência.\nO que indica pressão manométrica? A diferença em relação à pressão de referência, normalmente a atmosférica.\nA forma do recipiente determina a pressão a igual profundidade? Não, se o fluido, a superfície e a gravidade forem equivalentes.\nQue ideia aparece no barômetro de Torricelli? Uma coluna de líquido pode equilibrar a pressão atmosférica. Ao voltar aos dados do começo, selecione as definições pertinentes ao caso. Leia a conclusão como se ela fosse uma frase independente: confira a unidade, a referência adotada e a condição de validade.\n\nTROCANDO EM MIÚDOS:\nImagine a situação do começo da lição. Ao mergulhar em uma piscina, a pressão aumenta com a profundidade. O formato da piscina pouco importa para comparar pontos no mesmo nível. Na água de densidade 1.000 kg/m³, com g = 10 m/s², cada metro adicional de profundidade acrescenta 10.000 Pa.\n\nA regra principal pode ser escrita assim: Em um líquido homogêneo em repouso, a variação de pressão entre dois níveis vale ρgΔh. A pressão total soma a pressão da superfície. Tente explicar essa regra em voz alta para alguém que ainda não viu o conteúdo, usando o exemplo inicial como apoio.\n\nAntes de marcar uma alternativa, faça esta checagem. O que mede pressão? Força normal distribuída por área. Qual é a unidade de pressão? Pascal, equivalente a newton por metro quadrado. O que é profundidade? Distância vertical abaixo da superfície de referência. O que indica pressão manométrica? A diferença em relação à pressão de referência, normalmente a atmosférica. A forma do recipiente determina a pressão a igual profundidade? Não, se o fluido, a superfície e a gravidade forem equivalentes. Que ideia aparece no barômetro de Torricelli? Uma coluna de líquido pode equilibrar a pressão atmosférica.\n\nEm um rascunho curto, anote quatro passos. Identificar líquido e densidade. Medir a diferença vertical de nível. Calcular ρgΔh. Somar a pressão da superfície se for pedida pressão total. Em seguida, tente aplicar os passos a um exemplo com números ou condições diferentes. As grandezas que foram medidas e o que você quer descobrir devem ficar em linhas separadas. Isso ajuda a identificar qual informação ainda falta.\n\nExperimente responder a esta situação sem olhar as opções. Água de densidade 1.000 kg/m³, com g = 10 m/s², tem um ponto a 3 m de profundidade. Qual a pressão excedente sobre a da superfície? ρgh = 30.000 Pa = 30 kPa. Depois, confira nos exemplos quais seriam as consequências de escolher uma interpretação diferente. Se tiver que refazer, comece pelas condições do problema e pelo significado de cada dado.\n\nPara fixar, releia uma afirmação verdadeira e uma falsa da lição. Reescreva a falsa trocando só o trecho necessário para corrigi-la. Na afirmação verdadeira, diga qual detalhe do enunciado permite chegar a essa conclusão. Assim você pratica explicar um resultado, além de reconhecer qual opção está certa.\n\nLEI SECA:\nEm um líquido homogêneo em repouso, a variação de pressão entre dois níveis vale ρgΔh. A pressão total soma a pressão da superfície.\n\nSÚMULAS E TESES:\nNa água de densidade 1.000 kg/m³, com g = 10 m/s², cada metro adicional de profundidade acrescenta 10.000 Pa.\n\nESQUEMA:\nIdentificar líquido e densidade → Medir a diferença vertical de nível → Calcular ρgΔh → Somar a pressão da superfície se for pedida pressão total\n\nPEGADINHAS:\n1. Certo. A diferença vertical de nível é zero.\n2. Errado. No modelo hidrostático, essa distância horizontal não altera a pressão.\n3. Certo. A pressão manométrica é ρgh.\n4. Errado. As duas contribuições somam 120 kPa.\n\nDOUTRINA:\nOpenStax — College Physics 2e, Variation of Pressure with Depth\n\nNA PRÁTICA:\nExemplo 1. Água de densidade 1.000 kg/m³, com g = 10 m/s², tem um ponto a 3 m de profundidade. Qual a pressão excedente sobre a da superfície? A resposta é 30 kPa. ρgh = 30.000 Pa = 30 kPa. É o número da profundidade. Corresponde a apenas um metro. Converte pascal para quilopascal com fator incorreto. Somaria 100 kPa mesmo sem serem pedidos.",
+   "flashcards": [
+    {
+     "frente": "O que mede pressão?",
+     "verso": "Força normal distribuída por área.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — A hidrostática: aspectos históricos e variáveis relevantes"
+    },
+    {
+     "frente": "Qual é a unidade de pressão?",
+     "verso": "Pascal, equivalente a newton por metro quadrado.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — A hidrostática: aspectos históricos e variáveis relevantes"
+    },
+    {
+     "frente": "O que é profundidade?",
+     "verso": "Distância vertical abaixo da superfície de referência.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — A hidrostática: aspectos históricos e variáveis relevantes"
+    },
+    {
+     "frente": "O que indica pressão manométrica?",
+     "verso": "A diferença em relação à pressão de referência, normalmente a atmosférica.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — A hidrostática: aspectos históricos e variáveis relevantes"
+    },
+    {
+     "frente": "A forma do recipiente determina a pressão a igual profundidade?",
+     "verso": "Não, se o fluido, a superfície e a gravidade forem equivalentes.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — A hidrostática: aspectos históricos e variáveis relevantes"
+    },
+    {
+     "frente": "Que ideia aparece no barômetro de Torricelli?",
+     "verso": "Uma coluna de líquido pode equilibrar a pressão atmosférica.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — A hidrostática: aspectos históricos e variáveis relevantes"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-hidrostatica-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Dois pontos do mesmo líquido em repouso estão na mesma altura e conectados.",
+     "enunciado": "As pressões são iguais.",
+     "gabarito": "C",
+     "comentario": "Certo. A diferença vertical de nível é zero.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — A hidrostática: aspectos históricos e variáveis relevantes"
+    },
+    {
+     "id": "enem-fisica-hidrostatica-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Uma piscina tem dois locais à mesma profundidade.",
+     "enunciado": "O mais perto da parede sempre tem maior pressão.",
+     "gabarito": "E",
+     "comentario": "Errado. No modelo hidrostático, essa distância horizontal não altera a pressão.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — A hidrostática: aspectos históricos e variáveis relevantes"
+    },
+    {
+     "id": "enem-fisica-hidrostatica-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Uma amostra de água tem profundidade de 2 m.",
+     "enunciado": "A pressão excedente cresce se g aumentar, com densidade fixa.",
+     "gabarito": "C",
+     "comentario": "Certo. A pressão manométrica é ρgh.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — A hidrostática: aspectos históricos e variáveis relevantes"
+    },
+    {
+     "id": "enem-fisica-hidrostatica-c14-q04",
+     "tipo": "ce",
+     "texto_base": "A pressão atmosférica é 100 kPa e a manométrica é 20 kPa.",
+     "enunciado": "A pressão total é 80 kPa.",
+     "gabarito": "E",
+     "comentario": "Errado. As duas contribuições somam 120 kPa.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — A hidrostática: aspectos históricos e variáveis relevantes"
+    },
+    {
+     "id": "enem-fisica-hidrostatica-c14-q05",
+     "tipo": "me",
+     "texto_base": "Água de densidade 1.000 kg/m³, com g = 10 m/s², tem um ponto a 3 m de profundidade.",
+     "enunciado": "Qual a pressão excedente sobre a da superfície?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "3 kPa",
+      "B": "30 kPa",
+      "C": "10 kPa",
+      "D": "300 kPa",
+      "E": "130 kPa"
+     },
+     "comentarios_por_alternativa": {
+      "A": "É o número da profundidade.",
+      "B": "Correta. ρgh = 30.000 Pa = 30 kPa.",
+      "C": "Corresponde a apenas um metro.",
+      "D": "Converte pascal para quilopascal com fator incorreto.",
+      "E": "Somaria 100 kPa mesmo sem serem pedidos."
+     },
+     "comentario": "A) É o número da profundidade.\nB) Correta. ρgh = 30.000 Pa = 30 kPa.\nC) Corresponde a apenas um metro.\nD) Converte pascal para quilopascal com fator incorreto.\nE) Somaria 100 kPa mesmo sem serem pedidos.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — A hidrostática: aspectos históricos e variáveis relevantes"
+    },
+    {
+     "id": "enem-fisica-hidrostatica-c14-q06",
+     "tipo": "me",
+     "texto_base": "Um líquido de densidade 800 kg/m³ ocupa uma cuba. g = 10 m/s².",
+     "enunciado": "Qual a diferença de pressão entre níveis separados verticalmente por 2 m?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "8 kPa",
+      "B": "80 kPa",
+      "C": "1,6 kPa",
+      "D": "16 kPa",
+      "E": "20 kPa"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Considera só um metro.",
+      "B": "Usa fator incorreto de conversão.",
+      "C": "Erra uma ordem de grandeza.",
+      "D": "Correta. Calcule 800 × 10 × 2 = 16.000 Pa.",
+      "E": "Usa densidade de 1.000 kg/m³."
+     },
+     "comentario": "A) Considera só um metro.\nB) Usa fator incorreto de conversão.\nC) Erra uma ordem de grandeza.\nD) Correta. Calcule 800 × 10 × 2 = 16.000 Pa.\nE) Usa densidade de 1.000 kg/m³.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — A hidrostática: aspectos históricos e variáveis relevantes"
+    },
+    {
+     "id": "enem-fisica-hidrostatica-c14-q07",
+     "tipo": "me",
+     "texto_base": "A superfície de um tanque está a 100 kPa e a pressão manométrica no fundo vale 25 kPa.",
+     "enunciado": "Qual a pressão absoluta no fundo?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "125 kPa",
+      "B": "75 kPa",
+      "C": "25 kPa",
+      "D": "100 kPa",
+      "E": "4 kPa"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Some 100 e 25.",
+      "B": "Subtrai a contribuição do líquido.",
+      "C": "É apenas a pressão manométrica.",
+      "D": "É a pressão na superfície.",
+      "E": "Divide grandezas de mesma unidade."
+     },
+     "comentario": "A) Correta. Some 100 e 25.\nB) Subtrai a contribuição do líquido.\nC) É apenas a pressão manométrica.\nD) É a pressão na superfície.\nE) Divide grandezas de mesma unidade.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — A hidrostática: aspectos históricos e variáveis relevantes"
+    },
+    {
+     "id": "enem-fisica-hidrostatica-c14-q08",
+     "tipo": "me",
+     "texto_base": "Uma prensa de demonstração exerce 60 N uniformemente em uma área de 0,02 m².",
+     "enunciado": "Qual a pressão média?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "1,2 Pa",
+      "B": "60 Pa",
+      "C": "30 Pa",
+      "D": "0,02 Pa",
+      "E": "3000 Pa"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Multiplica em vez de dividir.",
+      "B": "É o número da força.",
+      "C": "Desloca casas decimais.",
+      "D": "É o número da área.",
+      "E": "Correta. Divida força pela área."
+     },
+     "comentario": "A) Multiplica em vez de dividir.\nB) É o número da força.\nC) Desloca casas decimais.\nD) É o número da área.\nE) Correta. Divida força pela área.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — A hidrostática: aspectos históricos e variáveis relevantes"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O que mede pressão? Resposta: ___.",
+     "opcoes": [
+      "Força normal distribuída por área.",
+      "Pascal, equivalente a newton por metro quadrado.",
+      "Distância vertical abaixo da superfície de referência.",
+      "A diferença em relação à pressão de referência, normalmente a atmosférica."
+     ],
+     "respostas": [
+      "Força normal distribuída por área."
+     ],
+     "explicacao": "Força normal distribuída por área."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "A forma do recipiente determina a pressão a igual profundidade? Resposta: ___.",
+     "opcoes": [
+      "Distância vertical abaixo da superfície de referência.",
+      "A diferença em relação à pressão de referência, normalmente a atmosférica.",
+      "Não, se o fluido, a superfície e a gravidade forem equivalentes.",
+      "Uma coluna de líquido pode equilibrar a pressão atmosférica."
+     ],
+     "respostas": [
+      "Não, se o fluido, a superfície e a gravidade forem equivalentes."
+     ],
+     "explicacao": "Não, se o fluido, a superfície e a gravidade forem equivalentes."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma situação sobre hidrostática: pressão, profundidade e densidade.",
+     "itens": [
+      "Identificar líquido e densidade.",
+      "Medir a diferença vertical de nível.",
+      "Calcular ρgΔh.",
+      "Somar a pressão da superfície se for pedida pressão total."
+     ],
+     "explicacao": "Em um líquido homogêneo em repouso, a variação de pressão entre dois níveis vale ρgΔh. A pressão total soma a pressão da superfície."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O que mede pressão?",
+       "Força normal distribuída por área."
+      ],
+      [
+       "Qual é a unidade de pressão?",
+       "Pascal, equivalente a newton por metro quadrado."
+      ],
+      [
+       "O que é profundidade?",
+       "Distância vertical abaixo da superfície de referência."
+      ],
+      [
+       "O que indica pressão manométrica?",
+       "A diferença em relação à pressão de referência, normalmente a atmosférica."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

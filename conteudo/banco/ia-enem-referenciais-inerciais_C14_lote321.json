@@ -1,0 +1,253 @@
+{
+ "assunto": "Referenciais inerciais e não inerciais",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-referenciais-inerciais-c14",
+   "titulo": "Referenciais inerciais e não inerciais",
+   "microconteudo": "RAIO-X DA PROVA: Interprete a situação e justifique a conclusão com a relação física pertinente. Um referencial inercial é aquele em que um corpo livre conserva sua velocidade. Um referencial acelerado em relação a ele é não inercial.\n\nPOR QUE IMPORTA:\nUma passageira vê a mochila parada no banco enquanto um pedestre a vê em movimento. Durante a freada, a mochila desliza em relação ao banco.\n\nO QUE A BANCA COBRA:\nInterprete a situação e justifique a conclusão com a relação física pertinente. Um referencial inercial é aquele em que um corpo livre conserva sua velocidade. Um referencial acelerado em relação a ele é não inercial.\n\nENTENDA:\nComece por esta situação: Uma passageira vê a mochila parada no banco enquanto um pedestre a vê em movimento. Durante a freada, a mochila desliza em relação ao banco. Leia os dados disponíveis e faça uma previsão antes de procurar uma fórmula. Um referencial inercial é aquele em que um corpo livre conserva sua velocidade. Um referencial acelerado em relação a ele é não inercial. Em um ônibus retilíneo uniforme, a velocidade relativa difere da medida na rua por um valor constante. Durante a freada, essa diferença muda.\n\nUse a rua como referencial aproximado para uma viagem curta e ignore a rotação da Terra nesse contexto. Durante a freada, o ônibus tem aceleração contrária à sua velocidade. O passageiro que escorrega pode estar diminuindo de velocidade em relação à rua e, ao mesmo tempo, avançando em relação ao veículo. O termo avançar descreve uma comparação de posições. Ele não estabelece o sentido da força resultante real. Uma fotografia tirada de fora e outra tomada de dentro podem mostrar movimentos diferentes sem contradizer o que ocorreu.\n\nConfira o significado das palavras da questão. O que é referencial? O sistema usado para descrever posição e movimento.\nQuando um referencial é inercial? Quando vale a lei da inércia para um corpo livre.\nComo tratar um veículo em curva? Como referencial não inercial, pois ele acelera.\nO que muda entre dois referenciais inerciais em translação uniforme? As velocidades podem mudar por uma constante.\nO que é força aparente? Um termo introduzido na descrição feita num referencial acelerado.\nPode um objeto ter repouso relativo e movimento relativo? Sim, quando as observações usam referenciais distintos. Se dois termos parecem próximos, compare o que cada um descreve no caso inicial. Em Física, trocar o nome de uma grandeza pode mudar o cálculo ou até o que se está tentando explicar. Escreva, ao lado de cada símbolo, qual parte da situação ele representa e em que unidade seria medido.\n\nExemplo 1. Trem desloca-se a 12 m/s e passageiro caminha para a frente a 2 m/s em relação a ele. Qual rapidez o chão registra? A resposta é 14 m/s. Somamos velocidades colineares de mesmo sentido. Valeria se andasse para trás. Ignora a caminhada. É a rapidez em relação ao trem. O produto não é adição de velocidades.\n\nExemplo 2. Uma plataforma gira uniformemente. Por que seu referencial é não inercial? A resposta é Sua direção de movimento muda.. Há aceleração centrípeta nos pontos fora do eixo. O giro não exige variação de massa. O relógio continua marcando. O giro uniforme tem rapidez constante. Ela continua atuando.\n\nExemplo 3. Uma mochila escorrega para a frente durante a freada de um ônibus. Como explicar do ponto de vista da rua? A resposta é A mochila tende a conservar sua velocidade anterior.. O ônibus reduz sua velocidade primeiro. O avanço relativo pode ocorrer sem esse empurrão. Isso não explica o avanço relativo observado. Ele está freando. A massa permanece.\n\nExemplo 4. Um elevador sobe em linha reta com velocidade constante. Qual condição sustenta usar seu interior como aproximadamente inercial? A resposta é A aceleração é nula.. A velocidade do elevador em relação ao prédio não muda. A altura não decide a questão. A gravidade permanece. Movimento uniforme também pode ser inercial. Em movimento uniforme, as forças podem se equilibrar.\n\nTeste de interpretação. Trem em reta com velocidade constante. Considere a afirmação: “O interior pode ser tratado como inercial se o chão também o for.” Certo. A translação relativa é uniforme. Carrossel com rapidez constante. Considere a afirmação: “O carrossel é inercial.” Errado. A direção da velocidade muda continuamente. Ônibus começa a frear. Considere a afirmação: “Seu referencial acelera em relação à rua.” Certo. Desacelerar é variar a velocidade. Uma bola repousa no banco de um trem em movimento uniforme. Considere a afirmação: “Ela está parada em relação à estação.” Errado. A bola acompanha o movimento do trem em relação à estação.\n\nUma sequência de resolução é útil quando a questão traz mais dados que o necessário. Primeiro, definir o observador. Depois, verificar se o observador acelera. Em seguida, distinguir interações da descrição aparente. Por último, comparar o resultado com o outro referencial. Explique oralmente por que cada passo vem nessa posição. Se a última conclusão mudar quando você troca um detalhe do enunciado, localize qual hipótese provocou essa mudança. Isso ajuda a distinguir o resultado de uma conta das condições em que ele vale.\n\nEm uma prova, procure separar o que o texto observou, o que o modelo assume e o que você concluiu. Um valor informado é um dado. Uma condição como desprezar o atrito ou tratar o intervalo como uniforme pode ser uma hipótese. Já o resultado é aquilo que você obtém ao combinar os dados com a regra escolhida. Se houver tabela ou figura, confira a legenda, os eixos e as unidades antes de usar os números. Para revisar, refaça um dos exemplos mudando um dado por vez e preveja o sentido da mudança antes de calcular.\n\nCheck de leitura. Escolha dois exemplos desta lição e compare o papel de cada informação. O que foi medido diretamente? Qual relação precisou ser usada para inferir uma resposta? Há alguma observação que, sozinha, seria insuficiente? Se a resposta for um número, faça uma estimativa simples para checar se ele é plausível. Se for uma explicação, procure indicar qual condição a torna válida. Depois, tente escrever uma resposta que inclua o dado utilizado, o raciocínio e a conclusão em uma ou duas frases.\n\nAo montar um rascunho, deixe os dados de um lado e a conclusão do outro. Comece pelo dado que tem relação direta com a pergunta. Caso sobrem informações, veja se elas servem para comparar hipóteses ou apenas situar a história. Em uma comparação, mantenha a mesma referência e o mesmo intervalo sempre que o enunciado permitir. Quando um resultado contradiz a previsão inicial, revise primeiro a interpretação do que foi pedido; em seguida, revise a operação e as condições assumidas.\n\nPara fechar, compare estas duas situações e procure a diferença física entre elas. Trem em reta com velocidade constante. Carrossel com rapidez constante. Quando o contexto muda, a leitura deve partir das informações apresentadas naquele caso. Considere a primeira afirmação e justifique o resultado: “O interior pode ser tratado como inercial se o chão também o for.” Certo. A translação relativa é uniforme. Agora avalie a segunda: “O carrossel é inercial.” Errado. A direção da velocidade muda continuamente. Uma explicação adequada pode usar palavras e cálculos, desde que a relação com a situação seja clara. Pense em qual mudança nos dados tornaria cada afirmação válida ou inválida.\n\nUse este conjunto de definições como roteiro para checar o raciocínio. O que é referencial? O sistema usado para descrever posição e movimento.\nQuando um referencial é inercial? Quando vale a lei da inércia para um corpo livre.\nComo tratar um veículo em curva? Como referencial não inercial, pois ele acelera.\nO que muda entre dois referenciais inerciais em translação uniforme? As velocidades podem mudar por uma constante.\nO que é força aparente? Um termo introduzido na descrição feita num referencial acelerado.\nPode um objeto ter repouso relativo e movimento relativo? Sim, quando as observações usam referenciais distintos. Ao voltar aos dados do começo, selecione as definições pertinentes ao caso. Leia a conclusão como se ela fosse uma frase independente: confira a unidade, a referência adotada e a condição de validade.\n\nTROCANDO EM MIÚDOS:\nImagine a situação do começo da lição. Uma passageira vê a mochila parada no banco enquanto um pedestre a vê em movimento. Durante a freada, a mochila desliza em relação ao banco. Em um ônibus retilíneo uniforme, a velocidade relativa difere da medida na rua por um valor constante. Durante a freada, essa diferença muda.\n\nA regra principal pode ser escrita assim: Um referencial inercial é aquele em que um corpo livre conserva sua velocidade. Um referencial acelerado em relação a ele é não inercial. Tente explicar essa regra em voz alta para alguém que ainda não viu o conteúdo, usando o exemplo inicial como apoio.\n\nAntes de marcar uma alternativa, faça esta checagem. O que é referencial? O sistema usado para descrever posição e movimento. Quando um referencial é inercial? Quando vale a lei da inércia para um corpo livre. Como tratar um veículo em curva? Como referencial não inercial, pois ele acelera. O que muda entre dois referenciais inerciais em translação uniforme? As velocidades podem mudar por uma constante. O que é força aparente? Um termo introduzido na descrição feita num referencial acelerado. Pode um objeto ter repouso relativo e movimento relativo? Sim, quando as observações usam referenciais distintos.\n\nEm um rascunho curto, anote quatro passos. Definir o observador. Verificar se o observador acelera. Distinguir interações da descrição aparente. Comparar o resultado com o outro referencial. Em seguida, tente aplicar os passos a um exemplo com números ou condições diferentes. As grandezas que foram medidas e o que você quer descobrir devem ficar em linhas separadas. Isso ajuda a identificar qual informação ainda falta.\n\nExperimente responder a esta situação sem olhar as opções. Trem desloca-se a 12 m/s e passageiro caminha para a frente a 2 m/s em relação a ele. Qual rapidez o chão registra? Somamos velocidades colineares de mesmo sentido. Depois, confira nos exemplos quais seriam as consequências de escolher uma interpretação diferente. Se tiver que refazer, comece pelas condições do problema e pelo significado de cada dado.\n\nPara fixar, releia uma afirmação verdadeira e uma falsa da lição. Reescreva a falsa trocando só o trecho necessário para corrigi-la. Na afirmação verdadeira, diga qual detalhe do enunciado permite chegar a essa conclusão. Assim você pratica explicar um resultado, além de reconhecer qual opção está certa.\n\nLEI SECA:\nUm referencial inercial é aquele em que um corpo livre conserva sua velocidade. Um referencial acelerado em relação a ele é não inercial.\n\nSÚMULAS E TESES:\nEm um ônibus retilíneo uniforme, a velocidade relativa difere da medida na rua por um valor constante. Durante a freada, essa diferença muda.\n\nESQUEMA:\nDefinir o observador → Verificar se o observador acelera → Distinguir interações da descrição aparente → Comparar o resultado com o outro referencial\n\nPEGADINHAS:\n1. Certo. A translação relativa é uniforme.\n2. Errado. A direção da velocidade muda continuamente.\n3. Certo. Desacelerar é variar a velocidade.\n4. Errado. A bola acompanha o movimento do trem em relação à estação.\n\nDOUTRINA:\nOpenStax — College Physics 2e, Newton’s First Law\n\nNA PRÁTICA:\nExemplo 1. Trem desloca-se a 12 m/s e passageiro caminha para a frente a 2 m/s em relação a ele. Qual rapidez o chão registra? A resposta é 14 m/s. Somamos velocidades colineares de mesmo sentido. Valeria se andasse para trás. Ignora a caminhada. É a rapidez em relação ao trem. O produto não é adição de velocidades.",
+   "flashcards": [
+    {
+     "frente": "O que é referencial?",
+     "verso": "O sistema usado para descrever posição e movimento.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção de sistemas de referência inerciais e não inerciais"
+    },
+    {
+     "frente": "Quando um referencial é inercial?",
+     "verso": "Quando vale a lei da inércia para um corpo livre.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção de sistemas de referência inerciais e não inerciais"
+    },
+    {
+     "frente": "Como tratar um veículo em curva?",
+     "verso": "Como referencial não inercial, pois ele acelera.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção de sistemas de referência inerciais e não inerciais"
+    },
+    {
+     "frente": "O que muda entre dois referenciais inerciais em translação uniforme?",
+     "verso": "As velocidades podem mudar por uma constante.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção de sistemas de referência inerciais e não inerciais"
+    },
+    {
+     "frente": "O que é força aparente?",
+     "verso": "Um termo introduzido na descrição feita num referencial acelerado.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção de sistemas de referência inerciais e não inerciais"
+    },
+    {
+     "frente": "Pode um objeto ter repouso relativo e movimento relativo?",
+     "verso": "Sim, quando as observações usam referenciais distintos.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção de sistemas de referência inerciais e não inerciais"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-referenciais-inerciais-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Trem em reta com velocidade constante.",
+     "enunciado": "O interior pode ser tratado como inercial se o chão também o for.",
+     "gabarito": "C",
+     "comentario": "Certo. A translação relativa é uniforme.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção de sistemas de referência inerciais e não inerciais"
+    },
+    {
+     "id": "enem-fisica-referenciais-inerciais-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Carrossel com rapidez constante.",
+     "enunciado": "O carrossel é inercial.",
+     "gabarito": "E",
+     "comentario": "Errado. A direção da velocidade muda continuamente.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção de sistemas de referência inerciais e não inerciais"
+    },
+    {
+     "id": "enem-fisica-referenciais-inerciais-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Ônibus começa a frear.",
+     "enunciado": "Seu referencial acelera em relação à rua.",
+     "gabarito": "C",
+     "comentario": "Certo. Desacelerar é variar a velocidade.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção de sistemas de referência inerciais e não inerciais"
+    },
+    {
+     "id": "enem-fisica-referenciais-inerciais-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Uma bola repousa no banco de um trem em movimento uniforme.",
+     "enunciado": "Ela está parada em relação à estação.",
+     "gabarito": "E",
+     "comentario": "Errado. A bola acompanha o movimento do trem em relação à estação.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção de sistemas de referência inerciais e não inerciais"
+    },
+    {
+     "id": "enem-fisica-referenciais-inerciais-c14-q05",
+     "tipo": "me",
+     "texto_base": "Trem desloca-se a 12 m/s e passageiro caminha para a frente a 2 m/s em relação a ele.",
+     "enunciado": "Qual rapidez o chão registra?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "10 m/s",
+      "B": "14 m/s",
+      "C": "12 m/s",
+      "D": "2 m/s",
+      "E": "24 m/s"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Valeria se andasse para trás.",
+      "B": "Correta. Somamos velocidades colineares de mesmo sentido.",
+      "C": "Ignora a caminhada.",
+      "D": "É a rapidez em relação ao trem.",
+      "E": "O produto não é adição de velocidades."
+     },
+     "comentario": "A) Valeria se andasse para trás.\nB) Correta. Somamos velocidades colineares de mesmo sentido.\nC) Ignora a caminhada.\nD) É a rapidez em relação ao trem.\nE) O produto não é adição de velocidades.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção de sistemas de referência inerciais e não inerciais"
+    },
+    {
+     "id": "enem-fisica-referenciais-inerciais-c14-q06",
+     "tipo": "me",
+     "texto_base": "Uma plataforma gira uniformemente.",
+     "enunciado": "Por que seu referencial é não inercial?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "A massa varia.",
+      "B": "O tempo para.",
+      "C": "A rapidez cresce.",
+      "D": "Sua direção de movimento muda.",
+      "E": "A gravidade some."
+     },
+     "comentarios_por_alternativa": {
+      "A": "O giro não exige variação de massa.",
+      "B": "O relógio continua marcando.",
+      "C": "O giro uniforme tem rapidez constante.",
+      "D": "Correta. Há aceleração centrípeta nos pontos fora do eixo.",
+      "E": "Ela continua atuando."
+     },
+     "comentario": "A) O giro não exige variação de massa.\nB) O relógio continua marcando.\nC) O giro uniforme tem rapidez constante.\nD) Correta. Há aceleração centrípeta nos pontos fora do eixo.\nE) Ela continua atuando.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção de sistemas de referência inerciais e não inerciais"
+    },
+    {
+     "id": "enem-fisica-referenciais-inerciais-c14-q07",
+     "tipo": "me",
+     "texto_base": "Uma mochila escorrega para a frente durante a freada de um ônibus.",
+     "enunciado": "Como explicar do ponto de vista da rua?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "A mochila tende a conservar sua velocidade anterior.",
+      "B": "A mochila é empurrada para a frente por uma nova força obrigatória.",
+      "C": "A mochila para antes do veículo.",
+      "D": "O ônibus acelera para a frente.",
+      "E": "A massa da mochila cresce."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. O ônibus reduz sua velocidade primeiro.",
+      "B": "O avanço relativo pode ocorrer sem esse empurrão.",
+      "C": "Isso não explica o avanço relativo observado.",
+      "D": "Ele está freando.",
+      "E": "A massa permanece."
+     },
+     "comentario": "A) Correta. O ônibus reduz sua velocidade primeiro.\nB) O avanço relativo pode ocorrer sem esse empurrão.\nC) Isso não explica o avanço relativo observado.\nD) Ele está freando.\nE) A massa permanece.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção de sistemas de referência inerciais e não inerciais"
+    },
+    {
+     "id": "enem-fisica-referenciais-inerciais-c14-q08",
+     "tipo": "me",
+     "texto_base": "Um elevador sobe em linha reta com velocidade constante.",
+     "enunciado": "Qual condição sustenta usar seu interior como aproximadamente inercial?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "A altura é zero.",
+      "B": "O peso é zero.",
+      "C": "A velocidade é obrigatoriamente zero.",
+      "D": "O cabo deixa de puxar.",
+      "E": "A aceleração é nula."
+     },
+     "comentarios_por_alternativa": {
+      "A": "A altura não decide a questão.",
+      "B": "A gravidade permanece.",
+      "C": "Movimento uniforme também pode ser inercial.",
+      "D": "Em movimento uniforme, as forças podem se equilibrar.",
+      "E": "Correta. A velocidade do elevador em relação ao prédio não muda."
+     },
+     "comentario": "A) A altura não decide a questão.\nB) A gravidade permanece.\nC) Movimento uniforme também pode ser inercial.\nD) Em movimento uniforme, as forças podem se equilibrar.\nE) Correta. A velocidade do elevador em relação ao prédio não muda.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção de sistemas de referência inerciais e não inerciais"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O que é referencial? Resposta: ___.",
+     "opcoes": [
+      "O sistema usado para descrever posição e movimento.",
+      "Quando vale a lei da inércia para um corpo livre.",
+      "Como referencial não inercial, pois ele acelera.",
+      "As velocidades podem mudar por uma constante."
+     ],
+     "respostas": [
+      "O sistema usado para descrever posição e movimento."
+     ],
+     "explicacao": "O sistema usado para descrever posição e movimento."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "O que é força aparente? Resposta: ___.",
+     "opcoes": [
+      "Como referencial não inercial, pois ele acelera.",
+      "As velocidades podem mudar por uma constante.",
+      "Um termo introduzido na descrição feita num referencial acelerado.",
+      "Sim, quando as observações usam referenciais distintos."
+     ],
+     "respostas": [
+      "Um termo introduzido na descrição feita num referencial acelerado."
+     ],
+     "explicacao": "Um termo introduzido na descrição feita num referencial acelerado."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma situação sobre referenciais inerciais e não inerciais.",
+     "itens": [
+      "Definir o observador.",
+      "Verificar se o observador acelera.",
+      "Distinguir interações da descrição aparente.",
+      "Comparar o resultado com o outro referencial."
+     ],
+     "explicacao": "Um referencial inercial é aquele em que um corpo livre conserva sua velocidade. Um referencial acelerado em relação a ele é não inercial."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O que é referencial?",
+       "O sistema usado para descrever posição e movimento."
+      ],
+      [
+       "Quando um referencial é inercial?",
+       "Quando vale a lei da inércia para um corpo livre."
+      ],
+      [
+       "Como tratar um veículo em curva?",
+       "Como referencial não inercial, pois ele acelera."
+      ],
+      [
+       "O que muda entre dois referenciais inerciais em translação uniforme?",
+       "As velocidades podem mudar por uma constante."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

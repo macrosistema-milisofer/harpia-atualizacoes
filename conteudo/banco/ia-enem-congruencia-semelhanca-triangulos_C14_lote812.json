@@ -1,0 +1,251 @@
+{
+ "assunto": "Triângulos congruentes e semelhantes",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-congruencia-semelhanca-triangulos-c14",
+   "titulo": "Triângulos congruentes e semelhantes",
+   "microconteudo": "RAIO-X DA PROVA: Identifique os lados e ângulos correspondentes, aplique critérios de congruência ou semelhança e diferencie fatores lineares e de área.\n\nPOR QUE IMPORTA:\nMedir por sombras, ampliar uma arte e copiar uma peça dependem de correspondências geométricas. No ENEM, distinguir igualdade de escala e igualdade de forma orienta tanto a leitura da figura quanto o cálculo.\n\nO QUE A BANCA COBRA:\nIdentifique os lados e ângulos correspondentes, aplique critérios de congruência ou semelhança e diferencie fatores lineares e de área.\n\nENTENDA:\n1. Congruência por lados\n\nDuas peças triangulares têm lados de 5, 6 e 8 cm, mesmo com uma delas apoiada em outra borda. Qual relação as peças apresentam? Para decidir, precisamos deste conceito: Se os três lados de um triângulo têm medidas respectivamente iguais às de outro, eles são congruentes pelo caso LLL. No caso apresentado, a resposta é **Congruência pelo caso LLL**. A troca de orientação não altera as medidas, e a igualdade dos três lados determina a mesma forma e tamanho.\n\nUma leitura que pode parecer plausível é “Semelhança sem congruência”. Compare essa hipótese com o que a situação descreve. A troca de orientação não altera as medidas, e a igualdade dos três lados determina a mesma forma e tamanho. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n2. Semelhança por ângulos\n\nUm triângulo tem ângulos de 32° e 68°; outro tem ângulos de 68° e 80°. Como relacionar os triângulos? Para decidir, precisamos deste conceito: Dois ângulos correspondentes iguais são suficientes para garantir semelhança de triângulos. No caso apresentado, a resposta é **São semelhantes pelo caso AA**. Os dois conjuntos de ângulos são 32°, 68° e 80°. Não há dados para determinar igualdade de tamanho.\n\nUma leitura que pode parecer plausível é “São certamente congruentes”. Compare essa hipótese com o que a situação descreve. Os dois conjuntos de ângulos são 32°, 68° e 80°. Não há dados para determinar igualdade de tamanho. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n3. Fator linear\n\nUm triângulo com lados de 4, 5 e 6 cm é ampliado. O menor lado da nova peça mede 10 cm. Quanto mede o maior lado ao final? Para decidir, precisamos deste conceito: Na semelhança, todas as medidas de comprimento correspondentes mudam pelo mesmo fator. No caso apresentado, a resposta é **15 cm**. O fator da ampliação é 10/4 = 2,5. Multiplicar 6 por 2,5 dá 15.\n\nUma leitura que pode parecer plausível é “12 cm”. Compare essa hipótese com o que a situação descreve. O fator da ampliação é 10/4 = 2,5. Multiplicar 6 por 2,5 dá 15. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n4. Fator de área\n\nUm adesivo triangular de área 9 cm² é reproduzido com todos os lados triplicados. Qual é a área do adesivo maior? Para decidir, precisamos deste conceito: Se os comprimentos correspondentes mudam pelo fator k, as áreas correspondentes mudam por k². No caso apresentado, a resposta é **81 cm²**. Base e altura são triplicadas, de modo que a área fica nove vezes maior.\n\nUma leitura que pode parecer plausível é “27 cm²”. Compare essa hipótese com o que a situação descreve. Base e altura são triplicadas, de modo que a área fica nove vezes maior. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n5. Lado, ângulo e lado\n\nDuas armações têm lados de 5 cm e 9 cm formando entre si 40°. Qual conclusão os dados autorizam? Para decidir, precisamos deste conceito: O critério LAL de congruência requer dois lados correspondentes iguais e o ângulo compreendido entre eles igual. No caso apresentado, a resposta é **As armações triangulares são congruentes pelo caso LAL**. Alterar o terceiro lado mudaria o ângulo de abertura entre os dois lados dados.\n\nUma leitura que pode parecer plausível é “Igualdade de apenas um lado correspondente”. Compare essa hipótese com o que a situação descreve. Alterar o terceiro lado mudaria o ângulo de abertura entre os dois lados dados. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n6. Estimativa por sombras\n\nUma estaca de 2 m tem sombra de 1,5 m. No mesmo instante, um poste ao lado tem sombra de 6 m. Qual é a altura do poste? Para decidir, precisamos deste conceito: Objetos verticais sobre solo plano, iluminados pelo Sol ao mesmo tempo, podem formar triângulos semelhantes com suas sombras. No caso apresentado, a resposta é **8 m**. A sombra do poste é quatro vezes a da estaca, assim a altura correspondente é 4 × 2 m.\n\nUma leitura que pode parecer plausível é “4,5 m”. Compare essa hipótese com o que a situação descreve. A sombra do poste é quatro vezes a da estaca, assim a altura correspondente é 4 × 2 m. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\nTROCANDO EM MIÚDOS:\n**Congruência por lados.** Se os três lados de um triângulo têm medidas respectivamente iguais às de outro, eles são congruentes pelo caso LLL. Tente resolver esta situação: Duas peças triangulares têm lados de 5, 6 e 8 cm, mesmo com uma delas apoiada em outra borda. Qual relação as peças apresentam? Confira: Congruência pelo caso LLL. A troca de orientação não altera as medidas, e a igualdade dos três lados determina a mesma forma e tamanho.\n\n**Semelhança por ângulos.** Dois ângulos correspondentes iguais são suficientes para garantir semelhança de triângulos. Tente resolver esta situação: Um triângulo tem ângulos de 32° e 68°; outro tem ângulos de 68° e 80°. Como relacionar os triângulos? Confira: São semelhantes pelo caso AA. Os dois conjuntos de ângulos são 32°, 68° e 80°. Não há dados para determinar igualdade de tamanho.\n\n**Fator linear.** Na semelhança, todas as medidas de comprimento correspondentes mudam pelo mesmo fator. Tente resolver esta situação: Um triângulo com lados de 4, 5 e 6 cm é ampliado. O menor lado da nova peça mede 10 cm. Quanto mede o maior lado ao final? Confira: 15 cm. O fator da ampliação é 10/4 = 2,5. Multiplicar 6 por 2,5 dá 15.\n\n**Fator de área.** Se os comprimentos correspondentes mudam pelo fator k, as áreas correspondentes mudam por k². Tente resolver esta situação: Um adesivo triangular de área 9 cm² é reproduzido com todos os lados triplicados. Qual é a área do adesivo maior? Confira: 81 cm². Base e altura são triplicadas, de modo que a área fica nove vezes maior.\n\n**Lado, ângulo e lado.** O critério LAL de congruência requer dois lados correspondentes iguais e o ângulo compreendido entre eles igual. Tente resolver esta situação: Duas armações têm lados de 5 cm e 9 cm formando entre si 40°. Qual conclusão os dados autorizam? Confira: As armações triangulares são congruentes pelo caso LAL. Alterar o terceiro lado mudaria o ângulo de abertura entre os dois lados dados.\n\n**Estimativa por sombras.** Objetos verticais sobre solo plano, iluminados pelo Sol ao mesmo tempo, podem formar triângulos semelhantes com suas sombras. Tente resolver esta situação: Uma estaca de 2 m tem sombra de 1,5 m. No mesmo instante, um poste ao lado tem sombra de 6 m. Qual é a altura do poste? Confira: 8 m. A sombra do poste é quatro vezes a da estaca, assim a altura correspondente é 4 × 2 m.\n\nESQUEMA:\n• Congruência por lados → Se os três lados de um triângulo têm medidas respectivamente iguais às de outro, eles são congruentes pelo caso LLL.\n• Semelhança por ângulos → Dois ângulos correspondentes iguais são suficientes para garantir semelhança de triângulos.\n• Fator linear → Na semelhança, todas as medidas de comprimento correspondentes mudam pelo mesmo fator.\n• Fator de área → Se os comprimentos correspondentes mudam pelo fator k, as áreas correspondentes mudam por k².\n• Lado, ângulo e lado → O critério LAL de congruência requer dois lados correspondentes iguais e o ângulo compreendido entre eles igual.\n• Estimativa por sombras → Objetos verticais sobre solo plano, iluminados pelo Sol ao mesmo tempo, podem formar triângulos semelhantes com suas sombras.\n\nPEGADINHAS:\n• Congruência por lados: ao ler “Semelhança sem congruência”, confira o que o enunciado permite concluir.\n• Semelhança por ângulos: ao ler “São certamente congruentes”, confira o que o enunciado permite concluir.\n• Fator linear: ao ler “12 cm”, confira o que o enunciado permite concluir.\n• Fator de área: ao ler “27 cm²”, confira o que o enunciado permite concluir.\n• Lado, ângulo e lado: ao ler “Igualdade de apenas um lado correspondente”, confira o que o enunciado permite concluir.\n• Estimativa por sombras: ao ler “4,5 m”, confira o que o enunciado permite concluir.\n\nNA PRÁTICA:\nUma estaca de 2 m tem sombra de 1,5 m. No mesmo instante, um poste ao lado tem sombra de 6 m. Qual é a altura do poste? **Resposta:** 8 m. A sombra do poste é quatro vezes a da estaca, assim a altura correspondente é 4 × 2 m.",
+   "flashcards": [
+    {
+     "frente": "Como reconhecer congruência por lados?",
+     "verso": "Se os três lados de um triângulo têm medidas respectivamente iguais às de outro, eles são congruentes pelo caso LLL.",
+     "dispositivo": "Conhecimentos geométricos — Congruência e semelhança de triângulos"
+    },
+    {
+     "frente": "Como reconhecer semelhança por ângulos?",
+     "verso": "Dois ângulos correspondentes iguais são suficientes para garantir semelhança de triângulos.",
+     "dispositivo": "Conhecimentos geométricos — Congruência e semelhança de triângulos"
+    },
+    {
+     "frente": "Como reconhecer fator linear?",
+     "verso": "Na semelhança, todas as medidas de comprimento correspondentes mudam pelo mesmo fator.",
+     "dispositivo": "Conhecimentos geométricos — Congruência e semelhança de triângulos"
+    },
+    {
+     "frente": "Como reconhecer fator de área?",
+     "verso": "Se os comprimentos correspondentes mudam pelo fator k, as áreas correspondentes mudam por k².",
+     "dispositivo": "Conhecimentos geométricos — Congruência e semelhança de triângulos"
+    },
+    {
+     "frente": "Como reconhecer lado, ângulo e lado?",
+     "verso": "O critério LAL de congruência requer dois lados correspondentes iguais e o ângulo compreendido entre eles igual.",
+     "dispositivo": "Conhecimentos geométricos — Congruência e semelhança de triângulos"
+    },
+    {
+     "frente": "Como reconhecer estimativa por sombras?",
+     "verso": "Objetos verticais sobre solo plano, iluminados pelo Sol ao mesmo tempo, podem formar triângulos semelhantes com suas sombras.",
+     "dispositivo": "Conhecimentos geométricos — Congruência e semelhança de triângulos"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-congruencia-semelhanca-triangulos-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Dois triângulos têm lados 3, 4 e 5 cm e 6, 8 e 10 cm, respectivamente.",
+     "enunciado": "Eles são semelhantes com fator de ampliação 2.",
+     "gabarito": "C",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Congruência e semelhança de triângulos",
+     "comentario": "A razão entre cada lado maior e o correspondente menor é 2."
+    },
+    {
+     "id": "enem-congruencia-semelhanca-triangulos-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Dois triângulos têm os mesmos três ângulos internos.",
+     "enunciado": "Eles necessariamente têm o mesmo perímetro.",
+     "gabarito": "E",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Congruência e semelhança de triângulos",
+     "comentario": "Ângulos iguais garantem a forma, mas as medidas lineares podem variar por um fator."
+    },
+    {
+     "id": "enem-congruencia-semelhanca-triangulos-c14-q03",
+     "tipo": "ce",
+     "texto_base": "As áreas de dois triângulos semelhantes estão na razão 16 para 1.",
+     "enunciado": "Os lados correspondentes também estão na razão 16 para 1.",
+     "gabarito": "E",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Congruência e semelhança de triângulos",
+     "comentario": "A razão linear é 4 para 1, pois o fator de área é o quadrado do linear."
+    },
+    {
+     "id": "enem-congruencia-semelhanca-triangulos-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Duas peças triangulares têm lados 7, 8 e 9 cm cada uma.",
+     "enunciado": "Se uma estiver espelhada em relação à outra, ainda são congruentes.",
+     "gabarito": "C",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Congruência e semelhança de triângulos",
+     "comentario": "A reflexão preserva as três medidas e a congruência."
+    },
+    {
+     "id": "enem-congruencia-semelhanca-triangulos-c14-q05",
+     "tipo": "me",
+     "texto_base": "Um triângulo tem ângulos de 32° e 68°; outro tem ângulos de 68° e 80°.",
+     "enunciado": "Como relacionar os triângulos?",
+     "gabarito": "A",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Congruência e semelhança de triângulos",
+     "alternativas": {
+      "A": "São semelhantes pelo caso AA",
+      "B": "São certamente congruentes",
+      "C": "15 cm",
+      "D": "81 cm²",
+      "E": "As armações triangulares são congruentes pelo caso LAL"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Os dois conjuntos de ângulos são 32°, 68° e 80°. Não há dados para determinar igualdade de tamanho.",
+      "B": "Essa leitura falha neste caso. Os dois conjuntos de ângulos são 32°, 68° e 80°. Não há dados para determinar igualdade de tamanho.",
+      "C": "Essa resposta se relaciona a fator linear. Aqui, a pista decisiva é outra. Os dois conjuntos de ângulos são 32°, 68° e 80°. Não há dados para determinar igualdade de tamanho.",
+      "D": "Essa resposta se relaciona a fator de área. Aqui, a pista decisiva é outra. Os dois conjuntos de ângulos são 32°, 68° e 80°. Não há dados para determinar igualdade de tamanho.",
+      "E": "Essa resposta se relaciona a lado, ângulo e lado. Aqui, a pista decisiva é outra. Os dois conjuntos de ângulos são 32°, 68° e 80°. Não há dados para determinar igualdade de tamanho."
+     },
+     "comentario": "A) Correta. Os dois conjuntos de ângulos são 32°, 68° e 80°. Não há dados para determinar igualdade de tamanho.\nB) Essa leitura falha neste caso. Os dois conjuntos de ângulos são 32°, 68° e 80°. Não há dados para determinar igualdade de tamanho.\nC) Essa resposta se relaciona a fator linear. Aqui, a pista decisiva é outra. Os dois conjuntos de ângulos são 32°, 68° e 80°. Não há dados para determinar igualdade de tamanho.\nD) Essa resposta se relaciona a fator de área. Aqui, a pista decisiva é outra. Os dois conjuntos de ângulos são 32°, 68° e 80°. Não há dados para determinar igualdade de tamanho.\nE) Essa resposta se relaciona a lado, ângulo e lado. Aqui, a pista decisiva é outra. Os dois conjuntos de ângulos são 32°, 68° e 80°. Não há dados para determinar igualdade de tamanho."
+    },
+    {
+     "id": "enem-congruencia-semelhanca-triangulos-c14-q06",
+     "tipo": "me",
+     "texto_base": "Um triângulo com lados de 4, 5 e 6 cm é ampliado. O menor lado da nova peça mede 10 cm.",
+     "enunciado": "Quanto mede o maior lado ao final?",
+     "gabarito": "B",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Congruência e semelhança de triângulos",
+     "alternativas": {
+      "A": "12 cm",
+      "B": "15 cm",
+      "C": "81 cm²",
+      "D": "As armações triangulares são congruentes pelo caso LAL",
+      "E": "8 m"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Essa leitura falha neste caso. O fator da ampliação é 10/4 = 2,5. Multiplicar 6 por 2,5 dá 15.",
+      "B": "Correta. O fator da ampliação é 10/4 = 2,5. Multiplicar 6 por 2,5 dá 15.",
+      "C": "Essa resposta se relaciona a fator de área. Aqui, a pista decisiva é outra. O fator da ampliação é 10/4 = 2,5. Multiplicar 6 por 2,5 dá 15.",
+      "D": "Essa resposta se relaciona a lado, ângulo e lado. Aqui, a pista decisiva é outra. O fator da ampliação é 10/4 = 2,5. Multiplicar 6 por 2,5 dá 15.",
+      "E": "Essa resposta se relaciona a estimativa por sombras. Aqui, a pista decisiva é outra. O fator da ampliação é 10/4 = 2,5. Multiplicar 6 por 2,5 dá 15."
+     },
+     "comentario": "A) Essa leitura falha neste caso. O fator da ampliação é 10/4 = 2,5. Multiplicar 6 por 2,5 dá 15.\nB) Correta. O fator da ampliação é 10/4 = 2,5. Multiplicar 6 por 2,5 dá 15.\nC) Essa resposta se relaciona a fator de área. Aqui, a pista decisiva é outra. O fator da ampliação é 10/4 = 2,5. Multiplicar 6 por 2,5 dá 15.\nD) Essa resposta se relaciona a lado, ângulo e lado. Aqui, a pista decisiva é outra. O fator da ampliação é 10/4 = 2,5. Multiplicar 6 por 2,5 dá 15.\nE) Essa resposta se relaciona a estimativa por sombras. Aqui, a pista decisiva é outra. O fator da ampliação é 10/4 = 2,5. Multiplicar 6 por 2,5 dá 15."
+    },
+    {
+     "id": "enem-congruencia-semelhanca-triangulos-c14-q07",
+     "tipo": "me",
+     "texto_base": "Um adesivo triangular de área 9 cm² é reproduzido com todos os lados triplicados.",
+     "enunciado": "Qual é a área do adesivo maior?",
+     "gabarito": "C",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Congruência e semelhança de triângulos",
+     "alternativas": {
+      "A": "27 cm²",
+      "B": "As armações triangulares são congruentes pelo caso LAL",
+      "C": "81 cm²",
+      "D": "8 m",
+      "E": "Congruência pelo caso LLL"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Essa leitura falha neste caso. Base e altura são triplicadas, de modo que a área fica nove vezes maior.",
+      "B": "Essa resposta se relaciona a lado, ângulo e lado. Aqui, a pista decisiva é outra. Base e altura são triplicadas, de modo que a área fica nove vezes maior.",
+      "C": "Correta. Base e altura são triplicadas, de modo que a área fica nove vezes maior.",
+      "D": "Essa resposta se relaciona a estimativa por sombras. Aqui, a pista decisiva é outra. Base e altura são triplicadas, de modo que a área fica nove vezes maior.",
+      "E": "Essa resposta se relaciona a congruência por lados. Aqui, a pista decisiva é outra. Base e altura são triplicadas, de modo que a área fica nove vezes maior."
+     },
+     "comentario": "A) Essa leitura falha neste caso. Base e altura são triplicadas, de modo que a área fica nove vezes maior.\nB) Essa resposta se relaciona a lado, ângulo e lado. Aqui, a pista decisiva é outra. Base e altura são triplicadas, de modo que a área fica nove vezes maior.\nC) Correta. Base e altura são triplicadas, de modo que a área fica nove vezes maior.\nD) Essa resposta se relaciona a estimativa por sombras. Aqui, a pista decisiva é outra. Base e altura são triplicadas, de modo que a área fica nove vezes maior.\nE) Essa resposta se relaciona a congruência por lados. Aqui, a pista decisiva é outra. Base e altura são triplicadas, de modo que a área fica nove vezes maior."
+    },
+    {
+     "id": "enem-congruencia-semelhanca-triangulos-c14-q08",
+     "tipo": "me",
+     "texto_base": "Duas armações têm lados de 5 cm e 9 cm formando entre si 40°.",
+     "enunciado": "Qual conclusão os dados autorizam?",
+     "gabarito": "D",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Congruência e semelhança de triângulos",
+     "alternativas": {
+      "A": "Igualdade de apenas um lado correspondente",
+      "B": "8 m",
+      "C": "Congruência pelo caso LLL",
+      "D": "As armações triangulares são congruentes pelo caso LAL",
+      "E": "São semelhantes pelo caso AA"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Essa leitura falha neste caso. Alterar o terceiro lado mudaria o ângulo de abertura entre os dois lados dados.",
+      "B": "Essa resposta se relaciona a estimativa por sombras. Aqui, a pista decisiva é outra. Alterar o terceiro lado mudaria o ângulo de abertura entre os dois lados dados.",
+      "C": "Essa resposta se relaciona a congruência por lados. Aqui, a pista decisiva é outra. Alterar o terceiro lado mudaria o ângulo de abertura entre os dois lados dados.",
+      "D": "Correta. Alterar o terceiro lado mudaria o ângulo de abertura entre os dois lados dados.",
+      "E": "Essa resposta se relaciona a semelhança por ângulos. Aqui, a pista decisiva é outra. Alterar o terceiro lado mudaria o ângulo de abertura entre os dois lados dados."
+     },
+     "comentario": "A) Essa leitura falha neste caso. Alterar o terceiro lado mudaria o ângulo de abertura entre os dois lados dados.\nB) Essa resposta se relaciona a estimativa por sombras. Aqui, a pista decisiva é outra. Alterar o terceiro lado mudaria o ângulo de abertura entre os dois lados dados.\nC) Essa resposta se relaciona a congruência por lados. Aqui, a pista decisiva é outra. Alterar o terceiro lado mudaria o ângulo de abertura entre os dois lados dados.\nD) Correta. Alterar o terceiro lado mudaria o ângulo de abertura entre os dois lados dados.\nE) Essa resposta se relaciona a semelhança por ângulos. Aqui, a pista decisiva é outra. Alterar o terceiro lado mudaria o ângulo de abertura entre os dois lados dados."
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Duas peças triangulares têm lados de 5, 6 e 8 cm, mesmo com uma delas apoiada em outra borda. Qual relação as peças apresentam? Resposta: ___.",
+     "opcoes": [
+      "Congruência pelo caso LLL",
+      "Semelhança sem congruência",
+      "15 cm"
+     ],
+     "respostas": [
+      "Congruência pelo caso LLL"
+     ],
+     "explicacao": "A troca de orientação não altera as medidas, e a igualdade dos três lados determina a mesma forma e tamanho."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Uma estaca de 2 m tem sombra de 1,5 m. No mesmo instante, um poste ao lado tem sombra de 6 m. Qual é a altura do poste? Resposta: ___.",
+     "opcoes": [
+      "8 m",
+      "4,5 m",
+      "São semelhantes pelo caso AA"
+     ],
+     "respostas": [
+      "8 m"
+     ],
+     "explicacao": "A sombra do poste é quatro vezes a da estaca, assim a altura correspondente é 4 × 2 m."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a resolução do caso de fator linear. Um triângulo com lados de 4, 5 e 6 cm é ampliado. O menor lado da nova peça mede 10 cm. Quanto mede o maior lado ao final?",
+     "itens": [
+      "Identificar o que a pergunta quer saber.",
+      "Relacionar as pistas ao conceito estudado.",
+      "Formular a resposta sustentada pelas pistas.",
+      "Conferir se a resposta atende à pergunta."
+     ],
+     "explicacao": "O fator da ampliação é 10/4 = 2,5. Multiplicar 6 por 2,5 dá 15."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Congruência por lados",
+       "Se os três lados de um triângulo têm medidas respectivamente iguais às de outro, eles são congruentes pelo caso LLL."
+      ],
+      [
+       "Semelhança por ângulos",
+       "Dois ângulos correspondentes iguais são suficientes para garantir semelhança de triângulos."
+      ],
+      [
+       "Fator linear",
+       "Na semelhança, todas as medidas de comprimento correspondentes mudam pelo mesmo fator."
+      ],
+      [
+       "Fator de área",
+       "Se os comprimentos correspondentes mudam pelo fator k, as áreas correspondentes mudam por k²."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

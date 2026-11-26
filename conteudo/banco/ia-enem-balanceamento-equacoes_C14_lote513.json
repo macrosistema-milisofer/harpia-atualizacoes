@@ -1,0 +1,253 @@
+{
+ "assunto": "Balanceamento de equações químicas",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-balanceamento-equacoes-c14",
+   "titulo": "Balanceamento de equações químicas",
+   "microconteudo": "RAIO-X DA PROVA: Assunto do edital de Ciências da Natureza. A interpretação de dados ajuda a resolver situações-problema sobre esse conteúdo.\n\nPOR QUE IMPORTA:\nBalanceamento de equações químicas ajuda a traduzir observações e símbolos em explicações que você pode conferir. Nesta lição, você vai praticar a leitura de dados e justificar o resultado.\n\nO QUE A BANCA COBRA:\nIdentifique o que o problema descreve e escolha a conclusão explicada pelos dados. Revise a unidade, a entidade representada e as condições de aplicação quando elas fizerem parte do problema.\n\nENTENDA:\nBalancear preserva o número de átomos de cada elemento nos dois lados da equação. Alteram-se os coeficientes, pois os índices identificam as substâncias. Em equações iônicas, conserve também a carga total. Quando se pede a forma convencional, reduza os coeficientes inteiros à menor razão.\n\nPara Fe + O₂ → Fe₂O₃, considere seis oxigênios, múltiplo de dois e três. Use 3 O₂ e 2 Fe₂O₃. Isso exige 4 Fe no lado dos reagentes. A menor razão inteira é 4:3:2. Conferir elemento por elemento evita que uma correção mude uma contagem que já parecia pronta.\n\nComeçar pelo elemento que aparece em menos espécies pode reduzir tentativas. Na combustão completa de um hidrocarboneto, por exemplo, costuma funcionar contar carbono e hidrogênio nos produtos antes de acertar o oxigênio molecular dos reagentes. Se surgir um coeficiente fracionário permitido durante o cálculo, você pode multiplicar todos os coeficientes pelo denominador para voltar à notação inteira.\n\nPrimeiro caso: ligue os dados à regra\nPara H₂ + O₂ → H₂O, considere a ordem escrita. Quais os menores coeficientes inteiros?\n\nComece lendo o enunciado como um pequeno relatório. Anote em uma linha o material ou sistema descrito e, em outra, o que se quer descobrir. Essa divisão evita misturar um dado já fornecido com o resultado pedido. Escolha a regra depois de localizar o que, no texto, autoriza sua aplicação. Ao terminar, teste se a resposta ainda faz sentido ao substituir os valores ou reler a observação.\n\nResultado: 2, 1, 2 Há 4 H e 2 O em cada lado.\n\nCompare as hipóteses e os cálculos alternativos:\n• 1, 1, 1 Falta O à direita.\n• 1, 2, 1 Há 4 O à esquerda contra 1.\n• 2, 2, 2 O oxigênio não fecha.\n• 4, 2, 4 Conserva átomos mas não é a menor razão.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nSegundo caso: cuide da condição que permite a conclusão\nA combustão completa do CH₄ forma CO₂ e H₂O. Qual equação conserva átomos?\n\nCompare as interpretações antes de escolher. Duas respostas podem usar os mesmos termos ou números e ainda se referir a grandezas diferentes. Se houver unidades, escreva a unidade junto a cada valor. Se houver contagens, diga o que está sendo contado. Se a questão for explicativa, procure a relação de causa e efeito que é compatível com as condições fornecidas. Só então feche a resposta.\n\nResultado: CH₄ + 2 O₂ → CO₂ + 2 H₂O C, H e O fecham.\n\nCompare as hipóteses e os cálculos alternativos:\n• CH₄ + O₂ → CO₂ + H₂O Faltam H e O nos lados apropriados.\n• CH₄ + O₂ → CO₂ + 2 H₂O Faltam O à esquerda.\n• 2 CH₄ + O₂ → CO₂ + H₂O A contagem de C não fecha.\n• CH₄ + 2 O₂ → 2 CO₂ + H₂O Há C a mais à direita.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nTerceiro caso: confira o que a pergunta está medindo\nUma equação usa 4 Na + 2 Cl₂ → 4 NaCl. Qual a menor razão inteira?\n\nFaça uma primeira previsão usando palavras. Pergunte se o resultado esperado é uma contagem, uma propriedade, uma comparação ou um mecanismo. Escrever a previsão antes de olhar as alternativas ajuda a perceber quando dois valores semelhantes têm sentidos diferentes. Em seguida, explique em uma frase como o primeiro dado se conecta ao resultado. A resposta fica mais forte quando essa ligação pode ser checada no próprio enunciado.\n\nResultado: 2:1:2 Divida todos os coeficientes por 2.\n\nCompare as hipóteses e os cálculos alternativos:\n• 4:2:4 É balanceada, mas pode ser reduzida.\n• 1:1:1 O cloro não fecha.\n• 2:2:2 Há quatro Cl à esquerda.\n• 1:2:1 O cloro não fecha.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nQuarto caso: escolha a conclusão sustentada\nEm Ca²⁺ + Cl⁻ → CaCl₂, ajuste os coeficientes. Qual ajuste conserva elementos e carga?\n\nTente justificar a escolha para alguém que observou apenas o resultado final. Comece pelos fatos que o problema realmente fornece e mostre como a regra interpreta esses fatos. Se a conclusão depender de uma condição, mantenha essa condição na justificativa. Depois procure uma alteração pequena nos dados que exigiria outra resposta. Esse último passo ajuda a reconhecer onde termina a aplicação do raciocínio.\n\nResultado: 1, 2, 1 Dois cloretos equilibram a carga e a contagem de Cl.\n\nCompare as hipóteses e os cálculos alternativos:\n• 1, 1, 1 Há falta de Cl e sobra de carga positiva.\n• 2, 1, 1 Sobra Ca, falta Cl e a carga não fecha.\n• 1, 2, 2 O lado direito exigiria dois Ca e quatro Cl.\n• 2, 2, 1 Sobra Ca e carga positiva.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nLeitura crítica 1\nNa equação N₂ + 3 H₂ → 2 NH₃. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “Há seis átomos de hidrogênio representados de cada lado.” 3 × 2 = 2 × 3 = 6. A segunda é “O coeficiente 2 multiplica apenas o nitrogênio.” Multiplica toda a fórmula NH₃.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nLeitura crítica 2\nPara balancear água, alguém troca H₂O por H₂O₂. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “A alteração troca a identidade do produto.” O novo índice representa peróxido de hidrogênio. A segunda é “É uma forma válida de ajustar água.” O ajuste se faz por coeficientes.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nCheque o alcance da conclusão\nBalancear preserva o número de átomos de cada elemento nos dois lados da equação. Alteram-se os coeficientes, pois os índices identificam as substâncias. Em equações iônicas, conserve também a carga total. Quando se pede a forma convencional, reduza os coeficientes inteiros à menor razão.\n\nAo estudar, escolha uma das situações acima e altere só um dado. Explique quais partes da solução continuam iguais e quais precisam ser refeitas. Num problema numérico, experimente multiplicar o dado alterado por dois e veja se a resposta dobra, diminui ou continua igual. Num problema de classificação, tente retirar a observação decisiva e veja quais hipóteses continuam compatíveis. Isso separa a regra geral da informação específica fornecida por uma questão.\n\nTROCANDO EM MIÚDOS:\nComece por uma pergunta que você conseguiria fazer a um colega: o que mudou, o que ficou igual e qual informação me permite dizer isso? Em questões de Química, dá para errar mesmo lembrando a regra certa quando se usa a regra para o dado errado. Separe a situação da pergunta. Leia os símbolos em voz baixa. Se houver dois materiais ou dois momentos, dê um nome curto para cada um. Assim você consegue comparar as coisas na ordem que o texto pediu.\n\nPara Fe + O₂ → Fe₂O₃, considere seis oxigênios, múltiplo de dois e três. Use 3 O₂ e 2 Fe₂O₃. Isso exige 4 Fe no lado dos reagentes. A menor razão inteira é 4:3:2. Conferir elemento por elemento evita que uma correção mude uma contagem que já parecia pronta.\n\nExperimente com este caso. Para H₂ + O₂ → H₂O, considere a ordem escrita. Quais os menores coeficientes inteiros? A resposta é 2, 1, 2 Há 4 H e 2 O em cada lado. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nExperimente com este caso. Em Ca²⁺ + Cl⁻ → CaCl₂, ajuste os coeficientes. Qual ajuste conserva elementos e carga? A resposta é 1, 2, 1 Dois cloretos equilibram a carga e a contagem de Cl. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nFaça uma checagem que cabe no rascunho: escreva o dado, desenhe uma seta e escreva o que ele permite concluir. Se precisar de uma segunda seta, diga qual regra leva desse resultado intermediário até a resposta. Uma explicação em duas frases pode ser suficiente. A primeira conta o que o problema mostrou. A segunda diz por que esse dado leva à sua escolha. Esse caminho ajuda em problemas com tabelas, desenhos e comparações.\n\nESQUEMA:\nLeia o cenário → destaque o dado decisivo → aplique a relação → confira o que foi pedido.\n\nPEGADINHAS:\n• 1, 1, 1 Falta O à direita.\n• CH₄ + O₂ → CO₂ + H₂O Faltam H e O nos lados apropriados.\n• 4:2:4 É balanceada, mas pode ser reduzida.\n• 1, 1, 1 Há falta de Cl e sobra de carga positiva.\n\nNA PRÁTICA:\nPara Fe + O₂ → Fe₂O₃, considere seis oxigênios, múltiplo de dois e três. Use 3 O₂ e 2 Fe₂O₃. Isso exige 4 Fe no lado dos reagentes. A menor razão inteira é 4:3:2. Conferir elemento por elemento evita que uma correção mude uma contagem que já parecia pronta.",
+   "flashcards": [
+    {
+     "frente": "Na equação N₂ + 3 H₂ → 2 NH₃. Há seis átomos de hidrogênio representados de cada lado. Certo ou errado?",
+     "verso": "Certo. 3 × 2 = 2 × 3 = 6.",
+     "dispositivo": "Representação das transformações químicas — Balanceamento de equações químicas"
+    },
+    {
+     "frente": "Para balancear água, alguém troca H₂O por H₂O₂. A alteração troca a identidade do produto. Certo ou errado?",
+     "verso": "Certo. O novo índice representa peróxido de hidrogênio.",
+     "dispositivo": "Representação das transformações químicas — Balanceamento de equações químicas"
+    },
+    {
+     "frente": "Para H₂ + O₂ → H₂O, considere a ordem escrita. Quais os menores coeficientes inteiros?",
+     "verso": "2, 1, 2 Há 4 H e 2 O em cada lado.",
+     "dispositivo": "Representação das transformações químicas — Balanceamento de equações químicas"
+    },
+    {
+     "frente": "A combustão completa do CH₄ forma CO₂ e H₂O. Qual equação conserva átomos?",
+     "verso": "CH₄ + 2 O₂ → CO₂ + 2 H₂O C, H e O fecham.",
+     "dispositivo": "Representação das transformações químicas — Balanceamento de equações químicas"
+    },
+    {
+     "frente": "Uma equação usa 4 Na + 2 Cl₂ → 4 NaCl. Qual a menor razão inteira?",
+     "verso": "2:1:2 Divida todos os coeficientes por 2.",
+     "dispositivo": "Representação das transformações químicas — Balanceamento de equações químicas"
+    },
+    {
+     "frente": "Em Ca²⁺ + Cl⁻ → CaCl₂, ajuste os coeficientes. Qual ajuste conserva elementos e carga?",
+     "verso": "1, 2, 1 Dois cloretos equilibram a carga e a contagem de Cl.",
+     "dispositivo": "Representação das transformações químicas — Balanceamento de equações químicas"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Na equação N₂ + 3 H₂ → 2 NH₃.",
+     "enunciado": "Há seis átomos de hidrogênio representados de cada lado.",
+     "gabarito": "C",
+     "comentario": "Certo. 3 × 2 = 2 × 3 = 6.",
+     "id": "enem-balanceamento-equacoes-c14-q01",
+     "habilidade": "H24",
+     "dispositivo": "Representação das transformações químicas — Balanceamento de equações químicas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Na equação N₂ + 3 H₂ → 2 NH₃.",
+     "enunciado": "O coeficiente 2 multiplica apenas o nitrogênio.",
+     "gabarito": "E",
+     "comentario": "Errado. Multiplica toda a fórmula NH₃.",
+     "id": "enem-balanceamento-equacoes-c14-q02",
+     "habilidade": "H24",
+     "dispositivo": "Representação das transformações químicas — Balanceamento de equações químicas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Para balancear água, alguém troca H₂O por H₂O₂.",
+     "enunciado": "A alteração troca a identidade do produto.",
+     "gabarito": "C",
+     "comentario": "Certo. O novo índice representa peróxido de hidrogênio.",
+     "id": "enem-balanceamento-equacoes-c14-q03",
+     "habilidade": "H24",
+     "dispositivo": "Representação das transformações químicas — Balanceamento de equações químicas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Para balancear água, alguém troca H₂O por H₂O₂.",
+     "enunciado": "É uma forma válida de ajustar água.",
+     "gabarito": "E",
+     "comentario": "Errado. O ajuste se faz por coeficientes.",
+     "id": "enem-balanceamento-equacoes-c14-q04",
+     "habilidade": "H24",
+     "dispositivo": "Representação das transformações químicas — Balanceamento de equações químicas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Para H₂ + O₂ → H₂O, considere a ordem escrita.",
+     "enunciado": "Quais os menores coeficientes inteiros?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "1, 1, 1",
+      "B": "1, 2, 1",
+      "C": "2, 2, 2",
+      "D": "2, 1, 2",
+      "E": "4, 2, 4"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Falta O à direita.",
+      "B": "Há 4 O à esquerda contra 1.",
+      "C": "O oxigênio não fecha.",
+      "D": "Há 4 H e 2 O em cada lado.",
+      "E": "Conserva átomos mas não é a menor razão."
+     },
+     "comentario": "A) Falta O à direita.\nB) Há 4 O à esquerda contra 1.\nC) O oxigênio não fecha.\nD) Há 4 H e 2 O em cada lado.\nE) Conserva átomos mas não é a menor razão.",
+     "id": "enem-balanceamento-equacoes-c14-q05",
+     "habilidade": "H24",
+     "dispositivo": "Representação das transformações químicas — Balanceamento de equações químicas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "A combustão completa do CH₄ forma CO₂ e H₂O.",
+     "enunciado": "Qual equação conserva átomos?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "CH₄ + 2 O₂ → CO₂ + 2 H₂O",
+      "B": "CH₄ + O₂ → CO₂ + H₂O",
+      "C": "CH₄ + O₂ → CO₂ + 2 H₂O",
+      "D": "2 CH₄ + O₂ → CO₂ + H₂O",
+      "E": "CH₄ + 2 O₂ → 2 CO₂ + H₂O"
+     },
+     "comentarios_por_alternativa": {
+      "A": "C, H e O fecham.",
+      "B": "Faltam H e O nos lados apropriados.",
+      "C": "Faltam O à esquerda.",
+      "D": "A contagem de C não fecha.",
+      "E": "Há C a mais à direita."
+     },
+     "comentario": "A) C, H e O fecham.\nB) Faltam H e O nos lados apropriados.\nC) Faltam O à esquerda.\nD) A contagem de C não fecha.\nE) Há C a mais à direita.",
+     "id": "enem-balanceamento-equacoes-c14-q06",
+     "habilidade": "H24",
+     "dispositivo": "Representação das transformações químicas — Balanceamento de equações químicas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma equação usa 4 Na + 2 Cl₂ → 4 NaCl.",
+     "enunciado": "Qual a menor razão inteira?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "4:2:4",
+      "B": "1:1:1",
+      "C": "2:2:2",
+      "D": "1:2:1",
+      "E": "2:1:2"
+     },
+     "comentarios_por_alternativa": {
+      "A": "É balanceada, mas pode ser reduzida.",
+      "B": "O cloro não fecha.",
+      "C": "Há quatro Cl à esquerda.",
+      "D": "O cloro não fecha.",
+      "E": "Divida todos os coeficientes por 2."
+     },
+     "comentario": "A) É balanceada, mas pode ser reduzida.\nB) O cloro não fecha.\nC) Há quatro Cl à esquerda.\nD) O cloro não fecha.\nE) Divida todos os coeficientes por 2.",
+     "id": "enem-balanceamento-equacoes-c14-q07",
+     "habilidade": "H24",
+     "dispositivo": "Representação das transformações químicas — Balanceamento de equações químicas",
+     "dificuldade": "dificil"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Em Ca²⁺ + Cl⁻ → CaCl₂, ajuste os coeficientes.",
+     "enunciado": "Qual ajuste conserva elementos e carga?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "1, 1, 1",
+      "B": "1, 2, 1",
+      "C": "2, 1, 1",
+      "D": "1, 2, 2",
+      "E": "2, 2, 1"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Há falta de Cl e sobra de carga positiva.",
+      "B": "Dois cloretos equilibram a carga e a contagem de Cl.",
+      "C": "Sobra Ca, falta Cl e a carga não fecha.",
+      "D": "O lado direito exigiria dois Ca e quatro Cl.",
+      "E": "Sobra Ca e carga positiva."
+     },
+     "comentario": "A) Há falta de Cl e sobra de carga positiva.\nB) Dois cloretos equilibram a carga e a contagem de Cl.\nC) Sobra Ca, falta Cl e a carga não fecha.\nD) O lado direito exigiria dois Ca e quatro Cl.\nE) Sobra Ca e carga positiva.",
+     "id": "enem-balanceamento-equacoes-c14-q08",
+     "habilidade": "H24",
+     "dispositivo": "Representação das transformações químicas — Balanceamento de equações químicas",
+     "dificuldade": "dificil"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "A combustão completa do CH₄ forma CO₂ e H₂O. Qual equação conserva átomos? ___",
+     "opcoes": [
+      "CH₄ + O₂ → CO₂ + H₂O",
+      "CH₄ + 2 O₂ → CO₂ + 2 H₂O",
+      "CH₄ + O₂ → CO₂ + 2 H₂O",
+      "2 CH₄ + O₂ → CO₂ + H₂O"
+     ],
+     "respostas": [
+      "CH₄ + 2 O₂ → CO₂ + 2 H₂O"
+     ],
+     "explicacao": "C, H e O fecham."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Uma equação usa 4 Na + 2 Cl₂ → 4 NaCl. Qual a menor razão inteira? ___",
+     "opcoes": [
+      "4:2:4",
+      "2:1:2",
+      "1:1:1",
+      "2:2:2"
+     ],
+     "respostas": [
+      "2:1:2"
+     ],
+     "explicacao": "Divida todos os coeficientes por 2."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise do caso: Para H₂ + O₂ → H₂O, considere a ordem escrita.",
+     "itens": [
+      "Localizar o que se quer descobrir: Quais os menores coeficientes inteiros?",
+      "Separar as informações dadas no enunciado.",
+      "Aplicar a relação adequada aos dados.",
+      "Conferir se a conclusão responde à pergunta."
+     ],
+     "explicacao": "Há 4 H e 2 O em cada lado."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Para H₂ + O₂ → H₂O, considere a ordem escrita. Quais os menores coeficientes inteiros?",
+       "2, 1, 2"
+      ],
+      [
+       "A combustão completa do CH₄ forma CO₂ e H₂O. Qual equação conserva átomos?",
+       "CH₄ + 2 O₂ → CO₂ + 2 H₂O"
+      ],
+      [
+       "Uma equação usa 4 Na + 2 Cl₂ → 4 NaCl. Qual a menor razão inteira?",
+       "2:1:2"
+      ],
+      [
+       "Em Ca²⁺ + Cl⁻ → CaCl₂, ajuste os coeficientes. Qual ajuste conserva elementos e carga?",
+       "1, 2, 1"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

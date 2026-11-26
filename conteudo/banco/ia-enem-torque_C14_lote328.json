@@ -1,0 +1,253 @@
+{
+ "assunto": "Torque e braço de alavanca",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-torque-c14",
+   "titulo": "Torque e braço de alavanca",
+   "microconteudo": "RAIO-X DA PROVA: Interprete a situação e justifique a conclusão com a relação física pertinente. O torque mede a tendência de girar em torno de um eixo. Seu módulo é força vezes braço perpendicular, ou rF sen θ.\n\nPOR QUE IMPORTA:\nUma porta gira com mais facilidade quando você empurra o puxador longe da dobradiça e perpendicularmente à porta.\n\nO QUE A BANCA COBRA:\nInterprete a situação e justifique a conclusão com a relação física pertinente. O torque mede a tendência de girar em torno de um eixo. Seu módulo é força vezes braço perpendicular, ou rF sen θ.\n\nENTENDA:\nComece por esta situação: Uma porta gira com mais facilidade quando você empurra o puxador longe da dobradiça e perpendicularmente à porta. Leia os dados disponíveis e faça uma previsão antes de procurar uma fórmula. O torque mede a tendência de girar em torno de um eixo. Seu módulo é força vezes braço perpendicular, ou rF sen θ. Uma força perpendicular de 10 N aplicada a 0,4 m do eixo produz torque de 4 N·m.\n\nA distância do ponto de aplicação ao eixo e o braço de alavanca coincidem apenas quando a força é perpendicular a essa ligação. Se você puxa diretamente na direção da dobradiça, a porta pode receber uma força grande com torque pequeno ou nulo. Em um desenho, prolongue a seta da força e meça a menor distância até o eixo.\n\nUma força perpendicular de 10 N aplicada a 0,4 m do eixo produz torque de 4 N·m. Ao interpretar esse exemplo, escreva a condição física que torna possível prever o resultado. Pergunte se ela continuaria valendo caso um dos dados omitidos passasse a ter importância. Diferencie o que você consegue concluir numericamente do que pode apenas prever qualitativamente. A descrição do resultado deve manter explícito qual corpo ou conjunto está sendo observado e em qual intervalo a afirmação é válida.\n\nConfira o significado das palavras da questão. O que é braço de alavanca? A distância perpendicular do eixo à linha de ação da força.\nQual a unidade de torque? Newton metro.\nQuando o torque é zero? Quando a linha de ação da força passa pelo eixo.\nComo reconhecer o sentido do torque? Observe se tende a girar no sentido horário ou anti-horário.\nQue componente produz torque em torno do eixo? A componente tangencial ao raio no plano.\nComo aumentar torque mantendo força? Aumente o braço perpendicular. Se dois termos parecem próximos, compare o que cada um descreve no caso inicial. Em Física, trocar o nome de uma grandeza pode mudar o cálculo ou até o que se está tentando explicar. Escreva, ao lado de cada símbolo, qual parte da situação ele representa e em que unidade seria medido.\n\nExemplo 1. Uma força perpendicular de 15 N é aplicada a 0,4 m do eixo. Qual o torque em módulo? A resposta é 6 N·m. Multiplique 15 por 0,4. Divide por distância. Ignora o braço. Usa apenas a distância. Erra a posição decimal.\n\nExemplo 2. Uma força de 20 N atua a 0,5 m num ângulo de 30° com o raio; sen 30° = 0,5. Qual o torque em módulo? A resposta é 5 N·m. Calcule 20 × 0,5 × 0,5. Ignora a inclinação. É o módulo da força. Aplica o seno duas vezes. O ângulo não é zero.\n\nExemplo 3. O torque horário vale 12 N·m e o anti-horário 7 N·m. Qual a soma com anti-horário positivo? A resposta é −5 N·m. Some −12 e +7. Inverte o sinal dominante. Soma os módulos. Desconsidera um torque. Ignora o torque horário.\n\nExemplo 4. Uma alavanca deve produzir 9 N·m com força perpendicular de 30 N. Qual o braço? A resposta é 0,3 m. Divida 9 por 30. Desloca a vírgula. Multiplica em vez de dividir. Inverte a razão. É dez vezes menor.\n\nTeste de interpretação. Forças iguais e perpendiculares agem a distâncias diferentes do eixo. Considere a afirmação: “A mais distante produz maior torque.” Certo. O braço é maior. A força aponta ao longo do raio. Considere a afirmação: “Ela produz torque máximo.” Errado. A linha de ação passa pelo eixo. Torques horário e anti-horário podem se opor. Considere a afirmação: “A soma depende dos sinais escolhidos.” Certo. Defina um sentido positivo antes de somar. Uma força de 8 N tem braço de 0,25 m. Considere a afirmação: “O torque vale 32 N·m.” Errado. O produto vale 2 N·m.\n\nUma sequência de resolução é útil quando a questão traz mais dados que o necessário. Primeiro, marcar o eixo. Depois, traçar a linha de ação. Em seguida, calcular o braço perpendicular. Por último, atribuir o sentido de rotação. Explique oralmente por que cada passo vem nessa posição. Se a última conclusão mudar quando você troca um detalhe do enunciado, localize qual hipótese provocou essa mudança. Isso ajuda a distinguir o resultado de uma conta das condições em que ele vale.\n\nEm uma prova, procure separar o que o texto observou, o que o modelo assume e o que você concluiu. Um valor informado é um dado. Uma condição como desprezar o atrito ou tratar o intervalo como uniforme pode ser uma hipótese. Já o resultado é aquilo que você obtém ao combinar os dados com a regra escolhida. Se houver tabela ou figura, confira a legenda, os eixos e as unidades antes de usar os números. Para revisar, refaça um dos exemplos mudando um dado por vez e preveja o sentido da mudança antes de calcular.\n\nCheck de leitura. Escolha dois exemplos desta lição e compare o papel de cada informação. O que foi medido diretamente? Qual relação precisou ser usada para inferir uma resposta? Há alguma observação que, sozinha, seria insuficiente? Se a resposta for um número, faça uma estimativa simples para checar se ele é plausível. Se for uma explicação, procure indicar qual condição a torna válida. Depois, tente escrever uma resposta que inclua o dado utilizado, o raciocínio e a conclusão em uma ou duas frases.\n\nAo montar um rascunho, deixe os dados de um lado e a conclusão do outro. Comece pelo dado que tem relação direta com a pergunta. Caso sobrem informações, veja se elas servem para comparar hipóteses ou apenas situar a história. Em uma comparação, mantenha a mesma referência e o mesmo intervalo sempre que o enunciado permitir. Quando um resultado contradiz a previsão inicial, revise primeiro a interpretação do que foi pedido; em seguida, revise a operação e as condições assumidas.\n\nNa primeira, destaque o que o enunciado informa sobre as condições da situação. Na segunda, explique como a regra escolhida conecta essas condições ao resultado. Se houver um cálculo, escreva as unidades intermediárias. Em uma resposta sobre direção ou sentido, declare a orientação de referência. Uma alternativa pode conter um número familiar do enunciado e ainda responder sobre a grandeza errada.\n\nPara fechar, compare estas duas situações e procure a diferença física entre elas. Forças iguais e perpendiculares agem a distâncias diferentes do eixo. A força aponta ao longo do raio. Quando o contexto muda, a leitura deve partir das informações apresentadas naquele caso. Considere a primeira afirmação e justifique o resultado: “A mais distante produz maior torque.” Certo. O braço é maior. Agora avalie a segunda: “Ela produz torque máximo.” Errado. A linha de ação passa pelo eixo. Uma explicação adequada pode usar palavras e cálculos, desde que a relação com a situação seja clara. Pense em qual mudança nos dados tornaria cada afirmação válida ou inválida.\n\nUse este conjunto de definições como roteiro para checar o raciocínio. O que é braço de alavanca? A distância perpendicular do eixo à linha de ação da força.\nQual a unidade de torque? Newton metro.\nQuando o torque é zero? Quando a linha de ação da força passa pelo eixo.\nComo reconhecer o sentido do torque? Observe se tende a girar no sentido horário ou anti-horário.\nQue componente produz torque em torno do eixo? A componente tangencial ao raio no plano.\nComo aumentar torque mantendo força? Aumente o braço perpendicular. Ao voltar aos dados do começo, selecione as definições pertinentes ao caso. Leia a conclusão como se ela fosse uma frase independente: confira a unidade, a referência adotada e a condição de validade.\n\nTROCANDO EM MIÚDOS:\nImagine a situação do começo da lição. Uma porta gira com mais facilidade quando você empurra o puxador longe da dobradiça e perpendicularmente à porta. Uma força perpendicular de 10 N aplicada a 0,4 m do eixo produz torque de 4 N·m.\n\nA regra principal pode ser escrita assim: O torque mede a tendência de girar em torno de um eixo. Seu módulo é força vezes braço perpendicular, ou rF sen θ. Tente explicar essa regra em voz alta para alguém que ainda não viu o conteúdo, usando o exemplo inicial como apoio.\n\nAntes de marcar uma alternativa, faça esta checagem. O que é braço de alavanca? A distância perpendicular do eixo à linha de ação da força. Qual a unidade de torque? Newton metro. Quando o torque é zero? Quando a linha de ação da força passa pelo eixo. Como reconhecer o sentido do torque? Observe se tende a girar no sentido horário ou anti-horário. Que componente produz torque em torno do eixo? A componente tangencial ao raio no plano. Como aumentar torque mantendo força? Aumente o braço perpendicular.\n\nEm um rascunho curto, anote quatro passos. Marcar o eixo. Traçar a linha de ação. Calcular o braço perpendicular. Atribuir o sentido de rotação. Em seguida, tente aplicar os passos a um exemplo com números ou condições diferentes. As grandezas que foram medidas e o que você quer descobrir devem ficar em linhas separadas. Isso ajuda a identificar qual informação ainda falta.\n\nExperimente responder a esta situação sem olhar as opções. Uma força perpendicular de 15 N é aplicada a 0,4 m do eixo. Qual o torque em módulo? Multiplique 15 por 0,4. Depois, confira nos exemplos quais seriam as consequências de escolher uma interpretação diferente. Se tiver que refazer, comece pelas condições do problema e pelo significado de cada dado.\n\nPara fixar, releia uma afirmação verdadeira e uma falsa da lição. Reescreva a falsa trocando só o trecho necessário para corrigi-la. Na afirmação verdadeira, diga qual detalhe do enunciado permite chegar a essa conclusão. Assim você pratica explicar um resultado, além de reconhecer qual opção está certa.\n\nLEI SECA:\nO torque mede a tendência de girar em torno de um eixo. Seu módulo é força vezes braço perpendicular, ou rF sen θ.\n\nSÚMULAS E TESES:\nUma força perpendicular de 10 N aplicada a 0,4 m do eixo produz torque de 4 N·m.\n\nESQUEMA:\nMarcar o eixo → Traçar a linha de ação → Calcular o braço perpendicular → Atribuir o sentido de rotação\n\nPEGADINHAS:\n1. Certo. O braço é maior.\n2. Errado. A linha de ação passa pelo eixo.\n3. Certo. Defina um sentido positivo antes de somar.\n4. Errado. O produto vale 2 N·m.\n\nDOUTRINA:\nOpenStax — College Physics 2e, The Second Condition for Equilibrium\n\nNA PRÁTICA:\nExemplo 1. Uma força perpendicular de 15 N é aplicada a 0,4 m do eixo. Qual o torque em módulo? A resposta é 6 N·m. Multiplique 15 por 0,4. Divide por distância. Ignora o braço. Usa apenas a distância. Erra a posição decimal.",
+   "flashcards": [
+    {
+     "frente": "O que é braço de alavanca?",
+     "verso": "A distância perpendicular do eixo à linha de ação da força.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Momento de uma força (torque)"
+    },
+    {
+     "frente": "Qual a unidade de torque?",
+     "verso": "Newton metro.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Momento de uma força (torque)"
+    },
+    {
+     "frente": "Quando o torque é zero?",
+     "verso": "Quando a linha de ação da força passa pelo eixo.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Momento de uma força (torque)"
+    },
+    {
+     "frente": "Como reconhecer o sentido do torque?",
+     "verso": "Observe se tende a girar no sentido horário ou anti-horário.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Momento de uma força (torque)"
+    },
+    {
+     "frente": "Que componente produz torque em torno do eixo?",
+     "verso": "A componente tangencial ao raio no plano.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Momento de uma força (torque)"
+    },
+    {
+     "frente": "Como aumentar torque mantendo força?",
+     "verso": "Aumente o braço perpendicular.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Momento de uma força (torque)"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-torque-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Forças iguais e perpendiculares agem a distâncias diferentes do eixo.",
+     "enunciado": "A mais distante produz maior torque.",
+     "gabarito": "C",
+     "comentario": "Certo. O braço é maior.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Momento de uma força (torque)"
+    },
+    {
+     "id": "enem-fisica-torque-c14-q02",
+     "tipo": "ce",
+     "texto_base": "A força aponta ao longo do raio.",
+     "enunciado": "Ela produz torque máximo.",
+     "gabarito": "E",
+     "comentario": "Errado. A linha de ação passa pelo eixo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Momento de uma força (torque)"
+    },
+    {
+     "id": "enem-fisica-torque-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Torques horário e anti-horário podem se opor.",
+     "enunciado": "A soma depende dos sinais escolhidos.",
+     "gabarito": "C",
+     "comentario": "Certo. Defina um sentido positivo antes de somar.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Momento de uma força (torque)"
+    },
+    {
+     "id": "enem-fisica-torque-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Uma força de 8 N tem braço de 0,25 m.",
+     "enunciado": "O torque vale 32 N·m.",
+     "gabarito": "E",
+     "comentario": "Errado. O produto vale 2 N·m.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Momento de uma força (torque)"
+    },
+    {
+     "id": "enem-fisica-torque-c14-q05",
+     "tipo": "me",
+     "texto_base": "Uma força perpendicular de 15 N é aplicada a 0,4 m do eixo.",
+     "enunciado": "Qual o torque em módulo?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "37,5 N·m",
+      "B": "6 N·m",
+      "C": "15 N·m",
+      "D": "0,4 N·m",
+      "E": "60 N·m"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Divide por distância.",
+      "B": "Correta. Multiplique 15 por 0,4.",
+      "C": "Ignora o braço.",
+      "D": "Usa apenas a distância.",
+      "E": "Erra a posição decimal."
+     },
+     "comentario": "A) Divide por distância.\nB) Correta. Multiplique 15 por 0,4.\nC) Ignora o braço.\nD) Usa apenas a distância.\nE) Erra a posição decimal.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Momento de uma força (torque)"
+    },
+    {
+     "id": "enem-fisica-torque-c14-q06",
+     "tipo": "me",
+     "texto_base": "Uma força de 20 N atua a 0,5 m num ângulo de 30° com o raio; sen 30° = 0,5.",
+     "enunciado": "Qual o torque em módulo?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "10 N·m",
+      "B": "20 N·m",
+      "C": "2,5 N·m",
+      "D": "5 N·m",
+      "E": "0 N·m"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Ignora a inclinação.",
+      "B": "É o módulo da força.",
+      "C": "Aplica o seno duas vezes.",
+      "D": "Correta. Calcule 20 × 0,5 × 0,5.",
+      "E": "O ângulo não é zero."
+     },
+     "comentario": "A) Ignora a inclinação.\nB) É o módulo da força.\nC) Aplica o seno duas vezes.\nD) Correta. Calcule 20 × 0,5 × 0,5.\nE) O ângulo não é zero.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Momento de uma força (torque)"
+    },
+    {
+     "id": "enem-fisica-torque-c14-q07",
+     "tipo": "me",
+     "texto_base": "O torque horário vale 12 N·m e o anti-horário 7 N·m.",
+     "enunciado": "Qual a soma com anti-horário positivo?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "−5 N·m",
+      "B": "+5 N·m",
+      "C": "+19 N·m",
+      "D": "−12 N·m",
+      "E": "+7 N·m"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Some −12 e +7.",
+      "B": "Inverte o sinal dominante.",
+      "C": "Soma os módulos.",
+      "D": "Desconsidera um torque.",
+      "E": "Ignora o torque horário."
+     },
+     "comentario": "A) Correta. Some −12 e +7.\nB) Inverte o sinal dominante.\nC) Soma os módulos.\nD) Desconsidera um torque.\nE) Ignora o torque horário.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Momento de uma força (torque)"
+    },
+    {
+     "id": "enem-fisica-torque-c14-q08",
+     "tipo": "me",
+     "texto_base": "Uma alavanca deve produzir 9 N·m com força perpendicular de 30 N.",
+     "enunciado": "Qual o braço?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "3 m",
+      "B": "270 m",
+      "C": "3,33 m",
+      "D": "0,03 m",
+      "E": "0,3 m"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Desloca a vírgula.",
+      "B": "Multiplica em vez de dividir.",
+      "C": "Inverte a razão.",
+      "D": "É dez vezes menor.",
+      "E": "Correta. Divida 9 por 30."
+     },
+     "comentario": "A) Desloca a vírgula.\nB) Multiplica em vez de dividir.\nC) Inverte a razão.\nD) É dez vezes menor.\nE) Correta. Divida 9 por 30.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Momento de uma força (torque)"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O que é braço de alavanca? Resposta: ___.",
+     "opcoes": [
+      "A distância perpendicular do eixo à linha de ação da força.",
+      "Newton metro.",
+      "Quando a linha de ação da força passa pelo eixo.",
+      "Observe se tende a girar no sentido horário ou anti-horário."
+     ],
+     "respostas": [
+      "A distância perpendicular do eixo à linha de ação da força."
+     ],
+     "explicacao": "A distância perpendicular do eixo à linha de ação da força."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Que componente produz torque em torno do eixo? Resposta: ___.",
+     "opcoes": [
+      "Quando a linha de ação da força passa pelo eixo.",
+      "Observe se tende a girar no sentido horário ou anti-horário.",
+      "A componente tangencial ao raio no plano.",
+      "Aumente o braço perpendicular."
+     ],
+     "respostas": [
+      "A componente tangencial ao raio no plano."
+     ],
+     "explicacao": "A componente tangencial ao raio no plano."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma situação sobre torque e braço de alavanca.",
+     "itens": [
+      "Marcar o eixo.",
+      "Traçar a linha de ação.",
+      "Calcular o braço perpendicular.",
+      "Atribuir o sentido de rotação."
+     ],
+     "explicacao": "O torque mede a tendência de girar em torno de um eixo. Seu módulo é força vezes braço perpendicular, ou rF sen θ."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O que é braço de alavanca?",
+       "A distância perpendicular do eixo à linha de ação da força."
+      ],
+      [
+       "Qual a unidade de torque?",
+       "Newton metro."
+      ],
+      [
+       "Quando o torque é zero?",
+       "Quando a linha de ação da força passa pelo eixo."
+      ],
+      [
+       "Como reconhecer o sentido do torque?",
+       "Observe se tende a girar no sentido horário ou anti-horário."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

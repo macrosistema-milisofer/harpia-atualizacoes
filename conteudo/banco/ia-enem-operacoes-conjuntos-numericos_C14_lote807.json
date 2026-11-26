@@ -1,0 +1,251 @@
+{
+ "assunto": "Operações com naturais, inteiros, racionais e reais",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-operacoes-conjuntos-numericos-c14",
+   "titulo": "Operações com naturais, inteiros, racionais e reais",
+   "microconteudo": "RAIO-X DA PROVA: Calcule com sinais, frações, decimais e raízes. Interprete o resultado e verifique se a operação preserva a classe numérica.\n\nPOR QUE IMPORTA:\nValores de compra, temperaturas e medidas exigem operações com números de tipos diferentes. No ENEM, identificar o conjunto e respeitar a ordem das operações evita resultados impossíveis no contexto.\n\nO QUE A BANCA COBRA:\nCalcule com sinais, frações, decimais e raízes. Interprete o resultado e verifique se a operação preserva a classe numérica.\n\nENTENDA:\n1. Naturais\n\nHá 35 adesivos para distribuir igualmente entre 6 pessoas, sem cortar adesivos. Quantos adesivos cabem para cada pessoa? Para decidir, precisamos deste conceito: Naturais servem para contar unidades inteiras, e uma repartição pode deixar resto. No caso apresentado, a resposta é **5 adesivos**. Como 35 = 6 × 5 + 5, cada pessoa recebe cinco e sobram cinco.\n\nUma leitura que pode parecer plausível é “6 adesivos”. Compare essa hipótese com o que a situação descreve. Como 35 = 6 × 5 + 5, cada pessoa recebe cinco e sobram cinco. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n2. Inteiros com sinal\n\nUma conta começa com saldo de R$ 12 e tem saídas sucessivas de R$ 19 e R$ 7. Qual é o saldo final? Para decidir, precisamos deste conceito: Números negativos representam medidas abaixo de uma referência ou variações em sentido oposto. No caso apresentado, a resposta é **−R$ 14**. A conta é 12 − 19 − 7 = −14. O sinal indica saldo abaixo de zero.\n\nUma leitura que pode parecer plausível é “R$ 14”. Compare essa hipótese com o que a situação descreve. A conta é 12 − 19 − 7 = −14. O sinal indica saldo abaixo de zero. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n3. Soma de frações\n\nNa primeira etapa, uma aluna lê 1/3 de um livro. Na segunda, lê mais 1/4 do mesmo livro. Que fração do livro ela leu? Para decidir, precisamos deste conceito: Antes de somar frações com denominadores diferentes, expresse as parcelas na mesma unidade fracionária. No caso apresentado, a resposta é **7/12**. Um terço é 4/12 e um quarto é 3/12; somar numeradores dá 7/12.\n\nUma leitura que pode parecer plausível é “2/7”. Compare essa hipótese com o que a situação descreve. Um terço é 4/12 e um quarto é 3/12; somar numeradores dá 7/12. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n4. Divisão por fração\n\nUma jarra tem 2 L e cada garrafa comporta 2/5 L. Quantas garrafas completas podem ser enchidas? Para decidir, precisamos deste conceito: Dividir por uma fração positiva pode indicar quantas vezes uma porção desse tamanho cabe no total. No caso apresentado, a resposta é **5 garrafas**. Dividir 2 por 2/5 dá 2 × 5/2 = 5. Cada porção mede 0,4 L.\n\nUma leitura que pode parecer plausível é “4/5 de garrafa”. Compare essa hipótese com o que a situação descreve. Dividir 2 por 2/5 dá 2 × 5/2 = 5. Cada porção mede 0,4 L. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n5. Irracionais\n\nUma placa quadrada tem lado de 1 m. A diagonal, calculada pelo teorema de Pitágoras, mede √2 m. Como se classifica √2? Para decidir, precisamos deste conceito: Um irracional é real e não pode ser escrito como razão de inteiros; √2 é um exemplo. No caso apresentado, a resposta é **Real irracional**. Se √2 fosse a/b em forma irredutível, a² = 2b² tornaria a par; a substituição tornaria b par também, contradizendo a redução.\n\nUma leitura que pode parecer plausível é “Racional porque tem aproximação decimal”. Compare essa hipótese com o que a situação descreve. Se √2 fosse a/b em forma irredutível, a² = 2b² tornaria a par; a substituição tornaria b par também, contradizendo a redução. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n6. Ordem das operações\n\nUm jogo distribui pontos segundo a expressão 2 + 3 × (5 − 1). Qual pontuação a expressão produz? Para decidir, precisamos deste conceito: Resolva agrupamentos e potências antes de multiplicações e divisões, que vêm antes de somas e subtrações. No caso apresentado, a resposta é **14 pontos**. O parêntese dá 4. Depois vêm 3 × 4 = 12 e 2 + 12 = 14.\n\nUma leitura que pode parecer plausível é “20 pontos”. Compare essa hipótese com o que a situação descreve. O parêntese dá 4. Depois vêm 3 × 4 = 12 e 2 + 12 = 14. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\nTROCANDO EM MIÚDOS:\n**Naturais.** Naturais servem para contar unidades inteiras, e uma repartição pode deixar resto. Tente resolver esta situação: Há 35 adesivos para distribuir igualmente entre 6 pessoas, sem cortar adesivos. Quantos adesivos cabem para cada pessoa? Confira: 5 adesivos. Como 35 = 6 × 5 + 5, cada pessoa recebe cinco e sobram cinco.\n\n**Inteiros com sinal.** Números negativos representam medidas abaixo de uma referência ou variações em sentido oposto. Tente resolver esta situação: Uma conta começa com saldo de R$ 12 e tem saídas sucessivas de R$ 19 e R$ 7. Qual é o saldo final? Confira: −R$ 14. A conta é 12 − 19 − 7 = −14. O sinal indica saldo abaixo de zero.\n\n**Soma de frações.** Antes de somar frações com denominadores diferentes, expresse as parcelas na mesma unidade fracionária. Tente resolver esta situação: Na primeira etapa, uma aluna lê 1/3 de um livro. Na segunda, lê mais 1/4 do mesmo livro. Que fração do livro ela leu? Confira: 7/12. Um terço é 4/12 e um quarto é 3/12; somar numeradores dá 7/12.\n\n**Divisão por fração.** Dividir por uma fração positiva pode indicar quantas vezes uma porção desse tamanho cabe no total. Tente resolver esta situação: Uma jarra tem 2 L e cada garrafa comporta 2/5 L. Quantas garrafas completas podem ser enchidas? Confira: 5 garrafas. Dividir 2 por 2/5 dá 2 × 5/2 = 5. Cada porção mede 0,4 L.\n\n**Irracionais.** Um irracional é real e não pode ser escrito como razão de inteiros; √2 é um exemplo. Tente resolver esta situação: Uma placa quadrada tem lado de 1 m. A diagonal, calculada pelo teorema de Pitágoras, mede √2 m. Como se classifica √2? Confira: Real irracional. Se √2 fosse a/b em forma irredutível, a² = 2b² tornaria a par; a substituição tornaria b par também, contradizendo a redução.\n\n**Ordem das operações.** Resolva agrupamentos e potências antes de multiplicações e divisões, que vêm antes de somas e subtrações. Tente resolver esta situação: Um jogo distribui pontos segundo a expressão 2 + 3 × (5 − 1). Qual pontuação a expressão produz? Confira: 14 pontos. O parêntese dá 4. Depois vêm 3 × 4 = 12 e 2 + 12 = 14.\n\nESQUEMA:\n• Naturais → Naturais servem para contar unidades inteiras, e uma repartição pode deixar resto.\n• Inteiros com sinal → Números negativos representam medidas abaixo de uma referência ou variações em sentido oposto.\n• Soma de frações → Antes de somar frações com denominadores diferentes, expresse as parcelas na mesma unidade fracionária.\n• Divisão por fração → Dividir por uma fração positiva pode indicar quantas vezes uma porção desse tamanho cabe no total.\n• Irracionais → Um irracional é real e não pode ser escrito como razão de inteiros; √2 é um exemplo.\n• Ordem das operações → Resolva agrupamentos e potências antes de multiplicações e divisões, que vêm antes de somas e subtrações.\n\nPEGADINHAS:\n• Naturais: ao ler “6 adesivos”, confira o que o enunciado permite concluir.\n• Inteiros com sinal: ao ler “R$ 14”, confira o que o enunciado permite concluir.\n• Soma de frações: ao ler “2/7”, confira o que o enunciado permite concluir.\n• Divisão por fração: ao ler “4/5 de garrafa”, confira o que o enunciado permite concluir.\n• Irracionais: ao ler “Racional porque tem aproximação decimal”, confira o que o enunciado permite concluir.\n• Ordem das operações: ao ler “20 pontos”, confira o que o enunciado permite concluir.\n\nNA PRÁTICA:\nUm jogo distribui pontos segundo a expressão 2 + 3 × (5 − 1). Qual pontuação a expressão produz? **Resposta:** 14 pontos. O parêntese dá 4. Depois vêm 3 × 4 = 12 e 2 + 12 = 14.",
+   "flashcards": [
+    {
+     "frente": "Como reconhecer naturais?",
+     "verso": "Naturais servem para contar unidades inteiras, e uma repartição pode deixar resto.",
+     "dispositivo": "Conhecimentos numéricos — Operações em conjuntos numéricos (naturais, inteiros, racionais e reais)"
+    },
+    {
+     "frente": "Como reconhecer inteiros com sinal?",
+     "verso": "Números negativos representam medidas abaixo de uma referência ou variações em sentido oposto.",
+     "dispositivo": "Conhecimentos numéricos — Operações em conjuntos numéricos (naturais, inteiros, racionais e reais)"
+    },
+    {
+     "frente": "Como reconhecer soma de frações?",
+     "verso": "Antes de somar frações com denominadores diferentes, expresse as parcelas na mesma unidade fracionária.",
+     "dispositivo": "Conhecimentos numéricos — Operações em conjuntos numéricos (naturais, inteiros, racionais e reais)"
+    },
+    {
+     "frente": "Como reconhecer divisão por fração?",
+     "verso": "Dividir por uma fração positiva pode indicar quantas vezes uma porção desse tamanho cabe no total.",
+     "dispositivo": "Conhecimentos numéricos — Operações em conjuntos numéricos (naturais, inteiros, racionais e reais)"
+    },
+    {
+     "frente": "Como reconhecer irracionais?",
+     "verso": "Um irracional é real e não pode ser escrito como razão de inteiros; √2 é um exemplo.",
+     "dispositivo": "Conhecimentos numéricos — Operações em conjuntos numéricos (naturais, inteiros, racionais e reais)"
+    },
+    {
+     "frente": "Como reconhecer ordem das operações?",
+     "verso": "Resolva agrupamentos e potências antes de multiplicações e divisões, que vêm antes de somas e subtrações.",
+     "dispositivo": "Conhecimentos numéricos — Operações em conjuntos numéricos (naturais, inteiros, racionais e reais)"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-operacoes-conjuntos-numericos-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Um termômetro indica −6 °C pela manhã e sobe 9 °C.",
+     "enunciado": "A leitura final é 3 °C.",
+     "gabarito": "C",
+     "habilidade": "H3",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos numéricos — Operações em conjuntos numéricos (naturais, inteiros, racionais e reais)",
+     "comentario": "Somando a variação positiva ao valor inicial: −6 + 9 = 3."
+    },
+    {
+     "id": "enem-operacoes-conjuntos-numericos-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Um bolo foi dividido em quartos. Duas partes foram retiradas.",
+     "enunciado": "Foram retirados 2/8 do bolo.",
+     "gabarito": "E",
+     "habilidade": "H3",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos numéricos — Operações em conjuntos numéricos (naturais, inteiros, racionais e reais)",
+     "comentario": "Duas das quatro partes correspondem a 2/4 = 1/2."
+    },
+    {
+     "id": "enem-operacoes-conjuntos-numericos-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Uma estimativa arredonda √2 para 1,41.",
+     "enunciado": "Isso prova que √2 é racional.",
+     "gabarito": "E",
+     "habilidade": "H3",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos numéricos — Operações em conjuntos numéricos (naturais, inteiros, racionais e reais)",
+     "comentario": "O valor arredondado é racional, mas não coincide exatamente com √2."
+    },
+    {
+     "id": "enem-operacoes-conjuntos-numericos-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Para avaliar um gasto, uma pessoa calcula 30 − 2 × 8.",
+     "enunciado": "A expressão dá 14.",
+     "gabarito": "C",
+     "habilidade": "H3",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos numéricos — Operações em conjuntos numéricos (naturais, inteiros, racionais e reais)",
+     "comentario": "Calcule primeiro o produto, que vale 16, e depois subtraia de 30."
+    },
+    {
+     "id": "enem-operacoes-conjuntos-numericos-c14-q05",
+     "tipo": "me",
+     "texto_base": "Uma conta começa com saldo de R$ 12 e tem saídas sucessivas de R$ 19 e R$ 7.",
+     "enunciado": "Qual é o saldo final?",
+     "gabarito": "A",
+     "habilidade": "H3",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos numéricos — Operações em conjuntos numéricos (naturais, inteiros, racionais e reais)",
+     "alternativas": {
+      "A": "−R$ 14",
+      "B": "R$ 14",
+      "C": "7/12",
+      "D": "5 garrafas",
+      "E": "Real irracional"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. A conta é 12 − 19 − 7 = −14. O sinal indica saldo abaixo de zero.",
+      "B": "Essa leitura falha neste caso. A conta é 12 − 19 − 7 = −14. O sinal indica saldo abaixo de zero.",
+      "C": "Essa resposta se relaciona a soma de frações. Aqui, a pista decisiva é outra. A conta é 12 − 19 − 7 = −14. O sinal indica saldo abaixo de zero.",
+      "D": "Essa resposta se relaciona a divisão por fração. Aqui, a pista decisiva é outra. A conta é 12 − 19 − 7 = −14. O sinal indica saldo abaixo de zero.",
+      "E": "Essa resposta se relaciona a irracionais. Aqui, a pista decisiva é outra. A conta é 12 − 19 − 7 = −14. O sinal indica saldo abaixo de zero."
+     },
+     "comentario": "A) Correta. A conta é 12 − 19 − 7 = −14. O sinal indica saldo abaixo de zero.\nB) Essa leitura falha neste caso. A conta é 12 − 19 − 7 = −14. O sinal indica saldo abaixo de zero.\nC) Essa resposta se relaciona a soma de frações. Aqui, a pista decisiva é outra. A conta é 12 − 19 − 7 = −14. O sinal indica saldo abaixo de zero.\nD) Essa resposta se relaciona a divisão por fração. Aqui, a pista decisiva é outra. A conta é 12 − 19 − 7 = −14. O sinal indica saldo abaixo de zero.\nE) Essa resposta se relaciona a irracionais. Aqui, a pista decisiva é outra. A conta é 12 − 19 − 7 = −14. O sinal indica saldo abaixo de zero."
+    },
+    {
+     "id": "enem-operacoes-conjuntos-numericos-c14-q06",
+     "tipo": "me",
+     "texto_base": "Na primeira etapa, uma aluna lê 1/3 de um livro. Na segunda, lê mais 1/4 do mesmo livro.",
+     "enunciado": "Que fração do livro ela leu?",
+     "gabarito": "B",
+     "habilidade": "H3",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos numéricos — Operações em conjuntos numéricos (naturais, inteiros, racionais e reais)",
+     "alternativas": {
+      "A": "2/7",
+      "B": "7/12",
+      "C": "5 garrafas",
+      "D": "Real irracional",
+      "E": "14 pontos"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Essa leitura falha neste caso. Um terço é 4/12 e um quarto é 3/12; somar numeradores dá 7/12.",
+      "B": "Correta. Um terço é 4/12 e um quarto é 3/12; somar numeradores dá 7/12.",
+      "C": "Essa resposta se relaciona a divisão por fração. Aqui, a pista decisiva é outra. Um terço é 4/12 e um quarto é 3/12; somar numeradores dá 7/12.",
+      "D": "Essa resposta se relaciona a irracionais. Aqui, a pista decisiva é outra. Um terço é 4/12 e um quarto é 3/12; somar numeradores dá 7/12.",
+      "E": "Essa resposta se relaciona a ordem das operações. Aqui, a pista decisiva é outra. Um terço é 4/12 e um quarto é 3/12; somar numeradores dá 7/12."
+     },
+     "comentario": "A) Essa leitura falha neste caso. Um terço é 4/12 e um quarto é 3/12; somar numeradores dá 7/12.\nB) Correta. Um terço é 4/12 e um quarto é 3/12; somar numeradores dá 7/12.\nC) Essa resposta se relaciona a divisão por fração. Aqui, a pista decisiva é outra. Um terço é 4/12 e um quarto é 3/12; somar numeradores dá 7/12.\nD) Essa resposta se relaciona a irracionais. Aqui, a pista decisiva é outra. Um terço é 4/12 e um quarto é 3/12; somar numeradores dá 7/12.\nE) Essa resposta se relaciona a ordem das operações. Aqui, a pista decisiva é outra. Um terço é 4/12 e um quarto é 3/12; somar numeradores dá 7/12."
+    },
+    {
+     "id": "enem-operacoes-conjuntos-numericos-c14-q07",
+     "tipo": "me",
+     "texto_base": "Uma jarra tem 2 L e cada garrafa comporta 2/5 L.",
+     "enunciado": "Quantas garrafas completas podem ser enchidas?",
+     "gabarito": "C",
+     "habilidade": "H3",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos numéricos — Operações em conjuntos numéricos (naturais, inteiros, racionais e reais)",
+     "alternativas": {
+      "A": "4/5 de garrafa",
+      "B": "Real irracional",
+      "C": "5 garrafas",
+      "D": "14 pontos",
+      "E": "5 adesivos"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Essa leitura falha neste caso. Dividir 2 por 2/5 dá 2 × 5/2 = 5. Cada porção mede 0,4 L.",
+      "B": "Essa resposta se relaciona a irracionais. Aqui, a pista decisiva é outra. Dividir 2 por 2/5 dá 2 × 5/2 = 5. Cada porção mede 0,4 L.",
+      "C": "Correta. Dividir 2 por 2/5 dá 2 × 5/2 = 5. Cada porção mede 0,4 L.",
+      "D": "Essa resposta se relaciona a ordem das operações. Aqui, a pista decisiva é outra. Dividir 2 por 2/5 dá 2 × 5/2 = 5. Cada porção mede 0,4 L.",
+      "E": "Essa resposta se relaciona a naturais. Aqui, a pista decisiva é outra. Dividir 2 por 2/5 dá 2 × 5/2 = 5. Cada porção mede 0,4 L."
+     },
+     "comentario": "A) Essa leitura falha neste caso. Dividir 2 por 2/5 dá 2 × 5/2 = 5. Cada porção mede 0,4 L.\nB) Essa resposta se relaciona a irracionais. Aqui, a pista decisiva é outra. Dividir 2 por 2/5 dá 2 × 5/2 = 5. Cada porção mede 0,4 L.\nC) Correta. Dividir 2 por 2/5 dá 2 × 5/2 = 5. Cada porção mede 0,4 L.\nD) Essa resposta se relaciona a ordem das operações. Aqui, a pista decisiva é outra. Dividir 2 por 2/5 dá 2 × 5/2 = 5. Cada porção mede 0,4 L.\nE) Essa resposta se relaciona a naturais. Aqui, a pista decisiva é outra. Dividir 2 por 2/5 dá 2 × 5/2 = 5. Cada porção mede 0,4 L."
+    },
+    {
+     "id": "enem-operacoes-conjuntos-numericos-c14-q08",
+     "tipo": "me",
+     "texto_base": "Uma placa quadrada tem lado de 1 m. A diagonal, calculada pelo teorema de Pitágoras, mede √2 m.",
+     "enunciado": "Como se classifica √2?",
+     "gabarito": "D",
+     "habilidade": "H3",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos numéricos — Operações em conjuntos numéricos (naturais, inteiros, racionais e reais)",
+     "alternativas": {
+      "A": "Racional porque tem aproximação decimal",
+      "B": "14 pontos",
+      "C": "5 adesivos",
+      "D": "Real irracional",
+      "E": "−R$ 14"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Essa leitura falha neste caso. Se √2 fosse a/b em forma irredutível, a² = 2b² tornaria a par; a substituição tornaria b par também, contradizendo a redução.",
+      "B": "Essa resposta se relaciona a ordem das operações. Aqui, a pista decisiva é outra. Se √2 fosse a/b em forma irredutível, a² = 2b² tornaria a par; a substituição tornaria b par também, contradizendo a redução.",
+      "C": "Essa resposta se relaciona a naturais. Aqui, a pista decisiva é outra. Se √2 fosse a/b em forma irredutível, a² = 2b² tornaria a par; a substituição tornaria b par também, contradizendo a redução.",
+      "D": "Correta. Se √2 fosse a/b em forma irredutível, a² = 2b² tornaria a par; a substituição tornaria b par também, contradizendo a redução.",
+      "E": "Essa resposta se relaciona a inteiros com sinal. Aqui, a pista decisiva é outra. Se √2 fosse a/b em forma irredutível, a² = 2b² tornaria a par; a substituição tornaria b par também, contradizendo a redução."
+     },
+     "comentario": "A) Essa leitura falha neste caso. Se √2 fosse a/b em forma irredutível, a² = 2b² tornaria a par; a substituição tornaria b par também, contradizendo a redução.\nB) Essa resposta se relaciona a ordem das operações. Aqui, a pista decisiva é outra. Se √2 fosse a/b em forma irredutível, a² = 2b² tornaria a par; a substituição tornaria b par também, contradizendo a redução.\nC) Essa resposta se relaciona a naturais. Aqui, a pista decisiva é outra. Se √2 fosse a/b em forma irredutível, a² = 2b² tornaria a par; a substituição tornaria b par também, contradizendo a redução.\nD) Correta. Se √2 fosse a/b em forma irredutível, a² = 2b² tornaria a par; a substituição tornaria b par também, contradizendo a redução.\nE) Essa resposta se relaciona a inteiros com sinal. Aqui, a pista decisiva é outra. Se √2 fosse a/b em forma irredutível, a² = 2b² tornaria a par; a substituição tornaria b par também, contradizendo a redução."
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Há 35 adesivos para distribuir igualmente entre 6 pessoas, sem cortar adesivos. Quantos adesivos cabem para cada pessoa? Resposta: ___.",
+     "opcoes": [
+      "5 adesivos",
+      "6 adesivos",
+      "7/12"
+     ],
+     "respostas": [
+      "5 adesivos"
+     ],
+     "explicacao": "Como 35 = 6 × 5 + 5, cada pessoa recebe cinco e sobram cinco."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Um jogo distribui pontos segundo a expressão 2 + 3 × (5 − 1). Qual pontuação a expressão produz? Resposta: ___.",
+     "opcoes": [
+      "14 pontos",
+      "20 pontos",
+      "−R$ 14"
+     ],
+     "respostas": [
+      "14 pontos"
+     ],
+     "explicacao": "O parêntese dá 4. Depois vêm 3 × 4 = 12 e 2 + 12 = 14."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a resolução do caso de soma de frações. Na primeira etapa, uma aluna lê 1/3 de um livro. Na segunda, lê mais 1/4 do mesmo livro. Que fração do livro ela leu?",
+     "itens": [
+      "Identificar o que a pergunta quer saber.",
+      "Relacionar as pistas ao conceito estudado.",
+      "Formular a resposta sustentada pelas pistas.",
+      "Conferir se a resposta atende à pergunta."
+     ],
+     "explicacao": "Um terço é 4/12 e um quarto é 3/12; somar numeradores dá 7/12."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Naturais",
+       "Naturais servem para contar unidades inteiras, e uma repartição pode deixar resto."
+      ],
+      [
+       "Inteiros com sinal",
+       "Números negativos representam medidas abaixo de uma referência ou variações em sentido oposto."
+      ],
+      [
+       "Soma de frações",
+       "Antes de somar frações com denominadores diferentes, expresse as parcelas na mesma unidade fracionária."
+      ],
+      [
+       "Divisão por fração",
+       "Dividir por uma fração positiva pode indicar quantas vezes uma porção desse tamanho cabe no total."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

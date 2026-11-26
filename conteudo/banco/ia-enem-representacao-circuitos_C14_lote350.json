@@ -1,0 +1,253 @@
+{
+ "assunto": "Representação gráfica de circuitos",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-representacao-circuitos-c14",
+   "titulo": "Representação gráfica de circuitos",
+   "microconteudo": "RAIO-X DA PROVA: Use a relação física indicada e confira as condições em que ela se aplica. Componentes em paralelo ligam o mesmo par de nós. Em série, a conexão entre duas peças não oferece um ramo adicional no ponto intermediário.\n\nPOR QUE IMPORTA:\nDois esquemas com fios desenhados de formas diferentes podem representar o mesmo circuito. O que importa é quais terminais compartilham nós.\n\nO QUE A BANCA COBRA:\nUse a relação física indicada e confira as condições em que ela se aplica. Componentes em paralelo ligam o mesmo par de nós. Em série, a conexão entre duas peças não oferece um ramo adicional no ponto intermediário.\n\nENTENDA:\nDois esquemas com fios desenhados de formas diferentes podem representar o mesmo circuito. O que importa é quais terminais compartilham nós.\n\nComponentes em paralelo ligam o mesmo par de nós. Em série, a conexão entre duas peças não oferece um ramo adicional no ponto intermediário.\n\nExemplo resolvido. Um painel de 18 V alimenta dois resistores de 9 Ω e 18 Ω ligados aos mesmos nós. Eles estão em paralelo e suas correntes são 2 A e 1 A; a fonte fornece 3 A.\n\nOutro exemplo. Duas lâmpadas de resistência ideal de 8 Ω são colocadas em um único caminho com uma bateria de 24 V. O esquema indica série, de modo que R equivalente = 16 Ω e a corrente é 1,5 A.\n\nUma boa estratégia é redesenhar o circuito com dois nós bem separados e ligar cada peça aos pontos correspondentes. Mantendo a conectividade, o redesenho pode transformar uma figura difícil num esquema simples. O procedimento também permite localizar trechos em que fios ideais unem pontos que pareciam distantes no desenho.\n\nPara explicar o resultado, use o vocabulário da situação. O que é um nó ideal? Um conjunto de pontos ligados por fio ideal sem componente intermediário. Como reconhecer paralelo? Os dois terminais de cada peça se ligam ao mesmo par de nós. Como reconhecer série? As peças formam um caminho comum sem ramificação no ponto entre elas. O que um interruptor aberto faz? Interrompe o ramo em que está instalado. O que uma junção indica? Conexão elétrica entre os fios que se encontram. A forma do fio altera a topologia? Não, se os terminais conectados forem os mesmos.\n\nNa hora de resolver no papel, siga a sequência abaixo. Localizar a fonte e as junções. Rotular os nós. Listar os pares de nós de cada peça. Comparar a topologia e o caminho da corrente. Depois, escreva o resultado em uma frase completa. Um número isolado pode estar correto e, ainda assim, deixar ambíguo o que você calculou. Informe a unidade quando houver medida e identifique o objeto, a região ou o intervalo a que o resultado se refere.\n\nA aparência no papel pode enganar: fios curvos e símbolos em alturas diferentes podem ligar os mesmos nós. Em cruzamentos, use a convenção gráfica informada para decidir se há junção.\n\nReleia os dois exemplos resolvidos e tente antecipar o desfecho sem consultar o cálculo. No primeiro exemplo, identifique qual dado determina diretamente a resposta. No segundo, diga qual condição deve permanecer válida para que a conclusão se mantenha. Compare depois o papel das unidades e do sentido das grandezas. Se o resultado for qualitativo, procure enunciar a previsão em termos observáveis. Se for quantitativo, estime a escala antes de efetuar a última operação.\n\nVocê pode adaptar a análise a uma situação do cotidiano. Comece com esta ideia: Dois esquemas com fios desenhados de formas diferentes podem representar o mesmo circuito. O que importa é quais terminais compartilham nós. Em seguida, desenhe o cenário, indique o que está sendo comparado e escreva que dado precisaria medir para testar a previsão. Diferencie a regra do modelo das informações que servem apenas para situar a história. Isso ajuda a decidir o que aproveitar quando uma questão apresenta mais dados do que a resolução exige.\n\nTrês conferências úteis: a definição corresponde ao objeto descrito? As condições indicadas no enunciado permitem aplicar a regra? A resposta continua coerente ao voltar ao desenho? Faça a última conferência lendo esta relação no contexto: Componentes em paralelo ligam o mesmo par de nós. Em série, a conexão entre duas peças não oferece um ramo adicional no ponto intermediário. Uma hipótese deve ser usada dentro de sua faixa de validade; quando o contexto mudar, justifique a adaptação antes de transportar o resultado.\n\nAo treinar, explique a diferença entre o mecanismo e seu efeito. A aparência no papel pode enganar: fios curvos e símbolos em alturas diferentes podem ligar os mesmos nós. Em cruzamentos, use a convenção gráfica informada para decidir se há junção. Em um texto de prova, essa distinção pode aparecer escondida em uma frase sobre o resultado de uma medida. Identifique primeiro a causa física e depois a grandeza observada. Se for necessário comparar cenários, mude uma condição por vez para descobrir qual mudança explica a diferença.\n\nPergunte o que aconteceria se você aplicasse a regra a um desenho mais simples. Comece separando estas tarefas: Localizar a fonte e as junções. Rotular os nós. Listar os pares de nós de cada peça. Comparar a topologia e o caminho da corrente. Refaça o primeiro exemplo apenas com setas ou um esquema, deixando os números para o final. Em seguida, recolha do enunciado as unidades e os sentidos. Uma seta no desenho pode indicar a direção de uma interação, a mudança de uma medida ou apenas uma referência. É importante dizer qual papel ela desempenha antes de usar a relação do começo da lição.\n\nPara consolidar, use três perguntas de revisão. Como reconhecer paralelo? Os dois terminais de cada peça se ligam ao mesmo par de nós. O que um interruptor aberto faz? Interrompe o ramo em que está instalado. A forma do fio altera a topologia? Não, se os terminais conectados forem os mesmos. A ideia é explicar essas respostas sem depender da ordem em que apareceram. Em um problema de comparação, preste atenção às palavras que mantêm algo igual entre os cenários. Em um problema de cálculo, confira a operação inversa quando possível. Por exemplo, reintroduza o resultado na relação inicial e verifique se os dados do problema são recuperados. Em uma questão qualitativa, faça o equivalente testando se a conclusão explica as condições observadas.\n\nNo fim da leitura, diga qual grandeza a pergunta solicitou e qual grandeza você usou para chegar a ela. Faça essa distinção também quando a resposta for uma direção, uma comparação ou uma interpretação histórica. Um resultado bem explicado deve poder ser lido sem adivinhar de onde ele veio.\n\nEm uma atividade de estudo, escreva primeiro uma estimativa ou previsão. Depois escolha o dado específico que vai confirmar ou contrariar essa previsão. Se duas respostas parecerem possíveis, indique qual condição extra permitiria escolher entre elas. A ideia é explicar o raciocínio, deixando claro por que a relação física é apropriada naquele contexto.\n\nTROCANDO EM MIÚDOS:\nDois esquemas com fios desenhados de formas diferentes podem representar o mesmo circuito. O que importa é quais terminais compartilham nós.\n\nComponentes em paralelo ligam o mesmo par de nós. Em série, a conexão entre duas peças não oferece um ramo adicional no ponto intermediário.\n\nExemplo resolvido. Um painel de 18 V alimenta dois resistores de 9 Ω e 18 Ω ligados aos mesmos nós. Eles estão em paralelo e suas correntes são 2 A e 1 A; a fonte fornece 3 A.\n\nOutro exemplo. Duas lâmpadas de resistência ideal de 8 Ω são colocadas em um único caminho com uma bateria de 24 V. O esquema indica série, de modo que R equivalente = 16 Ω e a corrente é 1,5 A.\n\nA aparência no papel pode enganar: fios curvos e símbolos em alturas diferentes podem ligar os mesmos nós. Em cruzamentos, use a convenção gráfica informada para decidir se há junção.\n\nO que é um nó ideal? Um conjunto de pontos ligados por fio ideal sem componente intermediário. Como reconhecer paralelo? Os dois terminais de cada peça se ligam ao mesmo par de nós. Como reconhecer série? As peças formam um caminho comum sem ramificação no ponto entre elas. O que um interruptor aberto faz? Interrompe o ramo em que está instalado. O que uma junção indica? Conexão elétrica entre os fios que se encontram. A forma do fio altera a topologia? Não, se os terminais conectados forem os mesmos.\n\nPara montar seu rascunho: Localizar a fonte e as junções. Rotular os nós. Listar os pares de nós de cada peça. Comparar a topologia e o caminho da corrente. Na leitura final, escolha a parte do desenho que corresponde ao resultado. Se encontrar uma unidade diferente da pedida, volte ao cálculo e confira os fatores de conversão. Quando a pergunta for conceitual, confira se a explicação indica o mecanismo que liga o dado à conclusão. Você pode comparar os dois exemplos da lição antes de tentar os exercícios e explicar de memória por que cada resultado faz sentido.\n\nLEI SECA:\nComponentes em paralelo ligam o mesmo par de nós. Em série, a conexão entre duas peças não oferece um ramo adicional no ponto intermediário.\n\nSÚMULAS E TESES:\nOutro exemplo. Duas lâmpadas de resistência ideal de 8 Ω são colocadas em um único caminho com uma bateria de 24 V. O esquema indica série, de modo que R equivalente = 16 Ω e a corrente é 1,5 A.\n\nESQUEMA:\nLocalizar a fonte e as junções. → Rotular os nós. → Listar os pares de nós de cada peça. → Comparar a topologia e o caminho da corrente.\n\nPEGADINHAS:\nA aparência no papel pode enganar: fios curvos e símbolos em alturas diferentes podem ligar os mesmos nós. Em cruzamentos, use a convenção gráfica informada para decidir se há junção.\n\nDOUTRINA:\nResistors in Series and Parallel\n\nNA PRÁTICA:\nExemplo resolvido. Um painel de 18 V alimenta dois resistores de 9 Ω e 18 Ω ligados aos mesmos nós. Eles estão em paralelo e suas correntes são 2 A e 1 A; a fonte fornece 3 A.",
+   "flashcards": [
+    {
+     "frente": "O que é um nó ideal?",
+     "verso": "Um conjunto de pontos ligados por fio ideal sem componente intermediário.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Representação gráfica de circuitos"
+    },
+    {
+     "frente": "Como reconhecer paralelo?",
+     "verso": "Os dois terminais de cada peça se ligam ao mesmo par de nós.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Representação gráfica de circuitos"
+    },
+    {
+     "frente": "Como reconhecer série?",
+     "verso": "As peças formam um caminho comum sem ramificação no ponto entre elas.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Representação gráfica de circuitos"
+    },
+    {
+     "frente": "O que um interruptor aberto faz?",
+     "verso": "Interrompe o ramo em que está instalado.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Representação gráfica de circuitos"
+    },
+    {
+     "frente": "O que uma junção indica?",
+     "verso": "Conexão elétrica entre os fios que se encontram.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Representação gráfica de circuitos"
+    },
+    {
+     "frente": "A forma do fio altera a topologia?",
+     "verso": "Não, se os terminais conectados forem os mesmos.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Representação gráfica de circuitos"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-representacao-circuitos-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Dois resistores ligam os mesmos nós A e B.",
+     "enunciado": "Eles estão em paralelo.",
+     "gabarito": "C",
+     "comentario": "Certo. A diferença de potencial é comum.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Representação gráfica de circuitos"
+    },
+    {
+     "id": "enem-fisica-representacao-circuitos-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Duas lâmpadas são desenhadas lado a lado.",
+     "enunciado": "A posição gráfica garante ligação em paralelo.",
+     "gabarito": "E",
+     "comentario": "Errado. É preciso verificar os nós.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Representação gráfica de circuitos"
+    },
+    {
+     "id": "enem-fisica-representacao-circuitos-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Um interruptor em série antes da divisão é aberto.",
+     "enunciado": "Pode interromper a corrente nos dois ramos que dependem dele.",
+     "gabarito": "C",
+     "comentario": "Certo. Ele abre o caminho comum.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Representação gráfica de circuitos"
+    },
+    {
+     "id": "enem-fisica-representacao-circuitos-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Um cruzamento é marcado como sem conexão.",
+     "enunciado": "Os fios compartilham o mesmo nó no cruzamento.",
+     "gabarito": "E",
+     "comentario": "Errado. A convenção indica que não há contato elétrico.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Representação gráfica de circuitos"
+    },
+    {
+     "id": "enem-fisica-representacao-circuitos-c14-q05",
+     "tipo": "me",
+     "texto_base": "Dois resistores de 3 Ω e 7 Ω estão no único caminho entre os polos.",
+     "enunciado": "Qual a resistência equivalente?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "2,1 Ω",
+      "B": "10 Ω",
+      "C": "7 Ω",
+      "D": "21 Ω",
+      "E": "4 Ω"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Seria a associação em paralelo.",
+      "B": "Correta. Em série, as resistências se somam.",
+      "C": "Ignora o primeiro resistor.",
+      "D": "Multiplica os valores.",
+      "E": "Subtrai resistências."
+     },
+     "comentario": "A) Seria a associação em paralelo.\nB) Correta. Em série, as resistências se somam.\nC) Ignora o primeiro resistor.\nD) Multiplica os valores.\nE) Subtrai resistências.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Representação gráfica de circuitos"
+    },
+    {
+     "id": "enem-fisica-representacao-circuitos-c14-q06",
+     "tipo": "me",
+     "texto_base": "Dois ramos em paralelo recebem 2 A e 4 A.",
+     "enunciado": "Qual a corrente no trecho comum antes da divisão?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "2 A",
+      "B": "4 A",
+      "C": "8 A",
+      "D": "6 A",
+      "E": "0 A"
+     },
+     "comentarios_por_alternativa": {
+      "A": "É apenas o primeiro ramo.",
+      "B": "É apenas o segundo.",
+      "C": "Multiplica as correntes.",
+      "D": "Correta. A soma das correntes dos ramos é a corrente comum.",
+      "E": "Os ramos têm correntes de mesmo sentido na divisão."
+     },
+     "comentario": "A) É apenas o primeiro ramo.\nB) É apenas o segundo.\nC) Multiplica as correntes.\nD) Correta. A soma das correntes dos ramos é a corrente comum.\nE) Os ramos têm correntes de mesmo sentido na divisão.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Representação gráfica de circuitos"
+    },
+    {
+     "id": "enem-fisica-representacao-circuitos-c14-q07",
+     "tipo": "me",
+     "texto_base": "Dois resistores ligam A a B em caminhos diferentes; a fonte mantém 10 V entre A e B.",
+     "enunciado": "Qual a tensão em cada resistor?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "10 V",
+      "B": "5 V",
+      "C": "20 V",
+      "D": "0 V",
+      "E": "Depende de cada resistência"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. A tensão é igual entre os mesmos dois nós.",
+      "B": "A tensão não se reparte entre ramos paralelos.",
+      "C": "Não se soma tensão entre ramos paralelos.",
+      "D": "Entre A e B há tensão não nula.",
+      "E": "A resistência altera a corrente, mas a fonte fixa a tensão."
+     },
+     "comentario": "A) Correta. A tensão é igual entre os mesmos dois nós.\nB) A tensão não se reparte entre ramos paralelos.\nC) Não se soma tensão entre ramos paralelos.\nD) Entre A e B há tensão não nula.\nE) A resistência altera a corrente, mas a fonte fixa a tensão.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Representação gráfica de circuitos"
+    },
+    {
+     "id": "enem-fisica-representacao-circuitos-c14-q08",
+     "tipo": "me",
+     "texto_base": "Um circuito tem duas lâmpadas em série com uma chave no caminho comum.",
+     "enunciado": "O que ocorre ao abrir a chave?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Só a primeira lâmpada apaga.",
+      "B": "A segunda recebe o dobro de corrente.",
+      "C": "As duas mantêm corrente constante.",
+      "D": "A fonte troca de polaridade.",
+      "E": "O caminho de ambas é interrompido."
+     },
+     "comentarios_por_alternativa": {
+      "A": "A interrupção é comum às duas.",
+      "B": "A chave impede a corrente.",
+      "C": "O caminho fica aberto.",
+      "D": "A chave só abre a conexão.",
+      "E": "Correta. A corrente deixa de circular nesse único caminho."
+     },
+     "comentario": "A) A interrupção é comum às duas.\nB) A chave impede a corrente.\nC) O caminho fica aberto.\nD) A chave só abre a conexão.\nE) Correta. A corrente deixa de circular nesse único caminho.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Representação gráfica de circuitos"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O que é um nó ideal? ___",
+     "opcoes": [
+      "Um conjunto de pontos ligados por fio ideal sem componente intermediário.",
+      "Os dois terminais de cada peça se ligam ao mesmo par de nós.",
+      "As peças formam um caminho comum sem ramificação no ponto entre elas.",
+      "Interrompe o ramo em que está instalado."
+     ],
+     "respostas": [
+      "Um conjunto de pontos ligados por fio ideal sem componente intermediário."
+     ],
+     "explicacao": "Um conjunto de pontos ligados por fio ideal sem componente intermediário."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Como reconhecer série? ___",
+     "opcoes": [
+      "As peças formam um caminho comum sem ramificação no ponto entre elas.",
+      "Interrompe o ramo em que está instalado.",
+      "Conexão elétrica entre os fios que se encontram.",
+      "Não, se os terminais conectados forem os mesmos."
+     ],
+     "respostas": [
+      "As peças formam um caminho comum sem ramificação no ponto entre elas."
+     ],
+     "explicacao": "As peças formam um caminho comum sem ramificação no ponto entre elas."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise de representação gráfica de circuitos.",
+     "itens": [
+      "Localizar a fonte e as junções.",
+      "Rotular os nós.",
+      "Listar os pares de nós de cada peça.",
+      "Comparar a topologia e o caminho da corrente."
+     ],
+     "explicacao": "Componentes em paralelo ligam o mesmo par de nós. Em série, a conexão entre duas peças não oferece um ramo adicional no ponto intermediário."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O que é um nó ideal?",
+       "Um conjunto de pontos ligados por fio ideal sem componente intermediário."
+      ],
+      [
+       "Como reconhecer paralelo?",
+       "Os dois terminais de cada peça se ligam ao mesmo par de nós."
+      ],
+      [
+       "Como reconhecer série?",
+       "As peças formam um caminho comum sem ramificação no ponto entre elas."
+      ],
+      [
+       "O que um interruptor aberto faz?",
+       "Interrompe o ramo em que está instalado."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

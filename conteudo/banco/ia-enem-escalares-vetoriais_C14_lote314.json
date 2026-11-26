@@ -1,0 +1,253 @@
+{
+ "assunto": "Grandezas escalares e vetoriais",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-escalares-vetoriais-c14",
+   "titulo": "Grandezas escalares e vetoriais",
+   "microconteudo": "RAIO-X DA PROVA: Interprete a situação e justifique a conclusão com a relação física pertinente. Uma grandeza escalar é descrita por um valor com unidade. Uma grandeza vetorial exige também direção e sentido. O valor do módulo é apenas uma parte da descrição.\n\nPOR QUE IMPORTA:\nDois colegas andaram 100 m a partir da escola, um para o norte e o outro para o sul. A distância que cada um percorreu pode ser igual, embora os deslocamentos sejam diferentes.\n\nO QUE A BANCA COBRA:\nInterprete a situação e justifique a conclusão com a relação física pertinente. Uma grandeza escalar é descrita por um valor com unidade. Uma grandeza vetorial exige também direção e sentido. O valor do módulo é apenas uma parte da descrição.\n\nENTENDA:\nComece por esta situação: Dois colegas andaram 100 m a partir da escola, um para o norte e o outro para o sul. A distância que cada um percorreu pode ser igual, embora os deslocamentos sejam diferentes. Leia os dados disponíveis e faça uma previsão antes de procurar uma fórmula. Uma grandeza escalar é descrita por um valor com unidade. Uma grandeza vetorial exige também direção e sentido. O valor do módulo é apenas uma parte da descrição. A massa de uma mochila pode ser 4 kg. O peso é uma força que aponta na direção vertical, para baixo perto da superfície da Terra.\n\nA direção pode ser vertical, horizontal ou inclinada. O sentido distingue as duas possibilidades numa mesma direção. Se duas setas estão sobre a horizontal, uma para a direita e outra para a esquerda, compartilham direção e têm sentidos opostos. Em um mapa, setas para norte e sul também compartilham uma direção. Em um desenho cartesiano, a mesma orientação pode ser expressa com componentes assinadas. Um deslocamento de cinco metros para oeste pode ser escrito como −5 m se o leste for escolhido como positivo. A mudança na escolha do eixo muda o sinal, mas não o deslocamento físico.\n\nMesmo grandezas que usam unidades iguais podem guardar informações diferentes. Rapidez e velocidade têm unidade m/s. A rapidez informa o tamanho da velocidade. A velocidade inclui orientação. Em uma curva, uma pessoa que mantém o velocímetro constante pode mudar o vetor velocidade porque a direção varia. Massa e peso, por sua vez, não usam a mesma unidade: quilograma mede massa, newton mede força. Perto da Terra, o peso de um corpo em modelo usual aponta aproximadamente para o centro do planeta.\n\nConfira o significado das palavras da questão. O que é uma grandeza escalar? Uma grandeza descrita por valor e unidade.\nO que é uma grandeza vetorial? Uma grandeza que envolve módulo, direção e sentido.\nO que é módulo? O tamanho do vetor.\nQual a direção de uma seta para a esquerda? Horizontal.\nO que diferencia distância percorrida de deslocamento? A distância soma o trajeto; o deslocamento liga início e fim.\nUm escalar pode ter valor negativo? Sim. Uma temperatura em graus Celsius pode ser negativa. Se dois termos parecem próximos, compare o que cada um descreve no caso inicial. Em Física, trocar o nome de uma grandeza pode mudar o cálculo ou até o que se está tentando explicar. Escreva, ao lado de cada símbolo, qual parte da situação ele representa e em que unidade seria medido.\n\nExemplo 1. Uma pessoa anda 7 m a leste e volta 7 m pelo mesmo caminho. Qual é o deslocamento? A resposta é Zero.. Os pontos inicial e final coincidem. 14 m é a distância total e não possui esse sentido. É apenas o segundo trecho. É apenas o primeiro trecho. Os sentidos dos trechos não se somam desse modo.\n\nExemplo 2. Uma estação informa temperatura, pressão, massa, tempo e vento. Qual dado exige orientação para descrever seu vetor? A resposta é Velocidade do vento.. Ventos de mesma rapidez podem soprar em direções diferentes. Temperatura é escalar. A pressão é escalar. A massa não tem sentido espacial. O intervalo é informado sem direção espacial.\n\nExemplo 3. Dois deslocamentos são desenhados na mesma linha: 2 m para cima e 2 m para baixo. O que têm em comum? A resposta é Módulo e direção.. Ambos são verticais e medem 2 m; os sentidos diferem. Os sentidos são opostos. O sentido não coincide. A vertical e o valor de 2 m são comuns. O sentido distingue os vetores.\n\nExemplo 4. Um radar indica apenas o valor 18 m/s para um objeto. Que informação transforma esse dado em uma velocidade vetorial completa? A resposta é A direção e o sentido do movimento.. Os 18 m/s fornecem o módulo, que ainda precisa de orientação. Massa não especifica rumo. O valor térmico não indica orientação. O tempo não informa o rumo. O tamanho não determina o sentido.\n\nTeste de interpretação. Dois corredores dão uma volta completa na pista. Considere a afirmação: “O deslocamento de cada um pode ser zero.” Certo. O início e o fim coincidem. Duas forças de 5 N apontam para leste e oeste. Considere a afirmação: “As forças são iguais como vetores.” Errado. Os módulos coincidem, mas os sentidos são opostos. Uma temperatura é registrada em −3 °C. Considere a afirmação: “O sinal não torna a temperatura vetorial.” Certo. O sinal pertence à escala térmica, sem orientação espacial. Uma bicicleta segue em curva com rapidez constante. Considere a afirmação: “Seu vetor velocidade é constante.” Errado. Mudar a direção modifica o vetor velocidade.\n\nUma sequência de resolução é útil quando a questão traz mais dados que o necessário. Primeiro, identificar qual grandeza é pedida. Depois, decidir se a orientação importa para a descrição. Em seguida, escolher eixos e unidade quando necessários. Por último, escrever a resposta com a informação de orientação adequada. Explique oralmente por que cada passo vem nessa posição. Se a última conclusão mudar quando você troca um detalhe do enunciado, localize qual hipótese provocou essa mudança. Isso ajuda a distinguir o resultado de uma conta das condições em que ele vale.\n\nEm uma prova, procure separar o que o texto observou, o que o modelo assume e o que você concluiu. Um valor informado é um dado. Uma condição como desprezar o atrito ou tratar o intervalo como uniforme pode ser uma hipótese. Já o resultado é aquilo que você obtém ao combinar os dados com a regra escolhida. Se houver tabela ou figura, confira a legenda, os eixos e as unidades antes de usar os números. Para revisar, refaça um dos exemplos mudando um dado por vez e preveja o sentido da mudança antes de calcular.\n\nCheck de leitura. Escolha dois exemplos desta lição e compare o papel de cada informação. O que foi medido diretamente? Qual relação precisou ser usada para inferir uma resposta? Há alguma observação que, sozinha, seria insuficiente? Se a resposta for um número, faça uma estimativa simples para checar se ele é plausível. Se for uma explicação, procure indicar qual condição a torna válida. Depois, tente escrever uma resposta que inclua o dado utilizado, o raciocínio e a conclusão em uma ou duas frases.\n\nAo montar um rascunho, deixe os dados de um lado e a conclusão do outro. Comece pelo dado que tem relação direta com a pergunta. Caso sobrem informações, veja se elas servem para comparar hipóteses ou apenas situar a história. Em uma comparação, mantenha a mesma referência e o mesmo intervalo sempre que o enunciado permitir. Quando um resultado contradiz a previsão inicial, revise primeiro a interpretação do que foi pedido; em seguida, revise a operação e as condições assumidas.\n\nPara fechar, compare estas duas situações e procure a diferença física entre elas. Dois corredores dão uma volta completa na pista. Duas forças de 5 N apontam para leste e oeste. Quando o contexto muda, a leitura deve partir das informações apresentadas naquele caso. Considere a primeira afirmação e justifique o resultado: “O deslocamento de cada um pode ser zero.” Certo. O início e o fim coincidem. Agora avalie a segunda: “As forças são iguais como vetores.” Errado. Os módulos coincidem, mas os sentidos são opostos. Uma explicação adequada pode usar palavras e cálculos, desde que a relação com a situação seja clara. Pense em qual mudança nos dados tornaria cada afirmação válida ou inválida.\n\nUse este conjunto de definições como roteiro para checar o raciocínio. O que é uma grandeza escalar? Uma grandeza descrita por valor e unidade.\nO que é uma grandeza vetorial? Uma grandeza que envolve módulo, direção e sentido.\nO que é módulo? O tamanho do vetor.\nQual a direção de uma seta para a esquerda? Horizontal.\nO que diferencia distância percorrida de deslocamento? A distância soma o trajeto; o deslocamento liga início e fim.\nUm escalar pode ter valor negativo? Sim. Uma temperatura em graus Celsius pode ser negativa. Ao voltar aos dados do começo, selecione as definições pertinentes ao caso. Leia a conclusão como se ela fosse uma frase independente: confira a unidade, a referência adotada e a condição de validade.\n\nTROCANDO EM MIÚDOS:\nImagine a situação do começo da lição. Dois colegas andaram 100 m a partir da escola, um para o norte e o outro para o sul. A distância que cada um percorreu pode ser igual, embora os deslocamentos sejam diferentes. A massa de uma mochila pode ser 4 kg. O peso é uma força que aponta na direção vertical, para baixo perto da superfície da Terra.\n\nA regra principal pode ser escrita assim: Uma grandeza escalar é descrita por um valor com unidade. Uma grandeza vetorial exige também direção e sentido. O valor do módulo é apenas uma parte da descrição. Tente explicar essa regra em voz alta para alguém que ainda não viu o conteúdo, usando o exemplo inicial como apoio.\n\nAntes de marcar uma alternativa, faça esta checagem. O que é uma grandeza escalar? Uma grandeza descrita por valor e unidade. O que é uma grandeza vetorial? Uma grandeza que envolve módulo, direção e sentido. O que é módulo? O tamanho do vetor. Qual a direção de uma seta para a esquerda? Horizontal. O que diferencia distância percorrida de deslocamento? A distância soma o trajeto; o deslocamento liga início e fim. Um escalar pode ter valor negativo? Sim. Uma temperatura em graus Celsius pode ser negativa.\n\nEm um rascunho curto, anote quatro passos. Identificar qual grandeza é pedida. Decidir se a orientação importa para a descrição. Escolher eixos e unidade quando necessários. Escrever a resposta com a informação de orientação adequada. Em seguida, tente aplicar os passos a um exemplo com números ou condições diferentes. As grandezas que foram medidas e o que você quer descobrir devem ficar em linhas separadas. Isso ajuda a identificar qual informação ainda falta.\n\nExperimente responder a esta situação sem olhar as opções. Uma pessoa anda 7 m a leste e volta 7 m pelo mesmo caminho. Qual é o deslocamento? Os pontos inicial e final coincidem. Depois, confira nos exemplos quais seriam as consequências de escolher uma interpretação diferente. Se tiver que refazer, comece pelas condições do problema e pelo significado de cada dado.\n\nPara fixar, releia uma afirmação verdadeira e uma falsa da lição. Reescreva a falsa trocando só o trecho necessário para corrigi-la. Na afirmação verdadeira, diga qual detalhe do enunciado permite chegar a essa conclusão. Assim você pratica explicar um resultado, além de reconhecer qual opção está certa.\n\nLEI SECA:\nUma grandeza escalar é descrita por um valor com unidade. Uma grandeza vetorial exige também direção e sentido. O valor do módulo é apenas uma parte da descrição.\n\nSÚMULAS E TESES:\nA massa de uma mochila pode ser 4 kg. O peso é uma força que aponta na direção vertical, para baixo perto da superfície da Terra.\n\nESQUEMA:\nIdentificar qual grandeza é pedida → Decidir se a orientação importa para a descrição → Escolher eixos e unidade quando necessários → Escrever a resposta com a informação de orientação adequada\n\nPEGADINHAS:\n1. Certo. O início e o fim coincidem.\n2. Errado. Os módulos coincidem, mas os sentidos são opostos.\n3. Certo. O sinal pertence à escala térmica, sem orientação espacial.\n4. Errado. Mudar a direção modifica o vetor velocidade.\n\nDOUTRINA:\nOpenStax — College Physics 2e, Vectors, Scalars, and Coordinate Systems\n\nNA PRÁTICA:\nExemplo 1. Uma pessoa anda 7 m a leste e volta 7 m pelo mesmo caminho. Qual é o deslocamento? A resposta é Zero.. Os pontos inicial e final coincidem. 14 m é a distância total e não possui esse sentido. É apenas o segundo trecho. É apenas o primeiro trecho. Os sentidos dos trechos não se somam desse modo.",
+   "flashcards": [
+    {
+     "frente": "O que é uma grandeza escalar?",
+     "verso": "Uma grandeza descrita por valor e unidade.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Conceituação de grandezas vetoriais e escalares"
+    },
+    {
+     "frente": "O que é uma grandeza vetorial?",
+     "verso": "Uma grandeza que envolve módulo, direção e sentido.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Conceituação de grandezas vetoriais e escalares"
+    },
+    {
+     "frente": "O que é módulo?",
+     "verso": "O tamanho do vetor.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Conceituação de grandezas vetoriais e escalares"
+    },
+    {
+     "frente": "Qual a direção de uma seta para a esquerda?",
+     "verso": "Horizontal.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Conceituação de grandezas vetoriais e escalares"
+    },
+    {
+     "frente": "O que diferencia distância percorrida de deslocamento?",
+     "verso": "A distância soma o trajeto; o deslocamento liga início e fim.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Conceituação de grandezas vetoriais e escalares"
+    },
+    {
+     "frente": "Um escalar pode ter valor negativo?",
+     "verso": "Sim. Uma temperatura em graus Celsius pode ser negativa.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Conceituação de grandezas vetoriais e escalares"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-escalares-vetoriais-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Dois corredores dão uma volta completa na pista.",
+     "enunciado": "O deslocamento de cada um pode ser zero.",
+     "gabarito": "C",
+     "comentario": "Certo. O início e o fim coincidem.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Conceituação de grandezas vetoriais e escalares"
+    },
+    {
+     "id": "enem-fisica-escalares-vetoriais-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Duas forças de 5 N apontam para leste e oeste.",
+     "enunciado": "As forças são iguais como vetores.",
+     "gabarito": "E",
+     "comentario": "Errado. Os módulos coincidem, mas os sentidos são opostos.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Conceituação de grandezas vetoriais e escalares"
+    },
+    {
+     "id": "enem-fisica-escalares-vetoriais-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Uma temperatura é registrada em −3 °C.",
+     "enunciado": "O sinal não torna a temperatura vetorial.",
+     "gabarito": "C",
+     "comentario": "Certo. O sinal pertence à escala térmica, sem orientação espacial.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Conceituação de grandezas vetoriais e escalares"
+    },
+    {
+     "id": "enem-fisica-escalares-vetoriais-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Uma bicicleta segue em curva com rapidez constante.",
+     "enunciado": "Seu vetor velocidade é constante.",
+     "gabarito": "E",
+     "comentario": "Errado. Mudar a direção modifica o vetor velocidade.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Conceituação de grandezas vetoriais e escalares"
+    },
+    {
+     "id": "enem-fisica-escalares-vetoriais-c14-q05",
+     "tipo": "me",
+     "texto_base": "Uma pessoa anda 7 m a leste e volta 7 m pelo mesmo caminho.",
+     "enunciado": "Qual é o deslocamento?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "14 m a leste.",
+      "B": "Zero.",
+      "C": "7 m a oeste.",
+      "D": "7 m a leste.",
+      "E": "14 m a oeste."
+     },
+     "comentarios_por_alternativa": {
+      "A": "14 m é a distância total e não possui esse sentido.",
+      "B": "Correta. Os pontos inicial e final coincidem.",
+      "C": "É apenas o segundo trecho.",
+      "D": "É apenas o primeiro trecho.",
+      "E": "Os sentidos dos trechos não se somam desse modo."
+     },
+     "comentario": "A) 14 m é a distância total e não possui esse sentido.\nB) Correta. Os pontos inicial e final coincidem.\nC) É apenas o segundo trecho.\nD) É apenas o primeiro trecho.\nE) Os sentidos dos trechos não se somam desse modo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Conceituação de grandezas vetoriais e escalares"
+    },
+    {
+     "id": "enem-fisica-escalares-vetoriais-c14-q06",
+     "tipo": "me",
+     "texto_base": "Uma estação informa temperatura, pressão, massa, tempo e vento.",
+     "enunciado": "Qual dado exige orientação para descrever seu vetor?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "Temperatura.",
+      "B": "Pressão.",
+      "C": "Massa.",
+      "D": "Velocidade do vento.",
+      "E": "Tempo."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Temperatura é escalar.",
+      "B": "A pressão é escalar.",
+      "C": "A massa não tem sentido espacial.",
+      "D": "Correta. Ventos de mesma rapidez podem soprar em direções diferentes.",
+      "E": "O intervalo é informado sem direção espacial."
+     },
+     "comentario": "A) Temperatura é escalar.\nB) A pressão é escalar.\nC) A massa não tem sentido espacial.\nD) Correta. Ventos de mesma rapidez podem soprar em direções diferentes.\nE) O intervalo é informado sem direção espacial.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Conceituação de grandezas vetoriais e escalares"
+    },
+    {
+     "id": "enem-fisica-escalares-vetoriais-c14-q07",
+     "tipo": "me",
+     "texto_base": "Dois deslocamentos são desenhados na mesma linha: 2 m para cima e 2 m para baixo.",
+     "enunciado": "O que têm em comum?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "Módulo e direção.",
+      "B": "Somente o sentido.",
+      "C": "Módulo e sentido.",
+      "D": "Nada.",
+      "E": "Todos os atributos."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Ambos são verticais e medem 2 m; os sentidos diferem.",
+      "B": "Os sentidos são opostos.",
+      "C": "O sentido não coincide.",
+      "D": "A vertical e o valor de 2 m são comuns.",
+      "E": "O sentido distingue os vetores."
+     },
+     "comentario": "A) Correta. Ambos são verticais e medem 2 m; os sentidos diferem.\nB) Os sentidos são opostos.\nC) O sentido não coincide.\nD) A vertical e o valor de 2 m são comuns.\nE) O sentido distingue os vetores.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Conceituação de grandezas vetoriais e escalares"
+    },
+    {
+     "id": "enem-fisica-escalares-vetoriais-c14-q08",
+     "tipo": "me",
+     "texto_base": "Um radar indica apenas o valor 18 m/s para um objeto.",
+     "enunciado": "Que informação transforma esse dado em uma velocidade vetorial completa?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "A massa do objeto.",
+      "B": "A temperatura do ambiente.",
+      "C": "O tempo de medição apenas.",
+      "D": "Uma medida do raio do objeto.",
+      "E": "A direção e o sentido do movimento."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Massa não especifica rumo.",
+      "B": "O valor térmico não indica orientação.",
+      "C": "O tempo não informa o rumo.",
+      "D": "O tamanho não determina o sentido.",
+      "E": "Correta. Os 18 m/s fornecem o módulo, que ainda precisa de orientação."
+     },
+     "comentario": "A) Massa não especifica rumo.\nB) O valor térmico não indica orientação.\nC) O tempo não informa o rumo.\nD) O tamanho não determina o sentido.\nE) Correta. Os 18 m/s fornecem o módulo, que ainda precisa de orientação.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Conceituação de grandezas vetoriais e escalares"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O que é uma grandeza escalar? Resposta: ___.",
+     "opcoes": [
+      "Uma grandeza descrita por valor e unidade.",
+      "Uma grandeza que envolve módulo, direção e sentido.",
+      "O tamanho do vetor.",
+      "Horizontal."
+     ],
+     "respostas": [
+      "Uma grandeza descrita por valor e unidade."
+     ],
+     "explicacao": "Uma grandeza descrita por valor e unidade."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "O que diferencia distância percorrida de deslocamento? Resposta: ___.",
+     "opcoes": [
+      "O tamanho do vetor.",
+      "Horizontal.",
+      "A distância soma o trajeto; o deslocamento liga início e fim.",
+      "Sim. Uma temperatura em graus Celsius pode ser negativa."
+     ],
+     "respostas": [
+      "A distância soma o trajeto; o deslocamento liga início e fim."
+     ],
+     "explicacao": "A distância soma o trajeto; o deslocamento liga início e fim."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma situação sobre grandezas escalares e vetoriais.",
+     "itens": [
+      "Identificar qual grandeza é pedida.",
+      "Decidir se a orientação importa para a descrição.",
+      "Escolher eixos e unidade quando necessários.",
+      "Escrever a resposta com a informação de orientação adequada."
+     ],
+     "explicacao": "Uma grandeza escalar é descrita por um valor com unidade. Uma grandeza vetorial exige também direção e sentido. O valor do módulo é apenas uma parte da descrição."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O que é uma grandeza escalar?",
+       "Uma grandeza descrita por valor e unidade."
+      ],
+      [
+       "O que é uma grandeza vetorial?",
+       "Uma grandeza que envolve módulo, direção e sentido."
+      ],
+      [
+       "O que é módulo?",
+       "O tamanho do vetor."
+      ],
+      [
+       "Qual a direção de uma seta para a esquerda?",
+       "Horizontal."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

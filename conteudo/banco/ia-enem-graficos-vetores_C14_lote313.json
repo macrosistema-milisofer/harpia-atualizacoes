@@ -1,0 +1,253 @@
+{
+ "assunto": "Gráficos e vetores como ferramentas físicas",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-graficos-vetores-c14",
+   "titulo": "Gráficos e vetores como ferramentas físicas",
+   "microconteudo": "RAIO-X DA PROVA: Interprete a situação e justifique a conclusão com a relação física pertinente. Em gráficos, leia eixos, unidades e intervalos antes de interpretar pontos ou inclinações. Em vetores, confirme a escala das setas e a convenção para os sentidos.\n\nPOR QUE IMPORTA:\nUm aplicativo de caminhada mostra a posição em função do tempo e uma seta com o deslocamento. A curva registra a evolução de uma grandeza. A seta comunica módulo, direção e sentido conforme uma escala.\n\nO QUE A BANCA COBRA:\nInterprete a situação e justifique a conclusão com a relação física pertinente. Em gráficos, leia eixos, unidades e intervalos antes de interpretar pontos ou inclinações. Em vetores, confirme a escala das setas e a convenção para os sentidos.\n\nENTENDA:\nComece por esta situação: Um aplicativo de caminhada mostra a posição em função do tempo e uma seta com o deslocamento. A curva registra a evolução de uma grandeza. A seta comunica módulo, direção e sentido conforme uma escala. Leia os dados disponíveis e faça uma previsão antes de procurar uma fórmula. Em gráficos, leia eixos, unidades e intervalos antes de interpretar pontos ou inclinações. Em vetores, confirme a escala das setas e a convenção para os sentidos. Se uma reta de posição sobe 8 m em 4 s, sua inclinação é 2 m/s. Uma seta que representa 8 m para o leste responde a outra pergunta: como o ponto final está situado em relação ao início.\n\nImagine uma reta que liga (0 s, 5 m) a (2 s, 9 m). O ponto inicial mostra que o corpo já estava a 5 m da origem no instante inicial. A inclinação usa a diferença entre as posições, 9 menos 5, dividida pela diferença entre os instantes: 4/2 = 2 m/s. Dividir somente 9 m por 2 s atribuiria o ponto inicial à origem, o que o gráfico não indica. Se a curva tiver trechos com inclinações diferentes, calcule a taxa no trecho que foi perguntado.\n\nCom vetores, uma seta de 4 cm para cima pode representar 20 N se a escala vale 5 N por centímetro. Se você redesenhar a mesma seta em outra parte da folha sem mudar seu comprimento nem sua orientação, estará preservando módulo, direção e sentido. Isso funciona ao representar um vetor livre, como um deslocamento; para uma força aplicada a um objeto que pode girar, o ponto e a linha de ação também podem importar. Examine o que a seta representa antes de decidir se é permitido movê-la.\nA legenda precisa acompanhar a representação sempre que a figura for redesenhada.\n\nConfira o significado das palavras da questão. O que representa a coordenada vertical? O valor indicado no eixo vertical para o ponto.\nO que é inclinação de uma reta? A variação vertical dividida pela variação horizontal.\nO que é módulo de vetor? O valor da intensidade, sem sinal negativo.\nO que é sentido? A orientação escolhida ao longo de uma direção.\nPor que definir a escala de setas? Para ligar o comprimento desenhado ao módulo representado.\nO que uma reta horizontal informa? O valor mostrado no eixo vertical se mantém constante. Se dois termos parecem próximos, compare o que cada um descreve no caso inicial. Em Física, trocar o nome de uma grandeza pode mudar o cálculo ou até o que se está tentando explicar. Escreva, ao lado de cada símbolo, qual parte da situação ele representa e em que unidade seria medido.\n\nExemplo 1. Um gráfico de posição em metros mostra os pontos (1 s, 3 m) e (5 s, 11 m) no mesmo segmento reto. Qual é a inclinação? A resposta é 2 m/s.. A posição varia 8 m em 4 s. 8 m é a variação de posição, ainda sem dividir pelo tempo. 4 s é o intervalo temporal. 11 m corresponde à posição final. Esse é o número da razão inversa, em s/m.\n\nExemplo 2. Um mapa representa vetores com 1 cm para 5 m. Uma seta horizontal de 2 cm aponta para a esquerda, que corresponde a oeste. O que ela representa? A resposta é 10 m para oeste.. A escala fornece 10 m, e a ponta da seta fornece o sentido. 2 cm é o comprimento no mapa. 5 m correspondem a apenas 1 cm de seta. O sentido indicado é o contrário. A seta tem comprimento não nulo.\n\nExemplo 3. Num gráfico velocidade-tempo, um ônibus mantém velocidade de 4 m/s por 3 s. O que representa a área do retângulo sob a linha? A resposta é Um deslocamento de 12 m.. A área é 4 m/s × 3 s e resulta em metros. A aceleração seria a inclinação, aqui nula. Sem a posição inicial só conhecemos a variação. O eixo fornece uma velocidade constante de 4 m/s. O intervalo lido no eixo horizontal é 3 s.\n\nExemplo 4. Dois gráficos mostram a mesma trajetória; um usa metros e o outro centímetros no eixo de posição, com o mesmo eixo temporal. Como comparar as inclinações? A resposta é Converter as unidades para uma base comum.. Uma diferença numérica pode refletir apenas a unidade escolhida. O valor numérico muda mesmo para a mesma velocidade. A altura no papel depende da escala gráfica. As unidades representam grandezas diferentes. A mudança de unidade de comprimento não altera a ordem temporal.\n\nTeste de interpretação. Um gráfico posição-tempo mostra posição constante. Considere a afirmação: “No intervalo representado o corpo está em repouso no referencial escolhido.” Certo. A posição permanece fixa enquanto o tempo passa. Um gráfico de velocidade crescente cruza zero. Considere a afirmação: “A posição também precisa ser zero nesse instante.” Errado. Velocidade nula não determina a posição. Uma seta tem 3 cm e a legenda informa 2 N por centímetro. Considere a afirmação: “O módulo representado é 6 N.” Certo. O comprimento desenhado multiplica o valor da escala. Um gráfico usa minutos no eixo horizontal. Considere a afirmação: “O valor de uma inclinação pode sempre ser lido como se o tempo estivesse em segundos.” Errado. É necessário preservar ou converter a unidade do eixo.\n\nUma sequência de resolução é útil quando a questão traz mais dados que o necessário. Primeiro, identificar eixos ou escala de representação. Depois, ler valores em unidades explícitas. Em seguida, calcular a relação solicitada. Por último, interpretar o resultado no contexto. Explique oralmente por que cada passo vem nessa posição. Se a última conclusão mudar quando você troca um detalhe do enunciado, localize qual hipótese provocou essa mudança. Isso ajuda a distinguir o resultado de uma conta das condições em que ele vale.\n\nEm uma prova, procure separar o que o texto observou, o que o modelo assume e o que você concluiu. Um valor informado é um dado. Uma condição como desprezar o atrito ou tratar o intervalo como uniforme pode ser uma hipótese. Já o resultado é aquilo que você obtém ao combinar os dados com a regra escolhida. Se houver tabela ou figura, confira a legenda, os eixos e as unidades antes de usar os números. Para revisar, refaça um dos exemplos mudando um dado por vez e preveja o sentido da mudança antes de calcular.\n\nCheck de leitura. Escolha dois exemplos desta lição e compare o papel de cada informação. O que foi medido diretamente? Qual relação precisou ser usada para inferir uma resposta? Há alguma observação que, sozinha, seria insuficiente? Se a resposta for um número, faça uma estimativa simples para checar se ele é plausível. Se for uma explicação, procure indicar qual condição a torna válida. Depois, tente escrever uma resposta que inclua o dado utilizado, o raciocínio e a conclusão em uma ou duas frases.\n\nAo montar um rascunho, deixe os dados de um lado e a conclusão do outro. Comece pelo dado que tem relação direta com a pergunta. Caso sobrem informações, veja se elas servem para comparar hipóteses ou apenas situar a história. Em uma comparação, mantenha a mesma referência e o mesmo intervalo sempre que o enunciado permitir. Quando um resultado contradiz a previsão inicial, revise primeiro a interpretação do que foi pedido; em seguida, revise a operação e as condições assumidas.\n\nTROCANDO EM MIÚDOS:\nImagine a situação do começo da lição. Um aplicativo de caminhada mostra a posição em função do tempo e uma seta com o deslocamento. A curva registra a evolução de uma grandeza. A seta comunica módulo, direção e sentido conforme uma escala. Se uma reta de posição sobe 8 m em 4 s, sua inclinação é 2 m/s. Uma seta que representa 8 m para o leste responde a outra pergunta: como o ponto final está situado em relação ao início.\n\nA regra principal pode ser escrita assim: Em gráficos, leia eixos, unidades e intervalos antes de interpretar pontos ou inclinações. Em vetores, confirme a escala das setas e a convenção para os sentidos. Tente explicar essa regra em voz alta para alguém que ainda não viu o conteúdo, usando o exemplo inicial como apoio.\n\nAntes de marcar uma alternativa, faça esta checagem. O que representa a coordenada vertical? O valor indicado no eixo vertical para o ponto. O que é inclinação de uma reta? A variação vertical dividida pela variação horizontal. O que é módulo de vetor? O valor da intensidade, sem sinal negativo. O que é sentido? A orientação escolhida ao longo de uma direção. Por que definir a escala de setas? Para ligar o comprimento desenhado ao módulo representado. O que uma reta horizontal informa? O valor mostrado no eixo vertical se mantém constante.\n\nEm um rascunho curto, anote quatro passos. Identificar eixos ou escala de representação. Ler valores em unidades explícitas. Calcular a relação solicitada. Interpretar o resultado no contexto. Em seguida, tente aplicar os passos a um exemplo com números ou condições diferentes. As grandezas que foram medidas e o que você quer descobrir devem ficar em linhas separadas. Isso ajuda a identificar qual informação ainda falta.\n\nExperimente responder a esta situação sem olhar as opções. Um gráfico de posição em metros mostra os pontos (1 s, 3 m) e (5 s, 11 m) no mesmo segmento reto. Qual é a inclinação? A posição varia 8 m em 4 s. Depois, confira nos exemplos quais seriam as consequências de escolher uma interpretação diferente. Se tiver que refazer, comece pelas condições do problema e pelo significado de cada dado.\n\nPara fixar, releia uma afirmação verdadeira e uma falsa da lição. Reescreva a falsa trocando só o trecho necessário para corrigi-la. Na afirmação verdadeira, diga qual detalhe do enunciado permite chegar a essa conclusão. Assim você pratica explicar um resultado, além de reconhecer qual opção está certa.\n\nLEI SECA:\nEm gráficos, leia eixos, unidades e intervalos antes de interpretar pontos ou inclinações. Em vetores, confirme a escala das setas e a convenção para os sentidos.\n\nSÚMULAS E TESES:\nSe uma reta de posição sobe 8 m em 4 s, sua inclinação é 2 m/s. Uma seta que representa 8 m para o leste responde a outra pergunta: como o ponto final está situado em relação ao início.\n\nESQUEMA:\nIdentificar eixos ou escala de representação → Ler valores em unidades explícitas → Calcular a relação solicitada → Interpretar o resultado no contexto\n\nPEGADINHAS:\n1. Certo. A posição permanece fixa enquanto o tempo passa.\n2. Errado. Velocidade nula não determina a posição.\n3. Certo. O comprimento desenhado multiplica o valor da escala.\n4. Errado. É necessário preservar ou converter a unidade do eixo.\n\nDOUTRINA:\nOpenStax — College Physics 2e, Graphical Analysis of One-Dimensional Motion\n\nNA PRÁTICA:\nExemplo 1. Um gráfico de posição em metros mostra os pontos (1 s, 3 m) e (5 s, 11 m) no mesmo segmento reto. Qual é a inclinação? A resposta é 2 m/s.. A posição varia 8 m em 4 s. 8 m é a variação de posição, ainda sem dividir pelo tempo. 4 s é o intervalo temporal. 11 m corresponde à posição final. Esse é o número da razão inversa, em s/m.",
+   "flashcards": [
+    {
+     "frente": "O que representa a coordenada vertical?",
+     "verso": "O valor indicado no eixo vertical para o ponto.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Ferramentas básicas: gráficos e vetores"
+    },
+    {
+     "frente": "O que é inclinação de uma reta?",
+     "verso": "A variação vertical dividida pela variação horizontal.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Ferramentas básicas: gráficos e vetores"
+    },
+    {
+     "frente": "O que é módulo de vetor?",
+     "verso": "O valor da intensidade, sem sinal negativo.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Ferramentas básicas: gráficos e vetores"
+    },
+    {
+     "frente": "O que é sentido?",
+     "verso": "A orientação escolhida ao longo de uma direção.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Ferramentas básicas: gráficos e vetores"
+    },
+    {
+     "frente": "Por que definir a escala de setas?",
+     "verso": "Para ligar o comprimento desenhado ao módulo representado.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Ferramentas básicas: gráficos e vetores"
+    },
+    {
+     "frente": "O que uma reta horizontal informa?",
+     "verso": "O valor mostrado no eixo vertical se mantém constante.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Ferramentas básicas: gráficos e vetores"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-graficos-vetores-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Um gráfico posição-tempo mostra posição constante.",
+     "enunciado": "No intervalo representado o corpo está em repouso no referencial escolhido.",
+     "gabarito": "C",
+     "comentario": "Certo. A posição permanece fixa enquanto o tempo passa.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Ferramentas básicas: gráficos e vetores"
+    },
+    {
+     "id": "enem-fisica-graficos-vetores-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Um gráfico de velocidade crescente cruza zero.",
+     "enunciado": "A posição também precisa ser zero nesse instante.",
+     "gabarito": "E",
+     "comentario": "Errado. Velocidade nula não determina a posição.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Ferramentas básicas: gráficos e vetores"
+    },
+    {
+     "id": "enem-fisica-graficos-vetores-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Uma seta tem 3 cm e a legenda informa 2 N por centímetro.",
+     "enunciado": "O módulo representado é 6 N.",
+     "gabarito": "C",
+     "comentario": "Certo. O comprimento desenhado multiplica o valor da escala.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Ferramentas básicas: gráficos e vetores"
+    },
+    {
+     "id": "enem-fisica-graficos-vetores-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Um gráfico usa minutos no eixo horizontal.",
+     "enunciado": "O valor de uma inclinação pode sempre ser lido como se o tempo estivesse em segundos.",
+     "gabarito": "E",
+     "comentario": "Errado. É necessário preservar ou converter a unidade do eixo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Ferramentas básicas: gráficos e vetores"
+    },
+    {
+     "id": "enem-fisica-graficos-vetores-c14-q05",
+     "tipo": "me",
+     "texto_base": "Um gráfico de posição em metros mostra os pontos (1 s, 3 m) e (5 s, 11 m) no mesmo segmento reto.",
+     "enunciado": "Qual é a inclinação?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "8 m/s.",
+      "B": "2 m/s.",
+      "C": "4 m/s.",
+      "D": "11 m/s.",
+      "E": "0,5 m/s."
+     },
+     "comentarios_por_alternativa": {
+      "A": "8 m é a variação de posição, ainda sem dividir pelo tempo.",
+      "B": "Correta. A posição varia 8 m em 4 s.",
+      "C": "4 s é o intervalo temporal.",
+      "D": "11 m corresponde à posição final.",
+      "E": "Esse é o número da razão inversa, em s/m."
+     },
+     "comentario": "A) 8 m é a variação de posição, ainda sem dividir pelo tempo.\nB) Correta. A posição varia 8 m em 4 s.\nC) 4 s é o intervalo temporal.\nD) 11 m corresponde à posição final.\nE) Esse é o número da razão inversa, em s/m.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Ferramentas básicas: gráficos e vetores"
+    },
+    {
+     "id": "enem-fisica-graficos-vetores-c14-q06",
+     "tipo": "me",
+     "texto_base": "Um mapa representa vetores com 1 cm para 5 m. Uma seta horizontal de 2 cm aponta para a esquerda, que corresponde a oeste.",
+     "enunciado": "O que ela representa?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "2 m para oeste.",
+      "B": "5 m para oeste.",
+      "C": "10 m para leste.",
+      "D": "10 m para oeste.",
+      "E": "0 m."
+     },
+     "comentarios_por_alternativa": {
+      "A": "2 cm é o comprimento no mapa.",
+      "B": "5 m correspondem a apenas 1 cm de seta.",
+      "C": "O sentido indicado é o contrário.",
+      "D": "Correta. A escala fornece 10 m, e a ponta da seta fornece o sentido.",
+      "E": "A seta tem comprimento não nulo."
+     },
+     "comentario": "A) 2 cm é o comprimento no mapa.\nB) 5 m correspondem a apenas 1 cm de seta.\nC) O sentido indicado é o contrário.\nD) Correta. A escala fornece 10 m, e a ponta da seta fornece o sentido.\nE) A seta tem comprimento não nulo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Ferramentas básicas: gráficos e vetores"
+    },
+    {
+     "id": "enem-fisica-graficos-vetores-c14-q07",
+     "tipo": "me",
+     "texto_base": "Num gráfico velocidade-tempo, um ônibus mantém velocidade de 4 m/s por 3 s.",
+     "enunciado": "O que representa a área do retângulo sob a linha?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "Um deslocamento de 12 m.",
+      "B": "Uma aceleração de 12 m/s².",
+      "C": "Uma posição absoluta de 12 m.",
+      "D": "Uma velocidade de 12 m/s.",
+      "E": "Um tempo de 12 s."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. A área é 4 m/s × 3 s e resulta em metros.",
+      "B": "A aceleração seria a inclinação, aqui nula.",
+      "C": "Sem a posição inicial só conhecemos a variação.",
+      "D": "O eixo fornece uma velocidade constante de 4 m/s.",
+      "E": "O intervalo lido no eixo horizontal é 3 s."
+     },
+     "comentario": "A) Correta. A área é 4 m/s × 3 s e resulta em metros.\nB) A aceleração seria a inclinação, aqui nula.\nC) Sem a posição inicial só conhecemos a variação.\nD) O eixo fornece uma velocidade constante de 4 m/s.\nE) O intervalo lido no eixo horizontal é 3 s.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Ferramentas básicas: gráficos e vetores"
+    },
+    {
+     "id": "enem-fisica-graficos-vetores-c14-q08",
+     "tipo": "me",
+     "texto_base": "Dois gráficos mostram a mesma trajetória; um usa metros e o outro centímetros no eixo de posição, com o mesmo eixo temporal.",
+     "enunciado": "Como comparar as inclinações?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Comparar os números sem conversão.",
+      "B": "Comparar só a altura final do desenho.",
+      "C": "Converter centímetros para segundos.",
+      "D": "Inverter os tempos de um dos gráficos.",
+      "E": "Converter as unidades para uma base comum."
+     },
+     "comentarios_por_alternativa": {
+      "A": "O valor numérico muda mesmo para a mesma velocidade.",
+      "B": "A altura no papel depende da escala gráfica.",
+      "C": "As unidades representam grandezas diferentes.",
+      "D": "A mudança de unidade de comprimento não altera a ordem temporal.",
+      "E": "Correta. Uma diferença numérica pode refletir apenas a unidade escolhida."
+     },
+     "comentario": "A) O valor numérico muda mesmo para a mesma velocidade.\nB) A altura no papel depende da escala gráfica.\nC) As unidades representam grandezas diferentes.\nD) A mudança de unidade de comprimento não altera a ordem temporal.\nE) Correta. Uma diferença numérica pode refletir apenas a unidade escolhida.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Ferramentas básicas: gráficos e vetores"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O que representa a coordenada vertical? Resposta: ___.",
+     "opcoes": [
+      "O valor indicado no eixo vertical para o ponto.",
+      "A variação vertical dividida pela variação horizontal.",
+      "O valor da intensidade, sem sinal negativo.",
+      "A orientação escolhida ao longo de uma direção."
+     ],
+     "respostas": [
+      "O valor indicado no eixo vertical para o ponto."
+     ],
+     "explicacao": "O valor indicado no eixo vertical para o ponto."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Por que definir a escala de setas? Resposta: ___.",
+     "opcoes": [
+      "O valor da intensidade, sem sinal negativo.",
+      "A orientação escolhida ao longo de uma direção.",
+      "Para ligar o comprimento desenhado ao módulo representado.",
+      "O valor mostrado no eixo vertical se mantém constante."
+     ],
+     "respostas": [
+      "Para ligar o comprimento desenhado ao módulo representado."
+     ],
+     "explicacao": "Para ligar o comprimento desenhado ao módulo representado."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma situação sobre gráficos e vetores como ferramentas físicas.",
+     "itens": [
+      "Identificar eixos ou escala de representação.",
+      "Ler valores em unidades explícitas.",
+      "Calcular a relação solicitada.",
+      "Interpretar o resultado no contexto."
+     ],
+     "explicacao": "Em gráficos, leia eixos, unidades e intervalos antes de interpretar pontos ou inclinações. Em vetores, confirme a escala das setas e a convenção para os sentidos."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O que representa a coordenada vertical?",
+       "O valor indicado no eixo vertical para o ponto."
+      ],
+      [
+       "O que é inclinação de uma reta?",
+       "A variação vertical dividida pela variação horizontal."
+      ],
+      [
+       "O que é módulo de vetor?",
+       "O valor da intensidade, sem sinal negativo."
+      ],
+      [
+       "O que é sentido?",
+       "A orientação escolhida ao longo de uma direção."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

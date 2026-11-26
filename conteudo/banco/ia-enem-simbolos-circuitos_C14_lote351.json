@@ -1,0 +1,253 @@
+{
+ "assunto": "Símbolos convencionais de circuitos",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-simbolos-circuitos-c14",
+   "titulo": "Símbolos convencionais de circuitos",
+   "microconteudo": "RAIO-X DA PROVA: Use a relação física indicada e confira as condições em que ela se aplica. Leia cada símbolo pela legenda e seus terminais. Uma chave aberta interrompe a ligação; o símbolo da pilha marca seus polos.\n\nPOR QUE IMPORTA:\nUma turma recebe o esquema de uma lanterna. Identificar os símbolos ajuda a localizar a fonte, a lâmpada e a chave antes de seguir o caminho da corrente.\n\nO QUE A BANCA COBRA:\nUse a relação física indicada e confira as condições em que ela se aplica. Leia cada símbolo pela legenda e seus terminais. Uma chave aberta interrompe a ligação; o símbolo da pilha marca seus polos.\n\nENTENDA:\nUma turma recebe o esquema de uma lanterna. Identificar os símbolos ajuda a localizar a fonte, a lâmpada e a chave antes de seguir o caminho da corrente.\n\nLeia cada símbolo pela legenda e seus terminais. Uma chave aberta interrompe a ligação; o símbolo da pilha marca seus polos.\n\nExemplo resolvido. Um desenho mostra uma pilha de 6 V, uma chave fechada e um resistor de 12 Ω no único laço. A chave completa o caminho e a leitura do esquema permite calcular 6/12 = 0,5 A.\n\nOutro exemplo. Um medidor identificado por V é ligado aos dois extremos de um resistor de 4 Ω. Se o resistor conduz 0,75 A, o medidor ideal indica 3 V. Ele lê uma diferença entre terminais sem interromper o ramo.\n\nUm resistor pode aparecer em zigue-zague ou como um retângulo, conforme a convenção adotada. A função e a conectividade importam mais do que a aparência. Rastreie os fios a partir dos polos e marque cada terminal que chega ao mesmo nó para comparar esquemas redesenhados.\n\nPara explicar o resultado, use o vocabulário da situação. Qual símbolo identifica o amperímetro? A em um círculo nos esquemas usuais. Como ligar o amperímetro ideal? Em série com o ramo medido. Qual símbolo identifica o voltímetro? V em um círculo nos esquemas usuais. Como ligar um voltímetro ideal? Em paralelo com os pontos medidos. Que traço indica o positivo da pilha? O traço mais longo na representação usual. Que indica um ponto numa junção? Conexão elétrica, segundo a convenção usual.\n\nNa hora de resolver no papel, siga a sequência abaixo. Ler a legenda. Localizar a fonte. Identificar chaves, medidores e junções. Acompanhar o caminho elétrico. Depois, escreva o resultado em uma frase completa. Um número isolado pode estar correto e, ainda assim, deixar ambíguo o que você calculou. Informe a unidade quando houver medida e identifique o objeto, a região ou o intervalo a que o resultado se refere.\n\nO símbolo representa a função elétrica e pode ter versões convencionais diferentes. Um cruzamento sem conexão gráfica não une os fios. Consulte a legenda se houver ambiguidade.\n\nReleia os dois exemplos resolvidos e tente antecipar o desfecho sem consultar o cálculo. No primeiro exemplo, identifique qual dado determina diretamente a resposta. No segundo, diga qual condição deve permanecer válida para que a conclusão se mantenha. Compare depois o papel das unidades e do sentido das grandezas. Se o resultado for qualitativo, procure enunciar a previsão em termos observáveis. Se for quantitativo, estime a escala antes de efetuar a última operação.\n\nVocê pode adaptar a análise a uma situação do cotidiano. Comece com esta ideia: Uma turma recebe o esquema de uma lanterna. Identificar os símbolos ajuda a localizar a fonte, a lâmpada e a chave antes de seguir o caminho da corrente. Em seguida, desenhe o cenário, indique o que está sendo comparado e escreva que dado precisaria medir para testar a previsão. Diferencie a regra do modelo das informações que servem apenas para situar a história. Isso ajuda a decidir o que aproveitar quando uma questão apresenta mais dados do que a resolução exige.\n\nTrês conferências úteis: a definição corresponde ao objeto descrito? As condições indicadas no enunciado permitem aplicar a regra? A resposta continua coerente ao voltar ao desenho? Faça a última conferência lendo esta relação no contexto: Leia cada símbolo pela legenda e seus terminais. Uma chave aberta interrompe a ligação; o símbolo da pilha marca seus polos. Uma hipótese deve ser usada dentro de sua faixa de validade; quando o contexto mudar, justifique a adaptação antes de transportar o resultado.\n\nAo treinar, explique a diferença entre o mecanismo e seu efeito. O símbolo representa a função elétrica e pode ter versões convencionais diferentes. Um cruzamento sem conexão gráfica não une os fios. Consulte a legenda se houver ambiguidade. Em um texto de prova, essa distinção pode aparecer escondida em uma frase sobre o resultado de uma medida. Identifique primeiro a causa física e depois a grandeza observada. Se for necessário comparar cenários, mude uma condição por vez para descobrir qual mudança explica a diferença.\n\nPergunte o que aconteceria se você aplicasse a regra a um desenho mais simples. Comece separando estas tarefas: Ler a legenda. Localizar a fonte. Identificar chaves, medidores e junções. Acompanhar o caminho elétrico. Refaça o primeiro exemplo apenas com setas ou um esquema, deixando os números para o final. Em seguida, recolha do enunciado as unidades e os sentidos. Uma seta no desenho pode indicar a direção de uma interação, a mudança de uma medida ou apenas uma referência. É importante dizer qual papel ela desempenha antes de usar a relação do começo da lição.\n\nPara consolidar, use três perguntas de revisão. Como ligar o amperímetro ideal? Em série com o ramo medido. Como ligar um voltímetro ideal? Em paralelo com os pontos medidos. Que indica um ponto numa junção? Conexão elétrica, segundo a convenção usual. A ideia é explicar essas respostas sem depender da ordem em que apareceram. Em um problema de comparação, preste atenção às palavras que mantêm algo igual entre os cenários. Em um problema de cálculo, confira a operação inversa quando possível. Por exemplo, reintroduza o resultado na relação inicial e verifique se os dados do problema são recuperados. Em uma questão qualitativa, faça o equivalente testando se a conclusão explica as condições observadas.\n\nNo fim da leitura, diga qual grandeza a pergunta solicitou e qual grandeza você usou para chegar a ela. Faça essa distinção também quando a resposta for uma direção, uma comparação ou uma interpretação histórica. Um resultado bem explicado deve poder ser lido sem adivinhar de onde ele veio.\n\nEm uma atividade de estudo, escreva primeiro uma estimativa ou previsão. Depois escolha o dado específico que vai confirmar ou contrariar essa previsão. Se duas respostas parecerem possíveis, indique qual condição extra permitiria escolher entre elas. A ideia é explicar o raciocínio, deixando claro por que a relação física é apropriada naquele contexto.\n\nTROCANDO EM MIÚDOS:\nUma turma recebe o esquema de uma lanterna. Identificar os símbolos ajuda a localizar a fonte, a lâmpada e a chave antes de seguir o caminho da corrente.\n\nLeia cada símbolo pela legenda e seus terminais. Uma chave aberta interrompe a ligação; o símbolo da pilha marca seus polos.\n\nExemplo resolvido. Um desenho mostra uma pilha de 6 V, uma chave fechada e um resistor de 12 Ω no único laço. A chave completa o caminho e a leitura do esquema permite calcular 6/12 = 0,5 A.\n\nOutro exemplo. Um medidor identificado por V é ligado aos dois extremos de um resistor de 4 Ω. Se o resistor conduz 0,75 A, o medidor ideal indica 3 V. Ele lê uma diferença entre terminais sem interromper o ramo.\n\nO símbolo representa a função elétrica e pode ter versões convencionais diferentes. Um cruzamento sem conexão gráfica não une os fios. Consulte a legenda se houver ambiguidade.\n\nQual símbolo identifica o amperímetro? A em um círculo nos esquemas usuais. Como ligar o amperímetro ideal? Em série com o ramo medido. Qual símbolo identifica o voltímetro? V em um círculo nos esquemas usuais. Como ligar um voltímetro ideal? Em paralelo com os pontos medidos. Que traço indica o positivo da pilha? O traço mais longo na representação usual. Que indica um ponto numa junção? Conexão elétrica, segundo a convenção usual.\n\nPara montar seu rascunho: Ler a legenda. Localizar a fonte. Identificar chaves, medidores e junções. Acompanhar o caminho elétrico. Na leitura final, escolha a parte do desenho que corresponde ao resultado. Se encontrar uma unidade diferente da pedida, volte ao cálculo e confira os fatores de conversão. Quando a pergunta for conceitual, confira se a explicação indica o mecanismo que liga o dado à conclusão. Você pode comparar os dois exemplos da lição antes de tentar os exercícios e explicar de memória por que cada resultado faz sentido.\n\nLEI SECA:\nLeia cada símbolo pela legenda e seus terminais. Uma chave aberta interrompe a ligação; o símbolo da pilha marca seus polos.\n\nSÚMULAS E TESES:\nOutro exemplo. Um medidor identificado por V é ligado aos dois extremos de um resistor de 4 Ω. Se o resistor conduz 0,75 A, o medidor ideal indica 3 V. Ele lê uma diferença entre terminais sem interromper o ramo.\n\nESQUEMA:\nLer a legenda. → Localizar a fonte. → Identificar chaves, medidores e junções. → Acompanhar o caminho elétrico.\n\nPEGADINHAS:\nO símbolo representa a função elétrica e pode ter versões convencionais diferentes. Um cruzamento sem conexão gráfica não une os fios. Consulte a legenda se houver ambiguidade.\n\nDOUTRINA:\nDC Circuits\n\nNA PRÁTICA:\nExemplo resolvido. Um desenho mostra uma pilha de 6 V, uma chave fechada e um resistor de 12 Ω no único laço. A chave completa o caminho e a leitura do esquema permite calcular 6/12 = 0,5 A.",
+   "flashcards": [
+    {
+     "frente": "Qual símbolo identifica o amperímetro?",
+     "verso": "A em um círculo nos esquemas usuais.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Símbolos convencionais"
+    },
+    {
+     "frente": "Como ligar o amperímetro ideal?",
+     "verso": "Em série com o ramo medido.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Símbolos convencionais"
+    },
+    {
+     "frente": "Qual símbolo identifica o voltímetro?",
+     "verso": "V em um círculo nos esquemas usuais.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Símbolos convencionais"
+    },
+    {
+     "frente": "Como ligar um voltímetro ideal?",
+     "verso": "Em paralelo com os pontos medidos.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Símbolos convencionais"
+    },
+    {
+     "frente": "Que traço indica o positivo da pilha?",
+     "verso": "O traço mais longo na representação usual.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Símbolos convencionais"
+    },
+    {
+     "frente": "Que indica um ponto numa junção?",
+     "verso": "Conexão elétrica, segundo a convenção usual.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Símbolos convencionais"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-simbolos-circuitos-c14-q01",
+     "tipo": "ce",
+     "texto_base": "O esquema usual da pilha tem duas barras desiguais.",
+     "enunciado": "A barra longa indica o polo positivo.",
+     "gabarito": "C",
+     "comentario": "Certo. Ela marca o positivo na convenção escolar.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Símbolos convencionais"
+    },
+    {
+     "id": "enem-fisica-simbolos-circuitos-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Um voltímetro mede tensão em um resistor.",
+     "enunciado": "Deve cortar o ramo e ser ligado em série.",
+     "gabarito": "E",
+     "comentario": "Errado. Mede entre os dois terminais.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Símbolos convencionais"
+    },
+    {
+     "id": "enem-fisica-simbolos-circuitos-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Uma chave aberta aparece no único laço.",
+     "enunciado": "A corrente estacionária no laço é nula.",
+     "gabarito": "C",
+     "comentario": "Certo. O único trajeto está interrompido.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Símbolos convencionais"
+    },
+    {
+     "id": "enem-fisica-simbolos-circuitos-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Fios cruzam com marca de ausência de ligação.",
+     "enunciado": "Os fios formam um nó no cruzamento.",
+     "gabarito": "E",
+     "comentario": "Errado. O símbolo distingue cruzamento de junção.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Símbolos convencionais"
+    },
+    {
+     "id": "enem-fisica-simbolos-circuitos-c14-q05",
+     "tipo": "me",
+     "texto_base": "Uma equipe quer medir a corrente no único ramo.",
+     "enunciado": "Qual instrumento deve inserir em série?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "Voltímetro",
+      "B": "Amperímetro",
+      "C": "Fusível",
+      "D": "Capacitor",
+      "E": "Chave aberta"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve voltímetro, enquanto a situação pede amperímetro. Ele mede a corrente que passa pelo ramo.",
+      "B": "Correta. Ele mede a corrente que passa pelo ramo.",
+      "C": "Esta opção descreve fusível, enquanto a situação pede amperímetro. Ele mede a corrente que passa pelo ramo.",
+      "D": "Esta opção descreve capacitor, enquanto a situação pede amperímetro. Ele mede a corrente que passa pelo ramo.",
+      "E": "Esta opção descreve chave aberta, enquanto a situação pede amperímetro. Ele mede a corrente que passa pelo ramo."
+     },
+     "comentario": "A) Esta opção descreve voltímetro, enquanto a situação pede amperímetro. Ele mede a corrente que passa pelo ramo.\nB) Correta. Ele mede a corrente que passa pelo ramo.\nC) Esta opção descreve fusível, enquanto a situação pede amperímetro. Ele mede a corrente que passa pelo ramo.\nD) Esta opção descreve capacitor, enquanto a situação pede amperímetro. Ele mede a corrente que passa pelo ramo.\nE) Esta opção descreve chave aberta, enquanto a situação pede amperímetro. Ele mede a corrente que passa pelo ramo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Símbolos convencionais"
+    },
+    {
+     "id": "enem-fisica-simbolos-circuitos-c14-q06",
+     "tipo": "me",
+     "texto_base": "Uma montagem precisa ler a diferença de potencial entre dois nós.",
+     "enunciado": "Qual ligação é correta?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "Voltímetro em série",
+      "B": "Amperímetro em paralelo",
+      "C": "Pilha ligada diretamente aos nós como medidor",
+      "D": "Voltímetro em paralelo",
+      "E": "Chave no lugar do medidor"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve voltímetro em série, enquanto a situação pede voltímetro em paralelo. Ele mede a diferença entre os nós.",
+      "B": "Esta opção descreve amperímetro em paralelo, enquanto a situação pede voltímetro em paralelo. Ele mede a diferença entre os nós.",
+      "C": "Esta opção descreve pilha ligada diretamente aos nós como medidor, enquanto a situação pede voltímetro em paralelo. Ele mede a diferença entre os nós.",
+      "D": "Correta. Ele mede a diferença entre os nós.",
+      "E": "Esta opção descreve chave no lugar do medidor, enquanto a situação pede voltímetro em paralelo. Ele mede a diferença entre os nós."
+     },
+     "comentario": "A) Esta opção descreve voltímetro em série, enquanto a situação pede voltímetro em paralelo. Ele mede a diferença entre os nós.\nB) Esta opção descreve amperímetro em paralelo, enquanto a situação pede voltímetro em paralelo. Ele mede a diferença entre os nós.\nC) Esta opção descreve pilha ligada diretamente aos nós como medidor, enquanto a situação pede voltímetro em paralelo. Ele mede a diferença entre os nós.\nD) Correta. Ele mede a diferença entre os nós.\nE) Esta opção descreve chave no lugar do medidor, enquanto a situação pede voltímetro em paralelo. Ele mede a diferença entre os nós.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Símbolos convencionais"
+    },
+    {
+     "id": "enem-fisica-simbolos-circuitos-c14-q07",
+     "tipo": "me",
+     "texto_base": "Num laço único a chave está aberta.",
+     "enunciado": "Qual elemento impede a continuidade elétrica?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "A chave",
+      "B": "A fonte ideal",
+      "C": "O fio sem junção fora do laço",
+      "D": "O resistor",
+      "E": "O rótulo de tensão"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. O símbolo aberto indica contato interrompido.",
+      "B": "Esta opção descreve a fonte ideal, enquanto a situação pede a chave. O símbolo aberto indica contato interrompido.",
+      "C": "Esta opção descreve o fio sem junção fora do laço, enquanto a situação pede a chave. O símbolo aberto indica contato interrompido.",
+      "D": "Esta opção descreve o resistor, enquanto a situação pede a chave. O símbolo aberto indica contato interrompido.",
+      "E": "Esta opção descreve o rótulo de tensão, enquanto a situação pede a chave. O símbolo aberto indica contato interrompido."
+     },
+     "comentario": "A) Correta. O símbolo aberto indica contato interrompido.\nB) Esta opção descreve a fonte ideal, enquanto a situação pede a chave. O símbolo aberto indica contato interrompido.\nC) Esta opção descreve o fio sem junção fora do laço, enquanto a situação pede a chave. O símbolo aberto indica contato interrompido.\nD) Esta opção descreve o resistor, enquanto a situação pede a chave. O símbolo aberto indica contato interrompido.\nE) Esta opção descreve o rótulo de tensão, enquanto a situação pede a chave. O símbolo aberto indica contato interrompido.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Símbolos convencionais"
+    },
+    {
+     "id": "enem-fisica-simbolos-circuitos-c14-q08",
+     "tipo": "me",
+     "texto_base": "Um esquema apresenta três barras longas intercaladas por três curtas, em pares.",
+     "enunciado": "Qual componente a convenção representa?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Resistor variável",
+      "B": "Chave dupla",
+      "C": "Amperímetro",
+      "D": "Lâmpada",
+      "E": "Bateria de células"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve resistor variável, enquanto a situação pede bateria de células. Os pares de traços desiguais representam células repetidas.",
+      "B": "Esta opção descreve chave dupla, enquanto a situação pede bateria de células. Os pares de traços desiguais representam células repetidas.",
+      "C": "Esta opção descreve amperímetro, enquanto a situação pede bateria de células. Os pares de traços desiguais representam células repetidas.",
+      "D": "Esta opção descreve lâmpada, enquanto a situação pede bateria de células. Os pares de traços desiguais representam células repetidas.",
+      "E": "Correta. Os pares de traços desiguais representam células repetidas."
+     },
+     "comentario": "A) Esta opção descreve resistor variável, enquanto a situação pede bateria de células. Os pares de traços desiguais representam células repetidas.\nB) Esta opção descreve chave dupla, enquanto a situação pede bateria de células. Os pares de traços desiguais representam células repetidas.\nC) Esta opção descreve amperímetro, enquanto a situação pede bateria de células. Os pares de traços desiguais representam células repetidas.\nD) Esta opção descreve lâmpada, enquanto a situação pede bateria de células. Os pares de traços desiguais representam células repetidas.\nE) Correta. Os pares de traços desiguais representam células repetidas.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Símbolos convencionais"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Qual símbolo identifica o amperímetro? ___",
+     "opcoes": [
+      "A em um círculo nos esquemas usuais.",
+      "Em série com o ramo medido.",
+      "V em um círculo nos esquemas usuais.",
+      "Em paralelo com os pontos medidos."
+     ],
+     "respostas": [
+      "A em um círculo nos esquemas usuais."
+     ],
+     "explicacao": "A em um círculo nos esquemas usuais."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Qual símbolo identifica o voltímetro? ___",
+     "opcoes": [
+      "V em um círculo nos esquemas usuais.",
+      "Em paralelo com os pontos medidos.",
+      "O traço mais longo na representação usual.",
+      "Conexão elétrica, segundo a convenção usual."
+     ],
+     "respostas": [
+      "V em um círculo nos esquemas usuais."
+     ],
+     "explicacao": "V em um círculo nos esquemas usuais."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise de símbolos convencionais de circuitos.",
+     "itens": [
+      "Ler a legenda.",
+      "Localizar a fonte.",
+      "Identificar chaves, medidores e junções.",
+      "Acompanhar o caminho elétrico."
+     ],
+     "explicacao": "Leia cada símbolo pela legenda e seus terminais. Uma chave aberta interrompe a ligação; o símbolo da pilha marca seus polos."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Qual símbolo identifica o amperímetro?",
+       "A em um círculo nos esquemas usuais."
+      ],
+      [
+       "Como ligar o amperímetro ideal?",
+       "Em série com o ramo medido."
+      ],
+      [
+       "Qual símbolo identifica o voltímetro?",
+       "V em um círculo nos esquemas usuais."
+      ],
+      [
+       "Como ligar um voltímetro ideal?",
+       "Em paralelo com os pontos medidos."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

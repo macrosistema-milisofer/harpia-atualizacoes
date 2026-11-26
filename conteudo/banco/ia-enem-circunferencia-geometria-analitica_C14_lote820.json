@@ -1,0 +1,251 @@
+{
+ "assunto": "Circunferência no plano: centro, raio e equação",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-circunferencia-geometria-analitica-c14",
+   "titulo": "Circunferência no plano: centro, raio e equação",
+   "microconteudo": "RAIO-X DA PROVA: Use a distância ao centro, interprete a forma reduzida e diferencie raio de raio ao quadrado.\n\nPOR QUE IMPORTA:\nAlém de calcular voltas e arcos, podemos localizar uma borda circular em um mapa. A equação permite testar se um ponto está na borda, dentro ou fora.\n\nO QUE A BANCA COBRA:\nUse a distância ao centro, interprete a forma reduzida e diferencie raio de raio ao quadrado.\n\nENTENDA:\n1. Equação reduzida\n\nA circunferência com centro (a,b) e raio r satisfaz (x − a)² + (y − b)² = r². Uma região circular tem borda com centro (2,-1) e raio 3. Qual é a equação da borda? A resposta é **(x − 2)² + (y + 1)² = 9**. A segunda diferença é y − (-1); no lado direito entra o quadrado de 3.\n\nUma resposta a examinar é “(x − 2)² + (y − 1)² = 3”. Coloque lado a lado o que ela afirma e o dado principal do caso. O ponto central zera as expressões em parênteses, e um ponto na borda fica a distância 3. Cada parte da equação tem uma função. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\n2. Identificar centro e raio\n\nPara encontrar o centro na forma reduzida, zere as expressões em x e y. O raio é a raiz positiva do termo constante à direita. No mapa, a borda é dada por (x + 4)² + (y − 2)² = 25. Quais são centro e raio? A resposta é **Centro (-4,2) e raio 5**. Os parênteses zeram em x = −4 e y = 2, e √25 = 5.\n\nUma resposta a examinar é “Centro (4,-2) e raio 25”. Coloque lado a lado o que ela afirma e o dado principal do caso. O sinal interno corresponde à subtração da coordenada central. O termo 25 mede o quadrado da distância ao centro. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\n3. Posição de um ponto\n\nDistância menor que o raio indica interior; igualdade indica borda; distância maior indica exterior. Em relação à borda x² + y² = 16, considere o ponto (3,0). Qual é sua posição? A resposta é **No interior**. A distância até a origem é 3, inferior ao raio 4.\n\nUma resposta a examinar é “Sobre a borda”. Coloque lado a lado o que ela afirma e o dado principal do caso. Na própria equação, 3² + 0² = 9, que é menor que 16. Comparar quadrados positivos evita calcular raízes quando só importa a ordem. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\n4. Pontos extremos\n\nOs extremos horizontais têm y igual à ordenada do centro e x deslocado pelo raio. A circunferência tem centro (1,4) e raio 2. Qual é o ponto mais à direita? A resposta é **(3, 4)**. À direita o deslocamento é de duas unidades apenas em x; a altura continua 4.\n\nUma resposta a examinar é “(1, 6)”. Coloque lado a lado o que ela afirma e o dado principal do caso. O ponto (1,6) é o extremo superior. Trocar a direção do deslocamento troca o extremo procurado. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\n5. Completar quadrados\n\nSomar e subtrair o termo adequado converte x² + bx em quadrado de binômio ajustado. A equação é x² + y² − 6x = 7. Qual é a forma reduzida? A resposta é **(x − 3)² + y² = 16**. Somar 9 aos dois lados completa x² − 6x + 9 = (x − 3)².\n\nUma resposta a examinar é “(x − 6)² + y² = 7”. Coloque lado a lado o que ela afirma e o dado principal do caso. Ao expandir esse quadrado apareceria −12x e ainda uma constante. A metade de −6 é o valor que entra no binômio. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\n6. Centro e extremidades de diâmetro\n\nO centro é o ponto médio de dois extremos de qualquer diâmetro; o raio é metade da distância entre eles. Os extremos de um diâmetro são (-2,1) e (6,1). Quais são centro e raio? A resposta é **Centro (2,1) e raio 4**. O centro é a média dos extremos. A distância horizontal é 8, cujo meio comprimento é 4.\n\nUma resposta a examinar é “Centro (2,0) e raio 8”. Coloque lado a lado o que ela afirma e o dado principal do caso. As duas extremidades têm a mesma altura, então o centro continua nessa altura. A medida inteira é o diâmetro. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\nTROCANDO EM MIÚDOS:\n**Equação reduzida.** Uma região circular tem borda com centro (2,-1) e raio 3. Qual é a equação da borda? (x − 2)² + (y + 1)² = 9. A segunda diferença é y − (-1); no lado direito entra o quadrado de 3. O ponto central zera as expressões em parênteses, e um ponto na borda fica a distância 3. Cada parte da equação tem uma função.\n\n**Identificar centro e raio.** No mapa, a borda é dada por (x + 4)² + (y − 2)² = 25. Quais são centro e raio? Centro (-4,2) e raio 5. Os parênteses zeram em x = −4 e y = 2, e √25 = 5. O sinal interno corresponde à subtração da coordenada central. O termo 25 mede o quadrado da distância ao centro.\n\n**Posição de um ponto.** Em relação à borda x² + y² = 16, considere o ponto (3,0). Qual é sua posição? No interior. A distância até a origem é 3, inferior ao raio 4. Na própria equação, 3² + 0² = 9, que é menor que 16. Comparar quadrados positivos evita calcular raízes quando só importa a ordem.\n\n**Pontos extremos.** A circunferência tem centro (1,4) e raio 2. Qual é o ponto mais à direita? (3, 4). À direita o deslocamento é de duas unidades apenas em x; a altura continua 4. O ponto (1,6) é o extremo superior. Trocar a direção do deslocamento troca o extremo procurado.\n\n**Completar quadrados.** A equação é x² + y² − 6x = 7. Qual é a forma reduzida? (x − 3)² + y² = 16. Somar 9 aos dois lados completa x² − 6x + 9 = (x − 3)². Ao expandir esse quadrado apareceria −12x e ainda uma constante. A metade de −6 é o valor que entra no binômio.\n\n**Centro e extremidades de diâmetro.** Os extremos de um diâmetro são (-2,1) e (6,1). Quais são centro e raio? Centro (2,1) e raio 4. O centro é a média dos extremos. A distância horizontal é 8, cujo meio comprimento é 4. As duas extremidades têm a mesma altura, então o centro continua nessa altura. A medida inteira é o diâmetro.\n\nESQUEMA:\n• Equação reduzida → A circunferência com centro (a,b) e raio r satisfaz (x − a)² + (y − b)² = r².\n• Identificar centro e raio → Para encontrar o centro na forma reduzida, zere as expressões em x e y. O raio é a raiz positiva do termo constante à direita.\n• Posição de um ponto → Distância menor que o raio indica interior; igualdade indica borda; distância maior indica exterior.\n• Pontos extremos → Os extremos horizontais têm y igual à ordenada do centro e x deslocado pelo raio.\n• Completar quadrados → Somar e subtrair o termo adequado converte x² + bx em quadrado de binômio ajustado.\n• Centro e extremidades de diâmetro → O centro é o ponto médio de dois extremos de qualquer diâmetro; o raio é metade da distância entre eles.\n\nPEGADINHAS:\n• Equação reduzida: confira por que “(x − 2)² + (y − 1)² = 3” falha nesse caso.\n• Identificar centro e raio: confira por que “Centro (4,-2) e raio 25” falha nesse caso.\n• Posição de um ponto: confira por que “Sobre a borda” falha nesse caso.\n• Pontos extremos: confira por que “(1, 6)” falha nesse caso.\n\nNA PRÁTICA:\nOs extremos de um diâmetro são (-2,1) e (6,1). Quais são centro e raio? **Resposta:** Centro (2,1) e raio 4. O centro é a média dos extremos. A distância horizontal é 8, cujo meio comprimento é 4.",
+   "flashcards": [
+    {
+     "frente": "Como reconhecer equação reduzida?",
+     "verso": "A circunferência com centro (a,b) e raio r satisfaz (x − a)² + (y − b)² = r².",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Circunferências"
+    },
+    {
+     "frente": "Como reconhecer identificar centro e raio?",
+     "verso": "Para encontrar o centro na forma reduzida, zere as expressões em x e y. O raio é a raiz positiva do termo constante à direita.",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Circunferências"
+    },
+    {
+     "frente": "Como reconhecer posição de um ponto?",
+     "verso": "Distância menor que o raio indica interior; igualdade indica borda; distância maior indica exterior.",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Circunferências"
+    },
+    {
+     "frente": "Como reconhecer pontos extremos?",
+     "verso": "Os extremos horizontais têm y igual à ordenada do centro e x deslocado pelo raio.",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Circunferências"
+    },
+    {
+     "frente": "Como reconhecer completar quadrados?",
+     "verso": "Somar e subtrair o termo adequado converte x² + bx em quadrado de binômio ajustado.",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Circunferências"
+    },
+    {
+     "frente": "Como reconhecer centro e extremidades de diâmetro?",
+     "verso": "O centro é o ponto médio de dois extremos de qualquer diâmetro; o raio é metade da distância entre eles.",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Circunferências"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-circunferencia-geometria-analitica-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Uma região circular tem borda com centro (2,-1) e raio 3. Qual é a equação da borda?",
+     "enunciado": "A resposta é “(x − 2)² + (y + 1)² = 9”.",
+     "gabarito": "C",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Circunferências",
+     "comentario": "A segunda diferença é y − (-1); no lado direito entra o quadrado de 3."
+    },
+    {
+     "id": "enem-circunferencia-geometria-analitica-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Em relação à borda x² + y² = 16, considere o ponto (3,0). Qual é sua posição?",
+     "enunciado": "A resposta é “Sobre a borda”.",
+     "gabarito": "E",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Circunferências",
+     "comentario": "A resposta é “No interior”. A distância até a origem é 3, inferior ao raio 4."
+    },
+    {
+     "id": "enem-circunferencia-geometria-analitica-c14-q03",
+     "tipo": "ce",
+     "texto_base": "A equação é x² + y² − 6x = 7. Qual é a forma reduzida?",
+     "enunciado": "A resposta é “(x − 6)² + y² = 7”.",
+     "gabarito": "E",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Circunferências",
+     "comentario": "A resposta é “(x − 3)² + y² = 16”. Somar 9 aos dois lados completa x² − 6x + 9 = (x − 3)²."
+    },
+    {
+     "id": "enem-circunferencia-geometria-analitica-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Os extremos de um diâmetro são (-2,1) e (6,1). Quais são centro e raio?",
+     "enunciado": "A resposta é “Centro (2,1) e raio 4”.",
+     "gabarito": "C",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Circunferências",
+     "comentario": "O centro é a média dos extremos. A distância horizontal é 8, cujo meio comprimento é 4."
+    },
+    {
+     "id": "enem-circunferencia-geometria-analitica-c14-q05",
+     "tipo": "me",
+     "texto_base": "No mapa, a borda é dada por (x + 4)² + (y − 2)² = 25.",
+     "enunciado": "Quais são centro e raio?",
+     "gabarito": "A",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Circunferências",
+     "alternativas": {
+      "A": "Centro (-4,2) e raio 5",
+      "B": "Centro (4,-2) e raio 25",
+      "C": "No interior",
+      "D": "(3, 4)",
+      "E": "(x − 3)² + y² = 16"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Os parênteses zeram em x = −4 e y = 2, e √25 = 5.",
+      "B": "Os parênteses zeram em x = −4 e y = 2, e √25 = 5.",
+      "C": "Essa resposta descreve um caso de posição de um ponto. Os parênteses zeram em x = −4 e y = 2, e √25 = 5.",
+      "D": "Essa resposta descreve um caso de pontos extremos. Os parênteses zeram em x = −4 e y = 2, e √25 = 5.",
+      "E": "Essa resposta descreve um caso de completar quadrados. Os parênteses zeram em x = −4 e y = 2, e √25 = 5."
+     },
+     "comentario": "A) Correta. Os parênteses zeram em x = −4 e y = 2, e √25 = 5.\nB) Os parênteses zeram em x = −4 e y = 2, e √25 = 5.\nC) Essa resposta descreve um caso de posição de um ponto. Os parênteses zeram em x = −4 e y = 2, e √25 = 5.\nD) Essa resposta descreve um caso de pontos extremos. Os parênteses zeram em x = −4 e y = 2, e √25 = 5.\nE) Essa resposta descreve um caso de completar quadrados. Os parênteses zeram em x = −4 e y = 2, e √25 = 5."
+    },
+    {
+     "id": "enem-circunferencia-geometria-analitica-c14-q06",
+     "tipo": "me",
+     "texto_base": "Em relação à borda x² + y² = 16, considere o ponto (3,0).",
+     "enunciado": "Qual é sua posição?",
+     "gabarito": "B",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Circunferências",
+     "alternativas": {
+      "A": "Sobre a borda",
+      "B": "No interior",
+      "C": "(3, 4)",
+      "D": "(x − 3)² + y² = 16",
+      "E": "Centro (2,1) e raio 4"
+     },
+     "comentarios_por_alternativa": {
+      "A": "A distância até a origem é 3, inferior ao raio 4.",
+      "B": "Correta. A distância até a origem é 3, inferior ao raio 4.",
+      "C": "Essa resposta descreve um caso de pontos extremos. A distância até a origem é 3, inferior ao raio 4.",
+      "D": "Essa resposta descreve um caso de completar quadrados. A distância até a origem é 3, inferior ao raio 4.",
+      "E": "Essa resposta descreve um caso de centro e extremidades de diâmetro. A distância até a origem é 3, inferior ao raio 4."
+     },
+     "comentario": "A) A distância até a origem é 3, inferior ao raio 4.\nB) Correta. A distância até a origem é 3, inferior ao raio 4.\nC) Essa resposta descreve um caso de pontos extremos. A distância até a origem é 3, inferior ao raio 4.\nD) Essa resposta descreve um caso de completar quadrados. A distância até a origem é 3, inferior ao raio 4.\nE) Essa resposta descreve um caso de centro e extremidades de diâmetro. A distância até a origem é 3, inferior ao raio 4."
+    },
+    {
+     "id": "enem-circunferencia-geometria-analitica-c14-q07",
+     "tipo": "me",
+     "texto_base": "A circunferência tem centro (1,4) e raio 2.",
+     "enunciado": "Qual é o ponto mais à direita?",
+     "gabarito": "C",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Circunferências",
+     "alternativas": {
+      "A": "(1, 6)",
+      "B": "(x − 3)² + y² = 16",
+      "C": "(3, 4)",
+      "D": "Centro (2,1) e raio 4",
+      "E": "(x − 2)² + (y + 1)² = 9"
+     },
+     "comentarios_por_alternativa": {
+      "A": "À direita o deslocamento é de duas unidades apenas em x; a altura continua 4.",
+      "B": "Essa resposta descreve um caso de completar quadrados. À direita o deslocamento é de duas unidades apenas em x; a altura continua 4.",
+      "C": "Correta. À direita o deslocamento é de duas unidades apenas em x; a altura continua 4.",
+      "D": "Essa resposta descreve um caso de centro e extremidades de diâmetro. À direita o deslocamento é de duas unidades apenas em x; a altura continua 4.",
+      "E": "Essa resposta descreve um caso de equação reduzida. À direita o deslocamento é de duas unidades apenas em x; a altura continua 4."
+     },
+     "comentario": "A) À direita o deslocamento é de duas unidades apenas em x; a altura continua 4.\nB) Essa resposta descreve um caso de completar quadrados. À direita o deslocamento é de duas unidades apenas em x; a altura continua 4.\nC) Correta. À direita o deslocamento é de duas unidades apenas em x; a altura continua 4.\nD) Essa resposta descreve um caso de centro e extremidades de diâmetro. À direita o deslocamento é de duas unidades apenas em x; a altura continua 4.\nE) Essa resposta descreve um caso de equação reduzida. À direita o deslocamento é de duas unidades apenas em x; a altura continua 4."
+    },
+    {
+     "id": "enem-circunferencia-geometria-analitica-c14-q08",
+     "tipo": "me",
+     "texto_base": "A equação é x² + y² − 6x = 7.",
+     "enunciado": "Qual é a forma reduzida?",
+     "gabarito": "D",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Circunferências",
+     "alternativas": {
+      "A": "(x − 6)² + y² = 7",
+      "B": "Centro (2,1) e raio 4",
+      "C": "(x − 2)² + (y + 1)² = 9",
+      "D": "(x − 3)² + y² = 16",
+      "E": "Centro (-4,2) e raio 5"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Somar 9 aos dois lados completa x² − 6x + 9 = (x − 3)².",
+      "B": "Essa resposta descreve um caso de centro e extremidades de diâmetro. Somar 9 aos dois lados completa x² − 6x + 9 = (x − 3)².",
+      "C": "Essa resposta descreve um caso de equação reduzida. Somar 9 aos dois lados completa x² − 6x + 9 = (x − 3)².",
+      "D": "Correta. Somar 9 aos dois lados completa x² − 6x + 9 = (x − 3)².",
+      "E": "Essa resposta descreve um caso de identificar centro e raio. Somar 9 aos dois lados completa x² − 6x + 9 = (x − 3)²."
+     },
+     "comentario": "A) Somar 9 aos dois lados completa x² − 6x + 9 = (x − 3)².\nB) Essa resposta descreve um caso de centro e extremidades de diâmetro. Somar 9 aos dois lados completa x² − 6x + 9 = (x − 3)².\nC) Essa resposta descreve um caso de equação reduzida. Somar 9 aos dois lados completa x² − 6x + 9 = (x − 3)².\nD) Correta. Somar 9 aos dois lados completa x² − 6x + 9 = (x − 3)².\nE) Essa resposta descreve um caso de identificar centro e raio. Somar 9 aos dois lados completa x² − 6x + 9 = (x − 3)²."
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Uma região circular tem borda com centro (2,-1) e raio 3. Qual é a equação da borda? Resposta: ___.",
+     "opcoes": [
+      "(x − 2)² + (y + 1)² = 9",
+      "(x − 2)² + (y − 1)² = 3",
+      "Centro (-4,2) e raio 5"
+     ],
+     "respostas": [
+      "(x − 2)² + (y + 1)² = 9"
+     ],
+     "explicacao": "A segunda diferença é y − (-1); no lado direito entra o quadrado de 3."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Os extremos de um diâmetro são (-2,1) e (6,1). Quais são centro e raio? Resposta: ___.",
+     "opcoes": [
+      "Centro (2,1) e raio 4",
+      "Centro (2,0) e raio 8",
+      "(x − 2)² + (y + 1)² = 9"
+     ],
+     "respostas": [
+      "Centro (2,1) e raio 4"
+     ],
+     "explicacao": "O centro é a média dos extremos. A distância horizontal é 8, cujo meio comprimento é 4."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a leitura do caso. A circunferência tem centro (1,4) e raio 2. Qual é o ponto mais à direita?",
+     "itens": [
+      "Identificar o que a pergunta pede.",
+      "Separar os dados relevantes.",
+      "Relacionar os dados ao conceito.",
+      "Conferir a conclusão."
+     ],
+     "explicacao": "À direita o deslocamento é de duas unidades apenas em x; a altura continua 4."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Equação reduzida",
+       "A circunferência com centro (a,b) e raio r satisfaz (x − a)² + (y − b)² = r²."
+      ],
+      [
+       "Identificar centro e raio",
+       "Para encontrar o centro na forma reduzida, zere as expressões em x e y. O raio é a raiz positiva do termo constante à direita."
+      ],
+      [
+       "Posição de um ponto",
+       "Distância menor que o raio indica interior; igualdade indica borda; distância maior indica exterior."
+      ],
+      [
+       "Pontos extremos",
+       "Os extremos horizontais têm y igual à ordenada do centro e x deslocado pelo raio."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

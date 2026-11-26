@@ -1,0 +1,253 @@
+{
+ "assunto": "Investigação física e busca de regularidades",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-investigacao-regularidades-c14",
+   "titulo": "Investigação física e busca de regularidades",
+   "microconteudo": "RAIO-X DA PROVA: Interprete a situação e justifique a conclusão com a relação física pertinente. Variar um fator por vez, repetir as medidas e comparar os resultados permite testar se a regularidade observada sustenta a hipótese nas condições estudadas.\n\nPOR QUE IMPORTA:\nUma turma quer descobrir se uma rampa mais inclinada muda o tempo que um carrinho leva para percorrer a mesma pista. Antes de experimentar, ela precisa decidir o que vai medir, o que manterá igual e como julgar os resultados.\n\nO QUE A BANCA COBRA:\nInterprete a situação e justifique a conclusão com a relação física pertinente. Variar um fator por vez, repetir as medidas e comparar os resultados permite testar se a regularidade observada sustenta a hipótese nas condições estudadas.\n\nENTENDA:\nComece por esta situação: Uma turma quer descobrir se uma rampa mais inclinada muda o tempo que um carrinho leva para percorrer a mesma pista. Antes de experimentar, ela precisa decidir o que vai medir, o que manterá igual e como julgar os resultados. Leia os dados disponíveis e faça uma previsão antes de procurar uma fórmula. Variar um fator por vez, repetir as medidas e comparar os resultados permite testar se a regularidade observada sustenta a hipótese nas condições estudadas. Se a altura inicial for alterada, mas o comprimento da pista e o modo de liberar o carrinho forem mantidos, a comparação fica mais informativa. Alterar também as rodas ou empurrar o carrinho acrescentaria explicações concorrentes.\n\nPlaneje dois desenhos de teste para a rampa. No primeiro, as duas alturas são medidas com a mesma régua e o cronômetro é iniciado quando o carrinho cruza a mesma marca. No segundo, uma pessoa solta o carrinho e outra decide quando ligar o cronômetro, mas a posição da marca muda. O primeiro arranjo delimita melhor o trecho medido. No segundo, se o tempo cair, talvez o carrinho tenha só percorrido uma extensão menor. Uma regularidade de interesse tem de sobreviver a verificações desse tipo.\n\nSuponha que a turma registre quatro tempos na rampa baixa: 2,3 s, 2,4 s, 2,4 s e 2,5 s. Na rampa alta encontra 1,7 s, 1,8 s, 1,7 s e 1,8 s. As faixas observadas ficam separadas. Se os valores tivessem sido 2,2 s a 2,5 s em ambas, concluir sobre o efeito seria mais difícil. Compare tanto a diferença entre os grupos quanto a variação dentro de cada grupo. A primeira descreve o efeito observado. A segunda mostra quanto as medições oscilaram em cada condição.\n\nConfira o significado das palavras da questão. O que é hipótese testável? Uma explicação ou previsão que pode ser comparada com observações.\nO que é variável independente? O fator escolhido para variar ou comparar.\nO que é variável dependente? A grandeza observada como resposta.\nPara que servem variáveis de controle? Para reduzir explicações alternativas na comparação.\nO que a repetição ajuda a estimar? A dispersão das medições sob condições equivalentes.\nPor que testar fora da faixa inicial? Para verificar se a regularidade também vale em outras condições. Se dois termos parecem próximos, compare o que cada um descreve no caso inicial. Em Física, trocar o nome de uma grandeza pode mudar o cálculo ou até o que se está tentando explicar. Escreva, ao lado de cada símbolo, qual parte da situação ele representa e em que unidade seria medido.\n\nExemplo 1. Um grupo compara quanto tempo um corpo desce inclinações diferentes e quer atribuir a diferença apenas à inclinação. Qual procedimento é mais apropriado? A resposta é Manter corpo, extensão e modo de soltura.. Isso controla fatores que poderiam explicar diferenças. O tipo de roda altera o rolamento. A distância percorrida afetaria o tempo. Uma tomada isolada pouco informa sobre dispersão. Selecionar um extremo pode distorcer a comparação.\n\nExemplo 2. Um sensor registra que uma placa aquece mais sob luz forte, mas a temperatura ambiente também foi aumentada. Que mudança melhora o teste? A resposta é Controlar a temperatura ambiente.. Assim é possível comparar a luz com menos influência de outro fator. A troca introduz outra diferença material. Isso reduz a informação sem separar causas. A pergunta depende da evolução térmica. Uma condição só não testa a variação da intensidade.\n\nExemplo 3. Uma amostra percorreu 20 cm, 40 cm e 60 cm em 1 s, 2 s e 3 s a partir da origem. Que regularidade os números sugerem na faixa medida? A resposta é A posição registrada aumenta 20 cm por segundo.. As diferenças são de 20 cm em intervalos de um segundo. Os dados indicam taxa de posição constante, sem essa aceleração. 60 cm é a posição após três segundos. As diferenças sucessivas permanecem iguais. Cada registro é maior que o anterior.\n\nExemplo 4. Duas medições únicas deram 10,0 s e 10,1 s, e o cronômetro tem resolução de 0,1 s. Como avaliar se a diferença é consistente? A resposta é Repetir ensaios e comparar a dispersão.. É necessário saber se a diferença supera a variação típica das medidas. Um resultado isolado não garante ordem estável. Esse arredondamento cria uma diferença artificial. O total não caracteriza a variabilidade. Mais dígitos escritos não melhoram a medição.\n\nTeste de interpretação. Duas pistas serão comparadas com o mesmo carrinho e o mesmo mecanismo de soltura. Considere a afirmação: “Manter o carrinho igual ajuda a isolar o efeito da pista.” Certo. Se o carrinho também mudasse, seu efeito poderia se confundir com o efeito da pista. Um grupo obteve tempos de 2,1 s, 2,0 s e 2,2 s em repetições equivalentes. Considere a afirmação: “A variação prova que todas as medições são inválidas.” Errado. Pequenas diferenças podem revelar dispersão experimental e devem ser interpretadas. Uma turma registrou observações que contrariam sua previsão. Considere a afirmação: “Esses resultados podem motivar a revisão da hipótese.” Certo. A previsão precisa responder à evidência obtida. Um aluno encontrou uma tendência em três alturas próximas. Considere a afirmação: “A tendência vale necessariamente para qualquer altura e qualquer carrinho.” Errado. As medições sustentam conclusões condicionadas à faixa e à montagem.\n\nUma sequência de resolução é útil quando a questão traz mais dados que o necessário. Primeiro, formular uma previsão observável. Depois, escolher o que variar e o que manter constante. Em seguida, coletar medidas repetidas. Por último, comparar resultados e registrar limites. Explique oralmente por que cada passo vem nessa posição. Se a última conclusão mudar quando você troca um detalhe do enunciado, localize qual hipótese provocou essa mudança. Isso ajuda a distinguir o resultado de uma conta das condições em que ele vale.\n\nEm uma prova, procure separar o que o texto observou, o que o modelo assume e o que você concluiu. Um valor informado é um dado. Uma condição como desprezar o atrito ou tratar o intervalo como uniforme pode ser uma hipótese. Já o resultado é aquilo que você obtém ao combinar os dados com a regra escolhida. Se houver tabela ou figura, confira a legenda, os eixos e as unidades antes de usar os números. Para revisar, refaça um dos exemplos mudando um dado por vez e preveja o sentido da mudança antes de calcular.\n\nCheck de leitura. Escolha dois exemplos desta lição e compare o papel de cada informação. O que foi medido diretamente? Qual relação precisou ser usada para inferir uma resposta? Há alguma observação que, sozinha, seria insuficiente? Se a resposta for um número, faça uma estimativa simples para checar se ele é plausível. Se for uma explicação, procure indicar qual condição a torna válida. Depois, tente escrever uma resposta que inclua o dado utilizado, o raciocínio e a conclusão em uma ou duas frases.\n\nAo montar um rascunho, deixe os dados de um lado e a conclusão do outro. Comece pelo dado que tem relação direta com a pergunta. Caso sobrem informações, veja se elas servem para comparar hipóteses ou apenas situar a história. Em uma comparação, mantenha a mesma referência e o mesmo intervalo sempre que o enunciado permitir. Quando um resultado contradiz a previsão inicial, revise primeiro a interpretação do que foi pedido; em seguida, revise a operação e as condições assumidas.\n\nTROCANDO EM MIÚDOS:\nImagine a situação do começo da lição. Uma turma quer descobrir se uma rampa mais inclinada muda o tempo que um carrinho leva para percorrer a mesma pista. Antes de experimentar, ela precisa decidir o que vai medir, o que manterá igual e como julgar os resultados. Se a altura inicial for alterada, mas o comprimento da pista e o modo de liberar o carrinho forem mantidos, a comparação fica mais informativa. Alterar também as rodas ou empurrar o carrinho acrescentaria explicações concorrentes.\n\nA regra principal pode ser escrita assim: Variar um fator por vez, repetir as medidas e comparar os resultados permite testar se a regularidade observada sustenta a hipótese nas condições estudadas. Tente explicar essa regra em voz alta para alguém que ainda não viu o conteúdo, usando o exemplo inicial como apoio.\n\nAntes de marcar uma alternativa, faça esta checagem. O que é hipótese testável? Uma explicação ou previsão que pode ser comparada com observações. O que é variável independente? O fator escolhido para variar ou comparar. O que é variável dependente? A grandeza observada como resposta. Para que servem variáveis de controle? Para reduzir explicações alternativas na comparação. O que a repetição ajuda a estimar? A dispersão das medições sob condições equivalentes. Por que testar fora da faixa inicial? Para verificar se a regularidade também vale em outras condições.\n\nEm um rascunho curto, anote quatro passos. Formular uma previsão observável. Escolher o que variar e o que manter constante. Coletar medidas repetidas. Comparar resultados e registrar limites. Em seguida, tente aplicar os passos a um exemplo com números ou condições diferentes. As grandezas que foram medidas e o que você quer descobrir devem ficar em linhas separadas. Isso ajuda a identificar qual informação ainda falta.\n\nExperimente responder a esta situação sem olhar as opções. Um grupo compara quanto tempo um corpo desce inclinações diferentes e quer atribuir a diferença apenas à inclinação. Qual procedimento é mais apropriado? Isso controla fatores que poderiam explicar diferenças. Depois, confira nos exemplos quais seriam as consequências de escolher uma interpretação diferente. Se tiver que refazer, comece pelas condições do problema e pelo significado de cada dado.\n\nPara fixar, releia uma afirmação verdadeira e uma falsa da lição. Reescreva a falsa trocando só o trecho necessário para corrigi-la. Na afirmação verdadeira, diga qual detalhe do enunciado permite chegar a essa conclusão. Assim você pratica explicar um resultado, além de reconhecer qual opção está certa.\n\nLEI SECA:\nVariar um fator por vez, repetir as medidas e comparar os resultados permite testar se a regularidade observada sustenta a hipótese nas condições estudadas.\n\nSÚMULAS E TESES:\nSe a altura inicial for alterada, mas o comprimento da pista e o modo de liberar o carrinho forem mantidos, a comparação fica mais informativa. Alterar também as rodas ou empurrar o carrinho acrescentaria explicações concorrentes.\n\nESQUEMA:\nFormular uma previsão observável → Escolher o que variar e o que manter constante → Coletar medidas repetidas → Comparar resultados e registrar limites\n\nPEGADINHAS:\n1. Certo. Se o carrinho também mudasse, seu efeito poderia se confundir com o efeito da pista.\n2. Errado. Pequenas diferenças podem revelar dispersão experimental e devem ser interpretadas.\n3. Certo. A previsão precisa responder à evidência obtida.\n4. Errado. As medições sustentam conclusões condicionadas à faixa e à montagem.\n\nDOUTRINA:\nOpenStax — College Physics 2e, Models, Theories, and Laws\n\nNA PRÁTICA:\nExemplo 1. Um grupo compara quanto tempo um corpo desce inclinações diferentes e quer atribuir a diferença apenas à inclinação. Qual procedimento é mais apropriado? A resposta é Manter corpo, extensão e modo de soltura.. Isso controla fatores que poderiam explicar diferenças. O tipo de roda altera o rolamento. A distância percorrida afetaria o tempo. Uma tomada isolada pouco informa sobre dispersão. Selecionar um extremo pode distorcer a comparação.",
+   "flashcards": [
+    {
+     "frente": "O que é hipótese testável?",
+     "verso": "Uma explicação ou previsão que pode ser comparada com observações.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Metodologia de investigação: a procura de regularidades e de sinais na interpretação física do mundo"
+    },
+    {
+     "frente": "O que é variável independente?",
+     "verso": "O fator escolhido para variar ou comparar.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Metodologia de investigação: a procura de regularidades e de sinais na interpretação física do mundo"
+    },
+    {
+     "frente": "O que é variável dependente?",
+     "verso": "A grandeza observada como resposta.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Metodologia de investigação: a procura de regularidades e de sinais na interpretação física do mundo"
+    },
+    {
+     "frente": "Para que servem variáveis de controle?",
+     "verso": "Para reduzir explicações alternativas na comparação.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Metodologia de investigação: a procura de regularidades e de sinais na interpretação física do mundo"
+    },
+    {
+     "frente": "O que a repetição ajuda a estimar?",
+     "verso": "A dispersão das medições sob condições equivalentes.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Metodologia de investigação: a procura de regularidades e de sinais na interpretação física do mundo"
+    },
+    {
+     "frente": "Por que testar fora da faixa inicial?",
+     "verso": "Para verificar se a regularidade também vale em outras condições.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Metodologia de investigação: a procura de regularidades e de sinais na interpretação física do mundo"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-investigacao-regularidades-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Duas pistas serão comparadas com o mesmo carrinho e o mesmo mecanismo de soltura.",
+     "enunciado": "Manter o carrinho igual ajuda a isolar o efeito da pista.",
+     "gabarito": "C",
+     "comentario": "Certo. Se o carrinho também mudasse, seu efeito poderia se confundir com o efeito da pista.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Metodologia de investigação: a procura de regularidades e de sinais na interpretação física do mundo"
+    },
+    {
+     "id": "enem-fisica-investigacao-regularidades-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Um grupo obteve tempos de 2,1 s, 2,0 s e 2,2 s em repetições equivalentes.",
+     "enunciado": "A variação prova que todas as medições são inválidas.",
+     "gabarito": "E",
+     "comentario": "Errado. Pequenas diferenças podem revelar dispersão experimental e devem ser interpretadas.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Metodologia de investigação: a procura de regularidades e de sinais na interpretação física do mundo"
+    },
+    {
+     "id": "enem-fisica-investigacao-regularidades-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Uma turma registrou observações que contrariam sua previsão.",
+     "enunciado": "Esses resultados podem motivar a revisão da hipótese.",
+     "gabarito": "C",
+     "comentario": "Certo. A previsão precisa responder à evidência obtida.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Metodologia de investigação: a procura de regularidades e de sinais na interpretação física do mundo"
+    },
+    {
+     "id": "enem-fisica-investigacao-regularidades-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Um aluno encontrou uma tendência em três alturas próximas.",
+     "enunciado": "A tendência vale necessariamente para qualquer altura e qualquer carrinho.",
+     "gabarito": "E",
+     "comentario": "Errado. As medições sustentam conclusões condicionadas à faixa e à montagem.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Metodologia de investigação: a procura de regularidades e de sinais na interpretação física do mundo"
+    },
+    {
+     "id": "enem-fisica-investigacao-regularidades-c14-q05",
+     "tipo": "me",
+     "texto_base": "Um grupo compara quanto tempo um corpo desce inclinações diferentes e quer atribuir a diferença apenas à inclinação.",
+     "enunciado": "Qual procedimento é mais apropriado?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "Usar rodas diferentes em cada teste.",
+      "B": "Manter corpo, extensão e modo de soltura.",
+      "C": "Aumentar também a extensão da pista.",
+      "D": "Cronometrar só uma descida.",
+      "E": "Registrar apenas o menor tempo."
+     },
+     "comentarios_por_alternativa": {
+      "A": "O tipo de roda altera o rolamento.",
+      "B": "Correta. Isso controla fatores que poderiam explicar diferenças.",
+      "C": "A distância percorrida afetaria o tempo.",
+      "D": "Uma tomada isolada pouco informa sobre dispersão.",
+      "E": "Selecionar um extremo pode distorcer a comparação."
+     },
+     "comentario": "A) O tipo de roda altera o rolamento.\nB) Correta. Isso controla fatores que poderiam explicar diferenças.\nC) A distância percorrida afetaria o tempo.\nD) Uma tomada isolada pouco informa sobre dispersão.\nE) Selecionar um extremo pode distorcer a comparação.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Metodologia de investigação: a procura de regularidades e de sinais na interpretação física do mundo"
+    },
+    {
+     "id": "enem-fisica-investigacao-regularidades-c14-q06",
+     "tipo": "me",
+     "texto_base": "Um sensor registra que uma placa aquece mais sob luz forte, mas a temperatura ambiente também foi aumentada.",
+     "enunciado": "Que mudança melhora o teste?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "Trocar a placa em cada ensaio.",
+      "B": "Excluir a medição inicial.",
+      "C": "Medir apenas a cor da placa.",
+      "D": "Controlar a temperatura ambiente.",
+      "E": "Usar um único nível de luz."
+     },
+     "comentarios_por_alternativa": {
+      "A": "A troca introduz outra diferença material.",
+      "B": "Isso reduz a informação sem separar causas.",
+      "C": "A pergunta depende da evolução térmica.",
+      "D": "Correta. Assim é possível comparar a luz com menos influência de outro fator.",
+      "E": "Uma condição só não testa a variação da intensidade."
+     },
+     "comentario": "A) A troca introduz outra diferença material.\nB) Isso reduz a informação sem separar causas.\nC) A pergunta depende da evolução térmica.\nD) Correta. Assim é possível comparar a luz com menos influência de outro fator.\nE) Uma condição só não testa a variação da intensidade.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Metodologia de investigação: a procura de regularidades e de sinais na interpretação física do mundo"
+    },
+    {
+     "id": "enem-fisica-investigacao-regularidades-c14-q07",
+     "tipo": "me",
+     "texto_base": "Uma amostra percorreu 20 cm, 40 cm e 60 cm em 1 s, 2 s e 3 s a partir da origem.",
+     "enunciado": "Que regularidade os números sugerem na faixa medida?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "A posição registrada aumenta 20 cm por segundo.",
+      "B": "A aceleração é 20 cm/s².",
+      "C": "O corpo percorre 60 cm a cada segundo.",
+      "D": "A velocidade diminui com o tempo.",
+      "E": "A posição não varia."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. As diferenças são de 20 cm em intervalos de um segundo.",
+      "B": "Os dados indicam taxa de posição constante, sem essa aceleração.",
+      "C": "60 cm é a posição após três segundos.",
+      "D": "As diferenças sucessivas permanecem iguais.",
+      "E": "Cada registro é maior que o anterior."
+     },
+     "comentario": "A) Correta. As diferenças são de 20 cm em intervalos de um segundo.\nB) Os dados indicam taxa de posição constante, sem essa aceleração.\nC) 60 cm é a posição após três segundos.\nD) As diferenças sucessivas permanecem iguais.\nE) Cada registro é maior que o anterior.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Metodologia de investigação: a procura de regularidades e de sinais na interpretação física do mundo"
+    },
+    {
+     "id": "enem-fisica-investigacao-regularidades-c14-q08",
+     "tipo": "me",
+     "texto_base": "Duas medições únicas deram 10,0 s e 10,1 s, e o cronômetro tem resolução de 0,1 s.",
+     "enunciado": "Como avaliar se a diferença é consistente?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Declarar que o segundo método é sempre mais lento.",
+      "B": "Arredondar o segundo resultado para 11 s.",
+      "C": "Somar os dois registros.",
+      "D": "Aumentar artificialmente as casas decimais.",
+      "E": "Repetir ensaios e comparar a dispersão."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Um resultado isolado não garante ordem estável.",
+      "B": "Esse arredondamento cria uma diferença artificial.",
+      "C": "O total não caracteriza a variabilidade.",
+      "D": "Mais dígitos escritos não melhoram a medição.",
+      "E": "Correta. É necessário saber se a diferença supera a variação típica das medidas."
+     },
+     "comentario": "A) Um resultado isolado não garante ordem estável.\nB) Esse arredondamento cria uma diferença artificial.\nC) O total não caracteriza a variabilidade.\nD) Mais dígitos escritos não melhoram a medição.\nE) Correta. É necessário saber se a diferença supera a variação típica das medidas.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Metodologia de investigação: a procura de regularidades e de sinais na interpretação física do mundo"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O que é hipótese testável? Resposta: ___.",
+     "opcoes": [
+      "Uma explicação ou previsão que pode ser comparada com observações.",
+      "O fator escolhido para variar ou comparar.",
+      "A grandeza observada como resposta.",
+      "Para reduzir explicações alternativas na comparação."
+     ],
+     "respostas": [
+      "Uma explicação ou previsão que pode ser comparada com observações."
+     ],
+     "explicacao": "Uma explicação ou previsão que pode ser comparada com observações."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "O que a repetição ajuda a estimar? Resposta: ___.",
+     "opcoes": [
+      "A grandeza observada como resposta.",
+      "Para reduzir explicações alternativas na comparação.",
+      "A dispersão das medições sob condições equivalentes.",
+      "Para verificar se a regularidade também vale em outras condições."
+     ],
+     "respostas": [
+      "A dispersão das medições sob condições equivalentes."
+     ],
+     "explicacao": "A dispersão das medições sob condições equivalentes."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma situação sobre investigação física e busca de regularidades.",
+     "itens": [
+      "Formular uma previsão observável.",
+      "Escolher o que variar e o que manter constante.",
+      "Coletar medidas repetidas.",
+      "Comparar resultados e registrar limites."
+     ],
+     "explicacao": "Variar um fator por vez, repetir as medidas e comparar os resultados permite testar se a regularidade observada sustenta a hipótese nas condições estudadas."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O que é hipótese testável?",
+       "Uma explicação ou previsão que pode ser comparada com observações."
+      ],
+      [
+       "O que é variável independente?",
+       "O fator escolhido para variar ou comparar."
+      ],
+      [
+       "O que é variável dependente?",
+       "A grandeza observada como resposta."
+      ],
+      [
+       "Para que servem variáveis de controle?",
+       "Para reduzir explicações alternativas na comparação."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

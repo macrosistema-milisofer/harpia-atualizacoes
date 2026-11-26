@@ -1,0 +1,221 @@
+{
+ "assunto": "Circunstâncias, reincidência e espécies de modificadoras",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tjsc-penal-circunstancias-e-reincidencia",
+   "titulo": "Circunstâncias, reincidência e espécies de modificadoras",
+   "microconteudo": "RAIO-X DA PROVA: Identifique a fase da dosimetria, o fundamento concreto e eventual dupla valoração.\n\nO QUE A BANCA COBRA:\nIdentifique a fase da dosimetria, o fundamento concreto e eventual dupla valoração.\n\nENTENDA:\n1. Circunstâncias judiciais. O art. 59 orienta a pena-base por culpabilidade, antecedentes, conduta social, personalidade, motivos, circunstâncias, consequências e comportamento da vítima. Valoração negativa exige dado concreto que exceda o inerente ao tipo.\n\n2. Agravantes e atenuantes. Incidem na segunda fase. O art. 61 ressalva circunstância que já constitua ou qualifique o crime. O art. 66 permite atenuante por circunstância relevante anterior ou posterior, embora não expressa em lei.\n\n3. Reincidência. Em regra exige novo crime após trânsito em julgado da condenação por crime anterior, nacional ou estrangeira. Conforme art. 64, verifica-se período depurador de cinco anos a partir do cumprimento ou extinção, com as regras sobre períodos de prova. Crimes militares próprios e políticos não se consideram para esse fim.\n\n4. Concurso de pessoas. As agravantes do art. 62 individualizam, entre outras situações, promoção ou direção da cooperação e instigação ou determinação em condições previstas em lei. A circunstância pessoal de um agente exige exame separado.\n\n5. Qualificadora. Altera a moldura abstrata do tipo e funciona antes da fixação da pena-base. Uma pena abstrata mais elevada deve ser diferenciada de uma fração aplicada na terceira fase.\n\n6. Majorantes e minorantes. São causas de aumento ou diminuição aplicadas na terceira fase. O art. 68, parágrafo único, disciplina o concurso de causas previstas na parte especial e permite ao juiz limitar-se a um só aumento ou diminuição, prevalecendo a que mais aumente ou diminua.\n\nTROCANDO EM MIÚDOS:\nA mesma condenação anterior foi usada para maus antecedentes e reincidência. A Súmula 241/STJ impede reutilizar a mesma reincidência.\n\nHá apenas ação penal em andamento. A Súmula 444/STJ afasta processos em curso para esse fim.\n\nO tipo prevê pena abstrata própria para uma modalidade mais grave. Trata-se de qualificadora, conforme a estrutura da lei.\n\nDOUTRINA:\nQualificadoras alteram a cominação abstrata. Circunstâncias legais e causas modificadoras incidem em momentos distintos da pena concreta.\n\nPEGADINHAS:\n• O trânsito anterior deve preceder o novo crime.\n• Majorantes e minorantes incidem na terceira etapa.\n\nESQUEMA:\nEscolha a moldura → distribua vetores, agravantes e causas → teste reincidência e dupla valoração.\n\nLIGAÇÕES:\nCP, arts. 59, 61–68; Súmulas 231, 241 e 444/STJ.",
+   "flashcards": [
+    {
+     "frente": "Como reconhecer circunstâncias judiciais em um caso?",
+     "verso": "O art. 59 orienta a pena-base por culpabilidade, antecedentes, conduta social, personalidade, motivos, circunstâncias, consequências e comportamento da vítima. Valoração negativa exige dado concreto que exceda o inerente ao tipo.",
+     "dispositivo": "CP, arts. 59, 61–68; Súmulas 231, 241 e 444/STJ"
+    },
+    {
+     "frente": "Como reconhecer agravantes e atenuantes em um caso?",
+     "verso": "Incidem na segunda fase. O art. 61 ressalva circunstância que já constitua ou qualifique o crime. O art. 66 permite atenuante por circunstância relevante anterior ou posterior, embora não expressa em lei.",
+     "dispositivo": "CP, arts. 59, 61–68; Súmulas 231, 241 e 444/STJ"
+    },
+    {
+     "frente": "Como reconhecer reincidência em um caso?",
+     "verso": "Em regra exige novo crime após trânsito em julgado da condenação por crime anterior, nacional ou estrangeira. Conforme art. 64, verifica-se período depurador de cinco anos a partir do cumprimento ou extinção, com as regras sobre períodos de prova. Crimes militares próprios e políticos não se consideram para esse fim.",
+     "dispositivo": "CP, arts. 59, 61–68; Súmulas 231, 241 e 444/STJ"
+    },
+    {
+     "frente": "Como reconhecer concurso de pessoas em um caso?",
+     "verso": "As agravantes do art. 62 individualizam, entre outras situações, promoção ou direção da cooperação e instigação ou determinação em condições previstas em lei. A circunstância pessoal de um agente exige exame separado.",
+     "dispositivo": "CP, arts. 59, 61–68; Súmulas 231, 241 e 444/STJ"
+    },
+    {
+     "frente": "Como reconhecer qualificadora em um caso?",
+     "verso": "Altera a moldura abstrata do tipo e funciona antes da fixação da pena-base. Uma pena abstrata mais elevada deve ser diferenciada de uma fração aplicada na terceira fase.",
+     "dispositivo": "CP, arts. 59, 61–68; Súmulas 231, 241 e 444/STJ"
+    },
+    {
+     "frente": "Como reconhecer majorantes e minorantes em um caso?",
+     "verso": "São causas de aumento ou diminuição aplicadas na terceira fase. O art. 68, parágrafo único, disciplina o concurso de causas previstas na parte especial e permite ao juiz limitar-se a um só aumento ou diminuição, prevalecendo a que mais aumente ou diminua.",
+     "dispositivo": "CP, arts. 59, 61–68; Súmulas 231, 241 e 444/STJ"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A mesma condenação anterior foi usada para maus antecedentes e reincidência. Há dupla valoração vedada.",
+     "gabarito": "C",
+     "comentario": "A Súmula 241/STJ impede reutilizar a mesma reincidência.",
+     "dispositivo": "CP, arts. 59, 61–68; Súmulas 231, 241 e 444/STJ"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Toda condenação transitada depois do novo fato configura reincidência nesse fato.",
+     "gabarito": "E",
+     "comentario": "O trânsito anterior deve preceder o novo crime.",
+     "dispositivo": "CP, arts. 59, 61–68; Súmulas 231, 241 e 444/STJ"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Há apenas ação penal em andamento. Ela não agrava a pena-base.",
+     "gabarito": "C",
+     "comentario": "A Súmula 444/STJ afasta processos em curso para esse fim.",
+     "dispositivo": "CP, arts. 59, 61–68; Súmulas 231, 241 e 444/STJ"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Causas de aumento são apreciadas na segunda fase.",
+     "gabarito": "E",
+     "comentario": "Majorantes e minorantes incidem na terceira etapa.",
+     "dispositivo": "CP, arts. 59, 61–68; Súmulas 231, 241 e 444/STJ"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Onde se examina a consequência extraordinária do crime como vetor judicial?",
+     "alternativas": {
+      "A": "Na pena-base.",
+      "B": "Somente na execução.",
+      "C": "Na segunda fase obrigatoriamente.",
+      "D": "Na escolha do tipo sempre."
+     },
+     "gabarito": "A",
+     "comentario": "A (correta). É hipótese do art. 59. B (incorreta). É vetor de fixação judicial. C (incorreta). A segunda trata de agravantes e atenuantes. D (incorreta). Consequência só é elementar quando prevista no tipo.",
+     "comentarios_por_alternativa": {
+      "A": "É hipótese do art. 59.",
+      "B": "É vetor de fixação judicial.",
+      "C": "A segunda trata de agravantes e atenuantes.",
+      "D": "Consequência só é elementar quando prevista no tipo."
+     },
+     "dispositivo": "CP, arts. 59, 61–68; Súmulas 231, 241 e 444/STJ"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Qual marco inicial interessa ao período depurador?",
+     "alternativas": {
+      "A": "A data da denúncia sempre.",
+      "B": "Cumprimento ou extinção da pena, observadas as regras legais.",
+      "C": "A publicação de inquérito.",
+      "D": "Apenas a data do fato anterior."
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). Não é o marco legal. B (correta). Art. 64, I. C (incorreta). Não forma reincidência. D (incorreta). O período não se conta desse evento.",
+     "comentarios_por_alternativa": {
+      "A": "Não é o marco legal.",
+      "B": "Art. 64, I.",
+      "C": "Não forma reincidência.",
+      "D": "O período não se conta desse evento."
+     },
+     "dispositivo": "CP, arts. 59, 61–68; Súmulas 231, 241 e 444/STJ"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "A pena-base ficou no mínimo. Como o STJ enuncia a regra da atenuante comum?",
+     "alternativas": {
+      "A": "A atenuante vira causa de diminuição.",
+      "B": "A pena deve cair pela metade.",
+      "C": "A atenuante não pode reduzir abaixo do mínimo legal.",
+      "D": "O mínimo vira facultativo."
+     },
+     "gabarito": "C",
+     "comentario": "A (incorreta). Os institutos são diversos. B (incorreta). Não é consequência sumulada. C (correta). Súmula 231/STJ. D (incorreta). A orientação preserva o mínimo na segunda fase.",
+     "comentarios_por_alternativa": {
+      "A": "Os institutos são diversos.",
+      "B": "Não é consequência sumulada.",
+      "C": "Súmula 231/STJ.",
+      "D": "A orientação preserva o mínimo na segunda fase."
+     },
+     "dispositivo": "CP, arts. 59, 61–68; Súmulas 231, 241 e 444/STJ"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Uma condição aumenta a pena em fração legal. Qual categoria examinar?",
+     "alternativas": {
+      "A": "Agravante genérica necessariamente.",
+      "B": "Antecedente.",
+      "C": "Qualificadora necessariamente.",
+      "D": "Majorante."
+     },
+     "gabarito": "D",
+     "comentario": "A (incorreta). A agravante tem lugar próprio. B (incorreta). O enunciado descreve fração legal. C (incorreta). Qualificadora define outra moldura abstrata. D (correta). A fração incide na terceira fase.",
+     "comentarios_por_alternativa": {
+      "A": "A agravante tem lugar próprio.",
+      "B": "O enunciado descreve fração legal.",
+      "C": "Qualificadora define outra moldura abstrata.",
+      "D": "A fração incide na terceira fase."
+     },
+     "dispositivo": "CP, arts. 59, 61–68; Súmulas 231, 241 e 444/STJ"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Resposta: ___. Uma condição aumenta a pena em fração legal. Qual categoria examinar?",
+     "opcoes": [
+      "Majorante.",
+      "Agravante genérica necessariamente.",
+      "Antecedente.",
+      "Qualificadora necessariamente."
+     ],
+     "respostas": [
+      "Majorante."
+     ],
+     "explicacao": "A fração incide na terceira fase.",
+     "dispositivo": "CP, arts. 59, 61–68; Súmulas 231, 241 e 444/STJ"
+    },
+    {
+     "tipo": "associacao",
+     "pares": [
+      {
+       "esquerda": "Circunstâncias judiciais",
+       "direita": "O art. 59 orienta a pena-base por culpabilidade, antecedentes, conduta social, personalidade, motivos, circunstâncias, consequências e comportamento da vítima. Valoração negativa exige dado concreto que exceda o inerente ao tipo."
+      },
+      {
+       "esquerda": "Agravantes e atenuantes",
+       "direita": "Incidem na segunda fase. O art. 61 ressalva circunstância que já constitua ou qualifique o crime. O art. 66 permite atenuante por circunstância relevante anterior ou posterior, embora não expressa em lei."
+      },
+      {
+       "esquerda": "Reincidência",
+       "direita": "Em regra exige novo crime após trânsito em julgado da condenação por crime anterior, nacional ou estrangeira. Conforme art. 64, verifica-se período depurador de cinco anos a partir do cumprimento ou extinção, com as regras sobre períodos de prova. Crimes militares próprios e políticos não se consideram para esse fim."
+      }
+     ],
+     "explicacao": "Associe cada conceito ao seu efeito.",
+     "dispositivo": "CP, arts. 59, 61–68; Súmulas 231, 241 e 444/STJ"
+    },
+    {
+     "tipo": "classificacao",
+     "itens": [
+      {
+       "enunciado": "A mesma condenação anterior foi usada para maus antecedentes e reincidência.",
+       "resposta": "A Súmula 241/STJ impede reutilizar a mesma reincidência."
+      },
+      {
+       "enunciado": "Há apenas ação penal em andamento.",
+       "resposta": "A Súmula 444/STJ afasta processos em curso para esse fim."
+      },
+      {
+       "enunciado": "O tipo prevê pena abstrata própria para uma modalidade mais grave.",
+       "resposta": "Trata-se de qualificadora, conforme a estrutura da lei."
+      }
+     ],
+     "explicacao": "Identifique a categoria aplicável em cada situação.",
+     "dispositivo": "CP, arts. 59, 61–68; Súmulas 231, 241 e 444/STJ"
+    },
+    {
+     "tipo": "caso_pratico",
+     "enunciado": "O tipo prevê pena abstrata própria para uma modalidade mais grave. Como resolver?",
+     "resposta": "Trata-se de qualificadora, conforme a estrutura da lei.",
+     "explicacao": "Trata-se de qualificadora, conforme a estrutura da lei.",
+     "dispositivo": "CP, arts. 59, 61–68; Súmulas 231, 241 e 444/STJ"
+    }
+   ]
+  }
+ ]
+}

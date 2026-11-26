@@ -1,0 +1,253 @@
+{
+ "assunto": "Teoria cinética dos gases",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-teoria-cinetica-gases-c14",
+   "titulo": "Teoria cinética dos gases",
+   "microconteudo": "RAIO-X DA PROVA: Assunto do edital de Ciências da Natureza. A interpretação de dados ajuda a resolver situações-problema sobre esse conteúdo.\n\nPOR QUE IMPORTA:\nTeoria cinética dos gases ajuda a traduzir observações e símbolos em explicações que você pode conferir. Nesta lição, você vai praticar a leitura de dados e justificar o resultado.\n\nO QUE A BANCA COBRA:\nIdentifique o que o problema descreve e escolha a conclusão explicada pelos dados. Revise a unidade, a entidade representada e as condições de aplicação quando elas fizerem parte do problema.\n\nENTENDA:\nO modelo de gás ideal descreve partículas em movimento desordenado, muito afastadas em comparação com o próprio tamanho. Entre colisões, o modelo despreza forças de atração e repulsão. Colisões elásticas conservam energia cinética total dos participantes. A pressão resulta da transferência de quantidade de movimento às paredes, e a temperatura absoluta indica a energia cinética média de translação.\n\nHe e Ar à mesma temperatura têm a mesma energia cinética média de translação por partícula no modelo ideal. Como a energia cinética envolve massa e o quadrado da velocidade, partículas de He, mais leves, têm maior velocidade quadrática média. As velocidades individuais variam mesmo dentro de cada amostra.\n\nAs velocidades de um gás têm uma distribuição. Para uma amostra aquecida, moléculas individuais ainda podem mover-se devagar; o que muda é a energia média do conjunto. Se a temperatura passa de 300 K a 600 K, a velocidade quadrática média cresce por um fator de raiz de dois para a mesma espécie, porque a energia de translação depende do quadrado da velocidade.\n\nPrimeiro caso: ligue os dados à regra\nUm cilindro rígido aquece de 300 K a 600 K. Como varia a energia cinética média de translação?\n\nComece lendo o enunciado como um pequeno relatório. Anote em uma linha o material ou sistema descrito e, em outra, o que se quer descobrir. Essa divisão evita misturar um dado já fornecido com o resultado pedido. Escolha a regra depois de localizar o que, no texto, autoriza sua aplicação. Ao terminar, teste se a resposta ainda faz sentido ao substituir os valores ou reler a observação.\n\nResultado: Dobra. A média é proporcional a T em kelvin.\n\nCompare as hipóteses e os cálculos alternativos:\n• Quadruplica. Não há dependência quadrática com T.\n• Não muda. A temperatura mudou.\n• Cai pela metade. A dependência é direta.\n• Fica igual para toda molécula individual. A relação descreve uma média.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nSegundo caso: cuide da condição que permite a conclusão\nHe e Ne têm mesma temperatura num experimento. Qual inferência sobre as velocidades é esperada?\n\nCompare as interpretações antes de escolher. Duas respostas podem usar os mesmos termos ou números e ainda se referir a grandezas diferentes. Se houver unidades, escreva a unidade junto a cada valor. Se houver contagens, diga o que está sendo contado. Se a questão for explicativa, procure a relação de causa e efeito que é compatível com as condições fornecidas. Só então feche a resposta.\n\nResultado: He tem maior velocidade quadrática média. Para a mesma energia média, menor massa implica maior velocidade quadrática média.\n\nCompare as hipóteses e os cálculos alternativos:\n• Ne tem maior velocidade quadrática média. Sua massa maior reduz essa velocidade à mesma T.\n• Todas as partículas estão paradas. Há agitação térmica.\n• Todos os átomos se movem na mesma direção. O movimento térmico é desordenado.\n• As velocidades coincidem sempre. A igualdade de T não exige igualdade de velocidades.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nTerceiro caso: confira o que a pergunta está medindo\nUm gás se expande para um volume maior e volta à temperatura inicial. Qual interpretação explica a queda de pressão?\n\nFaça uma primeira previsão usando palavras. Pergunte se o resultado esperado é uma contagem, uma propriedade, uma comparação ou um mecanismo. Escrever a previsão antes de olhar as alternativas ajuda a perceber quando dois valores semelhantes têm sentidos diferentes. Em seguida, explique em uma frase como o primeiro dado se conecta ao resultado. A resposta fica mais forte quando essa ligação pode ser checada no próprio enunciado.\n\nResultado: Com menor densidade de partículas, chegam menos choques à parede por área e tempo. A amostra se distribui num espaço maior.\n\nCompare as hipóteses e os cálculos alternativos:\n• As partículas perdem toda a energia de translação. A temperatura final é a mesma.\n• Nasce mais matéria dentro do gás. O número de partículas pode permanecer fixo.\n• A força do gás vira atração líquida da parede. A pressão resulta de impactos.\n• As partículas encolhem ao expandir. A expansão altera a distribuição espacial.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nQuarto caso: escolha a conclusão sustentada\nUma simulação compara gás diluído com gás comprimido perto da condensação. Onde é mais provável o desvio do modelo ideal?\n\nTente justificar a escolha para alguém que observou apenas o resultado final. Comece pelos fatos que o problema realmente fornece e mostre como a regra interpreta esses fatos. Se a conclusão depender de uma condição, mantenha essa condição na justificativa. Depois procure uma alteração pequena nos dados que exigiria outra resposta. Esse último passo ajuda a reconhecer onde termina a aplicação do raciocínio.\n\nResultado: Perto da condensação. A proximidade entre partículas e as interações ganham importância.\n\nCompare as hipóteses e os cálculos alternativos:\n• Sempre no gás mais diluído. O afastamento favorece a idealização.\n• Só quando o recipiente é cúbico. A geometria não é esse critério.\n• Só quando não há colisões elásticas com a parede. Interações intermoleculares e volume próprio também pesam.\n• Em nenhum caso. O modelo tem limites.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nLeitura crítica 1\nDois gases ideais estão em equilíbrio térmico. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “Têm igual energia cinética média de translação por partícula.” Essa média é proporcional à temperatura absoluta. A segunda é “Suas partículas têm todas velocidade igual.” Massas e distribuições de velocidades podem ser diferentes.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nLeitura crítica 2\nUma seringa vedada é comprimida lentamente em temperatura constante. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “O aumento da frequência de choques ajuda a explicar a pressão maior.” As partículas estão mais concentradas no volume menor. A segunda é “Os átomos da amostra crescem e pressionam a parede.” O processo reduz o espaço disponível e não aumenta os átomos.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nTROCANDO EM MIÚDOS:\nComece por uma pergunta que você conseguiria fazer a um colega: o que mudou, o que ficou igual e qual informação me permite dizer isso? Em questões de Química, dá para errar mesmo lembrando a regra certa quando se usa a regra para o dado errado. Separe a situação da pergunta. Leia os símbolos em voz baixa. Se houver dois materiais ou dois momentos, dê um nome curto para cada um. Assim você consegue comparar as coisas na ordem que o texto pediu.\n\nHe e Ar à mesma temperatura têm a mesma energia cinética média de translação por partícula no modelo ideal. Como a energia cinética envolve massa e o quadrado da velocidade, partículas de He, mais leves, têm maior velocidade quadrática média. As velocidades individuais variam mesmo dentro de cada amostra.\n\nExperimente com este caso. Um cilindro rígido aquece de 300 K a 600 K. Como varia a energia cinética média de translação? A resposta é Dobra. A média é proporcional a T em kelvin. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nExperimente com este caso. Uma simulação compara gás diluído com gás comprimido perto da condensação. Onde é mais provável o desvio do modelo ideal? A resposta é Perto da condensação. A proximidade entre partículas e as interações ganham importância. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nFaça uma checagem que cabe no rascunho: escreva o dado, desenhe uma seta e escreva o que ele permite concluir. Se precisar de uma segunda seta, diga qual regra leva desse resultado intermediário até a resposta. Uma explicação em duas frases pode ser suficiente. A primeira conta o que o problema mostrou. A segunda diz por que esse dado leva à sua escolha. Esse caminho ajuda em problemas com tabelas, desenhos e comparações.\n\nESQUEMA:\nLeia o cenário → destaque o dado decisivo → aplique a relação → confira o que foi pedido.\n\nPEGADINHAS:\n• Quadruplica. Não há dependência quadrática com T.\n• Ne tem maior velocidade quadrática média. Sua massa maior reduz essa velocidade à mesma T.\n• As partículas perdem toda a energia de translação. A temperatura final é a mesma.\n• Sempre no gás mais diluído. O afastamento favorece a idealização.\n\nNA PRÁTICA:\nHe e Ar à mesma temperatura têm a mesma energia cinética média de translação por partícula no modelo ideal. Como a energia cinética envolve massa e o quadrado da velocidade, partículas de He, mais leves, têm maior velocidade quadrática média. As velocidades individuais variam mesmo dentro de cada amostra.",
+   "flashcards": [
+    {
+     "frente": "Dois gases ideais estão em equilíbrio térmico. Têm igual energia cinética média de translação por partícula. Certo ou errado?",
+     "verso": "Certo. Essa média é proporcional à temperatura absoluta.",
+     "dispositivo": "Transformações químicas — Teoria cinética dos gases"
+    },
+    {
+     "frente": "Uma seringa vedada é comprimida lentamente em temperatura constante. O aumento da frequência de choques ajuda a explicar a pressão maior. Certo ou errado?",
+     "verso": "Certo. As partículas estão mais concentradas no volume menor.",
+     "dispositivo": "Transformações químicas — Teoria cinética dos gases"
+    },
+    {
+     "frente": "Um cilindro rígido aquece de 300 K a 600 K. Como varia a energia cinética média de translação?",
+     "verso": "Dobra. A média é proporcional a T em kelvin.",
+     "dispositivo": "Transformações químicas — Teoria cinética dos gases"
+    },
+    {
+     "frente": "He e Ne têm mesma temperatura num experimento. Qual inferência sobre as velocidades é esperada?",
+     "verso": "He tem maior velocidade quadrática média. Para a mesma energia média, menor massa implica maior velocidade quadrática média.",
+     "dispositivo": "Transformações químicas — Teoria cinética dos gases"
+    },
+    {
+     "frente": "Um gás se expande para um volume maior e volta à temperatura inicial. Qual interpretação explica a queda de pressão?",
+     "verso": "Com menor densidade de partículas, chegam menos choques à parede por área e tempo. A amostra se distribui num espaço maior.",
+     "dispositivo": "Transformações químicas — Teoria cinética dos gases"
+    },
+    {
+     "frente": "Uma simulação compara gás diluído com gás comprimido perto da condensação. Onde é mais provável o desvio do modelo ideal?",
+     "verso": "Perto da condensação. A proximidade entre partículas e as interações ganham importância.",
+     "dispositivo": "Transformações químicas — Teoria cinética dos gases"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Dois gases ideais estão em equilíbrio térmico.",
+     "enunciado": "Têm igual energia cinética média de translação por partícula.",
+     "gabarito": "C",
+     "comentario": "Certo. Essa média é proporcional à temperatura absoluta.",
+     "id": "enem-teoria-cinetica-gases-c14-q01",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas — Teoria cinética dos gases",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Dois gases ideais estão em equilíbrio térmico.",
+     "enunciado": "Suas partículas têm todas velocidade igual.",
+     "gabarito": "E",
+     "comentario": "Errado. Massas e distribuições de velocidades podem ser diferentes.",
+     "id": "enem-teoria-cinetica-gases-c14-q02",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas — Teoria cinética dos gases",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma seringa vedada é comprimida lentamente em temperatura constante.",
+     "enunciado": "O aumento da frequência de choques ajuda a explicar a pressão maior.",
+     "gabarito": "C",
+     "comentario": "Certo. As partículas estão mais concentradas no volume menor.",
+     "id": "enem-teoria-cinetica-gases-c14-q03",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas — Teoria cinética dos gases",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma seringa vedada é comprimida lentamente em temperatura constante.",
+     "enunciado": "Os átomos da amostra crescem e pressionam a parede.",
+     "gabarito": "E",
+     "comentario": "Errado. O processo reduz o espaço disponível e não aumenta os átomos.",
+     "id": "enem-teoria-cinetica-gases-c14-q04",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas — Teoria cinética dos gases",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um cilindro rígido aquece de 300 K a 600 K.",
+     "enunciado": "Como varia a energia cinética média de translação?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "Quadruplica.",
+      "B": "Dobra.",
+      "C": "Não muda.",
+      "D": "Cai pela metade.",
+      "E": "Fica igual para toda molécula individual."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Não há dependência quadrática com T.",
+      "B": "A média é proporcional a T em kelvin.",
+      "C": "A temperatura mudou.",
+      "D": "A dependência é direta.",
+      "E": "A relação descreve uma média."
+     },
+     "comentario": "A) Não há dependência quadrática com T.\nB) A média é proporcional a T em kelvin.\nC) A temperatura mudou.\nD) A dependência é direta.\nE) A relação descreve uma média.",
+     "id": "enem-teoria-cinetica-gases-c14-q05",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas — Teoria cinética dos gases",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "He e Ne têm mesma temperatura num experimento.",
+     "enunciado": "Qual inferência sobre as velocidades é esperada?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "Ne tem maior velocidade quadrática média.",
+      "B": "Todas as partículas estão paradas.",
+      "C": "Todos os átomos se movem na mesma direção.",
+      "D": "He tem maior velocidade quadrática média.",
+      "E": "As velocidades coincidem sempre."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Sua massa maior reduz essa velocidade à mesma T.",
+      "B": "Há agitação térmica.",
+      "C": "O movimento térmico é desordenado.",
+      "D": "Para a mesma energia média, menor massa implica maior velocidade quadrática média.",
+      "E": "A igualdade de T não exige igualdade de velocidades."
+     },
+     "comentario": "A) Sua massa maior reduz essa velocidade à mesma T.\nB) Há agitação térmica.\nC) O movimento térmico é desordenado.\nD) Para a mesma energia média, menor massa implica maior velocidade quadrática média.\nE) A igualdade de T não exige igualdade de velocidades.",
+     "id": "enem-teoria-cinetica-gases-c14-q06",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas — Teoria cinética dos gases",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um gás se expande para um volume maior e volta à temperatura inicial.",
+     "enunciado": "Qual interpretação explica a queda de pressão?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "Com menor densidade de partículas, chegam menos choques à parede por área e tempo.",
+      "B": "As partículas perdem toda a energia de translação.",
+      "C": "Nasce mais matéria dentro do gás.",
+      "D": "A força do gás vira atração líquida da parede.",
+      "E": "As partículas encolhem ao expandir."
+     },
+     "comentarios_por_alternativa": {
+      "A": "A amostra se distribui num espaço maior.",
+      "B": "A temperatura final é a mesma.",
+      "C": "O número de partículas pode permanecer fixo.",
+      "D": "A pressão resulta de impactos.",
+      "E": "A expansão altera a distribuição espacial."
+     },
+     "comentario": "A) A amostra se distribui num espaço maior.\nB) A temperatura final é a mesma.\nC) O número de partículas pode permanecer fixo.\nD) A pressão resulta de impactos.\nE) A expansão altera a distribuição espacial.",
+     "id": "enem-teoria-cinetica-gases-c14-q07",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas — Teoria cinética dos gases",
+     "dificuldade": "dificil"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma simulação compara gás diluído com gás comprimido perto da condensação.",
+     "enunciado": "Onde é mais provável o desvio do modelo ideal?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Sempre no gás mais diluído.",
+      "B": "Só quando o recipiente é cúbico.",
+      "C": "Só quando não há colisões elásticas com a parede.",
+      "D": "Em nenhum caso.",
+      "E": "Perto da condensação."
+     },
+     "comentarios_por_alternativa": {
+      "A": "O afastamento favorece a idealização.",
+      "B": "A geometria não é esse critério.",
+      "C": "Interações intermoleculares e volume próprio também pesam.",
+      "D": "O modelo tem limites.",
+      "E": "A proximidade entre partículas e as interações ganham importância."
+     },
+     "comentario": "A) O afastamento favorece a idealização.\nB) A geometria não é esse critério.\nC) Interações intermoleculares e volume próprio também pesam.\nD) O modelo tem limites.\nE) A proximidade entre partículas e as interações ganham importância.",
+     "id": "enem-teoria-cinetica-gases-c14-q08",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas — Teoria cinética dos gases",
+     "dificuldade": "dificil"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "He e Ne têm mesma temperatura num experimento. Qual inferência sobre as velocidades é esperada? ___",
+     "opcoes": [
+      "Ne tem maior velocidade quadrática média.",
+      "He tem maior velocidade quadrática média.",
+      "Todas as partículas estão paradas.",
+      "Todos os átomos se movem na mesma direção."
+     ],
+     "respostas": [
+      "He tem maior velocidade quadrática média."
+     ],
+     "explicacao": "Para a mesma energia média, menor massa implica maior velocidade quadrática média."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Um gás se expande para um volume maior e volta à temperatura inicial. Qual interpretação explica a queda de pressão? ___",
+     "opcoes": [
+      "As partículas perdem toda a energia de translação.",
+      "Com menor densidade de partículas, chegam menos choques à parede por área e tempo.",
+      "Nasce mais matéria dentro do gás.",
+      "A força do gás vira atração líquida da parede."
+     ],
+     "respostas": [
+      "Com menor densidade de partículas, chegam menos choques à parede por área e tempo."
+     ],
+     "explicacao": "A amostra se distribui num espaço maior."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise do caso: Um cilindro rígido aquece de 300 K a 600 K.",
+     "itens": [
+      "Localizar o que se quer descobrir: Como varia a energia cinética média de translação?",
+      "Separar as informações dadas no enunciado.",
+      "Aplicar a relação adequada aos dados.",
+      "Conferir se a conclusão responde à pergunta."
+     ],
+     "explicacao": "A média é proporcional a T em kelvin."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Um cilindro rígido aquece de 300 K a 600 K. Como varia a energia cinética média de translação?",
+       "Dobra."
+      ],
+      [
+       "He e Ne têm mesma temperatura num experimento. Qual inferência sobre as velocidades é esperada?",
+       "He tem maior velocidade quadrática média."
+      ],
+      [
+       "Um gás se expande para um volume maior e volta à temperatura inicial. Qual interpretação explica a queda de pressão?",
+       "Com menor densidade de partículas, chegam menos choques à parede por área e tempo."
+      ],
+      [
+       "Uma simulação compara gás diluído com gás comprimido perto da condensação. Onde é mais provável o desvio do modelo ideal?",
+       "Perto da condensação."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

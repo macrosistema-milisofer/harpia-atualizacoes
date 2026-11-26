@@ -1,0 +1,253 @@
+{
+ "assunto": "Forças que atuam no movimento circular",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-forcas-movimento-circular-c14",
+   "titulo": "Forças que atuam no movimento circular",
+   "microconteudo": "RAIO-X DA PROVA: Interprete a situação e justifique a conclusão com a relação física pertinente. A resultante radial aponta para o centro da curva. Ela pode resultar de atrito, tração, gravidade, normal ou da combinação de forças.\n\nPOR QUE IMPORTA:\nUm carro faz uma curva em rua plana. A força lateral exercida pelo chão nos pneus pode ser o que muda a direção da velocidade.\n\nO QUE A BANCA COBRA:\nInterprete a situação e justifique a conclusão com a relação física pertinente. A resultante radial aponta para o centro da curva. Ela pode resultar de atrito, tração, gravidade, normal ou da combinação de forças.\n\nENTENDA:\nComece por esta situação: Um carro faz uma curva em rua plana. A força lateral exercida pelo chão nos pneus pode ser o que muda a direção da velocidade. Leia os dados disponíveis e faça uma previsão antes de procurar uma fórmula. A resultante radial aponta para o centro da curva. Ela pode resultar de atrito, tração, gravidade, normal ou da combinação de forças. Uma pedra presa a um fio horizontal recebe tração em direção ao centro. Se o fio se rompe e outras forças horizontais são desprezíveis, a trajetória horizontal inicial segue a tangente.\n\nEm uma pista inclinada, a força normal não é vertical. Sua componente horizontal pode apontar para o centro e contribuir para a curva. Analise a direção de cada força antes de escolher o que entra na soma radial. Em uma roda vertical, peso e normal podem contribuir de maneira diferente no topo e na base.\n\nUma pedra presa a um fio horizontal recebe tração em direção ao centro. Se o fio se rompe e outras forças horizontais são desprezíveis, a trajetória horizontal inicial segue a tangente. Ao interpretar esse exemplo, escreva a condição física que torna possível prever o resultado. Pergunte se ela continuaria valendo caso um dos dados omitidos passasse a ter importância. Diferencie o que você consegue concluir numericamente do que pode apenas prever qualitativamente. A descrição do resultado deve manter explícito qual corpo ou conjunto está sendo observado e em qual intervalo a afirmação é válida.\n\nConfira o significado das palavras da questão. Em que sentido aponta a aceleração radial? Para o centro da trajetória.\nOnde aponta a velocidade instantânea? Na direção tangente à trajetória.\nQue força mantém uma órbita ideal? A gravidade pode fornecer a resultante radial.\nQue força lateral curva um carro em pista plana? O atrito estático lateral entre pneus e piso, no modelo sem derrapagem.\nCentrípeta é uma interação extra? Não. É o nome da componente radial resultante.\nE se a rapidez variar? Também existe componente tangencial de aceleração. Se dois termos parecem próximos, compare o que cada um descreve no caso inicial. Em Física, trocar o nome de uma grandeza pode mudar o cálculo ou até o que se está tentando explicar. Escreva, ao lado de cada símbolo, qual parte da situação ele representa e em que unidade seria medido.\n\nExemplo 1. Um carrinho tem apenas 15 N de força horizontal apontando ao centro da curva. Qual a resultante radial em módulo? A resposta é 15 N. A força dada é a única componente radial. A curva exige aceleração radial. Não existe uma segunda força centrípeta para somar. A força radial não precisa ser dividida por dois. Elevar a força ao quadrado não dá a resultante.\n\nExemplo 2. Uma esfera sofre componentes radiais de 18 N para dentro e 6 N para fora. Qual a resultante radial, tomando para dentro como positivo? A resposta é +12 N. Some +18 e −6. Ignora os sentidos contrários. Inverte o sentido predominante. Usa apenas o módulo da força para fora. As forças não têm módulos iguais.\n\nExemplo 3. Um objeto de 2 kg tem aceleração de 4 m/s² em direção ao centro. Qual a resultante radial? A resposta é 8 N. Use m vezes a aceleração radial. É o número da massa. É o número da aceleração. Soma massa e aceleração. Divide a massa pela aceleração.\n\nExemplo 4. Um móvel segue curva circular com rapidez constante. A resultante radial vale 9 N. Qual é o módulo da componente tangencial da força? A resposta é 0 N. A rapidez é constante, logo não há aceleração tangencial. A componente radial é perpendicular à tangente. Duplica indevidamente a resultante radial. Extrai raiz do valor informado sem relação física. Divide a componente radial por dois.\n\nTeste de interpretação. Carro faz curva plana sem derrapar. Considere a afirmação: “O atrito lateral pode apontar ao centro.” Certo. O chão muda a direção do movimento. Uma pedra gira presa a um fio, com rapidez constante. Considere a afirmação: “A tração radial é nula por causa da rapidez constante.” Errado. A direção da velocidade varia. Um satélite está em órbita circular ideal. Considere a afirmação: “A gravidade aponta para o centro da órbita.” Certo. Ela produz a aceleração radial. Um brinquedo circular se solta da guia. Considere a afirmação: “Inicialmente segue diretamente para fora ao longo do raio.” Errado. A velocidade inicial após soltar é tangente.\n\nUma sequência de resolução é útil quando a questão traz mais dados que o necessário. Primeiro, localizar o centro. Depois, marcar a tangente. Em seguida, identificar as forças reais. Por último, somar suas componentes radiais. Explique oralmente por que cada passo vem nessa posição. Se a última conclusão mudar quando você troca um detalhe do enunciado, localize qual hipótese provocou essa mudança. Isso ajuda a distinguir o resultado de uma conta das condições em que ele vale.\n\nEm uma prova, procure separar o que o texto observou, o que o modelo assume e o que você concluiu. Um valor informado é um dado. Uma condição como desprezar o atrito ou tratar o intervalo como uniforme pode ser uma hipótese. Já o resultado é aquilo que você obtém ao combinar os dados com a regra escolhida. Se houver tabela ou figura, confira a legenda, os eixos e as unidades antes de usar os números. Para revisar, refaça um dos exemplos mudando um dado por vez e preveja o sentido da mudança antes de calcular.\n\nCheck de leitura. Escolha dois exemplos desta lição e compare o papel de cada informação. O que foi medido diretamente? Qual relação precisou ser usada para inferir uma resposta? Há alguma observação que, sozinha, seria insuficiente? Se a resposta for um número, faça uma estimativa simples para checar se ele é plausível. Se for uma explicação, procure indicar qual condição a torna válida. Depois, tente escrever uma resposta que inclua o dado utilizado, o raciocínio e a conclusão em uma ou duas frases.\n\nAo montar um rascunho, deixe os dados de um lado e a conclusão do outro. Comece pelo dado que tem relação direta com a pergunta. Caso sobrem informações, veja se elas servem para comparar hipóteses ou apenas situar a história. Em uma comparação, mantenha a mesma referência e o mesmo intervalo sempre que o enunciado permitir. Quando um resultado contradiz a previsão inicial, revise primeiro a interpretação do que foi pedido; em seguida, revise a operação e as condições assumidas.\n\nNa primeira, destaque o que o enunciado informa sobre as condições da situação. Na segunda, explique como a regra escolhida conecta essas condições ao resultado. Se houver um cálculo, escreva as unidades intermediárias. Em uma resposta sobre direção ou sentido, declare a orientação de referência. Uma alternativa pode conter um número familiar do enunciado e ainda responder sobre a grandeza errada.\n\nPara fechar, compare estas duas situações e procure a diferença física entre elas. Carro faz curva plana sem derrapar. Uma pedra gira presa a um fio, com rapidez constante. Quando o contexto muda, a leitura deve partir das informações apresentadas naquele caso. Considere a primeira afirmação e justifique o resultado: “O atrito lateral pode apontar ao centro.” Certo. O chão muda a direção do movimento. Agora avalie a segunda: “A tração radial é nula por causa da rapidez constante.” Errado. A direção da velocidade varia. Uma explicação adequada pode usar palavras e cálculos, desde que a relação com a situação seja clara. Pense em qual mudança nos dados tornaria cada afirmação válida ou inválida.\n\nUse este conjunto de definições como roteiro para checar o raciocínio. Em que sentido aponta a aceleração radial? Para o centro da trajetória.\nOnde aponta a velocidade instantânea? Na direção tangente à trajetória.\nQue força mantém uma órbita ideal? A gravidade pode fornecer a resultante radial.\nQue força lateral curva um carro em pista plana? O atrito estático lateral entre pneus e piso, no modelo sem derrapagem.\nCentrípeta é uma interação extra? Não. É o nome da componente radial resultante.\nE se a rapidez variar? Também existe componente tangencial de aceleração. Ao voltar aos dados do começo, selecione as definições pertinentes ao caso. Leia a conclusão como se ela fosse uma frase independente: confira a unidade, a referência adotada e a condição de validade.\n\nTROCANDO EM MIÚDOS:\nImagine a situação do começo da lição. Um carro faz uma curva em rua plana. A força lateral exercida pelo chão nos pneus pode ser o que muda a direção da velocidade. Uma pedra presa a um fio horizontal recebe tração em direção ao centro. Se o fio se rompe e outras forças horizontais são desprezíveis, a trajetória horizontal inicial segue a tangente.\n\nA regra principal pode ser escrita assim: A resultante radial aponta para o centro da curva. Ela pode resultar de atrito, tração, gravidade, normal ou da combinação de forças. Tente explicar essa regra em voz alta para alguém que ainda não viu o conteúdo, usando o exemplo inicial como apoio.\n\nAntes de marcar uma alternativa, faça esta checagem. Em que sentido aponta a aceleração radial? Para o centro da trajetória. Onde aponta a velocidade instantânea? Na direção tangente à trajetória. Que força mantém uma órbita ideal? A gravidade pode fornecer a resultante radial. Que força lateral curva um carro em pista plana? O atrito estático lateral entre pneus e piso, no modelo sem derrapagem. Centrípeta é uma interação extra? Não. É o nome da componente radial resultante. E se a rapidez variar? Também existe componente tangencial de aceleração.\n\nEm um rascunho curto, anote quatro passos. Localizar o centro. Marcar a tangente. Identificar as forças reais. Somar suas componentes radiais. Em seguida, tente aplicar os passos a um exemplo com números ou condições diferentes. As grandezas que foram medidas e o que você quer descobrir devem ficar em linhas separadas. Isso ajuda a identificar qual informação ainda falta.\n\nExperimente responder a esta situação sem olhar as opções. Um carrinho tem apenas 15 N de força horizontal apontando ao centro da curva. Qual a resultante radial em módulo? A força dada é a única componente radial. Depois, confira nos exemplos quais seriam as consequências de escolher uma interpretação diferente. Se tiver que refazer, comece pelas condições do problema e pelo significado de cada dado.\n\nPara fixar, releia uma afirmação verdadeira e uma falsa da lição. Reescreva a falsa trocando só o trecho necessário para corrigi-la. Na afirmação verdadeira, diga qual detalhe do enunciado permite chegar a essa conclusão. Assim você pratica explicar um resultado, além de reconhecer qual opção está certa.\n\nLEI SECA:\nA resultante radial aponta para o centro da curva. Ela pode resultar de atrito, tração, gravidade, normal ou da combinação de forças.\n\nSÚMULAS E TESES:\nUma pedra presa a um fio horizontal recebe tração em direção ao centro. Se o fio se rompe e outras forças horizontais são desprezíveis, a trajetória horizontal inicial segue a tangente.\n\nESQUEMA:\nLocalizar o centro → Marcar a tangente → Identificar as forças reais → Somar suas componentes radiais\n\nPEGADINHAS:\n1. Certo. O chão muda a direção do movimento.\n2. Errado. A direção da velocidade varia.\n3. Certo. Ela produz a aceleração radial.\n4. Errado. A velocidade inicial após soltar é tangente.\n\nDOUTRINA:\nOpenStax — College Physics 2e, Centripetal Force\n\nNA PRÁTICA:\nExemplo 1. Um carrinho tem apenas 15 N de força horizontal apontando ao centro da curva. Qual a resultante radial em módulo? A resposta é 15 N. A força dada é a única componente radial. A curva exige aceleração radial. Não existe uma segunda força centrípeta para somar. A força radial não precisa ser dividida por dois. Elevar a força ao quadrado não dá a resultante.",
+   "flashcards": [
+    {
+     "frente": "Em que sentido aponta a aceleração radial?",
+     "verso": "Para o centro da trajetória.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Identificação das forças que atuam nos movimentos circulares"
+    },
+    {
+     "frente": "Onde aponta a velocidade instantânea?",
+     "verso": "Na direção tangente à trajetória.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Identificação das forças que atuam nos movimentos circulares"
+    },
+    {
+     "frente": "Que força mantém uma órbita ideal?",
+     "verso": "A gravidade pode fornecer a resultante radial.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Identificação das forças que atuam nos movimentos circulares"
+    },
+    {
+     "frente": "Que força lateral curva um carro em pista plana?",
+     "verso": "O atrito estático lateral entre pneus e piso, no modelo sem derrapagem.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Identificação das forças que atuam nos movimentos circulares"
+    },
+    {
+     "frente": "Centrípeta é uma interação extra?",
+     "verso": "Não. É o nome da componente radial resultante.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Identificação das forças que atuam nos movimentos circulares"
+    },
+    {
+     "frente": "E se a rapidez variar?",
+     "verso": "Também existe componente tangencial de aceleração.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Identificação das forças que atuam nos movimentos circulares"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-forcas-movimento-circular-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Carro faz curva plana sem derrapar.",
+     "enunciado": "O atrito lateral pode apontar ao centro.",
+     "gabarito": "C",
+     "comentario": "Certo. O chão muda a direção do movimento.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Identificação das forças que atuam nos movimentos circulares"
+    },
+    {
+     "id": "enem-fisica-forcas-movimento-circular-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Uma pedra gira presa a um fio, com rapidez constante.",
+     "enunciado": "A tração radial é nula por causa da rapidez constante.",
+     "gabarito": "E",
+     "comentario": "Errado. A direção da velocidade varia.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Identificação das forças que atuam nos movimentos circulares"
+    },
+    {
+     "id": "enem-fisica-forcas-movimento-circular-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Um satélite está em órbita circular ideal.",
+     "enunciado": "A gravidade aponta para o centro da órbita.",
+     "gabarito": "C",
+     "comentario": "Certo. Ela produz a aceleração radial.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Identificação das forças que atuam nos movimentos circulares"
+    },
+    {
+     "id": "enem-fisica-forcas-movimento-circular-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Um brinquedo circular se solta da guia.",
+     "enunciado": "Inicialmente segue diretamente para fora ao longo do raio.",
+     "gabarito": "E",
+     "comentario": "Errado. A velocidade inicial após soltar é tangente.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Identificação das forças que atuam nos movimentos circulares"
+    },
+    {
+     "id": "enem-fisica-forcas-movimento-circular-c14-q05",
+     "tipo": "me",
+     "texto_base": "Um carrinho tem apenas 15 N de força horizontal apontando ao centro da curva.",
+     "enunciado": "Qual a resultante radial em módulo?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "0 N",
+      "B": "15 N",
+      "C": "30 N",
+      "D": "7,5 N",
+      "E": "225 N"
+     },
+     "comentarios_por_alternativa": {
+      "A": "A curva exige aceleração radial.",
+      "B": "Correta. A força dada é a única componente radial.",
+      "C": "Não existe uma segunda força centrípeta para somar.",
+      "D": "A força radial não precisa ser dividida por dois.",
+      "E": "Elevar a força ao quadrado não dá a resultante."
+     },
+     "comentario": "A) A curva exige aceleração radial.\nB) Correta. A força dada é a única componente radial.\nC) Não existe uma segunda força centrípeta para somar.\nD) A força radial não precisa ser dividida por dois.\nE) Elevar a força ao quadrado não dá a resultante.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Identificação das forças que atuam nos movimentos circulares"
+    },
+    {
+     "id": "enem-fisica-forcas-movimento-circular-c14-q06",
+     "tipo": "me",
+     "texto_base": "Uma esfera sofre componentes radiais de 18 N para dentro e 6 N para fora.",
+     "enunciado": "Qual a resultante radial, tomando para dentro como positivo?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "+24 N",
+      "B": "−12 N",
+      "C": "+6 N",
+      "D": "+12 N",
+      "E": "0 N"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Ignora os sentidos contrários.",
+      "B": "Inverte o sentido predominante.",
+      "C": "Usa apenas o módulo da força para fora.",
+      "D": "Correta. Some +18 e −6.",
+      "E": "As forças não têm módulos iguais."
+     },
+     "comentario": "A) Ignora os sentidos contrários.\nB) Inverte o sentido predominante.\nC) Usa apenas o módulo da força para fora.\nD) Correta. Some +18 e −6.\nE) As forças não têm módulos iguais.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Identificação das forças que atuam nos movimentos circulares"
+    },
+    {
+     "id": "enem-fisica-forcas-movimento-circular-c14-q07",
+     "tipo": "me",
+     "texto_base": "Um objeto de 2 kg tem aceleração de 4 m/s² em direção ao centro.",
+     "enunciado": "Qual a resultante radial?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "8 N",
+      "B": "2 N",
+      "C": "4 N",
+      "D": "6 N",
+      "E": "0,5 N"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Use m vezes a aceleração radial.",
+      "B": "É o número da massa.",
+      "C": "É o número da aceleração.",
+      "D": "Soma massa e aceleração.",
+      "E": "Divide a massa pela aceleração."
+     },
+     "comentario": "A) Correta. Use m vezes a aceleração radial.\nB) É o número da massa.\nC) É o número da aceleração.\nD) Soma massa e aceleração.\nE) Divide a massa pela aceleração.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Identificação das forças que atuam nos movimentos circulares"
+    },
+    {
+     "id": "enem-fisica-forcas-movimento-circular-c14-q08",
+     "tipo": "me",
+     "texto_base": "Um móvel segue curva circular com rapidez constante. A resultante radial vale 9 N.",
+     "enunciado": "Qual é o módulo da componente tangencial da força?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "9 N",
+      "B": "18 N",
+      "C": "3 N",
+      "D": "4,5 N",
+      "E": "0 N"
+     },
+     "comentarios_por_alternativa": {
+      "A": "A componente radial é perpendicular à tangente.",
+      "B": "Duplica indevidamente a resultante radial.",
+      "C": "Extrai raiz do valor informado sem relação física.",
+      "D": "Divide a componente radial por dois.",
+      "E": "Correta. A rapidez é constante, logo não há aceleração tangencial."
+     },
+     "comentario": "A) A componente radial é perpendicular à tangente.\nB) Duplica indevidamente a resultante radial.\nC) Extrai raiz do valor informado sem relação física.\nD) Divide a componente radial por dois.\nE) Correta. A rapidez é constante, logo não há aceleração tangencial.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Identificação das forças que atuam nos movimentos circulares"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Em que sentido aponta a aceleração radial? Resposta: ___.",
+     "opcoes": [
+      "Para o centro da trajetória.",
+      "Na direção tangente à trajetória.",
+      "A gravidade pode fornecer a resultante radial.",
+      "O atrito estático lateral entre pneus e piso, no modelo sem derrapagem."
+     ],
+     "respostas": [
+      "Para o centro da trajetória."
+     ],
+     "explicacao": "Para o centro da trajetória."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Centrípeta é uma interação extra? Resposta: ___.",
+     "opcoes": [
+      "A gravidade pode fornecer a resultante radial.",
+      "O atrito estático lateral entre pneus e piso, no modelo sem derrapagem.",
+      "Não. É o nome da componente radial resultante.",
+      "Também existe componente tangencial de aceleração."
+     ],
+     "respostas": [
+      "Não. É o nome da componente radial resultante."
+     ],
+     "explicacao": "Não. É o nome da componente radial resultante."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma situação sobre forças que atuam no movimento circular.",
+     "itens": [
+      "Localizar o centro.",
+      "Marcar a tangente.",
+      "Identificar as forças reais.",
+      "Somar suas componentes radiais."
+     ],
+     "explicacao": "A resultante radial aponta para o centro da curva. Ela pode resultar de atrito, tração, gravidade, normal ou da combinação de forças."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Em que sentido aponta a aceleração radial?",
+       "Para o centro da trajetória."
+      ],
+      [
+       "Onde aponta a velocidade instantânea?",
+       "Na direção tangente à trajetória."
+      ],
+      [
+       "Que força mantém uma órbita ideal?",
+       "A gravidade pode fornecer a resultante radial."
+      ],
+      [
+       "Que força lateral curva um carro em pista plana?",
+       "O atrito estático lateral entre pneus e piso, no modelo sem derrapagem."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

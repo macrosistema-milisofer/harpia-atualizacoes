@@ -1,0 +1,251 @@
+{
+ "assunto": "Retas: inclinação, equação e pontos de encontro",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-equacoes-e-graficos-de-retas-c14",
+   "titulo": "Retas: inclinação, equação e pontos de encontro",
+   "microconteudo": "RAIO-X DA PROVA: Calcule inclinação, reconheça interceptos e identifique retas verticais. Relacione medidas a eixos e unidades.\n\nPOR QUE IMPORTA:\nTarifas, níveis de água e deslocamentos a taxa constante podem formar retas em gráficos. O ENEM pode pedir que você passe do gráfico à regra ou interprete uma taxa.\n\nO QUE A BANCA COBRA:\nCalcule inclinação, reconheça interceptos e identifique retas verticais. Relacione medidas a eixos e unidades.\n\nENTENDA:\n1. Inclinação\n\nO coeficiente angular é a variação de y dividida pela variação de x em uma reta não vertical. O nível da água sobe de 8 cm em 2 min para 20 cm em 6 min. Qual é a taxa nesse trecho retilíneo? A resposta é **3 cm por minuto**. A diferença vertical é 12 cm e a horizontal é 4 minutos.\n\nUma resposta a examinar é “12 cm por minuto”. Coloque lado a lado o que ela afirma e o dado principal do caso. Doze centímetros correspondem ao ganho total do intervalo. A unidade por minuto exige dividir pelo tempo decorrido. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\n2. Intercepto vertical\n\nEm y = mx + b, b é o valor de y quando x é zero. Uma tarifa é dada por y = 2,5x + 9, com x quilometragem e y preço em reais. Qual parcela é cobrada sem distância percorrida? A resposta é **R$ 9**. Substituir x por zero deixa somente o termo constante.\n\nUma resposta a examinar é “R$ 2,50”. Coloque lado a lado o que ela afirma e o dado principal do caso. O valor de 2,5 multiplica a distância; para cada quilômetro adicional, ele dá o acréscimo no preço. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\n3. Reta vertical\n\nUma reta vertical tem equação x = k, pois sua coordenada horizontal é fixa. Uma cerca, na vista de planta, acompanha todos os pontos de abscissa −3. Qual é sua equação? A resposta é **x = −3**. O deslocamento ao longo da cerca muda a ordenada, conservando a abscissa.\n\nUma resposta a examinar é “y = −3”. Coloque lado a lado o que ela afirma e o dado principal do caso. Na equação y = −3, a ordenada seria constante e a cerca seria horizontal. Uma inclinação finita do tipo Δy/Δx não descreve a reta vertical. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\n4. Equação ponto-inclinação\n\nUma reta não vertical que passa por (a,b) e tem inclinação m satisfaz y − b = m(x − a). Uma reta passa por (2,3) e sobe duas unidades para cada unidade à direita. Qual equação descreve a reta? A resposta é **y = 2x − 1**. De y − 3 = 2(x − 2), chega-se a y = 2x − 1.\n\nUma resposta a examinar é “y = 2x + 3”. Coloque lado a lado o que ela afirma e o dado principal do caso. A ordenada do ponto conhecido seria o intercepto apenas se sua abscissa valesse zero. Testar x = 2 mostra a diferença. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\n5. Raiz de uma reta\n\nUma interseção com o eixo x é obtida impondo y = 0. A reta de um problema de saldo tem equação y = 6 − 2x. Em que ponto corta o eixo x? A resposta é **(3, 0)**. A condição é 6 − 2x = 0, da qual resulta x = 3.\n\nUma resposta a examinar é “(0, 6)”. Coloque lado a lado o que ela afirma e o dado principal do caso. O ponto (0,6) está sobre o eixo vertical e pertence à reta. A pergunta exige o ponto em que a coordenada vertical zera. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\n6. Encontro de retas\n\nNo ponto de encontro, ambas as equações são verdadeiras com o mesmo par de coordenadas. Dois projetos têm equações y = x + 2 e y = 8 − x. Onde as retas se encontram? A resposta é **(3, 5)**. Igualar x + 2 e 8 − x dá x = 3. Substituir em qualquer regra dá y = 5.\n\nUma resposta a examinar é “(5, 3)”. Coloque lado a lado o que ela afirma e o dado principal do caso. As coordenadas têm papéis diferentes. Conferir o par em ambas as regras elimina a troca de ordem. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\nTROCANDO EM MIÚDOS:\n**Inclinação.** O nível da água sobe de 8 cm em 2 min para 20 cm em 6 min. Qual é a taxa nesse trecho retilíneo? 3 cm por minuto. A diferença vertical é 12 cm e a horizontal é 4 minutos. Doze centímetros correspondem ao ganho total do intervalo. A unidade por minuto exige dividir pelo tempo decorrido.\n\n**Intercepto vertical.** Uma tarifa é dada por y = 2,5x + 9, com x quilometragem e y preço em reais. Qual parcela é cobrada sem distância percorrida? R$ 9. Substituir x por zero deixa somente o termo constante. O valor de 2,5 multiplica a distância; para cada quilômetro adicional, ele dá o acréscimo no preço.\n\n**Reta vertical.** Uma cerca, na vista de planta, acompanha todos os pontos de abscissa −3. Qual é sua equação? x = −3. O deslocamento ao longo da cerca muda a ordenada, conservando a abscissa. Na equação y = −3, a ordenada seria constante e a cerca seria horizontal. Uma inclinação finita do tipo Δy/Δx não descreve a reta vertical.\n\n**Equação ponto-inclinação.** Uma reta passa por (2,3) e sobe duas unidades para cada unidade à direita. Qual equação descreve a reta? y = 2x − 1. De y − 3 = 2(x − 2), chega-se a y = 2x − 1. A ordenada do ponto conhecido seria o intercepto apenas se sua abscissa valesse zero. Testar x = 2 mostra a diferença.\n\n**Raiz de uma reta.** A reta de um problema de saldo tem equação y = 6 − 2x. Em que ponto corta o eixo x? (3, 0). A condição é 6 − 2x = 0, da qual resulta x = 3. O ponto (0,6) está sobre o eixo vertical e pertence à reta. A pergunta exige o ponto em que a coordenada vertical zera.\n\n**Encontro de retas.** Dois projetos têm equações y = x + 2 e y = 8 − x. Onde as retas se encontram? (3, 5). Igualar x + 2 e 8 − x dá x = 3. Substituir em qualquer regra dá y = 5. As coordenadas têm papéis diferentes. Conferir o par em ambas as regras elimina a troca de ordem.\n\nESQUEMA:\n• Inclinação → O coeficiente angular é a variação de y dividida pela variação de x em uma reta não vertical.\n• Intercepto vertical → Em y = mx + b, b é o valor de y quando x é zero.\n• Reta vertical → Uma reta vertical tem equação x = k, pois sua coordenada horizontal é fixa.\n• Equação ponto-inclinação → Uma reta não vertical que passa por (a,b) e tem inclinação m satisfaz y − b = m(x − a).\n• Raiz de uma reta → Uma interseção com o eixo x é obtida impondo y = 0.\n• Encontro de retas → No ponto de encontro, ambas as equações são verdadeiras com o mesmo par de coordenadas.\n\nPEGADINHAS:\n• Inclinação: confira por que “12 cm por minuto” falha nesse caso.\n• Intercepto vertical: confira por que “R$ 2,50” falha nesse caso.\n• Reta vertical: confira por que “y = −3” falha nesse caso.\n• Equação ponto-inclinação: confira por que “y = 2x + 3” falha nesse caso.\n\nNA PRÁTICA:\nDois projetos têm equações y = x + 2 e y = 8 − x. Onde as retas se encontram? **Resposta:** (3, 5). Igualar x + 2 e 8 − x dá x = 3. Substituir em qualquer regra dá y = 5.",
+   "flashcards": [
+    {
+     "frente": "Como reconhecer inclinação?",
+     "verso": "O coeficiente angular é a variação de y dividida pela variação de x em uma reta não vertical.",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Retas"
+    },
+    {
+     "frente": "Como reconhecer intercepto vertical?",
+     "verso": "Em y = mx + b, b é o valor de y quando x é zero.",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Retas"
+    },
+    {
+     "frente": "Como reconhecer reta vertical?",
+     "verso": "Uma reta vertical tem equação x = k, pois sua coordenada horizontal é fixa.",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Retas"
+    },
+    {
+     "frente": "Como reconhecer equação ponto-inclinação?",
+     "verso": "Uma reta não vertical que passa por (a,b) e tem inclinação m satisfaz y − b = m(x − a).",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Retas"
+    },
+    {
+     "frente": "Como reconhecer raiz de uma reta?",
+     "verso": "Uma interseção com o eixo x é obtida impondo y = 0.",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Retas"
+    },
+    {
+     "frente": "Como reconhecer encontro de retas?",
+     "verso": "No ponto de encontro, ambas as equações são verdadeiras com o mesmo par de coordenadas.",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Retas"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-equacoes-e-graficos-de-retas-c14-q01",
+     "tipo": "ce",
+     "texto_base": "O nível da água sobe de 8 cm em 2 min para 20 cm em 6 min. Qual é a taxa nesse trecho retilíneo?",
+     "enunciado": "A resposta é “3 cm por minuto”.",
+     "gabarito": "C",
+     "habilidade": "H20",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Retas",
+     "comentario": "A diferença vertical é 12 cm e a horizontal é 4 minutos."
+    },
+    {
+     "id": "enem-equacoes-e-graficos-de-retas-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Uma cerca, na vista de planta, acompanha todos os pontos de abscissa −3. Qual é sua equação?",
+     "enunciado": "A resposta é “y = −3”.",
+     "gabarito": "E",
+     "habilidade": "H20",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Retas",
+     "comentario": "A resposta é “x = −3”. O deslocamento ao longo da cerca muda a ordenada, conservando a abscissa."
+    },
+    {
+     "id": "enem-equacoes-e-graficos-de-retas-c14-q03",
+     "tipo": "ce",
+     "texto_base": "A reta de um problema de saldo tem equação y = 6 − 2x. Em que ponto corta o eixo x?",
+     "enunciado": "A resposta é “(0, 6)”.",
+     "gabarito": "E",
+     "habilidade": "H20",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Retas",
+     "comentario": "A resposta é “(3, 0)”. A condição é 6 − 2x = 0, da qual resulta x = 3."
+    },
+    {
+     "id": "enem-equacoes-e-graficos-de-retas-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Dois projetos têm equações y = x + 2 e y = 8 − x. Onde as retas se encontram?",
+     "enunciado": "A resposta é “(3, 5)”.",
+     "gabarito": "C",
+     "habilidade": "H20",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Retas",
+     "comentario": "Igualar x + 2 e 8 − x dá x = 3. Substituir em qualquer regra dá y = 5."
+    },
+    {
+     "id": "enem-equacoes-e-graficos-de-retas-c14-q05",
+     "tipo": "me",
+     "texto_base": "Uma tarifa é dada por y = 2,5x + 9, com x quilometragem e y preço em reais.",
+     "enunciado": "Qual parcela é cobrada sem distância percorrida?",
+     "gabarito": "A",
+     "habilidade": "H20",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Retas",
+     "alternativas": {
+      "A": "R$ 9",
+      "B": "R$ 2,50",
+      "C": "x = −3",
+      "D": "y = 2x − 1",
+      "E": "(3, 0)"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Substituir x por zero deixa somente o termo constante.",
+      "B": "Substituir x por zero deixa somente o termo constante.",
+      "C": "Essa resposta descreve um caso de reta vertical. Substituir x por zero deixa somente o termo constante.",
+      "D": "Essa resposta descreve um caso de equação ponto-inclinação. Substituir x por zero deixa somente o termo constante.",
+      "E": "Essa resposta descreve um caso de raiz de uma reta. Substituir x por zero deixa somente o termo constante."
+     },
+     "comentario": "A) Correta. Substituir x por zero deixa somente o termo constante.\nB) Substituir x por zero deixa somente o termo constante.\nC) Essa resposta descreve um caso de reta vertical. Substituir x por zero deixa somente o termo constante.\nD) Essa resposta descreve um caso de equação ponto-inclinação. Substituir x por zero deixa somente o termo constante.\nE) Essa resposta descreve um caso de raiz de uma reta. Substituir x por zero deixa somente o termo constante."
+    },
+    {
+     "id": "enem-equacoes-e-graficos-de-retas-c14-q06",
+     "tipo": "me",
+     "texto_base": "Uma cerca, na vista de planta, acompanha todos os pontos de abscissa −3.",
+     "enunciado": "Qual é sua equação?",
+     "gabarito": "B",
+     "habilidade": "H20",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Retas",
+     "alternativas": {
+      "A": "y = −3",
+      "B": "x = −3",
+      "C": "y = 2x − 1",
+      "D": "(3, 0)",
+      "E": "(3, 5)"
+     },
+     "comentarios_por_alternativa": {
+      "A": "O deslocamento ao longo da cerca muda a ordenada, conservando a abscissa.",
+      "B": "Correta. O deslocamento ao longo da cerca muda a ordenada, conservando a abscissa.",
+      "C": "Essa resposta descreve um caso de equação ponto-inclinação. O deslocamento ao longo da cerca muda a ordenada, conservando a abscissa.",
+      "D": "Essa resposta descreve um caso de raiz de uma reta. O deslocamento ao longo da cerca muda a ordenada, conservando a abscissa.",
+      "E": "Essa resposta descreve um caso de encontro de retas. O deslocamento ao longo da cerca muda a ordenada, conservando a abscissa."
+     },
+     "comentario": "A) O deslocamento ao longo da cerca muda a ordenada, conservando a abscissa.\nB) Correta. O deslocamento ao longo da cerca muda a ordenada, conservando a abscissa.\nC) Essa resposta descreve um caso de equação ponto-inclinação. O deslocamento ao longo da cerca muda a ordenada, conservando a abscissa.\nD) Essa resposta descreve um caso de raiz de uma reta. O deslocamento ao longo da cerca muda a ordenada, conservando a abscissa.\nE) Essa resposta descreve um caso de encontro de retas. O deslocamento ao longo da cerca muda a ordenada, conservando a abscissa."
+    },
+    {
+     "id": "enem-equacoes-e-graficos-de-retas-c14-q07",
+     "tipo": "me",
+     "texto_base": "Uma reta passa por (2,3) e sobe duas unidades para cada unidade à direita.",
+     "enunciado": "Qual equação descreve a reta?",
+     "gabarito": "C",
+     "habilidade": "H20",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Retas",
+     "alternativas": {
+      "A": "y = 2x + 3",
+      "B": "(3, 0)",
+      "C": "y = 2x − 1",
+      "D": "(3, 5)",
+      "E": "3 cm por minuto"
+     },
+     "comentarios_por_alternativa": {
+      "A": "De y − 3 = 2(x − 2), chega-se a y = 2x − 1.",
+      "B": "Essa resposta descreve um caso de raiz de uma reta. De y − 3 = 2(x − 2), chega-se a y = 2x − 1.",
+      "C": "Correta. De y − 3 = 2(x − 2), chega-se a y = 2x − 1.",
+      "D": "Essa resposta descreve um caso de encontro de retas. De y − 3 = 2(x − 2), chega-se a y = 2x − 1.",
+      "E": "Essa resposta descreve um caso de inclinação. De y − 3 = 2(x − 2), chega-se a y = 2x − 1."
+     },
+     "comentario": "A) De y − 3 = 2(x − 2), chega-se a y = 2x − 1.\nB) Essa resposta descreve um caso de raiz de uma reta. De y − 3 = 2(x − 2), chega-se a y = 2x − 1.\nC) Correta. De y − 3 = 2(x − 2), chega-se a y = 2x − 1.\nD) Essa resposta descreve um caso de encontro de retas. De y − 3 = 2(x − 2), chega-se a y = 2x − 1.\nE) Essa resposta descreve um caso de inclinação. De y − 3 = 2(x − 2), chega-se a y = 2x − 1."
+    },
+    {
+     "id": "enem-equacoes-e-graficos-de-retas-c14-q08",
+     "tipo": "me",
+     "texto_base": "A reta de um problema de saldo tem equação y = 6 − 2x.",
+     "enunciado": "Em que ponto corta o eixo x?",
+     "gabarito": "D",
+     "habilidade": "H20",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Retas",
+     "alternativas": {
+      "A": "(0, 6)",
+      "B": "(3, 5)",
+      "C": "3 cm por minuto",
+      "D": "(3, 0)",
+      "E": "R$ 9"
+     },
+     "comentarios_por_alternativa": {
+      "A": "A condição é 6 − 2x = 0, da qual resulta x = 3.",
+      "B": "Essa resposta descreve um caso de encontro de retas. A condição é 6 − 2x = 0, da qual resulta x = 3.",
+      "C": "Essa resposta descreve um caso de inclinação. A condição é 6 − 2x = 0, da qual resulta x = 3.",
+      "D": "Correta. A condição é 6 − 2x = 0, da qual resulta x = 3.",
+      "E": "Essa resposta descreve um caso de intercepto vertical. A condição é 6 − 2x = 0, da qual resulta x = 3."
+     },
+     "comentario": "A) A condição é 6 − 2x = 0, da qual resulta x = 3.\nB) Essa resposta descreve um caso de encontro de retas. A condição é 6 − 2x = 0, da qual resulta x = 3.\nC) Essa resposta descreve um caso de inclinação. A condição é 6 − 2x = 0, da qual resulta x = 3.\nD) Correta. A condição é 6 − 2x = 0, da qual resulta x = 3.\nE) Essa resposta descreve um caso de intercepto vertical. A condição é 6 − 2x = 0, da qual resulta x = 3."
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O nível da água sobe de 8 cm em 2 min para 20 cm em 6 min. Qual é a taxa nesse trecho retilíneo? Resposta: ___.",
+     "opcoes": [
+      "3 cm por minuto",
+      "12 cm por minuto",
+      "R$ 9"
+     ],
+     "respostas": [
+      "3 cm por minuto"
+     ],
+     "explicacao": "A diferença vertical é 12 cm e a horizontal é 4 minutos."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Dois projetos têm equações y = x + 2 e y = 8 − x. Onde as retas se encontram? Resposta: ___.",
+     "opcoes": [
+      "(3, 5)",
+      "(5, 3)",
+      "3 cm por minuto"
+     ],
+     "respostas": [
+      "(3, 5)"
+     ],
+     "explicacao": "Igualar x + 2 e 8 − x dá x = 3. Substituir em qualquer regra dá y = 5."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a leitura do caso. Uma reta passa por (2,3) e sobe duas unidades para cada unidade à direita. Qual equação descreve a reta?",
+     "itens": [
+      "Identificar o que a pergunta pede.",
+      "Separar os dados relevantes.",
+      "Relacionar os dados ao conceito.",
+      "Conferir a conclusão."
+     ],
+     "explicacao": "De y − 3 = 2(x − 2), chega-se a y = 2x − 1."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Inclinação",
+       "O coeficiente angular é a variação de y dividida pela variação de x em uma reta não vertical."
+      ],
+      [
+       "Intercepto vertical",
+       "Em y = mx + b, b é o valor de y quando x é zero."
+      ],
+      [
+       "Reta vertical",
+       "Uma reta vertical tem equação x = k, pois sua coordenada horizontal é fixa."
+      ],
+      [
+       "Equação ponto-inclinação",
+       "Uma reta não vertical que passa por (a,b) e tem inclinação m satisfaz y − b = m(x − a)."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

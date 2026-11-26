@@ -1,0 +1,253 @@
+{
+ "assunto": "Gás ideal e princípio de Avogadro",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-gas-ideal-avogadro-c14",
+   "titulo": "Gás ideal e princípio de Avogadro",
+   "microconteudo": "RAIO-X DA PROVA: Assunto do edital de Ciências da Natureza. A interpretação de dados ajuda a resolver situações-problema sobre esse conteúdo.\n\nPOR QUE IMPORTA:\nGás ideal e princípio de Avogadro ajuda a traduzir observações e símbolos em explicações que você pode conferir. Nesta lição, você vai praticar a leitura de dados e justificar o resultado.\n\nO QUE A BANCA COBRA:\nIdentifique o que o problema descreve e escolha a conclusão explicada pelos dados. Revise a unidade, a entidade representada e as condições de aplicação quando elas fizerem parte do problema.\n\nENTENDA:\nA equação PV = nRT descreve um gás ideal. P é a pressão absoluta, V é o volume, n é a quantidade de gás em mol, R é uma constante e T é a temperatura em kelvin. Em volumes iguais, à mesma pressão e temperatura, gases ideais têm o mesmo número de partículas, mesmo com massas diferentes. Uma molécula é uma entidade de átomos ligados, e um gás como o hélio tem átomos isolados.\n\nNum recipiente com R = 0,082 L·atm/(mol·K), 24,6 L a 300 K e 1 atm contêm 1 mol. A conta é n = 1 × 24,6/(0,082 × 300). Em um recipiente igual com O₂, há tantas moléculas quanto átomos num recipiente igual com He sob as mesmas condições, porém cada molécula de O₂ tem dois átomos e massa maior.\n\nA constante R faz a ponte entre as unidades das quatro grandezas. Usar atmosfera com metros cúbicos sem converter o volume cria um erro de mil vezes se o valor escolhido esperar litros. A mesma atenção vale para kelvin. Avogadro permite comparar contagens mesmo que o tipo de partícula mude: igual número de moléculas não é igual número de átomos quando as moléculas têm fórmulas diferentes.\n\nPrimeiro caso: ligue os dados à regra\nUm reservatório tem 2 mol de gás a 300 K e 49,2 L. Use R = 0,082. Qual a pressão absoluta?\n\nComece lendo o enunciado como um pequeno relatório. Anote em uma linha o material ou sistema descrito e, em outra, o que se quer descobrir. Essa divisão evita misturar um dado já fornecido com o resultado pedido. Escolha a regra depois de localizar o que, no texto, autoriza sua aplicação. Ao terminar, teste se a resposta ainda faz sentido ao substituir os valores ou reler a observação.\n\nResultado: 1 atm P = 2 × 0,082 × 300/49,2.\n\nCompare as hipóteses e os cálculos alternativos:\n• 0,5 atm Resultaria de usar 1 mol.\n• 2 atm Resultaria de reduzir o volume à metade.\n• 24,6 atm O valor 24,6 é RT nas unidades dadas.\n• 49,2 atm 49,2 é o volume em litros.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nSegundo caso: cuide da condição que permite a conclusão\nUma bomba adiciona gás a um tanque rígido. A temperatura final é igual à inicial e n triplica. Como varia P?\n\nCompare as interpretações antes de escolher. Duas respostas podem usar os mesmos termos ou números e ainda se referir a grandezas diferentes. Se houver unidades, escreva a unidade junto a cada valor. Se houver contagens, diga o que está sendo contado. Se a questão for explicativa, procure a relação de causa e efeito que é compatível com as condições fornecidas. Só então feche a resposta.\n\nResultado: Triplica. Com V e T fixos, P é proporcional a n.\n\nCompare as hipóteses e os cálculos alternativos:\n• Cai a um terço. A proporcionalidade é direta.\n• Permanece igual. A quantidade de gás mudou.\n• Aumenta 3 atm. O aumento depende de P inicial.\n• Aumenta nove vezes. Só um fator de três varia.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nTerceiro caso: confira o que a pergunta está medindo\nHá 1 mol de O₂ e 1 mol de He em frascos iguais. Qual relação entre contagens de átomos?\n\nFaça uma primeira previsão usando palavras. Pergunte se o resultado esperado é uma contagem, uma propriedade, uma comparação ou um mecanismo. Escrever a previsão antes de olhar as alternativas ajuda a perceber quando dois valores semelhantes têm sentidos diferentes. Em seguida, explique em uma frase como o primeiro dado se conecta ao resultado. A resposta fica mais forte quando essa ligação pode ser checada no próprio enunciado.\n\nResultado: O₂ tem o dobro. Cada molécula contém dois átomos; He é monoatômico.\n\nCompare as hipóteses e os cálculos alternativos:\n• He tem o dobro. He tem um átomo por entidade.\n• São iguais. As contagens de entidades são iguais, mas as de átomos diferem.\n• O₂ tem oito vezes mais. O número atômico não é o número de átomos da molécula.\n• He não tem átomos. O gás é formado por átomos de He.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nQuarto caso: escolha a conclusão sustentada\nO manual dá P em Pa e V em m³. Qual R combina com essas unidades?\n\nTente justificar a escolha para alguém que observou apenas o resultado final. Comece pelos fatos que o problema realmente fornece e mostre como a regra interpreta esses fatos. Se a conclusão depender de uma condição, mantenha essa condição na justificativa. Depois procure uma alteração pequena nos dados que exigiria outra resposta. Esse último passo ajuda a reconhecer onde termina a aplicação do raciocínio.\n\nResultado: 8,314 Pa·m³/(mol·K). Pa·m³ equivale a joule.\n\nCompare as hipóteses e os cálculos alternativos:\n• 0,082 L·atm/(mol·K). Aplique esse valor após converter P e V.\n• 8,314 L·atm/(mol·K). O valor numérico muda com a unidade.\n• 0,082 Pa·m³/(mol·K). O valor correto no SI é cerca de 8,314.\n• Qualquer R com T em °C. Use temperatura absoluta e unidades coerentes.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nLeitura crítica 1\nDois balões iguais contêm He e N₂ a iguais P e T. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “Têm a mesma quantidade de partículas.” O princípio de Avogadro compara entidades gasosas nas mesmas condições. A segunda é “Têm a mesma massa.” A mesma contagem não implica a mesma massa por partícula.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nLeitura crítica 2\nUm gráfico mostra V em função de n a P e T constantes. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “O gráfico ideal é uma reta de inclinação RT/P.” Rearranjando, V = (RT/P)n. A segunda é “A inclinação é P/RT.” P/RT é a inclinação do gráfico inverso, de n em função de V.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nTROCANDO EM MIÚDOS:\nComece por uma pergunta que você conseguiria fazer a um colega: o que mudou, o que ficou igual e qual informação me permite dizer isso? Em questões de Química, dá para errar mesmo lembrando a regra certa quando se usa a regra para o dado errado. Separe a situação da pergunta. Leia os símbolos em voz baixa. Se houver dois materiais ou dois momentos, dê um nome curto para cada um. Assim você consegue comparar as coisas na ordem que o texto pediu.\n\nNum recipiente com R = 0,082 L·atm/(mol·K), 24,6 L a 300 K e 1 atm contêm 1 mol. A conta é n = 1 × 24,6/(0,082 × 300). Em um recipiente igual com O₂, há tantas moléculas quanto átomos num recipiente igual com He sob as mesmas condições, porém cada molécula de O₂ tem dois átomos e massa maior.\n\nExperimente com este caso. Um reservatório tem 2 mol de gás a 300 K e 49,2 L. Use R = 0,082. Qual a pressão absoluta? A resposta é 1 atm P = 2 × 0,082 × 300/49,2. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nExperimente com este caso. O manual dá P em Pa e V em m³. Qual R combina com essas unidades? A resposta é 8,314 Pa·m³/(mol·K). Pa·m³ equivale a joule. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nFaça uma checagem que cabe no rascunho: escreva o dado, desenhe uma seta e escreva o que ele permite concluir. Se precisar de uma segunda seta, diga qual regra leva desse resultado intermediário até a resposta. Uma explicação em duas frases pode ser suficiente. A primeira conta o que o problema mostrou. A segunda diz por que esse dado leva à sua escolha. Esse caminho ajuda em problemas com tabelas, desenhos e comparações.\n\nESQUEMA:\nLeia o cenário → destaque o dado decisivo → aplique a relação → confira o que foi pedido.\n\nPEGADINHAS:\n• 0,5 atm Resultaria de usar 1 mol.\n• Cai a um terço. A proporcionalidade é direta.\n• He tem o dobro. He tem um átomo por entidade.\n• 0,082 L·atm/(mol·K). Aplique esse valor após converter P e V.\n\nNA PRÁTICA:\nNum recipiente com R = 0,082 L·atm/(mol·K), 24,6 L a 300 K e 1 atm contêm 1 mol. A conta é n = 1 × 24,6/(0,082 × 300). Em um recipiente igual com O₂, há tantas moléculas quanto átomos num recipiente igual com He sob as mesmas condições, porém cada molécula de O₂ tem dois átomos e massa maior.",
+   "flashcards": [
+    {
+     "frente": "Dois balões iguais contêm He e N₂ a iguais P e T. Têm a mesma quantidade de partículas. Certo ou errado?",
+     "verso": "Certo. O princípio de Avogadro compara entidades gasosas nas mesmas condições.",
+     "dispositivo": "Transformações químicas — Equação geral dos gases ideais, Princípio de Avogadro, conceito de molécula"
+    },
+    {
+     "frente": "Um gráfico mostra V em função de n a P e T constantes. O gráfico ideal é uma reta de inclinação RT/P. Certo ou errado?",
+     "verso": "Certo. Rearranjando, V = (RT/P)n.",
+     "dispositivo": "Transformações químicas — Equação geral dos gases ideais, Princípio de Avogadro, conceito de molécula"
+    },
+    {
+     "frente": "Um reservatório tem 2 mol de gás a 300 K e 49,2 L. Use R = 0,082. Qual a pressão absoluta?",
+     "verso": "1 atm P = 2 × 0,082 × 300/49,2.",
+     "dispositivo": "Transformações químicas — Equação geral dos gases ideais, Princípio de Avogadro, conceito de molécula"
+    },
+    {
+     "frente": "Uma bomba adiciona gás a um tanque rígido. A temperatura final é igual à inicial e n triplica. Como varia P?",
+     "verso": "Triplica. Com V e T fixos, P é proporcional a n.",
+     "dispositivo": "Transformações químicas — Equação geral dos gases ideais, Princípio de Avogadro, conceito de molécula"
+    },
+    {
+     "frente": "Há 1 mol de O₂ e 1 mol de He em frascos iguais. Qual relação entre contagens de átomos?",
+     "verso": "O₂ tem o dobro. Cada molécula contém dois átomos; He é monoatômico.",
+     "dispositivo": "Transformações químicas — Equação geral dos gases ideais, Princípio de Avogadro, conceito de molécula"
+    },
+    {
+     "frente": "O manual dá P em Pa e V em m³. Qual R combina com essas unidades?",
+     "verso": "8,314 Pa·m³/(mol·K). Pa·m³ equivale a joule.",
+     "dispositivo": "Transformações químicas — Equação geral dos gases ideais, Princípio de Avogadro, conceito de molécula"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Dois balões iguais contêm He e N₂ a iguais P e T.",
+     "enunciado": "Têm a mesma quantidade de partículas.",
+     "gabarito": "C",
+     "comentario": "Certo. O princípio de Avogadro compara entidades gasosas nas mesmas condições.",
+     "id": "enem-gas-ideal-avogadro-c14-q01",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Equação geral dos gases ideais, Princípio de Avogadro, conceito de molécula",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Dois balões iguais contêm He e N₂ a iguais P e T.",
+     "enunciado": "Têm a mesma massa.",
+     "gabarito": "E",
+     "comentario": "Errado. A mesma contagem não implica a mesma massa por partícula.",
+     "id": "enem-gas-ideal-avogadro-c14-q02",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Equação geral dos gases ideais, Princípio de Avogadro, conceito de molécula",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um gráfico mostra V em função de n a P e T constantes.",
+     "enunciado": "O gráfico ideal é uma reta de inclinação RT/P.",
+     "gabarito": "C",
+     "comentario": "Certo. Rearranjando, V = (RT/P)n.",
+     "id": "enem-gas-ideal-avogadro-c14-q03",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Equação geral dos gases ideais, Princípio de Avogadro, conceito de molécula",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um gráfico mostra V em função de n a P e T constantes.",
+     "enunciado": "A inclinação é P/RT.",
+     "gabarito": "E",
+     "comentario": "Errado. P/RT é a inclinação do gráfico inverso, de n em função de V.",
+     "id": "enem-gas-ideal-avogadro-c14-q04",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Equação geral dos gases ideais, Princípio de Avogadro, conceito de molécula",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um reservatório tem 2 mol de gás a 300 K e 49,2 L. Use R = 0,082.",
+     "enunciado": "Qual a pressão absoluta?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "1 atm",
+      "B": "0,5 atm",
+      "C": "2 atm",
+      "D": "24,6 atm",
+      "E": "49,2 atm"
+     },
+     "comentarios_por_alternativa": {
+      "A": "P = 2 × 0,082 × 300/49,2.",
+      "B": "Resultaria de usar 1 mol.",
+      "C": "Resultaria de reduzir o volume à metade.",
+      "D": "O valor 24,6 é RT nas unidades dadas.",
+      "E": "49,2 é o volume em litros."
+     },
+     "comentario": "A) P = 2 × 0,082 × 300/49,2.\nB) Resultaria de usar 1 mol.\nC) Resultaria de reduzir o volume à metade.\nD) O valor 24,6 é RT nas unidades dadas.\nE) 49,2 é o volume em litros.",
+     "id": "enem-gas-ideal-avogadro-c14-q05",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Equação geral dos gases ideais, Princípio de Avogadro, conceito de molécula",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma bomba adiciona gás a um tanque rígido. A temperatura final é igual à inicial e n triplica.",
+     "enunciado": "Como varia P?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Cai a um terço.",
+      "B": "Permanece igual.",
+      "C": "Aumenta 3 atm.",
+      "D": "Aumenta nove vezes.",
+      "E": "Triplica."
+     },
+     "comentarios_por_alternativa": {
+      "A": "A proporcionalidade é direta.",
+      "B": "A quantidade de gás mudou.",
+      "C": "O aumento depende de P inicial.",
+      "D": "Só um fator de três varia.",
+      "E": "Com V e T fixos, P é proporcional a n."
+     },
+     "comentario": "A) A proporcionalidade é direta.\nB) A quantidade de gás mudou.\nC) O aumento depende de P inicial.\nD) Só um fator de três varia.\nE) Com V e T fixos, P é proporcional a n.",
+     "id": "enem-gas-ideal-avogadro-c14-q06",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Equação geral dos gases ideais, Princípio de Avogadro, conceito de molécula",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Há 1 mol de O₂ e 1 mol de He em frascos iguais.",
+     "enunciado": "Qual relação entre contagens de átomos?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "He tem o dobro.",
+      "B": "O₂ tem o dobro.",
+      "C": "São iguais.",
+      "D": "O₂ tem oito vezes mais.",
+      "E": "He não tem átomos."
+     },
+     "comentarios_por_alternativa": {
+      "A": "He tem um átomo por entidade.",
+      "B": "Cada molécula contém dois átomos; He é monoatômico.",
+      "C": "As contagens de entidades são iguais, mas as de átomos diferem.",
+      "D": "O número atômico não é o número de átomos da molécula.",
+      "E": "O gás é formado por átomos de He."
+     },
+     "comentario": "A) He tem um átomo por entidade.\nB) Cada molécula contém dois átomos; He é monoatômico.\nC) As contagens de entidades são iguais, mas as de átomos diferem.\nD) O número atômico não é o número de átomos da molécula.\nE) O gás é formado por átomos de He.",
+     "id": "enem-gas-ideal-avogadro-c14-q07",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Equação geral dos gases ideais, Princípio de Avogadro, conceito de molécula",
+     "dificuldade": "dificil"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "O manual dá P em Pa e V em m³.",
+     "enunciado": "Qual R combina com essas unidades?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "0,082 L·atm/(mol·K).",
+      "B": "8,314 L·atm/(mol·K).",
+      "C": "0,082 Pa·m³/(mol·K).",
+      "D": "8,314 Pa·m³/(mol·K).",
+      "E": "Qualquer R com T em °C."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Aplique esse valor após converter P e V.",
+      "B": "O valor numérico muda com a unidade.",
+      "C": "O valor correto no SI é cerca de 8,314.",
+      "D": "Pa·m³ equivale a joule.",
+      "E": "Use temperatura absoluta e unidades coerentes."
+     },
+     "comentario": "A) Aplique esse valor após converter P e V.\nB) O valor numérico muda com a unidade.\nC) O valor correto no SI é cerca de 8,314.\nD) Pa·m³ equivale a joule.\nE) Use temperatura absoluta e unidades coerentes.",
+     "id": "enem-gas-ideal-avogadro-c14-q08",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Equação geral dos gases ideais, Princípio de Avogadro, conceito de molécula",
+     "dificuldade": "dificil"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Uma bomba adiciona gás a um tanque rígido. A temperatura final é igual à inicial e n triplica. Como varia P? ___",
+     "opcoes": [
+      "Cai a um terço.",
+      "Triplica.",
+      "Permanece igual.",
+      "Aumenta 3 atm."
+     ],
+     "respostas": [
+      "Triplica."
+     ],
+     "explicacao": "Com V e T fixos, P é proporcional a n."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Há 1 mol de O₂ e 1 mol de He em frascos iguais. Qual relação entre contagens de átomos? ___",
+     "opcoes": [
+      "He tem o dobro.",
+      "O₂ tem o dobro.",
+      "São iguais.",
+      "O₂ tem oito vezes mais."
+     ],
+     "respostas": [
+      "O₂ tem o dobro."
+     ],
+     "explicacao": "Cada molécula contém dois átomos; He é monoatômico."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise do caso: Um reservatório tem 2 mol de gás a 300 K e 49,2 L. Use R = 0,082.",
+     "itens": [
+      "Localizar o que se quer descobrir: Qual a pressão absoluta?",
+      "Separar as informações dadas no enunciado.",
+      "Aplicar a relação adequada aos dados.",
+      "Conferir se a conclusão responde à pergunta."
+     ],
+     "explicacao": "P = 2 × 0,082 × 300/49,2."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Um reservatório tem 2 mol de gás a 300 K e 49,2 L. Use R = 0,082. Qual a pressão absoluta?",
+       "1 atm"
+      ],
+      [
+       "Uma bomba adiciona gás a um tanque rígido. A temperatura final é igual à inicial e n triplica. Como varia P?",
+       "Triplica."
+      ],
+      [
+       "Há 1 mol de O₂ e 1 mol de He em frascos iguais. Qual relação entre contagens de átomos?",
+       "O₂ tem o dobro."
+      ],
+      [
+       "O manual dá P em Pa e V em m³. Qual R combina com essas unidades?",
+       "8,314 Pa·m³/(mol·K)."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,253 @@
+{
+ "assunto": "Massa molar e volume molar dos gases",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-massa-volume-molar-gases-c14",
+   "titulo": "Massa molar e volume molar dos gases",
+   "microconteudo": "RAIO-X DA PROVA: Assunto do edital de Ciências da Natureza. A interpretação de dados ajuda a resolver situações-problema sobre esse conteúdo.\n\nPOR QUE IMPORTA:\nMassa molar e volume molar dos gases ajuda a traduzir observações e símbolos em explicações que você pode conferir. Nesta lição, você vai praticar a leitura de dados e justificar o resultado.\n\nO QUE A BANCA COBRA:\nIdentifique o que o problema descreve e escolha a conclusão explicada pelos dados. Revise a unidade, a entidade representada e as condições de aplicação quando elas fizerem parte do problema.\n\nENTENDA:\nMassa molar é massa por mol, usualmente em g/mol. Volume molar é volume por mol, por exemplo em L/mol. Para um gás ideal, V/n = RT/P, de modo que informar a temperatura e a pressão é indispensável. Em 0 °C e 1 atm, o volume molar ideal é cerca de 22,4 L/mol; com pressão padrão de 1 bar, o valor nas mesmas condições térmicas é cerca de 22,7 L/mol.\n\nUma amostra de 11 g de CO₂, cuja massa molar é 44 g/mol, contém 0,25 mol. A 0 °C e 1 atm, esse gás idealizado ocupa 0,25 × 22,4 = 5,6 L. A mesma massa de O₂ contém 11/32 mol, uma quantidade maior, e ocupa volume maior sob a mesma pressão e temperatura.\n\nÉ possível obter densidade sem pesar o recipiente inteiro. Divida a massa molar pelo volume molar e obtenha massa por volume. Para O₂ ideal a 0 °C e 1 atm, são aproximadamente 32 g em 22,4 L, ou 1,43 g/L. Em volume menor para os mesmos mols, a densidade cresce, enquanto a massa molar permanece igual.\n\nPrimeiro caso: ligue os dados à regra\nUma bolsa contém 5,6 L de N₂ a 0 °C e 1 atm, com M = 28 g/mol. Qual a massa idealizada?\n\nComece lendo o enunciado como um pequeno relatório. Anote em uma linha o material ou sistema descrito e, em outra, o que se quer descobrir. Essa divisão evita misturar um dado já fornecido com o resultado pedido. Escolha a regra depois de localizar o que, no texto, autoriza sua aplicação. Ao terminar, teste se a resposta ainda faz sentido ao substituir os valores ou reler a observação.\n\nResultado: 7,0 g 5,6/22,4 = 0,25 mol; 0,25 × 28 = 7.\n\nCompare as hipóteses e os cálculos alternativos:\n• 14 g Exigiria 0,50 mol.\n• 28 g Corresponde a um mol.\n• 5,6 g Confunde volume com massa.\n• 0,25 g 0,25 é a quantidade em mol.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nSegundo caso: cuide da condição que permite a conclusão\nIgual volume de He e O₂ é coletado à mesma P e T. Qual amostra tem maior massa?\n\nCompare as interpretações antes de escolher. Duas respostas podem usar os mesmos termos ou números e ainda se referir a grandezas diferentes. Se houver unidades, escreva a unidade junto a cada valor. Se houver contagens, diga o que está sendo contado. Se a questão for explicativa, procure a relação de causa e efeito que é compatível com as condições fornecidas. Só então feche a resposta.\n\nResultado: O₂. O número de mols é igual e M do O₂ é maior.\n\nCompare as hipóteses e os cálculos alternativos:\n• He. M do He é menor.\n• São iguais. Volume igual não significa massa igual.\n• Depende só da forma do frasco. A forma não altera a relação ideal.\n• É impossível comparar. As massas molares resolvem a comparação.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nTerceiro caso: confira o que a pergunta está medindo\nPara um gás ideal a temperatura fixa, a pressão absoluta dobra. Como fica o volume molar?\n\nFaça uma primeira previsão usando palavras. Pergunte se o resultado esperado é uma contagem, uma propriedade, uma comparação ou um mecanismo. Escrever a previsão antes de olhar as alternativas ajuda a perceber quando dois valores semelhantes têm sentidos diferentes. Em seguida, explique em uma frase como o primeiro dado se conecta ao resultado. A resposta fica mais forte quando essa ligação pode ser checada no próprio enunciado.\n\nResultado: Cai pela metade. RT/P é inversamente proporcional a P.\n\nCompare as hipóteses e os cálculos alternativos:\n• Dobra. A relação com P é inversa.\n• Fica fixo. A temperatura fixa não elimina P da equação.\n• Cai a um quarto. Há um único fator dois na expressão.\n• Vira 22,4 L/mol. O valor exige P e T específicas.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nQuarto caso: escolha a conclusão sustentada\nUma amostra contém 56 g de N₂, M = 28 g/mol. Nas condições dadas, V/n = 24 L/mol. Qual seu volume?\n\nTente justificar a escolha para alguém que observou apenas o resultado final. Comece pelos fatos que o problema realmente fornece e mostre como a regra interpreta esses fatos. Se a conclusão depender de uma condição, mantenha essa condição na justificativa. Depois procure uma alteração pequena nos dados que exigiria outra resposta. Esse último passo ajuda a reconhecer onde termina a aplicação do raciocínio.\n\nResultado: 48 L n = 2 mol e V = 2 × 24.\n\nCompare as hipóteses e os cálculos alternativos:\n• 24 L É o volume de um mol nessas condições.\n• 44,8 L Usa 22,4 L/mol em condições diferentes.\n• 12 L Divide pelo número de mols.\n• 2 L 2 corresponde a n, em mol.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nLeitura crítica 1\nUma ficha dá massa molar do O₂ como 32 g/mol. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “16 g correspondem a 0,50 mol.” A razão 16/32 converte massa em quantidade. A segunda é “Cada molécula pesa 32 g.” O valor em gramas é por mol de moléculas.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nLeitura crítica 2\nUma amostra de gás ideal aquece sob pressão fixa. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “O volume por mol aumenta.” RT/P aumenta com T absoluta. A segunda é “O volume molar fica sempre em 22,4 L/mol.” Esse valor exige condições específicas.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nCheque o alcance da conclusão\nMassa molar é massa por mol, usualmente em g/mol. Volume molar é volume por mol, por exemplo em L/mol. Para um gás ideal, V/n = RT/P, de modo que informar a temperatura e a pressão é indispensável. Em 0 °C e 1 atm, o volume molar ideal é cerca de 22,4 L/mol; com pressão padrão de 1 bar, o valor nas mesmas condições térmicas é cerca de 22,7 L/mol.\n\nAo estudar, escolha uma das situações acima e altere só um dado. Explique quais partes da solução continuam iguais e quais precisam ser refeitas. Num problema numérico, experimente multiplicar o dado alterado por dois e veja se a resposta dobra, diminui ou continua igual. Num problema de classificação, tente retirar a observação decisiva e veja quais hipóteses continuam compatíveis. Isso separa a regra geral da informação específica fornecida por uma questão.\n\nTROCANDO EM MIÚDOS:\nComece por uma pergunta que você conseguiria fazer a um colega: o que mudou, o que ficou igual e qual informação me permite dizer isso? Em questões de Química, dá para errar mesmo lembrando a regra certa quando se usa a regra para o dado errado. Separe a situação da pergunta. Leia os símbolos em voz baixa. Se houver dois materiais ou dois momentos, dê um nome curto para cada um. Assim você consegue comparar as coisas na ordem que o texto pediu.\n\nUma amostra de 11 g de CO₂, cuja massa molar é 44 g/mol, contém 0,25 mol. A 0 °C e 1 atm, esse gás idealizado ocupa 0,25 × 22,4 = 5,6 L. A mesma massa de O₂ contém 11/32 mol, uma quantidade maior, e ocupa volume maior sob a mesma pressão e temperatura.\n\nExperimente com este caso. Uma bolsa contém 5,6 L de N₂ a 0 °C e 1 atm, com M = 28 g/mol. Qual a massa idealizada? A resposta é 7,0 g 5,6/22,4 = 0,25 mol; 0,25 × 28 = 7. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nExperimente com este caso. Uma amostra contém 56 g de N₂, M = 28 g/mol. Nas condições dadas, V/n = 24 L/mol. Qual seu volume? A resposta é 48 L n = 2 mol e V = 2 × 24. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nFaça uma checagem que cabe no rascunho: escreva o dado, desenhe uma seta e escreva o que ele permite concluir. Se precisar de uma segunda seta, diga qual regra leva desse resultado intermediário até a resposta. Uma explicação em duas frases pode ser suficiente. A primeira conta o que o problema mostrou. A segunda diz por que esse dado leva à sua escolha. Esse caminho ajuda em problemas com tabelas, desenhos e comparações.\n\nESQUEMA:\nLeia o cenário → destaque o dado decisivo → aplique a relação → confira o que foi pedido.\n\nPEGADINHAS:\n• 14 g Exigiria 0,50 mol.\n• He. M do He é menor.\n• Dobra. A relação com P é inversa.\n• 24 L É o volume de um mol nessas condições.\n\nNA PRÁTICA:\nUma amostra de 11 g de CO₂, cuja massa molar é 44 g/mol, contém 0,25 mol. A 0 °C e 1 atm, esse gás idealizado ocupa 0,25 × 22,4 = 5,6 L. A mesma massa de O₂ contém 11/32 mol, uma quantidade maior, e ocupa volume maior sob a mesma pressão e temperatura.",
+   "flashcards": [
+    {
+     "frente": "Uma ficha dá massa molar do O₂ como 32 g/mol. 16 g correspondem a 0,50 mol. Certo ou errado?",
+     "verso": "Certo. A razão 16/32 converte massa em quantidade.",
+     "dispositivo": "Transformações químicas — Massa molar, volume molar dos gases"
+    },
+    {
+     "frente": "Uma amostra de gás ideal aquece sob pressão fixa. O volume por mol aumenta. Certo ou errado?",
+     "verso": "Certo. RT/P aumenta com T absoluta.",
+     "dispositivo": "Transformações químicas — Massa molar, volume molar dos gases"
+    },
+    {
+     "frente": "Uma bolsa contém 5,6 L de N₂ a 0 °C e 1 atm, com M = 28 g/mol. Qual a massa idealizada?",
+     "verso": "7,0 g 5,6/22,4 = 0,25 mol; 0,25 × 28 = 7.",
+     "dispositivo": "Transformações químicas — Massa molar, volume molar dos gases"
+    },
+    {
+     "frente": "Igual volume de He e O₂ é coletado à mesma P e T. Qual amostra tem maior massa?",
+     "verso": "O₂. O número de mols é igual e M do O₂ é maior.",
+     "dispositivo": "Transformações químicas — Massa molar, volume molar dos gases"
+    },
+    {
+     "frente": "Para um gás ideal a temperatura fixa, a pressão absoluta dobra. Como fica o volume molar?",
+     "verso": "Cai pela metade. RT/P é inversamente proporcional a P.",
+     "dispositivo": "Transformações químicas — Massa molar, volume molar dos gases"
+    },
+    {
+     "frente": "Uma amostra contém 56 g de N₂, M = 28 g/mol. Nas condições dadas, V/n = 24 L/mol. Qual seu volume?",
+     "verso": "48 L n = 2 mol e V = 2 × 24.",
+     "dispositivo": "Transformações químicas — Massa molar, volume molar dos gases"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Uma ficha dá massa molar do O₂ como 32 g/mol.",
+     "enunciado": "16 g correspondem a 0,50 mol.",
+     "gabarito": "C",
+     "comentario": "Certo. A razão 16/32 converte massa em quantidade.",
+     "id": "enem-massa-volume-molar-gases-c14-q01",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Massa molar, volume molar dos gases",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma ficha dá massa molar do O₂ como 32 g/mol.",
+     "enunciado": "Cada molécula pesa 32 g.",
+     "gabarito": "E",
+     "comentario": "Errado. O valor em gramas é por mol de moléculas.",
+     "id": "enem-massa-volume-molar-gases-c14-q02",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Massa molar, volume molar dos gases",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma amostra de gás ideal aquece sob pressão fixa.",
+     "enunciado": "O volume por mol aumenta.",
+     "gabarito": "C",
+     "comentario": "Certo. RT/P aumenta com T absoluta.",
+     "id": "enem-massa-volume-molar-gases-c14-q03",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Massa molar, volume molar dos gases",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma amostra de gás ideal aquece sob pressão fixa.",
+     "enunciado": "O volume molar fica sempre em 22,4 L/mol.",
+     "gabarito": "E",
+     "comentario": "Errado. Esse valor exige condições específicas.",
+     "id": "enem-massa-volume-molar-gases-c14-q04",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Massa molar, volume molar dos gases",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma bolsa contém 5,6 L de N₂ a 0 °C e 1 atm, com M = 28 g/mol.",
+     "enunciado": "Qual a massa idealizada?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "14 g",
+      "B": "28 g",
+      "C": "5,6 g",
+      "D": "0,25 g",
+      "E": "7,0 g"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Exigiria 0,50 mol.",
+      "B": "Corresponde a um mol.",
+      "C": "Confunde volume com massa.",
+      "D": "0,25 é a quantidade em mol.",
+      "E": "5,6/22,4 = 0,25 mol; 0,25 × 28 = 7."
+     },
+     "comentario": "A) Exigiria 0,50 mol.\nB) Corresponde a um mol.\nC) Confunde volume com massa.\nD) 0,25 é a quantidade em mol.\nE) 5,6/22,4 = 0,25 mol; 0,25 × 28 = 7.",
+     "id": "enem-massa-volume-molar-gases-c14-q05",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Massa molar, volume molar dos gases",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Igual volume de He e O₂ é coletado à mesma P e T.",
+     "enunciado": "Qual amostra tem maior massa?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "He.",
+      "B": "O₂.",
+      "C": "São iguais.",
+      "D": "Depende só da forma do frasco.",
+      "E": "É impossível comparar."
+     },
+     "comentarios_por_alternativa": {
+      "A": "M do He é menor.",
+      "B": "O número de mols é igual e M do O₂ é maior.",
+      "C": "Volume igual não significa massa igual.",
+      "D": "A forma não altera a relação ideal.",
+      "E": "As massas molares resolvem a comparação."
+     },
+     "comentario": "A) M do He é menor.\nB) O número de mols é igual e M do O₂ é maior.\nC) Volume igual não significa massa igual.\nD) A forma não altera a relação ideal.\nE) As massas molares resolvem a comparação.",
+     "id": "enem-massa-volume-molar-gases-c14-q06",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Massa molar, volume molar dos gases",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Para um gás ideal a temperatura fixa, a pressão absoluta dobra.",
+     "enunciado": "Como fica o volume molar?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "Dobra.",
+      "B": "Fica fixo.",
+      "C": "Cai a um quarto.",
+      "D": "Cai pela metade.",
+      "E": "Vira 22,4 L/mol."
+     },
+     "comentarios_por_alternativa": {
+      "A": "A relação com P é inversa.",
+      "B": "A temperatura fixa não elimina P da equação.",
+      "C": "Há um único fator dois na expressão.",
+      "D": "RT/P é inversamente proporcional a P.",
+      "E": "O valor exige P e T específicas."
+     },
+     "comentario": "A) A relação com P é inversa.\nB) A temperatura fixa não elimina P da equação.\nC) Há um único fator dois na expressão.\nD) RT/P é inversamente proporcional a P.\nE) O valor exige P e T específicas.",
+     "id": "enem-massa-volume-molar-gases-c14-q07",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Massa molar, volume molar dos gases",
+     "dificuldade": "dificil"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma amostra contém 56 g de N₂, M = 28 g/mol. Nas condições dadas, V/n = 24 L/mol.",
+     "enunciado": "Qual seu volume?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "48 L",
+      "B": "24 L",
+      "C": "44,8 L",
+      "D": "12 L",
+      "E": "2 L"
+     },
+     "comentarios_por_alternativa": {
+      "A": "n = 2 mol e V = 2 × 24.",
+      "B": "É o volume de um mol nessas condições.",
+      "C": "Usa 22,4 L/mol em condições diferentes.",
+      "D": "Divide pelo número de mols.",
+      "E": "2 corresponde a n, em mol."
+     },
+     "comentario": "A) n = 2 mol e V = 2 × 24.\nB) É o volume de um mol nessas condições.\nC) Usa 22,4 L/mol em condições diferentes.\nD) Divide pelo número de mols.\nE) 2 corresponde a n, em mol.",
+     "id": "enem-massa-volume-molar-gases-c14-q08",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Massa molar, volume molar dos gases",
+     "dificuldade": "dificil"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Igual volume de He e O₂ é coletado à mesma P e T. Qual amostra tem maior massa? ___",
+     "opcoes": [
+      "He.",
+      "O₂.",
+      "São iguais.",
+      "Depende só da forma do frasco."
+     ],
+     "respostas": [
+      "O₂."
+     ],
+     "explicacao": "O número de mols é igual e M do O₂ é maior."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Para um gás ideal a temperatura fixa, a pressão absoluta dobra. Como fica o volume molar? ___",
+     "opcoes": [
+      "Dobra.",
+      "Cai pela metade.",
+      "Fica fixo.",
+      "Cai a um quarto."
+     ],
+     "respostas": [
+      "Cai pela metade."
+     ],
+     "explicacao": "RT/P é inversamente proporcional a P."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise do caso: Uma bolsa contém 5,6 L de N₂ a 0 °C e 1 atm, com M = 28 g/mol.",
+     "itens": [
+      "Localizar o que se quer descobrir: Qual a massa idealizada?",
+      "Separar as informações dadas no enunciado.",
+      "Aplicar a relação adequada aos dados.",
+      "Conferir se a conclusão responde à pergunta."
+     ],
+     "explicacao": "5,6/22,4 = 0,25 mol; 0,25 × 28 = 7."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Uma bolsa contém 5,6 L de N₂ a 0 °C e 1 atm, com M = 28 g/mol. Qual a massa idealizada?",
+       "7,0 g"
+      ],
+      [
+       "Igual volume de He e O₂ é coletado à mesma P e T. Qual amostra tem maior massa?",
+       "O₂."
+      ],
+      [
+       "Para um gás ideal a temperatura fixa, a pressão absoluta dobra. Como fica o volume molar?",
+       "Cai pela metade."
+      ],
+      [
+       "Uma amostra contém 56 g de N₂, M = 28 g/mol. Nas condições dadas, V/n = 24 L/mol. Qual seu volume?",
+       "48 L"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,253 @@
+{
+ "assunto": "Tempo, posição, velocidade e aceleração",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-grandezas-mecanica-c14",
+   "titulo": "Tempo, posição, velocidade e aceleração",
+   "microconteudo": "RAIO-X DA PROVA: Interprete a situação e justifique a conclusão com a relação física pertinente. Em uma dimensão, deslocamento é posição final menos inicial; velocidade média é deslocamento por tempo; aceleração média é variação de velocidade por tempo.\n\nPOR QUE IMPORTA:\nUm ônibus parte de uma parada, ganha velocidade, segue por um trecho e depois freia. As quatro etapas podem ser descritas dizendo onde ele está, quando isso ocorre, com que velocidade passa e como essa velocidade muda.\n\nO QUE A BANCA COBRA:\nInterprete a situação e justifique a conclusão com a relação física pertinente. Em uma dimensão, deslocamento é posição final menos inicial; velocidade média é deslocamento por tempo; aceleração média é variação de velocidade por tempo.\n\nENTENDA:\nComece por esta situação: Um ônibus parte de uma parada, ganha velocidade, segue por um trecho e depois freia. As quatro etapas podem ser descritas dizendo onde ele está, quando isso ocorre, com que velocidade passa e como essa velocidade muda. Leia os dados disponíveis e faça uma previsão antes de procurar uma fórmula. Em uma dimensão, deslocamento é posição final menos inicial; velocidade média é deslocamento por tempo; aceleração média é variação de velocidade por tempo. Um veículo vai de 4 m/s para 10 m/s em 3 s. Sua aceleração média é +2 m/s² no eixo adotado. A unidade expressa a alteração da velocidade a cada segundo.\n\nO sinal da posição indica apenas onde o corpo está em relação à origem. Um veículo pode começar em uma posição negativa e seguir no sentido positivo. Também pode estar numa posição positiva e se aproximar da origem. A posição muda quando há movimento naquele referencial; o sinal da velocidade descreve o sentido da mudança. Dizer que o veículo está a leste da escola é diferente de dizer que ele se move para leste. Nos exercícios, desenhe uma reta com a origem e uma seta de sentido positivo.\n\nOutra distinção é velocidade média e velocidade instantânea. Se você percorre 100 m em 20 s sem voltar, obtém módulo de velocidade média de 5 m/s. Dentro desse tempo, pode ter saído lentamente e atingido 8 m/s. A média descreve o intervalo inteiro e não informa todos os valores instantâneos. A aceleração média também resume uma mudança entre dois instantes. Se a velocidade sai de 0 e volta a 0, a aceleração média de todo o intervalo é zero, mesmo que o corpo tenha acelerado e freado no caminho.\n\nConfira o significado das palavras da questão. O que é posição? A localização medida em relação a uma origem.\nO que é intervalo de tempo? A diferença entre dois instantes.\nO que é deslocamento? A diferença entre a posição final e a inicial, no eixo adotado.\nO que é velocidade média? O deslocamento dividido pelo intervalo de tempo.\nO que é aceleração média? A variação da velocidade dividida pelo intervalo.\nQual é a unidade da aceleração no SI? Metro por segundo ao quadrado. Se dois termos parecem próximos, compare o que cada um descreve no caso inicial. Em Física, trocar o nome de uma grandeza pode mudar o cálculo ou até o que se está tentando explicar. Escreva, ao lado de cada símbolo, qual parte da situação ele representa e em que unidade seria medido.\n\nExemplo 1. Uma ciclista passa de x = 20 m a x = 65 m em 9 s. Qual é a velocidade média no eixo? A resposta é +5 m/s.. O deslocamento de +45 m dividido por 9 s dá +5 m/s. Usa a posição final no lugar do deslocamento. Confunde deslocamento e velocidade média. O deslocamento foi positivo. 9 é o tempo em segundos.\n\nExemplo 2. Um carrinho vai de −6 m/s a −2 m/s em 2 s. Qual é a aceleração média? A resposta é +2 m/s².. A variação é −2 − (−6) = +4 m/s. Troca o sinal da mudança. Ignora a divisão e o sinal correto. 4 m/s é a diferença de velocidades. A velocidade mudou.\n\nExemplo 3. Um atleta parte da marca zero, chega a 50 m e volta ao ponto inicial em 20 s. Qual é a velocidade média vetorial? A resposta é Zero.. O deslocamento total é zero. É distância total por tempo, sem considerar a volta vetorial. Usa só a ida e todo o tempo. Usa apenas o trecho de retorno. 100 m é a distância total, sem dividir pelo tempo.\n\nExemplo 4. Em uma reta, velocidade e aceleração de um carrinho são ambas negativas. O que acontece com a rapidez naquele instante? A resposta é Aumenta.. A aceleração aumenta o módulo da velocidade quando seus sinais coincidem. Essa seria a tendência se os sinais fossem opostos. A velocidade já foi dada como negativa, portanto não é nula. Rapidez é o módulo da velocidade. A aceleração não é zero.\n\nTeste de interpretação. Uma pessoa vai de x = 8 m a x = 3 m. Considere a afirmação: “Seu deslocamento é −5 m.” Certo. A posição final é cinco metros menor no eixo escolhido. Um móvel tem aceleração nula num trecho. Considere a afirmação: “Ele necessariamente está parado.” Errado. Pode estar com velocidade constante diferente de zero. A velocidade muda de +2 para +8 m/s em 3 s. Considere a afirmação: “A aceleração média é +2 m/s².” Certo. A variação de 6 m/s ocorre em três segundos. Um móvel apresenta velocidade negativa. Considere a afirmação: “Seu módulo de velocidade é negativo.” Errado. O sinal indica sentido; o módulo é não negativo.\n\nUma sequência de resolução é útil quando a questão traz mais dados que o necessário. Primeiro, fixar a origem e o sentido positivo. Depois, anotar valores iniciais e finais. Em seguida, calcular a diferença apropriada e dividir pelo intervalo quando necessário. Por último, interpretar o sinal e a unidade. Explique oralmente por que cada passo vem nessa posição. Se a última conclusão mudar quando você troca um detalhe do enunciado, localize qual hipótese provocou essa mudança. Isso ajuda a distinguir o resultado de uma conta das condições em que ele vale.\n\nEm uma prova, procure separar o que o texto observou, o que o modelo assume e o que você concluiu. Um valor informado é um dado. Uma condição como desprezar o atrito ou tratar o intervalo como uniforme pode ser uma hipótese. Já o resultado é aquilo que você obtém ao combinar os dados com a regra escolhida. Se houver tabela ou figura, confira a legenda, os eixos e as unidades antes de usar os números. Para revisar, refaça um dos exemplos mudando um dado por vez e preveja o sentido da mudança antes de calcular.\n\nCheck de leitura. Escolha dois exemplos desta lição e compare o papel de cada informação. O que foi medido diretamente? Qual relação precisou ser usada para inferir uma resposta? Há alguma observação que, sozinha, seria insuficiente? Se a resposta for um número, faça uma estimativa simples para checar se ele é plausível. Se for uma explicação, procure indicar qual condição a torna válida. Depois, tente escrever uma resposta que inclua o dado utilizado, o raciocínio e a conclusão em uma ou duas frases.\n\nAo montar um rascunho, deixe os dados de um lado e a conclusão do outro. Comece pelo dado que tem relação direta com a pergunta. Caso sobrem informações, veja se elas servem para comparar hipóteses ou apenas situar a história. Em uma comparação, mantenha a mesma referência e o mesmo intervalo sempre que o enunciado permitir. Quando um resultado contradiz a previsão inicial, revise primeiro a interpretação do que foi pedido; em seguida, revise a operação e as condições assumidas.\n\nPara fechar, compare estas duas situações e procure a diferença física entre elas. Uma pessoa vai de x = 8 m a x = 3 m. Um móvel tem aceleração nula num trecho. Quando o contexto muda, a leitura deve partir das informações apresentadas naquele caso. Considere a primeira afirmação e justifique o resultado: “Seu deslocamento é −5 m.” Certo. A posição final é cinco metros menor no eixo escolhido. Agora avalie a segunda: “Ele necessariamente está parado.” Errado. Pode estar com velocidade constante diferente de zero. Uma explicação adequada pode usar palavras e cálculos, desde que a relação com a situação seja clara. Pense em qual mudança nos dados tornaria cada afirmação válida ou inválida.\n\nUse este conjunto de definições como roteiro para checar o raciocínio. O que é posição? A localização medida em relação a uma origem.\nO que é intervalo de tempo? A diferença entre dois instantes.\nO que é deslocamento? A diferença entre a posição final e a inicial, no eixo adotado.\nO que é velocidade média? O deslocamento dividido pelo intervalo de tempo.\nO que é aceleração média? A variação da velocidade dividida pelo intervalo.\nQual é a unidade da aceleração no SI? Metro por segundo ao quadrado. Ao voltar aos dados do começo, selecione as definições pertinentes ao caso. Leia a conclusão como se ela fosse uma frase independente: confira a unidade, a referência adotada e a condição de validade.\n\nTROCANDO EM MIÚDOS:\nImagine a situação do começo da lição. Um ônibus parte de uma parada, ganha velocidade, segue por um trecho e depois freia. As quatro etapas podem ser descritas dizendo onde ele está, quando isso ocorre, com que velocidade passa e como essa velocidade muda. Um veículo vai de 4 m/s para 10 m/s em 3 s. Sua aceleração média é +2 m/s² no eixo adotado. A unidade expressa a alteração da velocidade a cada segundo.\n\nA regra principal pode ser escrita assim: Em uma dimensão, deslocamento é posição final menos inicial; velocidade média é deslocamento por tempo; aceleração média é variação de velocidade por tempo. Tente explicar essa regra em voz alta para alguém que ainda não viu o conteúdo, usando o exemplo inicial como apoio.\n\nAntes de marcar uma alternativa, faça esta checagem. O que é posição? A localização medida em relação a uma origem. O que é intervalo de tempo? A diferença entre dois instantes. O que é deslocamento? A diferença entre a posição final e a inicial, no eixo adotado. O que é velocidade média? O deslocamento dividido pelo intervalo de tempo. O que é aceleração média? A variação da velocidade dividida pelo intervalo. Qual é a unidade da aceleração no SI? Metro por segundo ao quadrado.\n\nEm um rascunho curto, anote quatro passos. Fixar a origem e o sentido positivo. Anotar valores iniciais e finais. Calcular a diferença apropriada e dividir pelo intervalo quando necessário. Interpretar o sinal e a unidade. Em seguida, tente aplicar os passos a um exemplo com números ou condições diferentes. As grandezas que foram medidas e o que você quer descobrir devem ficar em linhas separadas. Isso ajuda a identificar qual informação ainda falta.\n\nExperimente responder a esta situação sem olhar as opções. Uma ciclista passa de x = 20 m a x = 65 m em 9 s. Qual é a velocidade média no eixo? O deslocamento de +45 m dividido por 9 s dá +5 m/s. Depois, confira nos exemplos quais seriam as consequências de escolher uma interpretação diferente. Se tiver que refazer, comece pelas condições do problema e pelo significado de cada dado.\n\nPara fixar, releia uma afirmação verdadeira e uma falsa da lição. Reescreva a falsa trocando só o trecho necessário para corrigi-la. Na afirmação verdadeira, diga qual detalhe do enunciado permite chegar a essa conclusão. Assim você pratica explicar um resultado, além de reconhecer qual opção está certa.\n\nLEI SECA:\nEm uma dimensão, deslocamento é posição final menos inicial; velocidade média é deslocamento por tempo; aceleração média é variação de velocidade por tempo.\n\nSÚMULAS E TESES:\nUm veículo vai de 4 m/s para 10 m/s em 3 s. Sua aceleração média é +2 m/s² no eixo adotado. A unidade expressa a alteração da velocidade a cada segundo.\n\nESQUEMA:\nFixar a origem e o sentido positivo → Anotar valores iniciais e finais → Calcular a diferença apropriada e dividir pelo intervalo quando necessário → Interpretar o sinal e a unidade\n\nPEGADINHAS:\n1. Certo. A posição final é cinco metros menor no eixo escolhido.\n2. Errado. Pode estar com velocidade constante diferente de zero.\n3. Certo. A variação de 6 m/s ocorre em três segundos.\n4. Errado. O sinal indica sentido; o módulo é não negativo.\n\nDOUTRINA:\nOpenStax — College Physics 2e, Acceleration\n\nNA PRÁTICA:\nExemplo 1. Uma ciclista passa de x = 20 m a x = 65 m em 9 s. Qual é a velocidade média no eixo? A resposta é +5 m/s.. O deslocamento de +45 m dividido por 9 s dá +5 m/s. Usa a posição final no lugar do deslocamento. Confunde deslocamento e velocidade média. O deslocamento foi positivo. 9 é o tempo em segundos.",
+   "flashcards": [
+    {
+     "frente": "O que é posição?",
+     "verso": "A localização medida em relação a uma origem.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Grandezas fundamentais da mecânica: tempo, espaço, velocidade e aceleração"
+    },
+    {
+     "frente": "O que é intervalo de tempo?",
+     "verso": "A diferença entre dois instantes.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Grandezas fundamentais da mecânica: tempo, espaço, velocidade e aceleração"
+    },
+    {
+     "frente": "O que é deslocamento?",
+     "verso": "A diferença entre a posição final e a inicial, no eixo adotado.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Grandezas fundamentais da mecânica: tempo, espaço, velocidade e aceleração"
+    },
+    {
+     "frente": "O que é velocidade média?",
+     "verso": "O deslocamento dividido pelo intervalo de tempo.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Grandezas fundamentais da mecânica: tempo, espaço, velocidade e aceleração"
+    },
+    {
+     "frente": "O que é aceleração média?",
+     "verso": "A variação da velocidade dividida pelo intervalo.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Grandezas fundamentais da mecânica: tempo, espaço, velocidade e aceleração"
+    },
+    {
+     "frente": "Qual é a unidade da aceleração no SI?",
+     "verso": "Metro por segundo ao quadrado.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Grandezas fundamentais da mecânica: tempo, espaço, velocidade e aceleração"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-grandezas-mecanica-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Uma pessoa vai de x = 8 m a x = 3 m.",
+     "enunciado": "Seu deslocamento é −5 m.",
+     "gabarito": "C",
+     "comentario": "Certo. A posição final é cinco metros menor no eixo escolhido.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Grandezas fundamentais da mecânica: tempo, espaço, velocidade e aceleração"
+    },
+    {
+     "id": "enem-fisica-grandezas-mecanica-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Um móvel tem aceleração nula num trecho.",
+     "enunciado": "Ele necessariamente está parado.",
+     "gabarito": "E",
+     "comentario": "Errado. Pode estar com velocidade constante diferente de zero.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Grandezas fundamentais da mecânica: tempo, espaço, velocidade e aceleração"
+    },
+    {
+     "id": "enem-fisica-grandezas-mecanica-c14-q03",
+     "tipo": "ce",
+     "texto_base": "A velocidade muda de +2 para +8 m/s em 3 s.",
+     "enunciado": "A aceleração média é +2 m/s².",
+     "gabarito": "C",
+     "comentario": "Certo. A variação de 6 m/s ocorre em três segundos.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Grandezas fundamentais da mecânica: tempo, espaço, velocidade e aceleração"
+    },
+    {
+     "id": "enem-fisica-grandezas-mecanica-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Um móvel apresenta velocidade negativa.",
+     "enunciado": "Seu módulo de velocidade é negativo.",
+     "gabarito": "E",
+     "comentario": "Errado. O sinal indica sentido; o módulo é não negativo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Grandezas fundamentais da mecânica: tempo, espaço, velocidade e aceleração"
+    },
+    {
+     "id": "enem-fisica-grandezas-mecanica-c14-q05",
+     "tipo": "me",
+     "texto_base": "Uma ciclista passa de x = 20 m a x = 65 m em 9 s.",
+     "enunciado": "Qual é a velocidade média no eixo?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "+7,2 m/s.",
+      "B": "+5 m/s.",
+      "C": "+45 m/s.",
+      "D": "−5 m/s.",
+      "E": "+9 m/s."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Usa a posição final no lugar do deslocamento.",
+      "B": "Correta. O deslocamento de +45 m dividido por 9 s dá +5 m/s.",
+      "C": "Confunde deslocamento e velocidade média.",
+      "D": "O deslocamento foi positivo.",
+      "E": "9 é o tempo em segundos."
+     },
+     "comentario": "A) Usa a posição final no lugar do deslocamento.\nB) Correta. O deslocamento de +45 m dividido por 9 s dá +5 m/s.\nC) Confunde deslocamento e velocidade média.\nD) O deslocamento foi positivo.\nE) 9 é o tempo em segundos.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Grandezas fundamentais da mecânica: tempo, espaço, velocidade e aceleração"
+    },
+    {
+     "id": "enem-fisica-grandezas-mecanica-c14-q06",
+     "tipo": "me",
+     "texto_base": "Um carrinho vai de −6 m/s a −2 m/s em 2 s.",
+     "enunciado": "Qual é a aceleração média?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "−2 m/s².",
+      "B": "−4 m/s².",
+      "C": "+4 m/s².",
+      "D": "+2 m/s².",
+      "E": "0 m/s²."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Troca o sinal da mudança.",
+      "B": "Ignora a divisão e o sinal correto.",
+      "C": "4 m/s é a diferença de velocidades.",
+      "D": "Correta. A variação é −2 − (−6) = +4 m/s.",
+      "E": "A velocidade mudou."
+     },
+     "comentario": "A) Troca o sinal da mudança.\nB) Ignora a divisão e o sinal correto.\nC) 4 m/s é a diferença de velocidades.\nD) Correta. A variação é −2 − (−6) = +4 m/s.\nE) A velocidade mudou.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Grandezas fundamentais da mecânica: tempo, espaço, velocidade e aceleração"
+    },
+    {
+     "id": "enem-fisica-grandezas-mecanica-c14-q07",
+     "tipo": "me",
+     "texto_base": "Um atleta parte da marca zero, chega a 50 m e volta ao ponto inicial em 20 s.",
+     "enunciado": "Qual é a velocidade média vetorial?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "Zero.",
+      "B": "5 m/s no sentido inicial.",
+      "C": "2,5 m/s.",
+      "D": "−2,5 m/s.",
+      "E": "100 m/s."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. O deslocamento total é zero.",
+      "B": "É distância total por tempo, sem considerar a volta vetorial.",
+      "C": "Usa só a ida e todo o tempo.",
+      "D": "Usa apenas o trecho de retorno.",
+      "E": "100 m é a distância total, sem dividir pelo tempo."
+     },
+     "comentario": "A) Correta. O deslocamento total é zero.\nB) É distância total por tempo, sem considerar a volta vetorial.\nC) Usa só a ida e todo o tempo.\nD) Usa apenas o trecho de retorno.\nE) 100 m é a distância total, sem dividir pelo tempo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Grandezas fundamentais da mecânica: tempo, espaço, velocidade e aceleração"
+    },
+    {
+     "id": "enem-fisica-grandezas-mecanica-c14-q08",
+     "tipo": "me",
+     "texto_base": "Em uma reta, velocidade e aceleração de um carrinho são ambas negativas.",
+     "enunciado": "O que acontece com a rapidez naquele instante?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Diminui.",
+      "B": "Fica zero.",
+      "C": "É negativa.",
+      "D": "É constante.",
+      "E": "Aumenta."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Essa seria a tendência se os sinais fossem opostos.",
+      "B": "A velocidade já foi dada como negativa, portanto não é nula.",
+      "C": "Rapidez é o módulo da velocidade.",
+      "D": "A aceleração não é zero.",
+      "E": "Correta. A aceleração aumenta o módulo da velocidade quando seus sinais coincidem."
+     },
+     "comentario": "A) Essa seria a tendência se os sinais fossem opostos.\nB) A velocidade já foi dada como negativa, portanto não é nula.\nC) Rapidez é o módulo da velocidade.\nD) A aceleração não é zero.\nE) Correta. A aceleração aumenta o módulo da velocidade quando seus sinais coincidem.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Grandezas fundamentais da mecânica: tempo, espaço, velocidade e aceleração"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O que é posição? Resposta: ___.",
+     "opcoes": [
+      "A localização medida em relação a uma origem.",
+      "A diferença entre dois instantes.",
+      "A diferença entre a posição final e a inicial, no eixo adotado.",
+      "O deslocamento dividido pelo intervalo de tempo."
+     ],
+     "respostas": [
+      "A localização medida em relação a uma origem."
+     ],
+     "explicacao": "A localização medida em relação a uma origem."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "O que é aceleração média? Resposta: ___.",
+     "opcoes": [
+      "A diferença entre a posição final e a inicial, no eixo adotado.",
+      "O deslocamento dividido pelo intervalo de tempo.",
+      "A variação da velocidade dividida pelo intervalo.",
+      "Metro por segundo ao quadrado."
+     ],
+     "respostas": [
+      "A variação da velocidade dividida pelo intervalo."
+     ],
+     "explicacao": "A variação da velocidade dividida pelo intervalo."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma situação sobre tempo, posição, velocidade e aceleração.",
+     "itens": [
+      "Fixar a origem e o sentido positivo.",
+      "Anotar valores iniciais e finais.",
+      "Calcular a diferença apropriada e dividir pelo intervalo quando necessário.",
+      "Interpretar o sinal e a unidade."
+     ],
+     "explicacao": "Em uma dimensão, deslocamento é posição final menos inicial; velocidade média é deslocamento por tempo; aceleração média é variação de velocidade por tempo."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O que é posição?",
+       "A localização medida em relação a uma origem."
+      ],
+      [
+       "O que é intervalo de tempo?",
+       "A diferença entre dois instantes."
+      ],
+      [
+       "O que é deslocamento?",
+       "A diferença entre a posição final e a inicial, no eixo adotado."
+      ],
+      [
+       "O que é velocidade média?",
+       "O deslocamento dividido pelo intervalo de tempo."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

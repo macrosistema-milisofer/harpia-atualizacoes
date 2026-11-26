@@ -1,0 +1,253 @@
+{
+ "assunto": "Diagramas de corpo livre",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-diagramas-forcas-c14",
+   "titulo": "Diagramas de corpo livre",
+   "microconteudo": "RAIO-X DA PROVA: Interprete a situação e justifique a conclusão com a relação física pertinente. Um diagrama de corpo livre inclui forças reais no corpo isolado. Velocidade e aceleração podem ser anotadas à parte.\n\nPOR QUE IMPORTA:\nPara prever o movimento de um carrinho puxado por uma corda, desenhe apenas o carrinho e as forças que ele recebe.\n\nO QUE A BANCA COBRA:\nInterprete a situação e justifique a conclusão com a relação física pertinente. Um diagrama de corpo livre inclui forças reais no corpo isolado. Velocidade e aceleração podem ser anotadas à parte.\n\nENTENDA:\nComece por esta situação: Para prever o movimento de um carrinho puxado por uma corda, desenhe apenas o carrinho e as forças que ele recebe. Leia os dados disponíveis e faça uma previsão antes de procurar uma fórmula. Um diagrama de corpo livre inclui forças reais no corpo isolado. Velocidade e aceleração podem ser anotadas à parte. Em um bloco sobre piso horizontal puxado para a direita, inclua peso, normal, tração e, se houver deslizamento para a direita, atrito para a esquerda.\n\nUm desenho útil permite explicar, para cada seta, quem exerce a força e quem a recebe. Se não for possível dar nome à interação, confira se a seta é de velocidade, aceleração ou alguma referência geométrica. Em um plano inclinado, eixos paralelos e perpendiculares ao plano costumam simplificar a análise.\n\nEm um bloco sobre piso horizontal puxado para a direita, inclua peso, normal, tração e, se houver deslizamento para a direita, atrito para a esquerda. Ao interpretar esse exemplo, escreva a condição física que torna possível prever o resultado. Pergunte se ela continuaria valendo caso um dos dados omitidos passasse a ter importância. Diferencie o que você consegue concluir numericamente do que pode apenas prever qualitativamente. A descrição do resultado deve manter explícito qual corpo ou conjunto está sendo observado e em qual intervalo a afirmação é válida.\n\nConfira o significado das palavras da questão. O que o diagrama representa? As forças que agem sobre o corpo escolhido.\nA reação deve aparecer no mesmo diagrama? Não quando ela age em outro corpo.\nQual força aponta para o chão? O peso, no modelo local usual.\nOnde desenhar a normal? Perpendicular ao contato.\nVelocidade é força? Não. Ela descreve o movimento.\nPara que decompor forças? Para somar suas contribuições em cada eixo. Se dois termos parecem próximos, compare o que cada um descreve no caso inicial. Em Física, trocar o nome de uma grandeza pode mudar o cálculo ou até o que se está tentando explicar. Escreva, ao lado de cada símbolo, qual parte da situação ele representa e em que unidade seria medido.\n\nExemplo 1. Um bloco repousa no piso horizontal, sem corda e sem tendência a deslizar. Quantas forças relevantes devem ser desenhadas? A resposta é 2 forças. Peso e normal são as duas forças presentes no modelo. O apoio também interage com o bloco. Não há tração ou atrito relevante nesse cenário. Adicionaria setas sem interação descrita. Equilíbrio não significa ausência de forças.\n\nExemplo 2. Um peso de 24 N está suspenso e parado por um fio vertical. Qual a tração? A resposta é 24 N. A tração compensa o peso. O objeto aceleraria para baixo. Não há dois fios dividindo a carga. Somaria peso e tração como módulos. Não decorre do equilíbrio.\n\nExemplo 3. No diagrama de um bloco, há 10 N à direita e 6 N à esquerda; as forças verticais se equilibram. Qual a resultante, com direita positiva? A resposta é +4 N. Some +10 e −6. Soma módulos de sentidos opostos. Inverte o sentido. Ignora a esquerda. Os módulos horizontais diferem.\n\nExemplo 4. Um fio inclinado puxa uma caixa com componente vertical de +5 N. O peso vale 20 N e não há aceleração vertical. Qual o módulo da normal do piso horizontal? A resposta é 15 N. Normal e componente da tração somam 20 N. A tração ajuda a sustentar a caixa. Ignora os 5 N. É apenas a componente da tração. A componente da tração não sustenta todo o peso.\n\nTeste de interpretação. Um objeto está em queda livre ideal. Considere a afirmação: “O peso é a única força relevante no diagrama.” Certo. O modelo despreza o ar. Uma bicicleta avança para a frente. Considere a afirmação: “Uma seta de velocidade deve ser somada às forças.” Errado. Velocidade tem unidade e função diferentes. Uma caixa é sustentada por um fio vertical. Considere a afirmação: “A tração no diagrama aponta para cima.” Certo. O fio puxa a caixa em direção ao ponto de sustentação. O chão empurra uma caixa para cima. Considere a afirmação: “A força da caixa sobre o chão entra no diagrama da caixa.” Errado. Essa força age sobre o chão.\n\nUma sequência de resolução é útil quando a questão traz mais dados que o necessário. Primeiro, escolher e isolar o corpo. Depois, relacionar cada seta a uma interação. Em seguida, indicar direções e sentidos. Por último, somar componentes ou testar o equilíbrio. Explique oralmente por que cada passo vem nessa posição. Se a última conclusão mudar quando você troca um detalhe do enunciado, localize qual hipótese provocou essa mudança. Isso ajuda a distinguir o resultado de uma conta das condições em que ele vale.\n\nEm uma prova, procure separar o que o texto observou, o que o modelo assume e o que você concluiu. Um valor informado é um dado. Uma condição como desprezar o atrito ou tratar o intervalo como uniforme pode ser uma hipótese. Já o resultado é aquilo que você obtém ao combinar os dados com a regra escolhida. Se houver tabela ou figura, confira a legenda, os eixos e as unidades antes de usar os números. Para revisar, refaça um dos exemplos mudando um dado por vez e preveja o sentido da mudança antes de calcular.\n\nCheck de leitura. Escolha dois exemplos desta lição e compare o papel de cada informação. O que foi medido diretamente? Qual relação precisou ser usada para inferir uma resposta? Há alguma observação que, sozinha, seria insuficiente? Se a resposta for um número, faça uma estimativa simples para checar se ele é plausível. Se for uma explicação, procure indicar qual condição a torna válida. Depois, tente escrever uma resposta que inclua o dado utilizado, o raciocínio e a conclusão em uma ou duas frases.\n\nAo montar um rascunho, deixe os dados de um lado e a conclusão do outro. Comece pelo dado que tem relação direta com a pergunta. Caso sobrem informações, veja se elas servem para comparar hipóteses ou apenas situar a história. Em uma comparação, mantenha a mesma referência e o mesmo intervalo sempre que o enunciado permitir. Quando um resultado contradiz a previsão inicial, revise primeiro a interpretação do que foi pedido; em seguida, revise a operação e as condições assumidas.\n\nNa primeira, destaque o que o enunciado informa sobre as condições da situação. Na segunda, explique como a regra escolhida conecta essas condições ao resultado. Se houver um cálculo, escreva as unidades intermediárias. Em uma resposta sobre direção ou sentido, declare a orientação de referência. Uma alternativa pode conter um número familiar do enunciado e ainda responder sobre a grandeza errada.\n\nPara fechar, compare estas duas situações e procure a diferença física entre elas. Um objeto está em queda livre ideal. Uma bicicleta avança para a frente. Quando o contexto muda, a leitura deve partir das informações apresentadas naquele caso. Considere a primeira afirmação e justifique o resultado: “O peso é a única força relevante no diagrama.” Certo. O modelo despreza o ar. Agora avalie a segunda: “Uma seta de velocidade deve ser somada às forças.” Errado. Velocidade tem unidade e função diferentes. Uma explicação adequada pode usar palavras e cálculos, desde que a relação com a situação seja clara. Pense em qual mudança nos dados tornaria cada afirmação válida ou inválida.\n\nUse este conjunto de definições como roteiro para checar o raciocínio. O que o diagrama representa? As forças que agem sobre o corpo escolhido.\nA reação deve aparecer no mesmo diagrama? Não quando ela age em outro corpo.\nQual força aponta para o chão? O peso, no modelo local usual.\nOnde desenhar a normal? Perpendicular ao contato.\nVelocidade é força? Não. Ela descreve o movimento.\nPara que decompor forças? Para somar suas contribuições em cada eixo. Ao voltar aos dados do começo, selecione as definições pertinentes ao caso. Leia a conclusão como se ela fosse uma frase independente: confira a unidade, a referência adotada e a condição de validade.\n\nTROCANDO EM MIÚDOS:\nImagine a situação do começo da lição. Para prever o movimento de um carrinho puxado por uma corda, desenhe apenas o carrinho e as forças que ele recebe. Em um bloco sobre piso horizontal puxado para a direita, inclua peso, normal, tração e, se houver deslizamento para a direita, atrito para a esquerda.\n\nA regra principal pode ser escrita assim: Um diagrama de corpo livre inclui forças reais no corpo isolado. Velocidade e aceleração podem ser anotadas à parte. Tente explicar essa regra em voz alta para alguém que ainda não viu o conteúdo, usando o exemplo inicial como apoio.\n\nAntes de marcar uma alternativa, faça esta checagem. O que o diagrama representa? As forças que agem sobre o corpo escolhido. A reação deve aparecer no mesmo diagrama? Não quando ela age em outro corpo. Qual força aponta para o chão? O peso, no modelo local usual. Onde desenhar a normal? Perpendicular ao contato. Velocidade é força? Não. Ela descreve o movimento. Para que decompor forças? Para somar suas contribuições em cada eixo.\n\nEm um rascunho curto, anote quatro passos. Escolher e isolar o corpo. Relacionar cada seta a uma interação. Indicar direções e sentidos. Somar componentes ou testar o equilíbrio. Em seguida, tente aplicar os passos a um exemplo com números ou condições diferentes. As grandezas que foram medidas e o que você quer descobrir devem ficar em linhas separadas. Isso ajuda a identificar qual informação ainda falta.\n\nExperimente responder a esta situação sem olhar as opções. Um bloco repousa no piso horizontal, sem corda e sem tendência a deslizar. Quantas forças relevantes devem ser desenhadas? Peso e normal são as duas forças presentes no modelo. Depois, confira nos exemplos quais seriam as consequências de escolher uma interpretação diferente. Se tiver que refazer, comece pelas condições do problema e pelo significado de cada dado.\n\nPara fixar, releia uma afirmação verdadeira e uma falsa da lição. Reescreva a falsa trocando só o trecho necessário para corrigi-la. Na afirmação verdadeira, diga qual detalhe do enunciado permite chegar a essa conclusão. Assim você pratica explicar um resultado, além de reconhecer qual opção está certa.\n\nLEI SECA:\nUm diagrama de corpo livre inclui forças reais no corpo isolado. Velocidade e aceleração podem ser anotadas à parte.\n\nSÚMULAS E TESES:\nEm um bloco sobre piso horizontal puxado para a direita, inclua peso, normal, tração e, se houver deslizamento para a direita, atrito para a esquerda.\n\nESQUEMA:\nEscolher e isolar o corpo → Relacionar cada seta a uma interação → Indicar direções e sentidos → Somar componentes ou testar o equilíbrio\n\nPEGADINHAS:\n1. Certo. O modelo despreza o ar.\n2. Errado. Velocidade tem unidade e função diferentes.\n3. Certo. O fio puxa a caixa em direção ao ponto de sustentação.\n4. Errado. Essa força age sobre o chão.\n\nDOUTRINA:\nOpenStax — College Physics 2e, Further Applications of Newton’s Laws\n\nNA PRÁTICA:\nExemplo 1. Um bloco repousa no piso horizontal, sem corda e sem tendência a deslizar. Quantas forças relevantes devem ser desenhadas? A resposta é 2 forças. Peso e normal são as duas forças presentes no modelo. O apoio também interage com o bloco. Não há tração ou atrito relevante nesse cenário. Adicionaria setas sem interação descrita. Equilíbrio não significa ausência de forças.",
+   "flashcards": [
+    {
+     "frente": "O que o diagrama representa?",
+     "verso": "As forças que agem sobre o corpo escolhido.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Diagramas de forças"
+    },
+    {
+     "frente": "A reação deve aparecer no mesmo diagrama?",
+     "verso": "Não quando ela age em outro corpo.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Diagramas de forças"
+    },
+    {
+     "frente": "Qual força aponta para o chão?",
+     "verso": "O peso, no modelo local usual.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Diagramas de forças"
+    },
+    {
+     "frente": "Onde desenhar a normal?",
+     "verso": "Perpendicular ao contato.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Diagramas de forças"
+    },
+    {
+     "frente": "Velocidade é força?",
+     "verso": "Não. Ela descreve o movimento.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Diagramas de forças"
+    },
+    {
+     "frente": "Para que decompor forças?",
+     "verso": "Para somar suas contribuições em cada eixo.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Diagramas de forças"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-diagramas-forcas-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Um objeto está em queda livre ideal.",
+     "enunciado": "O peso é a única força relevante no diagrama.",
+     "gabarito": "C",
+     "comentario": "Certo. O modelo despreza o ar.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Diagramas de forças"
+    },
+    {
+     "id": "enem-fisica-diagramas-forcas-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Uma bicicleta avança para a frente.",
+     "enunciado": "Uma seta de velocidade deve ser somada às forças.",
+     "gabarito": "E",
+     "comentario": "Errado. Velocidade tem unidade e função diferentes.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Diagramas de forças"
+    },
+    {
+     "id": "enem-fisica-diagramas-forcas-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Uma caixa é sustentada por um fio vertical.",
+     "enunciado": "A tração no diagrama aponta para cima.",
+     "gabarito": "C",
+     "comentario": "Certo. O fio puxa a caixa em direção ao ponto de sustentação.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Diagramas de forças"
+    },
+    {
+     "id": "enem-fisica-diagramas-forcas-c14-q04",
+     "tipo": "ce",
+     "texto_base": "O chão empurra uma caixa para cima.",
+     "enunciado": "A força da caixa sobre o chão entra no diagrama da caixa.",
+     "gabarito": "E",
+     "comentario": "Errado. Essa força age sobre o chão.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Diagramas de forças"
+    },
+    {
+     "id": "enem-fisica-diagramas-forcas-c14-q05",
+     "tipo": "me",
+     "texto_base": "Um bloco repousa no piso horizontal, sem corda e sem tendência a deslizar.",
+     "enunciado": "Quantas forças relevantes devem ser desenhadas?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "1 forças",
+      "B": "2 forças",
+      "C": "3 forças",
+      "D": "4 forças",
+      "E": "0 forças"
+     },
+     "comentarios_por_alternativa": {
+      "A": "O apoio também interage com o bloco.",
+      "B": "Correta. Peso e normal são as duas forças presentes no modelo.",
+      "C": "Não há tração ou atrito relevante nesse cenário.",
+      "D": "Adicionaria setas sem interação descrita.",
+      "E": "Equilíbrio não significa ausência de forças."
+     },
+     "comentario": "A) O apoio também interage com o bloco.\nB) Correta. Peso e normal são as duas forças presentes no modelo.\nC) Não há tração ou atrito relevante nesse cenário.\nD) Adicionaria setas sem interação descrita.\nE) Equilíbrio não significa ausência de forças.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Diagramas de forças"
+    },
+    {
+     "id": "enem-fisica-diagramas-forcas-c14-q06",
+     "tipo": "me",
+     "texto_base": "Um peso de 24 N está suspenso e parado por um fio vertical.",
+     "enunciado": "Qual a tração?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "0 N",
+      "B": "12 N",
+      "C": "48 N",
+      "D": "24 N",
+      "E": "6 N"
+     },
+     "comentarios_por_alternativa": {
+      "A": "O objeto aceleraria para baixo.",
+      "B": "Não há dois fios dividindo a carga.",
+      "C": "Somaria peso e tração como módulos.",
+      "D": "Correta. A tração compensa o peso.",
+      "E": "Não decorre do equilíbrio."
+     },
+     "comentario": "A) O objeto aceleraria para baixo.\nB) Não há dois fios dividindo a carga.\nC) Somaria peso e tração como módulos.\nD) Correta. A tração compensa o peso.\nE) Não decorre do equilíbrio.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Diagramas de forças"
+    },
+    {
+     "id": "enem-fisica-diagramas-forcas-c14-q07",
+     "tipo": "me",
+     "texto_base": "No diagrama de um bloco, há 10 N à direita e 6 N à esquerda; as forças verticais se equilibram.",
+     "enunciado": "Qual a resultante, com direita positiva?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "+4 N",
+      "B": "+16 N",
+      "C": "−4 N",
+      "D": "+10 N",
+      "E": "0 N"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Some +10 e −6.",
+      "B": "Soma módulos de sentidos opostos.",
+      "C": "Inverte o sentido.",
+      "D": "Ignora a esquerda.",
+      "E": "Os módulos horizontais diferem."
+     },
+     "comentario": "A) Correta. Some +10 e −6.\nB) Soma módulos de sentidos opostos.\nC) Inverte o sentido.\nD) Ignora a esquerda.\nE) Os módulos horizontais diferem.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Diagramas de forças"
+    },
+    {
+     "id": "enem-fisica-diagramas-forcas-c14-q08",
+     "tipo": "me",
+     "texto_base": "Um fio inclinado puxa uma caixa com componente vertical de +5 N. O peso vale 20 N e não há aceleração vertical.",
+     "enunciado": "Qual o módulo da normal do piso horizontal?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "25 N",
+      "B": "20 N",
+      "C": "5 N",
+      "D": "0 N",
+      "E": "15 N"
+     },
+     "comentarios_por_alternativa": {
+      "A": "A tração ajuda a sustentar a caixa.",
+      "B": "Ignora os 5 N.",
+      "C": "É apenas a componente da tração.",
+      "D": "A componente da tração não sustenta todo o peso.",
+      "E": "Correta. Normal e componente da tração somam 20 N."
+     },
+     "comentario": "A) A tração ajuda a sustentar a caixa.\nB) Ignora os 5 N.\nC) É apenas a componente da tração.\nD) A componente da tração não sustenta todo o peso.\nE) Correta. Normal e componente da tração somam 20 N.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Diagramas de forças"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O que o diagrama representa? Resposta: ___.",
+     "opcoes": [
+      "As forças que agem sobre o corpo escolhido.",
+      "Não quando ela age em outro corpo.",
+      "O peso, no modelo local usual.",
+      "Perpendicular ao contato."
+     ],
+     "respostas": [
+      "As forças que agem sobre o corpo escolhido."
+     ],
+     "explicacao": "As forças que agem sobre o corpo escolhido."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Velocidade é força? Resposta: ___.",
+     "opcoes": [
+      "O peso, no modelo local usual.",
+      "Perpendicular ao contato.",
+      "Não. Ela descreve o movimento.",
+      "Para somar suas contribuições em cada eixo."
+     ],
+     "respostas": [
+      "Não. Ela descreve o movimento."
+     ],
+     "explicacao": "Não. Ela descreve o movimento."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma situação sobre diagramas de corpo livre.",
+     "itens": [
+      "Escolher e isolar o corpo.",
+      "Relacionar cada seta a uma interação.",
+      "Indicar direções e sentidos.",
+      "Somar componentes ou testar o equilíbrio."
+     ],
+     "explicacao": "Um diagrama de corpo livre inclui forças reais no corpo isolado. Velocidade e aceleração podem ser anotadas à parte."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O que o diagrama representa?",
+       "As forças que agem sobre o corpo escolhido."
+      ],
+      [
+       "A reação deve aparecer no mesmo diagrama?",
+       "Não quando ela age em outro corpo."
+      ],
+      [
+       "Qual força aponta para o chão?",
+       "O peso, no modelo local usual."
+      ],
+      [
+       "Onde desenhar a normal?",
+       "Perpendicular ao contato."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

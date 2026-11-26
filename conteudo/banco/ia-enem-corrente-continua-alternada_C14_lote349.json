@@ -1,0 +1,253 @@
+{
+ "assunto": "Correntes contínua e alternada",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-corrente-continua-alternada-c14",
+   "titulo": "Correntes contínua e alternada",
+   "microconteudo": "RAIO-X DA PROVA: Use a relação física indicada e confira as condições em que ela se aplica. Corrente contínua tem sentido fixo, embora seu módulo possa variar. Corrente alternada inverte o sentido periodicamente.\n\nPOR QUE IMPORTA:\nUma pilha alimenta um circuito mantendo polaridade, enquanto a rede elétrica fornece tensão alternada. A diferença aparece no sentido da corrente ao longo do tempo.\n\nO QUE A BANCA COBRA:\nUse a relação física indicada e confira as condições em que ela se aplica. Corrente contínua tem sentido fixo, embora seu módulo possa variar. Corrente alternada inverte o sentido periodicamente.\n\nENTENDA:\nUma pilha alimenta um circuito mantendo polaridade, enquanto a rede elétrica fornece tensão alternada. A diferença aparece no sentido da corrente ao longo do tempo.\n\nCorrente contínua tem sentido fixo, embora seu módulo possa variar. Corrente alternada inverte o sentido periodicamente.\n\nExemplo resolvido. Uma corrente senoidal completa 24 ciclos em 0,4 s. A frequência é 24/0,4 = 60 Hz e o período é aproximadamente 0,0167 s.\n\nOutro exemplo. Uma corrente percorre um motor sempre no mesmo sentido, com 0,4 A por 3 s e 0,7 A por 2 s. A carga total no intervalo é 0,4 × 3 + 0,7 × 2 = 2,6 C. A mudança de intensidade não a torna alternada.\n\nUma fonte de eletrônica pode receber alimentação alternada e entregar saída de polaridade fixa. Entre essas etapas, retificação e filtragem cumprem papéis diferentes. A retificação torna o sentido unidirecional no modelo usual; a filtragem pode diminuir a oscilação residual. A palavra contínua não exige ausência completa dessa oscilação.\n\nPara explicar o resultado, use o vocabulário da situação. O que define corrente contínua? Seu sentido se mantém. O que define corrente alternada? O sentido se inverte periodicamente. Como calcular frequência? Divida o número de ciclos pelo tempo. Como calcular período? Use o inverso da frequência. Qual é a unidade da frequência? Hertz. Que função tem um retificador? Converter uma alimentação alternada em corrente de sentido fixo pulsante, antes de eventual filtragem.\n\nNa hora de resolver no papel, siga a sequência abaixo. Ler o eixo de tempo. Observar se o sinal se inverte. Contar ciclos completos. Calcular frequência ou carga conforme a pergunta. Depois, escreva o resultado em uma frase completa. Um número isolado pode estar correto e, ainda assim, deixar ambíguo o que você calculou. Informe a unidade quando houver medida e identifique o objeto, a região ou o intervalo a que o resultado se refere.\n\nEm corrente alternada, a frequência conta ciclos completos. Uma senoide pode cruzar zero duas vezes por ciclo, por isso contar inversões como ciclos pode dobrar a frequência calculada.\n\nReleia os dois exemplos resolvidos e tente antecipar o desfecho sem consultar o cálculo. No primeiro exemplo, identifique qual dado determina diretamente a resposta. No segundo, diga qual condição deve permanecer válida para que a conclusão se mantenha. Compare depois o papel das unidades e do sentido das grandezas. Se o resultado for qualitativo, procure enunciar a previsão em termos observáveis. Se for quantitativo, estime a escala antes de efetuar a última operação.\n\nVocê pode adaptar a análise a uma situação do cotidiano. Comece com esta ideia: Uma pilha alimenta um circuito mantendo polaridade, enquanto a rede elétrica fornece tensão alternada. A diferença aparece no sentido da corrente ao longo do tempo. Em seguida, desenhe o cenário, indique o que está sendo comparado e escreva que dado precisaria medir para testar a previsão. Diferencie a regra do modelo das informações que servem apenas para situar a história. Isso ajuda a decidir o que aproveitar quando uma questão apresenta mais dados do que a resolução exige.\n\nTrês conferências úteis: a definição corresponde ao objeto descrito? As condições indicadas no enunciado permitem aplicar a regra? A resposta continua coerente ao voltar ao desenho? Faça a última conferência lendo esta relação no contexto: Corrente contínua tem sentido fixo, embora seu módulo possa variar. Corrente alternada inverte o sentido periodicamente. Uma hipótese deve ser usada dentro de sua faixa de validade; quando o contexto mudar, justifique a adaptação antes de transportar o resultado.\n\nAo treinar, explique a diferença entre o mecanismo e seu efeito. Em corrente alternada, a frequência conta ciclos completos. Uma senoide pode cruzar zero duas vezes por ciclo, por isso contar inversões como ciclos pode dobrar a frequência calculada. Em um texto de prova, essa distinção pode aparecer escondida em uma frase sobre o resultado de uma medida. Identifique primeiro a causa física e depois a grandeza observada. Se for necessário comparar cenários, mude uma condição por vez para descobrir qual mudança explica a diferença.\n\nPergunte o que aconteceria se você aplicasse a regra a um desenho mais simples. Comece separando estas tarefas: Ler o eixo de tempo. Observar se o sinal se inverte. Contar ciclos completos. Calcular frequência ou carga conforme a pergunta. Refaça o primeiro exemplo apenas com setas ou um esquema, deixando os números para o final. Em seguida, recolha do enunciado as unidades e os sentidos. Uma seta no desenho pode indicar a direção de uma interação, a mudança de uma medida ou apenas uma referência. É importante dizer qual papel ela desempenha antes de usar a relação do começo da lição.\n\nPara consolidar, use três perguntas de revisão. O que define corrente alternada? O sentido se inverte periodicamente. Como calcular período? Use o inverso da frequência. Que função tem um retificador? Converter uma alimentação alternada em corrente de sentido fixo pulsante, antes de eventual filtragem. A ideia é explicar essas respostas sem depender da ordem em que apareceram. Em um problema de comparação, preste atenção às palavras que mantêm algo igual entre os cenários. Em um problema de cálculo, confira a operação inversa quando possível. Por exemplo, reintroduza o resultado na relação inicial e verifique se os dados do problema são recuperados. Em uma questão qualitativa, faça o equivalente testando se a conclusão explica as condições observadas.\n\nNo fim da leitura, diga qual grandeza a pergunta solicitou e qual grandeza você usou para chegar a ela. Faça essa distinção também quando a resposta for uma direção, uma comparação ou uma interpretação histórica. Um resultado bem explicado deve poder ser lido sem adivinhar de onde ele veio.\n\nEm uma atividade de estudo, escreva primeiro uma estimativa ou previsão. Depois escolha o dado específico que vai confirmar ou contrariar essa previsão. Se duas respostas parecerem possíveis, indique qual condição extra permitiria escolher entre elas. A ideia é explicar o raciocínio, deixando claro por que a relação física é apropriada naquele contexto.\n\nTROCANDO EM MIÚDOS:\nUma pilha alimenta um circuito mantendo polaridade, enquanto a rede elétrica fornece tensão alternada. A diferença aparece no sentido da corrente ao longo do tempo.\n\nCorrente contínua tem sentido fixo, embora seu módulo possa variar. Corrente alternada inverte o sentido periodicamente.\n\nExemplo resolvido. Uma corrente senoidal completa 24 ciclos em 0,4 s. A frequência é 24/0,4 = 60 Hz e o período é aproximadamente 0,0167 s.\n\nOutro exemplo. Uma corrente percorre um motor sempre no mesmo sentido, com 0,4 A por 3 s e 0,7 A por 2 s. A carga total no intervalo é 0,4 × 3 + 0,7 × 2 = 2,6 C. A mudança de intensidade não a torna alternada.\n\nEm corrente alternada, a frequência conta ciclos completos. Uma senoide pode cruzar zero duas vezes por ciclo, por isso contar inversões como ciclos pode dobrar a frequência calculada.\n\nO que define corrente contínua? Seu sentido se mantém. O que define corrente alternada? O sentido se inverte periodicamente. Como calcular frequência? Divida o número de ciclos pelo tempo. Como calcular período? Use o inverso da frequência. Qual é a unidade da frequência? Hertz. Que função tem um retificador? Converter uma alimentação alternada em corrente de sentido fixo pulsante, antes de eventual filtragem.\n\nPara montar seu rascunho: Ler o eixo de tempo. Observar se o sinal se inverte. Contar ciclos completos. Calcular frequência ou carga conforme a pergunta. Na leitura final, escolha a parte do desenho que corresponde ao resultado. Se encontrar uma unidade diferente da pedida, volte ao cálculo e confira os fatores de conversão. Quando a pergunta for conceitual, confira se a explicação indica o mecanismo que liga o dado à conclusão. Você pode comparar os dois exemplos da lição antes de tentar os exercícios e explicar de memória por que cada resultado faz sentido.\n\nLEI SECA:\nCorrente contínua tem sentido fixo, embora seu módulo possa variar. Corrente alternada inverte o sentido periodicamente.\n\nSÚMULAS E TESES:\nOutro exemplo. Uma corrente percorre um motor sempre no mesmo sentido, com 0,4 A por 3 s e 0,7 A por 2 s. A carga total no intervalo é 0,4 × 3 + 0,7 × 2 = 2,6 C. A mudança de intensidade não a torna alternada.\n\nESQUEMA:\nLer o eixo de tempo. → Observar se o sinal se inverte. → Contar ciclos completos. → Calcular frequência ou carga conforme a pergunta.\n\nPEGADINHAS:\nEm corrente alternada, a frequência conta ciclos completos. Uma senoide pode cruzar zero duas vezes por ciclo, por isso contar inversões como ciclos pode dobrar a frequência calculada.\n\nDOUTRINA:\nAlternating Current versus Direct Current\n\nNA PRÁTICA:\nExemplo resolvido. Uma corrente senoidal completa 24 ciclos em 0,4 s. A frequência é 24/0,4 = 60 Hz e o período é aproximadamente 0,0167 s.",
+   "flashcards": [
+    {
+     "frente": "O que define corrente contínua?",
+     "verso": "Seu sentido se mantém.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Correntes contínua e alternada"
+    },
+    {
+     "frente": "O que define corrente alternada?",
+     "verso": "O sentido se inverte periodicamente.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Correntes contínua e alternada"
+    },
+    {
+     "frente": "Como calcular frequência?",
+     "verso": "Divida o número de ciclos pelo tempo.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Correntes contínua e alternada"
+    },
+    {
+     "frente": "Como calcular período?",
+     "verso": "Use o inverso da frequência.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Correntes contínua e alternada"
+    },
+    {
+     "frente": "Qual é a unidade da frequência?",
+     "verso": "Hertz.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Correntes contínua e alternada"
+    },
+    {
+     "frente": "Que função tem um retificador?",
+     "verso": "Converter uma alimentação alternada em corrente de sentido fixo pulsante, antes de eventual filtragem.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Correntes contínua e alternada"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-corrente-continua-alternada-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Uma corrente varia de 1 A a 2 A, sempre no mesmo sentido.",
+     "enunciado": "Pode continuar sendo corrente contínua.",
+     "gabarito": "C",
+     "comentario": "Certo. A intensidade variar não implica inversão.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Correntes contínua e alternada"
+    },
+    {
+     "id": "enem-fisica-corrente-continua-alternada-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Um sinal senoidal tem frequência de 50 Hz.",
+     "enunciado": "Seu período é de 50 s.",
+     "gabarito": "E",
+     "comentario": "Errado. O período vale 1/50 s.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Correntes contínua e alternada"
+    },
+    {
+     "id": "enem-fisica-corrente-continua-alternada-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Uma corrente senoidal cruza zero.",
+     "enunciado": "Após uma inversão, seu sentido pode ser oposto ao anterior.",
+     "gabarito": "C",
+     "comentario": "Certo. O sinal da corrente indica o sentido escolhido.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Correntes contínua e alternada"
+    },
+    {
+     "id": "enem-fisica-corrente-continua-alternada-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Uma senoide completa um ciclo.",
+     "enunciado": "Ela muda de sentido uma única vez por ciclo.",
+     "gabarito": "E",
+     "comentario": "Errado. Em um ciclo completo, há duas passagens de inversão no regime periódico.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Correntes contínua e alternada"
+    },
+    {
+     "id": "enem-fisica-corrente-continua-alternada-c14-q05",
+     "tipo": "me",
+     "texto_base": "Um sinal completa 10 ciclos em 0,2 s.",
+     "enunciado": "Qual a frequência?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "2 Hz",
+      "B": "50 Hz",
+      "C": "10 Hz",
+      "D": "100 Hz",
+      "E": "0,02 Hz"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Multiplica ciclos e tempo.",
+      "B": "Correta. Divida 10 pelo intervalo.",
+      "C": "É apenas o número de ciclos.",
+      "D": "Contaria inversões em vez de ciclos.",
+      "E": "É o número do período em segundos."
+     },
+     "comentario": "A) Multiplica ciclos e tempo.\nB) Correta. Divida 10 pelo intervalo.\nC) É apenas o número de ciclos.\nD) Contaria inversões em vez de ciclos.\nE) É o número do período em segundos.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Correntes contínua e alternada"
+    },
+    {
+     "id": "enem-fisica-corrente-continua-alternada-c14-q06",
+     "tipo": "me",
+     "texto_base": "Uma tensão alternada ideal tem frequência de 25 Hz.",
+     "enunciado": "Qual o período?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "25 s",
+      "B": "0,25 s",
+      "C": "4 s",
+      "D": "0,04 s",
+      "E": "50 s"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Repete a frequência.",
+      "B": "Erra o cálculo do inverso.",
+      "C": "Desloca a vírgula.",
+      "D": "Correta. Use 1/25.",
+      "E": "Dobra o número da frequência."
+     },
+     "comentario": "A) Repete a frequência.\nB) Erra o cálculo do inverso.\nC) Desloca a vírgula.\nD) Correta. Use 1/25.\nE) Dobra o número da frequência.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Correntes contínua e alternada"
+    },
+    {
+     "id": "enem-fisica-corrente-continua-alternada-c14-q07",
+     "tipo": "me",
+     "texto_base": "Uma pilha mantém 0,6 A constantes por 5 s num fio.",
+     "enunciado": "Qual a carga em módulo?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "3 C",
+      "B": "0,12 C",
+      "C": "5,6 C",
+      "D": "0,6 C",
+      "E": "5 C"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Multiplique intensidade pelo tempo.",
+      "B": "Divide em vez de multiplicar.",
+      "C": "Soma grandezas diferentes.",
+      "D": "É a carga em apenas um segundo.",
+      "E": "Supõe corrente de 1 A."
+     },
+     "comentario": "A) Correta. Multiplique intensidade pelo tempo.\nB) Divide em vez de multiplicar.\nC) Soma grandezas diferentes.\nD) É a carga em apenas um segundo.\nE) Supõe corrente de 1 A.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Correntes contínua e alternada"
+    },
+    {
+     "id": "enem-fisica-corrente-continua-alternada-c14-q08",
+     "tipo": "me",
+     "texto_base": "Uma fonte produz corrente que alterna entre valores positivos e negativos ao longo de ciclos.",
+     "enunciado": "Qual classificação é apropriada?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Contínua constante",
+      "B": "Contínua pulsante unidirecional",
+      "C": "Nula",
+      "D": "Sem frequência definida apesar dos ciclos iguais",
+      "E": "Alternada"
+     },
+     "comentarios_por_alternativa": {
+      "A": "O sinal e o módulo variam.",
+      "B": "Esse tipo não troca o sentido.",
+      "C": "Existem intervalos com corrente não nula.",
+      "D": "Os ciclos permitem definir frequência.",
+      "E": "Correta. Há inversões periódicas de sentido."
+     },
+     "comentario": "A) O sinal e o módulo variam.\nB) Esse tipo não troca o sentido.\nC) Existem intervalos com corrente não nula.\nD) Os ciclos permitem definir frequência.\nE) Correta. Há inversões periódicas de sentido.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Correntes contínua e alternada"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O que define corrente contínua? ___",
+     "opcoes": [
+      "Seu sentido se mantém.",
+      "O sentido se inverte periodicamente.",
+      "Divida o número de ciclos pelo tempo.",
+      "Use o inverso da frequência."
+     ],
+     "respostas": [
+      "Seu sentido se mantém."
+     ],
+     "explicacao": "Seu sentido se mantém."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Como calcular frequência? ___",
+     "opcoes": [
+      "Divida o número de ciclos pelo tempo.",
+      "Use o inverso da frequência.",
+      "Hertz.",
+      "Converter uma alimentação alternada em corrente de sentido fixo pulsante, antes de eventual filtragem."
+     ],
+     "respostas": [
+      "Divida o número de ciclos pelo tempo."
+     ],
+     "explicacao": "Divida o número de ciclos pelo tempo."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise de correntes contínua e alternada.",
+     "itens": [
+      "Ler o eixo de tempo.",
+      "Observar se o sinal se inverte.",
+      "Contar ciclos completos.",
+      "Calcular frequência ou carga conforme a pergunta."
+     ],
+     "explicacao": "Corrente contínua tem sentido fixo, embora seu módulo possa variar. Corrente alternada inverte o sentido periodicamente."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O que define corrente contínua?",
+       "Seu sentido se mantém."
+      ],
+      [
+       "O que define corrente alternada?",
+       "O sentido se inverte periodicamente."
+      ],
+      [
+       "Como calcular frequência?",
+       "Divida o número de ciclos pelo tempo."
+      ],
+      [
+       "Como calcular período?",
+       "Use o inverso da frequência."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,251 @@
+{
+ "assunto": "Código genético: do DNA aos códons",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-codigo-genetico-c14",
+   "titulo": "Código genético: do DNA aos códons",
+   "microconteudo": "RAIO-X DA PROVA: Assunto prioritário do edital.\n\nPOR QUE IMPORTA:\nDois fragmentos de DNA podem ter sequências diferentes e ainda indicar a mesma sequência de aminoácidos. Entender como a informação é codificada ajuda a interpretar tabelas de códons e a prever efeitos de alterações em sequências, um tipo de raciocínio que pode aparecer no ENEM.\n\nO QUE A BANCA COBRA:\nIdentifique a molécula e o sentido de leitura antes de consultar a tabela. Diferencie códon, anticódon e aminoácido, e use o resultado para explicar por que alterações diferentes podem ter efeitos diferentes.\n\nENTENDA:\nO DNA utiliza quatro bases: adenina, timina, citosina e guanina. A informação depende da ordem dessas bases, além do contexto em que a sequência se encontra. Imagine dois trechos formados pelas mesmas quantidades de A, T, C e G. Ao rearranjar a posição das bases, você pode mudar a mensagem que será copiada e interpretada. Para descobrir se os trechos codificam a mesma sequência de aminoácidos, a contagem total de cada base é insuficiente. Compare a ordem em que elas aparecem e identifique o ponto a partir do qual a parte codificadora deve ser lida.\n\nO DNA geralmente se apresenta em duas fitas complementares. Ao emparelhar as bases, A se associa com T e C com G. As fitas são antiparalelas, o que significa que as extremidades marcadas como 5′ e 3′ estão em sentidos opostos. Se a faixa superior traz 5′–ATG–3′, a faixa complementar imediatamente abaixo pode ser escrita como 3′–TAC–5′. Se a questão pedir a complementar no sentido 5′ para 3′, escreva 5′–CAT–3′. As duas escritas descrevem a mesma fita complementar. O erro comum é trocar as bases sem verificar o sentido pedido.\n\nEm uma questão sobre um gene que codifica proteína, pode ser fornecida a fita molde ou a fita codificadora. Durante a transcrição, o RNA é sintetizado no sentido 5′ para 3′ por complementaridade com a fita molde. Em RNA, há uracila no lugar da timina. Se a fita molde está escrita como 3′–TAC GGA–5′, o RNA correspondente é 5′–AUG CCU–3′. Se a questão fornece a fita codificadora em 5′ para 3′, o trecho correspondente apresenta as mesmas letras do RNA com T no lugar de U. Em questões de escola, isso pode aparecer como comparação de pequenos segmentos sem etapas adicionais.\n\nO código genético estabelece a relação entre trincas de bases no RNA mensageiro e aminoácidos ou sinais de término. Cada trinca lida no quadro certo é um códon. Com quatro tipos de bases e três posições, existem 4 × 4 × 4 = 64 trincas possíveis. No código padrão, 61 especificam aminoácidos e três sinalizam parada. Os códons UAA, UAG e UGA são os sinais de parada do código padrão. Eles participam do encerramento da tradução. Quando você conta o comprimento da proteína em um exercício simplificado, conte os códons que inserem aminoácidos e deixe o códon de parada fora dessa soma.\n\nAUG é um códon que pode sinalizar o início da tradução em um contexto apropriado e especifica metionina no código padrão. Outro AUG pode aparecer no meio da parte codificadora e acrescentar metionina durante a leitura. O significado efetivo de uma posição depende de onde o ribossomo iniciou e de como a sequência está organizada. Num exercício em que o início já foi indicado, mantenha a divisão em trincas a partir dele. Deslocar a primeira trinca em uma base altera as trincas seguintes. A mesma linha de letras pode produzir leituras bem distintas quando agrupada a partir de posições diferentes.\n\nUma tabela de códons geralmente lista trincas do RNA mensageiro, escritas de 5′ para 3′. Antes de usá-la, converta o fragmento de DNA conforme a fita fornecida. Depois, divida o RNA em trincas a partir do início indicado. Tome como exemplo o fragmento 5′–AUG GCU UAA–3′. AUG indica metionina no exemplo, GCU indica alanina e UAA encerra a tradução. O resultado simplificado é uma cadeia de dois aminoácidos. A tabela mostra uma correspondência. Sua sequência de passos depende tanto de identificar as trincas certas quanto de localizar os valores dentro da tabela.\n\nO anticódon é uma trinca presente em um RNA transportador. Ele ajuda no reconhecimento do códon do RNA mensageiro durante a tradução. Num modelo escolar de pareamento, se o códon está escrito 5′–AUG–3′, o anticódon complementar pode ser representado como 3′–UAC–5′. Caso seja pedido em 5′ para 3′, escreva 5′–CAU–3′. Se você consultar a tabela com UAC achando que é o códon, poderá obter um aminoácido diferente daquele indicado pelo mensageiro. A diferença entre os dois nomes revela a posição de cada trinca e indica qual delas usar para resolver a pergunta.\n\nMais de um códon pode indicar o mesmo aminoácido. Essa propriedade é chamada de redundância ou degeneração do código. Por exemplo, GCU e GCC correspondem a alanina. Se uma substituição transforma um em outro dentro do mesmo quadro de leitura, a sequência de aminoácidos resultante permanece igual naquela posição. Uma troca com esse efeito é chamada de sinônima. Ela continua sendo uma mudança na sequência de bases. Em um exercício que fornece somente a tabela, a conclusão diretamente sustentada se refere ao aminoácido. Outros efeitos celulares dependeriam de dados adicionais que o enunciado normalmente precisaria fornecer.\n\nUma substituição pode mudar o aminoácido. Por exemplo, se em um RNA um códon GCU passa a GUU, alanina dá lugar a valina no código padrão. Também pode surgir um sinal de parada onde antes haveria um aminoácido. Se UAU, que especifica tirosina, passa a UAA, a leitura pode terminar mais cedo. Compare os dois resultados antes de decidir qual tipo de efeito ocorreu: troca entre aminoácidos ou término antecipado. A importância da alteração para a função exige informação adicional. Uma troca em região essencial pode ter impacto importante, enquanto outra em região menos sensível pode ter efeito pequeno.\n\nInserções e deleções no segmento codificador podem mudar o quadro de leitura. Em uma sequência agrupada como ABC DEF GHI, retirar a primeira letra de DEF reorganiza as trincas a partir daquele ponto. Algo semelhante acontece com as bases do RNA quando a quantidade inserida ou retirada não é múltipla de três e a tradução continua a partir do mesmo início. Se forem removidas três bases, mantém-se o quadro a jusante da deleção. Ainda assim, podem desaparecer aminoácidos ou mudar códons perto da junção. Para prever o que acontecerá no exemplo dado, reescreva o fragmento alterado e volte a formar grupos de três.\n\nCódons semelhantes podem ser lidos de forma equivalente em muitos organismos, porque o código é amplamente compartilhado. Existem exceções a essa generalização, como algumas correspondências em mitocôndrias. Se a prova fornece uma tabela particular ou especifica o código padrão, use a informação indicada. A sequência genética varia entre organismos, e uma tabela compartilhada indica regras de correspondência semelhantes, independentemente das sequências específicas. É a diferença entre compartilhar um alfabeto e escrever a mesma história: duas mensagens podem usar a mesma regra de leitura e codificar produtos totalmente diferentes. Em perguntas sobre relações evolutivas, essa semelhança é compatível com uma origem comum de mecanismos básicos.\n\nA posição de um trecho também afeta sua interpretação. O RNA mensageiro pode conter trechos antes e depois da parte que será traduzida. Se um exercício mostra o mensageiro inteiro, o primeiro grupo de três bases da esquerda pode estar antes do início indicado. Uma alteração nessa região pode afetar a disponibilidade ou a tradução da mensagem, caso haja elementos regulatórios, sem corresponder a uma troca direta de aminoácido. Procure no enunciado a delimitação da região a comparar.\n\nConsidere agora o exemplo 5′–AUG GCU CCU UAA–3′. Ao retirar todo o códon GCU, sobra AUG CCU UAA. Na tradução simplificada, o primeiro aminoácido continua sendo metionina e CCU continua indicando prolina. Se retirar apenas a primeira base de GCU, o restante passa a ser separado em trincas diferentes. Você precisaria de outras bases do RNA para seguir a leitura até um novo sinal de parada, se o fragmento mostrado terminasse antes dele.\n\nTROCANDO EM MIÚDOS:\nImagine que você recebeu uma tira de letras para ler de três em três. Se começa na posição certa, vê uma série de trincas. Se avança uma letra antes de iniciar, quase todas as trincas ficam diferentes. O mesmo cuidado vale para o RNA mensageiro. A célula tem um ponto de partida para a leitura, e a prova costuma indicar esse ponto ou mostrar os pedaços já separados. Antes de procurar o significado de um códon na tabela, confira se está lendo as letras do mensageiro, na direção certa e com a separação certa.\n\nO trecho de DNA que vem na questão pode ser a fita que serviu de molde. Nesse caso, o RNA vem com bases complementares. Uma letra A do molde combina com U no RNA. Se o texto entregar a fita codificadora no mesmo sentido do mensageiro, o trecho correspondente terá as mesmas letras, trocando a timina por uracila. Parece que são duas receitas diferentes, mas cada uma parte de um lado diferente do DNA. Marque no papel o nome da fita e as extremidades 5′ e 3′ para saber se precisa complementar as bases e inverter a forma como o trecho foi escrito.\n\nQuando consultar a tabela, trate os códons como instruções. Alguns indicam qual aminoácido entra na cadeia e os de parada indicam quando encerrar. Duas instruções com letras diferentes podem indicar o mesmo aminoácido. Você consegue testar isso procurando o códon antigo e o novo na tabela. Outra troca pode mandar inserir um aminoácido diferente ou parar cedo. Se o exercício pedir a quantidade de aminoácidos, pare a contagem antes do sinal de término. Para conferir, aponte para cada trinca que realmente enviou um aminoácido para a cadeia. Essa checagem é especialmente útil em listas longas, nas quais a última trinca aparece desenhada junto das que contribuíram para a proteína.\n\nESQUEMA:\n• DNA molde → RNA complementar.\n• Quadro de leitura → divisão do RNA em trincas a partir do início.\n• Códon do RNA mensageiro → aminoácido ou sinal de parada no código padrão.\n• Anticódon do RNA transportador → reconhecimento do códon.\n• Alteração de sequência → efeito depende do novo códon e do quadro de leitura.\n\nPEGADINHAS:\n• Usar o anticódon para buscar o significado na tabela de códons.\n• Trocar T por U ao copiar diretamente a fita molde.\n• Contar o códon de parada como aminoácido.\n• Supor que qualquer substituição de base muda a cadeia de aminoácidos.\n• Ignorar o sentido 5′–3′ pedido.\n\nNA PRÁTICA:\nNo código padrão, GAA e GAG indicam glutamato, enquanto UAA indica parada. Se a troca ocorre de GAA para GAG, o aminoácido permanece glutamato. Se é de GAA para UAA no meio do trecho codificador, a leitura pode terminar cedo. As duas mudanças alteram apenas uma base, mas têm consequências diferentes para a cadeia.",
+   "flashcards": [
+    {
+     "frente": "O que é códon?",
+     "verso": "Uma trinca de bases do RNA mensageiro lida durante a tradução.",
+     "dispositivo": "Moléculas, células e tecidos — Codificação da informação genética"
+    },
+    {
+     "frente": "O que é anticódon?",
+     "verso": "Uma trinca do RNA transportador que reconhece um códon.",
+     "dispositivo": "Moléculas, células e tecidos — Codificação da informação genética"
+    },
+    {
+     "frente": "Quantas trincas podem ser formadas com quatro bases?",
+     "verso": "64, pois há quatro escolhas em cada uma de três posições.",
+     "dispositivo": "Moléculas, células e tecidos — Codificação da informação genética"
+    },
+    {
+     "frente": "O que caracteriza a redundância do código?",
+     "verso": "Códons diferentes podem indicar o mesmo aminoácido.",
+     "dispositivo": "Moléculas, células e tecidos — Codificação da informação genética"
+    },
+    {
+     "frente": "Quais são os códons de parada do código padrão?",
+     "verso": "UAA, UAG e UGA.",
+     "dispositivo": "Moléculas, células e tecidos — Codificação da informação genética"
+    },
+    {
+     "frente": "Como uma perda de uma base pode afetar a leitura?",
+     "verso": "Pode mudar o agrupamento em trincas a partir daquele ponto.",
+     "dispositivo": "Moléculas, células e tecidos — Codificação da informação genética"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Uma tabela do código padrão apresenta GCU e GCC associados à alanina.",
+     "enunciado": "Trocar GCU por GCC pode manter a sequência de aminoácidos.",
+     "gabarito": "C",
+     "comentario": "Certo. A redundância permite que mais de um códon indique o mesmo aminoácido.",
+     "id": "enem-codigo-genetico-c14-q01",
+     "habilidade": "H13",
+     "dificuldade": "facil",
+     "dispositivo": "Moléculas, células e tecidos — Codificação da informação genética, H13"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "O mensageiro possui um códon UAA no fim da região traduzida.",
+     "enunciado": "UAA fornece um último aminoácido à cadeia.",
+     "gabarito": "E",
+     "comentario": "Errado. UAA sinaliza parada no código padrão.",
+     "id": "enem-codigo-genetico-c14-q02",
+     "habilidade": "H13",
+     "dificuldade": "facil",
+     "dispositivo": "Moléculas, células e tecidos — Codificação da informação genética, H13"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um exercício fornece a fita molde e pede o RNA complementar.",
+     "enunciado": "Basta repetir a sequência do molde trocando timina por uracila.",
+     "gabarito": "E",
+     "comentario": "Errado. A cópia usa complementaridade. A simples troca de T por U vale para o segmento correspondente da fita codificadora no sentido correto.",
+     "id": "enem-codigo-genetico-c14-q03",
+     "habilidade": "H13",
+     "dificuldade": "media",
+     "dispositivo": "Moléculas, células e tecidos — Codificação da informação genética, H13"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma base é removida de um trecho codificador e a leitura mantém o início original.",
+     "enunciado": "É possível que a divisão em trincas mude a partir desse ponto.",
+     "gabarito": "C",
+     "comentario": "Certo. Uma deleção de uma base pode deslocar o quadro.",
+     "id": "enem-codigo-genetico-c14-q04",
+     "habilidade": "H13",
+     "dificuldade": "media",
+     "dispositivo": "Moléculas, células e tecidos — Codificação da informação genética, H13"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "A fita molde contém o trecho 3′–TAC GGA–5′.",
+     "enunciado": "Qual RNA complementar está escrito no sentido 5′ para 3′?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "5′–UAC GGA–3′.",
+      "B": "5′–AUG CCU–3′.",
+      "C": "5′–ATG CCT–3′.",
+      "D": "5′–UCC GUA–3′.",
+      "E": "5′–AUG GGA–3′."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Repete o molde e perde a complementaridade.",
+      "B": "A cópia é complementar e contém uracila.",
+      "C": "Tem timina, típica do DNA.",
+      "D": "Apresenta as bases em ordem inversa à pedida.",
+      "E": "A primeira trinca está correta, mas GGA no molde gera CCU."
+     },
+     "comentario": "A) Repete o molde e perde a complementaridade.\nB) A cópia é complementar e contém uracila.\nC) Tem timina, típica do DNA.\nD) Apresenta as bases em ordem inversa à pedida.\nE) A primeira trinca está correta, mas GGA no molde gera CCU.",
+     "id": "enem-codigo-genetico-c14-q05",
+     "habilidade": "H13",
+     "dificuldade": "media",
+     "dispositivo": "Moléculas, células e tecidos — Codificação da informação genética, H13"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Em um modelo escolar, AUG codifica metionina, GCC codifica alanina e UGA sinaliza parada. A leitura inicia no primeiro códon de AUG GCC UGA.",
+     "enunciado": "Quantos aminoácidos são inseridos?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "Três.",
+      "B": "Um.",
+      "C": "Zero.",
+      "D": "Dois.",
+      "E": "Seis."
+     },
+     "comentarios_por_alternativa": {
+      "A": "O códon final é de parada.",
+      "B": "O códon GCC também especifica aminoácido.",
+      "C": "O sinal de parada vem depois de dois códons que especificam aminoácidos.",
+      "D": "Os dois primeiros códons inserem aminoácidos e o terceiro encerra a leitura.",
+      "E": "Seis bases nos dois primeiros códons correspondem a apenas duas trincas."
+     },
+     "comentario": "A) O códon final é de parada.\nB) O códon GCC também especifica aminoácido.\nC) O sinal de parada vem depois de dois códons que especificam aminoácidos.\nD) Os dois primeiros códons inserem aminoácidos e o terceiro encerra a leitura.\nE) Seis bases nos dois primeiros códons correspondem a apenas duas trincas.",
+     "id": "enem-codigo-genetico-c14-q06",
+     "habilidade": "H13",
+     "dificuldade": "media",
+     "dispositivo": "Moléculas, células e tecidos — Codificação da informação genética, H13"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um fragmento codificador sofre perda de duas bases no meio. O ponto de início da tradução permanece o mesmo.",
+     "enunciado": "Qual efeito direto é esperado na leitura do trecho posterior?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "Mudança no agrupamento em códons.",
+      "B": "Conservação obrigatória do agrupamento.",
+      "C": "Remoção exata de dois aminoácidos sem outros efeitos.",
+      "D": "Mudança na tabela do código genético.",
+      "E": "Transformação dos códons em DNA."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Duas bases são um número que não é múltiplo de três.",
+      "B": "A remoção desloca as trincas seguintes.",
+      "C": "Duas bases não correspondem a duas trincas.",
+      "D": "Muda o fragmento lido, e a tabela permanece aplicável.",
+      "E": "A leitura descrita continua ocorrendo no RNA mensageiro."
+     },
+     "comentario": "A) Duas bases são um número que não é múltiplo de três.\nB) A remoção desloca as trincas seguintes.\nC) Duas bases não correspondem a duas trincas.\nD) Muda o fragmento lido, e a tabela permanece aplicável.\nE) A leitura descrita continua ocorrendo no RNA mensageiro.",
+     "id": "enem-codigo-genetico-c14-q07",
+     "habilidade": "H13",
+     "dificuldade": "media",
+     "dispositivo": "Moléculas, células e tecidos — Codificação da informação genética, H13"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Considere o pareamento complementar padrão. Um códon tem sequência 5′–AUG–3′.",
+     "enunciado": "Qual anticódon correspondente está escrito de 3′ para 5′?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "3′–AUG–5′.",
+      "B": "3′–TAC–5′.",
+      "C": "3′–CAU–5′.",
+      "D": "3′–GUA–5′.",
+      "E": "3′–UAC–5′."
+     },
+     "comentarios_por_alternativa": {
+      "A": "A sequência repete as bases do códon sem complementaridade.",
+      "B": "O RNA transportador usa uracila no pareamento descrito.",
+      "C": "Essa ordem serviria quando a mesma trinca complementar é escrita de 5′ para 3′.",
+      "D": "A sequência não preserva o pareamento indicado.",
+      "E": "U emparelha com A, A com U e C com G no sentido antiparalelo."
+     },
+     "comentario": "A) A sequência repete as bases do códon sem complementaridade.\nB) O RNA transportador usa uracila no pareamento descrito.\nC) Essa ordem serviria quando a mesma trinca complementar é escrita de 5′ para 3′.\nD) A sequência não preserva o pareamento indicado.\nE) U emparelha com A, A com U e C com G no sentido antiparalelo.",
+     "id": "enem-codigo-genetico-c14-q08",
+     "habilidade": "H13",
+     "dificuldade": "media",
+     "dispositivo": "Moléculas, células e tecidos — Codificação da informação genética, H13"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Uma trinca lida no RNA mensageiro recebe o nome de ___.",
+     "opcoes": [
+      "códon",
+      "anticódon",
+      "aminoácido"
+     ],
+     "respostas": [
+      "códon"
+     ],
+     "explicacao": "O códon é a trinca usada para consultar a tabela do código genético."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "No código padrão, UGA indica ___.",
+     "opcoes": [
+      "parada",
+      "alanina",
+      "início obrigatório"
+     ],
+     "respostas": [
+      "parada"
+     ],
+     "explicacao": "UGA encerra a leitura e não acrescenta aminoácido."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a resolução a partir de uma fita molde de DNA com ponto de início informado.",
+     "itens": [
+      "Identificar as extremidades e o tipo de fita.",
+      "Escrever o RNA complementar em 5′ para 3′.",
+      "Separar as trincas a partir do ponto de início.",
+      "Consultar a tabela até o códon de parada."
+     ],
+     "explicacao": "A consulta usa a sequência e o quadro corretos do mensageiro."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Fita molde",
+       "Base para a cópia complementar em RNA"
+      ],
+      [
+       "Códon",
+       "Trinca do RNA mensageiro"
+      ],
+      [
+       "Anticódon",
+       "Trinca do RNA transportador"
+      ],
+      [
+       "Redundância",
+       "Códons diferentes com o mesmo aminoácido"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

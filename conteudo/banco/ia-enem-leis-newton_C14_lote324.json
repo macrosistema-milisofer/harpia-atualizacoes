@@ -1,0 +1,253 @@
+{
+ "assunto": "As três leis de Newton",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-leis-newton-c14",
+   "titulo": "As três leis de Newton",
+   "microconteudo": "RAIO-X DA PROVA: Interprete a situação e justifique a conclusão com a relação física pertinente. A primeira lei descreve a velocidade constante sob resultante nula; a segunda relaciona resultante e aceleração; a terceira relaciona forças entre dois corpos.\n\nPOR QUE IMPORTA:\nUma caixa é puxada no corredor. Para saber quando ela acelera e quem recebe a reação, separe as forças pelo corpo que as recebe.\n\nO QUE A BANCA COBRA:\nInterprete a situação e justifique a conclusão com a relação física pertinente. A primeira lei descreve a velocidade constante sob resultante nula; a segunda relaciona resultante e aceleração; a terceira relaciona forças entre dois corpos.\n\nENTENDA:\nComece por esta situação: Uma caixa é puxada no corredor. Para saber quando ela acelera e quem recebe a reação, separe as forças pelo corpo que as recebe. Leia os dados disponíveis e faça uma previsão antes de procurar uma fórmula. A primeira lei descreve a velocidade constante sob resultante nula; a segunda relaciona resultante e aceleração; a terceira relaciona forças entre dois corpos. Se o chão exerce força de 10 N para a frente sobre o tênis, o tênis exerce força de 10 N para trás sobre o chão.\n\nO livro em repouso tem peso e normal. A reação ao peso é a força gravitacional que o livro exerce sobre a Terra; a reação à normal é a força que o livro exerce sobre a mesa. As duas forças que se equilibram no livro têm origens diferentes e não formam entre si um par de terceira lei.\n\nSe o chão exerce força de 10 N para a frente sobre o tênis, o tênis exerce força de 10 N para trás sobre o chão. Ao interpretar esse exemplo, escreva a condição física que torna possível prever o resultado. Pergunte se ela continuaria valendo caso um dos dados omitidos passasse a ter importância. Diferencie o que você consegue concluir numericamente do que pode apenas prever qualitativamente. A descrição do resultado deve manter explícito qual corpo ou conjunto está sendo observado e em qual intervalo a afirmação é válida.\n\nConfira o significado das palavras da questão. Que diz a primeira lei? Resultante nula implica velocidade constante em referencial inercial.\nQue diz a segunda lei? Para massa constante, F resultante = ma.\nQue diz a terceira lei? As forças de interação têm módulos iguais, sentidos opostos e corpos distintos.\nPor que ação e reação não se cancelam num corpo? Cada força atua em um corpo diferente.\nEm que sentido aponta a aceleração? No sentido da força resultante.\nQual é a unidade da força? Newton. Se dois termos parecem próximos, compare o que cada um descreve no caso inicial. Em Física, trocar o nome de uma grandeza pode mudar o cálculo ou até o que se está tentando explicar. Escreva, ao lado de cada símbolo, qual parte da situação ele representa e em que unidade seria medido.\n\nExemplo 1. Um carrinho de 4 kg recebe força resultante de 12 N. Qual a aceleração? A resposta é 3 m/s². Divida 12 por 4. Multiplica massa e força. Subtrai números com unidades diferentes. Ignora a massa. Inverte a divisão.\n\nExemplo 2. Uma caixa de 3 kg acelera a 2 m/s². Qual o módulo da força resultante? A resposta é 6 N. Multiplique massa e aceleração. Divide a massa pela aceleração. Soma valores incompatíveis. É o número da aceleração. Eleva a massa ao quadrado.\n\nExemplo 3. Uma pessoa exerce 25 N sobre uma porta. Qual o módulo da força da porta sobre a pessoa? A resposta é 25 N. Pela terceira lei, os módulos são iguais. A interação é recíproca. Cada corpo sofre o módulo inteiro. Somaria duas forças em corpos distintos. A raiz da força não descreve a reação.\n\nExemplo 4. Uma caixa recebe 20 N para a direita e 8 N para a esquerda, com massa de 6 kg. Qual o módulo da aceleração horizontal? A resposta é 2 m/s². Divida a resultante de 12 N por 6 kg. Soma forças que têm sentidos opostos. Ignora a força à esquerda. Ignora a força à direita. É o número da resultante em newtons.\n\nTeste de interpretação. Caixa em movimento retilíneo uniforme. Considere a afirmação: “A resultante é nula.” Certo. A velocidade permanece constante. Livro repousa na mesa. Considere a afirmação: “Peso e normal são um par de terceira lei.” Errado. Ambas atuam no livro. Pé empurra chão para trás. Considere a afirmação: “O chão empurra o pé para a frente.” Certo. São forças da mesma interação em corpos distintos. Força resultante constante de 6 N sobre 2 kg. Considere a afirmação: “A aceleração vale 12 m/s².” Errado. Dividir 6 por 2 dá 3 m/s².\n\nUma sequência de resolução é útil quando a questão traz mais dados que o necessário. Primeiro, escolher um corpo. Depois, listar as forças que ele recebe. Em seguida, somar vetorialmente as forças. Por último, relacionar a resultante à aceleração. Explique oralmente por que cada passo vem nessa posição. Se a última conclusão mudar quando você troca um detalhe do enunciado, localize qual hipótese provocou essa mudança. Isso ajuda a distinguir o resultado de uma conta das condições em que ele vale.\n\nEm uma prova, procure separar o que o texto observou, o que o modelo assume e o que você concluiu. Um valor informado é um dado. Uma condição como desprezar o atrito ou tratar o intervalo como uniforme pode ser uma hipótese. Já o resultado é aquilo que você obtém ao combinar os dados com a regra escolhida. Se houver tabela ou figura, confira a legenda, os eixos e as unidades antes de usar os números. Para revisar, refaça um dos exemplos mudando um dado por vez e preveja o sentido da mudança antes de calcular.\n\nCheck de leitura. Escolha dois exemplos desta lição e compare o papel de cada informação. O que foi medido diretamente? Qual relação precisou ser usada para inferir uma resposta? Há alguma observação que, sozinha, seria insuficiente? Se a resposta for um número, faça uma estimativa simples para checar se ele é plausível. Se for uma explicação, procure indicar qual condição a torna válida. Depois, tente escrever uma resposta que inclua o dado utilizado, o raciocínio e a conclusão em uma ou duas frases.\n\nAo montar um rascunho, deixe os dados de um lado e a conclusão do outro. Comece pelo dado que tem relação direta com a pergunta. Caso sobrem informações, veja se elas servem para comparar hipóteses ou apenas situar a história. Em uma comparação, mantenha a mesma referência e o mesmo intervalo sempre que o enunciado permitir. Quando um resultado contradiz a previsão inicial, revise primeiro a interpretação do que foi pedido; em seguida, revise a operação e as condições assumidas.\n\nNa primeira, destaque o que o enunciado informa sobre as condições da situação. Na segunda, explique como a regra escolhida conecta essas condições ao resultado. Se houver um cálculo, escreva as unidades intermediárias. Em uma resposta sobre direção ou sentido, declare a orientação de referência. Uma alternativa pode conter um número familiar do enunciado e ainda responder sobre a grandeza errada.\n\nPara fechar, compare estas duas situações e procure a diferença física entre elas. Caixa em movimento retilíneo uniforme. Livro repousa na mesa. Quando o contexto muda, a leitura deve partir das informações apresentadas naquele caso. Considere a primeira afirmação e justifique o resultado: “A resultante é nula.” Certo. A velocidade permanece constante. Agora avalie a segunda: “Peso e normal são um par de terceira lei.” Errado. Ambas atuam no livro. Uma explicação adequada pode usar palavras e cálculos, desde que a relação com a situação seja clara. Pense em qual mudança nos dados tornaria cada afirmação válida ou inválida.\n\nUse este conjunto de definições como roteiro para checar o raciocínio. Que diz a primeira lei? Resultante nula implica velocidade constante em referencial inercial.\nQue diz a segunda lei? Para massa constante, F resultante = ma.\nQue diz a terceira lei? As forças de interação têm módulos iguais, sentidos opostos e corpos distintos.\nPor que ação e reação não se cancelam num corpo? Cada força atua em um corpo diferente.\nEm que sentido aponta a aceleração? No sentido da força resultante.\nQual é a unidade da força? Newton. Ao voltar aos dados do começo, selecione as definições pertinentes ao caso. Leia a conclusão como se ela fosse uma frase independente: confira a unidade, a referência adotada e a condição de validade.\n\nTROCANDO EM MIÚDOS:\nImagine a situação do começo da lição. Uma caixa é puxada no corredor. Para saber quando ela acelera e quem recebe a reação, separe as forças pelo corpo que as recebe. Se o chão exerce força de 10 N para a frente sobre o tênis, o tênis exerce força de 10 N para trás sobre o chão.\n\nA regra principal pode ser escrita assim: A primeira lei descreve a velocidade constante sob resultante nula; a segunda relaciona resultante e aceleração; a terceira relaciona forças entre dois corpos. Tente explicar essa regra em voz alta para alguém que ainda não viu o conteúdo, usando o exemplo inicial como apoio.\n\nAntes de marcar uma alternativa, faça esta checagem. Que diz a primeira lei? Resultante nula implica velocidade constante em referencial inercial. Que diz a segunda lei? Para massa constante, F resultante = ma. Que diz a terceira lei? As forças de interação têm módulos iguais, sentidos opostos e corpos distintos. Por que ação e reação não se cancelam num corpo? Cada força atua em um corpo diferente. Em que sentido aponta a aceleração? No sentido da força resultante. Qual é a unidade da força? Newton.\n\nEm um rascunho curto, anote quatro passos. Escolher um corpo. Listar as forças que ele recebe. Somar vetorialmente as forças. Relacionar a resultante à aceleração. Em seguida, tente aplicar os passos a um exemplo com números ou condições diferentes. As grandezas que foram medidas e o que você quer descobrir devem ficar em linhas separadas. Isso ajuda a identificar qual informação ainda falta.\n\nExperimente responder a esta situação sem olhar as opções. Um carrinho de 4 kg recebe força resultante de 12 N. Qual a aceleração? Divida 12 por 4. Depois, confira nos exemplos quais seriam as consequências de escolher uma interpretação diferente. Se tiver que refazer, comece pelas condições do problema e pelo significado de cada dado.\n\nPara fixar, releia uma afirmação verdadeira e uma falsa da lição. Reescreva a falsa trocando só o trecho necessário para corrigi-la. Na afirmação verdadeira, diga qual detalhe do enunciado permite chegar a essa conclusão. Assim você pratica explicar um resultado, além de reconhecer qual opção está certa.\n\nLEI SECA:\nA primeira lei descreve a velocidade constante sob resultante nula; a segunda relaciona resultante e aceleração; a terceira relaciona forças entre dois corpos.\n\nSÚMULAS E TESES:\nSe o chão exerce força de 10 N para a frente sobre o tênis, o tênis exerce força de 10 N para trás sobre o chão.\n\nESQUEMA:\nEscolher um corpo → Listar as forças que ele recebe → Somar vetorialmente as forças → Relacionar a resultante à aceleração\n\nPEGADINHAS:\n1. Certo. A velocidade permanece constante.\n2. Errado. Ambas atuam no livro.\n3. Certo. São forças da mesma interação em corpos distintos.\n4. Errado. Dividir 6 por 2 dá 3 m/s².\n\nDOUTRINA:\nOpenStax — College Physics 2e, Newton’s Second Law\n\nNA PRÁTICA:\nExemplo 1. Um carrinho de 4 kg recebe força resultante de 12 N. Qual a aceleração? A resposta é 3 m/s². Divida 12 por 4. Multiplica massa e força. Subtrai números com unidades diferentes. Ignora a massa. Inverte a divisão.",
+   "flashcards": [
+    {
+     "frente": "Que diz a primeira lei?",
+     "verso": "Resultante nula implica velocidade constante em referencial inercial.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Leis de Newton"
+    },
+    {
+     "frente": "Que diz a segunda lei?",
+     "verso": "Para massa constante, F resultante = ma.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Leis de Newton"
+    },
+    {
+     "frente": "Que diz a terceira lei?",
+     "verso": "As forças de interação têm módulos iguais, sentidos opostos e corpos distintos.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Leis de Newton"
+    },
+    {
+     "frente": "Por que ação e reação não se cancelam num corpo?",
+     "verso": "Cada força atua em um corpo diferente.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Leis de Newton"
+    },
+    {
+     "frente": "Em que sentido aponta a aceleração?",
+     "verso": "No sentido da força resultante.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Leis de Newton"
+    },
+    {
+     "frente": "Qual é a unidade da força?",
+     "verso": "Newton.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Leis de Newton"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-leis-newton-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Caixa em movimento retilíneo uniforme.",
+     "enunciado": "A resultante é nula.",
+     "gabarito": "C",
+     "comentario": "Certo. A velocidade permanece constante.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Leis de Newton"
+    },
+    {
+     "id": "enem-fisica-leis-newton-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Livro repousa na mesa.",
+     "enunciado": "Peso e normal são um par de terceira lei.",
+     "gabarito": "E",
+     "comentario": "Errado. Ambas atuam no livro.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Leis de Newton"
+    },
+    {
+     "id": "enem-fisica-leis-newton-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Pé empurra chão para trás.",
+     "enunciado": "O chão empurra o pé para a frente.",
+     "gabarito": "C",
+     "comentario": "Certo. São forças da mesma interação em corpos distintos.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Leis de Newton"
+    },
+    {
+     "id": "enem-fisica-leis-newton-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Força resultante constante de 6 N sobre 2 kg.",
+     "enunciado": "A aceleração vale 12 m/s².",
+     "gabarito": "E",
+     "comentario": "Errado. Dividir 6 por 2 dá 3 m/s².",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Leis de Newton"
+    },
+    {
+     "id": "enem-fisica-leis-newton-c14-q05",
+     "tipo": "me",
+     "texto_base": "Um carrinho de 4 kg recebe força resultante de 12 N.",
+     "enunciado": "Qual a aceleração?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "48 m/s²",
+      "B": "3 m/s²",
+      "C": "8 m/s²",
+      "D": "12 m/s²",
+      "E": "0,33 m/s²"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Multiplica massa e força.",
+      "B": "Correta. Divida 12 por 4.",
+      "C": "Subtrai números com unidades diferentes.",
+      "D": "Ignora a massa.",
+      "E": "Inverte a divisão."
+     },
+     "comentario": "A) Multiplica massa e força.\nB) Correta. Divida 12 por 4.\nC) Subtrai números com unidades diferentes.\nD) Ignora a massa.\nE) Inverte a divisão.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Leis de Newton"
+    },
+    {
+     "id": "enem-fisica-leis-newton-c14-q06",
+     "tipo": "me",
+     "texto_base": "Uma caixa de 3 kg acelera a 2 m/s².",
+     "enunciado": "Qual o módulo da força resultante?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "1,5 N",
+      "B": "5 N",
+      "C": "2 N",
+      "D": "6 N",
+      "E": "9 N"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Divide a massa pela aceleração.",
+      "B": "Soma valores incompatíveis.",
+      "C": "É o número da aceleração.",
+      "D": "Correta. Multiplique massa e aceleração.",
+      "E": "Eleva a massa ao quadrado."
+     },
+     "comentario": "A) Divide a massa pela aceleração.\nB) Soma valores incompatíveis.\nC) É o número da aceleração.\nD) Correta. Multiplique massa e aceleração.\nE) Eleva a massa ao quadrado.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Leis de Newton"
+    },
+    {
+     "id": "enem-fisica-leis-newton-c14-q07",
+     "tipo": "me",
+     "texto_base": "Uma pessoa exerce 25 N sobre uma porta.",
+     "enunciado": "Qual o módulo da força da porta sobre a pessoa?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "25 N",
+      "B": "0 N",
+      "C": "12,5 N",
+      "D": "50 N",
+      "E": "5 N"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Pela terceira lei, os módulos são iguais.",
+      "B": "A interação é recíproca.",
+      "C": "Cada corpo sofre o módulo inteiro.",
+      "D": "Somaria duas forças em corpos distintos.",
+      "E": "A raiz da força não descreve a reação."
+     },
+     "comentario": "A) Correta. Pela terceira lei, os módulos são iguais.\nB) A interação é recíproca.\nC) Cada corpo sofre o módulo inteiro.\nD) Somaria duas forças em corpos distintos.\nE) A raiz da força não descreve a reação.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Leis de Newton"
+    },
+    {
+     "id": "enem-fisica-leis-newton-c14-q08",
+     "tipo": "me",
+     "texto_base": "Uma caixa recebe 20 N para a direita e 8 N para a esquerda, com massa de 6 kg.",
+     "enunciado": "Qual o módulo da aceleração horizontal?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "4,67 m/s²",
+      "B": "3,33 m/s²",
+      "C": "1,33 m/s²",
+      "D": "12 m/s²",
+      "E": "2 m/s²"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Soma forças que têm sentidos opostos.",
+      "B": "Ignora a força à esquerda.",
+      "C": "Ignora a força à direita.",
+      "D": "É o número da resultante em newtons.",
+      "E": "Correta. Divida a resultante de 12 N por 6 kg."
+     },
+     "comentario": "A) Soma forças que têm sentidos opostos.\nB) Ignora a força à esquerda.\nC) Ignora a força à direita.\nD) É o número da resultante em newtons.\nE) Correta. Divida a resultante de 12 N por 6 kg.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Leis de Newton"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Que diz a primeira lei? Resposta: ___.",
+     "opcoes": [
+      "Resultante nula implica velocidade constante em referencial inercial.",
+      "Para massa constante, F resultante = ma.",
+      "As forças de interação têm módulos iguais, sentidos opostos e corpos distintos.",
+      "Cada força atua em um corpo diferente."
+     ],
+     "respostas": [
+      "Resultante nula implica velocidade constante em referencial inercial."
+     ],
+     "explicacao": "Resultante nula implica velocidade constante em referencial inercial."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Em que sentido aponta a aceleração? Resposta: ___.",
+     "opcoes": [
+      "As forças de interação têm módulos iguais, sentidos opostos e corpos distintos.",
+      "Cada força atua em um corpo diferente.",
+      "No sentido da força resultante.",
+      "Newton."
+     ],
+     "respostas": [
+      "No sentido da força resultante."
+     ],
+     "explicacao": "No sentido da força resultante."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma situação sobre as três leis de newton.",
+     "itens": [
+      "Escolher um corpo.",
+      "Listar as forças que ele recebe.",
+      "Somar vetorialmente as forças.",
+      "Relacionar a resultante à aceleração."
+     ],
+     "explicacao": "A primeira lei descreve a velocidade constante sob resultante nula; a segunda relaciona resultante e aceleração; a terceira relaciona forças entre dois corpos."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Que diz a primeira lei?",
+       "Resultante nula implica velocidade constante em referencial inercial."
+      ],
+      [
+       "Que diz a segunda lei?",
+       "Para massa constante, F resultante = ma."
+      ],
+      [
+       "Que diz a terceira lei?",
+       "As forças de interação têm módulos iguais, sentidos opostos e corpos distintos."
+      ],
+      [
+       "Por que ação e reação não se cancelam num corpo?",
+       "Cada força atua em um corpo diferente."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

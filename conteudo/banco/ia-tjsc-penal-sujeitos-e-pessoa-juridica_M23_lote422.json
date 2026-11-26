@@ -1,0 +1,221 @@
+{
+ "assunto": "Sujeitos do delito e responsabilidade penal da pessoa jurídica",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tjsc-penal-sujeitos-e-pessoa-juridica",
+   "titulo": "Sujeitos do delito e responsabilidade penal da pessoa jurídica",
+   "microconteudo": "RAIO-X DA PROVA: Identifique quem praticou o fato, quem titulariza o bem e qual requisito permite imputar o crime à entidade.\n\nO QUE A BANCA COBRA:\nIdentifique quem praticou o fato, quem titulariza o bem e qual requisito permite imputar o crime à entidade.\n\nENTENDA:\n1. Sujeito ativo. É a pessoa a quem se imputa a prática do crime. Crime comum pode ser praticado por qualquer pessoa que reúna os requisitos gerais. Crime próprio exige qualidade especial do autor, que pode ser elementar comunicável segundo o art. 30 do CP.\n\n2. Sujeito passivo. É o titular do bem jurídico atingido. A coletividade pode ser titular de bem difuso, como o meio ambiente. Uma pessoa diretamente afetada pode também ter lesados bens próprios, a depender do tipo e do caso.\n\n3. Objeto material. É a pessoa ou coisa sobre a qual recai fisicamente a conduta. Em crime patrimonial, o objeto subtraído e o titular do patrimônio desempenham papéis diferentes na estrutura do delito.\n\n4. Imputação ambiental. A Lei 9.605 exige infração cometida por decisão de representante legal, contratual ou órgão colegiado, no interesse ou benefício da entidade. Merece prova a atribuição institucional da decisão e a conexão com a infração; a mera proximidade econômica não basta.\n\n5. Dupla imputação. O STF, no RE 548.181, afastou a exigência de persecução simultânea da pessoa física. A responsabilidade individual continua possível e deve ser demonstrada segundo os elementos aplicáveis a cada pessoa acusada.\n\n6. Sanções da entidade. A Lei 9.605 prevê multa, restritivas de direitos e prestação de serviços à comunidade para a pessoa jurídica. A liquidação forçada tem hipótese própria no art. 24, que exige finalidade preponderante de permitir, facilitar ou ocultar crime definido na lei.\n\nTROCANDO EM MIÚDOS:\nUma empresa é denunciada sozinha por delito ambiental. O RE 548.181 afasta a obrigatoriedade da dupla imputação.\n\nUma árvore é atingida e o meio ambiente é tutelado. A árvore pode ser objeto material e o meio ambiente bem de titularidade difusa.\n\nO empregado atua apenas para vantagem pessoal e contraria decisão institucional. O vínculo de emprego não satisfaz, sozinho, o art. 3º da Lei 9.605.\n\nDOUTRINA:\nA titularidade do bem jurídico define o sujeito passivo material. A imputação à entidade tem elementos próprios e pode coexistir com imputações individuais autônomas.\n\nPEGADINHAS:\n• O STF superou a exigência de dupla imputação obrigatória.\n• O art. 3º exige decisão atribuível aos sujeitos ali indicados, no interesse ou benefício da entidade.\n\nESQUEMA:\nIdentifique agente e vítima → separe objeto material e bem jurídico → teste decisão institucional e interesse ou benefício → individualize responsabilidades.\n\nLIGAÇÕES:\nCF, art. 225, § 3º; Lei 9.605/1998, arts. 3º e 21–24; RE 548.181.",
+   "flashcards": [
+    {
+     "frente": "Como reconhecer sujeito ativo em um caso?",
+     "verso": "É a pessoa a quem se imputa a prática do crime. Crime comum pode ser praticado por qualquer pessoa que reúna os requisitos gerais. Crime próprio exige qualidade especial do autor, que pode ser elementar comunicável segundo o art. 30 do CP.",
+     "dispositivo": "CF, art. 225, § 3º; Lei 9.605/1998, arts. 3º e 21–24; RE 548.181"
+    },
+    {
+     "frente": "Como reconhecer sujeito passivo em um caso?",
+     "verso": "É o titular do bem jurídico atingido. A coletividade pode ser titular de bem difuso, como o meio ambiente. Uma pessoa diretamente afetada pode também ter lesados bens próprios, a depender do tipo e do caso.",
+     "dispositivo": "CF, art. 225, § 3º; Lei 9.605/1998, arts. 3º e 21–24; RE 548.181"
+    },
+    {
+     "frente": "Como reconhecer objeto material em um caso?",
+     "verso": "É a pessoa ou coisa sobre a qual recai fisicamente a conduta. Em crime patrimonial, o objeto subtraído e o titular do patrimônio desempenham papéis diferentes na estrutura do delito.",
+     "dispositivo": "CF, art. 225, § 3º; Lei 9.605/1998, arts. 3º e 21–24; RE 548.181"
+    },
+    {
+     "frente": "Como reconhecer imputação ambiental em um caso?",
+     "verso": "A Lei 9.605 exige infração cometida por decisão de representante legal, contratual ou órgão colegiado, no interesse ou benefício da entidade. Merece prova a atribuição institucional da decisão e a conexão com a infração; a mera proximidade econômica não basta.",
+     "dispositivo": "CF, art. 225, § 3º; Lei 9.605/1998, arts. 3º e 21–24; RE 548.181"
+    },
+    {
+     "frente": "Como reconhecer dupla imputação em um caso?",
+     "verso": "O STF, no RE 548.181, afastou a exigência de persecução simultânea da pessoa física. A responsabilidade individual continua possível e deve ser demonstrada segundo os elementos aplicáveis a cada pessoa acusada.",
+     "dispositivo": "CF, art. 225, § 3º; Lei 9.605/1998, arts. 3º e 21–24; RE 548.181"
+    },
+    {
+     "frente": "Como reconhecer sanções da entidade em um caso?",
+     "verso": "A Lei 9.605 prevê multa, restritivas de direitos e prestação de serviços à comunidade para a pessoa jurídica. A liquidação forçada tem hipótese própria no art. 24, que exige finalidade preponderante de permitir, facilitar ou ocultar crime definido na lei.",
+     "dispositivo": "CF, art. 225, § 3º; Lei 9.605/1998, arts. 3º e 21–24; RE 548.181"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Uma empresa é denunciada sozinha por delito ambiental. A falta de corréu pessoa física não impede por si a ação.",
+     "gabarito": "C",
+     "comentario": "O RE 548.181 afasta a obrigatoriedade da dupla imputação.",
+     "dispositivo": "CF, art. 225, § 3º; Lei 9.605/1998, arts. 3º e 21–24; RE 548.181"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O ajuizamento contra a empresa sempre exige denúncia simultânea contra o diretor.",
+     "gabarito": "E",
+     "comentario": "O STF superou a exigência de dupla imputação obrigatória.",
+     "dispositivo": "CF, art. 225, § 3º; Lei 9.605/1998, arts. 3º e 21–24; RE 548.181"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Uma árvore é atingida e o meio ambiente é tutelado. A coisa atingida e a titularidade do bem jurídico são questões distintas.",
+     "gabarito": "C",
+     "comentario": "A árvore pode ser objeto material e o meio ambiente bem de titularidade difusa.",
+     "dispositivo": "CF, art. 225, § 3º; Lei 9.605/1998, arts. 3º e 21–24; RE 548.181"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Qualquer benefício presumido permite condenar a entidade independentemente da decisão institucional.",
+     "gabarito": "E",
+     "comentario": "O art. 3º exige decisão atribuível aos sujeitos ali indicados, no interesse ou benefício da entidade.",
+     "dispositivo": "CF, art. 225, § 3º; Lei 9.605/1998, arts. 3º e 21–24; RE 548.181"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Qual é o sujeito passivo da lesão a bem ambiental difuso?",
+     "alternativas": {
+      "A": "A coletividade.",
+      "B": "A árvore isoladamente.",
+      "C": "Somente o fiscal.",
+      "D": "Sempre o administrador."
+     },
+     "gabarito": "A",
+     "comentario": "A (correta). O bem jurídico é difuso. B (incorreta). Pode ser objeto material. C (incorreta). A fiscalização não o torna titular do bem. D (incorreta). Cargo não determina titularidade.",
+     "comentarios_por_alternativa": {
+      "A": "O bem jurídico é difuso.",
+      "B": "Pode ser objeto material.",
+      "C": "A fiscalização não o torna titular do bem.",
+      "D": "Cargo não determina titularidade."
+     },
+     "dispositivo": "CF, art. 225, § 3º; Lei 9.605/1998, arts. 3º e 21–24; RE 548.181"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "O que exige a imputação institucional ambiental?",
+     "alternativas": {
+      "A": "Mera relação de emprego.",
+      "B": "Decisão qualificada e interesse ou benefício da entidade.",
+      "C": "Apenas lucro contábil efetivo.",
+      "D": "Condenação prévia do gestor."
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). É insuficiente. B (correta). São requisitos do art. 3º. C (incorreta). A lei também contempla interesse. D (incorreta). Não há dupla imputação obrigatória.",
+     "comentarios_por_alternativa": {
+      "A": "É insuficiente.",
+      "B": "São requisitos do art. 3º.",
+      "C": "A lei também contempla interesse.",
+      "D": "Não há dupla imputação obrigatória."
+     },
+     "dispositivo": "CF, art. 225, § 3º; Lei 9.605/1998, arts. 3º e 21–24; RE 548.181"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Qual sanção pode ser aplicada à pessoa jurídica nos termos do art. 21?",
+     "alternativas": {
+      "A": "Reclusão.",
+      "B": "Detenção.",
+      "C": "Multa.",
+      "D": "Prisão simples."
+     },
+     "gabarito": "C",
+     "comentario": "A (incorreta). A entidade não sofre pena corporal. B (incorreta). Não está no rol da entidade. C (correta). Integra o rol legal. D (incorreta). Não cabe à pessoa jurídica.",
+     "comentarios_por_alternativa": {
+      "A": "A entidade não sofre pena corporal.",
+      "B": "Não está no rol da entidade.",
+      "C": "Integra o rol legal.",
+      "D": "Não cabe à pessoa jurídica."
+     },
+     "dispositivo": "CF, art. 225, § 3º; Lei 9.605/1998, arts. 3º e 21–24; RE 548.181"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Que conclusão decorre da imputação à empresa quanto ao administrador?",
+     "alternativas": {
+      "A": "Ele é sempre absolvido.",
+      "B": "Ele é sempre condenado.",
+      "C": "A responsabilidade é transferida sem processo.",
+      "D": "Sua responsabilidade pode coexistir e requer análise individual."
+     },
+     "gabarito": "D",
+     "comentario": "A (incorreta). Não há exclusão automática. B (incorreta). A acusação exige prova própria. C (incorreta). Incidem garantias de defesa. D (correta). Art. 3º, parágrafo único.",
+     "comentarios_por_alternativa": {
+      "A": "Não há exclusão automática.",
+      "B": "A acusação exige prova própria.",
+      "C": "Incidem garantias de defesa.",
+      "D": "Art. 3º, parágrafo único."
+     },
+     "dispositivo": "CF, art. 225, § 3º; Lei 9.605/1998, arts. 3º e 21–24; RE 548.181"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Resposta: ___. Que conclusão decorre da imputação à empresa quanto ao administrador?",
+     "opcoes": [
+      "Sua responsabilidade pode coexistir e requer análise individual.",
+      "Ele é sempre absolvido.",
+      "Ele é sempre condenado.",
+      "A responsabilidade é transferida sem processo."
+     ],
+     "respostas": [
+      "Sua responsabilidade pode coexistir e requer análise individual."
+     ],
+     "explicacao": "Art. 3º, parágrafo único.",
+     "dispositivo": "CF, art. 225, § 3º; Lei 9.605/1998, arts. 3º e 21–24; RE 548.181"
+    },
+    {
+     "tipo": "associacao",
+     "pares": [
+      {
+       "esquerda": "Sujeito ativo",
+       "direita": "É a pessoa a quem se imputa a prática do crime. Crime comum pode ser praticado por qualquer pessoa que reúna os requisitos gerais. Crime próprio exige qualidade especial do autor, que pode ser elementar comunicável segundo o art. 30 do CP."
+      },
+      {
+       "esquerda": "Sujeito passivo",
+       "direita": "É o titular do bem jurídico atingido. A coletividade pode ser titular de bem difuso, como o meio ambiente. Uma pessoa diretamente afetada pode também ter lesados bens próprios, a depender do tipo e do caso."
+      },
+      {
+       "esquerda": "Objeto material",
+       "direita": "É a pessoa ou coisa sobre a qual recai fisicamente a conduta. Em crime patrimonial, o objeto subtraído e o titular do patrimônio desempenham papéis diferentes na estrutura do delito."
+      }
+     ],
+     "explicacao": "Associe cada conceito ao seu efeito.",
+     "dispositivo": "CF, art. 225, § 3º; Lei 9.605/1998, arts. 3º e 21–24; RE 548.181"
+    },
+    {
+     "tipo": "classificacao",
+     "itens": [
+      {
+       "enunciado": "Uma empresa é denunciada sozinha por delito ambiental.",
+       "resposta": "O RE 548.181 afasta a obrigatoriedade da dupla imputação."
+      },
+      {
+       "enunciado": "Uma árvore é atingida e o meio ambiente é tutelado.",
+       "resposta": "A árvore pode ser objeto material e o meio ambiente bem de titularidade difusa."
+      },
+      {
+       "enunciado": "O empregado atua apenas para vantagem pessoal e contraria decisão institucional.",
+       "resposta": "O vínculo de emprego não satisfaz, sozinho, o art. 3º da Lei 9.605."
+      }
+     ],
+     "explicacao": "Identifique a categoria aplicável em cada situação.",
+     "dispositivo": "CF, art. 225, § 3º; Lei 9.605/1998, arts. 3º e 21–24; RE 548.181"
+    },
+    {
+     "tipo": "caso_pratico",
+     "enunciado": "O empregado atua apenas para vantagem pessoal e contraria decisão institucional. Como resolver?",
+     "resposta": "O vínculo de emprego não satisfaz, sozinho, o art. 3º da Lei 9.605.",
+     "explicacao": "O vínculo de emprego não satisfaz, sozinho, o art. 3º da Lei 9.605.",
+     "dispositivo": "CF, art. 225, § 3º; Lei 9.605/1998, arts. 3º e 21–24; RE 548.181"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,253 @@
+{
+ "assunto": "Força centrípeta e cálculo da resultante radial",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-forca-centripeta-c14",
+   "titulo": "Força centrípeta e cálculo da resultante radial",
+   "microconteudo": "RAIO-X DA PROVA: Interprete a situação e justifique a conclusão com a relação física pertinente. Em trajetória circular, a aceleração radial vale v²/r e a componente radial da força resultante vale mv²/r, voltada para o centro.\n\nPOR QUE IMPORTA:\nDobrar a rapidez em uma curva aumenta bastante a força radial necessária. A fórmula mostra por que esse aumento supera o dobro.\n\nO QUE A BANCA COBRA:\nInterprete a situação e justifique a conclusão com a relação física pertinente. Em trajetória circular, a aceleração radial vale v²/r e a componente radial da força resultante vale mv²/r, voltada para o centro.\n\nENTENDA:\nComece por esta situação: Dobrar a rapidez em uma curva aumenta bastante a força radial necessária. A fórmula mostra por que esse aumento supera o dobro. Leia os dados disponíveis e faça uma previsão antes de procurar uma fórmula. Em trajetória circular, a aceleração radial vale v²/r e a componente radial da força resultante vale mv²/r, voltada para o centro. Com massa de 2 kg, velocidade de módulo 6 m/s e raio de 3 m, a força radial vale 24 N.\n\nPara comparar duas pistas, observe se a rapidez se mantém igual. Se sim, a curva mais fechada tem raio menor e exige maior aceleração radial. Uma pista pode compensar parte desse efeito se o movimento nela ocorrer com rapidez suficientemente menor. A comparação depende da razão entre o quadrado da rapidez e o raio.\n\nCom massa de 2 kg, velocidade de módulo 6 m/s e raio de 3 m, a força radial vale 24 N. Ao interpretar esse exemplo, escreva a condição física que torna possível prever o resultado. Pergunte se ela continuaria valendo caso um dos dados omitidos passasse a ter importância. Diferencie o que você consegue concluir numericamente do que pode apenas prever qualitativamente. A descrição do resultado deve manter explícito qual corpo ou conjunto está sendo observado e em qual intervalo a afirmação é válida.\n\nConfira o significado das palavras da questão. Qual é a aceleração radial? v² dividido pelo raio.\nQue variáveis mudam a força radial? Massa, rapidez e raio da trajetória.\nO que ocorre se a rapidez dobra? A força radial quadruplica, com massa e raio fixos.\nO que ocorre se o raio dobra? A força radial cai à metade, com massa e rapidez fixas.\nDe onde vem o sentido radial? Do segmento que liga o móvel ao centro da curva.\nA rapidez pode mudar além de a direção mudar? Sim, quando também há aceleração tangencial. Se dois termos parecem próximos, compare o que cada um descreve no caso inicial. Em Física, trocar o nome de uma grandeza pode mudar o cálculo ou até o que se está tentando explicar. Escreva, ao lado de cada símbolo, qual parte da situação ele representa e em que unidade seria medido.\n\nExemplo 1. Um corpo descreve um círculo de raio 5 m com rapidez de 10 m/s. Qual o módulo da aceleração radial? A resposta é 20 m/s². A razão é 100/5. Omitiu o quadrado da rapidez. Multiplicou 10 por 5. Elevou a rapidez ao quadrado sem dividir pelo raio. Usou o raio como numerador.\n\nExemplo 2. Um carrinho de 3 kg faz curva de raio 4 m a 8 m/s. Qual o módulo da força radial? A resposta é 48 N. Calcule 3 × 64/4. É a aceleração em m/s². Usa v sem elevar ao quadrado. Falta dividir pelo raio. É apenas o número de v².\n\nExemplo 3. Com massa e raio fixos, a rapidez triplica. Por qual fator se multiplica a força radial? A resposta é 9 vezes. O quadrado de 3 vale 9. Confunde relação linear e quadrática. Dobrar o fator não equivale a elevá-lo ao quadrado. Usa o cubo. Desconsidera que a rapidez mudou.\n\nExemplo 4. Um móvel tem rapidez de 6 m/s e aceleração radial de 4 m/s². Qual o raio? A resposta é 9 m. Isole r e obtenha 36/4. Multiplica rapidez pela aceleração. Divide rapidez pela aceleração sem quadrado. Falta dividir pela aceleração. Repete o número da aceleração.\n\nTeste de interpretação. Rapidez de um objeto dobra a raio fixo. Considere a afirmação: “A aceleração radial quadruplica.” Certo. A rapidez aparece ao quadrado. O raio dobra sem mudar a rapidez. Considere a afirmação: “A aceleração radial dobra.” Errado. O raio aparece no denominador. Um objeto tem v = 4 m/s e r = 2 m. Considere a afirmação: “Sua aceleração radial vale 8 m/s².” Certo. Calcule 16/2. Trajetória circular de raio finito e rapidez não nula. Considere a afirmação: “A aceleração radial pode ser zero.” Errado. Nesse caso v²/r é positivo.\n\nUma sequência de resolução é útil quando a questão traz mais dados que o necessário. Primeiro, marcar o centro da trajetória. Depois, ler massa, rapidez e raio. Em seguida, calcular v²/r e multiplicar pela massa quando pedido. Por último, interpretar o sentido para o centro. Explique oralmente por que cada passo vem nessa posição. Se a última conclusão mudar quando você troca um detalhe do enunciado, localize qual hipótese provocou essa mudança. Isso ajuda a distinguir o resultado de uma conta das condições em que ele vale.\n\nEm uma prova, procure separar o que o texto observou, o que o modelo assume e o que você concluiu. Um valor informado é um dado. Uma condição como desprezar o atrito ou tratar o intervalo como uniforme pode ser uma hipótese. Já o resultado é aquilo que você obtém ao combinar os dados com a regra escolhida. Se houver tabela ou figura, confira a legenda, os eixos e as unidades antes de usar os números. Para revisar, refaça um dos exemplos mudando um dado por vez e preveja o sentido da mudança antes de calcular.\n\nCheck de leitura. Escolha dois exemplos desta lição e compare o papel de cada informação. O que foi medido diretamente? Qual relação precisou ser usada para inferir uma resposta? Há alguma observação que, sozinha, seria insuficiente? Se a resposta for um número, faça uma estimativa simples para checar se ele é plausível. Se for uma explicação, procure indicar qual condição a torna válida. Depois, tente escrever uma resposta que inclua o dado utilizado, o raciocínio e a conclusão em uma ou duas frases.\n\nAo montar um rascunho, deixe os dados de um lado e a conclusão do outro. Comece pelo dado que tem relação direta com a pergunta. Caso sobrem informações, veja se elas servem para comparar hipóteses ou apenas situar a história. Em uma comparação, mantenha a mesma referência e o mesmo intervalo sempre que o enunciado permitir. Quando um resultado contradiz a previsão inicial, revise primeiro a interpretação do que foi pedido; em seguida, revise a operação e as condições assumidas.\n\nNa primeira, destaque o que o enunciado informa sobre as condições da situação. Na segunda, explique como a regra escolhida conecta essas condições ao resultado. Se houver um cálculo, escreva as unidades intermediárias. Em uma resposta sobre direção ou sentido, declare a orientação de referência. Uma alternativa pode conter um número familiar do enunciado e ainda responder sobre a grandeza errada.\n\nPara fechar, compare estas duas situações e procure a diferença física entre elas. Rapidez de um objeto dobra a raio fixo. O raio dobra sem mudar a rapidez. Quando o contexto muda, a leitura deve partir das informações apresentadas naquele caso. Considere a primeira afirmação e justifique o resultado: “A aceleração radial quadruplica.” Certo. A rapidez aparece ao quadrado. Agora avalie a segunda: “A aceleração radial dobra.” Errado. O raio aparece no denominador. Uma explicação adequada pode usar palavras e cálculos, desde que a relação com a situação seja clara. Pense em qual mudança nos dados tornaria cada afirmação válida ou inválida.\n\nUse este conjunto de definições como roteiro para checar o raciocínio. Qual é a aceleração radial? v² dividido pelo raio.\nQue variáveis mudam a força radial? Massa, rapidez e raio da trajetória.\nO que ocorre se a rapidez dobra? A força radial quadruplica, com massa e raio fixos.\nO que ocorre se o raio dobra? A força radial cai à metade, com massa e rapidez fixas.\nDe onde vem o sentido radial? Do segmento que liga o móvel ao centro da curva.\nA rapidez pode mudar além de a direção mudar? Sim, quando também há aceleração tangencial. Ao voltar aos dados do começo, selecione as definições pertinentes ao caso. Leia a conclusão como se ela fosse uma frase independente: confira a unidade, a referência adotada e a condição de validade.\n\nTROCANDO EM MIÚDOS:\nImagine a situação do começo da lição. Dobrar a rapidez em uma curva aumenta bastante a força radial necessária. A fórmula mostra por que esse aumento supera o dobro. Com massa de 2 kg, velocidade de módulo 6 m/s e raio de 3 m, a força radial vale 24 N.\n\nA regra principal pode ser escrita assim: Em trajetória circular, a aceleração radial vale v²/r e a componente radial da força resultante vale mv²/r, voltada para o centro. Tente explicar essa regra em voz alta para alguém que ainda não viu o conteúdo, usando o exemplo inicial como apoio.\n\nAntes de marcar uma alternativa, faça esta checagem. Qual é a aceleração radial? v² dividido pelo raio. Que variáveis mudam a força radial? Massa, rapidez e raio da trajetória. O que ocorre se a rapidez dobra? A força radial quadruplica, com massa e raio fixos. O que ocorre se o raio dobra? A força radial cai à metade, com massa e rapidez fixas. De onde vem o sentido radial? Do segmento que liga o móvel ao centro da curva. A rapidez pode mudar além de a direção mudar? Sim, quando também há aceleração tangencial.\n\nEm um rascunho curto, anote quatro passos. Marcar o centro da trajetória. Ler massa, rapidez e raio. Calcular v²/r e multiplicar pela massa quando pedido. Interpretar o sentido para o centro. Em seguida, tente aplicar os passos a um exemplo com números ou condições diferentes. As grandezas que foram medidas e o que você quer descobrir devem ficar em linhas separadas. Isso ajuda a identificar qual informação ainda falta.\n\nExperimente responder a esta situação sem olhar as opções. Um corpo descreve um círculo de raio 5 m com rapidez de 10 m/s. Qual o módulo da aceleração radial? A razão é 100/5. Depois, confira nos exemplos quais seriam as consequências de escolher uma interpretação diferente. Se tiver que refazer, comece pelas condições do problema e pelo significado de cada dado.\n\nPara fixar, releia uma afirmação verdadeira e uma falsa da lição. Reescreva a falsa trocando só o trecho necessário para corrigi-la. Na afirmação verdadeira, diga qual detalhe do enunciado permite chegar a essa conclusão. Assim você pratica explicar um resultado, além de reconhecer qual opção está certa.\n\nLEI SECA:\nEm trajetória circular, a aceleração radial vale v²/r e a componente radial da força resultante vale mv²/r, voltada para o centro.\n\nSÚMULAS E TESES:\nCom massa de 2 kg, velocidade de módulo 6 m/s e raio de 3 m, a força radial vale 24 N.\n\nESQUEMA:\nMarcar o centro da trajetória → Ler massa, rapidez e raio → Calcular v²/r e multiplicar pela massa quando pedido → Interpretar o sentido para o centro\n\nPEGADINHAS:\n1. Certo. A rapidez aparece ao quadrado.\n2. Errado. O raio aparece no denominador.\n3. Certo. Calcule 16/2.\n4. Errado. Nesse caso v²/r é positivo.\n\nDOUTRINA:\nOpenStax — College Physics 2e, Centripetal Acceleration\n\nNA PRÁTICA:\nExemplo 1. Um corpo descreve um círculo de raio 5 m com rapidez de 10 m/s. Qual o módulo da aceleração radial? A resposta é 20 m/s². A razão é 100/5. Omitiu o quadrado da rapidez. Multiplicou 10 por 5. Elevou a rapidez ao quadrado sem dividir pelo raio. Usou o raio como numerador.",
+   "flashcards": [
+    {
+     "frente": "Qual é a aceleração radial?",
+     "verso": "v² dividido pelo raio.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção de força centrípeta e sua quantificação"
+    },
+    {
+     "frente": "Que variáveis mudam a força radial?",
+     "verso": "Massa, rapidez e raio da trajetória.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção de força centrípeta e sua quantificação"
+    },
+    {
+     "frente": "O que ocorre se a rapidez dobra?",
+     "verso": "A força radial quadruplica, com massa e raio fixos.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção de força centrípeta e sua quantificação"
+    },
+    {
+     "frente": "O que ocorre se o raio dobra?",
+     "verso": "A força radial cai à metade, com massa e rapidez fixas.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção de força centrípeta e sua quantificação"
+    },
+    {
+     "frente": "De onde vem o sentido radial?",
+     "verso": "Do segmento que liga o móvel ao centro da curva.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção de força centrípeta e sua quantificação"
+    },
+    {
+     "frente": "A rapidez pode mudar além de a direção mudar?",
+     "verso": "Sim, quando também há aceleração tangencial.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção de força centrípeta e sua quantificação"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-forca-centripeta-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Rapidez de um objeto dobra a raio fixo.",
+     "enunciado": "A aceleração radial quadruplica.",
+     "gabarito": "C",
+     "comentario": "Certo. A rapidez aparece ao quadrado.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção de força centrípeta e sua quantificação"
+    },
+    {
+     "id": "enem-fisica-forca-centripeta-c14-q02",
+     "tipo": "ce",
+     "texto_base": "O raio dobra sem mudar a rapidez.",
+     "enunciado": "A aceleração radial dobra.",
+     "gabarito": "E",
+     "comentario": "Errado. O raio aparece no denominador.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção de força centrípeta e sua quantificação"
+    },
+    {
+     "id": "enem-fisica-forca-centripeta-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Um objeto tem v = 4 m/s e r = 2 m.",
+     "enunciado": "Sua aceleração radial vale 8 m/s².",
+     "gabarito": "C",
+     "comentario": "Certo. Calcule 16/2.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção de força centrípeta e sua quantificação"
+    },
+    {
+     "id": "enem-fisica-forca-centripeta-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Trajetória circular de raio finito e rapidez não nula.",
+     "enunciado": "A aceleração radial pode ser zero.",
+     "gabarito": "E",
+     "comentario": "Errado. Nesse caso v²/r é positivo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção de força centrípeta e sua quantificação"
+    },
+    {
+     "id": "enem-fisica-forca-centripeta-c14-q05",
+     "tipo": "me",
+     "texto_base": "Um corpo descreve um círculo de raio 5 m com rapidez de 10 m/s.",
+     "enunciado": "Qual o módulo da aceleração radial?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "2 m/s²",
+      "B": "20 m/s²",
+      "C": "50 m/s²",
+      "D": "100 m/s²",
+      "E": "0,5 m/s²"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Omitiu o quadrado da rapidez.",
+      "B": "Correta. A razão é 100/5.",
+      "C": "Multiplicou 10 por 5.",
+      "D": "Elevou a rapidez ao quadrado sem dividir pelo raio.",
+      "E": "Usou o raio como numerador."
+     },
+     "comentario": "A) Omitiu o quadrado da rapidez.\nB) Correta. A razão é 100/5.\nC) Multiplicou 10 por 5.\nD) Elevou a rapidez ao quadrado sem dividir pelo raio.\nE) Usou o raio como numerador.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção de força centrípeta e sua quantificação"
+    },
+    {
+     "id": "enem-fisica-forca-centripeta-c14-q06",
+     "tipo": "me",
+     "texto_base": "Um carrinho de 3 kg faz curva de raio 4 m a 8 m/s.",
+     "enunciado": "Qual o módulo da força radial?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "16 N",
+      "B": "6 N",
+      "C": "192 N",
+      "D": "48 N",
+      "E": "64 N"
+     },
+     "comentarios_por_alternativa": {
+      "A": "É a aceleração em m/s².",
+      "B": "Usa v sem elevar ao quadrado.",
+      "C": "Falta dividir pelo raio.",
+      "D": "Correta. Calcule 3 × 64/4.",
+      "E": "É apenas o número de v²."
+     },
+     "comentario": "A) É a aceleração em m/s².\nB) Usa v sem elevar ao quadrado.\nC) Falta dividir pelo raio.\nD) Correta. Calcule 3 × 64/4.\nE) É apenas o número de v².",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção de força centrípeta e sua quantificação"
+    },
+    {
+     "id": "enem-fisica-forca-centripeta-c14-q07",
+     "tipo": "me",
+     "texto_base": "Com massa e raio fixos, a rapidez triplica.",
+     "enunciado": "Por qual fator se multiplica a força radial?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "9 vezes",
+      "B": "3 vezes",
+      "C": "6 vezes",
+      "D": "27 vezes",
+      "E": "1 vezes"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. O quadrado de 3 vale 9.",
+      "B": "Confunde relação linear e quadrática.",
+      "C": "Dobrar o fator não equivale a elevá-lo ao quadrado.",
+      "D": "Usa o cubo.",
+      "E": "Desconsidera que a rapidez mudou."
+     },
+     "comentario": "A) Correta. O quadrado de 3 vale 9.\nB) Confunde relação linear e quadrática.\nC) Dobrar o fator não equivale a elevá-lo ao quadrado.\nD) Usa o cubo.\nE) Desconsidera que a rapidez mudou.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção de força centrípeta e sua quantificação"
+    },
+    {
+     "id": "enem-fisica-forca-centripeta-c14-q08",
+     "tipo": "me",
+     "texto_base": "Um móvel tem rapidez de 6 m/s e aceleração radial de 4 m/s².",
+     "enunciado": "Qual o raio?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "24 m",
+      "B": "1,5 m",
+      "C": "36 m",
+      "D": "4 m",
+      "E": "9 m"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Multiplica rapidez pela aceleração.",
+      "B": "Divide rapidez pela aceleração sem quadrado.",
+      "C": "Falta dividir pela aceleração.",
+      "D": "Repete o número da aceleração.",
+      "E": "Correta. Isole r e obtenha 36/4."
+     },
+     "comentario": "A) Multiplica rapidez pela aceleração.\nB) Divide rapidez pela aceleração sem quadrado.\nC) Falta dividir pela aceleração.\nD) Repete o número da aceleração.\nE) Correta. Isole r e obtenha 36/4.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção de força centrípeta e sua quantificação"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Qual é a aceleração radial? Resposta: ___.",
+     "opcoes": [
+      "v² dividido pelo raio.",
+      "Massa, rapidez e raio da trajetória.",
+      "A força radial quadruplica, com massa e raio fixos.",
+      "A força radial cai à metade, com massa e rapidez fixas."
+     ],
+     "respostas": [
+      "v² dividido pelo raio."
+     ],
+     "explicacao": "v² dividido pelo raio."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "De onde vem o sentido radial? Resposta: ___.",
+     "opcoes": [
+      "A força radial quadruplica, com massa e raio fixos.",
+      "A força radial cai à metade, com massa e rapidez fixas.",
+      "Do segmento que liga o móvel ao centro da curva.",
+      "Sim, quando também há aceleração tangencial."
+     ],
+     "respostas": [
+      "Do segmento que liga o móvel ao centro da curva."
+     ],
+     "explicacao": "Do segmento que liga o móvel ao centro da curva."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma situação sobre força centrípeta e cálculo da resultante radial.",
+     "itens": [
+      "Marcar o centro da trajetória.",
+      "Ler massa, rapidez e raio.",
+      "Calcular v²/r e multiplicar pela massa quando pedido.",
+      "Interpretar o sentido para o centro."
+     ],
+     "explicacao": "Em trajetória circular, a aceleração radial vale v²/r e a componente radial da força resultante vale mv²/r, voltada para o centro."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Qual é a aceleração radial?",
+       "v² dividido pelo raio."
+      ],
+      [
+       "Que variáveis mudam a força radial?",
+       "Massa, rapidez e raio da trajetória."
+      ],
+      [
+       "O que ocorre se a rapidez dobra?",
+       "A força radial quadruplica, com massa e raio fixos."
+      ],
+      [
+       "O que ocorre se o raio dobra?",
+       "A força radial cai à metade, com massa e rapidez fixas."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

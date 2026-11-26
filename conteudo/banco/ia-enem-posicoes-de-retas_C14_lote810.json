@@ -1,0 +1,251 @@
+{
+ "assunto": "Posições de retas no plano e no espaço",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-posicoes-de-retas-c14",
+   "titulo": "Posições de retas no plano e no espaço",
+   "microconteudo": "RAIO-X DA PROVA: Identifique retas paralelas, coincidentes, concorrentes, perpendiculares e reversas. Diferencie a posição das retas e o recorte mostrado.\n\nPOR QUE IMPORTA:\nProjetos de ruas, estantes e estruturas usam alinhamentos com posições diferentes. No ENEM, uma vista plana pode esconder a altura ou a profundidade dos elementos.\n\nO QUE A BANCA COBRA:\nIdentifique retas paralelas, coincidentes, concorrentes, perpendiculares e reversas. Diferencie a posição das retas e o recorte mostrado.\n\nENTENDA:\n1. Concorrência\n\nDois corredores retos de um piso se cruzam em um único ponto formando 60°. Qual relação é certa? Para decidir, precisamos deste conceito: Retas distintas são concorrentes quando têm exatamente um ponto em comum. No caso apresentado, a resposta é **Concorrentes oblíquas**. Há cruzamento, e o ângulo dado difere de 90°.\n\nUma leitura que pode parecer plausível é “Paralelas sem ponto comum”. Compare essa hipótese com o que a situação descreve. Há cruzamento, e o ângulo dado difere de 90°. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n2. Perpendicularidade\n\nDuas linhas em uma planta cruzam-se com ângulo de 90°. Qual relação adicional possuem? Para decidir, precisamos deste conceito: Retas são perpendiculares quando se cruzam formando ângulo reto. No caso apresentado, a resposta é **Perpendicularidade**. A abertura de 90° especifica a relação entre as retas concorrentes.\n\nUma leitura que pode parecer plausível é “Coincidência total”. Compare essa hipótese com o que a situação descreve. A abertura de 90° especifica a relação entre as retas concorrentes. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n3. Paralelismo no plano\n\nDois trilhos ideais retos num mesmo plano seguem lado a lado sempre com a mesma distância. Qual é sua posição relativa? Para decidir, precisamos deste conceito: Retas paralelas distintas têm a mesma direção e não se cruzam. No caso apresentado, a resposta é **Paralelas distintas**. A distância positiva constante impede a interseção e indica a mesma direção.\n\nUma leitura que pode parecer plausível é “Concorrentes após certo trecho”. Compare essa hipótese com o que a situação descreve. A distância positiva constante impede a interseção e indica a mesma direção. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n4. Coincidência\n\nUma linha vem descrita pelos pontos A e B. Outra é descrita por B e A, com A diferente de B. Qual é sua posição relativa? Para decidir, precisamos deste conceito: Retas coincidentes compartilham todos os pontos porque representam a mesma reta. No caso apresentado, a resposta é **Coincidentes**. Dois pontos distintos determinam uma única reta; trocar a ordem não muda a reta.\n\nUma leitura que pode parecer plausível é “Paralelas com separação positiva”. Compare essa hipótese com o que a situação descreve. Dois pontos distintos determinam uma única reta; trocar a ordem não muda a reta. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n5. Retas reversas\n\nUm cabo segue leste-oeste na altura da rua e outro segue norte-sul vários metros acima. Qual relação existe entre os prolongamentos retos? Para decidir, precisamos deste conceito: Retas reversas são retas do espaço que não pertencem a um mesmo plano; não se cruzam nem são paralelas. No caso apresentado, a resposta é **Reversas**. As direções diferem e a diferença fixa de altura impede o encontro.\n\nUma leitura que pode parecer plausível é “Concorrentes porque se cruzam no desenho visto de cima”. Compare essa hipótese com o que a situação descreve. As direções diferem e a diferença fixa de altura impede o encontro. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n6. Retas e segmentos\n\nDuas linhas de meio-fio têm comprimentos limitados e terminam antes do cruzamento para o qual apontam. O que pode ocorrer com as retas que as contêm? Para decidir, precisamos deste conceito: Segmentos possuem extremidades; suas retas de suporte podem se cruzar fora dos segmentos. No caso apresentado, a resposta é **As retas podem ser concorrentes**. Se ambas seguirem pelos prolongamentos em direção ao cruzamento, suas retas de suporte se encontram.\n\nUma leitura que pode parecer plausível é “As retas são obrigatoriamente paralelas”. Compare essa hipótese com o que a situação descreve. Se ambas seguirem pelos prolongamentos em direção ao cruzamento, suas retas de suporte se encontram. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\nTROCANDO EM MIÚDOS:\n**Concorrência.** Retas distintas são concorrentes quando têm exatamente um ponto em comum. Tente resolver esta situação: Dois corredores retos de um piso se cruzam em um único ponto formando 60°. Qual relação é certa? Confira: Concorrentes oblíquas. Há cruzamento, e o ângulo dado difere de 90°.\n\n**Perpendicularidade.** Retas são perpendiculares quando se cruzam formando ângulo reto. Tente resolver esta situação: Duas linhas em uma planta cruzam-se com ângulo de 90°. Qual relação adicional possuem? Confira: Perpendicularidade. A abertura de 90° especifica a relação entre as retas concorrentes.\n\n**Paralelismo no plano.** Retas paralelas distintas têm a mesma direção e não se cruzam. Tente resolver esta situação: Dois trilhos ideais retos num mesmo plano seguem lado a lado sempre com a mesma distância. Qual é sua posição relativa? Confira: Paralelas distintas. A distância positiva constante impede a interseção e indica a mesma direção.\n\n**Coincidência.** Retas coincidentes compartilham todos os pontos porque representam a mesma reta. Tente resolver esta situação: Uma linha vem descrita pelos pontos A e B. Outra é descrita por B e A, com A diferente de B. Qual é sua posição relativa? Confira: Coincidentes. Dois pontos distintos determinam uma única reta; trocar a ordem não muda a reta.\n\n**Retas reversas.** Retas reversas são retas do espaço que não pertencem a um mesmo plano; não se cruzam nem são paralelas. Tente resolver esta situação: Um cabo segue leste-oeste na altura da rua e outro segue norte-sul vários metros acima. Qual relação existe entre os prolongamentos retos? Confira: Reversas. As direções diferem e a diferença fixa de altura impede o encontro.\n\n**Retas e segmentos.** Segmentos possuem extremidades; suas retas de suporte podem se cruzar fora dos segmentos. Tente resolver esta situação: Duas linhas de meio-fio têm comprimentos limitados e terminam antes do cruzamento para o qual apontam. O que pode ocorrer com as retas que as contêm? Confira: As retas podem ser concorrentes. Se ambas seguirem pelos prolongamentos em direção ao cruzamento, suas retas de suporte se encontram.\n\nESQUEMA:\n• Concorrência → Retas distintas são concorrentes quando têm exatamente um ponto em comum.\n• Perpendicularidade → Retas são perpendiculares quando se cruzam formando ângulo reto.\n• Paralelismo no plano → Retas paralelas distintas têm a mesma direção e não se cruzam.\n• Coincidência → Retas coincidentes compartilham todos os pontos porque representam a mesma reta.\n• Retas reversas → Retas reversas são retas do espaço que não pertencem a um mesmo plano; não se cruzam nem são paralelas.\n• Retas e segmentos → Segmentos possuem extremidades; suas retas de suporte podem se cruzar fora dos segmentos.\n\nPEGADINHAS:\n• Concorrência: ao ler “Paralelas sem ponto comum”, confira o que o enunciado permite concluir.\n• Perpendicularidade: ao ler “Coincidência total”, confira o que o enunciado permite concluir.\n• Paralelismo no plano: ao ler “Concorrentes após certo trecho”, confira o que o enunciado permite concluir.\n• Coincidência: ao ler “Paralelas com separação positiva”, confira o que o enunciado permite concluir.\n• Retas reversas: ao ler “Concorrentes porque se cruzam no desenho visto de cima”, confira o que o enunciado permite concluir.\n• Retas e segmentos: ao ler “As retas são obrigatoriamente paralelas”, confira o que o enunciado permite concluir.\n\nNA PRÁTICA:\nDuas linhas de meio-fio têm comprimentos limitados e terminam antes do cruzamento para o qual apontam. O que pode ocorrer com as retas que as contêm? **Resposta:** As retas podem ser concorrentes. Se ambas seguirem pelos prolongamentos em direção ao cruzamento, suas retas de suporte se encontram.",
+   "flashcards": [
+    {
+     "frente": "Como reconhecer concorrência?",
+     "verso": "Retas distintas são concorrentes quando têm exatamente um ponto em comum.",
+     "dispositivo": "Conhecimentos geométricos — Posições de retas"
+    },
+    {
+     "frente": "Como reconhecer perpendicularidade?",
+     "verso": "Retas são perpendiculares quando se cruzam formando ângulo reto.",
+     "dispositivo": "Conhecimentos geométricos — Posições de retas"
+    },
+    {
+     "frente": "Como reconhecer paralelismo no plano?",
+     "verso": "Retas paralelas distintas têm a mesma direção e não se cruzam.",
+     "dispositivo": "Conhecimentos geométricos — Posições de retas"
+    },
+    {
+     "frente": "Como reconhecer coincidência?",
+     "verso": "Retas coincidentes compartilham todos os pontos porque representam a mesma reta.",
+     "dispositivo": "Conhecimentos geométricos — Posições de retas"
+    },
+    {
+     "frente": "Como reconhecer retas reversas?",
+     "verso": "Retas reversas são retas do espaço que não pertencem a um mesmo plano; não se cruzam nem são paralelas.",
+     "dispositivo": "Conhecimentos geométricos — Posições de retas"
+    },
+    {
+     "frente": "Como reconhecer retas e segmentos?",
+     "verso": "Segmentos possuem extremidades; suas retas de suporte podem se cruzar fora dos segmentos.",
+     "dispositivo": "Conhecimentos geométricos — Posições de retas"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-posicoes-de-retas-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Na planta de um galpão, duas linhas retas se cruzam formando 90°.",
+     "enunciado": "As retas são concorrentes e perpendiculares.",
+     "gabarito": "C",
+     "habilidade": "H7",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Posições de retas",
+     "comentario": "Elas têm ponto em comum e o ângulo do cruzamento é reto."
+    },
+    {
+     "id": "enem-posicoes-de-retas-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Dois segmentos do mesmo plano não se tocam.",
+     "enunciado": "Suas retas de suporte são necessariamente paralelas.",
+     "gabarito": "E",
+     "habilidade": "H7",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Posições de retas",
+     "comentario": "Os prolongamentos podem se cruzar fora dos segmentos."
+    },
+    {
+     "id": "enem-posicoes-de-retas-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Uma reta acompanha uma rua, e outra segue em sentido transversal vários metros acima dela, sem mudar de altura.",
+     "enunciado": "A projeção em cruz na vista de cima prova que as retas se cruzam no espaço.",
+     "gabarito": "E",
+     "habilidade": "H7",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Posições de retas",
+     "comentario": "A projeção elimina a altura. As retas reais permanecem em níveis distintos."
+    },
+    {
+     "id": "enem-posicoes-de-retas-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Duas retas do plano contêm os mesmos dois pontos distintos.",
+     "enunciado": "As duas coincidem.",
+     "gabarito": "C",
+     "habilidade": "H7",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Posições de retas",
+     "comentario": "Um único alinhamento reto é determinado por dois pontos distintos."
+    },
+    {
+     "id": "enem-posicoes-de-retas-c14-q05",
+     "tipo": "me",
+     "texto_base": "Duas linhas em uma planta cruzam-se com ângulo de 90°.",
+     "enunciado": "Qual relação adicional possuem?",
+     "gabarito": "A",
+     "habilidade": "H7",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Posições de retas",
+     "alternativas": {
+      "A": "Perpendicularidade",
+      "B": "Coincidência total",
+      "C": "Paralelas distintas",
+      "D": "Coincidentes",
+      "E": "Reversas"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. A abertura de 90° especifica a relação entre as retas concorrentes.",
+      "B": "Essa leitura falha neste caso. A abertura de 90° especifica a relação entre as retas concorrentes.",
+      "C": "Essa resposta se relaciona a paralelismo no plano. Aqui, a pista decisiva é outra. A abertura de 90° especifica a relação entre as retas concorrentes.",
+      "D": "Essa resposta se relaciona a coincidência. Aqui, a pista decisiva é outra. A abertura de 90° especifica a relação entre as retas concorrentes.",
+      "E": "Essa resposta se relaciona a retas reversas. Aqui, a pista decisiva é outra. A abertura de 90° especifica a relação entre as retas concorrentes."
+     },
+     "comentario": "A) Correta. A abertura de 90° especifica a relação entre as retas concorrentes.\nB) Essa leitura falha neste caso. A abertura de 90° especifica a relação entre as retas concorrentes.\nC) Essa resposta se relaciona a paralelismo no plano. Aqui, a pista decisiva é outra. A abertura de 90° especifica a relação entre as retas concorrentes.\nD) Essa resposta se relaciona a coincidência. Aqui, a pista decisiva é outra. A abertura de 90° especifica a relação entre as retas concorrentes.\nE) Essa resposta se relaciona a retas reversas. Aqui, a pista decisiva é outra. A abertura de 90° especifica a relação entre as retas concorrentes."
+    },
+    {
+     "id": "enem-posicoes-de-retas-c14-q06",
+     "tipo": "me",
+     "texto_base": "Dois trilhos ideais retos num mesmo plano seguem lado a lado sempre com a mesma distância.",
+     "enunciado": "Qual é sua posição relativa?",
+     "gabarito": "B",
+     "habilidade": "H7",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Posições de retas",
+     "alternativas": {
+      "A": "Concorrentes após certo trecho",
+      "B": "Paralelas distintas",
+      "C": "Coincidentes",
+      "D": "Reversas",
+      "E": "As retas podem ser concorrentes"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Essa leitura falha neste caso. A distância positiva constante impede a interseção e indica a mesma direção.",
+      "B": "Correta. A distância positiva constante impede a interseção e indica a mesma direção.",
+      "C": "Essa resposta se relaciona a coincidência. Aqui, a pista decisiva é outra. A distância positiva constante impede a interseção e indica a mesma direção.",
+      "D": "Essa resposta se relaciona a retas reversas. Aqui, a pista decisiva é outra. A distância positiva constante impede a interseção e indica a mesma direção.",
+      "E": "Essa resposta se relaciona a retas e segmentos. Aqui, a pista decisiva é outra. A distância positiva constante impede a interseção e indica a mesma direção."
+     },
+     "comentario": "A) Essa leitura falha neste caso. A distância positiva constante impede a interseção e indica a mesma direção.\nB) Correta. A distância positiva constante impede a interseção e indica a mesma direção.\nC) Essa resposta se relaciona a coincidência. Aqui, a pista decisiva é outra. A distância positiva constante impede a interseção e indica a mesma direção.\nD) Essa resposta se relaciona a retas reversas. Aqui, a pista decisiva é outra. A distância positiva constante impede a interseção e indica a mesma direção.\nE) Essa resposta se relaciona a retas e segmentos. Aqui, a pista decisiva é outra. A distância positiva constante impede a interseção e indica a mesma direção."
+    },
+    {
+     "id": "enem-posicoes-de-retas-c14-q07",
+     "tipo": "me",
+     "texto_base": "Uma linha vem descrita pelos pontos A e B. Outra é descrita por B e A, com A diferente de B.",
+     "enunciado": "Qual é sua posição relativa?",
+     "gabarito": "C",
+     "habilidade": "H7",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Posições de retas",
+     "alternativas": {
+      "A": "Paralelas com separação positiva",
+      "B": "Reversas",
+      "C": "Coincidentes",
+      "D": "As retas podem ser concorrentes",
+      "E": "Concorrentes oblíquas"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Essa leitura falha neste caso. Dois pontos distintos determinam uma única reta; trocar a ordem não muda a reta.",
+      "B": "Essa resposta se relaciona a retas reversas. Aqui, a pista decisiva é outra. Dois pontos distintos determinam uma única reta; trocar a ordem não muda a reta.",
+      "C": "Correta. Dois pontos distintos determinam uma única reta; trocar a ordem não muda a reta.",
+      "D": "Essa resposta se relaciona a retas e segmentos. Aqui, a pista decisiva é outra. Dois pontos distintos determinam uma única reta; trocar a ordem não muda a reta.",
+      "E": "Essa resposta se relaciona a concorrência. Aqui, a pista decisiva é outra. Dois pontos distintos determinam uma única reta; trocar a ordem não muda a reta."
+     },
+     "comentario": "A) Essa leitura falha neste caso. Dois pontos distintos determinam uma única reta; trocar a ordem não muda a reta.\nB) Essa resposta se relaciona a retas reversas. Aqui, a pista decisiva é outra. Dois pontos distintos determinam uma única reta; trocar a ordem não muda a reta.\nC) Correta. Dois pontos distintos determinam uma única reta; trocar a ordem não muda a reta.\nD) Essa resposta se relaciona a retas e segmentos. Aqui, a pista decisiva é outra. Dois pontos distintos determinam uma única reta; trocar a ordem não muda a reta.\nE) Essa resposta se relaciona a concorrência. Aqui, a pista decisiva é outra. Dois pontos distintos determinam uma única reta; trocar a ordem não muda a reta."
+    },
+    {
+     "id": "enem-posicoes-de-retas-c14-q08",
+     "tipo": "me",
+     "texto_base": "Um cabo segue leste-oeste na altura da rua e outro segue norte-sul vários metros acima.",
+     "enunciado": "Qual relação existe entre os prolongamentos retos?",
+     "gabarito": "D",
+     "habilidade": "H7",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Posições de retas",
+     "alternativas": {
+      "A": "Concorrentes porque se cruzam no desenho visto de cima",
+      "B": "As retas podem ser concorrentes",
+      "C": "Concorrentes oblíquas",
+      "D": "Reversas",
+      "E": "Perpendicularidade"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Essa leitura falha neste caso. As direções diferem e a diferença fixa de altura impede o encontro.",
+      "B": "Essa resposta se relaciona a retas e segmentos. Aqui, a pista decisiva é outra. As direções diferem e a diferença fixa de altura impede o encontro.",
+      "C": "Essa resposta se relaciona a concorrência. Aqui, a pista decisiva é outra. As direções diferem e a diferença fixa de altura impede o encontro.",
+      "D": "Correta. As direções diferem e a diferença fixa de altura impede o encontro.",
+      "E": "Essa resposta se relaciona a perpendicularidade. Aqui, a pista decisiva é outra. As direções diferem e a diferença fixa de altura impede o encontro."
+     },
+     "comentario": "A) Essa leitura falha neste caso. As direções diferem e a diferença fixa de altura impede o encontro.\nB) Essa resposta se relaciona a retas e segmentos. Aqui, a pista decisiva é outra. As direções diferem e a diferença fixa de altura impede o encontro.\nC) Essa resposta se relaciona a concorrência. Aqui, a pista decisiva é outra. As direções diferem e a diferença fixa de altura impede o encontro.\nD) Correta. As direções diferem e a diferença fixa de altura impede o encontro.\nE) Essa resposta se relaciona a perpendicularidade. Aqui, a pista decisiva é outra. As direções diferem e a diferença fixa de altura impede o encontro."
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Dois corredores retos de um piso se cruzam em um único ponto formando 60°. Qual relação é certa? Resposta: ___.",
+     "opcoes": [
+      "Concorrentes oblíquas",
+      "Paralelas sem ponto comum",
+      "Paralelas distintas"
+     ],
+     "respostas": [
+      "Concorrentes oblíquas"
+     ],
+     "explicacao": "Há cruzamento, e o ângulo dado difere de 90°."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Duas linhas de meio-fio têm comprimentos limitados e terminam antes do cruzamento para o qual apontam. O que pode ocorrer com as retas que as contêm? Resposta: ___.",
+     "opcoes": [
+      "As retas podem ser concorrentes",
+      "As retas são obrigatoriamente paralelas",
+      "Perpendicularidade"
+     ],
+     "respostas": [
+      "As retas podem ser concorrentes"
+     ],
+     "explicacao": "Se ambas seguirem pelos prolongamentos em direção ao cruzamento, suas retas de suporte se encontram."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a resolução do caso de paralelismo no plano. Dois trilhos ideais retos num mesmo plano seguem lado a lado sempre com a mesma distância. Qual é sua posição relativa?",
+     "itens": [
+      "Identificar o que a pergunta quer saber.",
+      "Relacionar as pistas ao conceito estudado.",
+      "Formular a resposta sustentada pelas pistas.",
+      "Conferir se a resposta atende à pergunta."
+     ],
+     "explicacao": "A distância positiva constante impede a interseção e indica a mesma direção."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Concorrência",
+       "Retas distintas são concorrentes quando têm exatamente um ponto em comum."
+      ],
+      [
+       "Perpendicularidade",
+       "Retas são perpendiculares quando se cruzam formando ângulo reto."
+      ],
+      [
+       "Paralelismo no plano",
+       "Retas paralelas distintas têm a mesma direção e não se cruzam."
+      ],
+      [
+       "Coincidência",
+       "Retas coincidentes compartilham todos os pontos porque representam a mesma reta."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

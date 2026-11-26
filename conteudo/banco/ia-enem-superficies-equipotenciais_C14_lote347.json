@@ -1,0 +1,253 @@
+{
+ "assunto": "Superfícies equipotenciais e trabalho elétrico",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-superficies-equipotenciais-c14",
+   "titulo": "Superfícies equipotenciais e trabalho elétrico",
+   "microconteudo": "RAIO-X DA PROVA: Use a relação física indicada e confira as condições em que ela se aplica. Numa equipotencial, ΔV é zero. O campo eletrostático é perpendicular à superfície equipotencial regular onde não é nulo.\n\nPOR QUE IMPORTA:\nUma representação elétrica pode reunir numa mesma curva pontos que têm o mesmo potencial, como um mapa reúne pontos de mesma altitude.\n\nO QUE A BANCA COBRA:\nUse a relação física indicada e confira as condições em que ela se aplica. Numa equipotencial, ΔV é zero. O campo eletrostático é perpendicular à superfície equipotencial regular onde não é nulo.\n\nENTENDA:\nUma representação elétrica pode reunir numa mesma curva pontos que têm o mesmo potencial, como um mapa reúne pontos de mesma altitude.\n\nNuma equipotencial, ΔV é zero. O campo eletrostático é perpendicular à superfície equipotencial regular onde não é nulo.\n\nExemplo resolvido. Uma carga de +2 μC desloca-se de 90 V para 30 V. Sua energia potencial diminui 120 μJ e a força elétrica realiza trabalho de +120 μJ.\n\nOutro exemplo. Uma partícula de −6 μC se desloca entre dois pontos de uma mesma equipotencial de 45 V. Como ΔV = 0, a variação de energia potencial e o trabalho elétrico total são nulos.\n\nEm duas dimensões, círculos em volta de uma carga isolada podem representar cortes de superfícies equipotenciais. Os raios são então direções do campo. Entre placas extensas, as equipotenciais centrais são quase paralelas às placas. Nos dois desenhos, curvas e linhas de campo transmitem informações diferentes.\n\nPara explicar o resultado, use o vocabulário da situação. O que reúne uma equipotencial? Pontos no mesmo potencial elétrico. Como o campo se orienta em relação a ela? Perpendicularmente, onde o campo é não nulo e a superfície é regular. Qual o trabalho elétrico entre pontos da mesma equipotencial? Zero no caso eletrostático. Que relação liga ΔV e ΔU? ΔU = qΔV. Em que sentido o campo aponta? Para potenciais menores. O que proximidade de curvas de mesmo passo indica? Maior módulo do gradiente de potencial.\n\nNa hora de resolver no papel, siga a sequência abaixo. Ler o potencial de cada ponto. Calcular a variação. Separar energia potencial e trabalho elétrico. Verificar direção do campo no desenho. Depois, escreva o resultado em uma frase completa. Um número isolado pode estar correto e, ainda assim, deixar ambíguo o que você calculou. Informe a unidade quando houver medida e identifique o objeto, a região ou o intervalo a que o resultado se refere.\n\nPotencial constante ao longo da superfície não implica campo nulo ao atravessá-la. Compare espaçamentos apenas quando as curvas representam a mesma diferença de potencial.\n\nReleia os dois exemplos resolvidos e tente antecipar o desfecho sem consultar o cálculo. No primeiro exemplo, identifique qual dado determina diretamente a resposta. No segundo, diga qual condição deve permanecer válida para que a conclusão se mantenha. Compare depois o papel das unidades e do sentido das grandezas. Se o resultado for qualitativo, procure enunciar a previsão em termos observáveis. Se for quantitativo, estime a escala antes de efetuar a última operação.\n\nVocê pode adaptar a análise a uma situação do cotidiano. Comece com esta ideia: Uma representação elétrica pode reunir numa mesma curva pontos que têm o mesmo potencial, como um mapa reúne pontos de mesma altitude. Em seguida, desenhe o cenário, indique o que está sendo comparado e escreva que dado precisaria medir para testar a previsão. Diferencie a regra do modelo das informações que servem apenas para situar a história. Isso ajuda a decidir o que aproveitar quando uma questão apresenta mais dados do que a resolução exige.\n\nTrês conferências úteis: a definição corresponde ao objeto descrito? As condições indicadas no enunciado permitem aplicar a regra? A resposta continua coerente ao voltar ao desenho? Faça a última conferência lendo esta relação no contexto: Numa equipotencial, ΔV é zero. O campo eletrostático é perpendicular à superfície equipotencial regular onde não é nulo. Uma hipótese deve ser usada dentro de sua faixa de validade; quando o contexto mudar, justifique a adaptação antes de transportar o resultado.\n\nAo treinar, explique a diferença entre o mecanismo e seu efeito. Potencial constante ao longo da superfície não implica campo nulo ao atravessá-la. Compare espaçamentos apenas quando as curvas representam a mesma diferença de potencial. Em um texto de prova, essa distinção pode aparecer escondida em uma frase sobre o resultado de uma medida. Identifique primeiro a causa física e depois a grandeza observada. Se for necessário comparar cenários, mude uma condição por vez para descobrir qual mudança explica a diferença.\n\nPergunte o que aconteceria se você aplicasse a regra a um desenho mais simples. Comece separando estas tarefas: Ler o potencial de cada ponto. Calcular a variação. Separar energia potencial e trabalho elétrico. Verificar direção do campo no desenho. Refaça o primeiro exemplo apenas com setas ou um esquema, deixando os números para o final. Em seguida, recolha do enunciado as unidades e os sentidos. Uma seta no desenho pode indicar a direção de uma interação, a mudança de uma medida ou apenas uma referência. É importante dizer qual papel ela desempenha antes de usar a relação do começo da lição.\n\nPara consolidar, use três perguntas de revisão. Como o campo se orienta em relação a ela? Perpendicularmente, onde o campo é não nulo e a superfície é regular. Que relação liga ΔV e ΔU? ΔU = qΔV. O que proximidade de curvas de mesmo passo indica? Maior módulo do gradiente de potencial. A ideia é explicar essas respostas sem depender da ordem em que apareceram. Em um problema de comparação, preste atenção às palavras que mantêm algo igual entre os cenários. Em um problema de cálculo, confira a operação inversa quando possível. Por exemplo, reintroduza o resultado na relação inicial e verifique se os dados do problema são recuperados. Em uma questão qualitativa, faça o equivalente testando se a conclusão explica as condições observadas.\n\nNo fim da leitura, diga qual grandeza a pergunta solicitou e qual grandeza você usou para chegar a ela. Faça essa distinção também quando a resposta for uma direção, uma comparação ou uma interpretação histórica. Um resultado bem explicado deve poder ser lido sem adivinhar de onde ele veio.\n\nEm uma atividade de estudo, escreva primeiro uma estimativa ou previsão. Depois escolha o dado específico que vai confirmar ou contrariar essa previsão. Se duas respostas parecerem possíveis, indique qual condição extra permitiria escolher entre elas. A ideia é explicar o raciocínio, deixando claro por que a relação física é apropriada naquele contexto.\n\nTROCANDO EM MIÚDOS:\nUma representação elétrica pode reunir numa mesma curva pontos que têm o mesmo potencial, como um mapa reúne pontos de mesma altitude.\n\nNuma equipotencial, ΔV é zero. O campo eletrostático é perpendicular à superfície equipotencial regular onde não é nulo.\n\nExemplo resolvido. Uma carga de +2 μC desloca-se de 90 V para 30 V. Sua energia potencial diminui 120 μJ e a força elétrica realiza trabalho de +120 μJ.\n\nOutro exemplo. Uma partícula de −6 μC se desloca entre dois pontos de uma mesma equipotencial de 45 V. Como ΔV = 0, a variação de energia potencial e o trabalho elétrico total são nulos.\n\nPotencial constante ao longo da superfície não implica campo nulo ao atravessá-la. Compare espaçamentos apenas quando as curvas representam a mesma diferença de potencial.\n\nO que reúne uma equipotencial? Pontos no mesmo potencial elétrico. Como o campo se orienta em relação a ela? Perpendicularmente, onde o campo é não nulo e a superfície é regular. Qual o trabalho elétrico entre pontos da mesma equipotencial? Zero no caso eletrostático. Que relação liga ΔV e ΔU? ΔU = qΔV. Em que sentido o campo aponta? Para potenciais menores. O que proximidade de curvas de mesmo passo indica? Maior módulo do gradiente de potencial.\n\nPara montar seu rascunho: Ler o potencial de cada ponto. Calcular a variação. Separar energia potencial e trabalho elétrico. Verificar direção do campo no desenho. Na leitura final, escolha a parte do desenho que corresponde ao resultado. Se encontrar uma unidade diferente da pedida, volte ao cálculo e confira os fatores de conversão. Quando a pergunta for conceitual, confira se a explicação indica o mecanismo que liga o dado à conclusão. Você pode comparar os dois exemplos da lição antes de tentar os exercícios e explicar de memória por que cada resultado faz sentido.\n\nLEI SECA:\nNuma equipotencial, ΔV é zero. O campo eletrostático é perpendicular à superfície equipotencial regular onde não é nulo.\n\nSÚMULAS E TESES:\nOutro exemplo. Uma partícula de −6 μC se desloca entre dois pontos de uma mesma equipotencial de 45 V. Como ΔV = 0, a variação de energia potencial e o trabalho elétrico total são nulos.\n\nESQUEMA:\nLer o potencial de cada ponto. → Calcular a variação. → Separar energia potencial e trabalho elétrico. → Verificar direção do campo no desenho.\n\nPEGADINHAS:\nPotencial constante ao longo da superfície não implica campo nulo ao atravessá-la. Compare espaçamentos apenas quando as curvas representam a mesma diferença de potencial.\n\nDOUTRINA:\nEquipotential Lines\n\nNA PRÁTICA:\nExemplo resolvido. Uma carga de +2 μC desloca-se de 90 V para 30 V. Sua energia potencial diminui 120 μJ e a força elétrica realiza trabalho de +120 μJ.",
+   "flashcards": [
+    {
+     "frente": "O que reúne uma equipotencial?",
+     "verso": "Pontos no mesmo potencial elétrico.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Superfícies equipotenciais"
+    },
+    {
+     "frente": "Como o campo se orienta em relação a ela?",
+     "verso": "Perpendicularmente, onde o campo é não nulo e a superfície é regular.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Superfícies equipotenciais"
+    },
+    {
+     "frente": "Qual o trabalho elétrico entre pontos da mesma equipotencial?",
+     "verso": "Zero no caso eletrostático.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Superfícies equipotenciais"
+    },
+    {
+     "frente": "Que relação liga ΔV e ΔU?",
+     "verso": "ΔU = qΔV.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Superfícies equipotenciais"
+    },
+    {
+     "frente": "Em que sentido o campo aponta?",
+     "verso": "Para potenciais menores.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Superfícies equipotenciais"
+    },
+    {
+     "frente": "O que proximidade de curvas de mesmo passo indica?",
+     "verso": "Maior módulo do gradiente de potencial.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Superfícies equipotenciais"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-superficies-equipotenciais-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Dois pontos pertencem à mesma equipotencial.",
+     "enunciado": "O trabalho elétrico entre eles é nulo.",
+     "gabarito": "C",
+     "comentario": "Certo. A diferença de potencial é zero.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Superfícies equipotenciais"
+    },
+    {
+     "id": "enem-fisica-superficies-equipotenciais-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Uma equipotencial é desenhada perto de uma carga.",
+     "enunciado": "O campo ao longo do raio precisa ser nulo.",
+     "gabarito": "E",
+     "comentario": "Errado. Ele pode ser perpendicular à superfície.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Superfícies equipotenciais"
+    },
+    {
+     "id": "enem-fisica-superficies-equipotenciais-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Uma carga positiva vai de 30 V a 10 V.",
+     "enunciado": "Sua energia potencial diminui.",
+     "gabarito": "C",
+     "comentario": "Certo. q positivo multiplica ΔV negativo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Superfícies equipotenciais"
+    },
+    {
+     "id": "enem-fisica-superficies-equipotenciais-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Uma superfície apresenta 60 V em todos os seus pontos.",
+     "enunciado": "O potencial nela é necessariamente zero.",
+     "gabarito": "E",
+     "comentario": "Errado. Igualdade de potencial não determina um valor nulo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Superfícies equipotenciais"
+    },
+    {
+     "id": "enem-fisica-superficies-equipotenciais-c14-q05",
+     "tipo": "me",
+     "texto_base": "Uma carga de 1 C vai de 8 V para 3 V.",
+     "enunciado": "Quanto vale o trabalho elétrico?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "−5 J",
+      "B": "+5 J",
+      "C": "0 J",
+      "D": "+8 J",
+      "E": "+11 J"
+     },
+     "comentarios_por_alternativa": {
+      "A": "É a variação de energia potencial.",
+      "B": "Correta. O trabalho é −qΔV.",
+      "C": "Os potenciais são diferentes.",
+      "D": "Usa apenas o potencial inicial.",
+      "E": "Soma os potenciais."
+     },
+     "comentario": "A) É a variação de energia potencial.\nB) Correta. O trabalho é −qΔV.\nC) Os potenciais são diferentes.\nD) Usa apenas o potencial inicial.\nE) Soma os potenciais.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Superfícies equipotenciais"
+    },
+    {
+     "id": "enem-fisica-superficies-equipotenciais-c14-q06",
+     "tipo": "me",
+     "texto_base": "Duas equipotenciais de 40 V e 60 V estão em placas paralelas.",
+     "enunciado": "Em que sentido aponta o campo central?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "De 40 V para 60 V",
+      "B": "Ao longo das duas superfícies",
+      "C": "Para qualquer lado",
+      "D": "De 60 V para 40 V",
+      "E": "Sempre para cima"
+     },
+     "comentarios_por_alternativa": {
+      "A": "É o sentido de aumento.",
+      "B": "O campo é perpendicular.",
+      "C": "A orientação depende dos potenciais.",
+      "D": "Correta. O campo aponta no sentido de queda de potencial.",
+      "E": "A vertical não foi estabelecida."
+     },
+     "comentario": "A) É o sentido de aumento.\nB) O campo é perpendicular.\nC) A orientação depende dos potenciais.\nD) Correta. O campo aponta no sentido de queda de potencial.\nE) A vertical não foi estabelecida.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Superfícies equipotenciais"
+    },
+    {
+     "id": "enem-fisica-superficies-equipotenciais-c14-q07",
+     "tipo": "me",
+     "texto_base": "Uma carga de −2 C vai de 5 V a 9 V.",
+     "enunciado": "Qual a variação da energia potencial?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "−8 J",
+      "B": "+8 J",
+      "C": "−18 J",
+      "D": "+4 J",
+      "E": "0 J"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Multiplique −2 por +4.",
+      "B": "Perde o sinal da carga.",
+      "C": "Usa apenas o potencial final.",
+      "D": "É o número da diferença de potencial.",
+      "E": "Os potenciais são distintos."
+     },
+     "comentario": "A) Correta. Multiplique −2 por +4.\nB) Perde o sinal da carga.\nC) Usa apenas o potencial final.\nD) É o número da diferença de potencial.\nE) Os potenciais são distintos.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Superfícies equipotenciais"
+    },
+    {
+     "id": "enem-fisica-superficies-equipotenciais-c14-q08",
+     "tipo": "me",
+     "texto_base": "Curvas com diferença de 10 V têm separação local menor em A que em B.",
+     "enunciado": "Onde o módulo do campo é geralmente maior no modelo?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Em B",
+      "B": "Igual nos dois",
+      "C": "Nulo em A",
+      "D": "Nulo em ambos",
+      "E": "Em A"
+     },
+     "comentarios_por_alternativa": {
+      "A": "O espaçamento é maior.",
+      "B": "A distância também entra na comparação.",
+      "C": "A variação tem gradiente não nulo.",
+      "D": "A diferença de potencial não é zero.",
+      "E": "Correta. A variação por unidade de distância é maior."
+     },
+     "comentario": "A) O espaçamento é maior.\nB) A distância também entra na comparação.\nC) A variação tem gradiente não nulo.\nD) A diferença de potencial não é zero.\nE) Correta. A variação por unidade de distância é maior.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Superfícies equipotenciais"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O que reúne uma equipotencial? ___",
+     "opcoes": [
+      "Pontos no mesmo potencial elétrico.",
+      "Perpendicularmente, onde o campo é não nulo e a superfície é regular.",
+      "Zero no caso eletrostático.",
+      "ΔU = qΔV."
+     ],
+     "respostas": [
+      "Pontos no mesmo potencial elétrico."
+     ],
+     "explicacao": "Pontos no mesmo potencial elétrico."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Qual o trabalho elétrico entre pontos da mesma equipotencial? ___",
+     "opcoes": [
+      "Zero no caso eletrostático.",
+      "ΔU = qΔV.",
+      "Para potenciais menores.",
+      "Maior módulo do gradiente de potencial."
+     ],
+     "respostas": [
+      "Zero no caso eletrostático."
+     ],
+     "explicacao": "Zero no caso eletrostático."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise de superfícies equipotenciais e trabalho elétrico.",
+     "itens": [
+      "Ler o potencial de cada ponto.",
+      "Calcular a variação.",
+      "Separar energia potencial e trabalho elétrico.",
+      "Verificar direção do campo no desenho."
+     ],
+     "explicacao": "Numa equipotencial, ΔV é zero. O campo eletrostático é perpendicular à superfície equipotencial regular onde não é nulo."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O que reúne uma equipotencial?",
+       "Pontos no mesmo potencial elétrico."
+      ],
+      [
+       "Como o campo se orienta em relação a ela?",
+       "Perpendicularmente, onde o campo é não nulo e a superfície é regular."
+      ],
+      [
+       "Qual o trabalho elétrico entre pontos da mesma equipotencial?",
+       "Zero no caso eletrostático."
+      ],
+      [
+       "Que relação liga ΔV e ΔU?",
+       "ΔU = qΔV."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

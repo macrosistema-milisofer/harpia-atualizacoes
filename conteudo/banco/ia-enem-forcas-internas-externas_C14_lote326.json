@@ -1,0 +1,253 @@
+{
+ "assunto": "Forças internas e externas ao sistema",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-forcas-internas-externas-c14",
+   "titulo": "Forças internas e externas ao sistema",
+   "microconteudo": "RAIO-X DA PROVA: Interprete a situação e justifique a conclusão com a relação física pertinente. A classificação depende da fronteira escolhida. No balanço de momento total, as forças internas se cancelam em pares e a resultante externa determina a variação.\n\nPOR QUE IMPORTA:\nDuas pessoas em patins se empurram. A força entre elas é interna se o sistema contém ambas e externa se o sistema contém apenas uma.\n\nO QUE A BANCA COBRA:\nInterprete a situação e justifique a conclusão com a relação física pertinente. A classificação depende da fronteira escolhida. No balanço de momento total, as forças internas se cancelam em pares e a resultante externa determina a variação.\n\nENTENDA:\nComece por esta situação: Duas pessoas em patins se empurram. A força entre elas é interna se o sistema contém ambas e externa se o sistema contém apenas uma. Leia os dados disponíveis e faça uma previsão antes de procurar uma fórmula. A classificação depende da fronteira escolhida. No balanço de momento total, as forças internas se cancelam em pares e a resultante externa determina a variação. Se os dois patinadores estão no sistema e o atrito horizontal é desprezado, o empurrão modifica seus momentos individuais, mas não o momento total horizontal.\n\nA Terra exerce peso sobre um objeto. Se a análise inclui objeto e Terra, essa interação gravitacional passa a ser interna. Se a análise inclui somente o objeto, o peso é externo. O fenômeno não mudou. Mudou a fronteira escolhida e, com ela, o balanço que se pretende escrever.\n\nSe os dois patinadores estão no sistema e o atrito horizontal é desprezado, o empurrão modifica seus momentos individuais, mas não o momento total horizontal. Ao interpretar esse exemplo, escreva a condição física que torna possível prever o resultado. Pergunte se ela continuaria valendo caso um dos dados omitidos passasse a ter importância. Diferencie o que você consegue concluir numericamente do que pode apenas prever qualitativamente. A descrição do resultado deve manter explícito qual corpo ou conjunto está sendo observado e em qual intervalo a afirmação é válida.\n\nConfira o significado das palavras da questão. O que é sistema? O conjunto de corpos escolhido para a análise.\nO que é força interna? Uma interação entre partes do próprio sistema.\nO que é força externa? Uma força que vem de um corpo fora do sistema.\nComo duas forças internas se combinam? Os pares se cancelam na soma sobre todo o sistema.\nForças internas podem acelerar partes? Sim, mesmo quando o momento total permanece constante.\nO que muda ao redefinir o sistema? A classificação das interações. Se dois termos parecem próximos, compare o que cada um descreve no caso inicial. Em Física, trocar o nome de uma grandeza pode mudar o cálculo ou até o que se está tentando explicar. Escreva, ao lado de cada símbolo, qual parte da situação ele representa e em que unidade seria medido.\n\nExemplo 1. Um conjunto recebe forças externas de 16 N à direita e 4 N à esquerda. Qual a resultante horizontal, direita positiva? A resposta é +12 N. Some +16 e −4. Soma módulos em sentidos opostos. Inverte o sentido dominante. Ignora a força à esquerda. Reproduz apenas um módulo.\n\nExemplo 2. Dois corpos empurram um ao outro com 30 N; não há outras forças horizontais. Qual a resultante horizontal externa sobre o conjunto? A resposta é 0 N. As forças dadas são internas. Conta apenas um membro do par interno. Soma os dois módulos internos. A força interna não deve ser dividida pelo número de corpos. A outra força interna não entra isoladamente.\n\nExemplo 3. Um sistema de 5 kg recebe força externa resultante de 10 N no eixo. Qual o módulo da aceleração do centro de massa? A resposta é 2 m/s². A razão é 10/5. Multiplica massa e força. É o número da massa. É o número da força. Inverte a razão.\n\nExemplo 4. Uma dupla tem momento total de +4 kg·m/s e recebe impulso externo de +3 N·s. Qual o momento final? A resposta é +7 kg·m/s. Some o impulso ao momento inicial. Subtrai o impulso positivo. Inverte os sentidos dados. Usa apenas o impulso. Ignora o efeito externo.\n\nTeste de interpretação. Dois patinadores formam o sistema. Considere a afirmação: “A força que um exerce no outro é interna.” Certo. Ambos estão na fronteira escolhida. Somente uma caixa compõe o sistema. Considere a afirmação: “A força da pessoa que a empurra é interna.” Errado. A pessoa está fora do sistema. Uma caixa e o piso compõem o sistema. Considere a afirmação: “A força de atrito entre ambos é interna.” Certo. Trata-se de interação entre componentes do conjunto. Dois blocos se empurram. Considere a afirmação: “Forças internas são incapazes de alterar os movimentos individuais.” Errado. Cada força pode mudar o momento de seu corpo.\n\nUma sequência de resolução é útil quando a questão traz mais dados que o necessário. Primeiro, definir a fronteira. Depois, identificar quem exerce cada força. Em seguida, classificar as interações. Por último, somar as forças externas na direção pedida. Explique oralmente por que cada passo vem nessa posição. Se a última conclusão mudar quando você troca um detalhe do enunciado, localize qual hipótese provocou essa mudança. Isso ajuda a distinguir o resultado de uma conta das condições em que ele vale.\n\nEm uma prova, procure separar o que o texto observou, o que o modelo assume e o que você concluiu. Um valor informado é um dado. Uma condição como desprezar o atrito ou tratar o intervalo como uniforme pode ser uma hipótese. Já o resultado é aquilo que você obtém ao combinar os dados com a regra escolhida. Se houver tabela ou figura, confira a legenda, os eixos e as unidades antes de usar os números. Para revisar, refaça um dos exemplos mudando um dado por vez e preveja o sentido da mudança antes de calcular.\n\nCheck de leitura. Escolha dois exemplos desta lição e compare o papel de cada informação. O que foi medido diretamente? Qual relação precisou ser usada para inferir uma resposta? Há alguma observação que, sozinha, seria insuficiente? Se a resposta for um número, faça uma estimativa simples para checar se ele é plausível. Se for uma explicação, procure indicar qual condição a torna válida. Depois, tente escrever uma resposta que inclua o dado utilizado, o raciocínio e a conclusão em uma ou duas frases.\n\nAo montar um rascunho, deixe os dados de um lado e a conclusão do outro. Comece pelo dado que tem relação direta com a pergunta. Caso sobrem informações, veja se elas servem para comparar hipóteses ou apenas situar a história. Em uma comparação, mantenha a mesma referência e o mesmo intervalo sempre que o enunciado permitir. Quando um resultado contradiz a previsão inicial, revise primeiro a interpretação do que foi pedido; em seguida, revise a operação e as condições assumidas.\n\nNa primeira, destaque o que o enunciado informa sobre as condições da situação. Na segunda, explique como a regra escolhida conecta essas condições ao resultado. Se houver um cálculo, escreva as unidades intermediárias. Em uma resposta sobre direção ou sentido, declare a orientação de referência. Uma alternativa pode conter um número familiar do enunciado e ainda responder sobre a grandeza errada.\n\nPara fechar, compare estas duas situações e procure a diferença física entre elas. Dois patinadores formam o sistema. Somente uma caixa compõe o sistema. Quando o contexto muda, a leitura deve partir das informações apresentadas naquele caso. Considere a primeira afirmação e justifique o resultado: “A força que um exerce no outro é interna.” Certo. Ambos estão na fronteira escolhida. Agora avalie a segunda: “A força da pessoa que a empurra é interna.” Errado. A pessoa está fora do sistema. Uma explicação adequada pode usar palavras e cálculos, desde que a relação com a situação seja clara. Pense em qual mudança nos dados tornaria cada afirmação válida ou inválida.\n\nUse este conjunto de definições como roteiro para checar o raciocínio. O que é sistema? O conjunto de corpos escolhido para a análise.\nO que é força interna? Uma interação entre partes do próprio sistema.\nO que é força externa? Uma força que vem de um corpo fora do sistema.\nComo duas forças internas se combinam? Os pares se cancelam na soma sobre todo o sistema.\nForças internas podem acelerar partes? Sim, mesmo quando o momento total permanece constante.\nO que muda ao redefinir o sistema? A classificação das interações. Ao voltar aos dados do começo, selecione as definições pertinentes ao caso. Leia a conclusão como se ela fosse uma frase independente: confira a unidade, a referência adotada e a condição de validade.\n\nTROCANDO EM MIÚDOS:\nImagine a situação do começo da lição. Duas pessoas em patins se empurram. A força entre elas é interna se o sistema contém ambas e externa se o sistema contém apenas uma. Se os dois patinadores estão no sistema e o atrito horizontal é desprezado, o empurrão modifica seus momentos individuais, mas não o momento total horizontal.\n\nA regra principal pode ser escrita assim: A classificação depende da fronteira escolhida. No balanço de momento total, as forças internas se cancelam em pares e a resultante externa determina a variação. Tente explicar essa regra em voz alta para alguém que ainda não viu o conteúdo, usando o exemplo inicial como apoio.\n\nAntes de marcar uma alternativa, faça esta checagem. O que é sistema? O conjunto de corpos escolhido para a análise. O que é força interna? Uma interação entre partes do próprio sistema. O que é força externa? Uma força que vem de um corpo fora do sistema. Como duas forças internas se combinam? Os pares se cancelam na soma sobre todo o sistema. Forças internas podem acelerar partes? Sim, mesmo quando o momento total permanece constante. O que muda ao redefinir o sistema? A classificação das interações.\n\nEm um rascunho curto, anote quatro passos. Definir a fronteira. Identificar quem exerce cada força. Classificar as interações. Somar as forças externas na direção pedida. Em seguida, tente aplicar os passos a um exemplo com números ou condições diferentes. As grandezas que foram medidas e o que você quer descobrir devem ficar em linhas separadas. Isso ajuda a identificar qual informação ainda falta.\n\nExperimente responder a esta situação sem olhar as opções. Um conjunto recebe forças externas de 16 N à direita e 4 N à esquerda. Qual a resultante horizontal, direita positiva? Some +16 e −4. Depois, confira nos exemplos quais seriam as consequências de escolher uma interpretação diferente. Se tiver que refazer, comece pelas condições do problema e pelo significado de cada dado.\n\nPara fixar, releia uma afirmação verdadeira e uma falsa da lição. Reescreva a falsa trocando só o trecho necessário para corrigi-la. Na afirmação verdadeira, diga qual detalhe do enunciado permite chegar a essa conclusão. Assim você pratica explicar um resultado, além de reconhecer qual opção está certa.\n\nLEI SECA:\nA classificação depende da fronteira escolhida. No balanço de momento total, as forças internas se cancelam em pares e a resultante externa determina a variação.\n\nSÚMULAS E TESES:\nSe os dois patinadores estão no sistema e o atrito horizontal é desprezado, o empurrão modifica seus momentos individuais, mas não o momento total horizontal.\n\nESQUEMA:\nDefinir a fronteira → Identificar quem exerce cada força → Classificar as interações → Somar as forças externas na direção pedida\n\nPEGADINHAS:\n1. Certo. Ambos estão na fronteira escolhida.\n2. Errado. A pessoa está fora do sistema.\n3. Certo. Trata-se de interação entre componentes do conjunto.\n4. Errado. Cada força pode mudar o momento de seu corpo.\n\nDOUTRINA:\nOpenStax — College Physics 2e, Conservation of Momentum\n\nNA PRÁTICA:\nExemplo 1. Um conjunto recebe forças externas de 16 N à direita e 4 N à esquerda. Qual a resultante horizontal, direita positiva? A resposta é +12 N. Some +16 e −4. Soma módulos em sentidos opostos. Inverte o sentido dominante. Ignora a força à esquerda. Reproduz apenas um módulo.",
+   "flashcards": [
+    {
+     "frente": "O que é sistema?",
+     "verso": "O conjunto de corpos escolhido para a análise.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Conceito de forças externas e internas"
+    },
+    {
+     "frente": "O que é força interna?",
+     "verso": "Uma interação entre partes do próprio sistema.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Conceito de forças externas e internas"
+    },
+    {
+     "frente": "O que é força externa?",
+     "verso": "Uma força que vem de um corpo fora do sistema.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Conceito de forças externas e internas"
+    },
+    {
+     "frente": "Como duas forças internas se combinam?",
+     "verso": "Os pares se cancelam na soma sobre todo o sistema.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Conceito de forças externas e internas"
+    },
+    {
+     "frente": "Forças internas podem acelerar partes?",
+     "verso": "Sim, mesmo quando o momento total permanece constante.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Conceito de forças externas e internas"
+    },
+    {
+     "frente": "O que muda ao redefinir o sistema?",
+     "verso": "A classificação das interações.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Conceito de forças externas e internas"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-forcas-internas-externas-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Dois patinadores formam o sistema.",
+     "enunciado": "A força que um exerce no outro é interna.",
+     "gabarito": "C",
+     "comentario": "Certo. Ambos estão na fronteira escolhida.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Conceito de forças externas e internas"
+    },
+    {
+     "id": "enem-fisica-forcas-internas-externas-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Somente uma caixa compõe o sistema.",
+     "enunciado": "A força da pessoa que a empurra é interna.",
+     "gabarito": "E",
+     "comentario": "Errado. A pessoa está fora do sistema.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Conceito de forças externas e internas"
+    },
+    {
+     "id": "enem-fisica-forcas-internas-externas-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Uma caixa e o piso compõem o sistema.",
+     "enunciado": "A força de atrito entre ambos é interna.",
+     "gabarito": "C",
+     "comentario": "Certo. Trata-se de interação entre componentes do conjunto.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Conceito de forças externas e internas"
+    },
+    {
+     "id": "enem-fisica-forcas-internas-externas-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Dois blocos se empurram.",
+     "enunciado": "Forças internas são incapazes de alterar os movimentos individuais.",
+     "gabarito": "E",
+     "comentario": "Errado. Cada força pode mudar o momento de seu corpo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Conceito de forças externas e internas"
+    },
+    {
+     "id": "enem-fisica-forcas-internas-externas-c14-q05",
+     "tipo": "me",
+     "texto_base": "Um conjunto recebe forças externas de 16 N à direita e 4 N à esquerda.",
+     "enunciado": "Qual a resultante horizontal, direita positiva?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "+20 N",
+      "B": "+12 N",
+      "C": "−12 N",
+      "D": "+16 N",
+      "E": "+4 N"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Soma módulos em sentidos opostos.",
+      "B": "Correta. Some +16 e −4.",
+      "C": "Inverte o sentido dominante.",
+      "D": "Ignora a força à esquerda.",
+      "E": "Reproduz apenas um módulo."
+     },
+     "comentario": "A) Soma módulos em sentidos opostos.\nB) Correta. Some +16 e −4.\nC) Inverte o sentido dominante.\nD) Ignora a força à esquerda.\nE) Reproduz apenas um módulo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Conceito de forças externas e internas"
+    },
+    {
+     "id": "enem-fisica-forcas-internas-externas-c14-q06",
+     "tipo": "me",
+     "texto_base": "Dois corpos empurram um ao outro com 30 N; não há outras forças horizontais.",
+     "enunciado": "Qual a resultante horizontal externa sobre o conjunto?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "30 N",
+      "B": "60 N",
+      "C": "15 N",
+      "D": "0 N",
+      "E": "−30 N"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Conta apenas um membro do par interno.",
+      "B": "Soma os dois módulos internos.",
+      "C": "A força interna não deve ser dividida pelo número de corpos.",
+      "D": "Correta. As forças dadas são internas.",
+      "E": "A outra força interna não entra isoladamente."
+     },
+     "comentario": "A) Conta apenas um membro do par interno.\nB) Soma os dois módulos internos.\nC) A força interna não deve ser dividida pelo número de corpos.\nD) Correta. As forças dadas são internas.\nE) A outra força interna não entra isoladamente.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Conceito de forças externas e internas"
+    },
+    {
+     "id": "enem-fisica-forcas-internas-externas-c14-q07",
+     "tipo": "me",
+     "texto_base": "Um sistema de 5 kg recebe força externa resultante de 10 N no eixo.",
+     "enunciado": "Qual o módulo da aceleração do centro de massa?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "2 m/s²",
+      "B": "50 m/s²",
+      "C": "5 m/s²",
+      "D": "10 m/s²",
+      "E": "0,5 m/s²"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. A razão é 10/5.",
+      "B": "Multiplica massa e força.",
+      "C": "É o número da massa.",
+      "D": "É o número da força.",
+      "E": "Inverte a razão."
+     },
+     "comentario": "A) Correta. A razão é 10/5.\nB) Multiplica massa e força.\nC) É o número da massa.\nD) É o número da força.\nE) Inverte a razão.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Conceito de forças externas e internas"
+    },
+    {
+     "id": "enem-fisica-forcas-internas-externas-c14-q08",
+     "tipo": "me",
+     "texto_base": "Uma dupla tem momento total de +4 kg·m/s e recebe impulso externo de +3 N·s.",
+     "enunciado": "Qual o momento final?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "+1 kg·m/s",
+      "B": "−7 kg·m/s",
+      "C": "+3 kg·m/s",
+      "D": "+4 kg·m/s",
+      "E": "+7 kg·m/s"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Subtrai o impulso positivo.",
+      "B": "Inverte os sentidos dados.",
+      "C": "Usa apenas o impulso.",
+      "D": "Ignora o efeito externo.",
+      "E": "Correta. Some o impulso ao momento inicial."
+     },
+     "comentario": "A) Subtrai o impulso positivo.\nB) Inverte os sentidos dados.\nC) Usa apenas o impulso.\nD) Ignora o efeito externo.\nE) Correta. Some o impulso ao momento inicial.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Conceito de forças externas e internas"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O que é sistema? Resposta: ___.",
+     "opcoes": [
+      "O conjunto de corpos escolhido para a análise.",
+      "Uma interação entre partes do próprio sistema.",
+      "Uma força que vem de um corpo fora do sistema.",
+      "Os pares se cancelam na soma sobre todo o sistema."
+     ],
+     "respostas": [
+      "O conjunto de corpos escolhido para a análise."
+     ],
+     "explicacao": "O conjunto de corpos escolhido para a análise."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Forças internas podem acelerar partes? Resposta: ___.",
+     "opcoes": [
+      "Uma força que vem de um corpo fora do sistema.",
+      "Os pares se cancelam na soma sobre todo o sistema.",
+      "Sim, mesmo quando o momento total permanece constante.",
+      "A classificação das interações."
+     ],
+     "respostas": [
+      "Sim, mesmo quando o momento total permanece constante."
+     ],
+     "explicacao": "Sim, mesmo quando o momento total permanece constante."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma situação sobre forças internas e externas ao sistema.",
+     "itens": [
+      "Definir a fronteira.",
+      "Identificar quem exerce cada força.",
+      "Classificar as interações.",
+      "Somar as forças externas na direção pedida."
+     ],
+     "explicacao": "A classificação depende da fronteira escolhida. No balanço de momento total, as forças internas se cancelam em pares e a resultante externa determina a variação."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O que é sistema?",
+       "O conjunto de corpos escolhido para a análise."
+      ],
+      [
+       "O que é força interna?",
+       "Uma interação entre partes do próprio sistema."
+      ],
+      [
+       "O que é força externa?",
+       "Uma força que vem de um corpo fora do sistema."
+      ],
+      [
+       "Como duas forças internas se combinam?",
+       "Os pares se cancelam na soma sobre todo o sistema."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

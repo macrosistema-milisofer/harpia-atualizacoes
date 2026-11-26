@@ -1,0 +1,253 @@
+{
+ "assunto": "Centro de massa e aproximação de ponto material",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-centro-massa-ponto-material-c14",
+   "titulo": "Centro de massa e aproximação de ponto material",
+   "microconteudo": "RAIO-X DA PROVA: Interprete a situação e justifique a conclusão com a relação física pertinente. O centro de massa é a média das posições ponderada pelas massas. A aproximação de ponto material é adequada quando a extensão e a rotação são irrelevantes para a pergunta.\n\nPOR QUE IMPORTA:\nEm uma gangorra, importa onde cada massa está apoiada. Já para acompanhar a viagem de um ônibus entre bairros, seu comprimento pode ser desprezível diante da rota.\n\nO QUE A BANCA COBRA:\nInterprete a situação e justifique a conclusão com a relação física pertinente. O centro de massa é a média das posições ponderada pelas massas. A aproximação de ponto material é adequada quando a extensão e a rotação são irrelevantes para a pergunta.\n\nENTENDA:\nComece por esta situação: Em uma gangorra, importa onde cada massa está apoiada. Já para acompanhar a viagem de um ônibus entre bairros, seu comprimento pode ser desprezível diante da rota. Leia os dados disponíveis e faça uma previsão antes de procurar uma fórmula. O centro de massa é a média das posições ponderada pelas massas. A aproximação de ponto material é adequada quando a extensão e a rotação são irrelevantes para a pergunta. Massas de 1 kg em x = 0 e 3 kg em x = 4 m têm centro de massa em x = 3 m.\n\nUma placa pode girar em torno de um eixo que não passa por seu centro de massa. Descrever apenas a posição do centro não informa a orientação da placa. Em uma trajetória de um objeto lançado, o centro de massa pode descrever uma curva regular mesmo que o objeto esteja girando.\n\nMassas de 1 kg em x = 0 e 3 kg em x = 4 m têm centro de massa em x = 3 m. Ao interpretar esse exemplo, escreva a condição física que torna possível prever o resultado. Pergunte se ela continuaria valendo caso um dos dados omitidos passasse a ter importância. Diferencie o que você consegue concluir numericamente do que pode apenas prever qualitativamente. A descrição do resultado deve manter explícito qual corpo ou conjunto está sendo observado e em qual intervalo a afirmação é válida.\n\nConfira o significado das palavras da questão. O que é centro de massa? O ponto definido pela média das posições ponderada pela massa.\nQuando é útil a aproximação pontual? Quando forma e dimensões pouco afetam o que se quer calcular.\nO centro de massa fica sempre dentro do material? Não, pode ficar numa região vazia.\nComo localizar o centro de uma barra uniforme? Procure o ponto médio do comprimento.\nMassa maior influencia mais a média? Sim, sua posição tem peso maior no cálculo.\nQuando a aproximação pontual falha? Quando orientação, rotação ou tamanho é relevante. Se dois termos parecem próximos, compare o que cada um descreve no caso inicial. Em Física, trocar o nome de uma grandeza pode mudar o cálculo ou até o que se está tentando explicar. Escreva, ao lado de cada símbolo, qual parte da situação ele representa e em que unidade seria medido.\n\nExemplo 1. Duas massas iguais ocupam −2 e +8 m. Qual a posição do centro? A resposta é 3 m. A média é (−2 + 8)/2. É metade da distância entre posições. Falta dividir pela soma das massas relativas. O ponto médio resulta positivo. Usa só a posição final.\n\nExemplo 2. Uma massa de 1 kg está em 0 e uma de 3 kg em 8 m. Qual a posição do centro? A resposta é 6 m. A média ponderada vale 24/4. É a média sem ponderar. Usa apenas a maior massa. Troca a posição das massas. Falta dividir pela massa total.\n\nExemplo 3. Uma barra uniforme ocupa de 4 a 10 m no eixo. Qual a posição do centro? A resposta é 7 m. O centro está no ponto médio. É metade do comprimento. É uma extremidade. É o comprimento. É a soma dos extremos.\n\nExemplo 4. Massas de 2 kg e 4 kg ocupam 0 m e 3 m. Qual a posição do centro? A resposta é 2 m. O numerador é 12 kg·m e a massa total vale 6 kg. Inverte o peso das posições. É a média simples. Ignora a massa na origem. É o número da massa total.\n\nTeste de interpretação. Duas massas iguais ocupam x = 0 e x = 6 m. Considere a afirmação: “O centro está em x = 3 m.” Certo. Com massas iguais, usamos a média simples. Um anel uniforme tem centro geométrico vazio. Considere a afirmação: “Seu centro de massa precisa estar no metal.” Errado. Ele coincide com o centro geométrico. Um ônibus percorre 100 km. Considere a afirmação: “A aproximação pontual pode servir para obter o tempo de percurso.” Certo. A extensão do veículo é pequena para essa finalidade. A questão pede o giro de uma barra. Considere a afirmação: “Usar apenas um ponto descreve completamente o giro da barra.” Errado. A orientação da barra é relevante.\n\nUma sequência de resolução é útil quando a questão traz mais dados que o necessário. Primeiro, escolher a origem. Depois, registrar posição e massa de cada parte. Em seguida, somar produtos massa vezes posição. Por último, dividir pela massa total. Explique oralmente por que cada passo vem nessa posição. Se a última conclusão mudar quando você troca um detalhe do enunciado, localize qual hipótese provocou essa mudança. Isso ajuda a distinguir o resultado de uma conta das condições em que ele vale.\n\nEm uma prova, procure separar o que o texto observou, o que o modelo assume e o que você concluiu. Um valor informado é um dado. Uma condição como desprezar o atrito ou tratar o intervalo como uniforme pode ser uma hipótese. Já o resultado é aquilo que você obtém ao combinar os dados com a regra escolhida. Se houver tabela ou figura, confira a legenda, os eixos e as unidades antes de usar os números. Para revisar, refaça um dos exemplos mudando um dado por vez e preveja o sentido da mudança antes de calcular.\n\nCheck de leitura. Escolha dois exemplos desta lição e compare o papel de cada informação. O que foi medido diretamente? Qual relação precisou ser usada para inferir uma resposta? Há alguma observação que, sozinha, seria insuficiente? Se a resposta for um número, faça uma estimativa simples para checar se ele é plausível. Se for uma explicação, procure indicar qual condição a torna válida. Depois, tente escrever uma resposta que inclua o dado utilizado, o raciocínio e a conclusão em uma ou duas frases.\n\nAo montar um rascunho, deixe os dados de um lado e a conclusão do outro. Comece pelo dado que tem relação direta com a pergunta. Caso sobrem informações, veja se elas servem para comparar hipóteses ou apenas situar a história. Em uma comparação, mantenha a mesma referência e o mesmo intervalo sempre que o enunciado permitir. Quando um resultado contradiz a previsão inicial, revise primeiro a interpretação do que foi pedido; em seguida, revise a operação e as condições assumidas.\n\nNa primeira, destaque o que o enunciado informa sobre as condições da situação. Na segunda, explique como a regra escolhida conecta essas condições ao resultado. Se houver um cálculo, escreva as unidades intermediárias. Em uma resposta sobre direção ou sentido, declare a orientação de referência. Uma alternativa pode conter um número familiar do enunciado e ainda responder sobre a grandeza errada.\n\nPara fechar, compare estas duas situações e procure a diferença física entre elas. Duas massas iguais ocupam x = 0 e x = 6 m. Um anel uniforme tem centro geométrico vazio. Quando o contexto muda, a leitura deve partir das informações apresentadas naquele caso. Considere a primeira afirmação e justifique o resultado: “O centro está em x = 3 m.” Certo. Com massas iguais, usamos a média simples. Agora avalie a segunda: “Seu centro de massa precisa estar no metal.” Errado. Ele coincide com o centro geométrico. Uma explicação adequada pode usar palavras e cálculos, desde que a relação com a situação seja clara. Pense em qual mudança nos dados tornaria cada afirmação válida ou inválida.\n\nUse este conjunto de definições como roteiro para checar o raciocínio. O que é centro de massa? O ponto definido pela média das posições ponderada pela massa.\nQuando é útil a aproximação pontual? Quando forma e dimensões pouco afetam o que se quer calcular.\nO centro de massa fica sempre dentro do material? Não, pode ficar numa região vazia.\nComo localizar o centro de uma barra uniforme? Procure o ponto médio do comprimento.\nMassa maior influencia mais a média? Sim, sua posição tem peso maior no cálculo.\nQuando a aproximação pontual falha? Quando orientação, rotação ou tamanho é relevante. Ao voltar aos dados do começo, selecione as definições pertinentes ao caso. Leia a conclusão como se ela fosse uma frase independente: confira a unidade, a referência adotada e a condição de validade.\n\nTROCANDO EM MIÚDOS:\nImagine a situação do começo da lição. Em uma gangorra, importa onde cada massa está apoiada. Já para acompanhar a viagem de um ônibus entre bairros, seu comprimento pode ser desprezível diante da rota. Massas de 1 kg em x = 0 e 3 kg em x = 4 m têm centro de massa em x = 3 m.\n\nA regra principal pode ser escrita assim: O centro de massa é a média das posições ponderada pelas massas. A aproximação de ponto material é adequada quando a extensão e a rotação são irrelevantes para a pergunta. Tente explicar essa regra em voz alta para alguém que ainda não viu o conteúdo, usando o exemplo inicial como apoio.\n\nAntes de marcar uma alternativa, faça esta checagem. O que é centro de massa? O ponto definido pela média das posições ponderada pela massa. Quando é útil a aproximação pontual? Quando forma e dimensões pouco afetam o que se quer calcular. O centro de massa fica sempre dentro do material? Não, pode ficar numa região vazia. Como localizar o centro de uma barra uniforme? Procure o ponto médio do comprimento. Massa maior influencia mais a média? Sim, sua posição tem peso maior no cálculo. Quando a aproximação pontual falha? Quando orientação, rotação ou tamanho é relevante.\n\nEm um rascunho curto, anote quatro passos. Escolher a origem. Registrar posição e massa de cada parte. Somar produtos massa vezes posição. Dividir pela massa total. Em seguida, tente aplicar os passos a um exemplo com números ou condições diferentes. As grandezas que foram medidas e o que você quer descobrir devem ficar em linhas separadas. Isso ajuda a identificar qual informação ainda falta.\n\nExperimente responder a esta situação sem olhar as opções. Duas massas iguais ocupam −2 e +8 m. Qual a posição do centro? A média é (−2 + 8)/2. Depois, confira nos exemplos quais seriam as consequências de escolher uma interpretação diferente. Se tiver que refazer, comece pelas condições do problema e pelo significado de cada dado.\n\nPara fixar, releia uma afirmação verdadeira e uma falsa da lição. Reescreva a falsa trocando só o trecho necessário para corrigi-la. Na afirmação verdadeira, diga qual detalhe do enunciado permite chegar a essa conclusão. Assim você pratica explicar um resultado, além de reconhecer qual opção está certa.\n\nLEI SECA:\nO centro de massa é a média das posições ponderada pelas massas. A aproximação de ponto material é adequada quando a extensão e a rotação são irrelevantes para a pergunta.\n\nSÚMULAS E TESES:\nMassas de 1 kg em x = 0 e 3 kg em x = 4 m têm centro de massa em x = 3 m.\n\nESQUEMA:\nEscolher a origem → Registrar posição e massa de cada parte → Somar produtos massa vezes posição → Dividir pela massa total\n\nPEGADINHAS:\n1. Certo. Com massas iguais, usamos a média simples.\n2. Errado. Ele coincide com o centro geométrico.\n3. Certo. A extensão do veículo é pequena para essa finalidade.\n4. Errado. A orientação da barra é relevante.\n\nDOUTRINA:\nOpenStax — College Physics 2e, Center of Mass\n\nNA PRÁTICA:\nExemplo 1. Duas massas iguais ocupam −2 e +8 m. Qual a posição do centro? A resposta é 3 m. A média é (−2 + 8)/2. É metade da distância entre posições. Falta dividir pela soma das massas relativas. O ponto médio resulta positivo. Usa só a posição final.",
+   "flashcards": [
+    {
+     "frente": "O que é centro de massa?",
+     "verso": "O ponto definido pela média das posições ponderada pela massa.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Centro de massa e a ideia de ponto material"
+    },
+    {
+     "frente": "Quando é útil a aproximação pontual?",
+     "verso": "Quando forma e dimensões pouco afetam o que se quer calcular.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Centro de massa e a ideia de ponto material"
+    },
+    {
+     "frente": "O centro de massa fica sempre dentro do material?",
+     "verso": "Não, pode ficar numa região vazia.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Centro de massa e a ideia de ponto material"
+    },
+    {
+     "frente": "Como localizar o centro de uma barra uniforme?",
+     "verso": "Procure o ponto médio do comprimento.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Centro de massa e a ideia de ponto material"
+    },
+    {
+     "frente": "Massa maior influencia mais a média?",
+     "verso": "Sim, sua posição tem peso maior no cálculo.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Centro de massa e a ideia de ponto material"
+    },
+    {
+     "frente": "Quando a aproximação pontual falha?",
+     "verso": "Quando orientação, rotação ou tamanho é relevante.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Centro de massa e a ideia de ponto material"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-centro-massa-ponto-material-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Duas massas iguais ocupam x = 0 e x = 6 m.",
+     "enunciado": "O centro está em x = 3 m.",
+     "gabarito": "C",
+     "comentario": "Certo. Com massas iguais, usamos a média simples.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Centro de massa e a ideia de ponto material"
+    },
+    {
+     "id": "enem-fisica-centro-massa-ponto-material-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Um anel uniforme tem centro geométrico vazio.",
+     "enunciado": "Seu centro de massa precisa estar no metal.",
+     "gabarito": "E",
+     "comentario": "Errado. Ele coincide com o centro geométrico.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Centro de massa e a ideia de ponto material"
+    },
+    {
+     "id": "enem-fisica-centro-massa-ponto-material-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Um ônibus percorre 100 km.",
+     "enunciado": "A aproximação pontual pode servir para obter o tempo de percurso.",
+     "gabarito": "C",
+     "comentario": "Certo. A extensão do veículo é pequena para essa finalidade.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Centro de massa e a ideia de ponto material"
+    },
+    {
+     "id": "enem-fisica-centro-massa-ponto-material-c14-q04",
+     "tipo": "ce",
+     "texto_base": "A questão pede o giro de uma barra.",
+     "enunciado": "Usar apenas um ponto descreve completamente o giro da barra.",
+     "gabarito": "E",
+     "comentario": "Errado. A orientação da barra é relevante.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Centro de massa e a ideia de ponto material"
+    },
+    {
+     "id": "enem-fisica-centro-massa-ponto-material-c14-q05",
+     "tipo": "me",
+     "texto_base": "Duas massas iguais ocupam −2 e +8 m.",
+     "enunciado": "Qual a posição do centro?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "5 m",
+      "B": "3 m",
+      "C": "6 m",
+      "D": "−3 m",
+      "E": "8 m"
+     },
+     "comentarios_por_alternativa": {
+      "A": "É metade da distância entre posições.",
+      "B": "Correta. A média é (−2 + 8)/2.",
+      "C": "Falta dividir pela soma das massas relativas.",
+      "D": "O ponto médio resulta positivo.",
+      "E": "Usa só a posição final."
+     },
+     "comentario": "A) É metade da distância entre posições.\nB) Correta. A média é (−2 + 8)/2.\nC) Falta dividir pela soma das massas relativas.\nD) O ponto médio resulta positivo.\nE) Usa só a posição final.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Centro de massa e a ideia de ponto material"
+    },
+    {
+     "id": "enem-fisica-centro-massa-ponto-material-c14-q06",
+     "tipo": "me",
+     "texto_base": "Uma massa de 1 kg está em 0 e uma de 3 kg em 8 m.",
+     "enunciado": "Qual a posição do centro?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "4 m",
+      "B": "8 m",
+      "C": "2 m",
+      "D": "6 m",
+      "E": "24 m"
+     },
+     "comentarios_por_alternativa": {
+      "A": "É a média sem ponderar.",
+      "B": "Usa apenas a maior massa.",
+      "C": "Troca a posição das massas.",
+      "D": "Correta. A média ponderada vale 24/4.",
+      "E": "Falta dividir pela massa total."
+     },
+     "comentario": "A) É a média sem ponderar.\nB) Usa apenas a maior massa.\nC) Troca a posição das massas.\nD) Correta. A média ponderada vale 24/4.\nE) Falta dividir pela massa total.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Centro de massa e a ideia de ponto material"
+    },
+    {
+     "id": "enem-fisica-centro-massa-ponto-material-c14-q07",
+     "tipo": "me",
+     "texto_base": "Uma barra uniforme ocupa de 4 a 10 m no eixo.",
+     "enunciado": "Qual a posição do centro?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "7 m",
+      "B": "3 m",
+      "C": "4 m",
+      "D": "6 m",
+      "E": "14 m"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. O centro está no ponto médio.",
+      "B": "É metade do comprimento.",
+      "C": "É uma extremidade.",
+      "D": "É o comprimento.",
+      "E": "É a soma dos extremos."
+     },
+     "comentario": "A) Correta. O centro está no ponto médio.\nB) É metade do comprimento.\nC) É uma extremidade.\nD) É o comprimento.\nE) É a soma dos extremos.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Centro de massa e a ideia de ponto material"
+    },
+    {
+     "id": "enem-fisica-centro-massa-ponto-material-c14-q08",
+     "tipo": "me",
+     "texto_base": "Massas de 2 kg e 4 kg ocupam 0 m e 3 m.",
+     "enunciado": "Qual a posição do centro?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "1 m",
+      "B": "1,5 m",
+      "C": "3 m",
+      "D": "6 m",
+      "E": "2 m"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Inverte o peso das posições.",
+      "B": "É a média simples.",
+      "C": "Ignora a massa na origem.",
+      "D": "É o número da massa total.",
+      "E": "Correta. O numerador é 12 kg·m e a massa total vale 6 kg."
+     },
+     "comentario": "A) Inverte o peso das posições.\nB) É a média simples.\nC) Ignora a massa na origem.\nD) É o número da massa total.\nE) Correta. O numerador é 12 kg·m e a massa total vale 6 kg.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Centro de massa e a ideia de ponto material"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O que é centro de massa? Resposta: ___.",
+     "opcoes": [
+      "O ponto definido pela média das posições ponderada pela massa.",
+      "Quando forma e dimensões pouco afetam o que se quer calcular.",
+      "Não, pode ficar numa região vazia.",
+      "Procure o ponto médio do comprimento."
+     ],
+     "respostas": [
+      "O ponto definido pela média das posições ponderada pela massa."
+     ],
+     "explicacao": "O ponto definido pela média das posições ponderada pela massa."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Massa maior influencia mais a média? Resposta: ___.",
+     "opcoes": [
+      "Não, pode ficar numa região vazia.",
+      "Procure o ponto médio do comprimento.",
+      "Sim, sua posição tem peso maior no cálculo.",
+      "Quando orientação, rotação ou tamanho é relevante."
+     ],
+     "respostas": [
+      "Sim, sua posição tem peso maior no cálculo."
+     ],
+     "explicacao": "Sim, sua posição tem peso maior no cálculo."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma situação sobre centro de massa e aproximação de ponto material.",
+     "itens": [
+      "Escolher a origem.",
+      "Registrar posição e massa de cada parte.",
+      "Somar produtos massa vezes posição.",
+      "Dividir pela massa total."
+     ],
+     "explicacao": "O centro de massa é a média das posições ponderada pelas massas. A aproximação de ponto material é adequada quando a extensão e a rotação são irrelevantes para a pergunta."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O que é centro de massa?",
+       "O ponto definido pela média das posições ponderada pela massa."
+      ],
+      [
+       "Quando é útil a aproximação pontual?",
+       "Quando forma e dimensões pouco afetam o que se quer calcular."
+      ],
+      [
+       "O centro de massa fica sempre dentro do material?",
+       "Não, pode ficar numa região vazia."
+      ],
+      [
+       "Como localizar o centro de uma barra uniforme?",
+       "Procure o ponto médio do comprimento."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

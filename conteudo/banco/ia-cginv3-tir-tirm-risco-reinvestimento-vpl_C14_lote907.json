@@ -1,0 +1,235 @@
+{
+ "assunto": "TIR, TIR modificada, risco de reinvestimento e VPL",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "cginv3-c14-tir-tirm-risco-reinvestimento-vpl",
+   "titulo": "TIR, TIR modificada, risco de reinvestimento e VPL",
+   "microconteudo": "RAIO-X DA PROVA: Calcule o desconto dos fluxos na TMA, identifique a raiz do VPL e interprete hipóteses de financiamento e reinvestimento da TIR modificada.\n\nPOR QUE IMPORTA:\nA análise financeira de um RPPS exige comparar valores em datas e bases compatíveis. Calcule o desconto dos fluxos na TMA, identifique a raiz do VPL e interprete hipóteses de financiamento e reinvestimento da TIR modificada.\n\nO QUE A BANCA COBRA:\nCalcule o desconto dos fluxos na TMA, identifique a raiz do VPL e interprete hipóteses de financiamento e reinvestimento da TIR modificada.\n\nENTENDA:\nPara um fluxo periódico F_0, F_1, …, F_n, o Valor Presente Líquido à taxa k por período é VPL(k) = Σ F_t/(1+k)^t para t de zero a n. O desembolso em zero entra com sinal negativo e fator 1. Se os custos futuros alterarem o caixa, entram com sinal negativo nas suas datas. A taxa k corresponde ao critério de avaliação, frequentemente a TMA definida para o conjunto de fluxos. O valor presente líquido positivo indica excedente após remunerar essa referência. O VPL igual a zero significa equivalência econômica à taxa escolhida. O valor negativo indica que, sob aquelas hipóteses, a remuneração exigida supera a oferecida pelo fluxo.\n\nA TIR é uma taxa r que resolve VPL(r)=0. Um fluxo de −R$ 100 hoje e +R$ 120 em um período tem TIR de 20%, porque 120/(1+0,20)=100. Para uma TMA de 10%, o VPL é aproximadamente R$ 9,09. Para uma TMA de 25%, o VPL cai a −R$ 4. Em fluxo convencional com saída inicial única e entradas posteriores, a curva do VPL diminui com o aumento da taxa admissível se houver entrada futura positiva. A relação TIR maior que TMA equivale então ao VPL positivo. A igualdade vale dentro das hipóteses e não deve ser generalizada para fluxos com saídas relevantes após entradas.\n\nQuando há um pagamento inicial e entradas em mais de uma data, o cálculo da TIR pode exigir solução numérica. Uma taxa que produz VPL positivo e outra que dá negativo ajudam a cercar uma raiz. A interpolação linear entre os pontos é uma aproximação, pois a relação VPL com a taxa é curva. Em planilha, ordene os fluxos por data e use funções periódicas somente quando os intervalos são regulares. Em funções que descontam o primeiro argumento de valores como fim do primeiro período, some o fluxo de t=0 à parte. Para datas irregulares, use método que reflita as datas reais e confira sua base anual. Uma taxa computada sem uma linha do tempo coerente pode ser precisa numericamente e economicamente imprecisa.\n\nFluxos não convencionais podem produzir múltiplas TIRs ou nenhuma taxa real admissível. Considere −100 em t=0, +230 em t=1 e −132 em t=2. A equação, multiplicada por (1+r)^2, fica −100(1+r)^2 + 230(1+r) − 132 = 0. As raízes correspondem a 10% e 20%. À TMA de 15%, o VPL é aproximadamente +0,19 na mesma unidade monetária. Se a regra fosse comparar uma TIR escolhida ao acaso com 15%, a recomendação mudaria conforme a raiz devolvida pelo software. O VPL à taxa requerida fornece o julgamento pertinente nas premissas dadas. Com mais de uma troca de sinal, a multiplicidade é possibilidade, e o desenho do fluxo deve ser examinado.\n\nEm projetos mutuamente excludentes, a TIR é percentual e pode ordenar as possibilidades de forma diferente do VPL, que é valor absoluto. Considere A com custo 100 e entrada 140 em um ano, e B com custo 1.000 e entrada 1.250 em um ano. A TIR de A é 40%, maior que 25% de B. À TMA de 10%, os VPLs aproximados são 27,27 e 136,36. Sendo os dois viáveis e comparáveis e o objetivo de maximizar valor em moeda, o projeto B tem maior contribuição. Se o orçamento impede B ou se o fluxo apresenta riscos diferentes, a análise deve refletir as restrições antes de ordenar as alternativas.\n\nA TIR decorre da equação de valor presente. Interpretar a TIR como a taxa efetivamente realizada para todo o capital até o final envolve hipóteses sobre o destino dos fluxos intermediários. Um título com cupons permite usar cada cupom para pagar obrigações ou reinvesti-lo. O retorno acumulado de reinvestir juros à mesma taxa pode deixar de ser alcançável quando as taxas futuras caem. Risco de reinvestimento é a incerteza sobre o retorno obtido na nova aplicação desses recebimentos. Esse risco é especialmente relevante em carteiras que dependem de reinvestir cupons, amortizações ou vencimentos em busca de um valor terminal. Quando os cupons cobrem uma obrigação na própria data, o problema econômico passa a ser a adequação do fluxo, além da taxa.\n\nA TIR modificada explicita duas taxas. Desconte as saídas à data zero pela taxa de financiamento f, obtendo VP_- como magnitude positiva. Capitalize as entradas até n pela taxa de reinvestimento g, obtendo VF_+. A TIRM é (VF_+/VP_-)^(1/n)−1 com os agregados positivos e n superior a zero. Para o fluxo −100, +60 e +60, com g=5% e saída inicial única, VF_+ = 60×1,05+60=123. A TIRM é √1,23−1 ≈ 10,91%. A taxa de financiamento não altera o valor da saída em zero nesse exemplo. Se houver saída adicional em t=1, ela precisa ser trazida a zero com a taxa f e somada em magnitude ao desembolso inicial.\n\nA TIRM transforma as entradas acumuladas e saídas descontadas em dois agregados separados no tempo, resultando em uma taxa sob as hipóteses escolhidas. Isso ajuda em fluxos em que a TIR clássica é ambígua. As taxas de financiamento e reinvestimento devem ser justificadas. Trocar a taxa de reinvestimento altera o valor terminal e a TIRM, mas não altera a TIR clássica do fluxo original, cuja definição é encontrar a raiz da equação. Em um fluxo sem entradas intermediárias, a taxa de reinvestimento não muda o valor da entrada que já ocorre em n. Alterar o horizonte, entretanto, afeta a anualização.\n\nPara auditar um cálculo, escreva a perspectiva e confira a base temporal. Em um financiamento, a entrada inicial e as prestações opostas às do investidor mudam o sinal do VPL. O sentido econômico da taxa passa a representar custo. Em retorno real, fluxos projetados em moeda de poder de compra constante exigem taxa real. Em retorno nominal, mantenha inflação incorporada aos fluxos e à taxa pertinente. Confira o valor residual, a possível saída de encerramento e o destino dos cupons. Esses itens podem ser decisivos quando duas alternativas têm indicadores próximos e evitam escolhas apoiadas só no percentual exibido pelo sistema.\n\nUma planilha também pode comparar o perfil do VPL. Calcule o resultado para várias taxas e observe onde um projeto passa a superar o outro. A taxa de cruzamento aparece quando o VPL dos fluxos incrementais entre os projetos é zero. Ela não substitui a TMA escolhida para decidir. Se o fluxo incremental muda de sinal repetidamente, talvez existam vários cruzamentos ou nenhum na faixa de interesse. Um gráfico do VPL na faixa plausível de taxas ajuda a perceber instabilidade, que uma única TIR retornada pela calculadora pode ocultar.\n\nO efeito dos custos na comparação também merece registro. Uma aplicação pode prometer R$ 1.100 no futuro por aporte de R$ 1.000, mas exigir tarifa de R$ 20 na origem. Para o aplicador, saem R$ 1.020 na origem e entram R$ 1.100 no fim do período. A TIR do fluxo líquido é aproximadamente 7,84%. Se a referência for 8%, o VPL torna-se negativo. O percentual de 10% divulgado para o fluxo sem tarifa não representa o retorno completo do caso.\n\nQuando se reporta a sensibilidade da TIRM, mantenha separadas as hipóteses que influenciam os dois agregados. Uma taxa de financiamento maior desconta mais as saídas futuras, reduzindo a magnitude presente delas no modelo. Já uma taxa de reinvestimento maior aumenta o valor terminal das entradas intermediárias. A direção do efeito decorre de onde o fator atua na fórmula. Na prova, calcule as partes antes de interpretar o resultado.\n\nTROCANDO EM MIÚDOS:\nO VPL responde quanto sobra hoje depois de descontar pagamentos e recebimentos pela taxa que você exige. Pense num investimento de R$ 100 que devolve R$ 110 daqui a um ano. À taxa de 10%, aqueles R$ 110 valem R$ 100 hoje, então o VPL é zero. À taxa de 5%, os R$ 110 valem mais do que R$ 100 hoje. Nesse caso, o VPL fica positivo. A taxa que deixa a conta zerada é a TIR do fluxo.\n\nQuando há vários pagamentos, escreva os sinais e as datas. Uma despesa grande no final pode mudar a forma da conta e fazer aparecer duas taxas que zeram o VPL. Nesse caso, escolher só uma delas pode dar a resposta errada. Use a taxa exigida no problema para descobrir o valor presente líquido. Para comparar dois projetos exclusivos, olhe também para o tamanho de cada um. Ganhar 40% sobre R$ 100 produz menos reais do que ganhar 25% sobre R$ 1.000 no exemplo de um período.\n\nA TIR modificada ajuda a explicitar o que acontece com o dinheiro que entra antes do fim. Imagine que você recebe R$ 60 no primeiro ano e R$ 60 no segundo. Se o primeiro recebimento render 5% por mais um ano, ele vira R$ 63 quando chega a última parcela, e o valor final total é R$ 123. Se a taxa disponível cair, o primeiro valor crescerá menos e a meta final pode não ser atingida. Essa possibilidade é o risco de reinvestimento.\n\nA ordem prática é montar o fluxo, escolher a taxa de comparação e fazer o cálculo que responde à pergunta. Use o VPL para medir o excedente em dinheiro, a TIR para descobrir a taxa que zera esse excedente e a taxa modificada para mostrar a remuneração entre as saídas descontadas e as entradas acumuladas com as hipóteses de financiamento e reinvestimento.\n\nESQUEMA:\nVPL → descontar todos os fluxos. TIR → zerar VPL. TIRM → descontar saídas e capitalizar entradas → extrair taxa dos agregados.\n\nPEGADINHAS:\n• Comparar projetos exclusivos apenas pela maior TIR\n• Tratar toda raiz como única\n• Aplicar desconto ao fluxo inicial\n• Trocar taxa de financiamento e reinvestimento\n• Supor que cupom será reinvestido à taxa contratual sem examinar cenários\n\nDOUTRINA:\nOpenStax, Principles of Finance, capítulos 7, 8 e 16. A escolha da data focal, do regime de capitalização e da trajetória dos fluxos determina a comparação econômica.\n\nNA PRÁTICA:\nFluxo −R$ 1.000 hoje, +R$ 600 e +R$ 600 ao fim dos dois anos. À TMA de 10%, VPL ≈ R$ 41,32. Com reinvestimento de 4%, o valor terminal das entradas é R$ 1.224. TIRM = √1,224−1 ≈ 10,63%. O resultado mede o rendimento sob essa hipótese de reinvestimento, enquanto o VPL mede o excedente na TMA.",
+   "flashcards": [
+    {
+     "frente": "O que a TIR zera?",
+     "verso": "O VPL calculado à própria TIR.",
+     "dispositivo": "TIR, TIR modificada, risco de reinvestimento e VPL"
+    },
+    {
+     "frente": "Qual taxa entra no VPL de avaliação?",
+     "verso": "A taxa requerida, como a TMA especificada.",
+     "dispositivo": "TIR, TIR modificada, risco de reinvestimento e VPL"
+    },
+    {
+     "frente": "Como a TIRM trata as saídas?",
+     "verso": "Traz as saídas a valor presente pela taxa de financiamento.",
+     "dispositivo": "TIR, TIR modificada, risco de reinvestimento e VPL"
+    },
+    {
+     "frente": "Como a TIRM trata as entradas?",
+     "verso": "Leva as entradas à data final pela taxa de reinvestimento.",
+     "dispositivo": "TIR, TIR modificada, risco de reinvestimento e VPL"
+    },
+    {
+     "frente": "O que pode ocorrer com mudanças de sinal múltiplas?",
+     "verso": "Mais de uma TIR admissível ou ausência de solução útil.",
+     "dispositivo": "TIR, TIR modificada, risco de reinvestimento e VPL"
+    },
+    {
+     "frente": "O que significa VPL zero na TMA?",
+     "verso": "Equivalência econômica à taxa requerida.",
+     "dispositivo": "TIR, TIR modificada, risco de reinvestimento e VPL"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "Para fluxo −100 hoje e +121 em dois períodos, a TIR por período é 10%.",
+     "gabarito": "C",
+     "comentario": "121/(1,10)^2 = 100.",
+     "dificuldade": "media",
+     "id": "cginv3-c14-tir-tirm-risco-reinvestimento-vpl-q01",
+     "dispositivo": "TIR, TIR modificada, risco de reinvestimento e VPL"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O fluxo −100, +230, −132 possui necessariamente uma única TIR.",
+     "gabarito": "E",
+     "comentario": "As raízes são 10% e 20%.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-tir-tirm-risco-reinvestimento-vpl-q02",
+     "dispositivo": "TIR, TIR modificada, risco de reinvestimento e VPL"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Em fluxo convencional de investimento, VPL à TMA positivo é coerente com TIR superior à TMA.",
+     "gabarito": "C",
+     "comentario": "Com uma saída inicial e entradas futuras, o VPL diminui quando a taxa aumenta.",
+     "dificuldade": "media",
+     "id": "cginv3-c14-tir-tirm-risco-reinvestimento-vpl-q03",
+     "dispositivo": "TIR, TIR modificada, risco de reinvestimento e VPL"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "A taxa de reinvestimento sempre altera a TIRM mesmo quando todas as entradas ocorrem na data final.",
+     "gabarito": "E",
+     "comentario": "Uma entrada no próprio horizonte não ganha juros adicionais.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-tir-tirm-risco-reinvestimento-vpl-q04",
+     "dispositivo": "TIR, TIR modificada, risco de reinvestimento e VPL"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Fluxo −R$ 1.000 hoje e +R$ 1.210 em dois anos. Qual é o VPL a 10% ao ano?",
+     "alternativas": {
+      "A": "R$ 1.000.",
+      "B": "−R$ 210.",
+      "C": "Zero.",
+      "D": "R$ 210.",
+      "E": "R$ 100."
+     },
+     "gabarito": "C",
+     "comentarios_por_alternativa": {
+      "A": "É o VP da entrada sem deduzir o investimento.",
+      "B": "Inverte a diferença nominal sem descontar.",
+      "C": "1.210/1,21 − 1.000 = 0.",
+      "D": "É o excedente nominal sem desconto.",
+      "E": "Ignora um dos dois períodos de desconto."
+     },
+     "comentario": "A) É o VP da entrada sem deduzir o investimento.\nB) Inverte a diferença nominal sem descontar.\nC) 1.210/1,21 − 1.000 = 0.\nD) É o excedente nominal sem desconto.\nE) Ignora um dos dois períodos de desconto.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-tir-tirm-risco-reinvestimento-vpl-q05",
+     "dispositivo": "TIR, TIR modificada, risco de reinvestimento e VPL"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Fluxo −100, +50 e +70, com reinvestimento de 6%. Qual a TIRM aproximada?",
+     "alternativas": {
+      "A": "20%.",
+      "B": "6%.",
+      "C": "12%.",
+      "D": "10,91%.",
+      "E": "23%."
+     },
+     "gabarito": "D",
+     "comentarios_por_alternativa": {
+      "A": "É o ganho nominal sem reinvestir nem anualizar.",
+      "B": "É a taxa aplicada ao fluxo intermediário.",
+      "C": "Divide ou estima o ganho sem usar o fator exato.",
+      "D": "O valor terminal é 50×1,06+70=123, e √1,23−1≈10,91%.",
+      "E": "É o retorno total dos dois períodos."
+     },
+     "comentario": "A) É o ganho nominal sem reinvestir nem anualizar.\nB) É a taxa aplicada ao fluxo intermediário.\nC) Divide ou estima o ganho sem usar o fator exato.\nD) O valor terminal é 50×1,06+70=123, e √1,23−1≈10,91%.\nE) É o retorno total dos dois períodos.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-tir-tirm-risco-reinvestimento-vpl-q06",
+     "dispositivo": "TIR, TIR modificada, risco de reinvestimento e VPL"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Que técnica é mais direta para decidir em fluxo com duas TIRs e TMA definida?",
+     "alternativas": {
+      "A": "Escolher a maior TIR sempre.",
+      "B": "Calcular média das duas TIRs.",
+      "C": "Selecionar a menor TIR por prudência.",
+      "D": "Somar as duas TIRs.",
+      "E": "Calcular o VPL na TMA."
+     },
+     "gabarito": "E",
+     "comentarios_por_alternativa": {
+      "A": "Pode indicar decisão incompatível com a taxa de referência.",
+      "B": "A média de raízes não mede a atratividade do fluxo.",
+      "C": "Ainda é uma escolha arbitrária de raiz.",
+      "D": "A soma não corresponde ao retorno econômico de referência.",
+      "E": "O valor presente usa a taxa de referência e evita escolher uma raiz arbitrariamente."
+     },
+     "comentario": "A) Pode indicar decisão incompatível com a taxa de referência.\nB) A média de raízes não mede a atratividade do fluxo.\nC) Ainda é uma escolha arbitrária de raiz.\nD) A soma não corresponde ao retorno econômico de referência.\nE) O valor presente usa a taxa de referência e evita escolher uma raiz arbitrariamente.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-tir-tirm-risco-reinvestimento-vpl-q07",
+     "dispositivo": "TIR, TIR modificada, risco de reinvestimento e VPL"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "O que gera risco de reinvestimento para título com cupons periódicos?",
+     "alternativas": {
+      "A": "A taxa disponível na aplicação dos cupons pode ser menor que a projetada.",
+      "B": "O principal necessariamente fica menor a cada cupom.",
+      "C": "A taxa do título é sempre idêntica à taxa futura de todos os cupons.",
+      "D": "O VPL deixa de depender da taxa de desconto.",
+      "E": "O cronograma de cupons perde a data de liquidação."
+     },
+     "gabarito": "A",
+     "comentarios_por_alternativa": {
+      "A": "Os fluxos intermediários têm de ser aplicados a taxas futuras incertas se o objetivo é acumular patrimônio.",
+      "B": "Cupons podem remunerar sem amortizar o principal.",
+      "C": "A igualdade é hipótese de projeção e pode falhar.",
+      "D": "O VPL continua sensível à taxa de avaliação.",
+      "E": "O risco vem da taxa em que o dinheiro disponível será reaplicado."
+     },
+     "comentario": "A) Os fluxos intermediários têm de ser aplicados a taxas futuras incertas se o objetivo é acumular patrimônio.\nB) Cupons podem remunerar sem amortizar o principal.\nC) A igualdade é hipótese de projeção e pode falhar.\nD) O VPL continua sensível à taxa de avaliação.\nE) O risco vem da taxa em que o dinheiro disponível será reaplicado.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-tir-tirm-risco-reinvestimento-vpl-q08",
+     "dispositivo": "TIR, TIR modificada, risco de reinvestimento e VPL"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Para calcular a TIRM, traga as saídas para ___.",
+     "opcoes": [
+      "data zero",
+      "data final",
+      "data posterior ao projeto"
+     ],
+     "respostas": [
+      "data zero"
+     ],
+     "explicacao": "A base é o valor presente dos desembolsos."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Um fluxo de R$ 100 em t=0 deve entrar no VPL com fator ___.",
+     "opcoes": [
+      "1",
+      "1+i",
+      "i"
+     ],
+     "respostas": [
+      "1"
+     ],
+     "explicacao": "O expoente zero torna o fator igual a 1."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a determinação da TIRM.",
+     "itens": [
+      "Desenhe os fluxos e o horizonte.",
+      "Desconte as saídas pela taxa de financiamento.",
+      "Capitalize as entradas pela taxa de reinvestimento.",
+      "Use a razão dos agregados e extraia a taxa por período."
+     ],
+     "explicacao": "Os agregados representam caixa na origem e caixa no fim, respectivamente."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "VPL",
+       "Excedente na taxa requerida"
+      ],
+      [
+       "TIR",
+       "Raiz da função VPL"
+      ],
+      [
+       "TIRM",
+       "Taxa entre VP de saídas e VF de entradas"
+      ],
+      [
+       "Risco de reinvestimento",
+       "Incerteza sobre a taxa dos fluxos intermediários"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

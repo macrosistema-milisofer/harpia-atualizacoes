@@ -1,0 +1,253 @@
+{
+ "assunto": "Determinação de fórmulas mínima e molecular",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-determinacao-formulas-c14",
+   "titulo": "Determinação de fórmulas mínima e molecular",
+   "microconteudo": "RAIO-X DA PROVA: Assunto do edital de Ciências da Natureza. A interpretação de dados ajuda a resolver situações-problema sobre esse conteúdo.\n\nPOR QUE IMPORTA:\nDeterminação de fórmulas mínima e molecular ajuda a traduzir observações e símbolos em explicações que você pode conferir. Nesta lição, você vai praticar a leitura de dados e justificar o resultado.\n\nO QUE A BANCA COBRA:\nIdentifique o que o problema descreve e escolha a conclusão explicada pelos dados. Revise a unidade, a entidade representada e as condições de aplicação quando elas fizerem parte do problema.\n\nENTENDA:\nA fórmula mínima é a menor razão inteira entre átomos. Converta a massa de cada elemento em mols, divida todos os valores pelo menor e transforme as razões em inteiros. A fórmula molecular é um múltiplo da mínima e pode ser determinada usando a massa molar do composto.\n\nEm 100 g de uma substância com 40,0% C, 6,7% H e 53,3% O, há aproximadamente 3,33 mol de C, 6,7 mol de H e 3,33 mol de O. A razão é 1:2:1 e a fórmula mínima é CH₂O. Sua massa por mol de unidades é 30 g; com massa molar molecular de 180 g/mol, o fator é 6.\n\nRazões obtidas de massas experimentais podem ficar perto de números fracionários conhecidos. Se a razão calculada for próxima de 1:1,5, experimente converter para 2:3 em vez de arredondar 1,5 para 2. A incerteza dos dados ajuda a decidir se uma aproximação faz sentido. Quando a massa molar estiver disponível, confira se o múltiplo também é coerente com ela.\n\nPrimeiro caso: ligue os dados à regra\nUma amostra só tem 24 g de C e 4 g de H. Use C = 12 e H = 1. Qual a fórmula mínima?\n\nComece lendo o enunciado como um pequeno relatório. Anote em uma linha o material ou sistema descrito e, em outra, o que se quer descobrir. Essa divisão evita misturar um dado já fornecido com o resultado pedido. Escolha a regra depois de localizar o que, no texto, autoriza sua aplicação. Ao terminar, teste se a resposta ainda faz sentido ao substituir os valores ou reler a observação.\n\nResultado: CH₂ São 2 mol de C e 4 mol de H.\n\nCompare as hipóteses e os cálculos alternativos:\n• C₆H A razão 24:4 compara massas.\n• C₂H Inverte a razão normalizada.\n• CH₄ Usa 4 mol de H para 1 mol de C, mas há 2 mol de C.\n• C₂H₄ É equivalente, mas não está na menor razão.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nSegundo caso: cuide da condição que permite a conclusão\nUma substância tem fórmula mínima NO₂ e massa molar de 92 g/mol. Use N = 14 e O = 16. Qual a fórmula molecular?\n\nCompare as interpretações antes de escolher. Duas respostas podem usar os mesmos termos ou números e ainda se referir a grandezas diferentes. Se houver unidades, escreva a unidade junto a cada valor. Se houver contagens, diga o que está sendo contado. Se a questão for explicativa, procure a relação de causa e efeito que é compatível com as condições fornecidas. Só então feche a resposta.\n\nResultado: N₂O₄ 92/46 = 2, fator aplicado a ambos os índices.\n\nCompare as hipóteses e os cálculos alternativos:\n• NO₂ A massa da unidade mínima é 46.\n• NO₄ Só o oxigênio foi multiplicado.\n• N₂O₂ Tem massa de 60 g/mol.\n• N₄O₂ Os índices não preservam a razão.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nTerceiro caso: confira o que a pergunta está medindo\nUma análise indica 2 mol de X e 3 mol de Y. Qual é a razão atômica mínima?\n\nFaça uma primeira previsão usando palavras. Pergunte se o resultado esperado é uma contagem, uma propriedade, uma comparação ou um mecanismo. Escrever a previsão antes de olhar as alternativas ajuda a perceber quando dois valores semelhantes têm sentidos diferentes. Em seguida, explique em uma frase como o primeiro dado se conecta ao resultado. A resposta fica mais forte quando essa ligação pode ser checada no próprio enunciado.\n\nResultado: 2:3 Mols de átomos são diretamente proporcionais às contagens.\n\nCompare as hipóteses e os cálculos alternativos:\n• 3:2 A ordem foi invertida.\n• 1:3 Só um termo foi dividido.\n• 4:6 É equivalente, mas não é mínima.\n• Indeterminada sem massas. As quantidades em mol já são suficientes.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nQuarto caso: escolha a conclusão sustentada\nA fórmula mínima é CH₂O. Qual dado determina a molecular?\n\nTente justificar a escolha para alguém que observou apenas o resultado final. Comece pelos fatos que o problema realmente fornece e mostre como a regra interpreta esses fatos. Se a conclusão depender de uma condição, mantenha essa condição na justificativa. Depois procure uma alteração pequena nos dados que exigiria outra resposta. Esse último passo ajuda a reconhecer onde termina a aplicação do raciocínio.\n\nResultado: A massa molar molecular. O quociente pela massa molar da unidade mínima dá o fator.\n\nCompare as hipóteses e os cálculos alternativos:\n• A cor sozinha. Ela não fornece o fator.\n• A porcentagem em massa já usada. Os múltiplos têm as mesmas proporções em massa.\n• A unidade escolhida para a balança. Mudar a unidade não fornece dado novo.\n• A ordem alfabética dos elementos. A ordem não informa o número de unidades.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nLeitura crítica 1\nUma análise encontra razão em mol C:H de 1:2,5. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “A razão inteira é 2:5.” Multiplique ambos os termos por dois. A segunda é “A fórmula mínima é CH₃ por arredondamento.” Arredondar 2,5 para 3 modifica uma razão exata.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nLeitura crítica 2\nUma substância tem fórmula mínima CH₂ e massa molar de 42 g/mol. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “A fórmula molecular é C₃H₆.” A massa de CH₂ é 14 g/mol e o fator é três. A segunda é “A fórmula molecular é CH₂.” Essa fórmula corresponde a 14 g/mol.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nCheque o alcance da conclusão\nA fórmula mínima é a menor razão inteira entre átomos. Converta a massa de cada elemento em mols, divida todos os valores pelo menor e transforme as razões em inteiros. A fórmula molecular é um múltiplo da mínima e pode ser determinada usando a massa molar do composto.\n\nAo estudar, escolha uma das situações acima e altere só um dado. Explique quais partes da solução continuam iguais e quais precisam ser refeitas. Num problema numérico, experimente multiplicar o dado alterado por dois e veja se a resposta dobra, diminui ou continua igual. Num problema de classificação, tente retirar a observação decisiva e veja quais hipóteses continuam compatíveis. Isso separa a regra geral da informação específica fornecida por uma questão.\n\nTROCANDO EM MIÚDOS:\nComece por uma pergunta que você conseguiria fazer a um colega: o que mudou, o que ficou igual e qual informação me permite dizer isso? Em questões de Química, dá para errar mesmo lembrando a regra certa quando se usa a regra para o dado errado. Separe a situação da pergunta. Leia os símbolos em voz baixa. Se houver dois materiais ou dois momentos, dê um nome curto para cada um. Assim você consegue comparar as coisas na ordem que o texto pediu.\n\nEm 100 g de uma substância com 40,0% C, 6,7% H e 53,3% O, há aproximadamente 3,33 mol de C, 6,7 mol de H e 3,33 mol de O. A razão é 1:2:1 e a fórmula mínima é CH₂O. Sua massa por mol de unidades é 30 g; com massa molar molecular de 180 g/mol, o fator é 6.\n\nExperimente com este caso. Uma amostra só tem 24 g de C e 4 g de H. Use C = 12 e H = 1. Qual a fórmula mínima? A resposta é CH₂ São 2 mol de C e 4 mol de H. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nExperimente com este caso. A fórmula mínima é CH₂O. Qual dado determina a molecular? A resposta é A massa molar molecular. O quociente pela massa molar da unidade mínima dá o fator. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nFaça uma checagem que cabe no rascunho: escreva o dado, desenhe uma seta e escreva o que ele permite concluir. Se precisar de uma segunda seta, diga qual regra leva desse resultado intermediário até a resposta. Uma explicação em duas frases pode ser suficiente. A primeira conta o que o problema mostrou. A segunda diz por que esse dado leva à sua escolha. Esse caminho ajuda em problemas com tabelas, desenhos e comparações.\n\nESQUEMA:\nLeia o cenário → destaque o dado decisivo → aplique a relação → confira o que foi pedido.\n\nPEGADINHAS:\n• C₆H A razão 24:4 compara massas.\n• NO₂ A massa da unidade mínima é 46.\n• 3:2 A ordem foi invertida.\n• A cor sozinha. Ela não fornece o fator.\n\nNA PRÁTICA:\nEm 100 g de uma substância com 40,0% C, 6,7% H e 53,3% O, há aproximadamente 3,33 mol de C, 6,7 mol de H e 3,33 mol de O. A razão é 1:2:1 e a fórmula mínima é CH₂O. Sua massa por mol de unidades é 30 g; com massa molar molecular de 180 g/mol, o fator é 6.",
+   "flashcards": [
+    {
+     "frente": "Uma análise encontra razão em mol C:H de 1:2,5. A razão inteira é 2:5. Certo ou errado?",
+     "verso": "Certo. Multiplique ambos os termos por dois.",
+     "dispositivo": "Representação das transformações químicas — Determinação de fórmulas químicas"
+    },
+    {
+     "frente": "Uma substância tem fórmula mínima CH₂ e massa molar de 42 g/mol. A fórmula molecular é C₃H₆. Certo ou errado?",
+     "verso": "Certo. A massa de CH₂ é 14 g/mol e o fator é três.",
+     "dispositivo": "Representação das transformações químicas — Determinação de fórmulas químicas"
+    },
+    {
+     "frente": "Uma amostra só tem 24 g de C e 4 g de H. Use C = 12 e H = 1. Qual a fórmula mínima?",
+     "verso": "CH₂ São 2 mol de C e 4 mol de H.",
+     "dispositivo": "Representação das transformações químicas — Determinação de fórmulas químicas"
+    },
+    {
+     "frente": "Uma substância tem fórmula mínima NO₂ e massa molar de 92 g/mol. Use N = 14 e O = 16. Qual a fórmula molecular?",
+     "verso": "N₂O₄ 92/46 = 2, fator aplicado a ambos os índices.",
+     "dispositivo": "Representação das transformações químicas — Determinação de fórmulas químicas"
+    },
+    {
+     "frente": "Uma análise indica 2 mol de X e 3 mol de Y. Qual é a razão atômica mínima?",
+     "verso": "2:3 Mols de átomos são diretamente proporcionais às contagens.",
+     "dispositivo": "Representação das transformações químicas — Determinação de fórmulas químicas"
+    },
+    {
+     "frente": "A fórmula mínima é CH₂O. Qual dado determina a molecular?",
+     "verso": "A massa molar molecular. O quociente pela massa molar da unidade mínima dá o fator.",
+     "dispositivo": "Representação das transformações químicas — Determinação de fórmulas químicas"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Uma análise encontra razão em mol C:H de 1:2,5.",
+     "enunciado": "A razão inteira é 2:5.",
+     "gabarito": "C",
+     "comentario": "Certo. Multiplique ambos os termos por dois.",
+     "id": "enem-determinacao-formulas-c14-q01",
+     "habilidade": "H24",
+     "dispositivo": "Representação das transformações químicas — Determinação de fórmulas químicas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma análise encontra razão em mol C:H de 1:2,5.",
+     "enunciado": "A fórmula mínima é CH₃ por arredondamento.",
+     "gabarito": "E",
+     "comentario": "Errado. Arredondar 2,5 para 3 modifica uma razão exata.",
+     "id": "enem-determinacao-formulas-c14-q02",
+     "habilidade": "H24",
+     "dispositivo": "Representação das transformações químicas — Determinação de fórmulas químicas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma substância tem fórmula mínima CH₂ e massa molar de 42 g/mol.",
+     "enunciado": "A fórmula molecular é C₃H₆.",
+     "gabarito": "C",
+     "comentario": "Certo. A massa de CH₂ é 14 g/mol e o fator é três.",
+     "id": "enem-determinacao-formulas-c14-q03",
+     "habilidade": "H24",
+     "dispositivo": "Representação das transformações químicas — Determinação de fórmulas químicas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma substância tem fórmula mínima CH₂ e massa molar de 42 g/mol.",
+     "enunciado": "A fórmula molecular é CH₂.",
+     "gabarito": "E",
+     "comentario": "Errado. Essa fórmula corresponde a 14 g/mol.",
+     "id": "enem-determinacao-formulas-c14-q04",
+     "habilidade": "H24",
+     "dispositivo": "Representação das transformações químicas — Determinação de fórmulas químicas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma amostra só tem 24 g de C e 4 g de H. Use C = 12 e H = 1.",
+     "enunciado": "Qual a fórmula mínima?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "C₆H",
+      "B": "C₂H",
+      "C": "CH₄",
+      "D": "C₂H₄",
+      "E": "CH₂"
+     },
+     "comentarios_por_alternativa": {
+      "A": "A razão 24:4 compara massas.",
+      "B": "Inverte a razão normalizada.",
+      "C": "Usa 4 mol de H para 1 mol de C, mas há 2 mol de C.",
+      "D": "É equivalente, mas não está na menor razão.",
+      "E": "São 2 mol de C e 4 mol de H."
+     },
+     "comentario": "A) A razão 24:4 compara massas.\nB) Inverte a razão normalizada.\nC) Usa 4 mol de H para 1 mol de C, mas há 2 mol de C.\nD) É equivalente, mas não está na menor razão.\nE) São 2 mol de C e 4 mol de H.",
+     "id": "enem-determinacao-formulas-c14-q05",
+     "habilidade": "H24",
+     "dispositivo": "Representação das transformações químicas — Determinação de fórmulas químicas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma substância tem fórmula mínima NO₂ e massa molar de 92 g/mol. Use N = 14 e O = 16.",
+     "enunciado": "Qual a fórmula molecular?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "NO₂",
+      "B": "N₂O₄",
+      "C": "NO₄",
+      "D": "N₂O₂",
+      "E": "N₄O₂"
+     },
+     "comentarios_por_alternativa": {
+      "A": "A massa da unidade mínima é 46.",
+      "B": "92/46 = 2, fator aplicado a ambos os índices.",
+      "C": "Só o oxigênio foi multiplicado.",
+      "D": "Tem massa de 60 g/mol.",
+      "E": "Os índices não preservam a razão."
+     },
+     "comentario": "A) A massa da unidade mínima é 46.\nB) 92/46 = 2, fator aplicado a ambos os índices.\nC) Só o oxigênio foi multiplicado.\nD) Tem massa de 60 g/mol.\nE) Os índices não preservam a razão.",
+     "id": "enem-determinacao-formulas-c14-q06",
+     "habilidade": "H24",
+     "dispositivo": "Representação das transformações químicas — Determinação de fórmulas químicas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma análise indica 2 mol de X e 3 mol de Y.",
+     "enunciado": "Qual é a razão atômica mínima?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "3:2",
+      "B": "1:3",
+      "C": "4:6",
+      "D": "2:3",
+      "E": "Indeterminada sem massas."
+     },
+     "comentarios_por_alternativa": {
+      "A": "A ordem foi invertida.",
+      "B": "Só um termo foi dividido.",
+      "C": "É equivalente, mas não é mínima.",
+      "D": "Mols de átomos são diretamente proporcionais às contagens.",
+      "E": "As quantidades em mol já são suficientes."
+     },
+     "comentario": "A) A ordem foi invertida.\nB) Só um termo foi dividido.\nC) É equivalente, mas não é mínima.\nD) Mols de átomos são diretamente proporcionais às contagens.\nE) As quantidades em mol já são suficientes.",
+     "id": "enem-determinacao-formulas-c14-q07",
+     "habilidade": "H24",
+     "dispositivo": "Representação das transformações químicas — Determinação de fórmulas químicas",
+     "dificuldade": "dificil"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "A fórmula mínima é CH₂O.",
+     "enunciado": "Qual dado determina a molecular?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "A massa molar molecular.",
+      "B": "A cor sozinha.",
+      "C": "A porcentagem em massa já usada.",
+      "D": "A unidade escolhida para a balança.",
+      "E": "A ordem alfabética dos elementos."
+     },
+     "comentarios_por_alternativa": {
+      "A": "O quociente pela massa molar da unidade mínima dá o fator.",
+      "B": "Ela não fornece o fator.",
+      "C": "Os múltiplos têm as mesmas proporções em massa.",
+      "D": "Mudar a unidade não fornece dado novo.",
+      "E": "A ordem não informa o número de unidades."
+     },
+     "comentario": "A) O quociente pela massa molar da unidade mínima dá o fator.\nB) Ela não fornece o fator.\nC) Os múltiplos têm as mesmas proporções em massa.\nD) Mudar a unidade não fornece dado novo.\nE) A ordem não informa o número de unidades.",
+     "id": "enem-determinacao-formulas-c14-q08",
+     "habilidade": "H24",
+     "dispositivo": "Representação das transformações químicas — Determinação de fórmulas químicas",
+     "dificuldade": "dificil"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Uma substância tem fórmula mínima NO₂ e massa molar de 92 g/mol. Use N = 14 e O = 16. Qual a fórmula molecular? ___",
+     "opcoes": [
+      "NO₂",
+      "N₂O₄",
+      "NO₄",
+      "N₂O₂"
+     ],
+     "respostas": [
+      "N₂O₄"
+     ],
+     "explicacao": "92/46 = 2, fator aplicado a ambos os índices."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Uma análise indica 2 mol de X e 3 mol de Y. Qual é a razão atômica mínima? ___",
+     "opcoes": [
+      "3:2",
+      "2:3",
+      "1:3",
+      "4:6"
+     ],
+     "respostas": [
+      "2:3"
+     ],
+     "explicacao": "Mols de átomos são diretamente proporcionais às contagens."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise do caso: Uma amostra só tem 24 g de C e 4 g de H. Use C = 12 e H = 1.",
+     "itens": [
+      "Localizar o que se quer descobrir: Qual a fórmula mínima?",
+      "Separar as informações dadas no enunciado.",
+      "Aplicar a relação adequada aos dados.",
+      "Conferir se a conclusão responde à pergunta."
+     ],
+     "explicacao": "São 2 mol de C e 4 mol de H."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Uma amostra só tem 24 g de C e 4 g de H. Use C = 12 e H = 1. Qual a fórmula mínima?",
+       "CH₂"
+      ],
+      [
+       "Uma substância tem fórmula mínima NO₂ e massa molar de 92 g/mol. Use N = 14 e O = 16. Qual a fórmula molecular?",
+       "N₂O₄"
+      ],
+      [
+       "Uma análise indica 2 mol de X e 3 mol de Y. Qual é a razão atômica mínima?",
+       "2:3"
+      ],
+      [
+       "A fórmula mínima é CH₂O. Qual dado determina a molecular?",
+       "A massa molar molecular."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

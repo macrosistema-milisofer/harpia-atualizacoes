@@ -1,0 +1,235 @@
+{
+ "assunto": "Séries uniformes, perpetuidade e montante de pagamentos",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "cginv3-c14-series-uniformes-perpetuidade-montante",
+   "titulo": "Séries uniformes, perpetuidade e montante de pagamentos",
+   "microconteudo": "RAIO-X DA PROVA: Identifique a posição do primeiro e do último pagamento e escolha a data de avaliação para calcular o valor presente ou o montante da série.\n\nPOR QUE IMPORTA:\nA análise financeira de um RPPS exige comparar valores em datas e bases compatíveis. Identifique a posição do primeiro e do último pagamento e escolha a data de avaliação para calcular o valor presente ou o montante da série.\n\nO QUE A BANCA COBRA:\nIdentifique a posição do primeiro e do último pagamento e escolha a data de avaliação para calcular o valor presente ou o montante da série.\n\nENTENDA:\nUma série uniforme é um conjunto de pagamentos iguais, separados pelo mesmo intervalo. No modelo básico, a taxa efetiva por intervalo também é constante. A série finita tem número definido de pagamentos. A perpetuidade, como modelo matemático, prolonga os pagamentos indefinidamente. Reconhecer a estrutura economiza operações, mas a soma individual dos fluxos continua sendo o método de referência quando as condições mudam. Antes de usar uma fórmula, marque a data zero, o primeiro fluxo, o último fluxo e a data focal. Indique ainda se o valor fixo está em moeda corrente ou em poder de compra constante, porque a taxa deve usar a mesma base.\n\nNa série postecipada com n pagamentos P, o primeiro ocorre no fim do primeiro período e o último, em n. O valor presente na origem é P/(1+i) + P/(1+i)^2 + … + P/(1+i)^n. Trata-se de uma progressão geométrica com razão 1/(1+i). Sua soma é VP = P[1 − (1+i)^(-n)]/i para i diferente de zero. No limite i = 0, VP = nP. Com duas parcelas de R$ 1.100 e taxa de 10%, a primeira vale R$ 1.000 hoje e a segunda vale aproximadamente R$ 909,09. A combinação tem valor presente de R$ 1.909,09. Se alguém usa R$ 2.200 como valor presente, somou valores nominais de datas diferentes.\n\nNa série antecipada, os mesmos n pagamentos são deslocados um período para trás. O primeiro ocorre em zero e o último em n−1. O valor presente na mesma data zero é o VP postecipado multiplicado por 1+i. Cada fluxo foi descontado um período a menos. Com duas parcelas de R$ 1.100 e taxa de 10%, entram R$ 1.100 hoje e o valor presente da segunda é R$ 1.000, total de R$ 2.100. Uma entrada no ato pode fazer parte de uma série antecipada, mas se o valor da entrada diverge das demais prestações, trate-a à parte. Por exemplo, entrada de R$ 500 e duas prestações de R$ 1.100 nos meses seguintes têm valor presente de R$ 2.409,09 na taxa do exemplo.\n\nO montante da série postecipada na data n soma os pagamentos transportados à data do último. A primeira parcela rende n−1 períodos e a última não rende na data focal. A soma é VF = P[(1+i)^n−1]/i. Duas parcelas de R$ 1.100 a 10%, avaliadas logo após o segundo pagamento, valem R$ 1.210 mais R$ 1.100, ou R$ 2.310. A série antecipada avaliada na mesma data n dá um período adicional de capitalização a cada fluxo. O montante então é R$ 2.541. Se avaliar a antecipada na data de seu último depósito, n−1, o montante será R$ 2.310. A diferença de datas explica por que uma fórmula da série antecipada pode trazer ou dispensar o fator extra.\n\nA perpetuidade uniforme postecipada, com primeiro P no fim do próximo período e i > 0, vale P/i na data anterior ao primeiro pagamento. Essa fórmula é o limite do valor presente de uma série finita quando n cresce e (1+i)^(-n) tende a zero. Com pagamento anual de R$ 12.000 e taxa de 6% ao ano, o valor é R$ 200.000. Uma forma de interpretar é observar que o rendimento de R$ 200.000 a 6% ao ano produz os R$ 12.000 a cada ano em um modelo sem mudança de taxa ou principal. Se o primeiro pagamento for imediato e contado na avaliação, some-o separadamente ao valor de todos os seguintes: R$ 212.000.\n\nEm uma perpetuidade diferida, traga P/i da data anterior ao primeiro fluxo para a origem com o fator correspondente. Se o primeiro pagamento de R$ 12.000 ocorrer ao final do terceiro ano, P/i fica no fim do segundo ano. O VP inicial é 200.000/(1,06)^2, aproximadamente R$ 177.999,29. Descontar três anos contaria duas vezes o intervalo incorporado na fórmula da perpetuidade. Se a taxa se aproxima de zero mantendo o pagamento fixo, o valor presente cresce sem limite no modelo. A condição i > 0 sustenta a convergência da série de pagamentos uniformes. Fluxos crescentes exigem outro modelo, com hipóteses adicionais.\n\nConhecer o valor presente e o montante também permite resolver a contribuição periódica necessária. Para alcançar R$ 33.100 ao final do terceiro período com depósitos postecipados e taxa de 10%, divida a meta por [(1,10)^3−1]/0,10 = 3,31. O depósito periódico é R$ 10.000, que rende dois períodos quando feito no período um, um período quando feito no período dois e zero quando coincide com a data focal. Se o pagamento passar para o início de cada período e a meta continuar na data três, a contribuição necessária cai para aproximadamente R$ 9.090,91. O complemento de juros provém da antecipação, e não de redução da meta.\n\nUma carência muda a data inicial da série. Se três parcelas iguais ocorrem nos meses quatro, cinco e seis, calcule o valor presente como uma série postecipada ancorada no mês três e desconte esse resultado até o mês zero. A fórmula não precisa ser reescrita. Para depósitos irregulares, some blocos ou cada parcela separadamente. Se o calendário muda por deficiência de caixa, indique quais depósitos deixaram de ocorrer. Tratar um mês sem depósito como mês com depósito presumido altera o saldo projetado e prejudica a decisão.\n\nA conferência final pode usar dois controles. Primeiro, reconstrua um caso curto pela soma explícita. Segundo, transporte o valor presente à data do montante e veja se o resultado coincide com a fórmula usada. Para R$ 1.100 nos períodos um e dois e taxa de 10%, R$ 1.909,09 × 1,21 dá aproximadamente R$ 2.310. A pequena diferença possível vem do arredondamento prévio. A prática de guardar dígitos intermediários é relevante quando o cálculo alimenta uma projeção com muitos períodos ou com pagamentos grandes.\n\nNas aplicações previdenciárias, as parcelas ao longo de uma projeção raramente são idênticas por toda a vida do regime. A série uniforme serve para testar a sensibilidade de um bloco de entradas ou saídas estáveis e para conferir a lógica do calendário. Se uma obrigação cresce de acordo com um índice, defina se a avaliação usa projeções nominais ou constantes e aplique taxa compatível. O método simplificado dá uma referência auditável. A carteira completa exige combinar cronogramas, riscos e regras pertinentes.\n\nSéries também podem ter interrupções previstas. Se a instituição aportará R$ 5.000 no primeiro semestre, pausar por dois meses e retomar o mesmo valor, a pausa separa dois blocos. Calcule o montante do primeiro bloco na data do último depósito daquele bloco e capitalize esse saldo até a data final da projeção. Depois some o montante do segundo bloco avaliado na mesma data. Se todos os depósitos forem levados diretamente à data final, o resultado será o mesmo. A pausa diminui a soma dos aportes e altera os prazos de capitalização dos que continuam no calendário.\n\nUma comparação útil é verificar o efeito de mover só o último pagamento. Se três parcelas nos períodos um, dois e três forem iguais e a última for antecipada para t=2, duas parcelas passam a ocorrer em t=2. A fórmula de três pagamentos uniformes perde aderência. Some as duas parcelas dessa data e faça o desconto individual. A mesma lógica se aplica quando há um pagamento adicional na data inicial. Ele é um fluxo separado, salvo quando efetivamente substitui o primeiro pagamento e toda a sequência se desloca. Em questões, marque quantas parcelas existem depois da mudança. Um erro frequente é antecipar a primeira e continuar contando a série original inteira, criando uma prestação a mais.\n\nTROCANDO EM MIÚDOS:\nSérie uniforme é como guardar a mesma quantia todo mês ou pagar prestações iguais. A primeira pergunta é quando a primeira parcela acontece. Se você guarda R$ 100 hoje, esse dinheiro tem um mês a mais para render do que teria se o depósito ocorresse apenas no fim do mês. Em uma conta com vários depósitos iguais, cada um tem um tempo diferente para crescer. Por isso, o saldo final pode ser maior que a soma simples dos depósitos.\n\nCom taxa de 10% e dois depósitos de R$ 100, um no fim do primeiro mês e outro no fim do segundo, o primeiro vira R$ 110 e o segundo entra como R$ 100. O total, ao fim do segundo mês, é R$ 210. Se os depósitos forem feitos no começo de cada mês, o primeiro rende dois meses e o segundo rende um mês. O total na mesma data é R$ 121 mais R$ 110, ou R$ 231. O dia da comparação precisa continuar igual nas duas situações.\n\nPara olhar quanto as parcelas valem hoje, faça o caminho inverso. Divida cada uma pelo fator de juros do seu prazo antes de somar. Se uma parcela vence hoje, ela entra inteira. Se todas começam vários meses depois, primeiro resolva a série na data imediatamente anterior ao primeiro pagamento e depois volte o resultado ao dia de hoje. Esse truque evita descontar um período a mais.\n\nPerpetuidade é um modelo para uma renda que continua para sempre. Pense em guardar R$ 1.000 a uma taxa anual hipotética de 10% e retirar só R$ 100 a cada fim de ano. O principal continuaria em R$ 1.000 nas condições fixas do exemplo. É por isso que R$ 100 por ano valem R$ 1.000 hoje nesse modelo. A conta parte de pagamentos fixos e taxa positiva constante. Na prática, índices, riscos e prazos podem mudar, e essas mudanças precisam aparecer numa avaliação real.\n\nESQUEMA:\nMarcar t=0 e os pagamentos → identificar antecipação ou carência → escolher VP ou VF → somar fatores → verificar data focal.\n\nPEGADINHAS:\n• Somar parcelas sem ajustar a data\n• Usar fator extra da antecipada com outra data focal\n• Descontar uma perpetuidade diferida a partir do primeiro pagamento\n• Dividir por zero no caso de juros nulos\n• Usar série uniforme com pagamentos que mudam de valor\n\nDOUTRINA:\nOpenStax, Principles of Finance, capítulos 7, 8 e 16. A escolha da data focal, do regime de capitalização e da trajetória dos fluxos determina a comparação econômica.\n\nNA PRÁTICA:\nSão necessários R$ 31.525 ao fim do terceiro período. Com depósitos postecipados a 5%, o fator de montante é 3,1525. Dividir a meta por esse fator fornece R$ 10.000 por depósito.",
+   "flashcards": [
+    {
+     "frente": "Qual o VP da série postecipada?",
+     "verso": "P[1−(1+i)^(-n)]/i, para i diferente de zero.",
+     "dispositivo": "Séries uniformes, perpetuidade e montante de pagamentos"
+    },
+    {
+     "frente": "Qual a data inicial de uma antecipada?",
+     "verso": "t=0.",
+     "dispositivo": "Séries uniformes, perpetuidade e montante de pagamentos"
+    },
+    {
+     "frente": "Como converter o VP da postecipada em VP da antecipada?",
+     "verso": "Multiplique por 1+i na mesma data focal.",
+     "dispositivo": "Séries uniformes, perpetuidade e montante de pagamentos"
+    },
+    {
+     "frente": "Qual é o VF na data do último depósito postecipado?",
+     "verso": "P[(1+i)^n−1]/i, para i diferente de zero.",
+     "dispositivo": "Séries uniformes, perpetuidade e montante de pagamentos"
+    },
+    {
+     "frente": "Qual o VP de uma perpetuidade com primeiro pagamento em um período?",
+     "verso": "P/i, com i positivo.",
+     "dispositivo": "Séries uniformes, perpetuidade e montante de pagamentos"
+    },
+    {
+     "frente": "Quanto rende o último depósito postecipado até sua própria data?",
+     "verso": "Zero períodos.",
+     "dispositivo": "Séries uniformes, perpetuidade e montante de pagamentos"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "Em n pagamentos postecipados, o primeiro ocorre no período 1 e o último em n.",
+     "gabarito": "C",
+     "comentario": "A data zero antecede todos os depósitos.",
+     "dificuldade": "media",
+     "id": "cginv3-c14-series-uniformes-perpetuidade-montante-q01",
+     "dispositivo": "Séries uniformes, perpetuidade e montante de pagamentos"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Em uma série antecipada de três pagamentos, o último ocorre em t=3.",
+     "gabarito": "E",
+     "comentario": "Os pagamentos estão em 0, 1 e 2.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-series-uniformes-perpetuidade-montante-q02",
+     "dispositivo": "Séries uniformes, perpetuidade e montante de pagamentos"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Se a taxa for zero, o valor presente de quatro parcelas iguais de R$ 300 é R$ 1.200.",
+     "gabarito": "C",
+     "comentario": "Sem juros, todos os fatores de desconto valem 1.",
+     "dificuldade": "media",
+     "id": "cginv3-c14-series-uniformes-perpetuidade-montante-q03",
+     "dispositivo": "Séries uniformes, perpetuidade e montante de pagamentos"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O valor de P/i em uma perpetuidade postecipada é calculado na própria data do primeiro pagamento, antes de recebê-lo.",
+     "gabarito": "E",
+     "comentario": "O valor P/i corresponde à data um período antes do primeiro pagamento.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-series-uniformes-perpetuidade-montante-q04",
+     "dispositivo": "Séries uniformes, perpetuidade e montante de pagamentos"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual o montante na data 3 de três depósitos de R$ 1.000 ao fim dos períodos, a 10% por período?",
+     "alternativas": {
+      "A": "R$ 3.641",
+      "B": "R$ 3.000",
+      "C": "R$ 3.300",
+      "D": "R$ 3.210",
+      "E": "R$ 3.310"
+     },
+     "gabarito": "E",
+     "comentarios_por_alternativa": {
+      "A": "É o montante da série antecipada na mesma data.",
+      "B": "Soma os depósitos sem juros.",
+      "C": "Aplica juros simples à trajetória.",
+      "D": "Perde um dos fatores de 10%.",
+      "E": "1.000 × (1,21 + 1,10 + 1)."
+     },
+     "comentario": "A) É o montante da série antecipada na mesma data.\nB) Soma os depósitos sem juros.\nC) Aplica juros simples à trajetória.\nD) Perde um dos fatores de 10%.\nE) 1.000 × (1,21 + 1,10 + 1).",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-series-uniformes-perpetuidade-montante-q05",
+     "dispositivo": "Séries uniformes, perpetuidade e montante de pagamentos"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma perpetuidade paga R$ 4.000 por ano, começando em um ano. Qual o VP à taxa de 8%?",
+     "alternativas": {
+      "A": "R$ 50.000",
+      "B": "R$ 54.000",
+      "C": "R$ 46.296,30",
+      "D": "R$ 32.000",
+      "E": "R$ 320"
+     },
+     "gabarito": "A",
+     "comentarios_por_alternativa": {
+      "A": "4.000/0,08.",
+      "B": "Inclui parcela imediata inexistente.",
+      "C": "Desconta um ano a mais.",
+      "D": "Multiplica pelo percentual sem preservar a fórmula.",
+      "E": "É o produto de 4.000 por 8%."
+     },
+     "comentario": "A) 4.000/0,08.\nB) Inclui parcela imediata inexistente.\nC) Desconta um ano a mais.\nD) Multiplica pelo percentual sem preservar a fórmula.\nE) É o produto de 4.000 por 8%.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-series-uniformes-perpetuidade-montante-q06",
+     "dispositivo": "Séries uniformes, perpetuidade e montante de pagamentos"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Dois pagamentos antecipados de R$ 550 e taxa de 10%. Qual é o valor presente?",
+     "alternativas": {
+      "A": "R$ 500",
+      "B": "R$ 1.050",
+      "C": "R$ 1.100",
+      "D": "R$ 954,55",
+      "E": "R$ 1.155"
+     },
+     "gabarito": "B",
+     "comentarios_por_alternativa": {
+      "A": "Considera somente a segunda prestação descontada.",
+      "B": "550 hoje mais 550/1,10.",
+      "C": "Soma os dois valores sem desconto.",
+      "D": "Corresponde à série postecipada.",
+      "E": "Avalia a série na data 1, e não na data zero."
+     },
+     "comentario": "A) Considera somente a segunda prestação descontada.\nB) 550 hoje mais 550/1,10.\nC) Soma os dois valores sem desconto.\nD) Corresponde à série postecipada.\nE) Avalia a série na data 1, e não na data zero.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-series-uniformes-perpetuidade-montante-q07",
+     "dispositivo": "Séries uniformes, perpetuidade e montante de pagamentos"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma série começa no fim do mês 5. Em que mês se situa seu VP postecipado antes de descontar à origem?",
+     "alternativas": {
+      "A": "Mês 6",
+      "B": "Mês 1",
+      "C": "Mês 4",
+      "D": "Mês 5",
+      "E": "Mês 0"
+     },
+     "gabarito": "C",
+     "comentarios_por_alternativa": {
+      "A": "Fica depois do primeiro desembolso.",
+      "B": "Confunde a primeira parcela de uma série comum com a data focal da diferida.",
+      "C": "A fórmula usa a data imediatamente anterior ao primeiro pagamento.",
+      "D": "É a data do primeiro pagamento.",
+      "E": "Só depois do desconto adicional."
+     },
+     "comentario": "A) Fica depois do primeiro desembolso.\nB) Confunde a primeira parcela de uma série comum com a data focal da diferida.\nC) A fórmula usa a data imediatamente anterior ao primeiro pagamento.\nD) É a data do primeiro pagamento.\nE) Só depois do desconto adicional.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-series-uniformes-perpetuidade-montante-q08",
+     "dispositivo": "Séries uniformes, perpetuidade e montante de pagamentos"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "No montante postecipado na data n, a última parcela entra ___.",
+     "opcoes": [
+      "sem juros",
+      "com n períodos de juros",
+      "com n−1 períodos"
+     ],
+     "respostas": [
+      "sem juros"
+     ],
+     "explicacao": "O depósito coincide com a data focal."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "A primeira parcela de uma série ___ ocorre no ato.",
+     "opcoes": [
+      "antecipada",
+      "postecipada",
+      "diferida"
+     ],
+     "respostas": [
+      "antecipada"
+     ],
+     "explicacao": "A primeira data é zero."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o VP de uma série diferida.",
+     "itens": [
+      "Marque o primeiro pagamento.",
+      "Identifique a data imediatamente anterior.",
+      "Calcule o VP da série nessa data.",
+      "Desconte o valor até a origem."
+     ],
+     "explicacao": "Cada uma das duas etapas cobre trechos diferentes na linha do tempo."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Antecipada",
+       "Primeira prestação no ato"
+      ],
+      [
+       "Postecipada",
+       "Primeira prestação no fim do primeiro período"
+      ],
+      [
+       "Perpetuidade",
+       "Pagamentos por tempo indefinido"
+      ],
+      [
+       "Diferida",
+       "Início após uma carência"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

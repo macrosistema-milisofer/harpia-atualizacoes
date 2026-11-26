@@ -1,0 +1,253 @@
+{
+ "assunto": "Leis de Kepler e órbitas planetárias",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-leis-kepler-c14",
+   "titulo": "Leis de Kepler e órbitas planetárias",
+   "microconteudo": "RAIO-X DA PROVA: Use a relação física indicada e confira as condições em que ela se aplica. Planetas descrevem elipses com o Sol em um foco; raios orbitais varrem áreas iguais em tempos iguais; T² é proporcional a a³ para um mesmo corpo central no modelo usual.\n\nPOR QUE IMPORTA:\nUm planeta percorre uma órbita elíptica e leva mais tempo para dar uma volta quando está em uma órbita maior, comparada a outra em torno do mesmo astro.\n\nO QUE A BANCA COBRA:\nUse a relação física indicada e confira as condições em que ela se aplica. Planetas descrevem elipses com o Sol em um foco; raios orbitais varrem áreas iguais em tempos iguais; T² é proporcional a a³ para um mesmo corpo central no modelo usual.\n\nENTENDA:\nUm planeta percorre uma órbita elíptica e leva mais tempo para dar uma volta quando está em uma órbita maior, comparada a outra em torno do mesmo astro.\n\nPlanetas descrevem elipses com o Sol em um foco; raios orbitais varrem áreas iguais em tempos iguais; T² é proporcional a a³ para um mesmo corpo central no modelo usual.\n\nSe o semieixo maior aumenta por fator 9, o período aumenta por 9 elevado a 3/2, isto é, 27. Um período passa a 27 meses se inicialmente era um mês.\n\nUma sonda varre 12 unidades quadradas em quatro dias junto ao ponto mais próximo do astro. Em quatro dias no outro extremo, varre as mesmas 12 unidades quadradas, embora percorra arco menor.\n\nPara comparar dois períodos, escreva a razão dos quadrados dos períodos igual à razão dos cubos dos semieixos. A raiz quadrada final devolve a razão de períodos. Na lei das áreas, desenhe o segmento do astro ao planeta e acompanhe a região coberta enquanto o segmento gira.\n\nPara explicar o resultado, use o vocabulário da situação. Qual é a forma da órbita na primeira lei? Elipse. Onde fica o Sol? Em um dos focos. O que é varrido em tempos iguais? Áreas iguais. Qual relação usa o semieixo maior? T² proporcional a a³. Quando o planeta fica mais rápido? Na região mais próxima do astro central. Em que condição comparar a constante de Kepler? Compare órbitas em torno do mesmo corpo central no modelo usual.\n\nNa hora de resolver no papel, siga a sequência abaixo. Identificar a lei pertinente. Ler foco, tempo ou semieixo. Comparar áreas ou razões de potências. Interpretar a previsão orbital. Depois, escreva o resultado em uma frase completa. Um número isolado pode estar correto e, ainda assim, deixar ambíguo o que você calculou. Informe a unidade quando houver medida e identifique o objeto, a região ou o intervalo a que o resultado se refere.\n\nO foco ocupado pelo astro geralmente não é o centro da elipse. A igualdade é de áreas em tempos iguais, e não de distâncias percorridas.\n\nReleia os dois exemplos resolvidos e tente antecipar o desfecho sem consultar o cálculo. No primeiro exemplo, identifique qual dado determina diretamente a resposta. No segundo, diga qual condição deve permanecer válida para que a conclusão se mantenha. Compare depois o papel das unidades e do sentido das grandezas. Se o resultado for qualitativo, procure enunciar a previsão em termos observáveis. Se for quantitativo, estime a escala antes de efetuar a última operação.\n\nVocê pode adaptar a análise a uma situação do cotidiano. Comece com esta ideia: Um planeta percorre uma órbita elíptica e leva mais tempo para dar uma volta quando está em uma órbita maior, comparada a outra em torno do mesmo astro. Em seguida, desenhe o cenário, indique o que está sendo comparado e escreva que dado precisaria medir para testar a previsão. Diferencie a regra do modelo das informações que servem apenas para situar a história. Isso ajuda a decidir o que aproveitar quando uma questão apresenta mais dados do que a resolução exige.\n\nTrês conferências úteis: a definição corresponde ao objeto descrito? As condições indicadas no enunciado permitem aplicar a regra? A resposta continua coerente ao voltar ao desenho? Faça a última conferência lendo esta relação no contexto: Planetas descrevem elipses com o Sol em um foco; raios orbitais varrem áreas iguais em tempos iguais; T² é proporcional a a³ para um mesmo corpo central no modelo usual. Uma hipótese deve ser usada dentro de sua faixa de validade; quando o contexto mudar, justifique a adaptação antes de transportar o resultado.\n\nAo treinar, explique a diferença entre o mecanismo e seu efeito. O foco ocupado pelo astro geralmente não é o centro da elipse. A igualdade é de áreas em tempos iguais, e não de distâncias percorridas. Em um texto de prova, essa distinção pode aparecer escondida em uma frase sobre o resultado de uma medida. Identifique primeiro a causa física e depois a grandeza observada. Se for necessário comparar cenários, mude uma condição por vez para descobrir qual mudança explica a diferença.\n\nPergunte o que aconteceria se você aplicasse a regra a um desenho mais simples. Comece separando estas tarefas: Identificar a lei pertinente. Ler foco, tempo ou semieixo. Comparar áreas ou razões de potências. Interpretar a previsão orbital. Refaça o primeiro exemplo apenas com setas ou um esquema, deixando os números para o final. Em seguida, recolha do enunciado as unidades e os sentidos. Uma seta no desenho pode indicar a direção de uma interação, a mudança de uma medida ou apenas uma referência. É importante dizer qual papel ela desempenha antes de usar a relação do começo da lição.\n\nPara consolidar, use três perguntas de revisão. Onde fica o Sol? Em um dos focos. Qual relação usa o semieixo maior? T² proporcional a a³. Em que condição comparar a constante de Kepler? Compare órbitas em torno do mesmo corpo central no modelo usual. A ideia é explicar essas respostas sem depender da ordem em que apareceram. Em um problema de comparação, preste atenção às palavras que mantêm algo igual entre os cenários. Em um problema de cálculo, confira a operação inversa quando possível. Por exemplo, reintroduza o resultado na relação inicial e verifique se os dados do problema são recuperados. Em uma questão qualitativa, faça o equivalente testando se a conclusão explica as condições observadas.\n\nNo fim da leitura, diga qual grandeza a pergunta solicitou e qual grandeza você usou para chegar a ela. Faça essa distinção também quando a resposta for uma direção, uma comparação ou uma interpretação histórica. Um resultado bem explicado deve poder ser lido sem adivinhar de onde ele veio.\n\nEm uma atividade de estudo, escreva primeiro uma estimativa ou previsão. Depois escolha o dado específico que vai confirmar ou contrariar essa previsão. Se duas respostas parecerem possíveis, indique qual condição extra permitiria escolher entre elas. A ideia é explicar o raciocínio, deixando claro por que a relação física é apropriada naquele contexto.\n\nTROCANDO EM MIÚDOS:\nUm planeta percorre uma órbita elíptica e leva mais tempo para dar uma volta quando está em uma órbita maior, comparada a outra em torno do mesmo astro.\n\nPlanetas descrevem elipses com o Sol em um foco; raios orbitais varrem áreas iguais em tempos iguais; T² é proporcional a a³ para um mesmo corpo central no modelo usual.\n\nSe o semieixo maior aumenta por fator 9, o período aumenta por 9 elevado a 3/2, isto é, 27. Um período passa a 27 meses se inicialmente era um mês.\n\nUma sonda varre 12 unidades quadradas em quatro dias junto ao ponto mais próximo do astro. Em quatro dias no outro extremo, varre as mesmas 12 unidades quadradas, embora percorra arco menor.\n\nO foco ocupado pelo astro geralmente não é o centro da elipse. A igualdade é de áreas em tempos iguais, e não de distâncias percorridas.\n\nQual é a forma da órbita na primeira lei? Elipse. Onde fica o Sol? Em um dos focos. O que é varrido em tempos iguais? Áreas iguais. Qual relação usa o semieixo maior? T² proporcional a a³. Quando o planeta fica mais rápido? Na região mais próxima do astro central. Em que condição comparar a constante de Kepler? Compare órbitas em torno do mesmo corpo central no modelo usual.\n\nPara montar seu rascunho: Identificar a lei pertinente. Ler foco, tempo ou semieixo. Comparar áreas ou razões de potências. Interpretar a previsão orbital. Na leitura final, escolha a parte do desenho que corresponde ao resultado. Se encontrar uma unidade diferente da pedida, volte ao cálculo e confira os fatores de conversão. Quando a pergunta for conceitual, confira se a explicação indica o mecanismo que liga o dado à conclusão. Você pode comparar os dois exemplos da lição antes de tentar os exercícios e explicar de memória por que cada resultado faz sentido.\n\nLEI SECA:\nPlanetas descrevem elipses com o Sol em um foco; raios orbitais varrem áreas iguais em tempos iguais; T² é proporcional a a³ para um mesmo corpo central no modelo usual.\n\nSÚMULAS E TESES:\nUma sonda varre 12 unidades quadradas em quatro dias junto ao ponto mais próximo do astro. Em quatro dias no outro extremo, varre as mesmas 12 unidades quadradas, embora percorra arco menor.\n\nESQUEMA:\nIdentificar a lei pertinente. → Ler foco, tempo ou semieixo. → Comparar áreas ou razões de potências. → Interpretar a previsão orbital.\n\nPEGADINHAS:\nO foco ocupado pelo astro geralmente não é o centro da elipse. A igualdade é de áreas em tempos iguais, e não de distâncias percorridas.\n\nDOUTRINA:\nKepler’s Laws of Planetary Motion\n\nNA PRÁTICA:\nSe o semieixo maior aumenta por fator 9, o período aumenta por 9 elevado a 3/2, isto é, 27. Um período passa a 27 meses se inicialmente era um mês.",
+   "flashcards": [
+    {
+     "frente": "Qual é a forma da órbita na primeira lei?",
+     "verso": "Elipse.",
+     "dispositivo": "A Mecânica e o funcionamento do Universo — Leis de Kepler"
+    },
+    {
+     "frente": "Onde fica o Sol?",
+     "verso": "Em um dos focos.",
+     "dispositivo": "A Mecânica e o funcionamento do Universo — Leis de Kepler"
+    },
+    {
+     "frente": "O que é varrido em tempos iguais?",
+     "verso": "Áreas iguais.",
+     "dispositivo": "A Mecânica e o funcionamento do Universo — Leis de Kepler"
+    },
+    {
+     "frente": "Qual relação usa o semieixo maior?",
+     "verso": "T² proporcional a a³.",
+     "dispositivo": "A Mecânica e o funcionamento do Universo — Leis de Kepler"
+    },
+    {
+     "frente": "Quando o planeta fica mais rápido?",
+     "verso": "Na região mais próxima do astro central.",
+     "dispositivo": "A Mecânica e o funcionamento do Universo — Leis de Kepler"
+    },
+    {
+     "frente": "Em que condição comparar a constante de Kepler?",
+     "verso": "Compare órbitas em torno do mesmo corpo central no modelo usual.",
+     "dispositivo": "A Mecânica e o funcionamento do Universo — Leis de Kepler"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-leis-kepler-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Um planeta orbita em elipse.",
+     "enunciado": "O Sol ocupa um dos focos.",
+     "gabarito": "C",
+     "comentario": "Certo. É a primeira lei.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "A Mecânica e o funcionamento do Universo — Leis de Kepler"
+    },
+    {
+     "id": "enem-fisica-leis-kepler-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Um planeta varre áreas iguais em tempos iguais.",
+     "enunciado": "Ele percorre arcos de mesmo comprimento.",
+     "gabarito": "E",
+     "comentario": "Errado. A distância ao foco muda.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "A Mecânica e o funcionamento do Universo — Leis de Kepler"
+    },
+    {
+     "id": "enem-fisica-leis-kepler-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Órbitas comparáveis têm semieixos maiores diferentes.",
+     "enunciado": "A órbita de maior semieixo tem maior período.",
+     "gabarito": "C",
+     "comentario": "Certo. T cresce com a elevado a 3/2.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "A Mecânica e o funcionamento do Universo — Leis de Kepler"
+    },
+    {
+     "id": "enem-fisica-leis-kepler-c14-q04",
+     "tipo": "ce",
+     "texto_base": "O planeta está mais perto do Sol.",
+     "enunciado": "Sua velocidade orbital é menor.",
+     "gabarito": "E",
+     "comentario": "Errado. O módulo é maior perto do periélio.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "A Mecânica e o funcionamento do Universo — Leis de Kepler"
+    },
+    {
+     "id": "enem-fisica-leis-kepler-c14-q05",
+     "tipo": "me",
+     "texto_base": "O semieixo maior de uma órbita aumenta por fator 4 para o mesmo astro.",
+     "enunciado": "Por qual fator muda o período?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "4",
+      "B": "8",
+      "C": "16",
+      "D": "64",
+      "E": "2"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Usa relação linear.",
+      "B": "Correta. Quatro elevado a 3/2 é oito.",
+      "C": "Usa o quadrado.",
+      "D": "Eleva ao cubo sem tirar a raiz.",
+      "E": "Tira a raiz sem elevar ao cubo."
+     },
+     "comentario": "A) Usa relação linear.\nB) Correta. Quatro elevado a 3/2 é oito.\nC) Usa o quadrado.\nD) Eleva ao cubo sem tirar a raiz.\nE) Tira a raiz sem elevar ao cubo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "A Mecânica e o funcionamento do Universo — Leis de Kepler"
+    },
+    {
+     "id": "enem-fisica-leis-kepler-c14-q06",
+     "tipo": "me",
+     "texto_base": "São varridas 20 unidades de área em 2 dias.",
+     "enunciado": "Qual área é varrida em 5 dias na mesma órbita?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "20",
+      "B": "10",
+      "C": "100",
+      "D": "50",
+      "E": "40"
+     },
+     "comentarios_por_alternativa": {
+      "A": "É a área de dois dias.",
+      "B": "É a área de um dia.",
+      "C": "Multiplica por cinco sem dividir pelos dois dias iniciais.",
+      "D": "Correta. A taxa é de dez unidades por dia.",
+      "E": "Corresponde a quatro dias."
+     },
+     "comentario": "A) É a área de dois dias.\nB) É a área de um dia.\nC) Multiplica por cinco sem dividir pelos dois dias iniciais.\nD) Correta. A taxa é de dez unidades por dia.\nE) Corresponde a quatro dias.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "A Mecânica e o funcionamento do Universo — Leis de Kepler"
+    },
+    {
+     "id": "enem-fisica-leis-kepler-c14-q07",
+     "tipo": "me",
+     "texto_base": "O período de uma órbita é 3 anos. O semieixo de outra é quatro vezes maior.",
+     "enunciado": "Qual é seu período?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "24 anos",
+      "B": "12 anos",
+      "C": "6 anos",
+      "D": "48 anos",
+      "E": "3 anos"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Multiplique o período por oito.",
+      "B": "Multiplica por quatro.",
+      "C": "Multiplica apenas pela raiz de quatro.",
+      "D": "Multiplica por dezesseis.",
+      "E": "Ignora o semieixo."
+     },
+     "comentario": "A) Correta. Multiplique o período por oito.\nB) Multiplica por quatro.\nC) Multiplica apenas pela raiz de quatro.\nD) Multiplica por dezesseis.\nE) Ignora o semieixo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "A Mecânica e o funcionamento do Universo — Leis de Kepler"
+    },
+    {
+     "id": "enem-fisica-leis-kepler-c14-q08",
+     "tipo": "me",
+     "texto_base": "Um planeta está no ponto mais distante do Sol.",
+     "enunciado": "Como se chama esse ponto?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Periélio",
+      "B": "Equinócio",
+      "C": "Foco",
+      "D": "Centro",
+      "E": "Afélio"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Designa a menor distância.",
+      "B": "Marca uma configuração sazonal terrestre.",
+      "C": "É uma posição geométrica da elipse onde pode estar o Sol.",
+      "D": "Não é uma extremidade da órbita.",
+      "E": "Correta. Designa a maior distância ao Sol."
+     },
+     "comentario": "A) Designa a menor distância.\nB) Marca uma configuração sazonal terrestre.\nC) É uma posição geométrica da elipse onde pode estar o Sol.\nD) Não é uma extremidade da órbita.\nE) Correta. Designa a maior distância ao Sol.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "A Mecânica e o funcionamento do Universo — Leis de Kepler"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Qual é a forma da órbita na primeira lei? ___",
+     "opcoes": [
+      "Elipse.",
+      "Em um dos focos.",
+      "Áreas iguais.",
+      "T² proporcional a a³."
+     ],
+     "respostas": [
+      "Elipse."
+     ],
+     "explicacao": "Elipse."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "O que é varrido em tempos iguais? ___",
+     "opcoes": [
+      "Áreas iguais.",
+      "T² proporcional a a³.",
+      "Na região mais próxima do astro central.",
+      "Compare órbitas em torno do mesmo corpo central no modelo usual."
+     ],
+     "respostas": [
+      "Áreas iguais."
+     ],
+     "explicacao": "Áreas iguais."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise de leis de kepler e órbitas planetárias.",
+     "itens": [
+      "Identificar a lei pertinente.",
+      "Ler foco, tempo ou semieixo.",
+      "Comparar áreas ou razões de potências.",
+      "Interpretar a previsão orbital."
+     ],
+     "explicacao": "Planetas descrevem elipses com o Sol em um foco; raios orbitais varrem áreas iguais em tempos iguais; T² é proporcional a a³ para um mesmo corpo central no modelo usual."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Qual é a forma da órbita na primeira lei?",
+       "Elipse."
+      ],
+      [
+       "Onde fica o Sol?",
+       "Em um dos focos."
+      ],
+      [
+       "O que é varrido em tempos iguais?",
+       "Áreas iguais."
+      ],
+      [
+       "Qual relação usa o semieixo maior?",
+       "T² proporcional a a³."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

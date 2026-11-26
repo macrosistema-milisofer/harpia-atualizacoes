@@ -1,0 +1,253 @@
+{
+ "assunto": "Movimentos particulares e regularidades",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-movimentos-particulares-c14",
+   "titulo": "Movimentos particulares e regularidades",
+   "microconteudo": "RAIO-X DA PROVA: Interprete a situação e justifique a conclusão com a relação física pertinente. Movimento uniforme tem velocidade constante. Movimento com aceleração constante tem iguais variações de velocidade em tempos iguais. Queda livre perto da Terra, desprezado o ar, é um exemplo desse segundo modelo.\n\nPOR QUE IMPORTA:\nA escada rolante, o carrinho numa pista inclinada e uma bola em queda podem ser descritos por modelos diferentes. Escolher um modelo começa por observar o que se repete em intervalos iguais.\n\nO QUE A BANCA COBRA:\nInterprete a situação e justifique a conclusão com a relação física pertinente. Movimento uniforme tem velocidade constante. Movimento com aceleração constante tem iguais variações de velocidade em tempos iguais. Queda livre perto da Terra, desprezado o ar, é um exemplo desse segundo modelo.\n\nENTENDA:\nComece por esta situação: A escada rolante, o carrinho numa pista inclinada e uma bola em queda podem ser descritos por modelos diferentes. Escolher um modelo começa por observar o que se repete em intervalos iguais. Leia os dados disponíveis e faça uma previsão antes de procurar uma fórmula. Movimento uniforme tem velocidade constante. Movimento com aceleração constante tem iguais variações de velocidade em tempos iguais. Queda livre perto da Terra, desprezado o ar, é um exemplo desse segundo modelo. Se um carrinho parte do repouso com aceleração constante de 2 m/s², em 1 s sua rapidez vale 2 m/s e em 2 s vale 4 m/s; os deslocamentos sucessivos aumentam.\n\nPara reconhecer movimento uniforme, observe deslocamentos sucessivos após intervalos iguais. Uma sequência de posições 2, 6, 10 e 14 m a cada segundo indica variações de 4 m e é compatível com velocidade constante de 4 m/s. Já a sequência de velocidades 0, 2, 4 e 6 m/s nos mesmos instantes indica aceleração constante de 2 m/s². O mesmo conjunto de números pode levar a conclusões diferentes se estiver associado à posição ou à velocidade. Leia sempre a grandeza registrada na primeira linha da tabela.\n\nUm lançamento vertical pode ser analisado usando o eixo para cima. Se a bola é lançada a 20 m/s e a gravidade tem módulo 10 m/s², a velocidade cai 10 m/s a cada segundo. Após 2 s ela chega a zero. Em 3 s, a velocidade é −10 m/s e a bola está descendo. A aceleração foi negativa durante subida e descida. A mudança do sentido da velocidade acontece enquanto a aceleração mantém sua orientação.\n\nConfira o significado das palavras da questão. Qual é a regularidade do movimento uniforme? Deslocamentos iguais em intervalos iguais.\nQual é a regularidade de aceleração constante? Variações iguais de velocidade vetorial em tempos iguais.\nQuando chamamos a queda de livre no modelo escolar? Quando só a gravidade atua de modo relevante.\nQue forma tem v(t) com aceleração constante? Uma reta.\nQue relação liga x e t em movimento uniforme? x = x₀ + vt.\nNo ponto mais alto de um lançamento vertical, qual força permanece no modelo? A força gravitacional. Se dois termos parecem próximos, compare o que cada um descreve no caso inicial. Em Física, trocar o nome de uma grandeza pode mudar o cálculo ou até o que se está tentando explicar. Escreva, ao lado de cada símbolo, qual parte da situação ele representa e em que unidade seria medido.\n\nExemplo 1. Um carrinho tem velocidade inicial de 3 m/s e aceleração constante de 2 m/s² no mesmo sentido. Qual é a velocidade após 4 s? A resposta é 11 m/s.. Use v = 3 + 2 × 4. É apenas o aumento da velocidade. É a velocidade após 1 s. Supõe aceleração de sinal contrário. Multiplicar velocidade por aceleração e tempo não fornece o resultado.\n\nExemplo 2. Uma bola é abandonada do repouso; despreze o ar e use g = 10 m/s². Qual distância ela cai em 2 s? A resposta é 20 m.. Use h = gt²/2 = 10 × 4/2. Ignora que o tempo está ao quadrado. Omite o fator 1/2. Confunde tempo com distância. É a distância caída em 1 s.\n\nExemplo 3. Uma esteira move uma caixa com velocidade constante de 0,5 m/s. Qual é o deslocamento em 12 s no sentido do movimento? A resposta é 6 m.. O produto 0,5 × 12 é 6 m. Divide o tempo pela velocidade. Soma grandezas com unidades diferentes. É o deslocamento de apenas um segundo. Corresponde a um intervalo de 6 s.\n\nExemplo 4. Um móvel apresenta velocidades 1, 3, 5 e 7 m/s em quatro instantes separados por 1 s. Admitindo aceleração constante, qual o seu valor? A resposta é 2 m/s².. Cada intervalo de 1 s contém aumento de 2 m/s. 7 m/s é a última velocidade. 6 m/s é a variação entre o primeiro e o último valor. 4 m/s é a média das velocidades extremas. A velocidade varia regularmente.\n\nTeste de interpretação. Um carrinho avança 2 m em cada segundo sempre na mesma direção. Considere a afirmação: “O movimento pode ser uniforme.” Certo. A velocidade pode ser constante, com 2 m/s no eixo do movimento. Uma bola está no ponto mais alto de um lançamento vertical sem resistência do ar. Considere a afirmação: “Sua aceleração é nula nesse instante.” Errado. A velocidade é momentaneamente nula, mas a gravidade continua atuando. Uma aceleração constante produz incrementos iguais de velocidade em tempos iguais. Considere a afirmação: “O gráfico v(t) é linear.” Certo. O coeficiente angular é a própria aceleração. Um objeto parte do repouso e acelera em linha reta, com aceleração constante positiva. Considere a afirmação: “Ele percorre a mesma distância a cada segundo.” Errado. Seu módulo de velocidade aumenta, produzindo distâncias sucessivamente maiores.\n\nUma sequência de resolução é útil quando a questão traz mais dados que o necessário. Primeiro, descrever o que se mantém regular. Depois, identificar as hipóteses físicas do modelo. Em seguida, aplicar a equação compatível com o intervalo. Por último, conferir a tendência prevista para velocidade e posição. Explique oralmente por que cada passo vem nessa posição. Se a última conclusão mudar quando você troca um detalhe do enunciado, localize qual hipótese provocou essa mudança. Isso ajuda a distinguir o resultado de uma conta das condições em que ele vale.\n\nEm uma prova, procure separar o que o texto observou, o que o modelo assume e o que você concluiu. Um valor informado é um dado. Uma condição como desprezar o atrito ou tratar o intervalo como uniforme pode ser uma hipótese. Já o resultado é aquilo que você obtém ao combinar os dados com a regra escolhida. Se houver tabela ou figura, confira a legenda, os eixos e as unidades antes de usar os números. Para revisar, refaça um dos exemplos mudando um dado por vez e preveja o sentido da mudança antes de calcular.\n\nCheck de leitura. Escolha dois exemplos desta lição e compare o papel de cada informação. O que foi medido diretamente? Qual relação precisou ser usada para inferir uma resposta? Há alguma observação que, sozinha, seria insuficiente? Se a resposta for um número, faça uma estimativa simples para checar se ele é plausível. Se for uma explicação, procure indicar qual condição a torna válida. Depois, tente escrever uma resposta que inclua o dado utilizado, o raciocínio e a conclusão em uma ou duas frases.\n\nAo montar um rascunho, deixe os dados de um lado e a conclusão do outro. Comece pelo dado que tem relação direta com a pergunta. Caso sobrem informações, veja se elas servem para comparar hipóteses ou apenas situar a história. Em uma comparação, mantenha a mesma referência e o mesmo intervalo sempre que o enunciado permitir. Quando um resultado contradiz a previsão inicial, revise primeiro a interpretação do que foi pedido; em seguida, revise a operação e as condições assumidas.\n\nPara fechar, compare estas duas situações e procure a diferença física entre elas. Um carrinho avança 2 m em cada segundo sempre na mesma direção. Uma bola está no ponto mais alto de um lançamento vertical sem resistência do ar. Quando o contexto muda, a leitura deve partir das informações apresentadas naquele caso. Considere a primeira afirmação e justifique o resultado: “O movimento pode ser uniforme.” Certo. A velocidade pode ser constante, com 2 m/s no eixo do movimento. Agora avalie a segunda: “Sua aceleração é nula nesse instante.” Errado. A velocidade é momentaneamente nula, mas a gravidade continua atuando. Uma explicação adequada pode usar palavras e cálculos, desde que a relação com a situação seja clara. Pense em qual mudança nos dados tornaria cada afirmação válida ou inválida.\n\nUse este conjunto de definições como roteiro para checar o raciocínio. Qual é a regularidade do movimento uniforme? Deslocamentos iguais em intervalos iguais.\nQual é a regularidade de aceleração constante? Variações iguais de velocidade vetorial em tempos iguais.\nQuando chamamos a queda de livre no modelo escolar? Quando só a gravidade atua de modo relevante.\nQue forma tem v(t) com aceleração constante? Uma reta.\nQue relação liga x e t em movimento uniforme? x = x₀ + vt.\nNo ponto mais alto de um lançamento vertical, qual força permanece no modelo? A força gravitacional. Ao voltar aos dados do começo, selecione as definições pertinentes ao caso. Leia a conclusão como se ela fosse uma frase independente: confira a unidade, a referência adotada e a condição de validade.\n\nTROCANDO EM MIÚDOS:\nImagine a situação do começo da lição. A escada rolante, o carrinho numa pista inclinada e uma bola em queda podem ser descritos por modelos diferentes. Escolher um modelo começa por observar o que se repete em intervalos iguais. Se um carrinho parte do repouso com aceleração constante de 2 m/s², em 1 s sua rapidez vale 2 m/s e em 2 s vale 4 m/s; os deslocamentos sucessivos aumentam.\n\nA regra principal pode ser escrita assim: Movimento uniforme tem velocidade constante. Movimento com aceleração constante tem iguais variações de velocidade em tempos iguais. Queda livre perto da Terra, desprezado o ar, é um exemplo desse segundo modelo. Tente explicar essa regra em voz alta para alguém que ainda não viu o conteúdo, usando o exemplo inicial como apoio.\n\nAntes de marcar uma alternativa, faça esta checagem. Qual é a regularidade do movimento uniforme? Deslocamentos iguais em intervalos iguais. Qual é a regularidade de aceleração constante? Variações iguais de velocidade vetorial em tempos iguais. Quando chamamos a queda de livre no modelo escolar? Quando só a gravidade atua de modo relevante. Que forma tem v(t) com aceleração constante? Uma reta. Que relação liga x e t em movimento uniforme? x = x₀ + vt. No ponto mais alto de um lançamento vertical, qual força permanece no modelo? A força gravitacional.\n\nEm um rascunho curto, anote quatro passos. Descrever o que se mantém regular. Identificar as hipóteses físicas do modelo. Aplicar a equação compatível com o intervalo. Conferir a tendência prevista para velocidade e posição. Em seguida, tente aplicar os passos a um exemplo com números ou condições diferentes. As grandezas que foram medidas e o que você quer descobrir devem ficar em linhas separadas. Isso ajuda a identificar qual informação ainda falta.\n\nExperimente responder a esta situação sem olhar as opções. Um carrinho tem velocidade inicial de 3 m/s e aceleração constante de 2 m/s² no mesmo sentido. Qual é a velocidade após 4 s? Use v = 3 + 2 × 4. Depois, confira nos exemplos quais seriam as consequências de escolher uma interpretação diferente. Se tiver que refazer, comece pelas condições do problema e pelo significado de cada dado.\n\nPara fixar, releia uma afirmação verdadeira e uma falsa da lição. Reescreva a falsa trocando só o trecho necessário para corrigi-la. Na afirmação verdadeira, diga qual detalhe do enunciado permite chegar a essa conclusão. Assim você pratica explicar um resultado, além de reconhecer qual opção está certa.\n\nLEI SECA:\nMovimento uniforme tem velocidade constante. Movimento com aceleração constante tem iguais variações de velocidade em tempos iguais. Queda livre perto da Terra, desprezado o ar, é um exemplo desse segundo modelo.\n\nSÚMULAS E TESES:\nSe um carrinho parte do repouso com aceleração constante de 2 m/s², em 1 s sua rapidez vale 2 m/s e em 2 s vale 4 m/s; os deslocamentos sucessivos aumentam.\n\nESQUEMA:\nDescrever o que se mantém regular → Identificar as hipóteses físicas do modelo → Aplicar a equação compatível com o intervalo → Conferir a tendência prevista para velocidade e posição\n\nPEGADINHAS:\n1. Certo. A velocidade pode ser constante, com 2 m/s no eixo do movimento.\n2. Errado. A velocidade é momentaneamente nula, mas a gravidade continua atuando.\n3. Certo. O coeficiente angular é a própria aceleração.\n4. Errado. Seu módulo de velocidade aumenta, produzindo distâncias sucessivamente maiores.\n\nDOUTRINA:\nOpenStax — College Physics 2e, Motion Equations for Constant Acceleration\n\nNA PRÁTICA:\nExemplo 1. Um carrinho tem velocidade inicial de 3 m/s e aceleração constante de 2 m/s² no mesmo sentido. Qual é a velocidade após 4 s? A resposta é 11 m/s.. Use v = 3 + 2 × 4. É apenas o aumento da velocidade. É a velocidade após 1 s. Supõe aceleração de sinal contrário. Multiplicar velocidade por aceleração e tempo não fornece o resultado.",
+   "flashcards": [
+    {
+     "frente": "Qual é a regularidade do movimento uniforme?",
+     "verso": "Deslocamentos iguais em intervalos iguais.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Casos especiais de movimentos e suas regularidades observáveis"
+    },
+    {
+     "frente": "Qual é a regularidade de aceleração constante?",
+     "verso": "Variações iguais de velocidade vetorial em tempos iguais.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Casos especiais de movimentos e suas regularidades observáveis"
+    },
+    {
+     "frente": "Quando chamamos a queda de livre no modelo escolar?",
+     "verso": "Quando só a gravidade atua de modo relevante.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Casos especiais de movimentos e suas regularidades observáveis"
+    },
+    {
+     "frente": "Que forma tem v(t) com aceleração constante?",
+     "verso": "Uma reta.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Casos especiais de movimentos e suas regularidades observáveis"
+    },
+    {
+     "frente": "Que relação liga x e t em movimento uniforme?",
+     "verso": "x = x₀ + vt.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Casos especiais de movimentos e suas regularidades observáveis"
+    },
+    {
+     "frente": "No ponto mais alto de um lançamento vertical, qual força permanece no modelo?",
+     "verso": "A força gravitacional.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Casos especiais de movimentos e suas regularidades observáveis"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-movimentos-particulares-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Um carrinho avança 2 m em cada segundo sempre na mesma direção.",
+     "enunciado": "O movimento pode ser uniforme.",
+     "gabarito": "C",
+     "comentario": "Certo. A velocidade pode ser constante, com 2 m/s no eixo do movimento.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Casos especiais de movimentos e suas regularidades observáveis"
+    },
+    {
+     "id": "enem-fisica-movimentos-particulares-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Uma bola está no ponto mais alto de um lançamento vertical sem resistência do ar.",
+     "enunciado": "Sua aceleração é nula nesse instante.",
+     "gabarito": "E",
+     "comentario": "Errado. A velocidade é momentaneamente nula, mas a gravidade continua atuando.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Casos especiais de movimentos e suas regularidades observáveis"
+    },
+    {
+     "id": "enem-fisica-movimentos-particulares-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Uma aceleração constante produz incrementos iguais de velocidade em tempos iguais.",
+     "enunciado": "O gráfico v(t) é linear.",
+     "gabarito": "C",
+     "comentario": "Certo. O coeficiente angular é a própria aceleração.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Casos especiais de movimentos e suas regularidades observáveis"
+    },
+    {
+     "id": "enem-fisica-movimentos-particulares-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Um objeto parte do repouso e acelera em linha reta, com aceleração constante positiva.",
+     "enunciado": "Ele percorre a mesma distância a cada segundo.",
+     "gabarito": "E",
+     "comentario": "Errado. Seu módulo de velocidade aumenta, produzindo distâncias sucessivamente maiores.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Casos especiais de movimentos e suas regularidades observáveis"
+    },
+    {
+     "id": "enem-fisica-movimentos-particulares-c14-q05",
+     "tipo": "me",
+     "texto_base": "Um carrinho tem velocidade inicial de 3 m/s e aceleração constante de 2 m/s² no mesmo sentido.",
+     "enunciado": "Qual é a velocidade após 4 s?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "8 m/s.",
+      "B": "11 m/s.",
+      "C": "5 m/s.",
+      "D": "−5 m/s.",
+      "E": "24 m/s."
+     },
+     "comentarios_por_alternativa": {
+      "A": "É apenas o aumento da velocidade.",
+      "B": "Correta. Use v = 3 + 2 × 4.",
+      "C": "É a velocidade após 1 s.",
+      "D": "Supõe aceleração de sinal contrário.",
+      "E": "Multiplicar velocidade por aceleração e tempo não fornece o resultado."
+     },
+     "comentario": "A) É apenas o aumento da velocidade.\nB) Correta. Use v = 3 + 2 × 4.\nC) É a velocidade após 1 s.\nD) Supõe aceleração de sinal contrário.\nE) Multiplicar velocidade por aceleração e tempo não fornece o resultado.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Casos especiais de movimentos e suas regularidades observáveis"
+    },
+    {
+     "id": "enem-fisica-movimentos-particulares-c14-q06",
+     "tipo": "me",
+     "texto_base": "Uma bola é abandonada do repouso; despreze o ar e use g = 10 m/s².",
+     "enunciado": "Qual distância ela cai em 2 s?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "10 m.",
+      "B": "40 m.",
+      "C": "2 m.",
+      "D": "20 m.",
+      "E": "5 m."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Ignora que o tempo está ao quadrado.",
+      "B": "Omite o fator 1/2.",
+      "C": "Confunde tempo com distância.",
+      "D": "Correta. Use h = gt²/2 = 10 × 4/2.",
+      "E": "É a distância caída em 1 s."
+     },
+     "comentario": "A) Ignora que o tempo está ao quadrado.\nB) Omite o fator 1/2.\nC) Confunde tempo com distância.\nD) Correta. Use h = gt²/2 = 10 × 4/2.\nE) É a distância caída em 1 s.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Casos especiais de movimentos e suas regularidades observáveis"
+    },
+    {
+     "id": "enem-fisica-movimentos-particulares-c14-q07",
+     "tipo": "me",
+     "texto_base": "Uma esteira move uma caixa com velocidade constante de 0,5 m/s.",
+     "enunciado": "Qual é o deslocamento em 12 s no sentido do movimento?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "6 m.",
+      "B": "24 m.",
+      "C": "12,5 m.",
+      "D": "0,5 m.",
+      "E": "3 m."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. O produto 0,5 × 12 é 6 m.",
+      "B": "Divide o tempo pela velocidade.",
+      "C": "Soma grandezas com unidades diferentes.",
+      "D": "É o deslocamento de apenas um segundo.",
+      "E": "Corresponde a um intervalo de 6 s."
+     },
+     "comentario": "A) Correta. O produto 0,5 × 12 é 6 m.\nB) Divide o tempo pela velocidade.\nC) Soma grandezas com unidades diferentes.\nD) É o deslocamento de apenas um segundo.\nE) Corresponde a um intervalo de 6 s.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Casos especiais de movimentos e suas regularidades observáveis"
+    },
+    {
+     "id": "enem-fisica-movimentos-particulares-c14-q08",
+     "tipo": "me",
+     "texto_base": "Um móvel apresenta velocidades 1, 3, 5 e 7 m/s em quatro instantes separados por 1 s.",
+     "enunciado": "Admitindo aceleração constante, qual o seu valor?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "7 m/s².",
+      "B": "6 m/s².",
+      "C": "4 m/s².",
+      "D": "Zero.",
+      "E": "2 m/s²."
+     },
+     "comentarios_por_alternativa": {
+      "A": "7 m/s é a última velocidade.",
+      "B": "6 m/s é a variação entre o primeiro e o último valor.",
+      "C": "4 m/s é a média das velocidades extremas.",
+      "D": "A velocidade varia regularmente.",
+      "E": "Correta. Cada intervalo de 1 s contém aumento de 2 m/s."
+     },
+     "comentario": "A) 7 m/s é a última velocidade.\nB) 6 m/s é a variação entre o primeiro e o último valor.\nC) 4 m/s é a média das velocidades extremas.\nD) A velocidade varia regularmente.\nE) Correta. Cada intervalo de 1 s contém aumento de 2 m/s.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Casos especiais de movimentos e suas regularidades observáveis"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Qual é a regularidade do movimento uniforme? Resposta: ___.",
+     "opcoes": [
+      "Deslocamentos iguais em intervalos iguais.",
+      "Variações iguais de velocidade vetorial em tempos iguais.",
+      "Quando só a gravidade atua de modo relevante.",
+      "Uma reta."
+     ],
+     "respostas": [
+      "Deslocamentos iguais em intervalos iguais."
+     ],
+     "explicacao": "Deslocamentos iguais em intervalos iguais."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Que relação liga x e t em movimento uniforme? Resposta: ___.",
+     "opcoes": [
+      "Quando só a gravidade atua de modo relevante.",
+      "Uma reta.",
+      "x = x₀ + vt.",
+      "A força gravitacional."
+     ],
+     "respostas": [
+      "x = x₀ + vt."
+     ],
+     "explicacao": "x = x₀ + vt."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma situação sobre movimentos particulares e regularidades.",
+     "itens": [
+      "Descrever o que se mantém regular.",
+      "Identificar as hipóteses físicas do modelo.",
+      "Aplicar a equação compatível com o intervalo.",
+      "Conferir a tendência prevista para velocidade e posição."
+     ],
+     "explicacao": "Movimento uniforme tem velocidade constante. Movimento com aceleração constante tem iguais variações de velocidade em tempos iguais. Queda livre perto da Terra, desprezado o ar, é um exemplo desse segundo modelo."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Qual é a regularidade do movimento uniforme?",
+       "Deslocamentos iguais em intervalos iguais."
+      ],
+      [
+       "Qual é a regularidade de aceleração constante?",
+       "Variações iguais de velocidade vetorial em tempos iguais."
+      ],
+      [
+       "Quando chamamos a queda de livre no modelo escolar?",
+       "Quando só a gravidade atua de modo relevante."
+      ],
+      [
+       "Que forma tem v(t) com aceleração constante?",
+       "Uma reta."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

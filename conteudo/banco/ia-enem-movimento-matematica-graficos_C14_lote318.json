@@ -1,0 +1,253 @@
+{
+ "assunto": "Descrição matemática e gráfica do movimento",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-movimento-matematica-graficos-c14",
+   "titulo": "Descrição matemática e gráfica do movimento",
+   "microconteudo": "RAIO-X DA PROVA: Interprete a situação e justifique a conclusão com a relação física pertinente. No gráfico posição-tempo, a inclinação representa velocidade. No gráfico velocidade-tempo, a inclinação representa aceleração e a área algébrica representa deslocamento.\n\nPOR QUE IMPORTA:\nUm rastreador registra a posição de um carrinho em instantes sucessivos. A tabela de posições, a equação e o gráfico podem descrever o mesmo percurso, desde que adotem as mesmas unidades e a mesma origem.\n\nO QUE A BANCA COBRA:\nInterprete a situação e justifique a conclusão com a relação física pertinente. No gráfico posição-tempo, a inclinação representa velocidade. No gráfico velocidade-tempo, a inclinação representa aceleração e a área algébrica representa deslocamento.\n\nENTENDA:\nComece por esta situação: Um rastreador registra a posição de um carrinho em instantes sucessivos. A tabela de posições, a equação e o gráfico podem descrever o mesmo percurso, desde que adotem as mesmas unidades e a mesma origem. Leia os dados disponíveis e faça uma previsão antes de procurar uma fórmula. No gráfico posição-tempo, a inclinação representa velocidade. No gráfico velocidade-tempo, a inclinação representa aceleração e a área algébrica representa deslocamento. Se x = 2 + 3t, com x em metros e t em segundos, a posição inicial é 2 m e a velocidade é constante, +3 m/s.\n\nEm um gráfico posição-tempo com trecho curvo, a taxa média em todo um intervalo é dada pela inclinação da reta que liga os pontos inicial e final. A taxa instantânea corresponde à inclinação da tangente à curva naquele instante, quando ela é definida. Uma curva que sobe cada vez mais inclinada descreve posições que aumentam com rapidez crescente. Um segmento que desce uniformemente, por sua vez, representa velocidade negativa constante. O sinal da posição pode permanecer positivo mesmo durante o trecho descendente.\n\nNo gráfico velocidade-tempo, a área pode ser separada em formas conhecidas. Se a velocidade cresce linearmente de zero a 6 m/s em 4 s, o trecho forma um triângulo com o eixo horizontal. A área é 4 × 6/2 = 12 m. Se o gráfico contiver uma área de 12 m acima do eixo e outra de 5 m abaixo, o deslocamento algébrico vale 7 m. A distância percorrida nos dois trechos, quando cada um tem sinal constante, vale 17 m.\n\nConfira o significado das palavras da questão. O que é a ordenada inicial de x(t)? A posição registrada em t = 0.\nO que indica a inclinação de x(t)? A taxa de variação da posição com o tempo.\nO que mede a área algébrica sob v(t)? O deslocamento no intervalo.\nComo ler a inclinação de v(t)? Divida a variação de velocidade pelo intervalo de tempo.\nQuando um gráfico de posição horizontal indica repouso? Enquanto a posição se mantém fixa naquele referencial.\nQue gráfico pode cruzar zero sem que o móvel passe pela origem? O de velocidade em função do tempo. Se dois termos parecem próximos, compare o que cada um descreve no caso inicial. Em Física, trocar o nome de uma grandeza pode mudar o cálculo ou até o que se está tentando explicar. Escreva, ao lado de cada símbolo, qual parte da situação ele representa e em que unidade seria medido.\n\nExemplo 1. Um mapa registra o movimento x = 7 − 2t em metros e segundos. Qual é a posição em t = 2 s? A resposta é 3 m.. Substitua t por 2: 7 − 4 = 3. Esse é o deslocamento em dois segundos. Seria o valor em t = 1 s. É a posição inicial. Soma o deslocamento como se fosse positivo.\n\nExemplo 2. Um gráfico v(t) liga os pontos (0 s, 2 m/s) e (4 s, 10 m/s) por uma reta. Qual é a aceleração? A resposta é 2 m/s².. A diferença é de 8 m/s em 4 s. 8 m/s é a diferença de velocidades. Usa apenas a velocidade final no numerador. 4 s é o intervalo. A reta cresce no sentido do tempo.\n\nExemplo 3. Um carrinho tem v = +3 m/s por 2 s e v = −1 m/s pelos 2 s seguintes. Qual é o deslocamento total? A resposta é +4 m.. A área algébrica soma +6 m e −2 m. É a distância somando os módulos. Considera apenas o primeiro intervalo. Considera apenas o último intervalo. As áreas têm módulos diferentes.\n\nExemplo 4. As posições são 1 m, 4 m e 7 m nos instantes 0 s, 1 s e 2 s. O movimento é uniforme. Que expressão descreve a posição? A resposta é x = 1 + 3t.. A posição inicial é 1 m e a inclinação é +3 m/s. Troca a posição inicial pela taxa. Perde a posição inicial de 1 m. Indica movimento no sentido negativo. Assume origem temporal no último registro e sinal incorreto.\n\nTeste de interpretação. A posição cresce linearmente de 0 a 8 m em 4 s. Considere a afirmação: “A velocidade é +2 m/s nesse trecho.” Certo. A inclinação é 8/4. Uma reta horizontal no gráfico v(t) está acima de zero. Considere a afirmação: “O móvel está em repouso.” Errado. Ele tem velocidade positiva e constante. O gráfico de velocidade fica abaixo do eixo durante um intervalo. Considere a afirmação: “A área algébrica fornece deslocamento negativo.” Certo. A contribuição de uma velocidade negativa tem sinal negativo. Uma posição inicial de 5 m aparece em x = 5 + 2t. Considere a afirmação: “A posição após 3 s é 6 m.” Errado. 6 m é o deslocamento; a posição final é 11 m.\n\nUma sequência de resolução é útil quando a questão traz mais dados que o necessário. Primeiro, ler os nomes e as unidades dos eixos. Depois, separar o intervalo solicitado. Em seguida, usar ponto, inclinação ou área conforme a pergunta. Por último, expressar a resposta com unidade e sinal. Explique oralmente por que cada passo vem nessa posição. Se a última conclusão mudar quando você troca um detalhe do enunciado, localize qual hipótese provocou essa mudança. Isso ajuda a distinguir o resultado de uma conta das condições em que ele vale.\n\nEm uma prova, procure separar o que o texto observou, o que o modelo assume e o que você concluiu. Um valor informado é um dado. Uma condição como desprezar o atrito ou tratar o intervalo como uniforme pode ser uma hipótese. Já o resultado é aquilo que você obtém ao combinar os dados com a regra escolhida. Se houver tabela ou figura, confira a legenda, os eixos e as unidades antes de usar os números. Para revisar, refaça um dos exemplos mudando um dado por vez e preveja o sentido da mudança antes de calcular.\n\nCheck de leitura. Escolha dois exemplos desta lição e compare o papel de cada informação. O que foi medido diretamente? Qual relação precisou ser usada para inferir uma resposta? Há alguma observação que, sozinha, seria insuficiente? Se a resposta for um número, faça uma estimativa simples para checar se ele é plausível. Se for uma explicação, procure indicar qual condição a torna válida. Depois, tente escrever uma resposta que inclua o dado utilizado, o raciocínio e a conclusão em uma ou duas frases.\n\nAo montar um rascunho, deixe os dados de um lado e a conclusão do outro. Comece pelo dado que tem relação direta com a pergunta. Caso sobrem informações, veja se elas servem para comparar hipóteses ou apenas situar a história. Em uma comparação, mantenha a mesma referência e o mesmo intervalo sempre que o enunciado permitir. Quando um resultado contradiz a previsão inicial, revise primeiro a interpretação do que foi pedido; em seguida, revise a operação e as condições assumidas.\n\nPara fechar, compare estas duas situações e procure a diferença física entre elas. A posição cresce linearmente de 0 a 8 m em 4 s. Uma reta horizontal no gráfico v(t) está acima de zero. Quando o contexto muda, a leitura deve partir das informações apresentadas naquele caso. Considere a primeira afirmação e justifique o resultado: “A velocidade é +2 m/s nesse trecho.” Certo. A inclinação é 8/4. Agora avalie a segunda: “O móvel está em repouso.” Errado. Ele tem velocidade positiva e constante. Uma explicação adequada pode usar palavras e cálculos, desde que a relação com a situação seja clara. Pense em qual mudança nos dados tornaria cada afirmação válida ou inválida.\n\nUse este conjunto de definições como roteiro para checar o raciocínio. O que é a ordenada inicial de x(t)? A posição registrada em t = 0.\nO que indica a inclinação de x(t)? A taxa de variação da posição com o tempo.\nO que mede a área algébrica sob v(t)? O deslocamento no intervalo.\nComo ler a inclinação de v(t)? Divida a variação de velocidade pelo intervalo de tempo.\nQuando um gráfico de posição horizontal indica repouso? Enquanto a posição se mantém fixa naquele referencial.\nQue gráfico pode cruzar zero sem que o móvel passe pela origem? O de velocidade em função do tempo. Ao voltar aos dados do começo, selecione as definições pertinentes ao caso. Leia a conclusão como se ela fosse uma frase independente: confira a unidade, a referência adotada e a condição de validade.\n\nTROCANDO EM MIÚDOS:\nImagine a situação do começo da lição. Um rastreador registra a posição de um carrinho em instantes sucessivos. A tabela de posições, a equação e o gráfico podem descrever o mesmo percurso, desde que adotem as mesmas unidades e a mesma origem. Se x = 2 + 3t, com x em metros e t em segundos, a posição inicial é 2 m e a velocidade é constante, +3 m/s.\n\nA regra principal pode ser escrita assim: No gráfico posição-tempo, a inclinação representa velocidade. No gráfico velocidade-tempo, a inclinação representa aceleração e a área algébrica representa deslocamento. Tente explicar essa regra em voz alta para alguém que ainda não viu o conteúdo, usando o exemplo inicial como apoio.\n\nAntes de marcar uma alternativa, faça esta checagem. O que é a ordenada inicial de x(t)? A posição registrada em t = 0. O que indica a inclinação de x(t)? A taxa de variação da posição com o tempo. O que mede a área algébrica sob v(t)? O deslocamento no intervalo. Como ler a inclinação de v(t)? Divida a variação de velocidade pelo intervalo de tempo. Quando um gráfico de posição horizontal indica repouso? Enquanto a posição se mantém fixa naquele referencial. Que gráfico pode cruzar zero sem que o móvel passe pela origem? O de velocidade em função do tempo.\n\nEm um rascunho curto, anote quatro passos. Ler os nomes e as unidades dos eixos. Separar o intervalo solicitado. Usar ponto, inclinação ou área conforme a pergunta. Expressar a resposta com unidade e sinal. Em seguida, tente aplicar os passos a um exemplo com números ou condições diferentes. As grandezas que foram medidas e o que você quer descobrir devem ficar em linhas separadas. Isso ajuda a identificar qual informação ainda falta.\n\nExperimente responder a esta situação sem olhar as opções. Um mapa registra o movimento x = 7 − 2t em metros e segundos. Qual é a posição em t = 2 s? Substitua t por 2: 7 − 4 = 3. Depois, confira nos exemplos quais seriam as consequências de escolher uma interpretação diferente. Se tiver que refazer, comece pelas condições do problema e pelo significado de cada dado.\n\nPara fixar, releia uma afirmação verdadeira e uma falsa da lição. Reescreva a falsa trocando só o trecho necessário para corrigi-la. Na afirmação verdadeira, diga qual detalhe do enunciado permite chegar a essa conclusão. Assim você pratica explicar um resultado, além de reconhecer qual opção está certa.\n\nLEI SECA:\nNo gráfico posição-tempo, a inclinação representa velocidade. No gráfico velocidade-tempo, a inclinação representa aceleração e a área algébrica representa deslocamento.\n\nSÚMULAS E TESES:\nSe x = 2 + 3t, com x em metros e t em segundos, a posição inicial é 2 m e a velocidade é constante, +3 m/s.\n\nESQUEMA:\nLer os nomes e as unidades dos eixos → Separar o intervalo solicitado → Usar ponto, inclinação ou área conforme a pergunta → Expressar a resposta com unidade e sinal\n\nPEGADINHAS:\n1. Certo. A inclinação é 8/4.\n2. Errado. Ele tem velocidade positiva e constante.\n3. Certo. A contribuição de uma velocidade negativa tem sinal negativo.\n4. Errado. 6 m é o deslocamento; a posição final é 11 m.\n\nDOUTRINA:\nOpenStax — College Physics 2e, Graphical Analysis of One-Dimensional Motion\n\nNA PRÁTICA:\nExemplo 1. Um mapa registra o movimento x = 7 − 2t em metros e segundos. Qual é a posição em t = 2 s? A resposta é 3 m.. Substitua t por 2: 7 − 4 = 3. Esse é o deslocamento em dois segundos. Seria o valor em t = 1 s. É a posição inicial. Soma o deslocamento como se fosse positivo.",
+   "flashcards": [
+    {
+     "frente": "O que é a ordenada inicial de x(t)?",
+     "verso": "A posição registrada em t = 0.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Descrições do movimento e sua interpretação: quantificação do movimento e sua descrição matemática e gráfica"
+    },
+    {
+     "frente": "O que indica a inclinação de x(t)?",
+     "verso": "A taxa de variação da posição com o tempo.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Descrições do movimento e sua interpretação: quantificação do movimento e sua descrição matemática e gráfica"
+    },
+    {
+     "frente": "O que mede a área algébrica sob v(t)?",
+     "verso": "O deslocamento no intervalo.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Descrições do movimento e sua interpretação: quantificação do movimento e sua descrição matemática e gráfica"
+    },
+    {
+     "frente": "Como ler a inclinação de v(t)?",
+     "verso": "Divida a variação de velocidade pelo intervalo de tempo.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Descrições do movimento e sua interpretação: quantificação do movimento e sua descrição matemática e gráfica"
+    },
+    {
+     "frente": "Quando um gráfico de posição horizontal indica repouso?",
+     "verso": "Enquanto a posição se mantém fixa naquele referencial.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Descrições do movimento e sua interpretação: quantificação do movimento e sua descrição matemática e gráfica"
+    },
+    {
+     "frente": "Que gráfico pode cruzar zero sem que o móvel passe pela origem?",
+     "verso": "O de velocidade em função do tempo.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Descrições do movimento e sua interpretação: quantificação do movimento e sua descrição matemática e gráfica"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-movimento-matematica-graficos-c14-q01",
+     "tipo": "ce",
+     "texto_base": "A posição cresce linearmente de 0 a 8 m em 4 s.",
+     "enunciado": "A velocidade é +2 m/s nesse trecho.",
+     "gabarito": "C",
+     "comentario": "Certo. A inclinação é 8/4.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Descrições do movimento e sua interpretação: quantificação do movimento e sua descrição matemática e gráfica"
+    },
+    {
+     "id": "enem-fisica-movimento-matematica-graficos-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Uma reta horizontal no gráfico v(t) está acima de zero.",
+     "enunciado": "O móvel está em repouso.",
+     "gabarito": "E",
+     "comentario": "Errado. Ele tem velocidade positiva e constante.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Descrições do movimento e sua interpretação: quantificação do movimento e sua descrição matemática e gráfica"
+    },
+    {
+     "id": "enem-fisica-movimento-matematica-graficos-c14-q03",
+     "tipo": "ce",
+     "texto_base": "O gráfico de velocidade fica abaixo do eixo durante um intervalo.",
+     "enunciado": "A área algébrica fornece deslocamento negativo.",
+     "gabarito": "C",
+     "comentario": "Certo. A contribuição de uma velocidade negativa tem sinal negativo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Descrições do movimento e sua interpretação: quantificação do movimento e sua descrição matemática e gráfica"
+    },
+    {
+     "id": "enem-fisica-movimento-matematica-graficos-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Uma posição inicial de 5 m aparece em x = 5 + 2t.",
+     "enunciado": "A posição após 3 s é 6 m.",
+     "gabarito": "E",
+     "comentario": "Errado. 6 m é o deslocamento; a posição final é 11 m.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Descrições do movimento e sua interpretação: quantificação do movimento e sua descrição matemática e gráfica"
+    },
+    {
+     "id": "enem-fisica-movimento-matematica-graficos-c14-q05",
+     "tipo": "me",
+     "texto_base": "Um mapa registra o movimento x = 7 − 2t em metros e segundos.",
+     "enunciado": "Qual é a posição em t = 2 s?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "−4 m.",
+      "B": "3 m.",
+      "C": "5 m.",
+      "D": "7 m.",
+      "E": "11 m."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esse é o deslocamento em dois segundos.",
+      "B": "Correta. Substitua t por 2: 7 − 4 = 3.",
+      "C": "Seria o valor em t = 1 s.",
+      "D": "É a posição inicial.",
+      "E": "Soma o deslocamento como se fosse positivo."
+     },
+     "comentario": "A) Esse é o deslocamento em dois segundos.\nB) Correta. Substitua t por 2: 7 − 4 = 3.\nC) Seria o valor em t = 1 s.\nD) É a posição inicial.\nE) Soma o deslocamento como se fosse positivo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Descrições do movimento e sua interpretação: quantificação do movimento e sua descrição matemática e gráfica"
+    },
+    {
+     "id": "enem-fisica-movimento-matematica-graficos-c14-q06",
+     "tipo": "me",
+     "texto_base": "Um gráfico v(t) liga os pontos (0 s, 2 m/s) e (4 s, 10 m/s) por uma reta.",
+     "enunciado": "Qual é a aceleração?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "8 m/s².",
+      "B": "2,5 m/s².",
+      "C": "4 m/s².",
+      "D": "2 m/s².",
+      "E": "−2 m/s²."
+     },
+     "comentarios_por_alternativa": {
+      "A": "8 m/s é a diferença de velocidades.",
+      "B": "Usa apenas a velocidade final no numerador.",
+      "C": "4 s é o intervalo.",
+      "D": "Correta. A diferença é de 8 m/s em 4 s.",
+      "E": "A reta cresce no sentido do tempo."
+     },
+     "comentario": "A) 8 m/s é a diferença de velocidades.\nB) Usa apenas a velocidade final no numerador.\nC) 4 s é o intervalo.\nD) Correta. A diferença é de 8 m/s em 4 s.\nE) A reta cresce no sentido do tempo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Descrições do movimento e sua interpretação: quantificação do movimento e sua descrição matemática e gráfica"
+    },
+    {
+     "id": "enem-fisica-movimento-matematica-graficos-c14-q07",
+     "tipo": "me",
+     "texto_base": "Um carrinho tem v = +3 m/s por 2 s e v = −1 m/s pelos 2 s seguintes.",
+     "enunciado": "Qual é o deslocamento total?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "+4 m.",
+      "B": "+8 m.",
+      "C": "+6 m.",
+      "D": "−2 m.",
+      "E": "Zero."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. A área algébrica soma +6 m e −2 m.",
+      "B": "É a distância somando os módulos.",
+      "C": "Considera apenas o primeiro intervalo.",
+      "D": "Considera apenas o último intervalo.",
+      "E": "As áreas têm módulos diferentes."
+     },
+     "comentario": "A) Correta. A área algébrica soma +6 m e −2 m.\nB) É a distância somando os módulos.\nC) Considera apenas o primeiro intervalo.\nD) Considera apenas o último intervalo.\nE) As áreas têm módulos diferentes.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Descrições do movimento e sua interpretação: quantificação do movimento e sua descrição matemática e gráfica"
+    },
+    {
+     "id": "enem-fisica-movimento-matematica-graficos-c14-q08",
+     "tipo": "me",
+     "texto_base": "As posições são 1 m, 4 m e 7 m nos instantes 0 s, 1 s e 2 s. O movimento é uniforme.",
+     "enunciado": "Que expressão descreve a posição?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "x = 3 + t.",
+      "B": "x = 3t.",
+      "C": "x = 1 − 3t.",
+      "D": "x = 7 − 3t.",
+      "E": "x = 1 + 3t."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Troca a posição inicial pela taxa.",
+      "B": "Perde a posição inicial de 1 m.",
+      "C": "Indica movimento no sentido negativo.",
+      "D": "Assume origem temporal no último registro e sinal incorreto.",
+      "E": "Correta. A posição inicial é 1 m e a inclinação é +3 m/s."
+     },
+     "comentario": "A) Troca a posição inicial pela taxa.\nB) Perde a posição inicial de 1 m.\nC) Indica movimento no sentido negativo.\nD) Assume origem temporal no último registro e sinal incorreto.\nE) Correta. A posição inicial é 1 m e a inclinação é +3 m/s.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Descrições do movimento e sua interpretação: quantificação do movimento e sua descrição matemática e gráfica"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O que é a ordenada inicial de x(t)? Resposta: ___.",
+     "opcoes": [
+      "A posição registrada em t = 0.",
+      "A taxa de variação da posição com o tempo.",
+      "O deslocamento no intervalo.",
+      "Divida a variação de velocidade pelo intervalo de tempo."
+     ],
+     "respostas": [
+      "A posição registrada em t = 0."
+     ],
+     "explicacao": "A posição registrada em t = 0."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Quando um gráfico de posição horizontal indica repouso? Resposta: ___.",
+     "opcoes": [
+      "O deslocamento no intervalo.",
+      "Divida a variação de velocidade pelo intervalo de tempo.",
+      "Enquanto a posição se mantém fixa naquele referencial.",
+      "O de velocidade em função do tempo."
+     ],
+     "respostas": [
+      "Enquanto a posição se mantém fixa naquele referencial."
+     ],
+     "explicacao": "Enquanto a posição se mantém fixa naquele referencial."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma situação sobre descrição matemática e gráfica do movimento.",
+     "itens": [
+      "Ler os nomes e as unidades dos eixos.",
+      "Separar o intervalo solicitado.",
+      "Usar ponto, inclinação ou área conforme a pergunta.",
+      "Expressar a resposta com unidade e sinal."
+     ],
+     "explicacao": "No gráfico posição-tempo, a inclinação representa velocidade. No gráfico velocidade-tempo, a inclinação representa aceleração e a área algébrica representa deslocamento."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O que é a ordenada inicial de x(t)?",
+       "A posição registrada em t = 0."
+      ],
+      [
+       "O que indica a inclinação de x(t)?",
+       "A taxa de variação da posição com o tempo."
+      ],
+      [
+       "O que mede a área algébrica sob v(t)?",
+       "O deslocamento no intervalo."
+      ],
+      [
+       "Como ler a inclinação de v(t)?",
+       "Divida a variação de velocidade pelo intervalo de tempo."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

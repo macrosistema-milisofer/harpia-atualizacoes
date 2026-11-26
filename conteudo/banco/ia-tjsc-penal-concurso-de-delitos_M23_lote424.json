@@ -1,0 +1,221 @@
+{
+ "assunto": "Concurso material, formal e crime continuado",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tjsc-penal-concurso-de-delitos",
+   "titulo": "Concurso material, formal e crime continuado",
+   "microconteudo": "RAIO-X DA PROVA: Conte condutas e infrações, examine desígnios e condições de continuidade e calcule a pena conforme o sistema aplicável.\n\nO QUE A BANCA COBRA:\nConte condutas e infrações, examine desígnios e condições de continuidade e calcule a pena conforme o sistema aplicável.\n\nENTENDA:\n1. Concurso material. Mais de uma ação ou omissão dá origem a dois ou mais crimes, idênticos ou não. O art. 69 prevê aplicação cumulativa das penas privativas de liberdade. Se podem coexistir reclusão e detenção, executa-se primeiro a reclusão.\n\n2. Concurso formal próprio. Uma ação ou omissão produz dois ou mais crimes e, nas condições do art. 70, aplica-se a pena mais grave ou uma das iguais, aumentada de um sexto até metade. A pena não pode superar a que resultaria da regra do concurso material.\n\n3. Concurso formal impróprio. Se a ação ou omissão é dolosa e os crimes concorrentes resultam de desígnios autônomos, as penas são aplicadas cumulativamente. A unidade física do ato não torna necessária a exasperação.\n\n4. Crime continuado. Pluralidade de condutas e crimes da mesma espécie deve vir acompanhada de condições semelhantes de tempo, lugar, modo de execução e outras que permitam tratar os seguintes como continuação do primeiro. A jurisprudência exige vínculo subjetivo, além dos elementos objetivos.\n\n5. Continuidade específica. Em crimes dolosos contra vítimas diferentes, cometidos com violência ou grave ameaça à pessoa, o art. 71, parágrafo único, admite elevação até o triplo, conforme os requisitos e vetores legais. Na continuidade comum, o aumento vai de um sexto a dois terços.\n\n6. Multas. O art. 72 prevê aplicação distinta e integral das multas no concurso. Na jurisprudência do STJ, a continuidade delitiva recebe disciplina distinta, com exasperação da multa em vez de soma pelo art. 72. Identifique em prova se a pergunta pede texto legal ou aplicação jurisprudencial.\n\nTROCANDO EM MIÚDOS:\nDuas ações independentes praticam dois delitos distintos. O art. 69 associa pluralidade de condutas e crimes à soma.\n\nUma ação dolosa realiza dois delitos com desígnios autônomos. O art. 70 excepciona a exasperação.\n\nUm caso formal próprio tem penas de dois anos e dois meses, com fração de um sexto. Dois anos mais um sexto ultrapassariam dois anos e dois meses.\n\nDOUTRINA:\nO cúmulo preserva toda pena individual. A exasperação aumenta uma pena de referência. A continuidade delitiva constitui unidade para determinados efeitos da aplicação da pena.\n\nPEGADINHAS:\n• São necessárias duas ou mais condutas.\n• O art. 70, parágrafo único, limita o resultado.\n\nESQUEMA:\nConte condutas e infrações → teste desígnios ou continuidade → aplique soma ou exasperação → examine multas.\n\nLIGAÇÕES:\nCP, arts. 69–72.",
+   "flashcards": [
+    {
+     "frente": "Como reconhecer concurso material em um caso?",
+     "verso": "Mais de uma ação ou omissão dá origem a dois ou mais crimes, idênticos ou não. O art. 69 prevê aplicação cumulativa das penas privativas de liberdade. Se podem coexistir reclusão e detenção, executa-se primeiro a reclusão.",
+     "dispositivo": "CP, arts. 69–72"
+    },
+    {
+     "frente": "Como reconhecer concurso formal próprio em um caso?",
+     "verso": "Uma ação ou omissão produz dois ou mais crimes e, nas condições do art. 70, aplica-se a pena mais grave ou uma das iguais, aumentada de um sexto até metade. A pena não pode superar a que resultaria da regra do concurso material.",
+     "dispositivo": "CP, arts. 69–72"
+    },
+    {
+     "frente": "Como reconhecer concurso formal impróprio em um caso?",
+     "verso": "Se a ação ou omissão é dolosa e os crimes concorrentes resultam de desígnios autônomos, as penas são aplicadas cumulativamente. A unidade física do ato não torna necessária a exasperação.",
+     "dispositivo": "CP, arts. 69–72"
+    },
+    {
+     "frente": "Como reconhecer crime continuado em um caso?",
+     "verso": "Pluralidade de condutas e crimes da mesma espécie deve vir acompanhada de condições semelhantes de tempo, lugar, modo de execução e outras que permitam tratar os seguintes como continuação do primeiro. A jurisprudência exige vínculo subjetivo, além dos elementos objetivos.",
+     "dispositivo": "CP, arts. 69–72"
+    },
+    {
+     "frente": "Como reconhecer continuidade específica em um caso?",
+     "verso": "Em crimes dolosos contra vítimas diferentes, cometidos com violência ou grave ameaça à pessoa, o art. 71, parágrafo único, admite elevação até o triplo, conforme os requisitos e vetores legais. Na continuidade comum, o aumento vai de um sexto a dois terços.",
+     "dispositivo": "CP, arts. 69–72"
+    },
+    {
+     "frente": "Como reconhecer multas em um caso?",
+     "verso": "O art. 72 prevê aplicação distinta e integral das multas no concurso. Na jurisprudência do STJ, a continuidade delitiva recebe disciplina distinta, com exasperação da multa em vez de soma pelo art. 72. Identifique em prova se a pergunta pede texto legal ou aplicação jurisprudencial.",
+     "dispositivo": "CP, arts. 69–72"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Duas ações independentes praticam dois delitos distintos. Aplica-se em regra o cúmulo material.",
+     "gabarito": "C",
+     "comentario": "O art. 69 associa pluralidade de condutas e crimes à soma.",
+     "dispositivo": "CP, arts. 69–72"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Crime continuado pressupõe obrigatoriamente uma única ação.",
+     "gabarito": "E",
+     "comentario": "São necessárias duas ou mais condutas.",
+     "dispositivo": "CP, arts. 69–72"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Uma ação dolosa realiza dois delitos com desígnios autônomos. A consequência pode ser a soma.",
+     "gabarito": "C",
+     "comentario": "O art. 70 excepciona a exasperação.",
+     "dispositivo": "CP, arts. 69–72"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A exasperação do concurso formal pode superar o cúmulo material.",
+     "gabarito": "E",
+     "comentario": "O art. 70, parágrafo único, limita o resultado.",
+     "dispositivo": "CP, arts. 69–72"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Quais elementos descrevem concurso material?",
+     "alternativas": {
+      "A": "Pluralidade de condutas e pluralidade de crimes.",
+      "B": "Uma só conduta sem pluralidade de crimes.",
+      "C": "Uma só conduta com dois delitos e unidade de desígnio.",
+      "D": "Sempre crime permanente."
+     },
+     "gabarito": "A",
+     "comentario": "A (correta). É a hipótese do art. 69. B (incorreta). Não há concurso. C (incorreta). Indica exame de concurso formal. D (incorreta). Permanência é categoria distinta.",
+     "comentarios_por_alternativa": {
+      "A": "É a hipótese do art. 69.",
+      "B": "Não há concurso.",
+      "C": "Indica exame de concurso formal.",
+      "D": "Permanência é categoria distinta."
+     },
+     "dispositivo": "CP, arts. 69–72"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Qual é a faixa do aumento no concurso formal próprio?",
+     "alternativas": {
+      "A": "Um sexto a dois terços.",
+      "B": "Um sexto até metade.",
+      "C": "Até o triplo sempre.",
+      "D": "Sem aumento algum."
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). É a faixa da continuidade comum. B (correta). Art. 70, caput. C (incorreta). Hipótese de continuidade específica. D (incorreta). Há exasperação.",
+     "comentarios_por_alternativa": {
+      "A": "É a faixa da continuidade comum.",
+      "B": "Art. 70, caput.",
+      "C": "Hipótese de continuidade específica.",
+      "D": "Há exasperação."
+     },
+     "dispositivo": "CP, arts. 69–72"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Qual dado falta em crimes semelhantes praticados em momentos próximos sem vínculo entre episódios?",
+     "alternativas": {
+      "A": "A existência de mais de uma conduta.",
+      "B": "A aplicação imediata de crime único.",
+      "C": "A relação de continuidade necessária à incidência do art. 71.",
+      "D": "A condição obrigatória de igualdade das vítimas em todo crime continuado."
+     },
+     "gabarito": "C",
+     "comentario": "A (incorreta). As condutas já são plurais. B (incorreta). Não decorre dos fatos. C (correta). Semelhança temporal sozinha é insuficiente. D (incorreta). A própria lei prevê hipótese com vítimas diferentes.",
+     "comentarios_por_alternativa": {
+      "A": "As condutas já são plurais.",
+      "B": "Não decorre dos fatos.",
+      "C": "Semelhança temporal sozinha é insuficiente.",
+      "D": "A própria lei prevê hipótese com vítimas diferentes."
+     },
+     "dispositivo": "CP, arts. 69–72"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "O que o CP prevê para o concurso formal doloso com desígnios autônomos?",
+     "alternativas": {
+      "A": "Absorção obrigatória.",
+      "B": "Redução de um a dois terços.",
+      "C": "Aplicação obrigatória da pena mínima.",
+      "D": "Aplicação cumulativa das penas."
+     },
+     "gabarito": "D",
+     "comentario": "A (incorreta). Desígnios autônomos afastam exasperação simples. B (incorreta). Não é tentativa. C (incorreta). A individualização permanece. D (correta). Art. 70, parte final.",
+     "comentarios_por_alternativa": {
+      "A": "Desígnios autônomos afastam exasperação simples.",
+      "B": "Não é tentativa.",
+      "C": "A individualização permanece.",
+      "D": "Art. 70, parte final."
+     },
+     "dispositivo": "CP, arts. 69–72"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Resposta: ___. O que o CP prevê para o concurso formal doloso com desígnios autônomos?",
+     "opcoes": [
+      "Aplicação cumulativa das penas.",
+      "Absorção obrigatória.",
+      "Redução de um a dois terços.",
+      "Aplicação obrigatória da pena mínima."
+     ],
+     "respostas": [
+      "Aplicação cumulativa das penas."
+     ],
+     "explicacao": "Art. 70, parte final.",
+     "dispositivo": "CP, arts. 69–72"
+    },
+    {
+     "tipo": "associacao",
+     "pares": [
+      {
+       "esquerda": "Concurso material",
+       "direita": "Mais de uma ação ou omissão dá origem a dois ou mais crimes, idênticos ou não. O art. 69 prevê aplicação cumulativa das penas privativas de liberdade. Se podem coexistir reclusão e detenção, executa-se primeiro a reclusão."
+      },
+      {
+       "esquerda": "Concurso formal próprio",
+       "direita": "Uma ação ou omissão produz dois ou mais crimes e, nas condições do art. 70, aplica-se a pena mais grave ou uma das iguais, aumentada de um sexto até metade. A pena não pode superar a que resultaria da regra do concurso material."
+      },
+      {
+       "esquerda": "Concurso formal impróprio",
+       "direita": "Se a ação ou omissão é dolosa e os crimes concorrentes resultam de desígnios autônomos, as penas são aplicadas cumulativamente. A unidade física do ato não torna necessária a exasperação."
+      }
+     ],
+     "explicacao": "Associe cada conceito ao seu efeito.",
+     "dispositivo": "CP, arts. 69–72"
+    },
+    {
+     "tipo": "classificacao",
+     "itens": [
+      {
+       "enunciado": "Duas ações independentes praticam dois delitos distintos.",
+       "resposta": "O art. 69 associa pluralidade de condutas e crimes à soma."
+      },
+      {
+       "enunciado": "Uma ação dolosa realiza dois delitos com desígnios autônomos.",
+       "resposta": "O art. 70 excepciona a exasperação."
+      },
+      {
+       "enunciado": "Um caso formal próprio tem penas de dois anos e dois meses, com fração de um sexto.",
+       "resposta": "Dois anos mais um sexto ultrapassariam dois anos e dois meses."
+      }
+     ],
+     "explicacao": "Identifique a categoria aplicável em cada situação.",
+     "dispositivo": "CP, arts. 69–72"
+    },
+    {
+     "tipo": "caso_pratico",
+     "enunciado": "Um caso formal próprio tem penas de dois anos e dois meses, com fração de um sexto. Como resolver?",
+     "resposta": "Dois anos mais um sexto ultrapassariam dois anos e dois meses.",
+     "explicacao": "Dois anos mais um sexto ultrapassariam dois anos e dois meses.",
+     "dispositivo": "CP, arts. 69–72"
+    }
+   ]
+  }
+ ]
+}

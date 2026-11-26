@@ -1,0 +1,221 @@
+{
+ "assunto": "Órgãos da execução penal e competências",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tjsc-penal-orgaos-da-execucao-penal",
+   "titulo": "Órgãos da execução penal e competências",
+   "microconteudo": "RAIO-X DA PROVA: Associe cada órgão à sua atribuição legal e identifique a autoridade competente para decidir incidentes.\n\nO QUE A BANCA COBRA:\nAssocie cada órgão à sua atribuição legal e identifique a autoridade competente para decidir incidentes.\n\nENTENDA:\n1. CNPCP. O Conselho Nacional de Política Criminal e Penitenciária propõe diretrizes de política criminal e penitenciária e exerce atribuições de avaliação e inspeção. Sua atuação nacional tem função de orientação e fiscalização, conforme art. 64.\n\n2. Juízo da execução. A competência decorre da organização judiciária, com regra supletiva no art. 65. Entre as atribuições do art. 66 estão soma e unificação, progressão e regressão, detração, remição e fiscalização do correto cumprimento da pena.\n\n3. Ministério Público e Defensoria. O Ministério Público fiscaliza a execução, oficia no processo e requer medidas pertinentes. A Defensoria vela pela regular execução e atua na defesa individual e coletiva de necessitados, com atribuições próprias nos arts. 81-A e 81-B.\n\n4. Conselho Penitenciário. É órgão consultivo e fiscalizador. Emite parecer sobre indulto e comutação, ressalvada a hipótese legal de pedido de indulto com base no estado de saúde. Também inspeciona estabelecimentos e serviços.\n\n5. Departamentos e direções. O departamento nacional desempenha funções executivas, de supervisão, cooperação técnica e coordenação descritas na lei. O departamento local ou equivalente supervisiona e coordena unidades da respectiva federação. Direção e pessoal administram o estabelecimento nas atribuições legais.\n\n6. Patronato e Conselho da Comunidade. O Patronato assiste albergados e egressos e exerce atribuições de orientação e fiscalização. O Conselho da Comunidade visita estabelecimentos, entrevista presos, apresenta relatórios e diligencia recursos nas condições legais.\n\nTROCANDO EM MIÚDOS:\nUma pessoa pede reconhecimento de remição. A unidade fornece registros, mas o art. 66 atribui a decisão ao juízo.\n\nUm conselho local entrevista detentos e relata condições de atendimento. Visita, entrevista e relatório constam do art. 81.\n\nUm egresso busca orientação imediata. A finalidade dos arts. 78–79 é voltada a egressos e albergados.\n\nDOUTRINA:\nA distribuição funcional combina decisão jurisdicional, fiscalização, defesa técnica, gestão administrativa e participação comunitária.\n\nPEGADINHAS:\n• A Defensoria consta do art. 61 e tem atribuições específicas.\n• A unificação compete ao juízo da execução.\n\nESQUEMA:\nDefina quem pede, quem fiscaliza e quem decide → confira o rol legal de atribuições.\n\nLIGAÇÕES:\nLEP, arts. 61–81-B.",
+   "flashcards": [
+    {
+     "frente": "Como reconhecer cNPCP em um caso?",
+     "verso": "O Conselho Nacional de Política Criminal e Penitenciária propõe diretrizes de política criminal e penitenciária e exerce atribuições de avaliação e inspeção. Sua atuação nacional tem função de orientação e fiscalização, conforme art. 64.",
+     "dispositivo": "LEP, arts. 61–81-B"
+    },
+    {
+     "frente": "Como reconhecer juízo da execução em um caso?",
+     "verso": "A competência decorre da organização judiciária, com regra supletiva no art. 65. Entre as atribuições do art. 66 estão soma e unificação, progressão e regressão, detração, remição e fiscalização do correto cumprimento da pena.",
+     "dispositivo": "LEP, arts. 61–81-B"
+    },
+    {
+     "frente": "Como reconhecer ministério Público e Defensoria em um caso?",
+     "verso": "O Ministério Público fiscaliza a execução, oficia no processo e requer medidas pertinentes. A Defensoria vela pela regular execução e atua na defesa individual e coletiva de necessitados, com atribuições próprias nos arts. 81-A e 81-B.",
+     "dispositivo": "LEP, arts. 61–81-B"
+    },
+    {
+     "frente": "Como reconhecer conselho Penitenciário em um caso?",
+     "verso": "É órgão consultivo e fiscalizador. Emite parecer sobre indulto e comutação, ressalvada a hipótese legal de pedido de indulto com base no estado de saúde. Também inspeciona estabelecimentos e serviços.",
+     "dispositivo": "LEP, arts. 61–81-B"
+    },
+    {
+     "frente": "Como reconhecer departamentos e direções em um caso?",
+     "verso": "O departamento nacional desempenha funções executivas, de supervisão, cooperação técnica e coordenação descritas na lei. O departamento local ou equivalente supervisiona e coordena unidades da respectiva federação. Direção e pessoal administram o estabelecimento nas atribuições legais.",
+     "dispositivo": "LEP, arts. 61–81-B"
+    },
+    {
+     "frente": "Como reconhecer patronato e Conselho da Comunidade em um caso?",
+     "verso": "O Patronato assiste albergados e egressos e exerce atribuições de orientação e fiscalização. O Conselho da Comunidade visita estabelecimentos, entrevista presos, apresenta relatórios e diligencia recursos nas condições legais.",
+     "dispositivo": "LEP, arts. 61–81-B"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Uma pessoa pede reconhecimento de remição. A decisão é do juízo da execução.",
+     "gabarito": "C",
+     "comentario": "A unidade fornece registros, mas o art. 66 atribui a decisão ao juízo.",
+     "dispositivo": "LEP, arts. 61–81-B"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A Defensoria Pública fica fora do rol de órgãos da execução.",
+     "gabarito": "E",
+     "comentario": "A Defensoria consta do art. 61 e tem atribuições específicas.",
+     "dispositivo": "LEP, arts. 61–81-B"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Um conselho local entrevista detentos e relata condições de atendimento. A atividade é compatível com o Conselho da Comunidade.",
+     "gabarito": "C",
+     "comentario": "Visita, entrevista e relatório constam do art. 81.",
+     "dispositivo": "LEP, arts. 61–81-B"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A direção do presídio pode unificar penas sem decisão judicial.",
+     "gabarito": "E",
+     "comentario": "A unificação compete ao juízo da execução.",
+     "dispositivo": "LEP, arts. 61–81-B"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Quem propõe diretrizes nacionais de política criminal e penitenciária?",
+     "alternativas": {
+      "A": "CNPCP.",
+      "B": "Patronato particular.",
+      "C": "Diretor de cadeia pública.",
+      "D": "Conselho Tutelar."
+     },
+     "gabarito": "A",
+     "comentario": "A (correta). Exerce atribuição do art. 64. B (incorreta). Tem assistência a egressos e albergados. C (incorreta). Sua função é local e administrativa. D (incorreta). Não integra o rol.",
+     "comentarios_por_alternativa": {
+      "A": "Exerce atribuição do art. 64.",
+      "B": "Tem assistência a egressos e albergados.",
+      "C": "Sua função é local e administrativa.",
+      "D": "Não integra o rol."
+     },
+     "dispositivo": "LEP, arts. 61–81-B"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Quem fiscaliza a execução e oficia no processo executivo como instituição de acusação?",
+     "alternativas": {
+      "A": "Patronato.",
+      "B": "Ministério Público.",
+      "C": "Colegiado de jurados.",
+      "D": "Departamento local sozinho."
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). Tem atribuições assistenciais e de fiscalização específicas. B (correta). São funções do art. 67. C (incorreta). Não oficia na execução. D (incorreta). A supervisão administrativa não substitui o MP.",
+     "comentarios_por_alternativa": {
+      "A": "Tem atribuições assistenciais e de fiscalização específicas.",
+      "B": "São funções do art. 67.",
+      "C": "Não oficia na execução.",
+      "D": "A supervisão administrativa não substitui o MP."
+     },
+     "dispositivo": "LEP, arts. 61–81-B"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Que órgão exerce função consultiva e fiscalizadora prevista no art. 69?",
+     "alternativas": {
+      "A": "Conselho de Sentença.",
+      "B": "Delegacia regional.",
+      "C": "Conselho Penitenciário.",
+      "D": "Comissão de licitação."
+     },
+     "gabarito": "C",
+     "comentario": "A (incorreta). Integra o Júri. B (incorreta). Não é designação do art. 69. C (correta). É a definição legal. D (incorreta). Atua em regime administrativo distinto.",
+     "comentarios_por_alternativa": {
+      "A": "Integra o Júri.",
+      "B": "Não é designação do art. 69.",
+      "C": "É a definição legal.",
+      "D": "Atua em regime administrativo distinto."
+     },
+     "dispositivo": "LEP, arts. 61–81-B"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Quem pode decidir formalmente progressão ou regressão?",
+     "alternativas": {
+      "A": "Conselho da Comunidade.",
+      "B": "Patronato.",
+      "C": "Servidor encarregado da contagem.",
+      "D": "Juízo da execução."
+     },
+     "gabarito": "D",
+     "comentario": "A (incorreta). Coopera sem decidir o benefício. B (incorreta). Sua função não abrange decisão. C (incorreta). O cálculo subsidia a decisão. D (correta). É competência jurisdicional do art. 66.",
+     "comentarios_por_alternativa": {
+      "A": "Coopera sem decidir o benefício.",
+      "B": "Sua função não abrange decisão.",
+      "C": "O cálculo subsidia a decisão.",
+      "D": "É competência jurisdicional do art. 66."
+     },
+     "dispositivo": "LEP, arts. 61–81-B"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Resposta: ___. Quem pode decidir formalmente progressão ou regressão?",
+     "opcoes": [
+      "Juízo da execução.",
+      "Conselho da Comunidade.",
+      "Patronato.",
+      "Servidor encarregado da contagem."
+     ],
+     "respostas": [
+      "Juízo da execução."
+     ],
+     "explicacao": "É competência jurisdicional do art. 66.",
+     "dispositivo": "LEP, arts. 61–81-B"
+    },
+    {
+     "tipo": "associacao",
+     "pares": [
+      {
+       "esquerda": "CNPCP",
+       "direita": "O Conselho Nacional de Política Criminal e Penitenciária propõe diretrizes de política criminal e penitenciária e exerce atribuições de avaliação e inspeção. Sua atuação nacional tem função de orientação e fiscalização, conforme art. 64."
+      },
+      {
+       "esquerda": "Juízo da execução",
+       "direita": "A competência decorre da organização judiciária, com regra supletiva no art. 65. Entre as atribuições do art. 66 estão soma e unificação, progressão e regressão, detração, remição e fiscalização do correto cumprimento da pena."
+      },
+      {
+       "esquerda": "Ministério Público e Defensoria",
+       "direita": "O Ministério Público fiscaliza a execução, oficia no processo e requer medidas pertinentes. A Defensoria vela pela regular execução e atua na defesa individual e coletiva de necessitados, com atribuições próprias nos arts. 81-A e 81-B."
+      }
+     ],
+     "explicacao": "Associe cada conceito ao seu efeito.",
+     "dispositivo": "LEP, arts. 61–81-B"
+    },
+    {
+     "tipo": "classificacao",
+     "itens": [
+      {
+       "enunciado": "Uma pessoa pede reconhecimento de remição.",
+       "resposta": "A unidade fornece registros, mas o art. 66 atribui a decisão ao juízo."
+      },
+      {
+       "enunciado": "Um conselho local entrevista detentos e relata condições de atendimento.",
+       "resposta": "Visita, entrevista e relatório constam do art. 81."
+      },
+      {
+       "enunciado": "Um egresso busca orientação imediata.",
+       "resposta": "A finalidade dos arts. 78–79 é voltada a egressos e albergados."
+      }
+     ],
+     "explicacao": "Identifique a categoria aplicável em cada situação.",
+     "dispositivo": "LEP, arts. 61–81-B"
+    },
+    {
+     "tipo": "caso_pratico",
+     "enunciado": "Um egresso busca orientação imediata. Como resolver?",
+     "resposta": "A finalidade dos arts. 78–79 é voltada a egressos e albergados.",
+     "explicacao": "A finalidade dos arts. 78–79 é voltada a egressos e albergados.",
+     "dispositivo": "LEP, arts. 61–81-B"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,253 @@
+{
+ "assunto": "Número atômico, número de massa e isótopos",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-numero-atomico-isotopos-c14",
+   "titulo": "Número atômico, número de massa e isótopos",
+   "microconteudo": "RAIO-X DA PROVA: Assunto do edital de Ciências da Natureza. A interpretação de dados ajuda a resolver situações-problema sobre esse conteúdo.\n\nPOR QUE IMPORTA:\nNúmero atômico, número de massa e isótopos ajuda a traduzir observações e símbolos em explicações que você pode conferir. Nesta lição, você vai praticar a leitura de dados e justificar o resultado.\n\nO QUE A BANCA COBRA:\nIdentifique o que o problema descreve e escolha a conclusão explicada pelos dados. Revise a unidade, a entidade representada e as condições de aplicação quando elas fizerem parte do problema.\n\nENTENDA:\nZ conta prótons, A conta prótons e nêutrons, e N = A − Z. Isótopos têm o mesmo Z e diferentes A. A massa atômica média usa massas isotópicas ponderadas por suas abundâncias. Número de massa é inteiro e indica uma contagem, enquanto massa isotópica é medida em unidades de massa atômica.\n\nPara 75% de átomos de 35 u e 25% de 37 u, a média é 0,75 × 35 + 0,25 × 37 = 35,5 u. Cada átomo pertence a um dos isótopos. Os valores são arredondados para facilitar o cálculo da média.\n\nUma média ponderada precisa cair entre as massas das espécies presentes. Se um isótopo for claramente mais abundante, a média tende a ficar perto da sua massa. Essa verificação permite eliminar cálculos absurdos com uma olhada. Também explica por que o número exibido na tabela periódica pode trazer casas decimais sem contradizer a contagem inteira de prótons e nêutrons.\n\nPrimeiro caso: ligue os dados à regra\nUm núcleo tem 17 prótons e 20 nêutrons. Qual A?\n\nComece lendo o enunciado como um pequeno relatório. Anote em uma linha o material ou sistema descrito e, em outra, o que se quer descobrir. Essa divisão evita misturar um dado já fornecido com o resultado pedido. Escolha a regra depois de localizar o que, no texto, autoriza sua aplicação. Ao terminar, teste se a resposta ainda faz sentido ao substituir os valores ou reler a observação.\n\nResultado: 37 17 + 20 = 37.\n\nCompare as hipóteses e os cálculos alternativos:\n• 17 É Z.\n• 20 É N.\n• 3 É a diferença.\n• 40 A soma é 37.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nSegundo caso: cuide da condição que permite a conclusão\n90% dos átomos têm 10 u e 10% têm 11 u. Qual a média?\n\nCompare as interpretações antes de escolher. Duas respostas podem usar os mesmos termos ou números e ainda se referir a grandezas diferentes. Se houver unidades, escreva a unidade junto a cada valor. Se houver contagens, diga o que está sendo contado. Se a questão for explicativa, procure a relação de causa e efeito que é compatível com as condições fornecidas. Só então feche a resposta.\n\nResultado: 10,1 u 0,90 × 10 + 0,10 × 11.\n\nCompare as hipóteses e os cálculos alternativos:\n• 10,5 u Exige pesos iguais.\n• 11 u Ignora o grupo majoritário.\n• 10,9 u Troca os pesos.\n• 21 u Soma sem ponderar.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nTerceiro caso: confira o que a pergunta está medindo\nX e Y têm A = 40 e Z = 18 e 20. Qual a relação?\n\nFaça uma primeira previsão usando palavras. Pergunte se o resultado esperado é uma contagem, uma propriedade, uma comparação ou um mecanismo. Escrever a previsão antes de olhar as alternativas ajuda a perceber quando dois valores semelhantes têm sentidos diferentes. Em seguida, explique em uma frase como o primeiro dado se conecta ao resultado. A resposta fica mais forte quando essa ligação pode ser checada no próprio enunciado.\n\nResultado: Mesmo A e elementos diferentes. Z difere.\n\nCompare as hipóteses e os cálculos alternativos:\n• Isótopos. Isótopos têm Z igual.\n• Mesmo N. N é 22 e 20.\n• Mesmo Z. Os valores são distintos.\n• Mesma carga necessariamente. Faltam os elétrons.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nQuarto caso: escolha a conclusão sustentada\nUm átomo com A = 23 e Z = 11 perde um elétron. Como ficam A e Z?\n\nTente justificar a escolha para alguém que observou apenas o resultado final. Comece pelos fatos que o problema realmente fornece e mostre como a regra interpreta esses fatos. Se a conclusão depender de uma condição, mantenha essa condição na justificativa. Depois procure uma alteração pequena nos dados que exigiria outra resposta. Esse último passo ajuda a reconhecer onde termina a aplicação do raciocínio.\n\nResultado: 23 e 11 O núcleo não muda.\n\nCompare as hipóteses e os cálculos alternativos:\n• 22 e 11 A não inclui elétrons.\n• 23 e 10 Z conta prótons.\n• 24 e 12 Não há acréscimo nuclear.\n• 23 e 12 A carga não vem de um próton novo.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nLeitura crítica 1\nUm átomo tem A = 39 e Z = 19. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “Tem 20 nêutrons.” N = 39 − 19. A segunda é “Tem 39 nêutrons.” 39 conta todos os núcleons.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nLeitura crítica 2\nCarbono-12 e carbono-13 têm 6 prótons. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “São isótopos.” Mesmo Z e números de massa diferentes. A segunda é “São elementos diferentes.” O número de prótons é o mesmo.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nCheque o alcance da conclusão\nZ conta prótons, A conta prótons e nêutrons, e N = A − Z. Isótopos têm o mesmo Z e diferentes A. A massa atômica média usa massas isotópicas ponderadas por suas abundâncias. Número de massa é inteiro e indica uma contagem, enquanto massa isotópica é medida em unidades de massa atômica.\n\nAo estudar, escolha uma das situações acima e altere só um dado. Explique quais partes da solução continuam iguais e quais precisam ser refeitas. Num problema numérico, experimente multiplicar o dado alterado por dois e veja se a resposta dobra, diminui ou continua igual. Num problema de classificação, tente retirar a observação decisiva e veja quais hipóteses continuam compatíveis. Isso separa a regra geral da informação específica fornecida por uma questão.\n\nTROCANDO EM MIÚDOS:\nComece por uma pergunta que você conseguiria fazer a um colega: o que mudou, o que ficou igual e qual informação me permite dizer isso? Em questões de Química, dá para errar mesmo lembrando a regra certa quando se usa a regra para o dado errado. Separe a situação da pergunta. Leia os símbolos em voz baixa. Se houver dois materiais ou dois momentos, dê um nome curto para cada um. Assim você consegue comparar as coisas na ordem que o texto pediu.\n\nPara 75% de átomos de 35 u e 25% de 37 u, a média é 0,75 × 35 + 0,25 × 37 = 35,5 u. Cada átomo pertence a um dos isótopos. Os valores são arredondados para facilitar o cálculo da média.\n\nExperimente com este caso. Um núcleo tem 17 prótons e 20 nêutrons. Qual A? A resposta é 37 17 + 20 = 37. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nExperimente com este caso. Um átomo com A = 23 e Z = 11 perde um elétron. Como ficam A e Z? A resposta é 23 e 11 O núcleo não muda. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nFaça uma checagem que cabe no rascunho: escreva o dado, desenhe uma seta e escreva o que ele permite concluir. Se precisar de uma segunda seta, diga qual regra leva desse resultado intermediário até a resposta. Uma explicação em duas frases pode ser suficiente. A primeira conta o que o problema mostrou. A segunda diz por que esse dado leva à sua escolha. Esse caminho ajuda em problemas com tabelas, desenhos e comparações.\n\nESQUEMA:\nLeia o cenário → destaque o dado decisivo → aplique a relação → confira o que foi pedido.\n\nPEGADINHAS:\n• 17 É Z.\n• 10,5 u Exige pesos iguais.\n• Isótopos. Isótopos têm Z igual.\n• 22 e 11 A não inclui elétrons.\n\nNA PRÁTICA:\nPara 75% de átomos de 35 u e 25% de 37 u, a média é 0,75 × 35 + 0,25 × 37 = 35,5 u. Cada átomo pertence a um dos isótopos. Os valores são arredondados para facilitar o cálculo da média.",
+   "flashcards": [
+    {
+     "frente": "Um átomo tem A = 39 e Z = 19. Tem 20 nêutrons. Certo ou errado?",
+     "verso": "Certo. N = 39 − 19.",
+     "dispositivo": "Transformações químicas — Número atômico, número de massa, isótopos, massa atômica"
+    },
+    {
+     "frente": "Carbono-12 e carbono-13 têm 6 prótons. São isótopos. Certo ou errado?",
+     "verso": "Certo. Mesmo Z e números de massa diferentes.",
+     "dispositivo": "Transformações químicas — Número atômico, número de massa, isótopos, massa atômica"
+    },
+    {
+     "frente": "Um núcleo tem 17 prótons e 20 nêutrons. Qual A?",
+     "verso": "37 17 + 20 = 37.",
+     "dispositivo": "Transformações químicas — Número atômico, número de massa, isótopos, massa atômica"
+    },
+    {
+     "frente": "90% dos átomos têm 10 u e 10% têm 11 u. Qual a média?",
+     "verso": "10,1 u 0,90 × 10 + 0,10 × 11.",
+     "dispositivo": "Transformações químicas — Número atômico, número de massa, isótopos, massa atômica"
+    },
+    {
+     "frente": "X e Y têm A = 40 e Z = 18 e 20. Qual a relação?",
+     "verso": "Mesmo A e elementos diferentes. Z difere.",
+     "dispositivo": "Transformações químicas — Número atômico, número de massa, isótopos, massa atômica"
+    },
+    {
+     "frente": "Um átomo com A = 23 e Z = 11 perde um elétron. Como ficam A e Z?",
+     "verso": "23 e 11 O núcleo não muda.",
+     "dispositivo": "Transformações químicas — Número atômico, número de massa, isótopos, massa atômica"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Um átomo tem A = 39 e Z = 19.",
+     "enunciado": "Tem 20 nêutrons.",
+     "gabarito": "C",
+     "comentario": "Certo. N = 39 − 19.",
+     "id": "enem-numero-atomico-isotopos-c14-q01",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Número atômico, número de massa, isótopos, massa atômica",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um átomo tem A = 39 e Z = 19.",
+     "enunciado": "Tem 39 nêutrons.",
+     "gabarito": "E",
+     "comentario": "Errado. 39 conta todos os núcleons.",
+     "id": "enem-numero-atomico-isotopos-c14-q02",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Número atômico, número de massa, isótopos, massa atômica",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Carbono-12 e carbono-13 têm 6 prótons.",
+     "enunciado": "São isótopos.",
+     "gabarito": "C",
+     "comentario": "Certo. Mesmo Z e números de massa diferentes.",
+     "id": "enem-numero-atomico-isotopos-c14-q03",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Número atômico, número de massa, isótopos, massa atômica",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Carbono-12 e carbono-13 têm 6 prótons.",
+     "enunciado": "São elementos diferentes.",
+     "gabarito": "E",
+     "comentario": "Errado. O número de prótons é o mesmo.",
+     "id": "enem-numero-atomico-isotopos-c14-q04",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Número atômico, número de massa, isótopos, massa atômica",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um núcleo tem 17 prótons e 20 nêutrons.",
+     "enunciado": "Qual A?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "37",
+      "B": "17",
+      "C": "20",
+      "D": "3",
+      "E": "40"
+     },
+     "comentarios_por_alternativa": {
+      "A": "17 + 20 = 37.",
+      "B": "É Z.",
+      "C": "É N.",
+      "D": "É a diferença.",
+      "E": "A soma é 37."
+     },
+     "comentario": "A) 17 + 20 = 37.\nB) É Z.\nC) É N.\nD) É a diferença.\nE) A soma é 37.",
+     "id": "enem-numero-atomico-isotopos-c14-q05",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Número atômico, número de massa, isótopos, massa atômica",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "90% dos átomos têm 10 u e 10% têm 11 u.",
+     "enunciado": "Qual a média?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "10,5 u",
+      "B": "11 u",
+      "C": "10,9 u",
+      "D": "21 u",
+      "E": "10,1 u"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Exige pesos iguais.",
+      "B": "Ignora o grupo majoritário.",
+      "C": "Troca os pesos.",
+      "D": "Soma sem ponderar.",
+      "E": "0,90 × 10 + 0,10 × 11."
+     },
+     "comentario": "A) Exige pesos iguais.\nB) Ignora o grupo majoritário.\nC) Troca os pesos.\nD) Soma sem ponderar.\nE) 0,90 × 10 + 0,10 × 11.",
+     "id": "enem-numero-atomico-isotopos-c14-q06",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Número atômico, número de massa, isótopos, massa atômica",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "X e Y têm A = 40 e Z = 18 e 20.",
+     "enunciado": "Qual a relação?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "Isótopos.",
+      "B": "Mesmo A e elementos diferentes.",
+      "C": "Mesmo N.",
+      "D": "Mesmo Z.",
+      "E": "Mesma carga necessariamente."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Isótopos têm Z igual.",
+      "B": "Z difere.",
+      "C": "N é 22 e 20.",
+      "D": "Os valores são distintos.",
+      "E": "Faltam os elétrons."
+     },
+     "comentario": "A) Isótopos têm Z igual.\nB) Z difere.\nC) N é 22 e 20.\nD) Os valores são distintos.\nE) Faltam os elétrons.",
+     "id": "enem-numero-atomico-isotopos-c14-q07",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Número atômico, número de massa, isótopos, massa atômica",
+     "dificuldade": "dificil"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um átomo com A = 23 e Z = 11 perde um elétron.",
+     "enunciado": "Como ficam A e Z?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "22 e 11",
+      "B": "23 e 10",
+      "C": "24 e 12",
+      "D": "23 e 11",
+      "E": "23 e 12"
+     },
+     "comentarios_por_alternativa": {
+      "A": "A não inclui elétrons.",
+      "B": "Z conta prótons.",
+      "C": "Não há acréscimo nuclear.",
+      "D": "O núcleo não muda.",
+      "E": "A carga não vem de um próton novo."
+     },
+     "comentario": "A) A não inclui elétrons.\nB) Z conta prótons.\nC) Não há acréscimo nuclear.\nD) O núcleo não muda.\nE) A carga não vem de um próton novo.",
+     "id": "enem-numero-atomico-isotopos-c14-q08",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Número atômico, número de massa, isótopos, massa atômica",
+     "dificuldade": "dificil"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "90% dos átomos têm 10 u e 10% têm 11 u. Qual a média? ___",
+     "opcoes": [
+      "10,5 u",
+      "10,1 u",
+      "11 u",
+      "10,9 u"
+     ],
+     "respostas": [
+      "10,1 u"
+     ],
+     "explicacao": "0,90 × 10 + 0,10 × 11."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "X e Y têm A = 40 e Z = 18 e 20. Qual a relação? ___",
+     "opcoes": [
+      "Isótopos.",
+      "Mesmo A e elementos diferentes.",
+      "Mesmo N.",
+      "Mesmo Z."
+     ],
+     "respostas": [
+      "Mesmo A e elementos diferentes."
+     ],
+     "explicacao": "Z difere."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise do caso: Um núcleo tem 17 prótons e 20 nêutrons.",
+     "itens": [
+      "Localizar o que se quer descobrir: Qual A?",
+      "Separar as informações dadas no enunciado.",
+      "Aplicar a relação adequada aos dados.",
+      "Conferir se a conclusão responde à pergunta."
+     ],
+     "explicacao": "17 + 20 = 37."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Um núcleo tem 17 prótons e 20 nêutrons. Qual A?",
+       "37"
+      ],
+      [
+       "90% dos átomos têm 10 u e 10% têm 11 u. Qual a média?",
+       "10,1 u"
+      ],
+      [
+       "X e Y têm A = 40 e Z = 18 e 20. Qual a relação?",
+       "Mesmo A e elementos diferentes."
+      ],
+      [
+       "Um átomo com A = 23 e Z = 11 perde um elétron. Como ficam A e Z?",
+       "23 e 11"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

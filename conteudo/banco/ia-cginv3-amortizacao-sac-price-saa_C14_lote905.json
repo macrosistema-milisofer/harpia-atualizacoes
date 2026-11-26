@@ -1,0 +1,235 @@
+{
+ "assunto": "Sistemas de amortização SAC, Price e Americano",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "cginv3-c14-amortizacao-sac-price-saa",
+   "titulo": "Sistemas de amortização SAC, Price e Americano",
+   "microconteudo": "RAIO-X DA PROVA: Reconstrua o saldo devedor e separe principal, juros e prestação para reconhecer as regras do SAC, da Price e do Sistema Americano.\n\nPOR QUE IMPORTA:\nA análise financeira de um RPPS exige comparar valores em datas e bases compatíveis. Reconstrua o saldo devedor e separe principal, juros e prestação para reconhecer as regras do SAC, da Price e do Sistema Americano.\n\nO QUE A BANCA COBRA:\nReconstrua o saldo devedor e separe principal, juros e prestação para reconhecer as regras do SAC, da Price e do Sistema Americano.\n\nENTENDA:\nAmortizar é reduzir o principal que permanece devido. Para um financiamento com juros pagos a cada período, denomine B_(k−1) o saldo inicial daquele período, i a taxa, J_k os juros, A_k a amortização e P_k a prestação. Então J_k = B_(k−1) × i, P_k = J_k + A_k e B_k = B_(k−1) − A_k. Pagamentos de juros remuneram o credor sem diminuir o principal. Com encargos capitalizados, atualização monetária, seguros e tarifas, o cronograma pode exigir colunas adicionais. Na questão idealizada, identifique primeiro o que fica constante e se a taxa incide sobre saldo corrigido ou nominal.\n\nNo Sistema de Amortização Constante (SAC), o valor amortizado em cada período é B_0/n. Para R$ 12.000 em três períodos a 10%, amortize R$ 4.000 em cada prestação. Os saldos antes dos pagamentos são R$ 12.000, R$ 8.000 e R$ 4.000. Os juros são R$ 1.200, R$ 800 e R$ 400. As prestações são R$ 5.200, R$ 4.800 e R$ 4.400. O total de juros é R$ 2.400. O saldo segue trajetória linear e as prestações caem igualmente com taxa e amortização fixas. A queda por período é i × B_0/n, ou R$ 400 no exemplo. Se a taxa varia, a amortização constante pode coexistir com prestações que não caem em linha reta.\n\nNo Sistema Francês, conhecido como Price, as prestações postecipadas são fixas nas hipóteses de taxa constante e ausência de encargos adicionais. A prestação P é calculada para que o valor presente dos pagamentos seja igual ao valor financiado. Assim, P = B_0 × i/[1−(1+i)^(-n)] para i ≠ 0. Com R$ 12.000, três períodos e 10%, P ≈ R$ 4.825,38. Os juros do primeiro período são R$ 1.200 e a amortização é aproximadamente R$ 3.625,38. O saldo vai a R$ 8.374,62. Os juros do segundo período são cerca de R$ 837,46, e a amortização, aproximadamente R$ 3.987,92. Na última prestação, a amortização absorve o saldo restante, com possível ajuste de centavos.\n\nO crescimento da amortização na Price pode ser deduzido das identidades do saldo. Quando uma prestação constante cancela parte do principal, os juros seguintes caem i vezes a amortização anterior. A parcela disponível para amortizar cresce nessa mesma quantia. Logo A_(k+1) = A_k × (1+i). Os juros são decrescentes e o principal amortizado é crescente quando i é positiva e as prestações cobrem os juros e parte do saldo. A evolução do saldo é decrescente. A primeira prestação menor que no SAC em um exemplo comparável decorre de amortização menor no início. Isso preserva um saldo maior durante parte do contrato e pode aumentar o total pago em juros.\n\nNo Sistema de Amortização Americano, na forma usual estudada em matemática financeira, o principal é quitado no vencimento, com juros periódicos ao longo do prazo. Com R$ 12.000 a 10% por período por três períodos, pagam-se R$ 1.200 nos dois primeiros, e R$ 13.200 no último. O principal permanece R$ 12.000 até o pagamento final. A taxa permanece aplicada à mesma base e os juros somam R$ 3.600. Um fundo de acumulação eventualmente constituído pelo devedor tem fluxo e remuneração próprios. Sua existência não altera por si só a amortização do contrato principal. Se as parcelas de juros também forem acumuladas para o vencimento, o contrato terá fluxo diferente da versão de cupons periódicos aqui adotada.\n\nEm iguais condições de taxa positiva fixa, prazo e principal, o SAC usual reduz o saldo mais cedo que a Price. A Price reduz antes do SAA com juros periódicos e pagamento integral do principal no final. A evolução dos saldos explica a comparação dos juros nominais pagos nas modalidades idealizadas. O SAA favorece saídas iniciais menores, mas exige montante maior no fim. Para uma instituição credora, o SAC reintegra principal ao caixa mais cedo. A Price oferece prestação contratual constante sob as hipóteses básicas. Saber o cronograma permite avaliar a necessidade de liquidez e a exposição ao saldo devedor ao longo do tempo.\n\nA soma nominal de juros não decide sozinha a atratividade de um financiamento. Se todos os cronogramas refletem a mesma taxa contratual, não há tarifas e o risco é comparável, o valor presente das prestações descontadas a essa mesma taxa é o mesmo principal. Isso ocorre porque os diferentes calendários remuneram o atraso de forma compatível com a taxa definida. Quando a taxa de desconto do avaliador diverge da taxa do contrato, a distribuição temporal pode produzir valores presentes distintos. Se custos acessórios alteram o líquido recebido, o custo efetivo exige incluir as entradas e saídas reais do tomador.\n\nCompare um contrato de R$ 30.000 em três anos e taxa anual de 5%. No SAC, os juros são R$ 1.500, R$ 1.000 e R$ 500. No Americano, os juros são R$ 1.500 por ano e o principal inteiro sai na última data. A diferença de R$ 1.500 nos juros nominais decorre de saldos maiores mantidos nos anos dois e três. Para conferir a estrutura, desconte as prestações dos dois sistemas à taxa contratual. Ambos os valores presentes são R$ 30.000 sob as premissas do exercício. Se o tomador precisa preservar caixa no primeiro ano para cobrir compromisso importante, a comparação de preços deve ser acompanhada da comparação de datas.\n\nNa prática de um exercício, monte uma tabela com período, saldo inicial, juros, amortização, prestação e saldo final. Escreva uma ou duas linhas e confira que a soma de amortizações até a última parcela é igual ao principal. Prestações fixas não significam amortizações fixas. Uma redução de saldo sempre deve ser explicada pela amortização, eventual pagamento extraordinário ou outra previsão do contrato. Em contratos com carência, identifique se os juros são pagos ou agregados ao saldo. Se agregados, o principal no início da fase de amortização é maior. Um simulador deve explicitar a data da primeira parcela, pois pagar no ato modifica o cálculo de valor presente.\n\nHá também controles de consistência do sinal e do arredondamento. No SAC ideal, a primeira amortização equivale exatamente à última. Na Price com taxa positiva, a última amortização é a maior e coincide com o saldo inicial daquele período, salvo centavos. No Americano, a primeira amortização é zero quando há mais de um período e a última é o principal contratado. Se uma tabela mistura posições de começo e fim, pode cobrar juros sobre o saldo já reduzido naquele mês, o que distorce todas as parcelas seguintes. Guarde a precisão das fórmulas até a apresentação e documente o ajuste de arredondamento quando necessário.\n\nO ponto de vista do credor permite interpretar o cronograma como uma sequência de recebimentos. Se o objetivo for reaplicar o principal a cada parcela, recuperar cedo cria oportunidade de reinvestimento, mas também expõe a instituição às taxas que estarão disponíveis no futuro. Se o objetivo for receber um fluxo periódico estável para atender compromissos, uma prestação uniforme tem apelo operacional. Essa adequação pode ser verificada pela sobreposição da tabela de amortização ao cronograma de saídas. Ela depende do prazo, da capacidade de pagamento do tomador e do comportamento previsto dos demais ativos.\n\nUm pagamento extraordinário entre parcelas altera a base das próximas contas. Se o contrato permitir a escolha entre reduzir prazo e reduzir valor da prestação, cada opção gera um novo calendário. Na comparação, calcule o saldo imediatamente antes do pagamento adicional, subtraia o valor amortizado e aplique o sistema às condições restantes. Misturar o saldo anterior com a nova prestação gera uma projeção incompatível. Para a prova, faça essa alteração apenas quando o enunciado informar o tratamento da amortização adicional e a data em que ela produz efeitos sobre os juros.\n\nTROCANDO EM MIÚDOS:\nPense em uma dívida de R$ 12.000. Toda prestação pode ter duas partes: juros e devolução da quantia emprestada. Só a segunda parte reduz a dívida. Se você paga R$ 1.200 de juros e R$ 4.000 do valor emprestado, a prestação é R$ 5.200 e a dívida cai para R$ 8.000. No período seguinte, os juros são calculados sobre o saldo que ainda falta pagar.\n\nNo SAC, devolva sempre a mesma parte da dívida original. Se for pagar R$ 12.000 em três etapas, a devolução é de R$ 4.000 em cada uma. Como a dívida diminui, os juros também caem. Assim, o boleto começa maior e diminui ao longo do plano quando a taxa é fixa. A constância pertence à devolução do principal, que é chamada de amortização.\n\nNa Price, a prestação fixa é que fica igual. No começo, uma parte maior dela vai para juros porque a dívida está mais alta. Com o tempo, os juros ficam menores e sobra mais da mesma prestação para devolver o principal. É por isso que prestação constante pode conviver com amortização crescente. A fórmula da Price encontra o valor da prestação necessário para que os pagamentos liquidem a dívida no prazo.\n\nNo Sistema Americano do exemplo, a pessoa paga os juros de tempos em tempos e deixa a devolução do principal para o fim. Antes da última parcela, a dívida original continua inteira. Isso alivia os desembolsos iniciais e concentra o pagamento final. Para achar o sistema em uma questão, olhe para a coluna que fica constante. Se é a devolução do valor emprestado, procure SAC. Se é a prestação, procure Price. Se a dívida original só desaparece no fim e as parcelas intermediárias cobrem juros, procure o Americano. Depois confira se as somas das amortizações devolvem todo o valor inicialmente financiado.\n\nESQUEMA:\nSaldo inicial → juros → amortização pelo sistema → prestação → saldo final.\n\nPEGADINHAS:\n• Confundir prestação fixa com amortização fixa\n• Calcular juros sobre o saldo após o próprio pagamento\n• Esquecer principal na última parcela do SAA\n• Usar soma nominal de juros como único critério econômico\n• Somar taxa anunciada e prazo sem construir o fluxo\n\nDOUTRINA:\nOpenStax, Principles of Finance, capítulos 7, 8 e 16. A escolha da data focal, do regime de capitalização e da trajetória dos fluxos determina a comparação econômica.\n\nNA PRÁTICA:\nUm financiamento SAC de R$ 24.000 em quatro períodos, a 5%, amortiza R$ 6.000 em cada. A terceira prestação usa saldo inicial de R$ 12.000, com juros de R$ 600, e soma R$ 6.600.",
+   "flashcards": [
+    {
+     "frente": "O que reduz o principal?",
+     "verso": "A amortização.",
+     "dispositivo": "Sistemas de amortização SAC, Price e Americano"
+    },
+    {
+     "frente": "Como calcular juros do período?",
+     "verso": "Taxa vezes saldo devedor de abertura.",
+     "dispositivo": "Sistemas de amortização SAC, Price e Americano"
+    },
+    {
+     "frente": "O que permanece constante no SAC?",
+     "verso": "A amortização de principal.",
+     "dispositivo": "Sistemas de amortização SAC, Price e Americano"
+    },
+    {
+     "frente": "O que permanece constante na Price ideal?",
+     "verso": "A prestação.",
+     "dispositivo": "Sistemas de amortização SAC, Price e Americano"
+    },
+    {
+     "frente": "Quando se amortiza o principal no Americano tradicional?",
+     "verso": "No vencimento.",
+     "dispositivo": "Sistemas de amortização SAC, Price e Americano"
+    },
+    {
+     "frente": "Qual a relação da Price com a série postecipada?",
+     "verso": "O valor financiado é o valor presente das prestações fixas.",
+     "dispositivo": "Sistemas de amortização SAC, Price e Americano"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "No SAC, com taxa constante e positiva, as prestações diminuem apesar de as amortizações serem constantes.",
+     "gabarito": "C",
+     "comentario": "Os juros diminuem à medida que o saldo cai.",
+     "dificuldade": "media",
+     "id": "cginv3-c14-amortizacao-sac-price-saa-q01",
+     "dispositivo": "Sistemas de amortização SAC, Price e Americano"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Na Price ideal, a taxa fixa impede o crescimento da amortização periódica.",
+     "gabarito": "E",
+     "comentario": "Como as prestações são iguais e os juros caem, a amortização cresce.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-amortizacao-sac-price-saa-q02",
+     "dispositivo": "Sistemas de amortização SAC, Price e Americano"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "No Americano com juros periódicos, a última prestação pode reunir juros e todo o principal.",
+     "gabarito": "C",
+     "comentario": "A quitação concentra a amortização na maturidade.",
+     "dificuldade": "media",
+     "id": "cginv3-c14-amortizacao-sac-price-saa-q03",
+     "dispositivo": "Sistemas de amortização SAC, Price e Americano"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Somar todas as prestações de um financiamento dá necessariamente o principal contratado.",
+     "gabarito": "E",
+     "comentario": "A soma nominal também inclui juros, quando positivos.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-amortizacao-sac-price-saa-q04",
+     "dispositivo": "Sistemas de amortização SAC, Price e Americano"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "No SAC de R$ 15.000 em três períodos a 10%, qual a segunda prestação?",
+     "alternativas": {
+      "A": "R$ 6.000",
+      "B": "R$ 6.500",
+      "C": "R$ 5.500",
+      "D": "R$ 5.000",
+      "E": "R$ 10.000"
+     },
+     "gabarito": "A",
+     "comentarios_por_alternativa": {
+      "A": "Amortização de R$ 5.000 e juros de R$ 1.000 sobre o saldo de R$ 10.000.",
+      "B": "É a primeira prestação.",
+      "C": "É a última prestação.",
+      "D": "É apenas a amortização.",
+      "E": "É o saldo inicial do período."
+     },
+     "comentario": "A) Amortização de R$ 5.000 e juros de R$ 1.000 sobre o saldo de R$ 10.000.\nB) É a primeira prestação.\nC) É a última prestação.\nD) É apenas a amortização.\nE) É o saldo inicial do período.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-amortizacao-sac-price-saa-q05",
+     "dispositivo": "Sistemas de amortização SAC, Price e Americano"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Uma Price tem prestação de R$ 1.250 e juros de R$ 400 no primeiro período. A 5% por período, qual o valor dos juros do segundo?",
+     "alternativas": {
+      "A": "R$ 850,00",
+      "B": "R$ 357,50",
+      "C": "R$ 400,00",
+      "D": "R$ 442,50",
+      "E": "R$ 337,50"
+     },
+     "gabarito": "B",
+     "comentarios_por_alternativa": {
+      "A": "É a amortização inicial.",
+      "B": "A amortização de R$ 850 reduz o próximo juro em R$ 42,50.",
+      "C": "Ignora a redução do saldo.",
+      "D": "Soma o efeito em vez de subtrair.",
+      "E": "Deduz 5% de toda a prestação."
+     },
+     "comentario": "A) É a amortização inicial.\nB) A amortização de R$ 850 reduz o próximo juro em R$ 42,50.\nC) Ignora a redução do saldo.\nD) Soma o efeito em vez de subtrair.\nE) Deduz 5% de toda a prestação.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-amortizacao-sac-price-saa-q06",
+     "dispositivo": "Sistemas de amortização SAC, Price e Americano"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual a última prestação de SAA de R$ 40.000, a 4%, com juros periódicos?",
+     "alternativas": {
+      "A": "R$ 38.400",
+      "B": "R$ 43.200",
+      "C": "R$ 41.600",
+      "D": "R$ 40.000",
+      "E": "R$ 1.600"
+     },
+     "gabarito": "C",
+     "comentarios_por_alternativa": {
+      "A": "Abate os juros do principal.",
+      "B": "Adiciona dois períodos de juros à última prestação.",
+      "C": "Principal de R$ 40.000 mais juros finais de R$ 1.600.",
+      "D": "Considera somente o principal.",
+      "E": "Considera somente juros."
+     },
+     "comentario": "A) Abate os juros do principal.\nB) Adiciona dois períodos de juros à última prestação.\nC) Principal de R$ 40.000 mais juros finais de R$ 1.600.\nD) Considera somente o principal.\nE) Considera somente juros.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-amortizacao-sac-price-saa-q07",
+     "dispositivo": "Sistemas de amortização SAC, Price e Americano"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Em um contrato sem tarifas, a taxa de desconto usada é a contratual. Qual o VP das prestações completas?",
+     "alternativas": {
+      "A": "A primeira prestação multiplicada pelo prazo.",
+      "B": "O primeiro saldo após amortizar.",
+      "C": "Zero.",
+      "D": "O principal financiado.",
+      "E": "A soma dos juros nominais."
+     },
+     "gabarito": "D",
+     "comentarios_por_alternativa": {
+      "A": "Ignora descontos e a possível variação das parcelas.",
+      "B": "É apenas parte do saldo inicial.",
+      "C": "O VP das prestações é positivo, embora o VPL com o fluxo inicial seja zero.",
+      "D": "A taxa contratual reproduz a igualdade econômica dos fluxos.",
+      "E": "A soma dos juros deixa de fora o principal."
+     },
+     "comentario": "A) Ignora descontos e a possível variação das parcelas.\nB) É apenas parte do saldo inicial.\nC) O VP das prestações é positivo, embora o VPL com o fluxo inicial seja zero.\nD) A taxa contratual reproduz a igualdade econômica dos fluxos.\nE) A soma dos juros deixa de fora o principal.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-amortizacao-sac-price-saa-q08",
+     "dispositivo": "Sistemas de amortização SAC, Price e Americano"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Prestação é a soma de juros e ___.",
+     "opcoes": [
+      "amortização",
+      "saldo original",
+      "taxa"
+     ],
+     "respostas": [
+      "amortização"
+     ],
+     "explicacao": "Amortização é a parte que devolve principal."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "No SAC, o principal de R$ 18.000 em três períodos é amortizado em parcelas de ___.",
+     "opcoes": [
+      "R$ 6.000",
+      "R$ 9.000",
+      "R$ 18.000"
+     ],
+     "respostas": [
+      "R$ 6.000"
+     ],
+     "explicacao": "O principal é dividido pelo número de amortizações."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o preenchimento de uma linha do cronograma.",
+     "itens": [
+      "Identifique o saldo de abertura.",
+      "Calcule os juros do período.",
+      "Aplique a regra do sistema para achar prestação e amortização.",
+      "Subtraia a amortização para achar o saldo final."
+     ],
+     "explicacao": "O saldo final obtido alimenta o período seguinte."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "SAC",
+       "Amortizações iguais"
+      ],
+      [
+       "Price",
+       "Prestações iguais no modelo ideal"
+      ],
+      [
+       "Americano",
+       "Principal pago no vencimento"
+      ],
+      [
+       "Juros",
+       "Remuneração calculada sobre o saldo"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

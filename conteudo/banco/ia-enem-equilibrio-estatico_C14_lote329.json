@@ -1,0 +1,253 @@
+{
+ "assunto": "Equilíbrio estático de pontos e corpos rígidos",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-equilibrio-estatico-c14",
+   "titulo": "Equilíbrio estático de pontos e corpos rígidos",
+   "microconteudo": "RAIO-X DA PROVA: Interprete a situação e justifique a conclusão com a relação física pertinente. Equilíbrio estático exige repouso e resultantes de força e torque nulas. No modelo de ponto material, basta analisar a resultante de forças.\n\nPOR QUE IMPORTA:\nUma prateleira pode transladar ou girar se as forças sobre ela forem mal distribuídas. Para verificar seu equilíbrio, examine os dois efeitos.\n\nO QUE A BANCA COBRA:\nInterprete a situação e justifique a conclusão com a relação física pertinente. Equilíbrio estático exige repouso e resultantes de força e torque nulas. No modelo de ponto material, basta analisar a resultante de forças.\n\nENTENDA:\nComece por esta situação: Uma prateleira pode transladar ou girar se as forças sobre ela forem mal distribuídas. Para verificar seu equilíbrio, examine os dois efeitos. Leia os dados disponíveis e faça uma previsão antes de procurar uma fórmula. Equilíbrio estático exige repouso e resultantes de força e torque nulas. No modelo de ponto material, basta analisar a resultante de forças. Dois torques opostos de mesmo módulo anulam a tendência de giro, mas ainda é preciso garantir que as forças também se equilibrem.\n\nConsidere um quadro suspenso por dois fios. A soma vertical de suas forças deve compensar o peso. Se os fios estiverem inclinados em sentidos opostos, suas componentes horizontais podem se anular. Os pontos de aplicação também importam: uma distribuição que equilibra forças pode ainda inclinar o quadro se deixar torque líquido.\n\nDois torques opostos de mesmo módulo anulam a tendência de giro, mas ainda é preciso garantir que as forças também se equilibrem. Ao interpretar esse exemplo, escreva a condição física que torna possível prever o resultado. Pergunte se ela continuaria valendo caso um dos dados omitidos passasse a ter importância. Diferencie o que você consegue concluir numericamente do que pode apenas prever qualitativamente. A descrição do resultado deve manter explícito qual corpo ou conjunto está sendo observado e em qual intervalo a afirmação é válida.\n\nConfira o significado das palavras da questão. Qual condição impede aceleração de translação? Resultante de forças nula.\nQual condição impede aceleração angular no modelo usual? Resultante de torques nula.\nO que distingue equilíbrio estático? O corpo está em repouso e permanece assim.\nQue eixo convém escolher num balanço? Um que simplifique os torques, como o eixo de um apoio.\nUma força pelo eixo gera torque? Não sobre esse eixo.\nO que é um binário? Duas forças paralelas opostas com linhas de ação distintas, de torque resultante não nulo. Se dois termos parecem próximos, compare o que cada um descreve no caso inicial. Em Física, trocar o nome de uma grandeza pode mudar o cálculo ou até o que se está tentando explicar. Escreva, ao lado de cada símbolo, qual parte da situação ele representa e em que unidade seria medido.\n\nExemplo 1. Numa gangorra, uma força de 60 N atua a 2 m. Outra atua a 3 m no lado contrário. Qual o módulo da segunda para equilibrar o torque? A resposta é 40 N. Iguale 60 × 2 a F × 3. Inverte a relação de braços. É o número do primeiro torque. Divide a força por 3 sem o braço inicial. Usa só o primeiro braço como divisor.\n\nExemplo 2. Uma viga tem peso total de 80 N e um único apoio vertical, em repouso sem outras forças verticais. Qual a força do apoio? A resposta é 80 N. A força vertical deve equilibrar o peso. Não há dois apoios dividindo a carga. Conta peso e reação no mesmo sentido. Haveria força resultante para baixo. Não corresponde ao balanço vertical.\n\nExemplo 3. Uma placa recebe torques de +12, −5 e −3 N·m. Qual torque adicional produz equilíbrio de rotação? A resposta é −4 N·m. A soma atual é +4; é preciso o oposto. Reforça a soma existente. Ignora dois dos torques. É o módulo da soma dos dois negativos. A soma atual é diferente de zero.\n\nExemplo 4. Uma viga uniforme pesa 100 N e repousa sobre dois apoios simétricos. Qual força vertical cada apoio exerce? A resposta é 50 N. A simetria divide igualmente a carga total. Cada apoio sustentaria o peso inteiro. Divide a carga em quatro partes. Duplica o peso. O peso ficaria sem oposição.\n\nTeste de interpretação. Um quadro está parado e apoiado. Considere a afirmação: “A força resultante é nula.” Certo. Não há aceleração de translação. Uma dupla de forças opostas atua em linhas paralelas distintas. Considere a afirmação: “Sua soma de forças nula garante equilíbrio estático.” Errado. Pode haver torque resultante. Uma força de apoio passa pelo eixo escolhido. Considere a afirmação: “Seu torque em torno desse eixo vale zero.” Certo. O braço perpendicular é zero. Uma gangorra tem torque líquido diferente de zero. Considere a afirmação: “A condição de torque do equilíbrio está atendida.” Errado. A soma de torques precisa anular-se.\n\nUma sequência de resolução é útil quando a questão traz mais dados que o necessário. Primeiro, desenhar o corpo e as forças. Depois, escolher um eixo conveniente. Em seguida, igualar os torques opostos. Por último, verificar também a resultante de forças. Explique oralmente por que cada passo vem nessa posição. Se a última conclusão mudar quando você troca um detalhe do enunciado, localize qual hipótese provocou essa mudança. Isso ajuda a distinguir o resultado de uma conta das condições em que ele vale.\n\nEm uma prova, procure separar o que o texto observou, o que o modelo assume e o que você concluiu. Um valor informado é um dado. Uma condição como desprezar o atrito ou tratar o intervalo como uniforme pode ser uma hipótese. Já o resultado é aquilo que você obtém ao combinar os dados com a regra escolhida. Se houver tabela ou figura, confira a legenda, os eixos e as unidades antes de usar os números. Para revisar, refaça um dos exemplos mudando um dado por vez e preveja o sentido da mudança antes de calcular.\n\nCheck de leitura. Escolha dois exemplos desta lição e compare o papel de cada informação. O que foi medido diretamente? Qual relação precisou ser usada para inferir uma resposta? Há alguma observação que, sozinha, seria insuficiente? Se a resposta for um número, faça uma estimativa simples para checar se ele é plausível. Se for uma explicação, procure indicar qual condição a torna válida. Depois, tente escrever uma resposta que inclua o dado utilizado, o raciocínio e a conclusão em uma ou duas frases.\n\nAo montar um rascunho, deixe os dados de um lado e a conclusão do outro. Comece pelo dado que tem relação direta com a pergunta. Caso sobrem informações, veja se elas servem para comparar hipóteses ou apenas situar a história. Em uma comparação, mantenha a mesma referência e o mesmo intervalo sempre que o enunciado permitir. Quando um resultado contradiz a previsão inicial, revise primeiro a interpretação do que foi pedido; em seguida, revise a operação e as condições assumidas.\n\nNa primeira, destaque o que o enunciado informa sobre as condições da situação. Na segunda, explique como a regra escolhida conecta essas condições ao resultado. Se houver um cálculo, escreva as unidades intermediárias. Em uma resposta sobre direção ou sentido, declare a orientação de referência. Uma alternativa pode conter um número familiar do enunciado e ainda responder sobre a grandeza errada.\n\nPara fechar, compare estas duas situações e procure a diferença física entre elas. Um quadro está parado e apoiado. Uma dupla de forças opostas atua em linhas paralelas distintas. Quando o contexto muda, a leitura deve partir das informações apresentadas naquele caso. Considere a primeira afirmação e justifique o resultado: “A força resultante é nula.” Certo. Não há aceleração de translação. Agora avalie a segunda: “Sua soma de forças nula garante equilíbrio estático.” Errado. Pode haver torque resultante. Uma explicação adequada pode usar palavras e cálculos, desde que a relação com a situação seja clara. Pense em qual mudança nos dados tornaria cada afirmação válida ou inválida.\n\nUse este conjunto de definições como roteiro para checar o raciocínio. Qual condição impede aceleração de translação? Resultante de forças nula.\nQual condição impede aceleração angular no modelo usual? Resultante de torques nula.\nO que distingue equilíbrio estático? O corpo está em repouso e permanece assim.\nQue eixo convém escolher num balanço? Um que simplifique os torques, como o eixo de um apoio.\nUma força pelo eixo gera torque? Não sobre esse eixo.\nO que é um binário? Duas forças paralelas opostas com linhas de ação distintas, de torque resultante não nulo. Ao voltar aos dados do começo, selecione as definições pertinentes ao caso. Leia a conclusão como se ela fosse uma frase independente: confira a unidade, a referência adotada e a condição de validade.\n\nTROCANDO EM MIÚDOS:\nImagine a situação do começo da lição. Uma prateleira pode transladar ou girar se as forças sobre ela forem mal distribuídas. Para verificar seu equilíbrio, examine os dois efeitos. Dois torques opostos de mesmo módulo anulam a tendência de giro, mas ainda é preciso garantir que as forças também se equilibrem.\n\nA regra principal pode ser escrita assim: Equilíbrio estático exige repouso e resultantes de força e torque nulas. No modelo de ponto material, basta analisar a resultante de forças. Tente explicar essa regra em voz alta para alguém que ainda não viu o conteúdo, usando o exemplo inicial como apoio.\n\nAntes de marcar uma alternativa, faça esta checagem. Qual condição impede aceleração de translação? Resultante de forças nula. Qual condição impede aceleração angular no modelo usual? Resultante de torques nula. O que distingue equilíbrio estático? O corpo está em repouso e permanece assim. Que eixo convém escolher num balanço? Um que simplifique os torques, como o eixo de um apoio. Uma força pelo eixo gera torque? Não sobre esse eixo. O que é um binário? Duas forças paralelas opostas com linhas de ação distintas, de torque resultante não nulo.\n\nEm um rascunho curto, anote quatro passos. Desenhar o corpo e as forças. Escolher um eixo conveniente. Igualar os torques opostos. Verificar também a resultante de forças. Em seguida, tente aplicar os passos a um exemplo com números ou condições diferentes. As grandezas que foram medidas e o que você quer descobrir devem ficar em linhas separadas. Isso ajuda a identificar qual informação ainda falta.\n\nExperimente responder a esta situação sem olhar as opções. Numa gangorra, uma força de 60 N atua a 2 m. Outra atua a 3 m no lado contrário. Qual o módulo da segunda para equilibrar o torque? Iguale 60 × 2 a F × 3. Depois, confira nos exemplos quais seriam as consequências de escolher uma interpretação diferente. Se tiver que refazer, comece pelas condições do problema e pelo significado de cada dado.\n\nPara fixar, releia uma afirmação verdadeira e uma falsa da lição. Reescreva a falsa trocando só o trecho necessário para corrigi-la. Na afirmação verdadeira, diga qual detalhe do enunciado permite chegar a essa conclusão. Assim você pratica explicar um resultado, além de reconhecer qual opção está certa.\n\nLEI SECA:\nEquilíbrio estático exige repouso e resultantes de força e torque nulas. No modelo de ponto material, basta analisar a resultante de forças.\n\nSÚMULAS E TESES:\nDois torques opostos de mesmo módulo anulam a tendência de giro, mas ainda é preciso garantir que as forças também se equilibrem.\n\nESQUEMA:\nDesenhar o corpo e as forças → Escolher um eixo conveniente → Igualar os torques opostos → Verificar também a resultante de forças\n\nPEGADINHAS:\n1. Certo. Não há aceleração de translação.\n2. Errado. Pode haver torque resultante.\n3. Certo. O braço perpendicular é zero.\n4. Errado. A soma de torques precisa anular-se.\n\nDOUTRINA:\nOpenStax — College Physics 2e, The First Condition for Equilibrium\n\nNA PRÁTICA:\nExemplo 1. Numa gangorra, uma força de 60 N atua a 2 m. Outra atua a 3 m no lado contrário. Qual o módulo da segunda para equilibrar o torque? A resposta é 40 N. Iguale 60 × 2 a F × 3. Inverte a relação de braços. É o número do primeiro torque. Divide a força por 3 sem o braço inicial. Usa só o primeiro braço como divisor.",
+   "flashcards": [
+    {
+     "frente": "Qual condição impede aceleração de translação?",
+     "verso": "Resultante de forças nula.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Condições de equilíbrio estático de ponto material e de corpos rígidos"
+    },
+    {
+     "frente": "Qual condição impede aceleração angular no modelo usual?",
+     "verso": "Resultante de torques nula.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Condições de equilíbrio estático de ponto material e de corpos rígidos"
+    },
+    {
+     "frente": "O que distingue equilíbrio estático?",
+     "verso": "O corpo está em repouso e permanece assim.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Condições de equilíbrio estático de ponto material e de corpos rígidos"
+    },
+    {
+     "frente": "Que eixo convém escolher num balanço?",
+     "verso": "Um que simplifique os torques, como o eixo de um apoio.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Condições de equilíbrio estático de ponto material e de corpos rígidos"
+    },
+    {
+     "frente": "Uma força pelo eixo gera torque?",
+     "verso": "Não sobre esse eixo.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Condições de equilíbrio estático de ponto material e de corpos rígidos"
+    },
+    {
+     "frente": "O que é um binário?",
+     "verso": "Duas forças paralelas opostas com linhas de ação distintas, de torque resultante não nulo.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Condições de equilíbrio estático de ponto material e de corpos rígidos"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-equilibrio-estatico-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Um quadro está parado e apoiado.",
+     "enunciado": "A força resultante é nula.",
+     "gabarito": "C",
+     "comentario": "Certo. Não há aceleração de translação.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Condições de equilíbrio estático de ponto material e de corpos rígidos"
+    },
+    {
+     "id": "enem-fisica-equilibrio-estatico-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Uma dupla de forças opostas atua em linhas paralelas distintas.",
+     "enunciado": "Sua soma de forças nula garante equilíbrio estático.",
+     "gabarito": "E",
+     "comentario": "Errado. Pode haver torque resultante.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Condições de equilíbrio estático de ponto material e de corpos rígidos"
+    },
+    {
+     "id": "enem-fisica-equilibrio-estatico-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Uma força de apoio passa pelo eixo escolhido.",
+     "enunciado": "Seu torque em torno desse eixo vale zero.",
+     "gabarito": "C",
+     "comentario": "Certo. O braço perpendicular é zero.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Condições de equilíbrio estático de ponto material e de corpos rígidos"
+    },
+    {
+     "id": "enem-fisica-equilibrio-estatico-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Uma gangorra tem torque líquido diferente de zero.",
+     "enunciado": "A condição de torque do equilíbrio está atendida.",
+     "gabarito": "E",
+     "comentario": "Errado. A soma de torques precisa anular-se.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Condições de equilíbrio estático de ponto material e de corpos rígidos"
+    },
+    {
+     "id": "enem-fisica-equilibrio-estatico-c14-q05",
+     "tipo": "me",
+     "texto_base": "Numa gangorra, uma força de 60 N atua a 2 m. Outra atua a 3 m no lado contrário.",
+     "enunciado": "Qual o módulo da segunda para equilibrar o torque?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "90 N",
+      "B": "40 N",
+      "C": "120 N",
+      "D": "20 N",
+      "E": "30 N"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Inverte a relação de braços.",
+      "B": "Correta. Iguale 60 × 2 a F × 3.",
+      "C": "É o número do primeiro torque.",
+      "D": "Divide a força por 3 sem o braço inicial.",
+      "E": "Usa só o primeiro braço como divisor."
+     },
+     "comentario": "A) Inverte a relação de braços.\nB) Correta. Iguale 60 × 2 a F × 3.\nC) É o número do primeiro torque.\nD) Divide a força por 3 sem o braço inicial.\nE) Usa só o primeiro braço como divisor.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Condições de equilíbrio estático de ponto material e de corpos rígidos"
+    },
+    {
+     "id": "enem-fisica-equilibrio-estatico-c14-q06",
+     "tipo": "me",
+     "texto_base": "Uma viga tem peso total de 80 N e um único apoio vertical, em repouso sem outras forças verticais.",
+     "enunciado": "Qual a força do apoio?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "40 N",
+      "B": "160 N",
+      "C": "0 N",
+      "D": "80 N",
+      "E": "20 N"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Não há dois apoios dividindo a carga.",
+      "B": "Conta peso e reação no mesmo sentido.",
+      "C": "Haveria força resultante para baixo.",
+      "D": "Correta. A força vertical deve equilibrar o peso.",
+      "E": "Não corresponde ao balanço vertical."
+     },
+     "comentario": "A) Não há dois apoios dividindo a carga.\nB) Conta peso e reação no mesmo sentido.\nC) Haveria força resultante para baixo.\nD) Correta. A força vertical deve equilibrar o peso.\nE) Não corresponde ao balanço vertical.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Condições de equilíbrio estático de ponto material e de corpos rígidos"
+    },
+    {
+     "id": "enem-fisica-equilibrio-estatico-c14-q07",
+     "tipo": "me",
+     "texto_base": "Uma placa recebe torques de +12, −5 e −3 N·m.",
+     "enunciado": "Qual torque adicional produz equilíbrio de rotação?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "−4 N·m",
+      "B": "+4 N·m",
+      "C": "−12 N·m",
+      "D": "+8 N·m",
+      "E": "0 N·m"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. A soma atual é +4; é preciso o oposto.",
+      "B": "Reforça a soma existente.",
+      "C": "Ignora dois dos torques.",
+      "D": "É o módulo da soma dos dois negativos.",
+      "E": "A soma atual é diferente de zero."
+     },
+     "comentario": "A) Correta. A soma atual é +4; é preciso o oposto.\nB) Reforça a soma existente.\nC) Ignora dois dos torques.\nD) É o módulo da soma dos dois negativos.\nE) A soma atual é diferente de zero.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Condições de equilíbrio estático de ponto material e de corpos rígidos"
+    },
+    {
+     "id": "enem-fisica-equilibrio-estatico-c14-q08",
+     "tipo": "me",
+     "texto_base": "Uma viga uniforme pesa 100 N e repousa sobre dois apoios simétricos.",
+     "enunciado": "Qual força vertical cada apoio exerce?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "100 N",
+      "B": "25 N",
+      "C": "200 N",
+      "D": "0 N",
+      "E": "50 N"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Cada apoio sustentaria o peso inteiro.",
+      "B": "Divide a carga em quatro partes.",
+      "C": "Duplica o peso.",
+      "D": "O peso ficaria sem oposição.",
+      "E": "Correta. A simetria divide igualmente a carga total."
+     },
+     "comentario": "A) Cada apoio sustentaria o peso inteiro.\nB) Divide a carga em quatro partes.\nC) Duplica o peso.\nD) O peso ficaria sem oposição.\nE) Correta. A simetria divide igualmente a carga total.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Condições de equilíbrio estático de ponto material e de corpos rígidos"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Qual condição impede aceleração de translação? Resposta: ___.",
+     "opcoes": [
+      "Resultante de forças nula.",
+      "Resultante de torques nula.",
+      "O corpo está em repouso e permanece assim.",
+      "Um que simplifique os torques, como o eixo de um apoio."
+     ],
+     "respostas": [
+      "Resultante de forças nula."
+     ],
+     "explicacao": "Resultante de forças nula."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Uma força pelo eixo gera torque? Resposta: ___.",
+     "opcoes": [
+      "O corpo está em repouso e permanece assim.",
+      "Um que simplifique os torques, como o eixo de um apoio.",
+      "Não sobre esse eixo.",
+      "Duas forças paralelas opostas com linhas de ação distintas, de torque resultante não nulo."
+     ],
+     "respostas": [
+      "Não sobre esse eixo."
+     ],
+     "explicacao": "Não sobre esse eixo."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma situação sobre equilíbrio estático de pontos e corpos rígidos.",
+     "itens": [
+      "Desenhar o corpo e as forças.",
+      "Escolher um eixo conveniente.",
+      "Igualar os torques opostos.",
+      "Verificar também a resultante de forças."
+     ],
+     "explicacao": "Equilíbrio estático exige repouso e resultantes de força e torque nulas. No modelo de ponto material, basta analisar a resultante de forças."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Qual condição impede aceleração de translação?",
+       "Resultante de forças nula."
+      ],
+      [
+       "Qual condição impede aceleração angular no modelo usual?",
+       "Resultante de torques nula."
+      ],
+      [
+       "O que distingue equilíbrio estático?",
+       "O corpo está em repouso e permanece assim."
+      ],
+      [
+       "Que eixo convém escolher num balanço?",
+       "Um que simplifique os torques, como o eixo de um apoio."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

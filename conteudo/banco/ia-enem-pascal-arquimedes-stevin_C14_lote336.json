@@ -1,0 +1,253 @@
+{
+ "assunto": "Pascal, Arquimedes e Stevin",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-pascal-arquimedes-stevin-c14",
+   "titulo": "Pascal, Arquimedes e Stevin",
+   "microconteudo": "RAIO-X DA PROVA: Use a relação física indicada e confira as condições em que ela se aplica. Pascal relaciona a transmissão de variações de pressão; Stevin relaciona pressão e profundidade; Arquimedes relaciona empuxo e peso de fluido deslocado.\n\nPOR QUE IMPORTA:\nUma oficina usa um elevador hidráulico, enquanto um laboratório mede pressão na água e prevê quanto de um bloco ficará submerso.\n\nO QUE A BANCA COBRA:\nUse a relação física indicada e confira as condições em que ela se aplica. Pascal relaciona a transmissão de variações de pressão; Stevin relaciona pressão e profundidade; Arquimedes relaciona empuxo e peso de fluido deslocado.\n\nENTENDA:\nUma oficina usa um elevador hidráulico, enquanto um laboratório mede pressão na água e prevê quanto de um bloco ficará submerso.\n\nPascal relaciona a transmissão de variações de pressão; Stevin relaciona pressão e profundidade; Arquimedes relaciona empuxo e peso de fluido deslocado.\n\nExemplo resolvido. Dois pistões no mesmo nível têm áreas 4 cm² e 28 cm². Com força de 35 N no menor, a pressão adicional transmitida produz 35 × 28/4 = 245 N no maior, desprezando perdas. Para preservar volume, se o menor desce 14 cm, o maior sobe 2 cm. O ganho de força é acompanhado por um deslocamento menor.\n\nOutro exemplo. Um prisma uniforme de densidade 750 kg/m³ flutua em água de densidade 1.000 kg/m³. Em equilíbrio, ρ da água × volume submerso = ρ do prisma × volume total. Assim, 75% do volume fica submerso. Se o prisma tem altura 16 cm e permanece vertical, submergem 12 cm.\n\nEm vasos comunicantes abertos com o mesmo líquido em repouso, as superfícies se ajustam até ficarem no mesmo nível. Se os níveis fossem diferentes, pontos à mesma altura numa região conectada teriam pressões incompatíveis com o repouso. Para líquidos diferentes, compare as pressões nas interfaces e use a densidade de cada coluna. Um líquido menos denso pode precisar de uma coluna maior para equilibrar uma coluna de outro líquido.\n\nPara explicar o resultado, use o vocabulário da situação. O que transmite um líquido confinado? Uma variação de pressão aplicada. De que depende a diferença hidrostática? Densidade, gravidade e diferença vertical de nível. Qual volume entra no empuxo? O de fluido deslocado. Quando um corpo flutua em equilíbrio? Quando o empuxo iguala o peso. O que é pressão absoluta? Pressão medida em relação ao vácuo. Por que o pistão largo sobe menos? O volume empurrado por um pistão é recebido pelo outro.\n\nNa hora de resolver no papel, siga a sequência abaixo. Identificar a pergunta física. Marcar áreas, níveis ou volume deslocado. Aplicar o princípio pertinente. Conferir unidade e condição de equilíbrio. Depois, escreva o resultado em uma frase completa. Um número isolado pode estar correto e, ainda assim, deixar ambíguo o que você calculou. Informe a unidade quando houver medida e identifique o objeto, a região ou o intervalo a que o resultado se refere.\n\nEvite confundir a pressão total com apenas o acréscimo ρgh. A pressão da superfície precisa ser incluída quando a pergunta pede pressão absoluta. Em Pascal, a pressão transmitida pode ser igual nos pistões, mas as forças diferem porque as áreas são distintas.\n\nReleia os dois exemplos resolvidos e tente antecipar o desfecho sem consultar o cálculo. No primeiro exemplo, identifique qual dado determina diretamente a resposta. No segundo, diga qual condição deve permanecer válida para que a conclusão se mantenha. Compare depois o papel das unidades e do sentido das grandezas. Se o resultado for qualitativo, procure enunciar a previsão em termos observáveis. Se for quantitativo, estime a escala antes de efetuar a última operação.\n\nVocê pode adaptar a análise a uma situação do cotidiano. Comece com esta ideia: Uma oficina usa um elevador hidráulico, enquanto um laboratório mede pressão na água e prevê quanto de um bloco ficará submerso. Em seguida, desenhe o cenário, indique o que está sendo comparado e escreva que dado precisaria medir para testar a previsão. Diferencie a regra do modelo das informações que servem apenas para situar a história. Isso ajuda a decidir o que aproveitar quando uma questão apresenta mais dados do que a resolução exige.\n\nTrês conferências úteis: a definição corresponde ao objeto descrito? As condições indicadas no enunciado permitem aplicar a regra? A resposta continua coerente ao voltar ao desenho? Faça a última conferência lendo esta relação no contexto: Pascal relaciona a transmissão de variações de pressão; Stevin relaciona pressão e profundidade; Arquimedes relaciona empuxo e peso de fluido deslocado. Uma hipótese deve ser usada dentro de sua faixa de validade; quando o contexto mudar, justifique a adaptação antes de transportar o resultado.\n\nAo treinar, explique a diferença entre o mecanismo e seu efeito. Evite confundir a pressão total com apenas o acréscimo ρgh. A pressão da superfície precisa ser incluída quando a pergunta pede pressão absoluta. Em Pascal, a pressão transmitida pode ser igual nos pistões, mas as forças diferem porque as áreas são distintas. Em um texto de prova, essa distinção pode aparecer escondida em uma frase sobre o resultado de uma medida. Identifique primeiro a causa física e depois a grandeza observada. Se for necessário comparar cenários, mude uma condição por vez para descobrir qual mudança explica a diferença.\n\nPergunte o que aconteceria se você aplicasse a regra a um desenho mais simples. Comece separando estas tarefas: Identificar a pergunta física. Marcar áreas, níveis ou volume deslocado. Aplicar o princípio pertinente. Conferir unidade e condição de equilíbrio. Refaça o primeiro exemplo apenas com setas ou um esquema, deixando os números para o final. Em seguida, recolha do enunciado as unidades e os sentidos. Uma seta no desenho pode indicar a direção de uma interação, a mudança de uma medida ou apenas uma referência. É importante dizer qual papel ela desempenha antes de usar a relação do começo da lição.\n\nPara consolidar, use três perguntas de revisão. De que depende a diferença hidrostática? Densidade, gravidade e diferença vertical de nível. Quando um corpo flutua em equilíbrio? Quando o empuxo iguala o peso. Por que o pistão largo sobe menos? O volume empurrado por um pistão é recebido pelo outro. A ideia é explicar essas respostas sem depender da ordem em que apareceram. Em um problema de comparação, preste atenção às palavras que mantêm algo igual entre os cenários. Em um problema de cálculo, confira a operação inversa quando possível. Por exemplo, reintroduza o resultado na relação inicial e verifique se os dados do problema são recuperados. Em uma questão qualitativa, faça o equivalente testando se a conclusão explica as condições observadas.\n\nTROCANDO EM MIÚDOS:\nUma oficina usa um elevador hidráulico, enquanto um laboratório mede pressão na água e prevê quanto de um bloco ficará submerso.\n\nPascal relaciona a transmissão de variações de pressão; Stevin relaciona pressão e profundidade; Arquimedes relaciona empuxo e peso de fluido deslocado.\n\nExemplo resolvido. Dois pistões no mesmo nível têm áreas 4 cm² e 28 cm². Com força de 35 N no menor, a pressão adicional transmitida produz 35 × 28/4 = 245 N no maior, desprezando perdas. Para preservar volume, se o menor desce 14 cm, o maior sobe 2 cm. O ganho de força é acompanhado por um deslocamento menor.\n\nOutro exemplo. Um prisma uniforme de densidade 750 kg/m³ flutua em água de densidade 1.000 kg/m³. Em equilíbrio, ρ da água × volume submerso = ρ do prisma × volume total. Assim, 75% do volume fica submerso. Se o prisma tem altura 16 cm e permanece vertical, submergem 12 cm.\n\nEvite confundir a pressão total com apenas o acréscimo ρgh. A pressão da superfície precisa ser incluída quando a pergunta pede pressão absoluta. Em Pascal, a pressão transmitida pode ser igual nos pistões, mas as forças diferem porque as áreas são distintas.\n\nO que transmite um líquido confinado? Uma variação de pressão aplicada. De que depende a diferença hidrostática? Densidade, gravidade e diferença vertical de nível. Qual volume entra no empuxo? O de fluido deslocado. Quando um corpo flutua em equilíbrio? Quando o empuxo iguala o peso. O que é pressão absoluta? Pressão medida em relação ao vácuo. Por que o pistão largo sobe menos? O volume empurrado por um pistão é recebido pelo outro.\n\nPara montar seu rascunho: Identificar a pergunta física. Marcar áreas, níveis ou volume deslocado. Aplicar o princípio pertinente. Conferir unidade e condição de equilíbrio. Na leitura final, escolha a parte do desenho que corresponde ao resultado. Se encontrar uma unidade diferente da pedida, volte ao cálculo e confira os fatores de conversão. Quando a pergunta for conceitual, confira se a explicação indica o mecanismo que liga o dado à conclusão. Você pode comparar os dois exemplos da lição antes de tentar os exercícios e explicar de memória por que cada resultado faz sentido.\n\nLEI SECA:\nPascal relaciona a transmissão de variações de pressão; Stevin relaciona pressão e profundidade; Arquimedes relaciona empuxo e peso de fluido deslocado.\n\nSÚMULAS E TESES:\nOutro exemplo. Um prisma uniforme de densidade 750 kg/m³ flutua em água de densidade 1.000 kg/m³. Em equilíbrio, ρ da água × volume submerso = ρ do prisma × volume total. Assim, 75% do volume fica submerso. Se o prisma tem altura 16 cm e permanece vertical, submergem 12 cm.\n\nESQUEMA:\nIdentificar a pergunta física. → Marcar áreas, níveis ou volume deslocado. → Aplicar o princípio pertinente. → Conferir unidade e condição de equilíbrio.\n\nPEGADINHAS:\nEvite confundir a pressão total com apenas o acréscimo ρgh. A pressão da superfície precisa ser incluída quando a pergunta pede pressão absoluta. Em Pascal, a pressão transmitida pode ser igual nos pistões, mas as forças diferem porque as áreas são distintas.\n\nDOUTRINA:\nPascal’s Principle\n\nNA PRÁTICA:\nExemplo resolvido. Dois pistões no mesmo nível têm áreas 4 cm² e 28 cm². Com força de 35 N no menor, a pressão adicional transmitida produz 35 × 28/4 = 245 N no maior, desprezando perdas. Para preservar volume, se o menor desce 14 cm, o maior sobe 2 cm. O ganho de força é acompanhado por um deslocamento menor.",
+   "flashcards": [
+    {
+     "frente": "O que transmite um líquido confinado?",
+     "verso": "Uma variação de pressão aplicada.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Princípios de Pascal, Arquimedes e Stevin: condições de flutuação, relação entre diferença de nível e pressão hidrostática"
+    },
+    {
+     "frente": "De que depende a diferença hidrostática?",
+     "verso": "Densidade, gravidade e diferença vertical de nível.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Princípios de Pascal, Arquimedes e Stevin: condições de flutuação, relação entre diferença de nível e pressão hidrostática"
+    },
+    {
+     "frente": "Qual volume entra no empuxo?",
+     "verso": "O de fluido deslocado.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Princípios de Pascal, Arquimedes e Stevin: condições de flutuação, relação entre diferença de nível e pressão hidrostática"
+    },
+    {
+     "frente": "Quando um corpo flutua em equilíbrio?",
+     "verso": "Quando o empuxo iguala o peso.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Princípios de Pascal, Arquimedes e Stevin: condições de flutuação, relação entre diferença de nível e pressão hidrostática"
+    },
+    {
+     "frente": "O que é pressão absoluta?",
+     "verso": "Pressão medida em relação ao vácuo.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Princípios de Pascal, Arquimedes e Stevin: condições de flutuação, relação entre diferença de nível e pressão hidrostática"
+    },
+    {
+     "frente": "Por que o pistão largo sobe menos?",
+     "verso": "O volume empurrado por um pistão é recebido pelo outro.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Princípios de Pascal, Arquimedes e Stevin: condições de flutuação, relação entre diferença de nível e pressão hidrostática"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-pascal-arquimedes-stevin-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Prensa ideal com pistões no mesmo nível.",
+     "enunciado": "A variação de pressão pode ser igual nos dois pistões.",
+     "gabarito": "C",
+     "comentario": "Certo. Pascal descreve a transmissão da variação.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Princípios de Pascal, Arquimedes e Stevin: condições de flutuação, relação entre diferença de nível e pressão hidrostática"
+    },
+    {
+     "id": "enem-fisica-pascal-arquimedes-stevin-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Um bloco flutua livremente.",
+     "enunciado": "O empuxo é maior que o peso em equilíbrio.",
+     "gabarito": "E",
+     "comentario": "Errado. O equilíbrio exige módulos iguais.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Princípios de Pascal, Arquimedes e Stevin: condições de flutuação, relação entre diferença de nível e pressão hidrostática"
+    },
+    {
+     "id": "enem-fisica-pascal-arquimedes-stevin-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Dois pontos no mesmo líquido em repouso apresentam profundidades diferentes.",
+     "enunciado": "A pressão é maior no ponto mais profundo.",
+     "gabarito": "C",
+     "comentario": "Certo. A diferença vale ρgΔh.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Princípios de Pascal, Arquimedes e Stevin: condições de flutuação, relação entre diferença de nível e pressão hidrostática"
+    },
+    {
+     "id": "enem-fisica-pascal-arquimedes-stevin-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Uma prensa tem pistão de saída mais largo.",
+     "enunciado": "O pistão largo percorre distância maior sob o mesmo volume deslocado.",
+     "gabarito": "E",
+     "comentario": "Errado. O deslocamento é inversamente proporcional à área.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Princípios de Pascal, Arquimedes e Stevin: condições de flutuação, relação entre diferença de nível e pressão hidrostática"
+    },
+    {
+     "id": "enem-fisica-pascal-arquimedes-stevin-c14-q05",
+     "tipo": "me",
+     "texto_base": "Na água, Δh = 5 m, ρ = 1.000 kg/m³ e g = 10 m/s².",
+     "enunciado": "Qual a diferença de pressão?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "5 kPa",
+      "B": "50 kPa",
+      "C": "500 kPa",
+      "D": "100 kPa",
+      "E": "1 kPa"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Omite um fator dez.",
+      "B": "Correta. O produto resulta em 50.000 Pa.",
+      "C": "Acrescenta um fator dez.",
+      "D": "Não é a diferença calculada.",
+      "E": "Não corresponde à profundidade dada."
+     },
+     "comentario": "A) Omite um fator dez.\nB) Correta. O produto resulta em 50.000 Pa.\nC) Acrescenta um fator dez.\nD) Não é a diferença calculada.\nE) Não corresponde à profundidade dada.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Princípios de Pascal, Arquimedes e Stevin: condições de flutuação, relação entre diferença de nível e pressão hidrostática"
+    },
+    {
+     "id": "enem-fisica-pascal-arquimedes-stevin-c14-q06",
+     "tipo": "me",
+     "texto_base": "Pistões ideais têm áreas em razão 1:6 e recebem força de 20 N no menor.",
+     "enunciado": "Qual força resulta no maior?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "20 N",
+      "B": "3,33 N",
+      "C": "60 N",
+      "D": "120 N",
+      "E": "26 N"
+     },
+     "comentarios_por_alternativa": {
+      "A": "A pressão igual não garante forças iguais.",
+      "B": "Inverte a razão.",
+      "C": "Triplica em vez de sextuplicar.",
+      "D": "Correta. Multiplique por seis.",
+      "E": "Soma uma razão à força."
+     },
+     "comentario": "A) A pressão igual não garante forças iguais.\nB) Inverte a razão.\nC) Triplica em vez de sextuplicar.\nD) Correta. Multiplique por seis.\nE) Soma uma razão à força.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Princípios de Pascal, Arquimedes e Stevin: condições de flutuação, relação entre diferença de nível e pressão hidrostática"
+    },
+    {
+     "id": "enem-fisica-pascal-arquimedes-stevin-c14-q07",
+     "tipo": "me",
+     "texto_base": "Um bloco desloca 0,004 m³ de água de densidade 1.000 kg/m³, com g = 10 m/s².",
+     "enunciado": "Qual é o empuxo?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "40 N",
+      "B": "4 N",
+      "C": "400 N",
+      "D": "10 N",
+      "E": "0,04 N"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Calcule 1.000 × 10 × 0,004.",
+      "B": "É o número da massa em quilogramas.",
+      "C": "Usa volume dez vezes maior.",
+      "D": "É apenas o número de g.",
+      "E": "Ignora a densidade."
+     },
+     "comentario": "A) Correta. Calcule 1.000 × 10 × 0,004.\nB) É o número da massa em quilogramas.\nC) Usa volume dez vezes maior.\nD) É apenas o número de g.\nE) Ignora a densidade.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Princípios de Pascal, Arquimedes e Stevin: condições de flutuação, relação entre diferença de nível e pressão hidrostática"
+    },
+    {
+     "id": "enem-fisica-pascal-arquimedes-stevin-c14-q08",
+     "tipo": "me",
+     "texto_base": "Um corpo uniforme de densidade 600 kg/m³ flutua em água de 1.000 kg/m³.",
+     "enunciado": "Qual fração fica submersa?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "40%",
+      "B": "100%",
+      "C": "6%",
+      "D": "16,7%",
+      "E": "60%"
+     },
+     "comentarios_por_alternativa": {
+      "A": "É a fração emersa.",
+      "B": "A densidade do corpo é menor.",
+      "C": "Erra o fator percentual.",
+      "D": "Não é a razão solicitada.",
+      "E": "Correta. A fração é a razão 600/1.000."
+     },
+     "comentario": "A) É a fração emersa.\nB) A densidade do corpo é menor.\nC) Erra o fator percentual.\nD) Não é a razão solicitada.\nE) Correta. A fração é a razão 600/1.000.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Princípios de Pascal, Arquimedes e Stevin: condições de flutuação, relação entre diferença de nível e pressão hidrostática"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O que transmite um líquido confinado? ___",
+     "opcoes": [
+      "Uma variação de pressão aplicada.",
+      "Densidade, gravidade e diferença vertical de nível.",
+      "O de fluido deslocado.",
+      "Quando o empuxo iguala o peso."
+     ],
+     "respostas": [
+      "Uma variação de pressão aplicada."
+     ],
+     "explicacao": "Uma variação de pressão aplicada."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Qual volume entra no empuxo? ___",
+     "opcoes": [
+      "O de fluido deslocado.",
+      "Quando o empuxo iguala o peso.",
+      "Pressão medida em relação ao vácuo.",
+      "O volume empurrado por um pistão é recebido pelo outro."
+     ],
+     "respostas": [
+      "O de fluido deslocado."
+     ],
+     "explicacao": "O de fluido deslocado."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise de pascal, arquimedes e stevin.",
+     "itens": [
+      "Identificar a pergunta física.",
+      "Marcar áreas, níveis ou volume deslocado.",
+      "Aplicar o princípio pertinente.",
+      "Conferir unidade e condição de equilíbrio."
+     ],
+     "explicacao": "Pascal relaciona a transmissão de variações de pressão; Stevin relaciona pressão e profundidade; Arquimedes relaciona empuxo e peso de fluido deslocado."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O que transmite um líquido confinado?",
+       "Uma variação de pressão aplicada."
+      ],
+      [
+       "De que depende a diferença hidrostática?",
+       "Densidade, gravidade e diferença vertical de nível."
+      ],
+      [
+       "Qual volume entra no empuxo?",
+       "O de fluido deslocado."
+      ],
+      [
+       "Quando um corpo flutua em equilíbrio?",
+       "Quando o empuxo iguala o peso."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

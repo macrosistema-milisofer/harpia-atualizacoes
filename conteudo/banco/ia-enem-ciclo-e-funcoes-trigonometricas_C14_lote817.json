@@ -1,0 +1,251 @@
+{
+ "assunto": "Ciclo trigonométrico e funções periódicas",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-ciclo-e-funcoes-trigonometricas-c14",
+   "titulo": "Ciclo trigonométrico e funções periódicas",
+   "microconteudo": "RAIO-X DA PROVA: Relacione coordenadas, ângulos, sinais, período e amplitude; confira se o problema usa graus ou radianos.\n\nPOR QUE IMPORTA:\nRodas, marés e sinais que se repetem podem ser descritos por funções trigonométricas. No ENEM, o ciclo ajuda a prever posições e interpretar gráficos.\n\nO QUE A BANCA COBRA:\nRelacione coordenadas, ângulos, sinais, período e amplitude; confira se o problema usa graus ou radianos.\n\nENTENDA:\n1. Graus e radianos\n\nUma volta mede 360° ou 2π radianos; na circunferência unitária, a medida positiva em radianos coincide com o comprimento do arco correspondente. O ponteiro gira 135° no sentido anti-horário. Qual é o giro em radianos? A resposta é **3π/4 rad**. Multiplique 135 por π/180 ou reconheça três oitavos da volta completa.\n\nUma resposta a examinar é “3π/2 rad”. Coloque lado a lado o que ela afirma e o dado principal do caso. Dividir a volta em oito partes deixa cada parte com 45° ou π/4 rad. Três dessas partes formam o ângulo dado. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\n2. Seno e cosseno\n\nNo círculo unitário, o ponto associado ao ângulo θ tem coordenadas (cos θ, sen θ). Um braço gira a partir do eixo x positivo e para em π/2 rad. Qual é a coordenada vertical da extremidade se o comprimento do braço é 1? A resposta é **1**. Um quarto de volta leva o ponto de (1,0) a (0,1). A coordenada vertical é o seno.\n\nUma resposta a examinar é “0”. Coloque lado a lado o que ela afirma e o dado principal do caso. O zero descreve a projeção horizontal nesse instante. Em meia volta, a coordenada que zera muda porque o ponto está sobre o eixo horizontal. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\n3. Sinais por quadrante\n\nO sinal do cosseno segue o eixo horizontal, e o do seno segue o eixo vertical. Uma direção faz 210° a partir do eixo x positivo e passa do ponto de 180°. Quais são os sinais de cosseno e seno, nessa ordem? A resposta é **Negativo e negativo**. 210° fica no terceiro quadrante, com coordenadas horizontal e vertical negativas.\n\nUma resposta a examinar é “Positivo e negativo”. Coloque lado a lado o que ela afirma e o dado principal do caso. O par de sinais positivo e negativo descreve o quarto quadrante. Usar só o ângulo de referência de 30° não basta para recuperar os sinais. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\n4. Período\n\nO período é o menor avanço positivo que faz o gráfico repetir todos os valores na mesma sequência. Uma altura segue h(t) = 6 + 2 sen(πt/5), com t em segundos. Qual é o período? A resposta é **10 s**. O argumento avança 2π quando t aumenta 10 unidades, pois (π/5) × 10 = 2π.\n\nUma resposta a examinar é “5 s”. Coloque lado a lado o que ela afirma e o dado principal do caso. Cinco segundos acrescentam π e levam o seno a seu oposto. O cruzamento da linha média nesses instantes não significa que a volta inteira acabou. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\n5. Amplitude e média\n\nEm y = D + A sen(Bt), a linha média é D e a amplitude é o módulo de A. A altura da água oscila entre 1,2 m e 2,8 m. Qual é a amplitude? A resposta é **0,8 m**. A amplitude é metade da diferença entre máximo e mínimo: (2,8 − 1,2)/2 = 0,8.\n\nUma resposta a examinar é “1,6 m”. Coloque lado a lado o que ela afirma e o dado principal do caso. A altura entre os extremos é o dobro da amplitude. A linha média é 2 m e fica à mesma distância dos dois extremos. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\n6. Tangente\n\nA tangente é sen θ dividido por cos θ e não está definida se o denominador é zero. Considera-se a direção vertical obtida por rotação de 90° no ciclo. Qual é a tangente desse ângulo? A resposta é **Não está definida**. O seno vale 1 e o cosseno vale 0. Não há número real que represente 1 dividido por zero.\n\nUma resposta a examinar é “É igual a zero”. Coloque lado a lado o que ela afirma e o dado principal do caso. A tangente vale zero em ângulos como 0°, nos quais o numerador é zero e o denominador não é. Isso é diferente da situação vertical. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\nTROCANDO EM MIÚDOS:\n**Graus e radianos.** O ponteiro gira 135° no sentido anti-horário. Qual é o giro em radianos? 3π/4 rad. Multiplique 135 por π/180 ou reconheça três oitavos da volta completa. Dividir a volta em oito partes deixa cada parte com 45° ou π/4 rad. Três dessas partes formam o ângulo dado.\n\n**Seno e cosseno.** Um braço gira a partir do eixo x positivo e para em π/2 rad. Qual é a coordenada vertical da extremidade se o comprimento do braço é 1? 1. Um quarto de volta leva o ponto de (1,0) a (0,1). A coordenada vertical é o seno. O zero descreve a projeção horizontal nesse instante. Em meia volta, a coordenada que zera muda porque o ponto está sobre o eixo horizontal.\n\n**Sinais por quadrante.** Uma direção faz 210° a partir do eixo x positivo e passa do ponto de 180°. Quais são os sinais de cosseno e seno, nessa ordem? Negativo e negativo. 210° fica no terceiro quadrante, com coordenadas horizontal e vertical negativas. O par de sinais positivo e negativo descreve o quarto quadrante. Usar só o ângulo de referência de 30° não basta para recuperar os sinais.\n\n**Período.** Uma altura segue h(t) = 6 + 2 sen(πt/5), com t em segundos. Qual é o período? 10 s. O argumento avança 2π quando t aumenta 10 unidades, pois (π/5) × 10 = 2π. Cinco segundos acrescentam π e levam o seno a seu oposto. O cruzamento da linha média nesses instantes não significa que a volta inteira acabou.\n\n**Amplitude e média.** A altura da água oscila entre 1,2 m e 2,8 m. Qual é a amplitude? 0,8 m. A amplitude é metade da diferença entre máximo e mínimo: (2,8 − 1,2)/2 = 0,8. A altura entre os extremos é o dobro da amplitude. A linha média é 2 m e fica à mesma distância dos dois extremos.\n\n**Tangente.** Considera-se a direção vertical obtida por rotação de 90° no ciclo. Qual é a tangente desse ângulo? Não está definida. O seno vale 1 e o cosseno vale 0. Não há número real que represente 1 dividido por zero. A tangente vale zero em ângulos como 0°, nos quais o numerador é zero e o denominador não é. Isso é diferente da situação vertical.\n\nESQUEMA:\n• Graus e radianos → Uma volta mede 360° ou 2π radianos; na circunferência unitária, a medida positiva em radianos coincide com o comprimento do arco correspondente.\n• Seno e cosseno → No círculo unitário, o ponto associado ao ângulo θ tem coordenadas (cos θ, sen θ).\n• Sinais por quadrante → O sinal do cosseno segue o eixo horizontal, e o do seno segue o eixo vertical.\n• Período → O período é o menor avanço positivo que faz o gráfico repetir todos os valores na mesma sequência.\n• Amplitude e média → Em y = D + A sen(Bt), a linha média é D e a amplitude é o módulo de A.\n• Tangente → A tangente é sen θ dividido por cos θ e não está definida se o denominador é zero.\n\nPEGADINHAS:\n• Graus e radianos: confira por que “3π/2 rad” falha nesse caso.\n• Seno e cosseno: confira por que “0” falha nesse caso.\n• Sinais por quadrante: confira por que “Positivo e negativo” falha nesse caso.\n• Período: confira por que “5 s” falha nesse caso.\n\nNA PRÁTICA:\nConsidera-se a direção vertical obtida por rotação de 90° no ciclo. Qual é a tangente desse ângulo? **Resposta:** Não está definida. O seno vale 1 e o cosseno vale 0. Não há número real que represente 1 dividido por zero.",
+   "flashcards": [
+    {
+     "frente": "Como reconhecer graus e radianos?",
+     "verso": "Uma volta mede 360° ou 2π radianos; na circunferência unitária, a medida positiva em radianos coincide com o comprimento do arco correspondente.",
+     "dispositivo": "Conhecimentos algébricos — Relações no ciclo trigonométrico e funções trigonométricas"
+    },
+    {
+     "frente": "Como reconhecer seno e cosseno?",
+     "verso": "No círculo unitário, o ponto associado ao ângulo θ tem coordenadas (cos θ, sen θ).",
+     "dispositivo": "Conhecimentos algébricos — Relações no ciclo trigonométrico e funções trigonométricas"
+    },
+    {
+     "frente": "Como reconhecer sinais por quadrante?",
+     "verso": "O sinal do cosseno segue o eixo horizontal, e o do seno segue o eixo vertical.",
+     "dispositivo": "Conhecimentos algébricos — Relações no ciclo trigonométrico e funções trigonométricas"
+    },
+    {
+     "frente": "Como reconhecer período?",
+     "verso": "O período é o menor avanço positivo que faz o gráfico repetir todos os valores na mesma sequência.",
+     "dispositivo": "Conhecimentos algébricos — Relações no ciclo trigonométrico e funções trigonométricas"
+    },
+    {
+     "frente": "Como reconhecer amplitude e média?",
+     "verso": "Em y = D + A sen(Bt), a linha média é D e a amplitude é o módulo de A.",
+     "dispositivo": "Conhecimentos algébricos — Relações no ciclo trigonométrico e funções trigonométricas"
+    },
+    {
+     "frente": "Como reconhecer tangente?",
+     "verso": "A tangente é sen θ dividido por cos θ e não está definida se o denominador é zero.",
+     "dispositivo": "Conhecimentos algébricos — Relações no ciclo trigonométrico e funções trigonométricas"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-ciclo-e-funcoes-trigonometricas-c14-q01",
+     "tipo": "ce",
+     "texto_base": "O ponteiro gira 135° no sentido anti-horário. Qual é o giro em radianos?",
+     "enunciado": "A resposta é “3π/4 rad”.",
+     "gabarito": "C",
+     "habilidade": "H21",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos — Relações no ciclo trigonométrico e funções trigonométricas",
+     "comentario": "Multiplique 135 por π/180 ou reconheça três oitavos da volta completa."
+    },
+    {
+     "id": "enem-ciclo-e-funcoes-trigonometricas-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Uma direção faz 210° a partir do eixo x positivo e passa do ponto de 180°. Quais são os sinais de cosseno e seno, nessa ordem?",
+     "enunciado": "A resposta é “Positivo e negativo”.",
+     "gabarito": "E",
+     "habilidade": "H21",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos — Relações no ciclo trigonométrico e funções trigonométricas",
+     "comentario": "A resposta é “Negativo e negativo”. 210° fica no terceiro quadrante, com coordenadas horizontal e vertical negativas."
+    },
+    {
+     "id": "enem-ciclo-e-funcoes-trigonometricas-c14-q03",
+     "tipo": "ce",
+     "texto_base": "A altura da água oscila entre 1,2 m e 2,8 m. Qual é a amplitude?",
+     "enunciado": "A resposta é “1,6 m”.",
+     "gabarito": "E",
+     "habilidade": "H21",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos — Relações no ciclo trigonométrico e funções trigonométricas",
+     "comentario": "A resposta é “0,8 m”. A amplitude é metade da diferença entre máximo e mínimo: (2,8 − 1,2)/2 = 0,8."
+    },
+    {
+     "id": "enem-ciclo-e-funcoes-trigonometricas-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Considera-se a direção vertical obtida por rotação de 90° no ciclo. Qual é a tangente desse ângulo?",
+     "enunciado": "A resposta é “Não está definida”.",
+     "gabarito": "C",
+     "habilidade": "H21",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos — Relações no ciclo trigonométrico e funções trigonométricas",
+     "comentario": "O seno vale 1 e o cosseno vale 0. Não há número real que represente 1 dividido por zero."
+    },
+    {
+     "id": "enem-ciclo-e-funcoes-trigonometricas-c14-q05",
+     "tipo": "me",
+     "texto_base": "Um braço gira a partir do eixo x positivo e para em π/2 rad.",
+     "enunciado": "Qual é a coordenada vertical da extremidade se o comprimento do braço é 1?",
+     "gabarito": "A",
+     "habilidade": "H21",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos — Relações no ciclo trigonométrico e funções trigonométricas",
+     "alternativas": {
+      "A": "1",
+      "B": "0",
+      "C": "Negativo e negativo",
+      "D": "10 s",
+      "E": "0,8 m"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Um quarto de volta leva o ponto de (1,0) a (0,1). A coordenada vertical é o seno.",
+      "B": "Um quarto de volta leva o ponto de (1,0) a (0,1). A coordenada vertical é o seno.",
+      "C": "Essa resposta descreve um caso de sinais por quadrante. Um quarto de volta leva o ponto de (1,0) a (0,1). A coordenada vertical é o seno.",
+      "D": "Essa resposta descreve um caso de período. Um quarto de volta leva o ponto de (1,0) a (0,1). A coordenada vertical é o seno.",
+      "E": "Essa resposta descreve um caso de amplitude e média. Um quarto de volta leva o ponto de (1,0) a (0,1). A coordenada vertical é o seno."
+     },
+     "comentario": "A) Correta. Um quarto de volta leva o ponto de (1,0) a (0,1). A coordenada vertical é o seno.\nB) Um quarto de volta leva o ponto de (1,0) a (0,1). A coordenada vertical é o seno.\nC) Essa resposta descreve um caso de sinais por quadrante. Um quarto de volta leva o ponto de (1,0) a (0,1). A coordenada vertical é o seno.\nD) Essa resposta descreve um caso de período. Um quarto de volta leva o ponto de (1,0) a (0,1). A coordenada vertical é o seno.\nE) Essa resposta descreve um caso de amplitude e média. Um quarto de volta leva o ponto de (1,0) a (0,1). A coordenada vertical é o seno."
+    },
+    {
+     "id": "enem-ciclo-e-funcoes-trigonometricas-c14-q06",
+     "tipo": "me",
+     "texto_base": "Uma direção faz 210° a partir do eixo x positivo e passa do ponto de 180°.",
+     "enunciado": "Quais são os sinais de cosseno e seno, nessa ordem?",
+     "gabarito": "B",
+     "habilidade": "H21",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos — Relações no ciclo trigonométrico e funções trigonométricas",
+     "alternativas": {
+      "A": "Positivo e negativo",
+      "B": "Negativo e negativo",
+      "C": "10 s",
+      "D": "0,8 m",
+      "E": "Não está definida"
+     },
+     "comentarios_por_alternativa": {
+      "A": "210° fica no terceiro quadrante, com coordenadas horizontal e vertical negativas.",
+      "B": "Correta. 210° fica no terceiro quadrante, com coordenadas horizontal e vertical negativas.",
+      "C": "Essa resposta descreve um caso de período. 210° fica no terceiro quadrante, com coordenadas horizontal e vertical negativas.",
+      "D": "Essa resposta descreve um caso de amplitude e média. 210° fica no terceiro quadrante, com coordenadas horizontal e vertical negativas.",
+      "E": "Essa resposta descreve um caso de tangente. 210° fica no terceiro quadrante, com coordenadas horizontal e vertical negativas."
+     },
+     "comentario": "A) 210° fica no terceiro quadrante, com coordenadas horizontal e vertical negativas.\nB) Correta. 210° fica no terceiro quadrante, com coordenadas horizontal e vertical negativas.\nC) Essa resposta descreve um caso de período. 210° fica no terceiro quadrante, com coordenadas horizontal e vertical negativas.\nD) Essa resposta descreve um caso de amplitude e média. 210° fica no terceiro quadrante, com coordenadas horizontal e vertical negativas.\nE) Essa resposta descreve um caso de tangente. 210° fica no terceiro quadrante, com coordenadas horizontal e vertical negativas."
+    },
+    {
+     "id": "enem-ciclo-e-funcoes-trigonometricas-c14-q07",
+     "tipo": "me",
+     "texto_base": "Uma altura segue h(t) = 6 + 2 sen(πt/5), com t em segundos.",
+     "enunciado": "Qual é o período?",
+     "gabarito": "C",
+     "habilidade": "H21",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos — Relações no ciclo trigonométrico e funções trigonométricas",
+     "alternativas": {
+      "A": "5 s",
+      "B": "0,8 m",
+      "C": "10 s",
+      "D": "Não está definida",
+      "E": "3π/4 rad"
+     },
+     "comentarios_por_alternativa": {
+      "A": "O argumento avança 2π quando t aumenta 10 unidades, pois (π/5) × 10 = 2π.",
+      "B": "Essa resposta descreve um caso de amplitude e média. O argumento avança 2π quando t aumenta 10 unidades, pois (π/5) × 10 = 2π.",
+      "C": "Correta. O argumento avança 2π quando t aumenta 10 unidades, pois (π/5) × 10 = 2π.",
+      "D": "Essa resposta descreve um caso de tangente. O argumento avança 2π quando t aumenta 10 unidades, pois (π/5) × 10 = 2π.",
+      "E": "Essa resposta descreve um caso de graus e radianos. O argumento avança 2π quando t aumenta 10 unidades, pois (π/5) × 10 = 2π."
+     },
+     "comentario": "A) O argumento avança 2π quando t aumenta 10 unidades, pois (π/5) × 10 = 2π.\nB) Essa resposta descreve um caso de amplitude e média. O argumento avança 2π quando t aumenta 10 unidades, pois (π/5) × 10 = 2π.\nC) Correta. O argumento avança 2π quando t aumenta 10 unidades, pois (π/5) × 10 = 2π.\nD) Essa resposta descreve um caso de tangente. O argumento avança 2π quando t aumenta 10 unidades, pois (π/5) × 10 = 2π.\nE) Essa resposta descreve um caso de graus e radianos. O argumento avança 2π quando t aumenta 10 unidades, pois (π/5) × 10 = 2π."
+    },
+    {
+     "id": "enem-ciclo-e-funcoes-trigonometricas-c14-q08",
+     "tipo": "me",
+     "texto_base": "A altura da água oscila entre 1,2 m e 2,8 m.",
+     "enunciado": "Qual é a amplitude?",
+     "gabarito": "D",
+     "habilidade": "H21",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos — Relações no ciclo trigonométrico e funções trigonométricas",
+     "alternativas": {
+      "A": "1,6 m",
+      "B": "Não está definida",
+      "C": "3π/4 rad",
+      "D": "0,8 m",
+      "E": "1"
+     },
+     "comentarios_por_alternativa": {
+      "A": "A amplitude é metade da diferença entre máximo e mínimo: (2,8 − 1,2)/2 = 0,8.",
+      "B": "Essa resposta descreve um caso de tangente. A amplitude é metade da diferença entre máximo e mínimo: (2,8 − 1,2)/2 = 0,8.",
+      "C": "Essa resposta descreve um caso de graus e radianos. A amplitude é metade da diferença entre máximo e mínimo: (2,8 − 1,2)/2 = 0,8.",
+      "D": "Correta. A amplitude é metade da diferença entre máximo e mínimo: (2,8 − 1,2)/2 = 0,8.",
+      "E": "Essa resposta descreve um caso de seno e cosseno. A amplitude é metade da diferença entre máximo e mínimo: (2,8 − 1,2)/2 = 0,8."
+     },
+     "comentario": "A) A amplitude é metade da diferença entre máximo e mínimo: (2,8 − 1,2)/2 = 0,8.\nB) Essa resposta descreve um caso de tangente. A amplitude é metade da diferença entre máximo e mínimo: (2,8 − 1,2)/2 = 0,8.\nC) Essa resposta descreve um caso de graus e radianos. A amplitude é metade da diferença entre máximo e mínimo: (2,8 − 1,2)/2 = 0,8.\nD) Correta. A amplitude é metade da diferença entre máximo e mínimo: (2,8 − 1,2)/2 = 0,8.\nE) Essa resposta descreve um caso de seno e cosseno. A amplitude é metade da diferença entre máximo e mínimo: (2,8 − 1,2)/2 = 0,8."
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O ponteiro gira 135° no sentido anti-horário. Qual é o giro em radianos? Resposta: ___.",
+     "opcoes": [
+      "3π/4 rad",
+      "3π/2 rad",
+      "1"
+     ],
+     "respostas": [
+      "3π/4 rad"
+     ],
+     "explicacao": "Multiplique 135 por π/180 ou reconheça três oitavos da volta completa."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Considera-se a direção vertical obtida por rotação de 90° no ciclo. Qual é a tangente desse ângulo? Resposta: ___.",
+     "opcoes": [
+      "Não está definida",
+      "É igual a zero",
+      "3π/4 rad"
+     ],
+     "respostas": [
+      "Não está definida"
+     ],
+     "explicacao": "O seno vale 1 e o cosseno vale 0. Não há número real que represente 1 dividido por zero."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a leitura do caso. Uma altura segue h(t) = 6 + 2 sen(πt/5), com t em segundos. Qual é o período?",
+     "itens": [
+      "Identificar o que a pergunta pede.",
+      "Separar os dados relevantes.",
+      "Relacionar os dados ao conceito.",
+      "Conferir a conclusão."
+     ],
+     "explicacao": "O argumento avança 2π quando t aumenta 10 unidades, pois (π/5) × 10 = 2π."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Graus e radianos",
+       "Uma volta mede 360° ou 2π radianos; na circunferência unitária, a medida positiva em radianos coincide com o comprimento do arco correspondente."
+      ],
+      [
+       "Seno e cosseno",
+       "No círculo unitário, o ponto associado ao ângulo θ tem coordenadas (cos θ, sen θ)."
+      ],
+      [
+       "Sinais por quadrante",
+       "O sinal do cosseno segue o eixo horizontal, e o do seno segue o eixo vertical."
+      ],
+      [
+       "Período",
+       "O período é o menor avanço positivo que faz o gráfico repetir todos os valores na mesma sequência."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,253 @@
+{
+ "assunto": "Força resultante e variação do momento",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-forca-variacao-momento-c14",
+   "titulo": "Força resultante e variação do momento",
+   "microconteudo": "RAIO-X DA PROVA: Interprete a situação e justifique a conclusão com a relação física pertinente. A força resultante média em um intervalo é Δp/Δt. Para massa constante, equivale a m vezes a aceleração média.\n\nPOR QUE IMPORTA:\nUma bola rebate em uma parede e volta em sentido contrário. Mesmo que mantenha a rapidez, seu momento muda e a parede exerce uma força durante o contato.\n\nO QUE A BANCA COBRA:\nInterprete a situação e justifique a conclusão com a relação física pertinente. A força resultante média em um intervalo é Δp/Δt. Para massa constante, equivale a m vezes a aceleração média.\n\nENTENDA:\nComece por esta situação: Uma bola rebate em uma parede e volta em sentido contrário. Mesmo que mantenha a rapidez, seu momento muda e a parede exerce uma força durante o contato. Leia os dados disponíveis e faça uma previsão antes de procurar uma fórmula. A força resultante média em um intervalo é Δp/Δt. Para massa constante, equivale a m vezes a aceleração média. Com sentido positivo para a parede, uma bola de 0,5 kg que vai de +4 a −4 m/s tem Δp = −4 kg·m/s.\n\nUm gráfico de força resultante por tempo pode ter picos diferentes e a mesma área algébrica. Uma força de 12 N atuando por 0,5 s fornece variação de momento de 6 kg·m/s. Uma força constante de 3 N por 2 s produz a mesma variação. Em um choque real, a força muda durante o contato. A média resume o efeito no intervalo, mas não informa o pico. Essa diferença ajuda a interpretar por que dois testes com o mesmo momento final podem apresentar esforços máximos muito diferentes.\n\nConfira o significado das palavras da questão. Como obter Δp? Subtraia o momento inicial do final.\nQual força entra em Δp/Δt? A força resultante média no intervalo.\nQual a unidade da força? Newton.\nO que faz um intervalo maior com o mesmo Δp? Reduz o módulo da força média.\nMudança de direção altera p? Sim, mesmo com rapidez constante.\nQual força média resulta de Δp zero? Zero no intervalo considerado. Se dois termos parecem próximos, compare o que cada um descreve no caso inicial. Em Física, trocar o nome de uma grandeza pode mudar o cálculo ou até o que se está tentando explicar. Escreva, ao lado de cada símbolo, qual parte da situação ele representa e em que unidade seria medido.\n\nExemplo 1. O momento muda de 2 para 10 kg·m/s em 4 s. Qual é a força média no eixo? A resposta é 2 N. Divida 8 kg·m/s por 4 s. É o valor numérico da variação de momento. Usa a soma dos momentos. Usa o momento final sem subtrair o inicial. O momento aumentou no sentido positivo.\n\nExemplo 2. Uma bola de 1 kg vai de +3 para −3 m/s em 0,2 s. Qual é a força média no eixo? A resposta é −30 N. A mudança de momento é −6 kg·m/s. O sinal da mudança é negativo. A rapidez é igual, mas a velocidade muda. Usa apenas um dos momentos. Falta dividir pelo tempo.\n\nExemplo 3. Um acolchoamento dobra o tempo necessário para parar um objeto, com mesma variação de momento. O que acontece com a força média em módulo? A resposta é Cai à metade.. O tempo aparece no denominador. Isso ocorreria se o intervalo caísse à metade. Não existe relação quadrática aqui. A variação é igual, mas o intervalo muda. A mudança continua ocorrendo.\n\nExemplo 4. Uma força resultante média de 6 N atua por 3 s no eixo positivo. Qual mudança de momento ocorre? A resposta é +18 kg·m/s. O produto da força média pelo tempo é 18. Divide em vez de multiplicar. Soma unidades diferentes. A força foi dada no sentido positivo. Ignora o intervalo.\n\nTeste de interpretação. Uma bola retorna com a mesma rapidez. Considere a afirmação: “Seu momento pode mudar mesmo assim.” Certo. A velocidade vetorial muda de sentido. Dois objetos têm igual Δp, mas um leva mais tempo. Considere a afirmação: “Ele recebe maior força resultante média em módulo.” Errado. Dividir a mesma variação por tempo maior reduz a força média. Um objeto de massa constante sofre aceleração. Considere a afirmação: “Seu momento varia.” Certo. A velocidade varia e p é proporcional a ela. Um momento vai de −5 para +2 kg·m/s. Considere a afirmação: “A variação é −3 kg·m/s.” Errado. +2 − (−5) = +7 kg·m/s.\n\nUma sequência de resolução é útil quando a questão traz mais dados que o necessário. Primeiro, fixar o sentido positivo. Depois, calcular os momentos inicial e final. Em seguida, obter a variação de momento. Por último, dividir pelo intervalo de tempo. Explique oralmente por que cada passo vem nessa posição. Se a última conclusão mudar quando você troca um detalhe do enunciado, localize qual hipótese provocou essa mudança. Isso ajuda a distinguir o resultado de uma conta das condições em que ele vale.\n\nEm uma prova, procure separar o que o texto observou, o que o modelo assume e o que você concluiu. Um valor informado é um dado. Uma condição como desprezar o atrito ou tratar o intervalo como uniforme pode ser uma hipótese. Já o resultado é aquilo que você obtém ao combinar os dados com a regra escolhida. Se houver tabela ou figura, confira a legenda, os eixos e as unidades antes de usar os números. Para revisar, refaça um dos exemplos mudando um dado por vez e preveja o sentido da mudança antes de calcular.\n\nCheck de leitura. Escolha dois exemplos desta lição e compare o papel de cada informação. O que foi medido diretamente? Qual relação precisou ser usada para inferir uma resposta? Há alguma observação que, sozinha, seria insuficiente? Se a resposta for um número, faça uma estimativa simples para checar se ele é plausível. Se for uma explicação, procure indicar qual condição a torna válida. Depois, tente escrever uma resposta que inclua o dado utilizado, o raciocínio e a conclusão em uma ou duas frases.\n\nAo montar um rascunho, deixe os dados de um lado e a conclusão do outro. Comece pelo dado que tem relação direta com a pergunta. Caso sobrem informações, veja se elas servem para comparar hipóteses ou apenas situar a história. Em uma comparação, mantenha a mesma referência e o mesmo intervalo sempre que o enunciado permitir. Quando um resultado contradiz a previsão inicial, revise primeiro a interpretação do que foi pedido; em seguida, revise a operação e as condições assumidas.\n\nNa primeira, destaque o que o enunciado informa sobre as condições da situação. Na segunda, explique como a regra escolhida conecta essas condições ao resultado. Se houver um cálculo, escreva as unidades intermediárias. Em uma resposta sobre direção ou sentido, declare a orientação de referência. Uma alternativa pode conter um número familiar do enunciado e ainda responder sobre a grandeza errada.\n\nPara fechar, compare estas duas situações e procure a diferença física entre elas. Uma bola retorna com a mesma rapidez. Dois objetos têm igual Δp, mas um leva mais tempo. Quando o contexto muda, a leitura deve partir das informações apresentadas naquele caso. Considere a primeira afirmação e justifique o resultado: “Seu momento pode mudar mesmo assim.” Certo. A velocidade vetorial muda de sentido. Agora avalie a segunda: “Ele recebe maior força resultante média em módulo.” Errado. Dividir a mesma variação por tempo maior reduz a força média. Uma explicação adequada pode usar palavras e cálculos, desde que a relação com a situação seja clara. Pense em qual mudança nos dados tornaria cada afirmação válida ou inválida.\n\nUse este conjunto de definições como roteiro para checar o raciocínio. Como obter Δp? Subtraia o momento inicial do final.\nQual força entra em Δp/Δt? A força resultante média no intervalo.\nQual a unidade da força? Newton.\nO que faz um intervalo maior com o mesmo Δp? Reduz o módulo da força média.\nMudança de direção altera p? Sim, mesmo com rapidez constante.\nQual força média resulta de Δp zero? Zero no intervalo considerado. Ao voltar aos dados do começo, selecione as definições pertinentes ao caso. Leia a conclusão como se ela fosse uma frase independente: confira a unidade, a referência adotada e a condição de validade.\n\nTROCANDO EM MIÚDOS:\nImagine a situação do começo da lição. Uma bola rebate em uma parede e volta em sentido contrário. Mesmo que mantenha a rapidez, seu momento muda e a parede exerce uma força durante o contato. Com sentido positivo para a parede, uma bola de 0,5 kg que vai de +4 a −4 m/s tem Δp = −4 kg·m/s.\n\nA regra principal pode ser escrita assim: A força resultante média em um intervalo é Δp/Δt. Para massa constante, equivale a m vezes a aceleração média. Tente explicar essa regra em voz alta para alguém que ainda não viu o conteúdo, usando o exemplo inicial como apoio.\n\nAntes de marcar uma alternativa, faça esta checagem. Como obter Δp? Subtraia o momento inicial do final. Qual força entra em Δp/Δt? A força resultante média no intervalo. Qual a unidade da força? Newton. O que faz um intervalo maior com o mesmo Δp? Reduz o módulo da força média. Mudança de direção altera p? Sim, mesmo com rapidez constante. Qual força média resulta de Δp zero? Zero no intervalo considerado.\n\nEm um rascunho curto, anote quatro passos. Fixar o sentido positivo. Calcular os momentos inicial e final. Obter a variação de momento. Dividir pelo intervalo de tempo. Em seguida, tente aplicar os passos a um exemplo com números ou condições diferentes. As grandezas que foram medidas e o que você quer descobrir devem ficar em linhas separadas. Isso ajuda a identificar qual informação ainda falta.\n\nExperimente responder a esta situação sem olhar as opções. O momento muda de 2 para 10 kg·m/s em 4 s. Qual é a força média no eixo? Divida 8 kg·m/s por 4 s. Depois, confira nos exemplos quais seriam as consequências de escolher uma interpretação diferente. Se tiver que refazer, comece pelas condições do problema e pelo significado de cada dado.\n\nPara fixar, releia uma afirmação verdadeira e uma falsa da lição. Reescreva a falsa trocando só o trecho necessário para corrigi-la. Na afirmação verdadeira, diga qual detalhe do enunciado permite chegar a essa conclusão. Assim você pratica explicar um resultado, além de reconhecer qual opção está certa.\n\nLEI SECA:\nA força resultante média em um intervalo é Δp/Δt. Para massa constante, equivale a m vezes a aceleração média.\n\nSÚMULAS E TESES:\nCom sentido positivo para a parede, uma bola de 0,5 kg que vai de +4 a −4 m/s tem Δp = −4 kg·m/s.\n\nESQUEMA:\nFixar o sentido positivo → Calcular os momentos inicial e final → Obter a variação de momento → Dividir pelo intervalo de tempo\n\nPEGADINHAS:\n1. Certo. A velocidade vetorial muda de sentido.\n2. Errado. Dividir a mesma variação por tempo maior reduz a força média.\n3. Certo. A velocidade varia e p é proporcional a ela.\n4. Errado. +2 − (−5) = +7 kg·m/s.\n\nDOUTRINA:\nOpenStax — College Physics 2e, Linear Momentum and Force\n\nNA PRÁTICA:\nExemplo 1. O momento muda de 2 para 10 kg·m/s em 4 s. Qual é a força média no eixo? A resposta é 2 N. Divida 8 kg·m/s por 4 s. É o valor numérico da variação de momento. Usa a soma dos momentos. Usa o momento final sem subtrair o inicial. O momento aumentou no sentido positivo.",
+   "flashcards": [
+    {
+     "frente": "Como obter Δp?",
+     "verso": "Subtraia o momento inicial do final.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Força e variação da quantidade de movimento"
+    },
+    {
+     "frente": "Qual força entra em Δp/Δt?",
+     "verso": "A força resultante média no intervalo.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Força e variação da quantidade de movimento"
+    },
+    {
+     "frente": "Qual a unidade da força?",
+     "verso": "Newton.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Força e variação da quantidade de movimento"
+    },
+    {
+     "frente": "O que faz um intervalo maior com o mesmo Δp?",
+     "verso": "Reduz o módulo da força média.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Força e variação da quantidade de movimento"
+    },
+    {
+     "frente": "Mudança de direção altera p?",
+     "verso": "Sim, mesmo com rapidez constante.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Força e variação da quantidade de movimento"
+    },
+    {
+     "frente": "Qual força média resulta de Δp zero?",
+     "verso": "Zero no intervalo considerado.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Força e variação da quantidade de movimento"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-forca-variacao-momento-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Uma bola retorna com a mesma rapidez.",
+     "enunciado": "Seu momento pode mudar mesmo assim.",
+     "gabarito": "C",
+     "comentario": "Certo. A velocidade vetorial muda de sentido.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Força e variação da quantidade de movimento"
+    },
+    {
+     "id": "enem-fisica-forca-variacao-momento-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Dois objetos têm igual Δp, mas um leva mais tempo.",
+     "enunciado": "Ele recebe maior força resultante média em módulo.",
+     "gabarito": "E",
+     "comentario": "Errado. Dividir a mesma variação por tempo maior reduz a força média.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Força e variação da quantidade de movimento"
+    },
+    {
+     "id": "enem-fisica-forca-variacao-momento-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Um objeto de massa constante sofre aceleração.",
+     "enunciado": "Seu momento varia.",
+     "gabarito": "C",
+     "comentario": "Certo. A velocidade varia e p é proporcional a ela.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Força e variação da quantidade de movimento"
+    },
+    {
+     "id": "enem-fisica-forca-variacao-momento-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Um momento vai de −5 para +2 kg·m/s.",
+     "enunciado": "A variação é −3 kg·m/s.",
+     "gabarito": "E",
+     "comentario": "Errado. +2 − (−5) = +7 kg·m/s.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Força e variação da quantidade de movimento"
+    },
+    {
+     "id": "enem-fisica-forca-variacao-momento-c14-q05",
+     "tipo": "me",
+     "texto_base": "O momento muda de 2 para 10 kg·m/s em 4 s.",
+     "enunciado": "Qual é a força média no eixo?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "8 N",
+      "B": "2 N",
+      "C": "3 N",
+      "D": "2,5 N",
+      "E": "−2 N"
+     },
+     "comentarios_por_alternativa": {
+      "A": "É o valor numérico da variação de momento.",
+      "B": "Correta. Divida 8 kg·m/s por 4 s.",
+      "C": "Usa a soma dos momentos.",
+      "D": "Usa o momento final sem subtrair o inicial.",
+      "E": "O momento aumentou no sentido positivo."
+     },
+     "comentario": "A) É o valor numérico da variação de momento.\nB) Correta. Divida 8 kg·m/s por 4 s.\nC) Usa a soma dos momentos.\nD) Usa o momento final sem subtrair o inicial.\nE) O momento aumentou no sentido positivo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Força e variação da quantidade de movimento"
+    },
+    {
+     "id": "enem-fisica-forca-variacao-momento-c14-q06",
+     "tipo": "me",
+     "texto_base": "Uma bola de 1 kg vai de +3 para −3 m/s em 0,2 s.",
+     "enunciado": "Qual é a força média no eixo?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "+30 N",
+      "B": "Zero",
+      "C": "−15 N",
+      "D": "−30 N",
+      "E": "−6 N"
+     },
+     "comentarios_por_alternativa": {
+      "A": "O sinal da mudança é negativo.",
+      "B": "A rapidez é igual, mas a velocidade muda.",
+      "C": "Usa apenas um dos momentos.",
+      "D": "Correta. A mudança de momento é −6 kg·m/s.",
+      "E": "Falta dividir pelo tempo."
+     },
+     "comentario": "A) O sinal da mudança é negativo.\nB) A rapidez é igual, mas a velocidade muda.\nC) Usa apenas um dos momentos.\nD) Correta. A mudança de momento é −6 kg·m/s.\nE) Falta dividir pelo tempo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Força e variação da quantidade de movimento"
+    },
+    {
+     "id": "enem-fisica-forca-variacao-momento-c14-q07",
+     "tipo": "me",
+     "texto_base": "Um acolchoamento dobra o tempo necessário para parar um objeto, com mesma variação de momento.",
+     "enunciado": "O que acontece com a força média em módulo?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "Cai à metade.",
+      "B": "Dobra.",
+      "C": "Quadruplica.",
+      "D": "Fica igual.",
+      "E": "Zera."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. O tempo aparece no denominador.",
+      "B": "Isso ocorreria se o intervalo caísse à metade.",
+      "C": "Não existe relação quadrática aqui.",
+      "D": "A variação é igual, mas o intervalo muda.",
+      "E": "A mudança continua ocorrendo."
+     },
+     "comentario": "A) Correta. O tempo aparece no denominador.\nB) Isso ocorreria se o intervalo caísse à metade.\nC) Não existe relação quadrática aqui.\nD) A variação é igual, mas o intervalo muda.\nE) A mudança continua ocorrendo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Força e variação da quantidade de movimento"
+    },
+    {
+     "id": "enem-fisica-forca-variacao-momento-c14-q08",
+     "tipo": "me",
+     "texto_base": "Uma força resultante média de 6 N atua por 3 s no eixo positivo.",
+     "enunciado": "Qual mudança de momento ocorre?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "+2 kg·m/s",
+      "B": "+9 kg·m/s",
+      "C": "−18 kg·m/s",
+      "D": "+6 kg·m/s",
+      "E": "+18 kg·m/s"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Divide em vez de multiplicar.",
+      "B": "Soma unidades diferentes.",
+      "C": "A força foi dada no sentido positivo.",
+      "D": "Ignora o intervalo.",
+      "E": "Correta. O produto da força média pelo tempo é 18."
+     },
+     "comentario": "A) Divide em vez de multiplicar.\nB) Soma unidades diferentes.\nC) A força foi dada no sentido positivo.\nD) Ignora o intervalo.\nE) Correta. O produto da força média pelo tempo é 18.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Força e variação da quantidade de movimento"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Como obter Δp? Resposta: ___.",
+     "opcoes": [
+      "Subtraia o momento inicial do final.",
+      "A força resultante média no intervalo.",
+      "Newton.",
+      "Reduz o módulo da força média."
+     ],
+     "respostas": [
+      "Subtraia o momento inicial do final."
+     ],
+     "explicacao": "Subtraia o momento inicial do final."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Mudança de direção altera p? Resposta: ___.",
+     "opcoes": [
+      "Newton.",
+      "Reduz o módulo da força média.",
+      "Sim, mesmo com rapidez constante.",
+      "Zero no intervalo considerado."
+     ],
+     "respostas": [
+      "Sim, mesmo com rapidez constante."
+     ],
+     "explicacao": "Sim, mesmo com rapidez constante."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma situação sobre força resultante e variação do momento.",
+     "itens": [
+      "Fixar o sentido positivo.",
+      "Calcular os momentos inicial e final.",
+      "Obter a variação de momento.",
+      "Dividir pelo intervalo de tempo."
+     ],
+     "explicacao": "A força resultante média em um intervalo é Δp/Δt. Para massa constante, equivale a m vezes a aceleração média."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Como obter Δp?",
+       "Subtraia o momento inicial do final."
+      ],
+      [
+       "Qual força entra em Δp/Δt?",
+       "A força resultante média no intervalo."
+      ],
+      [
+       "Qual a unidade da força?",
+       "Newton."
+      ],
+      [
+       "O que faz um intervalo maior com o mesmo Δp?",
+       "Reduz o módulo da força média."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

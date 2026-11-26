@@ -1,0 +1,221 @@
+{
+ "assunto": "Estabelecimentos penais: finalidade e regime",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tjsc-penal-estabelecimentos-penais",
+   "titulo": "Estabelecimentos penais: finalidade e regime",
+   "microconteudo": "RAIO-X DA PROVA: Conforme nossos levantamentos das provas e do edital, este é um assunto prioritário para a sua prova.\n\nO QUE A BANCA COBRA:\n\nENTENDA:\n1. Penitenciária. Destina-se ao condenado à reclusão em regime fechado, nos termos do art. 87 da LEP. As características físicas e condições de ocupação devem respeitar o regime e a dignidade.\n\n2. Colônia agrícola, industrial ou similar. Destina-se ao semiaberto. A lei admite alojamento coletivo nas condições prescritas e prevê seleção adequada e limite de capacidade.\n\n3. Casa do albergado. Destina-se à pena privativa de liberdade em regime aberto e à limitação de fim de semana. A LEP prevê localização em centro urbano, separação de outros estabelecimentos e ausência de obstáculos físicos contra fuga.\n\n4. Centro de Observação. Realiza exames gerais e criminológicos, encaminhando resultados à Comissão Técnica de Classificação. Na falta do Centro, a Comissão pode realizar os exames conforme art. 98.\n\n5. Hospital de Custódia. O texto da LEP prevê Hospital de Custódia e Tratamento Psiquiátrico para inimputáveis e semi-imputáveis referidos no art. 26 do CP, conforme disciplina legal. A aplicação atual exige leitura da Lei 10.216/2001 e da política antimanicomial do CNJ, que orienta cuidado em rede e excepcionalidade de internação.\n\n6. Cadeia pública e falta de vagas. A SV 56 veda manter o condenado em regime mais gravoso pela falta de estabelecimento adequado e remete aos parâmetros do RE 641.320.\n\nTROCANDO EM MIÚDOS:\nUma pessoa cumpre regime semiaberto. O art. 91 define essa destinação.\n\nO Estado mantém condenado no fechado só por falta de vaga adequada. O juízo deve observar os parâmetros do RE 641.320.\n\nUm procedimento pede relatório para orientar classificação. O Centro encaminha exames à Comissão Técnica.\n\nDOUTRINA:\nA destinação do estabelecimento integra a individualização da execução e depende da situação processual, do regime e da necessidade legal de cuidado.\n\nPEGADINHAS:\n• A SV 56 impede agravar o regime apenas por carência estrutural.\n\nESQUEMA:\nIdentifique custódia e regime → associe a finalidade da unidade → examine direitos e falta de vaga.\n\nLIGAÇÕES:\nLEP, arts. 82–104; SV 56/STF; Resolução CNJ 487/2023.",
+   "flashcards": [
+    {
+     "frente": "Como reconhecer penitenciária em um caso?",
+     "verso": "Destina-se ao condenado à reclusão em regime fechado, nos termos do art. 87 da LEP. As características físicas e condições de ocupação devem respeitar o regime e a dignidade.",
+     "dispositivo": "LEP, arts. 82–104; SV 56/STF; Resolução CNJ 487/2023"
+    },
+    {
+     "frente": "Como reconhecer colônia agrícola, industrial ou similar em um caso?",
+     "verso": "Destina-se ao semiaberto. A lei admite alojamento coletivo nas condições prescritas e prevê seleção adequada e limite de capacidade.",
+     "dispositivo": "LEP, arts. 82–104; SV 56/STF; Resolução CNJ 487/2023"
+    },
+    {
+     "frente": "Como reconhecer casa do albergado em um caso?",
+     "verso": "Destina-se à pena privativa de liberdade em regime aberto e à limitação de fim de semana. A LEP prevê localização em centro urbano, separação de outros estabelecimentos e ausência de obstáculos físicos contra fuga.",
+     "dispositivo": "LEP, arts. 82–104; SV 56/STF; Resolução CNJ 487/2023"
+    },
+    {
+     "frente": "Como reconhecer centro de Observação em um caso?",
+     "verso": "Realiza exames gerais e criminológicos, encaminhando resultados à Comissão Técnica de Classificação. Na falta do Centro, a Comissão pode realizar os exames conforme art. 98.",
+     "dispositivo": "LEP, arts. 82–104; SV 56/STF; Resolução CNJ 487/2023"
+    },
+    {
+     "frente": "Como reconhecer hospital de Custódia em um caso?",
+     "verso": "O texto da LEP prevê Hospital de Custódia e Tratamento Psiquiátrico para inimputáveis e semi-imputáveis referidos no art. 26 do CP, conforme disciplina legal. A aplicação atual exige leitura da Lei 10.216/2001 e da política antimanicomial do CNJ, que orienta cuidado em rede e excepcionalidade de internação.",
+     "dispositivo": "LEP, arts. 82–104; SV 56/STF; Resolução CNJ 487/2023"
+    },
+    {
+     "frente": "Como reconhecer cadeia pública e falta de vagas em um caso?",
+     "verso": "A SV 56 veda manter o condenado em regime mais gravoso pela falta de estabelecimento adequado e remete aos parâmetros do RE 641.320.",
+     "dispositivo": "LEP, arts. 82–104; SV 56/STF; Resolução CNJ 487/2023"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Uma pessoa cumpre regime semiaberto. A colônia é o estabelecimento tipicamente previsto.",
+     "gabarito": "C",
+     "comentario": "O art. 91 define essa destinação.",
+     "dispositivo": "LEP, arts. 82–104; SV 56/STF; Resolução CNJ 487/2023"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A cadeia pública é a unidade legalmente destinada ao regime aberto definitivo.",
+     "gabarito": "E",
+     "comentario": "",
+     "dispositivo": "LEP, arts. 82–104; SV 56/STF; Resolução CNJ 487/2023"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O Estado mantém condenado no fechado só por falta de vaga adequada. A justificativa contraria a SV 56.",
+     "gabarito": "C",
+     "comentario": "O juízo deve observar os parâmetros do RE 641.320.",
+     "dispositivo": "LEP, arts. 82–104; SV 56/STF; Resolução CNJ 487/2023"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A falta de casa do albergado autoriza automaticamente o regime fechado.",
+     "gabarito": "E",
+     "comentario": "A SV 56 impede agravar o regime apenas por carência estrutural.",
+     "dispositivo": "LEP, arts. 82–104; SV 56/STF; Resolução CNJ 487/2023"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Qual unidade a LEP destina à reclusão em regime fechado?",
+     "alternativas": {
+      "A": "Penitenciária.",
+      "B": "Casa do albergado.",
+      "C": "Colônia agrícola.",
+      "D": "Cadeia pública sempre."
+     },
+     "gabarito": "A",
+     "comentario": "A (correta). O art. 87 indica essa finalidade. B (incorreta). Destina-se ao aberto e limitação de fim de semana. C (incorreta). É unidade do semiaberto. D (incorreta).",
+     "comentarios_por_alternativa": {
+      "A": "O art. 87 indica essa finalidade.",
+      "B": "Destina-se ao aberto e limitação de fim de semana.",
+      "C": "É unidade do semiaberto.",
+      "D": ""
+     },
+     "dispositivo": "LEP, arts. 82–104; SV 56/STF; Resolução CNJ 487/2023"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Qual estabelecimento também se destina à limitação de fim de semana?",
+     "alternativas": {
+      "A": "Penitenciária.",
+      "B": "Casa do albergado.",
+      "C": "Centro de Observação.",
+      "D": "Cadeia pública."
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). É unidade do fechado. B (correta). A finalidade consta do art. 93. C (incorreta). Tem função de exame. D (incorreta).",
+     "comentarios_por_alternativa": {
+      "A": "É unidade do fechado.",
+      "B": "A finalidade consta do art. 93.",
+      "C": "Tem função de exame.",
+      "D": ""
+     },
+     "dispositivo": "LEP, arts. 82–104; SV 56/STF; Resolução CNJ 487/2023"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "A quem o Centro de Observação encaminha resultados dos exames?",
+     "alternativas": {
+      "A": "Conselho Tutelar.",
+      "B": "Júri.",
+      "C": "Comissão Técnica de Classificação.",
+      "D": "Conselho de Contas."
+     },
+     "gabarito": "C",
+     "comentario": "A (incorreta). Não é o destinatário legal. B (incorreta). Não classifica executados. C (correta). É a destinação legal do relatório. D (incorreta). Não é destinatário.",
+     "comentarios_por_alternativa": {
+      "A": "Não é o destinatário legal.",
+      "B": "Não classifica executados.",
+      "C": "É a destinação legal do relatório.",
+      "D": "Não é destinatário."
+     },
+     "dispositivo": "LEP, arts. 82–104; SV 56/STF; Resolução CNJ 487/2023"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Que regra sintetiza a SV 56?",
+     "alternativas": {
+      "A": "Toda falta de vaga extingue pena.",
+      "B": "A direção escolhe livremente o regime.",
+      "C": "O preso perde a progressão por carência de vagas.",
+      "D": "Falta de unidade adequada não permite regime mais gravoso."
+     },
+     "gabarito": "D",
+     "comentario": "A (incorreta). O precedente não diz isso. B (incorreta). O regime decorre do título e da decisão judicial. C (incorreta). A deficiência estatal não autoriza agravamento automático. D (correta). Aplicam-se os parâmetros do RE 641.320.",
+     "comentarios_por_alternativa": {
+      "A": "O precedente não diz isso.",
+      "B": "O regime decorre do título e da decisão judicial.",
+      "C": "A deficiência estatal não autoriza agravamento automático.",
+      "D": "Aplicam-se os parâmetros do RE 641.320."
+     },
+     "dispositivo": "LEP, arts. 82–104; SV 56/STF; Resolução CNJ 487/2023"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Resposta: ___. Que regra sintetiza a SV 56?",
+     "opcoes": [
+      "Falta de unidade adequada não permite regime mais gravoso.",
+      "Toda falta de vaga extingue pena.",
+      "A direção escolhe livremente o regime.",
+      "O preso perde a progressão por carência de vagas."
+     ],
+     "respostas": [
+      "Falta de unidade adequada não permite regime mais gravoso."
+     ],
+     "explicacao": "Aplicam-se os parâmetros do RE 641.320.",
+     "dispositivo": "LEP, arts. 82–104; SV 56/STF; Resolução CNJ 487/2023"
+    },
+    {
+     "tipo": "associacao",
+     "pares": [
+      {
+       "esquerda": "Penitenciária",
+       "direita": "Destina-se ao condenado à reclusão em regime fechado, nos termos do art. 87 da LEP. As características físicas e condições de ocupação devem respeitar o regime e a dignidade."
+      },
+      {
+       "esquerda": "Colônia agrícola, industrial ou similar",
+       "direita": "Destina-se ao semiaberto. A lei admite alojamento coletivo nas condições prescritas e prevê seleção adequada e limite de capacidade."
+      },
+      {
+       "esquerda": "Casa do albergado",
+       "direita": "Destina-se à pena privativa de liberdade em regime aberto e à limitação de fim de semana. A LEP prevê localização em centro urbano, separação de outros estabelecimentos e ausência de obstáculos físicos contra fuga."
+      }
+     ],
+     "explicacao": "Associe cada conceito ao seu efeito.",
+     "dispositivo": "LEP, arts. 82–104; SV 56/STF; Resolução CNJ 487/2023"
+    },
+    {
+     "tipo": "classificacao",
+     "itens": [
+      {
+       "enunciado": "Uma pessoa cumpre regime semiaberto.",
+       "resposta": "O art. 91 define essa destinação."
+      },
+      {
+       "enunciado": "O Estado mantém condenado no fechado só por falta de vaga adequada.",
+       "resposta": "O juízo deve observar os parâmetros do RE 641.320."
+      },
+      {
+       "enunciado": "Um procedimento pede relatório para orientar classificação.",
+       "resposta": "O Centro encaminha exames à Comissão Técnica."
+      }
+     ],
+     "explicacao": "Identifique a categoria aplicável em cada situação.",
+     "dispositivo": "LEP, arts. 82–104; SV 56/STF; Resolução CNJ 487/2023"
+    },
+    {
+     "tipo": "caso_pratico",
+     "enunciado": "Um procedimento pede relatório para orientar classificação. Como resolver?",
+     "resposta": "O Centro encaminha exames à Comissão Técnica.",
+     "explicacao": "O Centro encaminha exames à Comissão Técnica.",
+     "dispositivo": "LEP, arts. 82–104; SV 56/STF; Resolução CNJ 487/2023"
+    }
+   ]
+  }
+ ]
+}

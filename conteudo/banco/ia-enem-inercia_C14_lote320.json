@@ -1,0 +1,253 @@
+{
+ "assunto": "Inércia e conservação do estado de movimento",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-inercia-c14",
+   "titulo": "Inércia e conservação do estado de movimento",
+   "microconteudo": "RAIO-X DA PROVA: Interprete a situação e justifique a conclusão com a relação física pertinente. Em um referencial inercial, se a resultante das forças for zero, a velocidade permanece constante. O repouso é o caso em que essa velocidade é zero.\n\nPOR QUE IMPORTA:\nAo frear de repente, um ônibus diminui a velocidade, enquanto o corpo de um passageiro tende a manter o movimento que tinha. A situação ajuda a separar a ação da força e o efeito da inércia.\n\nO QUE A BANCA COBRA:\nInterprete a situação e justifique a conclusão com a relação física pertinente. Em um referencial inercial, se a resultante das forças for zero, a velocidade permanece constante. O repouso é o caso em que essa velocidade é zero.\n\nENTENDA:\nComece por esta situação: Ao frear de repente, um ônibus diminui a velocidade, enquanto o corpo de um passageiro tende a manter o movimento que tinha. A situação ajuda a separar a ação da força e o efeito da inércia. Leia os dados disponíveis e faça uma previsão antes de procurar uma fórmula. Em um referencial inercial, se a resultante das forças for zero, a velocidade permanece constante. O repouso é o caso em que essa velocidade é zero. O cinto interage com o passageiro e o desacelera junto com o veículo. Sem essa interação, o passageiro tende a continuar seu movimento anterior por mais tempo.\n\nImagine uma moeda apoiada sobre um cartão na boca de um copo. Se o cartão é removido rapidamente e transfere pouco impulso horizontal à moeda, ela tende a permanecer praticamente sobre a boca do copo. Quando o apoio some, a gravidade acelera a moeda para baixo. A explicação tem duas direções diferentes. Na horizontal, a velocidade quase não muda por causa da pequena interação durante a retirada. Na vertical, o peso passa a produzir aceleração quando não há mais apoio.\n\nEm outro exemplo, um ônibus começa a acelerar. Uma pessoa de pé parece ir para trás quando observada do ônibus. Em relação ao chão, ela tende inicialmente a manter o estado de repouso, enquanto o piso e o ônibus começam a avançar. Se o atrito entre sapato e piso for suficiente, esse contato passa a acelerar a pessoa. Distinguir o ponto de vista do chão e do ônibus evita imaginar uma força real empurrando a pessoa para trás no instante inicial. O referencial do veículo está acelerando durante o evento.\n\nConfira o significado das palavras da questão. O que é inércia? A propriedade de resistir à alteração da velocidade.\nQual grandeza mede a inércia na translação clássica? A massa inercial.\nQual estado pode persistir sem força resultante? Repouso ou movimento retilíneo uniforme.\nO que muda a velocidade de um corpo? Uma força resultante diferente de zero, no modelo clássico.\nPor que o passageiro vai para a frente durante a freada? Seu corpo tende a manter a velocidade anterior enquanto o ônibus desacelera.\nUm corpo em repouso pode sofrer forças? Sim, quando essas forças se equilibram. Se dois termos parecem próximos, compare o que cada um descreve no caso inicial. Em Física, trocar o nome de uma grandeza pode mudar o cálculo ou até o que se está tentando explicar. Escreva, ao lado de cada símbolo, qual parte da situação ele representa e em que unidade seria medido.\n\nExemplo 1. Uma bandeja lisa está sobre um carrinho em movimento. Freia-se o carrinho; o atrito horizontal sobre a bandeja é desprezível no instante inicial. O que ocorre com a bandeja em relação ao chão nesse instante? A resposta é Tende a manter a velocidade anterior.. A bandeja quase não recebe força horizontal inicial. A desaceleração do carrinho requer força, inicialmente desprezível sobre a bandeja. Mudar o sentido exigiria ação horizontal suficiente. A freada não muda sua massa. Inércia preserva a velocidade na ausência de resultante.\n\nExemplo 2. Uma bola se desloca sobre uma superfície ideal com resultante zero. Como será seu movimento? A resposta é Retilíneo e uniforme.. A velocidade permanece constante em módulo e orientação. A curva exige aceleração centrípeta. Desacelerar requer resultante. Mudariam tanto a direção quanto a rapidez. O aumento de rapidez exigiria resultante.\n\nExemplo 3. Um carro parte para a frente, e o assento empurra a pessoa que estava em repouso em relação ao chão. Qual é o papel do assento? A resposta é Exercer força que acelera a pessoa para a frente.. O contato modifica seu estado anterior de repouso. A massa permanece. O assento a acelera no sentido de partida. Sua velocidade passa a acompanhar a do veículo. O peso continua atuando.\n\nExemplo 4. Um bloco sobre uma superfície horizontal recebe duas forças horizontais iguais e opostas. Já estava em movimento retilíneo, e a resultante vertical é zero. Qual é a previsão? A resposta é Continua com a velocidade anterior.. Todas as forças se equilibram, então a velocidade permanece constante. Forças equilibradas não produzem aceleração. A resultante simultânea é nula. A outra força tem mesmo módulo e a equilibra. O peso equilibra a normal vertical.\n\nTeste de interpretação. Um corpo segue em linha reta e sem aceleração num referencial inercial. Considere a afirmação: “A força resultante é zero.” Certo. A velocidade vetorial constante indica aceleração nula. Um corpo em repouso sobre uma mesa sofre peso e força normal. Considere a afirmação: “A primeira lei é violada porque existem duas forças.” Errado. O equilíbrio depende da soma vetorial, que pode ser zero. Uma pessoa segura uma mochila enquanto o ônibus freia. Considere a afirmação: “A mão pode fornecer a força que reduz a velocidade da mochila.” Certo. O contato produz a desaceleração necessária. Uma esfera segue com rapidez constante numa curva. Considere a afirmação: “Sua velocidade é constante por inércia.” Errado. A direção muda, o que exige aceleração.\n\nUma sequência de resolução é útil quando a questão traz mais dados que o necessário. Primeiro, escolher o corpo e o referencial a analisar. Depois, indicar a velocidade anterior ao evento. Em seguida, identificar se existe força resultante durante o evento. Por último, usar a primeira lei para interpretar a tendência do movimento. Explique oralmente por que cada passo vem nessa posição. Se a última conclusão mudar quando você troca um detalhe do enunciado, localize qual hipótese provocou essa mudança. Isso ajuda a distinguir o resultado de uma conta das condições em que ele vale.\n\nEm uma prova, procure separar o que o texto observou, o que o modelo assume e o que você concluiu. Um valor informado é um dado. Uma condição como desprezar o atrito ou tratar o intervalo como uniforme pode ser uma hipótese. Já o resultado é aquilo que você obtém ao combinar os dados com a regra escolhida. Se houver tabela ou figura, confira a legenda, os eixos e as unidades antes de usar os números. Para revisar, refaça um dos exemplos mudando um dado por vez e preveja o sentido da mudança antes de calcular.\n\nCheck de leitura. Escolha dois exemplos desta lição e compare o papel de cada informação. O que foi medido diretamente? Qual relação precisou ser usada para inferir uma resposta? Há alguma observação que, sozinha, seria insuficiente? Se a resposta for um número, faça uma estimativa simples para checar se ele é plausível. Se for uma explicação, procure indicar qual condição a torna válida. Depois, tente escrever uma resposta que inclua o dado utilizado, o raciocínio e a conclusão em uma ou duas frases.\n\nAo montar um rascunho, deixe os dados de um lado e a conclusão do outro. Comece pelo dado que tem relação direta com a pergunta. Caso sobrem informações, veja se elas servem para comparar hipóteses ou apenas situar a história. Em uma comparação, mantenha a mesma referência e o mesmo intervalo sempre que o enunciado permitir. Quando um resultado contradiz a previsão inicial, revise primeiro a interpretação do que foi pedido; em seguida, revise a operação e as condições assumidas.\n\nPara fechar, compare estas duas situações e procure a diferença física entre elas. Um corpo segue em linha reta e sem aceleração num referencial inercial. Um corpo em repouso sobre uma mesa sofre peso e força normal. Quando o contexto muda, a leitura deve partir das informações apresentadas naquele caso. Considere a primeira afirmação e justifique o resultado: “A força resultante é zero.” Certo. A velocidade vetorial constante indica aceleração nula. Agora avalie a segunda: “A primeira lei é violada porque existem duas forças.” Errado. O equilíbrio depende da soma vetorial, que pode ser zero. Uma explicação adequada pode usar palavras e cálculos, desde que a relação com a situação seja clara. Pense em qual mudança nos dados tornaria cada afirmação válida ou inválida.\n\nUse este conjunto de definições como roteiro para checar o raciocínio. O que é inércia? A propriedade de resistir à alteração da velocidade.\nQual grandeza mede a inércia na translação clássica? A massa inercial.\nQual estado pode persistir sem força resultante? Repouso ou movimento retilíneo uniforme.\nO que muda a velocidade de um corpo? Uma força resultante diferente de zero, no modelo clássico.\nPor que o passageiro vai para a frente durante a freada? Seu corpo tende a manter a velocidade anterior enquanto o ônibus desacelera.\nUm corpo em repouso pode sofrer forças? Sim, quando essas forças se equilibram. Ao voltar aos dados do começo, selecione as definições pertinentes ao caso. Leia a conclusão como se ela fosse uma frase independente: confira a unidade, a referência adotada e a condição de validade.\n\nTROCANDO EM MIÚDOS:\nImagine a situação do começo da lição. Ao frear de repente, um ônibus diminui a velocidade, enquanto o corpo de um passageiro tende a manter o movimento que tinha. A situação ajuda a separar a ação da força e o efeito da inércia. O cinto interage com o passageiro e o desacelera junto com o veículo. Sem essa interação, o passageiro tende a continuar seu movimento anterior por mais tempo.\n\nA regra principal pode ser escrita assim: Em um referencial inercial, se a resultante das forças for zero, a velocidade permanece constante. O repouso é o caso em que essa velocidade é zero. Tente explicar essa regra em voz alta para alguém que ainda não viu o conteúdo, usando o exemplo inicial como apoio.\n\nAntes de marcar uma alternativa, faça esta checagem. O que é inércia? A propriedade de resistir à alteração da velocidade. Qual grandeza mede a inércia na translação clássica? A massa inercial. Qual estado pode persistir sem força resultante? Repouso ou movimento retilíneo uniforme. O que muda a velocidade de um corpo? Uma força resultante diferente de zero, no modelo clássico. Por que o passageiro vai para a frente durante a freada? Seu corpo tende a manter a velocidade anterior enquanto o ônibus desacelera. Um corpo em repouso pode sofrer forças? Sim, quando essas forças se equilibram.\n\nEm um rascunho curto, anote quatro passos. Escolher o corpo e o referencial a analisar. Indicar a velocidade anterior ao evento. Identificar se existe força resultante durante o evento. Usar a primeira lei para interpretar a tendência do movimento. Em seguida, tente aplicar os passos a um exemplo com números ou condições diferentes. As grandezas que foram medidas e o que você quer descobrir devem ficar em linhas separadas. Isso ajuda a identificar qual informação ainda falta.\n\nExperimente responder a esta situação sem olhar as opções. Uma bandeja lisa está sobre um carrinho em movimento. Freia-se o carrinho; o atrito horizontal sobre a bandeja é desprezível no instante inicial. O que ocorre com a bandeja em relação ao chão nesse instante? A bandeja quase não recebe força horizontal inicial. Depois, confira nos exemplos quais seriam as consequências de escolher uma interpretação diferente. Se tiver que refazer, comece pelas condições do problema e pelo significado de cada dado.\n\nPara fixar, releia uma afirmação verdadeira e uma falsa da lição. Reescreva a falsa trocando só o trecho necessário para corrigi-la. Na afirmação verdadeira, diga qual detalhe do enunciado permite chegar a essa conclusão. Assim você pratica explicar um resultado, além de reconhecer qual opção está certa.\n\nLEI SECA:\nEm um referencial inercial, se a resultante das forças for zero, a velocidade permanece constante. O repouso é o caso em que essa velocidade é zero.\n\nSÚMULAS E TESES:\nO cinto interage com o passageiro e o desacelera junto com o veículo. Sem essa interação, o passageiro tende a continuar seu movimento anterior por mais tempo.\n\nESQUEMA:\nEscolher o corpo e o referencial a analisar → Indicar a velocidade anterior ao evento → Identificar se existe força resultante durante o evento → Usar a primeira lei para interpretar a tendência do movimento\n\nPEGADINHAS:\n1. Certo. A velocidade vetorial constante indica aceleração nula.\n2. Errado. O equilíbrio depende da soma vetorial, que pode ser zero.\n3. Certo. O contato produz a desaceleração necessária.\n4. Errado. A direção muda, o que exige aceleração.\n\nDOUTRINA:\nOpenStax — College Physics 2e, Newton’s First Law of Motion\n\nNA PRÁTICA:\nExemplo 1. Uma bandeja lisa está sobre um carrinho em movimento. Freia-se o carrinho; o atrito horizontal sobre a bandeja é desprezível no instante inicial. O que ocorre com a bandeja em relação ao chão nesse instante? A resposta é Tende a manter a velocidade anterior.. A bandeja quase não recebe força horizontal inicial. A desaceleração do carrinho requer força, inicialmente desprezível sobre a bandeja. Mudar o sentido exigiria ação horizontal suficiente. A freada não muda sua massa. Inércia preserva a velocidade na ausência de resultante.",
+   "flashcards": [
+    {
+     "frente": "O que é inércia?",
+     "verso": "A propriedade de resistir à alteração da velocidade.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Conceito de inércia"
+    },
+    {
+     "frente": "Qual grandeza mede a inércia na translação clássica?",
+     "verso": "A massa inercial.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Conceito de inércia"
+    },
+    {
+     "frente": "Qual estado pode persistir sem força resultante?",
+     "verso": "Repouso ou movimento retilíneo uniforme.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Conceito de inércia"
+    },
+    {
+     "frente": "O que muda a velocidade de um corpo?",
+     "verso": "Uma força resultante diferente de zero, no modelo clássico.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Conceito de inércia"
+    },
+    {
+     "frente": "Por que o passageiro vai para a frente durante a freada?",
+     "verso": "Seu corpo tende a manter a velocidade anterior enquanto o ônibus desacelera.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Conceito de inércia"
+    },
+    {
+     "frente": "Um corpo em repouso pode sofrer forças?",
+     "verso": "Sim, quando essas forças se equilibram.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Conceito de inércia"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-inercia-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Um corpo segue em linha reta e sem aceleração num referencial inercial.",
+     "enunciado": "A força resultante é zero.",
+     "gabarito": "C",
+     "comentario": "Certo. A velocidade vetorial constante indica aceleração nula.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Conceito de inércia"
+    },
+    {
+     "id": "enem-fisica-inercia-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Um corpo em repouso sobre uma mesa sofre peso e força normal.",
+     "enunciado": "A primeira lei é violada porque existem duas forças.",
+     "gabarito": "E",
+     "comentario": "Errado. O equilíbrio depende da soma vetorial, que pode ser zero.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Conceito de inércia"
+    },
+    {
+     "id": "enem-fisica-inercia-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Uma pessoa segura uma mochila enquanto o ônibus freia.",
+     "enunciado": "A mão pode fornecer a força que reduz a velocidade da mochila.",
+     "gabarito": "C",
+     "comentario": "Certo. O contato produz a desaceleração necessária.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Conceito de inércia"
+    },
+    {
+     "id": "enem-fisica-inercia-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Uma esfera segue com rapidez constante numa curva.",
+     "enunciado": "Sua velocidade é constante por inércia.",
+     "gabarito": "E",
+     "comentario": "Errado. A direção muda, o que exige aceleração.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Conceito de inércia"
+    },
+    {
+     "id": "enem-fisica-inercia-c14-q05",
+     "tipo": "me",
+     "texto_base": "Uma bandeja lisa está sobre um carrinho em movimento. Freia-se o carrinho; o atrito horizontal sobre a bandeja é desprezível no instante inicial.",
+     "enunciado": "O que ocorre com a bandeja em relação ao chão nesse instante?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "Para imediatamente junto com o carrinho.",
+      "B": "Tende a manter a velocidade anterior.",
+      "C": "Retrocede imediatamente em relação ao chão.",
+      "D": "Perde sua massa.",
+      "E": "Ganha velocidade por causa da inércia."
+     },
+     "comentarios_por_alternativa": {
+      "A": "A desaceleração do carrinho requer força, inicialmente desprezível sobre a bandeja.",
+      "B": "Correta. A bandeja quase não recebe força horizontal inicial.",
+      "C": "Mudar o sentido exigiria ação horizontal suficiente.",
+      "D": "A freada não muda sua massa.",
+      "E": "Inércia preserva a velocidade na ausência de resultante."
+     },
+     "comentario": "A) A desaceleração do carrinho requer força, inicialmente desprezível sobre a bandeja.\nB) Correta. A bandeja quase não recebe força horizontal inicial.\nC) Mudar o sentido exigiria ação horizontal suficiente.\nD) A freada não muda sua massa.\nE) Inércia preserva a velocidade na ausência de resultante.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Conceito de inércia"
+    },
+    {
+     "id": "enem-fisica-inercia-c14-q06",
+     "tipo": "me",
+     "texto_base": "Uma bola se desloca sobre uma superfície ideal com resultante zero.",
+     "enunciado": "Como será seu movimento?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "Circular uniforme.",
+      "B": "Retilíneo com desaceleração constante.",
+      "C": "Curvo com rapidez decrescente.",
+      "D": "Retilíneo e uniforme.",
+      "E": "Com velocidade cada vez maior."
+     },
+     "comentarios_por_alternativa": {
+      "A": "A curva exige aceleração centrípeta.",
+      "B": "Desacelerar requer resultante.",
+      "C": "Mudariam tanto a direção quanto a rapidez.",
+      "D": "Correta. A velocidade permanece constante em módulo e orientação.",
+      "E": "O aumento de rapidez exigiria resultante."
+     },
+     "comentario": "A) A curva exige aceleração centrípeta.\nB) Desacelerar requer resultante.\nC) Mudariam tanto a direção quanto a rapidez.\nD) Correta. A velocidade permanece constante em módulo e orientação.\nE) O aumento de rapidez exigiria resultante.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Conceito de inércia"
+    },
+    {
+     "id": "enem-fisica-inercia-c14-q07",
+     "tipo": "me",
+     "texto_base": "Um carro parte para a frente, e o assento empurra a pessoa que estava em repouso em relação ao chão.",
+     "enunciado": "Qual é o papel do assento?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "Exercer força que acelera a pessoa para a frente.",
+      "B": "Anular a massa da pessoa.",
+      "C": "Empurrar a pessoa para trás em relação ao chão.",
+      "D": "Manter a pessoa sempre em repouso no chão.",
+      "E": "Substituir a ação gravitacional."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. O contato modifica seu estado anterior de repouso.",
+      "B": "A massa permanece.",
+      "C": "O assento a acelera no sentido de partida.",
+      "D": "Sua velocidade passa a acompanhar a do veículo.",
+      "E": "O peso continua atuando."
+     },
+     "comentario": "A) Correta. O contato modifica seu estado anterior de repouso.\nB) A massa permanece.\nC) O assento a acelera no sentido de partida.\nD) Sua velocidade passa a acompanhar a do veículo.\nE) O peso continua atuando.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Conceito de inércia"
+    },
+    {
+     "id": "enem-fisica-inercia-c14-q08",
+     "tipo": "me",
+     "texto_base": "Um bloco sobre uma superfície horizontal recebe duas forças horizontais iguais e opostas. Já estava em movimento retilíneo, e a resultante vertical é zero.",
+     "enunciado": "Qual é a previsão?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Para porque há duas forças.",
+      "B": "Acelera no sentido da força aplicada primeiro.",
+      "C": "Inverte o movimento pela força oposta.",
+      "D": "Sobe devido à normal.",
+      "E": "Continua com a velocidade anterior."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Forças equilibradas não produzem aceleração.",
+      "B": "A resultante simultânea é nula.",
+      "C": "A outra força tem mesmo módulo e a equilibra.",
+      "D": "O peso equilibra a normal vertical.",
+      "E": "Correta. Todas as forças se equilibram, então a velocidade permanece constante."
+     },
+     "comentario": "A) Forças equilibradas não produzem aceleração.\nB) A resultante simultânea é nula.\nC) A outra força tem mesmo módulo e a equilibra.\nD) O peso equilibra a normal vertical.\nE) Correta. Todas as forças se equilibram, então a velocidade permanece constante.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Conceito de inércia"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O que é inércia? Resposta: ___.",
+     "opcoes": [
+      "A propriedade de resistir à alteração da velocidade.",
+      "A massa inercial.",
+      "Repouso ou movimento retilíneo uniforme.",
+      "Uma força resultante diferente de zero, no modelo clássico."
+     ],
+     "respostas": [
+      "A propriedade de resistir à alteração da velocidade."
+     ],
+     "explicacao": "A propriedade de resistir à alteração da velocidade."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Por que o passageiro vai para a frente durante a freada? Resposta: ___.",
+     "opcoes": [
+      "Repouso ou movimento retilíneo uniforme.",
+      "Uma força resultante diferente de zero, no modelo clássico.",
+      "Seu corpo tende a manter a velocidade anterior enquanto o ônibus desacelera.",
+      "Sim, quando essas forças se equilibram."
+     ],
+     "respostas": [
+      "Seu corpo tende a manter a velocidade anterior enquanto o ônibus desacelera."
+     ],
+     "explicacao": "Seu corpo tende a manter a velocidade anterior enquanto o ônibus desacelera."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma situação sobre inércia e conservação do estado de movimento.",
+     "itens": [
+      "Escolher o corpo e o referencial a analisar.",
+      "Indicar a velocidade anterior ao evento.",
+      "Identificar se existe força resultante durante o evento.",
+      "Usar a primeira lei para interpretar a tendência do movimento."
+     ],
+     "explicacao": "Em um referencial inercial, se a resultante das forças for zero, a velocidade permanece constante. O repouso é o caso em que essa velocidade é zero."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O que é inércia?",
+       "A propriedade de resistir à alteração da velocidade."
+      ],
+      [
+       "Qual grandeza mede a inércia na translação clássica?",
+       "A massa inercial."
+      ],
+      [
+       "Qual estado pode persistir sem força resultante?",
+       "Repouso ou movimento retilíneo uniforme."
+      ],
+      [
+       "O que muda a velocidade de um corpo?",
+       "Uma força resultante diferente de zero, no modelo clássico."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

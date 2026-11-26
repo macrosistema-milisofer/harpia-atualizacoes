@@ -1,0 +1,253 @@
+{
+ "assunto": "Campo elétrico e potencial elétrico",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-campo-potencial-eletrico-c14",
+   "titulo": "Campo elétrico e potencial elétrico",
+   "microconteudo": "RAIO-X DA PROVA: Use a relação física indicada e confira as condições em que ela se aplica. Campo elétrico é força por carga de teste positiva. Potencial é energia potencial por unidade de carga e tem caráter escalar.\n\nPOR QUE IMPORTA:\nUma carga próxima de outra pode sofrer força sem tocá-la. Campo e potencial descrevem o ambiente elétrico de duas maneiras complementares.\n\nO QUE A BANCA COBRA:\nUse a relação física indicada e confira as condições em que ela se aplica. Campo elétrico é força por carga de teste positiva. Potencial é energia potencial por unidade de carga e tem caráter escalar.\n\nENTENDA:\nUma carga próxima de outra pode sofrer força sem tocá-la. Campo e potencial descrevem o ambiente elétrico de duas maneiras complementares.\n\nCampo elétrico é força por carga de teste positiva. Potencial é energia potencial por unidade de carga e tem caráter escalar.\n\nExemplo resolvido. Uma carga positiva de 4 μC está em campo de 250 N/C para leste. A força vale 4 × 10⁻⁶ × 250 = 10⁻³ N para leste.\n\nOutro exemplo. Uma carga de −3 μC passa de 20 V para 80 V. Sua energia potencial muda em −3 × 10⁻⁶ × 60 = −180 μJ. A carga negativa perde energia potencial quando passa ao potencial maior.\n\nPara uma carga fonte positiva isolada e referência de potencial no infinito, o campo aponta para fora, enquanto o potencial é positivo e cai com a distância. O campo de uma carga puntiforme cai com o quadrado da distância. O potencial correspondente cai com o inverso da distância. Em uma combinação de fontes, somam-se os campos como vetores e potenciais como escalares.\n\nPara explicar o resultado, use o vocabulário da situação. Como definir campo elétrico? Força por unidade de carga de teste positiva. Qual é sua unidade? Newton por coulomb. Como definir potencial? Energia potencial por unidade de carga. Qual unidade expressa potencial? Volt. Como calcular ΔU? Multiplique a carga pela diferença de potencial. Que força age numa carga negativa? Uma força em sentido oposto ao campo local.\n\nNa hora de resolver no papel, siga a sequência abaixo. Identificar a grandeza pedida. Registrar o sinal da carga. Aplicar a relação com o campo ou potencial. Interpretar o sentido ou sinal. Depois, escreva o resultado em uma frase completa. Um número isolado pode estar correto e, ainda assim, deixar ambíguo o que você calculou. Informe a unidade quando houver medida e identifique o objeto, a região ou o intervalo a que o resultado se refere.\n\nO sentido do campo é definido para carga de teste positiva. O potencial de referência pode ser escolhido, e a diferença de potencial determina a variação de energia.\n\nReleia os dois exemplos resolvidos e tente antecipar o desfecho sem consultar o cálculo. No primeiro exemplo, identifique qual dado determina diretamente a resposta. No segundo, diga qual condição deve permanecer válida para que a conclusão se mantenha. Compare depois o papel das unidades e do sentido das grandezas. Se o resultado for qualitativo, procure enunciar a previsão em termos observáveis. Se for quantitativo, estime a escala antes de efetuar a última operação.\n\nVocê pode adaptar a análise a uma situação do cotidiano. Comece com esta ideia: Uma carga próxima de outra pode sofrer força sem tocá-la. Campo e potencial descrevem o ambiente elétrico de duas maneiras complementares. Em seguida, desenhe o cenário, indique o que está sendo comparado e escreva que dado precisaria medir para testar a previsão. Diferencie a regra do modelo das informações que servem apenas para situar a história. Isso ajuda a decidir o que aproveitar quando uma questão apresenta mais dados do que a resolução exige.\n\nTrês conferências úteis: a definição corresponde ao objeto descrito? As condições indicadas no enunciado permitem aplicar a regra? A resposta continua coerente ao voltar ao desenho? Faça a última conferência lendo esta relação no contexto: Campo elétrico é força por carga de teste positiva. Potencial é energia potencial por unidade de carga e tem caráter escalar. Uma hipótese deve ser usada dentro de sua faixa de validade; quando o contexto mudar, justifique a adaptação antes de transportar o resultado.\n\nAo treinar, explique a diferença entre o mecanismo e seu efeito. O sentido do campo é definido para carga de teste positiva. O potencial de referência pode ser escolhido, e a diferença de potencial determina a variação de energia. Em um texto de prova, essa distinção pode aparecer escondida em uma frase sobre o resultado de uma medida. Identifique primeiro a causa física e depois a grandeza observada. Se for necessário comparar cenários, mude uma condição por vez para descobrir qual mudança explica a diferença.\n\nPergunte o que aconteceria se você aplicasse a regra a um desenho mais simples. Comece separando estas tarefas: Identificar a grandeza pedida. Registrar o sinal da carga. Aplicar a relação com o campo ou potencial. Interpretar o sentido ou sinal. Refaça o primeiro exemplo apenas com setas ou um esquema, deixando os números para o final. Em seguida, recolha do enunciado as unidades e os sentidos. Uma seta no desenho pode indicar a direção de uma interação, a mudança de uma medida ou apenas uma referência. É importante dizer qual papel ela desempenha antes de usar a relação do começo da lição.\n\nPara consolidar, use três perguntas de revisão. Qual é sua unidade? Newton por coulomb. Qual unidade expressa potencial? Volt. Que força age numa carga negativa? Uma força em sentido oposto ao campo local. A ideia é explicar essas respostas sem depender da ordem em que apareceram. Em um problema de comparação, preste atenção às palavras que mantêm algo igual entre os cenários. Em um problema de cálculo, confira a operação inversa quando possível. Por exemplo, reintroduza o resultado na relação inicial e verifique se os dados do problema são recuperados. Em uma questão qualitativa, faça o equivalente testando se a conclusão explica as condições observadas.\n\nNo fim da leitura, diga qual grandeza a pergunta solicitou e qual grandeza você usou para chegar a ela. Faça essa distinção também quando a resposta for uma direção, uma comparação ou uma interpretação histórica. Um resultado bem explicado deve poder ser lido sem adivinhar de onde ele veio.\n\nEm uma atividade de estudo, escreva primeiro uma estimativa ou previsão. Depois escolha o dado específico que vai confirmar ou contrariar essa previsão. Se duas respostas parecerem possíveis, indique qual condição extra permitiria escolher entre elas. A ideia é explicar o raciocínio, deixando claro por que a relação física é apropriada naquele contexto.\n\nTROCANDO EM MIÚDOS:\nUma carga próxima de outra pode sofrer força sem tocá-la. Campo e potencial descrevem o ambiente elétrico de duas maneiras complementares.\n\nCampo elétrico é força por carga de teste positiva. Potencial é energia potencial por unidade de carga e tem caráter escalar.\n\nExemplo resolvido. Uma carga positiva de 4 μC está em campo de 250 N/C para leste. A força vale 4 × 10⁻⁶ × 250 = 10⁻³ N para leste.\n\nOutro exemplo. Uma carga de −3 μC passa de 20 V para 80 V. Sua energia potencial muda em −3 × 10⁻⁶ × 60 = −180 μJ. A carga negativa perde energia potencial quando passa ao potencial maior.\n\nO sentido do campo é definido para carga de teste positiva. O potencial de referência pode ser escolhido, e a diferença de potencial determina a variação de energia.\n\nComo definir campo elétrico? Força por unidade de carga de teste positiva. Qual é sua unidade? Newton por coulomb. Como definir potencial? Energia potencial por unidade de carga. Qual unidade expressa potencial? Volt. Como calcular ΔU? Multiplique a carga pela diferença de potencial. Que força age numa carga negativa? Uma força em sentido oposto ao campo local.\n\nPara montar seu rascunho: Identificar a grandeza pedida. Registrar o sinal da carga. Aplicar a relação com o campo ou potencial. Interpretar o sentido ou sinal. Na leitura final, escolha a parte do desenho que corresponde ao resultado. Se encontrar uma unidade diferente da pedida, volte ao cálculo e confira os fatores de conversão. Quando a pergunta for conceitual, confira se a explicação indica o mecanismo que liga o dado à conclusão. Você pode comparar os dois exemplos da lição antes de tentar os exercícios e explicar de memória por que cada resultado faz sentido.\n\nLEI SECA:\nCampo elétrico é força por carga de teste positiva. Potencial é energia potencial por unidade de carga e tem caráter escalar.\n\nSÚMULAS E TESES:\nOutro exemplo. Uma carga de −3 μC passa de 20 V para 80 V. Sua energia potencial muda em −3 × 10⁻⁶ × 60 = −180 μJ. A carga negativa perde energia potencial quando passa ao potencial maior.\n\nESQUEMA:\nIdentificar a grandeza pedida. → Registrar o sinal da carga. → Aplicar a relação com o campo ou potencial. → Interpretar o sentido ou sinal.\n\nPEGADINHAS:\nO sentido do campo é definido para carga de teste positiva. O potencial de referência pode ser escolhido, e a diferença de potencial determina a variação de energia.\n\nDOUTRINA:\nElectric Potential Energy\n\nNA PRÁTICA:\nExemplo resolvido. Uma carga positiva de 4 μC está em campo de 250 N/C para leste. A força vale 4 × 10⁻⁶ × 250 = 10⁻³ N para leste.",
+   "flashcards": [
+    {
+     "frente": "Como definir campo elétrico?",
+     "verso": "Força por unidade de carga de teste positiva.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Campo elétrico e potencial elétrico"
+    },
+    {
+     "frente": "Qual é sua unidade?",
+     "verso": "Newton por coulomb.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Campo elétrico e potencial elétrico"
+    },
+    {
+     "frente": "Como definir potencial?",
+     "verso": "Energia potencial por unidade de carga.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Campo elétrico e potencial elétrico"
+    },
+    {
+     "frente": "Qual unidade expressa potencial?",
+     "verso": "Volt.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Campo elétrico e potencial elétrico"
+    },
+    {
+     "frente": "Como calcular ΔU?",
+     "verso": "Multiplique a carga pela diferença de potencial.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Campo elétrico e potencial elétrico"
+    },
+    {
+     "frente": "Que força age numa carga negativa?",
+     "verso": "Uma força em sentido oposto ao campo local.",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Campo elétrico e potencial elétrico"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-campo-potencial-eletrico-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Uma carga positiva está num campo para cima.",
+     "enunciado": "A força elétrica nela aponta para cima.",
+     "gabarito": "C",
+     "comentario": "Certo. O sinal positivo preserva o sentido do campo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Campo elétrico e potencial elétrico"
+    },
+    {
+     "id": "enem-fisica-campo-potencial-eletrico-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Uma carga negativa está num campo para leste.",
+     "enunciado": "A força aponta para leste.",
+     "gabarito": "E",
+     "comentario": "Errado. O produto qE inverte o sentido.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Campo elétrico e potencial elétrico"
+    },
+    {
+     "id": "enem-fisica-campo-potencial-eletrico-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Um ponto está a 12 V quando comparado à referência.",
+     "enunciado": "O potencial é grandeza escalar.",
+     "gabarito": "C",
+     "comentario": "Certo. O valor tem sinal e unidade, sem orientação espacial.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Campo elétrico e potencial elétrico"
+    },
+    {
+     "id": "enem-fisica-campo-potencial-eletrico-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Duas cargas de mesmo módulo e sinais opostos passam pelo mesmo ΔV.",
+     "enunciado": "As variações de energia potencial têm o mesmo sinal.",
+     "gabarito": "E",
+     "comentario": "Errado. Os sinais de q são opostos.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Campo elétrico e potencial elétrico"
+    },
+    {
+     "id": "enem-fisica-campo-potencial-eletrico-c14-q05",
+     "tipo": "me",
+     "texto_base": "Uma carga de 2 μC recebe força de 8 μN.",
+     "enunciado": "Qual o módulo do campo?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "16 N/C",
+      "B": "4 N/C",
+      "C": "8 N/C",
+      "D": "0,25 N/C",
+      "E": "2 N/C"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Multiplica em vez de dividir.",
+      "B": "Correta. Divida força pela carga.",
+      "C": "Ignora a carga.",
+      "D": "Inverte a divisão.",
+      "E": "É o número da carga em μC."
+     },
+     "comentario": "A) Multiplica em vez de dividir.\nB) Correta. Divida força pela carga.\nC) Ignora a carga.\nD) Inverte a divisão.\nE) É o número da carga em μC.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Campo elétrico e potencial elétrico"
+    },
+    {
+     "id": "enem-fisica-campo-potencial-eletrico-c14-q06",
+     "tipo": "me",
+     "texto_base": "Uma carga de +5 μC passa por ΔV = +10 V.",
+     "enunciado": "Qual sua variação de energia potencial?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "−50 μJ",
+      "B": "+2 μJ",
+      "C": "+10 μJ",
+      "D": "+50 μJ",
+      "E": "+15 μJ"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Inverte o sinal.",
+      "B": "Divide os números em vez de multiplicar.",
+      "C": "Ignora a carga.",
+      "D": "Correta. Multiplique q por ΔV.",
+      "E": "Soma valores de naturezas diferentes."
+     },
+     "comentario": "A) Inverte o sinal.\nB) Divide os números em vez de multiplicar.\nC) Ignora a carga.\nD) Correta. Multiplique q por ΔV.\nE) Soma valores de naturezas diferentes.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Campo elétrico e potencial elétrico"
+    },
+    {
+     "id": "enem-fisica-campo-potencial-eletrico-c14-q07",
+     "tipo": "me",
+     "texto_base": "Uma carga negativa está num campo para oeste.",
+     "enunciado": "Qual o sentido da força elétrica?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "Leste",
+      "B": "Oeste",
+      "C": "Norte",
+      "D": "Sul",
+      "E": "Nulo"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Uma carga negativa sofre força contra o campo.",
+      "B": "Valeria para carga positiva.",
+      "C": "Não é colinear com o campo.",
+      "D": "Não é oposta a oeste.",
+      "E": "Campo e carga são diferentes de zero."
+     },
+     "comentario": "A) Correta. Uma carga negativa sofre força contra o campo.\nB) Valeria para carga positiva.\nC) Não é colinear com o campo.\nD) Não é oposta a oeste.\nE) Campo e carga são diferentes de zero.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Campo elétrico e potencial elétrico"
+    },
+    {
+     "id": "enem-fisica-campo-potencial-eletrico-c14-q08",
+     "tipo": "me",
+     "texto_base": "Uma carga de 4 C aumenta sua energia potencial em 12 J.",
+     "enunciado": "Qual a diferença de potencial?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "48 V",
+      "B": "8 V",
+      "C": "4 V",
+      "D": "12 V",
+      "E": "3 V"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Multiplica em vez de dividir.",
+      "B": "Subtrai valores diferentes.",
+      "C": "É o número de coulombs.",
+      "D": "É a energia medida em joules.",
+      "E": "Correta. ΔV = 12/4."
+     },
+     "comentario": "A) Multiplica em vez de dividir.\nB) Subtrai valores diferentes.\nC) É o número de coulombs.\nD) É a energia medida em joules.\nE) Correta. ΔV = 12/4.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Fenômenos Elétricos e Magnéticos — Campo elétrico e potencial elétrico"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Como definir campo elétrico? ___",
+     "opcoes": [
+      "Força por unidade de carga de teste positiva.",
+      "Newton por coulomb.",
+      "Energia potencial por unidade de carga.",
+      "Volt."
+     ],
+     "respostas": [
+      "Força por unidade de carga de teste positiva."
+     ],
+     "explicacao": "Força por unidade de carga de teste positiva."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Como definir potencial? ___",
+     "opcoes": [
+      "Energia potencial por unidade de carga.",
+      "Volt.",
+      "Multiplique a carga pela diferença de potencial.",
+      "Uma força em sentido oposto ao campo local."
+     ],
+     "respostas": [
+      "Energia potencial por unidade de carga."
+     ],
+     "explicacao": "Energia potencial por unidade de carga."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise de campo elétrico e potencial elétrico.",
+     "itens": [
+      "Identificar a grandeza pedida.",
+      "Registrar o sinal da carga.",
+      "Aplicar a relação com o campo ou potencial.",
+      "Interpretar o sentido ou sinal."
+     ],
+     "explicacao": "Campo elétrico é força por carga de teste positiva. Potencial é energia potencial por unidade de carga e tem caráter escalar."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Como definir campo elétrico?",
+       "Força por unidade de carga de teste positiva."
+      ],
+      [
+       "Qual é sua unidade?",
+       "Newton por coulomb."
+      ],
+      [
+       "Como definir potencial?",
+       "Energia potencial por unidade de carga."
+      ],
+      [
+       "Qual unidade expressa potencial?",
+       "Volt."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

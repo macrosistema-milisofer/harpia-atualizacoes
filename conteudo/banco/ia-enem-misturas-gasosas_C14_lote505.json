@@ -1,0 +1,253 @@
+{
+ "assunto": "Misturas gasosas e pressões parciais",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-misturas-gasosas-c14",
+   "titulo": "Misturas gasosas e pressões parciais",
+   "microconteudo": "RAIO-X DA PROVA: Assunto do edital de Ciências da Natureza. A interpretação de dados ajuda a resolver situações-problema sobre esse conteúdo.\n\nPOR QUE IMPORTA:\nMisturas gasosas e pressões parciais ajuda a traduzir observações e símbolos em explicações que você pode conferir. Nesta lição, você vai praticar a leitura de dados e justificar o resultado.\n\nO QUE A BANCA COBRA:\nIdentifique o que o problema descreve e escolha a conclusão explicada pelos dados. Revise a unidade, a entidade representada e as condições de aplicação quando elas fizerem parte do problema.\n\nENTENDA:\nNuma mistura ideal, a pressão parcial de cada gás é a pressão que ele exerceria sozinho no mesmo volume e à mesma temperatura. A lei de Dalton soma essas contribuições. Se x é a fração molar do gás, isto é, seus mols divididos pelos mols totais, a pressão parcial é x multiplicado pela pressão total.\n\nUm tanque contém 2 mol de hélio e 3 mol de nitrogênio a 200 kPa. O tanque tem 5 mol ao todo. A fração de hélio é 2/5, e sua pressão parcial é 80 kPa. A do nitrogênio é 120 kPa. Se um gás for recolhido sobre água, o vapor de água presente também contribui para a pressão medida.\n\nFração molar é adimensional e a soma das frações vale um. Assim, se a pressão total for 100 kPa e apenas dois gases contribuírem, uma contribuição de 24 kPa implica a outra de 76 kPa. No modelo ideal, a pressão parcial funciona como uma contribuição calculada, mesmo que um manômetro comum mostre somente a soma.\n\nPrimeiro caso: ligue os dados à regra\nUma mistura a 150 kPa contém 20% molar de O₂. Qual a pressão parcial do O₂?\n\nComece lendo o enunciado como um pequeno relatório. Anote em uma linha o material ou sistema descrito e, em outra, o que se quer descobrir. Essa divisão evita misturar um dado já fornecido com o resultado pedido. Escolha a regra depois de localizar o que, no texto, autoriza sua aplicação. Ao terminar, teste se a resposta ainda faz sentido ao substituir os valores ou reler a observação.\n\nResultado: 30 kPa 0,20 × 150 = 30.\n\nCompare as hipóteses e os cálculos alternativos:\n• 20 kPa 20 é a porcentagem e não a pressão.\n• 75 kPa Seria metade da pressão total.\n• 120 kPa É a contribuição do restante.\n• 150 kPa É a pressão total.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nSegundo caso: cuide da condição que permite a conclusão\nUm gás coletado sobre água está a 102 kPa e o vapor de água contribui com 3 kPa. Qual a pressão do gás seco nessa mistura?\n\nCompare as interpretações antes de escolher. Duas respostas podem usar os mesmos termos ou números e ainda se referir a grandezas diferentes. Se houver unidades, escreva a unidade junto a cada valor. Se houver contagens, diga o que está sendo contado. Se a questão for explicativa, procure a relação de causa e efeito que é compatível com as condições fornecidas. Só então feche a resposta.\n\nResultado: 99 kPa 102 − 3 = 99.\n\nCompare as hipóteses e os cálculos alternativos:\n• 105 kPa O vapor já está incluído em 102.\n• 102 kPa Ignora a contribuição do vapor.\n• 3 kPa É a pressão parcial da água.\n• 34 kPa Dividir pelo valor da pressão de vapor não separa as contribuições.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nTerceiro caso: confira o que a pergunta está medindo\nNum tanque a volume e temperatura fixos, adiciona-se He a uma mistura sem deixar escapar o O₂. O que ocorre com a pressão parcial do O₂?\n\nFaça uma primeira previsão usando palavras. Pergunte se o resultado esperado é uma contagem, uma propriedade, uma comparação ou um mecanismo. Escrever a previsão antes de olhar as alternativas ajuda a perceber quando dois valores semelhantes têm sentidos diferentes. Em seguida, explique em uma frase como o primeiro dado se conecta ao resultado. A resposta fica mais forte quando essa ligação pode ser checada no próprio enunciado.\n\nResultado: Permanece igual. Sua contribuição depende de seus próprios mols, T e V.\n\nCompare as hipóteses e os cálculos alternativos:\n• Aumenta com o aumento da pressão total. A fração de O₂ diminui e compensa o aumento da pressão total.\n• Diminui só porque a fração diminuiu. A pressão total aumentou na proporção que compensa a fração menor.\n• Fica nula. O O₂ continua presente.\n• Torna-se igual à do He necessariamente. Isso exigiria igual quantidade de cada gás.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nQuarto caso: escolha a conclusão sustentada\nUma mistura contém 4 g de He e 32 g de O₂. M = 4 e 32 g/mol, nessa ordem. Qual a fração molar de O₂?\n\nTente justificar a escolha para alguém que observou apenas o resultado final. Comece pelos fatos que o problema realmente fornece e mostre como a regra interpreta esses fatos. Se a conclusão depender de uma condição, mantenha essa condição na justificativa. Depois procure uma alteração pequena nos dados que exigiria outra resposta. Esse último passo ajuda a reconhecer onde termina a aplicação do raciocínio.\n\nResultado: 0,50 Cada componente fornece 1 mol.\n\nCompare as hipóteses e os cálculos alternativos:\n• 0,89 É a fração aproximada em massa.\n• 0,11 É a fração em massa do He.\n• 0,25 Exigiria quatro mols totais para um mol de O₂.\n• 2,0 Fração molar fica entre zero e um.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nLeitura crítica 1\nUm tanque tem 1 mol de He e 3 mol de Ne. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “A fração molar do He é 0,25.” Um dos quatro mols é de He. A segunda é “A fração molar é obtida pela razão de massas.” A razão de massas fornece fração mássica.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nLeitura crítica 2\nUma mistura ideal contém gases A e B em proporção molar 1:1. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “Cada gás contribui com metade da pressão total.” Ambos ocupam o mesmo volume e têm o mesmo n e T. A segunda é “Cada gás ocupa só metade do espaço interno.” Os componentes se distribuem pelo volume inteiro.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nTROCANDO EM MIÚDOS:\nComece por uma pergunta que você conseguiria fazer a um colega: o que mudou, o que ficou igual e qual informação me permite dizer isso? Em questões de Química, dá para errar mesmo lembrando a regra certa quando se usa a regra para o dado errado. Separe a situação da pergunta. Leia os símbolos em voz baixa. Se houver dois materiais ou dois momentos, dê um nome curto para cada um. Assim você consegue comparar as coisas na ordem que o texto pediu.\n\nUm tanque contém 2 mol de hélio e 3 mol de nitrogênio a 200 kPa. O tanque tem 5 mol ao todo. A fração de hélio é 2/5, e sua pressão parcial é 80 kPa. A do nitrogênio é 120 kPa. Se um gás for recolhido sobre água, o vapor de água presente também contribui para a pressão medida.\n\nExperimente com este caso. Uma mistura a 150 kPa contém 20% molar de O₂. Qual a pressão parcial do O₂? A resposta é 30 kPa 0,20 × 150 = 30. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nExperimente com este caso. Uma mistura contém 4 g de He e 32 g de O₂. M = 4 e 32 g/mol, nessa ordem. Qual a fração molar de O₂? A resposta é 0,50 Cada componente fornece 1 mol. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nFaça uma checagem que cabe no rascunho: escreva o dado, desenhe uma seta e escreva o que ele permite concluir. Se precisar de uma segunda seta, diga qual regra leva desse resultado intermediário até a resposta. Uma explicação em duas frases pode ser suficiente. A primeira conta o que o problema mostrou. A segunda diz por que esse dado leva à sua escolha. Esse caminho ajuda em problemas com tabelas, desenhos e comparações.\n\nESQUEMA:\nLeia o cenário → destaque o dado decisivo → aplique a relação → confira o que foi pedido.\n\nPEGADINHAS:\n• 20 kPa 20 é a porcentagem e não a pressão.\n• 105 kPa O vapor já está incluído em 102.\n• Aumenta com o aumento da pressão total. A fração de O₂ diminui e compensa o aumento da pressão total.\n• 0,89 É a fração aproximada em massa.\n\nNA PRÁTICA:\nUm tanque contém 2 mol de hélio e 3 mol de nitrogênio a 200 kPa. O tanque tem 5 mol ao todo. A fração de hélio é 2/5, e sua pressão parcial é 80 kPa. A do nitrogênio é 120 kPa. Se um gás for recolhido sobre água, o vapor de água presente também contribui para a pressão medida.",
+   "flashcards": [
+    {
+     "frente": "Um tanque tem 1 mol de He e 3 mol de Ne. A fração molar do He é 0,25. Certo ou errado?",
+     "verso": "Certo. Um dos quatro mols é de He.",
+     "dispositivo": "Transformações químicas — Misturas gasosas"
+    },
+    {
+     "frente": "Uma mistura ideal contém gases A e B em proporção molar 1:1. Cada gás contribui com metade da pressão total. Certo ou errado?",
+     "verso": "Certo. Ambos ocupam o mesmo volume e têm o mesmo n e T.",
+     "dispositivo": "Transformações químicas — Misturas gasosas"
+    },
+    {
+     "frente": "Uma mistura a 150 kPa contém 20% molar de O₂. Qual a pressão parcial do O₂?",
+     "verso": "30 kPa 0,20 × 150 = 30.",
+     "dispositivo": "Transformações químicas — Misturas gasosas"
+    },
+    {
+     "frente": "Um gás coletado sobre água está a 102 kPa e o vapor de água contribui com 3 kPa. Qual a pressão do gás seco nessa mistura?",
+     "verso": "99 kPa 102 − 3 = 99.",
+     "dispositivo": "Transformações químicas — Misturas gasosas"
+    },
+    {
+     "frente": "Num tanque a volume e temperatura fixos, adiciona-se He a uma mistura sem deixar escapar o O₂. O que ocorre com a pressão parcial do O₂?",
+     "verso": "Permanece igual. Sua contribuição depende de seus próprios mols, T e V.",
+     "dispositivo": "Transformações químicas — Misturas gasosas"
+    },
+    {
+     "frente": "Uma mistura contém 4 g de He e 32 g de O₂. M = 4 e 32 g/mol, nessa ordem. Qual a fração molar de O₂?",
+     "verso": "0,50 Cada componente fornece 1 mol.",
+     "dispositivo": "Transformações químicas — Misturas gasosas"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Um tanque tem 1 mol de He e 3 mol de Ne.",
+     "enunciado": "A fração molar do He é 0,25.",
+     "gabarito": "C",
+     "comentario": "Certo. Um dos quatro mols é de He.",
+     "id": "enem-misturas-gasosas-c14-q01",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Misturas gasosas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um tanque tem 1 mol de He e 3 mol de Ne.",
+     "enunciado": "A fração molar é obtida pela razão de massas.",
+     "gabarito": "E",
+     "comentario": "Errado. A razão de massas fornece fração mássica.",
+     "id": "enem-misturas-gasosas-c14-q02",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Misturas gasosas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma mistura ideal contém gases A e B em proporção molar 1:1.",
+     "enunciado": "Cada gás contribui com metade da pressão total.",
+     "gabarito": "C",
+     "comentario": "Certo. Ambos ocupam o mesmo volume e têm o mesmo n e T.",
+     "id": "enem-misturas-gasosas-c14-q03",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Misturas gasosas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma mistura ideal contém gases A e B em proporção molar 1:1.",
+     "enunciado": "Cada gás ocupa só metade do espaço interno.",
+     "gabarito": "E",
+     "comentario": "Errado. Os componentes se distribuem pelo volume inteiro.",
+     "id": "enem-misturas-gasosas-c14-q04",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Misturas gasosas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma mistura a 150 kPa contém 20% molar de O₂.",
+     "enunciado": "Qual a pressão parcial do O₂?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "20 kPa",
+      "B": "75 kPa",
+      "C": "120 kPa",
+      "D": "30 kPa",
+      "E": "150 kPa"
+     },
+     "comentarios_por_alternativa": {
+      "A": "20 é a porcentagem e não a pressão.",
+      "B": "Seria metade da pressão total.",
+      "C": "É a contribuição do restante.",
+      "D": "0,20 × 150 = 30.",
+      "E": "É a pressão total."
+     },
+     "comentario": "A) 20 é a porcentagem e não a pressão.\nB) Seria metade da pressão total.\nC) É a contribuição do restante.\nD) 0,20 × 150 = 30.\nE) É a pressão total.",
+     "id": "enem-misturas-gasosas-c14-q05",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Misturas gasosas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um gás coletado sobre água está a 102 kPa e o vapor de água contribui com 3 kPa.",
+     "enunciado": "Qual a pressão do gás seco nessa mistura?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "99 kPa",
+      "B": "105 kPa",
+      "C": "102 kPa",
+      "D": "3 kPa",
+      "E": "34 kPa"
+     },
+     "comentarios_por_alternativa": {
+      "A": "102 − 3 = 99.",
+      "B": "O vapor já está incluído em 102.",
+      "C": "Ignora a contribuição do vapor.",
+      "D": "É a pressão parcial da água.",
+      "E": "Dividir pelo valor da pressão de vapor não separa as contribuições."
+     },
+     "comentario": "A) 102 − 3 = 99.\nB) O vapor já está incluído em 102.\nC) Ignora a contribuição do vapor.\nD) É a pressão parcial da água.\nE) Dividir pelo valor da pressão de vapor não separa as contribuições.",
+     "id": "enem-misturas-gasosas-c14-q06",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Misturas gasosas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Num tanque a volume e temperatura fixos, adiciona-se He a uma mistura sem deixar escapar o O₂.",
+     "enunciado": "O que ocorre com a pressão parcial do O₂?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Aumenta com o aumento da pressão total.",
+      "B": "Diminui só porque a fração diminuiu.",
+      "C": "Fica nula.",
+      "D": "Torna-se igual à do He necessariamente.",
+      "E": "Permanece igual."
+     },
+     "comentarios_por_alternativa": {
+      "A": "A fração de O₂ diminui e compensa o aumento da pressão total.",
+      "B": "A pressão total aumentou na proporção que compensa a fração menor.",
+      "C": "O O₂ continua presente.",
+      "D": "Isso exigiria igual quantidade de cada gás.",
+      "E": "Sua contribuição depende de seus próprios mols, T e V."
+     },
+     "comentario": "A) A fração de O₂ diminui e compensa o aumento da pressão total.\nB) A pressão total aumentou na proporção que compensa a fração menor.\nC) O O₂ continua presente.\nD) Isso exigiria igual quantidade de cada gás.\nE) Sua contribuição depende de seus próprios mols, T e V.",
+     "id": "enem-misturas-gasosas-c14-q07",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Misturas gasosas",
+     "dificuldade": "dificil"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma mistura contém 4 g de He e 32 g de O₂. M = 4 e 32 g/mol, nessa ordem.",
+     "enunciado": "Qual a fração molar de O₂?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "0,89",
+      "B": "0,50",
+      "C": "0,11",
+      "D": "0,25",
+      "E": "2,0"
+     },
+     "comentarios_por_alternativa": {
+      "A": "É a fração aproximada em massa.",
+      "B": "Cada componente fornece 1 mol.",
+      "C": "É a fração em massa do He.",
+      "D": "Exigiria quatro mols totais para um mol de O₂.",
+      "E": "Fração molar fica entre zero e um."
+     },
+     "comentario": "A) É a fração aproximada em massa.\nB) Cada componente fornece 1 mol.\nC) É a fração em massa do He.\nD) Exigiria quatro mols totais para um mol de O₂.\nE) Fração molar fica entre zero e um.",
+     "id": "enem-misturas-gasosas-c14-q08",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas — Misturas gasosas",
+     "dificuldade": "dificil"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Um gás coletado sobre água está a 102 kPa e o vapor de água contribui com 3 kPa. Qual a pressão do gás seco nessa mistura? ___",
+     "opcoes": [
+      "105 kPa",
+      "99 kPa",
+      "102 kPa",
+      "3 kPa"
+     ],
+     "respostas": [
+      "99 kPa"
+     ],
+     "explicacao": "102 − 3 = 99."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Num tanque a volume e temperatura fixos, adiciona-se He a uma mistura sem deixar escapar o O₂. O que ocorre com a pressão parcial do O₂? ___",
+     "opcoes": [
+      "Aumenta com o aumento da pressão total.",
+      "Permanece igual.",
+      "Diminui só porque a fração diminuiu.",
+      "Fica nula."
+     ],
+     "respostas": [
+      "Permanece igual."
+     ],
+     "explicacao": "Sua contribuição depende de seus próprios mols, T e V."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise do caso: Uma mistura a 150 kPa contém 20% molar de O₂.",
+     "itens": [
+      "Localizar o que se quer descobrir: Qual a pressão parcial do O₂?",
+      "Separar as informações dadas no enunciado.",
+      "Aplicar a relação adequada aos dados.",
+      "Conferir se a conclusão responde à pergunta."
+     ],
+     "explicacao": "0,20 × 150 = 30."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Uma mistura a 150 kPa contém 20% molar de O₂. Qual a pressão parcial do O₂?",
+       "30 kPa"
+      ],
+      [
+       "Um gás coletado sobre água está a 102 kPa e o vapor de água contribui com 3 kPa. Qual a pressão do gás seco nessa mistura?",
+       "99 kPa"
+      ],
+      [
+       "Num tanque a volume e temperatura fixos, adiciona-se He a uma mistura sem deixar escapar o O₂. O que ocorre com a pressão parcial do O₂?",
+       "Permanece igual."
+      ],
+      [
+       "Uma mistura contém 4 g de He e 32 g de O₂. M = 4 e 32 g/mol, nessa ordem. Qual a fração molar de O₂?",
+       "0,50"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

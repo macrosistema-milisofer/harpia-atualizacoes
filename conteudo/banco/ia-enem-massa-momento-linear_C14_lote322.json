@@ -1,0 +1,253 @@
+{
+ "assunto": "Massa e quantidade de movimento",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-massa-momento-linear-c14",
+   "titulo": "Massa e quantidade de movimento",
+   "microconteudo": "RAIO-X DA PROVA: Interprete a situação e justifique a conclusão com a relação física pertinente. O momento linear é p = mv. Sua direção e seu sentido acompanham a velocidade, e sua unidade é kg·m/s.\n\nPOR QUE IMPORTA:\nNo pátio, dois carrinhos têm a mesma velocidade, mas um transporta livros. Comparar seus momentos exige considerar a massa e o sentido de movimento.\n\nO QUE A BANCA COBRA:\nInterprete a situação e justifique a conclusão com a relação física pertinente. O momento linear é p = mv. Sua direção e seu sentido acompanham a velocidade, e sua unidade é kg·m/s.\n\nENTENDA:\nComece por esta situação: No pátio, dois carrinhos têm a mesma velocidade, mas um transporta livros. Comparar seus momentos exige considerar a massa e o sentido de movimento. Leia os dados disponíveis e faça uma previsão antes de procurar uma fórmula. O momento linear é p = mv. Sua direção e seu sentido acompanham a velocidade, e sua unidade é kg·m/s. Um carrinho de 2 kg a 3 m/s para o leste tem momento de 6 kg·m/s para o leste.\n\nUm caminhão lento e uma bicicleta rápida podem ter módulos de momento semelhantes dependendo das massas. Por isso, velocidade isolada não basta para ordenar os momentos. Se a massa de um veículo dobrar mantendo a velocidade, o módulo do momento dobra. Se a velocidade dobrar mantendo a massa, o mesmo ocorre. Em dois eixos, a operação vale para as componentes do movimento. Uma massa de 2 kg com componentes de velocidade 3 e 4 m/s tem componentes de momento 6 e 8 kg·m/s. Seu módulo é 10 kg·m/s e a orientação permanece igual à da velocidade.\n\nConfira o significado das palavras da questão. O que mede a massa inercial? A resistência a mudar a velocidade sob uma força dada.\nComo calcular o momento? Multiplique a massa pela velocidade vetorial.\nQual é sua unidade? Quilograma metro por segundo.\nQual é o momento no repouso? Zero no referencial escolhido.\nO módulo pode ser negativo? Não, embora uma componente possa ser negativa.\nComo calcular momento de um conjunto? Some vetorialmente os momentos dos corpos. Se dois termos parecem próximos, compare o que cada um descreve no caso inicial. Em Física, trocar o nome de uma grandeza pode mudar o cálculo ou até o que se está tentando explicar. Escreva, ao lado de cada símbolo, qual parte da situação ele representa e em que unidade seria medido.\n\nExemplo 1. Um skate com massa total de 5 kg avança a 2 m/s. Qual é o módulo do momento? A resposta é 10 kg·m/s. O produto é 5 × 2. Divide massa por velocidade. Soma grandezas diferentes. Eleva a massa ao quadrado. Eleva a velocidade ao quadrado.\n\nExemplo 2. Um carrinho de 4 kg tem velocidade de −3 m/s. Qual componente do momento? A resposta é −12 kg·m/s. A massa positiva preserva o sinal da velocidade. É o módulo, sem o sinal da componente. Não se somam massa e velocidade. Desconsidera a massa. Emprega uma divisão.\n\nExemplo 3. Dois carrinhos têm momentos de +9 e −6 kg·m/s. Qual é a soma? A resposta é +3 kg·m/s. Some os valores com seus sinais. O momento positivo predomina. É a soma dos módulos. Omite o segundo carrinho. Os módulos não são iguais.\n\nExemplo 4. Uma bola tem momento de 8 kg·m/s e massa de 2 kg. Qual é a rapidez? A resposta é 4 m/s. Divida o módulo do momento pela massa. Multiplica em vez de dividir. Subtrai grandezas com unidades diferentes. Repete o número da massa. Ignora a massa.\n\nTeste de interpretação. Dois corpos se movem juntos a 4 m/s. Considere a afirmação: “O de maior massa tem maior módulo de momento.” Certo. A velocidade é igual e p cresce com a massa. Um carrinho de 3 kg está parado. Considere a afirmação: “Seu momento vale 3 kg·m/s.” Errado. A velocidade nula dá momento nulo. Um carrinho troca de +2 para −2 m/s mantendo a massa. Considere a afirmação: “Seu momento muda.” Certo. O sentido se inverte. Dois momentos de módulos iguais têm sentidos opostos. Considere a afirmação: “A soma tem o dobro de um dos módulos.” Errado. Os vetores se cancelam.\n\nUma sequência de resolução é útil quando a questão traz mais dados que o necessário. Primeiro, escolher o referencial. Depois, definir o sentido positivo. Em seguida, calcular o produto massa vezes velocidade. Por último, expressar o resultado com unidade e orientação. Explique oralmente por que cada passo vem nessa posição. Se a última conclusão mudar quando você troca um detalhe do enunciado, localize qual hipótese provocou essa mudança. Isso ajuda a distinguir o resultado de uma conta das condições em que ele vale.\n\nEm uma prova, procure separar o que o texto observou, o que o modelo assume e o que você concluiu. Um valor informado é um dado. Uma condição como desprezar o atrito ou tratar o intervalo como uniforme pode ser uma hipótese. Já o resultado é aquilo que você obtém ao combinar os dados com a regra escolhida. Se houver tabela ou figura, confira a legenda, os eixos e as unidades antes de usar os números. Para revisar, refaça um dos exemplos mudando um dado por vez e preveja o sentido da mudança antes de calcular.\n\nCheck de leitura. Escolha dois exemplos desta lição e compare o papel de cada informação. O que foi medido diretamente? Qual relação precisou ser usada para inferir uma resposta? Há alguma observação que, sozinha, seria insuficiente? Se a resposta for um número, faça uma estimativa simples para checar se ele é plausível. Se for uma explicação, procure indicar qual condição a torna válida. Depois, tente escrever uma resposta que inclua o dado utilizado, o raciocínio e a conclusão em uma ou duas frases.\n\nAo montar um rascunho, deixe os dados de um lado e a conclusão do outro. Comece pelo dado que tem relação direta com a pergunta. Caso sobrem informações, veja se elas servem para comparar hipóteses ou apenas situar a história. Em uma comparação, mantenha a mesma referência e o mesmo intervalo sempre que o enunciado permitir. Quando um resultado contradiz a previsão inicial, revise primeiro a interpretação do que foi pedido; em seguida, revise a operação e as condições assumidas.\n\nNa primeira, destaque o que o enunciado informa sobre as condições da situação. Na segunda, explique como a regra escolhida conecta essas condições ao resultado. Se houver um cálculo, escreva as unidades intermediárias. Em uma resposta sobre direção ou sentido, declare a orientação de referência. Uma alternativa pode conter um número familiar do enunciado e ainda responder sobre a grandeza errada.\n\nPara fechar, compare estas duas situações e procure a diferença física entre elas. Dois corpos se movem juntos a 4 m/s. Um carrinho de 3 kg está parado. Quando o contexto muda, a leitura deve partir das informações apresentadas naquele caso. Considere a primeira afirmação e justifique o resultado: “O de maior massa tem maior módulo de momento.” Certo. A velocidade é igual e p cresce com a massa. Agora avalie a segunda: “Seu momento vale 3 kg·m/s.” Errado. A velocidade nula dá momento nulo. Uma explicação adequada pode usar palavras e cálculos, desde que a relação com a situação seja clara. Pense em qual mudança nos dados tornaria cada afirmação válida ou inválida.\n\nUse este conjunto de definições como roteiro para checar o raciocínio. O que mede a massa inercial? A resistência a mudar a velocidade sob uma força dada.\nComo calcular o momento? Multiplique a massa pela velocidade vetorial.\nQual é sua unidade? Quilograma metro por segundo.\nQual é o momento no repouso? Zero no referencial escolhido.\nO módulo pode ser negativo? Não, embora uma componente possa ser negativa.\nComo calcular momento de um conjunto? Some vetorialmente os momentos dos corpos. Ao voltar aos dados do começo, selecione as definições pertinentes ao caso. Leia a conclusão como se ela fosse uma frase independente: confira a unidade, a referência adotada e a condição de validade.\n\nTROCANDO EM MIÚDOS:\nImagine a situação do começo da lição. No pátio, dois carrinhos têm a mesma velocidade, mas um transporta livros. Comparar seus momentos exige considerar a massa e o sentido de movimento. Um carrinho de 2 kg a 3 m/s para o leste tem momento de 6 kg·m/s para o leste.\n\nA regra principal pode ser escrita assim: O momento linear é p = mv. Sua direção e seu sentido acompanham a velocidade, e sua unidade é kg·m/s. Tente explicar essa regra em voz alta para alguém que ainda não viu o conteúdo, usando o exemplo inicial como apoio.\n\nAntes de marcar uma alternativa, faça esta checagem. O que mede a massa inercial? A resistência a mudar a velocidade sob uma força dada. Como calcular o momento? Multiplique a massa pela velocidade vetorial. Qual é sua unidade? Quilograma metro por segundo. Qual é o momento no repouso? Zero no referencial escolhido. O módulo pode ser negativo? Não, embora uma componente possa ser negativa. Como calcular momento de um conjunto? Some vetorialmente os momentos dos corpos.\n\nEm um rascunho curto, anote quatro passos. Escolher o referencial. Definir o sentido positivo. Calcular o produto massa vezes velocidade. Expressar o resultado com unidade e orientação. Em seguida, tente aplicar os passos a um exemplo com números ou condições diferentes. As grandezas que foram medidas e o que você quer descobrir devem ficar em linhas separadas. Isso ajuda a identificar qual informação ainda falta.\n\nExperimente responder a esta situação sem olhar as opções. Um skate com massa total de 5 kg avança a 2 m/s. Qual é o módulo do momento? O produto é 5 × 2. Depois, confira nos exemplos quais seriam as consequências de escolher uma interpretação diferente. Se tiver que refazer, comece pelas condições do problema e pelo significado de cada dado.\n\nPara fixar, releia uma afirmação verdadeira e uma falsa da lição. Reescreva a falsa trocando só o trecho necessário para corrigi-la. Na afirmação verdadeira, diga qual detalhe do enunciado permite chegar a essa conclusão. Assim você pratica explicar um resultado, além de reconhecer qual opção está certa.\n\nLEI SECA:\nO momento linear é p = mv. Sua direção e seu sentido acompanham a velocidade, e sua unidade é kg·m/s.\n\nSÚMULAS E TESES:\nUm carrinho de 2 kg a 3 m/s para o leste tem momento de 6 kg·m/s para o leste.\n\nESQUEMA:\nEscolher o referencial → Definir o sentido positivo → Calcular o produto massa vezes velocidade → Expressar o resultado com unidade e orientação\n\nPEGADINHAS:\n1. Certo. A velocidade é igual e p cresce com a massa.\n2. Errado. A velocidade nula dá momento nulo.\n3. Certo. O sentido se inverte.\n4. Errado. Os vetores se cancelam.\n\nDOUTRINA:\nOpenStax — College Physics 2e, Linear Momentum\n\nNA PRÁTICA:\nExemplo 1. Um skate com massa total de 5 kg avança a 2 m/s. Qual é o módulo do momento? A resposta é 10 kg·m/s. O produto é 5 × 2. Divide massa por velocidade. Soma grandezas diferentes. Eleva a massa ao quadrado. Eleva a velocidade ao quadrado.",
+   "flashcards": [
+    {
+     "frente": "O que mede a massa inercial?",
+     "verso": "A resistência a mudar a velocidade sob uma força dada.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção dinâmica de massa e quantidade de movimento (momento linear)"
+    },
+    {
+     "frente": "Como calcular o momento?",
+     "verso": "Multiplique a massa pela velocidade vetorial.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção dinâmica de massa e quantidade de movimento (momento linear)"
+    },
+    {
+     "frente": "Qual é sua unidade?",
+     "verso": "Quilograma metro por segundo.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção dinâmica de massa e quantidade de movimento (momento linear)"
+    },
+    {
+     "frente": "Qual é o momento no repouso?",
+     "verso": "Zero no referencial escolhido.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção dinâmica de massa e quantidade de movimento (momento linear)"
+    },
+    {
+     "frente": "O módulo pode ser negativo?",
+     "verso": "Não, embora uma componente possa ser negativa.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção dinâmica de massa e quantidade de movimento (momento linear)"
+    },
+    {
+     "frente": "Como calcular momento de um conjunto?",
+     "verso": "Some vetorialmente os momentos dos corpos.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção dinâmica de massa e quantidade de movimento (momento linear)"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-massa-momento-linear-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Dois corpos se movem juntos a 4 m/s.",
+     "enunciado": "O de maior massa tem maior módulo de momento.",
+     "gabarito": "C",
+     "comentario": "Certo. A velocidade é igual e p cresce com a massa.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção dinâmica de massa e quantidade de movimento (momento linear)"
+    },
+    {
+     "id": "enem-fisica-massa-momento-linear-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Um carrinho de 3 kg está parado.",
+     "enunciado": "Seu momento vale 3 kg·m/s.",
+     "gabarito": "E",
+     "comentario": "Errado. A velocidade nula dá momento nulo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção dinâmica de massa e quantidade de movimento (momento linear)"
+    },
+    {
+     "id": "enem-fisica-massa-momento-linear-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Um carrinho troca de +2 para −2 m/s mantendo a massa.",
+     "enunciado": "Seu momento muda.",
+     "gabarito": "C",
+     "comentario": "Certo. O sentido se inverte.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção dinâmica de massa e quantidade de movimento (momento linear)"
+    },
+    {
+     "id": "enem-fisica-massa-momento-linear-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Dois momentos de módulos iguais têm sentidos opostos.",
+     "enunciado": "A soma tem o dobro de um dos módulos.",
+     "gabarito": "E",
+     "comentario": "Errado. Os vetores se cancelam.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção dinâmica de massa e quantidade de movimento (momento linear)"
+    },
+    {
+     "id": "enem-fisica-massa-momento-linear-c14-q05",
+     "tipo": "me",
+     "texto_base": "Um skate com massa total de 5 kg avança a 2 m/s.",
+     "enunciado": "Qual é o módulo do momento?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "2,5 kg·m/s",
+      "B": "10 kg·m/s",
+      "C": "7 kg·m/s",
+      "D": "25 kg·m/s",
+      "E": "4 kg·m/s"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Divide massa por velocidade.",
+      "B": "Correta. O produto é 5 × 2.",
+      "C": "Soma grandezas diferentes.",
+      "D": "Eleva a massa ao quadrado.",
+      "E": "Eleva a velocidade ao quadrado."
+     },
+     "comentario": "A) Divide massa por velocidade.\nB) Correta. O produto é 5 × 2.\nC) Soma grandezas diferentes.\nD) Eleva a massa ao quadrado.\nE) Eleva a velocidade ao quadrado.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção dinâmica de massa e quantidade de movimento (momento linear)"
+    },
+    {
+     "id": "enem-fisica-massa-momento-linear-c14-q06",
+     "tipo": "me",
+     "texto_base": "Um carrinho de 4 kg tem velocidade de −3 m/s.",
+     "enunciado": "Qual componente do momento?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "+12 kg·m/s",
+      "B": "−7 kg·m/s",
+      "C": "−3 kg·m/s",
+      "D": "−12 kg·m/s",
+      "E": "−1,33 kg·m/s"
+     },
+     "comentarios_por_alternativa": {
+      "A": "É o módulo, sem o sinal da componente.",
+      "B": "Não se somam massa e velocidade.",
+      "C": "Desconsidera a massa.",
+      "D": "Correta. A massa positiva preserva o sinal da velocidade.",
+      "E": "Emprega uma divisão."
+     },
+     "comentario": "A) É o módulo, sem o sinal da componente.\nB) Não se somam massa e velocidade.\nC) Desconsidera a massa.\nD) Correta. A massa positiva preserva o sinal da velocidade.\nE) Emprega uma divisão.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção dinâmica de massa e quantidade de movimento (momento linear)"
+    },
+    {
+     "id": "enem-fisica-massa-momento-linear-c14-q07",
+     "tipo": "me",
+     "texto_base": "Dois carrinhos têm momentos de +9 e −6 kg·m/s.",
+     "enunciado": "Qual é a soma?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "+3 kg·m/s",
+      "B": "−3 kg·m/s",
+      "C": "15 kg·m/s",
+      "D": "9 kg·m/s",
+      "E": "Zero"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Some os valores com seus sinais.",
+      "B": "O momento positivo predomina.",
+      "C": "É a soma dos módulos.",
+      "D": "Omite o segundo carrinho.",
+      "E": "Os módulos não são iguais."
+     },
+     "comentario": "A) Correta. Some os valores com seus sinais.\nB) O momento positivo predomina.\nC) É a soma dos módulos.\nD) Omite o segundo carrinho.\nE) Os módulos não são iguais.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção dinâmica de massa e quantidade de movimento (momento linear)"
+    },
+    {
+     "id": "enem-fisica-massa-momento-linear-c14-q08",
+     "tipo": "me",
+     "texto_base": "Uma bola tem momento de 8 kg·m/s e massa de 2 kg.",
+     "enunciado": "Qual é a rapidez?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "16 m/s",
+      "B": "6 m/s",
+      "C": "2 m/s",
+      "D": "8 m/s",
+      "E": "4 m/s"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Multiplica em vez de dividir.",
+      "B": "Subtrai grandezas com unidades diferentes.",
+      "C": "Repete o número da massa.",
+      "D": "Ignora a massa.",
+      "E": "Correta. Divida o módulo do momento pela massa."
+     },
+     "comentario": "A) Multiplica em vez de dividir.\nB) Subtrai grandezas com unidades diferentes.\nC) Repete o número da massa.\nD) Ignora a massa.\nE) Correta. Divida o módulo do momento pela massa.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Noção dinâmica de massa e quantidade de movimento (momento linear)"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O que mede a massa inercial? Resposta: ___.",
+     "opcoes": [
+      "A resistência a mudar a velocidade sob uma força dada.",
+      "Multiplique a massa pela velocidade vetorial.",
+      "Quilograma metro por segundo.",
+      "Zero no referencial escolhido."
+     ],
+     "respostas": [
+      "A resistência a mudar a velocidade sob uma força dada."
+     ],
+     "explicacao": "A resistência a mudar a velocidade sob uma força dada."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "O módulo pode ser negativo? Resposta: ___.",
+     "opcoes": [
+      "Quilograma metro por segundo.",
+      "Zero no referencial escolhido.",
+      "Não, embora uma componente possa ser negativa.",
+      "Some vetorialmente os momentos dos corpos."
+     ],
+     "respostas": [
+      "Não, embora uma componente possa ser negativa."
+     ],
+     "explicacao": "Não, embora uma componente possa ser negativa."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma situação sobre massa e quantidade de movimento.",
+     "itens": [
+      "Escolher o referencial.",
+      "Definir o sentido positivo.",
+      "Calcular o produto massa vezes velocidade.",
+      "Expressar o resultado com unidade e orientação."
+     ],
+     "explicacao": "O momento linear é p = mv. Sua direção e seu sentido acompanham a velocidade, e sua unidade é kg·m/s."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O que mede a massa inercial?",
+       "A resistência a mudar a velocidade sob uma força dada."
+      ],
+      [
+       "Como calcular o momento?",
+       "Multiplique a massa pela velocidade vetorial."
+      ],
+      [
+       "Qual é sua unidade?",
+       "Quilograma metro por segundo."
+      ],
+      [
+       "Qual é o momento no repouso?",
+       "Zero no referencial escolhido."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

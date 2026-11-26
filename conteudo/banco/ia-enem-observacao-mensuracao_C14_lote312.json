@@ -1,0 +1,253 @@
+{
+ "assunto": "Observação, mensuração e incerteza",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-observacao-mensuracao-c14",
+   "titulo": "Observação, mensuração e incerteza",
+   "microconteudo": "RAIO-X DA PROVA: Interprete a situação e justifique a conclusão com a relação física pertinente. Toda medida combina número e unidade. A resolução indica a menor diferença exibida ou marcada pelo instrumento, enquanto a incerteza registra a faixa de dúvida associada ao resultado.\n\nPOR QUE IMPORTA:\nUm grupo mede a largura da mesa com duas réguas. Uma tem divisões de centímetro, outra tem milímetros. A leitura pode expressar mais detalhe com a segunda, mas a qualidade também depende de como os alunos alinham o início da medida.\n\nO QUE A BANCA COBRA:\nInterprete a situação e justifique a conclusão com a relação física pertinente. Toda medida combina número e unidade. A resolução indica a menor diferença exibida ou marcada pelo instrumento, enquanto a incerteza registra a faixa de dúvida associada ao resultado.\n\nENTENDA:\nComece por esta situação: Um grupo mede a largura da mesa com duas réguas. Uma tem divisões de centímetro, outra tem milímetros. A leitura pode expressar mais detalhe com a segunda, mas a qualidade também depende de como os alunos alinham o início da medida. Leia os dados disponíveis e faça uma previsão antes de procurar uma fórmula. Toda medida combina número e unidade. A resolução indica a menor diferença exibida ou marcada pelo instrumento, enquanto a incerteza registra a faixa de dúvida associada ao resultado. Uma régua cujo zero foi danificado ainda pode servir se você alinhar a peça em 2 cm e ler a outra ponta em 8 cm. O comprimento é a diferença, 6 cm.\n\nConsidere três leituras para o comprimento de um objeto: 12,1 cm, 12,2 cm e 12,3 cm. A média é 12,2 cm e as leituras extremas ficam a 0,1 cm dela. Esse resumo descreve os dados observados, mas ainda é preciso verificar se a régua começou na marca certa. Se todas as medidas tiverem sido deslocadas em 0,5 cm na mesma direção, a média também ficará deslocada. Repetir uma medição ajuda a enxergar diferenças entre tentativas, enquanto a calibração ajuda a localizar desvios persistentes.\n\nEm uma proveta, talvez haja marcas a cada 2 mL. A posição do nível pode estar entre duas marcas, mas anotar 38,572 mL sugere uma resolução que o procedimento não deu. Aproxime conforme a divisão da escala e a qualidade da leitura. Se o enunciado apresentar uma medida como 38 ± 1 mL, a indicação informa um valor central e uma faixa de dúvida. Em uma comparação com um segundo valor de 39 ± 1 mL, as faixas se sobrepõem. A diferença entre os valores centrais, por si, não permite afirmar que as amostras têm volumes claramente distintos.\nRegistre também as condições da leitura para que ela possa ser reproduzida.\n\nConfira o significado das palavras da questão. O que é resolução? O menor passo de indicação do instrumento.\nO que é precisão em medições repetidas? O grau de proximidade entre as leituras repetidas.\nO que é erro sistemático? Um desvio persistente associado ao procedimento ou instrumento.\nO que é unidade? Uma referência padronizada usada para expressar a medida.\nO que é uma medida indireta? Uma grandeza calculada a partir de outras medidas.\nO que a média pode reduzir? O efeito de flutuações aleatórias, quando o procedimento é adequado. Se dois termos parecem próximos, compare o que cada um descreve no caso inicial. Em Física, trocar o nome de uma grandeza pode mudar o cálculo ou até o que se está tentando explicar. Escreva, ao lado de cada símbolo, qual parte da situação ele representa e em que unidade seria medido.\n\nExemplo 1. Uma régua tem o zero danificado. Uma haste começa na marca de 1,5 cm e termina em 9,5 cm. Qual comprimento deve ser registrado? A resposta é 8,0 cm.. Subtraia as posições das duas pontas. Essa é a posição final, não a diferença. Somar posições não fornece o comprimento. Essa é a posição inicial. A diferença entre as leituras dadas é oito.\n\nExemplo 2. Uma balança mostra 200,0 g para um padrão certificado de 198,0 g e repete o valor. Qual diagnóstico é sustentado? A resposta é Há boa repetibilidade, com desvio de +2,0 g frente ao padrão.. A concordância entre leituras não impede um viés em relação ao padrão. A comparação com o padrão mostra desvio. O padrão fornece um valor de referência. O deslocamento observado se repetiu. O valor observado já está acima do padrão.\n\nExemplo 3. Um estudante fotografa uma régua em ângulo oblíquo e a extremidade da peça não está encostada nas marcas. Que ajuste reduz o erro de paralaxe? A resposta é Alinhar a escala junto da peça e olhar perpendicularmente.. Isso aproxima o alinhamento visual do alinhamento real. A separação pode aumentar a mudança aparente. Casas decimais não corrigem o ângulo de observação. A dimensão da imagem pode depender da perspectiva. Um mesmo viés pode se repetir.\n\nExemplo 4. Uma caixa retangular é medida e seus três lados valem 2 cm, 3 cm e 4 cm. Qual medida indireta decorre do produto dos três lados? A resposta é 24 cm³ de volume.. O produto 2 × 3 × 4 contém três fatores de comprimento. Três comprimentos produzem unidade cúbica. 9 cm é a soma das três medidas distintas. 6 é o produto de apenas dois lados. 12 cm² é a área de uma das faces.\n\nTeste de interpretação. Uma balança indica 0,2 kg mesmo sem objeto. Considere a afirmação: “O desvio de zero pode afetar todas as pesagens.” Certo. É necessário zerar ou corrigir a indicação antes de interpretar os valores. Um termômetro mostra números inteiros. Considere a afirmação: “Registrar 27,432 °C com base em uma única indicação de 27 °C é justificado.” Errado. Essas casas extras não foram determinadas pelo instrumento. Uma turma mede lados de uma placa e multiplica os valores. Considere a afirmação: “A área obtida é uma medida indireta.” Certo. Ela foi inferida a partir das medidas de comprimento. Três medidas de uma régua descalibrada coincidem. Considere a afirmação: “A coincidência garante que o valor esteja correto.” Errado. Repetibilidade pode coexistir com erro sistemático.\n\nUma sequência de resolução é útil quando a questão traz mais dados que o necessário. Primeiro, definir a grandeza e a unidade. Depois, escolher instrumento e faixa. Em seguida, medir e registrar as condições. Por último, apresentar o valor com precisão compatível. Explique oralmente por que cada passo vem nessa posição. Se a última conclusão mudar quando você troca um detalhe do enunciado, localize qual hipótese provocou essa mudança. Isso ajuda a distinguir o resultado de uma conta das condições em que ele vale.\n\nEm uma prova, procure separar o que o texto observou, o que o modelo assume e o que você concluiu. Um valor informado é um dado. Uma condição como desprezar o atrito ou tratar o intervalo como uniforme pode ser uma hipótese. Já o resultado é aquilo que você obtém ao combinar os dados com a regra escolhida. Se houver tabela ou figura, confira a legenda, os eixos e as unidades antes de usar os números. Para revisar, refaça um dos exemplos mudando um dado por vez e preveja o sentido da mudança antes de calcular.\n\nCheck de leitura. Escolha dois exemplos desta lição e compare o papel de cada informação. O que foi medido diretamente? Qual relação precisou ser usada para inferir uma resposta? Há alguma observação que, sozinha, seria insuficiente? Se a resposta for um número, faça uma estimativa simples para checar se ele é plausível. Se for uma explicação, procure indicar qual condição a torna válida. Depois, tente escrever uma resposta que inclua o dado utilizado, o raciocínio e a conclusão em uma ou duas frases.\n\nAo montar um rascunho, deixe os dados de um lado e a conclusão do outro. Comece pelo dado que tem relação direta com a pergunta. Caso sobrem informações, veja se elas servem para comparar hipóteses ou apenas situar a história. Em uma comparação, mantenha a mesma referência e o mesmo intervalo sempre que o enunciado permitir. Quando um resultado contradiz a previsão inicial, revise primeiro a interpretação do que foi pedido; em seguida, revise a operação e as condições assumidas.\n\nTROCANDO EM MIÚDOS:\nImagine a situação do começo da lição. Um grupo mede a largura da mesa com duas réguas. Uma tem divisões de centímetro, outra tem milímetros. A leitura pode expressar mais detalhe com a segunda, mas a qualidade também depende de como os alunos alinham o início da medida. Uma régua cujo zero foi danificado ainda pode servir se você alinhar a peça em 2 cm e ler a outra ponta em 8 cm. O comprimento é a diferença, 6 cm.\n\nA regra principal pode ser escrita assim: Toda medida combina número e unidade. A resolução indica a menor diferença exibida ou marcada pelo instrumento, enquanto a incerteza registra a faixa de dúvida associada ao resultado. Tente explicar essa regra em voz alta para alguém que ainda não viu o conteúdo, usando o exemplo inicial como apoio.\n\nAntes de marcar uma alternativa, faça esta checagem. O que é resolução? O menor passo de indicação do instrumento. O que é precisão em medições repetidas? O grau de proximidade entre as leituras repetidas. O que é erro sistemático? Um desvio persistente associado ao procedimento ou instrumento. O que é unidade? Uma referência padronizada usada para expressar a medida. O que é uma medida indireta? Uma grandeza calculada a partir de outras medidas. O que a média pode reduzir? O efeito de flutuações aleatórias, quando o procedimento é adequado.\n\nEm um rascunho curto, anote quatro passos. Definir a grandeza e a unidade. Escolher instrumento e faixa. Medir e registrar as condições. Apresentar o valor com precisão compatível. Em seguida, tente aplicar os passos a um exemplo com números ou condições diferentes. As grandezas que foram medidas e o que você quer descobrir devem ficar em linhas separadas. Isso ajuda a identificar qual informação ainda falta.\n\nExperimente responder a esta situação sem olhar as opções. Uma régua tem o zero danificado. Uma haste começa na marca de 1,5 cm e termina em 9,5 cm. Qual comprimento deve ser registrado? Subtraia as posições das duas pontas. Depois, confira nos exemplos quais seriam as consequências de escolher uma interpretação diferente. Se tiver que refazer, comece pelas condições do problema e pelo significado de cada dado.\n\nPara fixar, releia uma afirmação verdadeira e uma falsa da lição. Reescreva a falsa trocando só o trecho necessário para corrigi-la. Na afirmação verdadeira, diga qual detalhe do enunciado permite chegar a essa conclusão. Assim você pratica explicar um resultado, além de reconhecer qual opção está certa.\n\nLEI SECA:\nToda medida combina número e unidade. A resolução indica a menor diferença exibida ou marcada pelo instrumento, enquanto a incerteza registra a faixa de dúvida associada ao resultado.\n\nSÚMULAS E TESES:\nUma régua cujo zero foi danificado ainda pode servir se você alinhar a peça em 2 cm e ler a outra ponta em 8 cm. O comprimento é a diferença, 6 cm.\n\nESQUEMA:\nDefinir a grandeza e a unidade → Escolher instrumento e faixa → Medir e registrar as condições → Apresentar o valor com precisão compatível\n\nPEGADINHAS:\n1. Certo. É necessário zerar ou corrigir a indicação antes de interpretar os valores.\n2. Errado. Essas casas extras não foram determinadas pelo instrumento.\n3. Certo. Ela foi inferida a partir das medidas de comprimento.\n4. Errado. Repetibilidade pode coexistir com erro sistemático.\n\nDOUTRINA:\nOpenStax — College Physics 2e, Accuracy, Precision, and Significant Figures\n\nNA PRÁTICA:\nExemplo 1. Uma régua tem o zero danificado. Uma haste começa na marca de 1,5 cm e termina em 9,5 cm. Qual comprimento deve ser registrado? A resposta é 8,0 cm.. Subtraia as posições das duas pontas. Essa é a posição final, não a diferença. Somar posições não fornece o comprimento. Essa é a posição inicial. A diferença entre as leituras dadas é oito.",
+   "flashcards": [
+    {
+     "frente": "O que é resolução?",
+     "verso": "O menor passo de indicação do instrumento.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Observações e mensurações: representação de grandezas físicas como grandezas mensuráveis"
+    },
+    {
+     "frente": "O que é precisão em medições repetidas?",
+     "verso": "O grau de proximidade entre as leituras repetidas.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Observações e mensurações: representação de grandezas físicas como grandezas mensuráveis"
+    },
+    {
+     "frente": "O que é erro sistemático?",
+     "verso": "Um desvio persistente associado ao procedimento ou instrumento.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Observações e mensurações: representação de grandezas físicas como grandezas mensuráveis"
+    },
+    {
+     "frente": "O que é unidade?",
+     "verso": "Uma referência padronizada usada para expressar a medida.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Observações e mensurações: representação de grandezas físicas como grandezas mensuráveis"
+    },
+    {
+     "frente": "O que é uma medida indireta?",
+     "verso": "Uma grandeza calculada a partir de outras medidas.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Observações e mensurações: representação de grandezas físicas como grandezas mensuráveis"
+    },
+    {
+     "frente": "O que a média pode reduzir?",
+     "verso": "O efeito de flutuações aleatórias, quando o procedimento é adequado.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Observações e mensurações: representação de grandezas físicas como grandezas mensuráveis"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-observacao-mensuracao-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Uma balança indica 0,2 kg mesmo sem objeto.",
+     "enunciado": "O desvio de zero pode afetar todas as pesagens.",
+     "gabarito": "C",
+     "comentario": "Certo. É necessário zerar ou corrigir a indicação antes de interpretar os valores.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Observações e mensurações: representação de grandezas físicas como grandezas mensuráveis"
+    },
+    {
+     "id": "enem-fisica-observacao-mensuracao-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Um termômetro mostra números inteiros.",
+     "enunciado": "Registrar 27,432 °C com base em uma única indicação de 27 °C é justificado.",
+     "gabarito": "E",
+     "comentario": "Errado. Essas casas extras não foram determinadas pelo instrumento.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Observações e mensurações: representação de grandezas físicas como grandezas mensuráveis"
+    },
+    {
+     "id": "enem-fisica-observacao-mensuracao-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Uma turma mede lados de uma placa e multiplica os valores.",
+     "enunciado": "A área obtida é uma medida indireta.",
+     "gabarito": "C",
+     "comentario": "Certo. Ela foi inferida a partir das medidas de comprimento.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Observações e mensurações: representação de grandezas físicas como grandezas mensuráveis"
+    },
+    {
+     "id": "enem-fisica-observacao-mensuracao-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Três medidas de uma régua descalibrada coincidem.",
+     "enunciado": "A coincidência garante que o valor esteja correto.",
+     "gabarito": "E",
+     "comentario": "Errado. Repetibilidade pode coexistir com erro sistemático.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Observações e mensurações: representação de grandezas físicas como grandezas mensuráveis"
+    },
+    {
+     "id": "enem-fisica-observacao-mensuracao-c14-q05",
+     "tipo": "me",
+     "texto_base": "Uma régua tem o zero danificado. Uma haste começa na marca de 1,5 cm e termina em 9,5 cm.",
+     "enunciado": "Qual comprimento deve ser registrado?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "9,5 cm.",
+      "B": "8,0 cm.",
+      "C": "11,0 cm.",
+      "D": "1,5 cm.",
+      "E": "7,0 cm."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Essa é a posição final, não a diferença.",
+      "B": "Correta. Subtraia as posições das duas pontas.",
+      "C": "Somar posições não fornece o comprimento.",
+      "D": "Essa é a posição inicial.",
+      "E": "A diferença entre as leituras dadas é oito."
+     },
+     "comentario": "A) Essa é a posição final, não a diferença.\nB) Correta. Subtraia as posições das duas pontas.\nC) Somar posições não fornece o comprimento.\nD) Essa é a posição inicial.\nE) A diferença entre as leituras dadas é oito.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Observações e mensurações: representação de grandezas físicas como grandezas mensuráveis"
+    },
+    {
+     "id": "enem-fisica-observacao-mensuracao-c14-q06",
+     "tipo": "me",
+     "texto_base": "Uma balança mostra 200,0 g para um padrão certificado de 198,0 g e repete o valor.",
+     "enunciado": "Qual diagnóstico é sustentado?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "A balança está correta por repetir o resultado.",
+      "B": "O padrão mediu a resolução da balança.",
+      "C": "O erro é necessariamente aleatório.",
+      "D": "Há boa repetibilidade, com desvio de +2,0 g frente ao padrão.",
+      "E": "A leitura deveria ser corrigida somando 2,0 g."
+     },
+     "comentarios_por_alternativa": {
+      "A": "A comparação com o padrão mostra desvio.",
+      "B": "O padrão fornece um valor de referência.",
+      "C": "O deslocamento observado se repetiu.",
+      "D": "Correta. A concordância entre leituras não impede um viés em relação ao padrão.",
+      "E": "O valor observado já está acima do padrão."
+     },
+     "comentario": "A) A comparação com o padrão mostra desvio.\nB) O padrão fornece um valor de referência.\nC) O deslocamento observado se repetiu.\nD) Correta. A concordância entre leituras não impede um viés em relação ao padrão.\nE) O valor observado já está acima do padrão.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Observações e mensurações: representação de grandezas físicas como grandezas mensuráveis"
+    },
+    {
+     "id": "enem-fisica-observacao-mensuracao-c14-q07",
+     "tipo": "me",
+     "texto_base": "Um estudante fotografa uma régua em ângulo oblíquo e a extremidade da peça não está encostada nas marcas.",
+     "enunciado": "Que ajuste reduz o erro de paralaxe?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "Alinhar a escala junto da peça e olhar perpendicularmente.",
+      "B": "Afastar mais a peça da escala.",
+      "C": "Escrever mais dígitos na leitura.",
+      "D": "Medir apenas a largura da foto.",
+      "E": "Repetir sempre do mesmo ângulo oblíquo."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Isso aproxima o alinhamento visual do alinhamento real.",
+      "B": "A separação pode aumentar a mudança aparente.",
+      "C": "Casas decimais não corrigem o ângulo de observação.",
+      "D": "A dimensão da imagem pode depender da perspectiva.",
+      "E": "Um mesmo viés pode se repetir."
+     },
+     "comentario": "A) Correta. Isso aproxima o alinhamento visual do alinhamento real.\nB) A separação pode aumentar a mudança aparente.\nC) Casas decimais não corrigem o ângulo de observação.\nD) A dimensão da imagem pode depender da perspectiva.\nE) Um mesmo viés pode se repetir.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Observações e mensurações: representação de grandezas físicas como grandezas mensuráveis"
+    },
+    {
+     "id": "enem-fisica-observacao-mensuracao-c14-q08",
+     "tipo": "me",
+     "texto_base": "Uma caixa retangular é medida e seus três lados valem 2 cm, 3 cm e 4 cm.",
+     "enunciado": "Qual medida indireta decorre do produto dos três lados?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "24 cm² de área.",
+      "B": "9 cm de perímetro.",
+      "C": "6 cm³ de volume.",
+      "D": "12 cm² de área total.",
+      "E": "24 cm³ de volume."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Três comprimentos produzem unidade cúbica.",
+      "B": "9 cm é a soma das três medidas distintas.",
+      "C": "6 é o produto de apenas dois lados.",
+      "D": "12 cm² é a área de uma das faces.",
+      "E": "Correta. O produto 2 × 3 × 4 contém três fatores de comprimento."
+     },
+     "comentario": "A) Três comprimentos produzem unidade cúbica.\nB) 9 cm é a soma das três medidas distintas.\nC) 6 é o produto de apenas dois lados.\nD) 12 cm² é a área de uma das faces.\nE) Correta. O produto 2 × 3 × 4 contém três fatores de comprimento.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Observações e mensurações: representação de grandezas físicas como grandezas mensuráveis"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O que é resolução? Resposta: ___.",
+     "opcoes": [
+      "O menor passo de indicação do instrumento.",
+      "O grau de proximidade entre as leituras repetidas.",
+      "Um desvio persistente associado ao procedimento ou instrumento.",
+      "Uma referência padronizada usada para expressar a medida."
+     ],
+     "respostas": [
+      "O menor passo de indicação do instrumento."
+     ],
+     "explicacao": "O menor passo de indicação do instrumento."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "O que é uma medida indireta? Resposta: ___.",
+     "opcoes": [
+      "Um desvio persistente associado ao procedimento ou instrumento.",
+      "Uma referência padronizada usada para expressar a medida.",
+      "Uma grandeza calculada a partir de outras medidas.",
+      "O efeito de flutuações aleatórias, quando o procedimento é adequado."
+     ],
+     "respostas": [
+      "Uma grandeza calculada a partir de outras medidas."
+     ],
+     "explicacao": "Uma grandeza calculada a partir de outras medidas."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma situação sobre observação, mensuração e incerteza.",
+     "itens": [
+      "Definir a grandeza e a unidade.",
+      "Escolher instrumento e faixa.",
+      "Medir e registrar as condições.",
+      "Apresentar o valor com precisão compatível."
+     ],
+     "explicacao": "Toda medida combina número e unidade. A resolução indica a menor diferença exibida ou marcada pelo instrumento, enquanto a incerteza registra a faixa de dúvida associada ao resultado."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O que é resolução?",
+       "O menor passo de indicação do instrumento."
+      ],
+      [
+       "O que é precisão em medições repetidas?",
+       "O grau de proximidade entre as leituras repetidas."
+      ],
+      [
+       "O que é erro sistemático?",
+       "Um desvio persistente associado ao procedimento ou instrumento."
+      ],
+      [
+       "O que é unidade?",
+       "Uma referência padronizada usada para expressar a medida."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

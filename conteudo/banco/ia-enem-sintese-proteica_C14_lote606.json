@@ -1,0 +1,251 @@
+{
+ "assunto": "Síntese proteica: da transcrição à proteína funcional",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-sintese-proteica-c14",
+   "titulo": "Síntese proteica: da transcrição à proteína funcional",
+   "microconteudo": "RAIO-X DA PROVA: Assunto prioritário do edital.\n\nPOR QUE IMPORTA:\nUma célula pode produzir mais ou menos de determinada proteína conforme o momento e a função que exerce. Entender o caminho da informação permite interpretar experimentos sobre expressão gênica e explicar por que encontrar um gene e encontrar sua proteína são observações diferentes.\n\nO QUE A BANCA COBRA:\nIdentifique transcrição, processamento de RNA e tradução pelas moléculas participantes. Relacione o que mudou no experimento com a etapa em que a mudança pode ter ocorrido.\n\nENTENDA:\nImagine uma célula que produz uma enzima usada para transformar nutrientes. O DNA abriga a sequência relacionada a essa proteína, mas a molécula que chega ao ribossomo e orienta a produção é o RNA mensageiro. A primeira passagem de informação, do DNA ao RNA, chama-se transcrição. A segunda, da sequência do mensageiro à sequência de aminoácidos, chama-se tradução. Há etapas de controle antes, durante e depois dessas passagens. Assim, conhecer a sequência do DNA permite fazer previsões, mas saber quanto de enzima a célula tem e quão bem ela funciona exige outras informações.\n\nNa transcrição, a RNA polimerase forma RNA usando uma das fitas de DNA como molde para a região em questão. A molécula cresce em uma direção determinada, enquanto as novas bases se emparelham temporariamente com bases do molde. Em células eucarióticas típicas, a transcrição dos genes nucleares ocorre no núcleo. Sinais associados ao DNA e proteínas reguladoras ajudam a determinar quando a transcrição começa e em que intensidade acontece. Se duas células têm a mesma sequência de um gene, uma delas pode produzir mais RNA desse gene porque sua atividade de transcrição é maior ou porque suas moléculas de RNA duram mais.\n\nEm muitos genes de eucariontes, o RNA inicial contém regiões chamadas íntrons e éxons. Durante o processamento conhecido como splicing, os íntrons são retirados e os segmentos de éxons que permanecerão no mensageiro são unidos. Esse processamento pode ocorrer de modos diferentes em certas células. Se um tipo de mensageiro inclui determinado éxon e outro o deixa de fora, a sequência disponível para o ribossomo pode mudar. Esse mecanismo, chamado splicing alternativo, ajuda a explicar como um mesmo gene pode estar ligado a versões distintas de proteínas. A observação de RNAs com comprimentos diferentes, sozinha, ainda precisa ser analisada junto à localização das regiões diferentes.\n\nO mensageiro funcional pode chegar ao citoplasma por passagem regulada através de poros nucleares. A tradução ocorre nos ribossomos. Um ribossomo reúne RNA ribossômico e proteínas. Ele organiza o encontro do mensageiro com RNAs transportadores e contribui para a ligação entre aminoácidos. O mensageiro funciona como referência para a ordem dos aminoácidos. O RNA transportador, por sua vez, associa um aminoácido a uma trinca chamada anticódon. O anticódon ajuda a reconhecer uma trinca correspondente, o códon, no mensageiro. Essas funções são complementares. Numa figura, o transportador pode ser identificado pela ligação com um aminoácido e pelo contato com o mensageiro.\n\nNo início da tradução, o ribossomo se organiza ao redor da mensagem e estabelece o quadro de leitura. A partir daí, durante o alongamento, ele avança códon por códon. A correspondência entre o códon e o transportador ajuda a inserir o aminoácido adequado na posição seguinte. Ligações peptídicas unem os aminoácidos. Se o enunciado mostra várias cadeias com comprimentos distintos saindo de ribossomos no mesmo mensageiro, isso pode representar diferentes ribossomos traduzindo a mesma molécula ao mesmo tempo. Cada cadeia revela o avanço de um ribossomo. Essa organização pode aumentar a produção sem exigir uma nova cópia de RNA para cada cadeia montada.\n\nQuando o ribossomo encontra um códon de parada no quadro correto, fatores de liberação ajudam a encerrar a tradução e liberar a cadeia. O códon de parada tem função de sinal. Em um esquema escolar no qual aparecem três códons para aminoácidos seguidos de uma parada, surgem três aminoácidos na cadeia inicial. Se um sinal de parada aparece antes do esperado, a cadeia pode terminar mais cedo. O efeito sobre a função depende de que parte foi perdida e de como a célula lida com aquele mensageiro. Em uma questão que pergunta apenas pelo comprimento, use as trincas e as pistas do enunciado para responder.\n\nUma cadeia recém-produzida pode precisar assumir uma forma tridimensional específica para funcionar. Em alguns casos, outras proteínas ajudam no dobramento. Certas cadeias sofrem cortes ou recebem grupos químicos, e algumas proteínas reúnem várias cadeias. Por isso, um teste que detecta a sequência da cadeia e outro que mede sua atividade podem dar resultados diferentes. Imagine duas amostras com a mesma quantidade de uma enzima. Se uma delas ficou exposta a uma condição que afeta o dobramento, ela pode ter menor atividade, ainda que a quantidade da cadeia detectada seja semelhante. Pergunte se o teste mediu presença, quantidade ou desempenho.\n\nO destino da proteína também varia. Ribossomos livres produzem muitas proteínas que atuam no citosol. Muitas proteínas destinadas à secreção passam pelo retículo endoplasmático rugoso e depois pelo complexo golgiense. Sinais na cadeia em formação podem direcionar o conjunto para o retículo. A fabricação e o transporte são processos diferentes, embora estejam coordenados. Se uma proteína marcada aparece primeiro no retículo e depois no meio extracelular, o deslocamento ajuda a identificar a rota secretora. Para saber em que local se uniram os aminoácidos, procure o ribossomo associado ao processo, ainda que a proteína tenha acabado no exterior.\n\nPara interpretar resultados, acompanhe mais de uma medida. Imagine células com muita quantidade do mensageiro de uma proteína fluorescente, mas pouca fluorescência. Talvez a tradução tenha diminuído, talvez a proteína esteja sendo degradada com rapidez ou talvez tenha sido formada sem adquirir a configuração que gera fluorescência. Se outro teste encontra pouca cadeia, a hipótese de um problema apenas na fluorescência perde força. Já se encontra muita cadeia e pouca fluorescência, a explicação pode estar depois da montagem. Esse método de leitura liga cada evidência ao que ela mede e evita escolher uma única causa sem apoio.\n\nEm uma comparação com o grupo de referência, vale perguntar também quando as amostras foram medidas. Se o RNA aumenta primeiro, a proteína pode subir só após um intervalo necessário para tradução e acúmulo. Se a proteína se mantém por mais tempo, ela pode continuar presente mesmo depois de o mensageiro cair. Um gráfico temporal permite observar esses atrasos. Repare se cada curva está na mesma escala e se os resultados representam quantidade de moléculas por célula ou uma média de várias células. Esses detalhes mudam a interpretação do que está sendo produzido em cada momento.\n\nTROCANDO EM MIÚDOS:\nImagine um caderno que fica guardado numa sala e um cartão com uma instrução copiada dele. O DNA é como o caderno. O RNA mensageiro é como o cartão. Em uma célula com núcleo, a cópia começa dentro dele. Antes de sair, o cartão pode ter partes retiradas e as partes que ficam podem ser reunidas. Dependendo de quais pedaços entram na mensagem final, duas versões do cartão podem sair do mesmo trecho de DNA. O nome desse recorte e união é splicing. Se você vir um desenho com partes desaparecendo do RNA, procure essa etapa.\n\nDepois, o cartão chega a uma bancada, que é o ribossomo. Lá, cada grupo de três letras ajuda a indicar qual peça entra na cadeia. As peças são os aminoácidos, e os transportadores ajudam a entregá-las. Cada transportador possui uma trinca que permite reconhecer a informação no cartão. Na hora da prova, lembre que o ribossomo avança pelo mensageiro, enquanto o RNA transportador entrega o aminoácido. Um sinal de parada indica o fim da montagem. Na contagem de aminoácidos de um esquema, conte as peças que entraram até aquele sinal.\n\nUma corrente pronta ainda precisa assumir uma forma. Compare com um fio que só encaixa num suporte depois de dobrado de um jeito específico. Uma célula pode ter a corrente de aminoácidos e ainda apresentar pouca atividade daquela proteína. O contrário também merece cuidado: ter muito cartão com a instrução disponível não garante muita proteína naquele momento. Pode faltar tempo para montar as cadeias ou elas podem estar sendo removidas com rapidez. Ao resolver uma questão de experimento, destaque o que foi medido em cada etapa. Saber que um teste encontrou RNA permite uma conclusão sobre o RNA. Para concluir sobre proteína ou sobre atividade, procure a medida correspondente. Essa leitura passo a passo ajuda quando aparecem gráficos com curvas que sobem em momentos diferentes.\n\nESQUEMA:\n• Transcrição → DNA molde orienta a formação de RNA.\n• Processamento → uma mensagem madura pode ser formada após remoção de íntrons.\n• Tradução → ribossomo e RNAs transportadores permitem montar a cadeia.\n• Dobramento e modificações → podem contribuir para a função da proteína.\n\nPEGADINHAS:\n• Atribuir ao ribossomo a cópia da mensagem a partir do DNA.\n• Tratar íntrons normalmente removidos como códons da mensagem final.\n• Somar o sinal de parada ao número de aminoácidos.\n• Tomar quantidade de RNA como medida direta da atividade da proteína.\n\nNA PRÁTICA:\nDuas amostras têm o mesmo nível de RNA e igual quantidade de uma cadeia, mas uma apresenta baixa atividade enzimática. Uma investigação deve distinguir alterações na forma ou em outras condições necessárias à atividade. A igualdade na quantidade medida favorece procurar mecanismos que afetam a função por molécula.",
+   "flashcards": [
+    {
+     "frente": "O que é transcrição?",
+     "verso": "Formação de RNA a partir de uma sequência molde de DNA.",
+     "dispositivo": "Moléculas, células e tecidos — Síntese proteica"
+    },
+    {
+     "frente": "Qual é a função de um ribossomo?",
+     "verso": "Organizar a leitura do mensageiro e a montagem da cadeia de aminoácidos.",
+     "dispositivo": "Moléculas, células e tecidos — Síntese proteica"
+    },
+    {
+     "frente": "O que o RNA transportador leva ao ribossomo?",
+     "verso": "Um aminoácido quando está carregado.",
+     "dispositivo": "Moléculas, células e tecidos — Síntese proteica"
+    },
+    {
+     "frente": "O que acontece no splicing de muitos RNAs mensageiros?",
+     "verso": "Íntrons são removidos e os éxons que permanecem são unidos.",
+     "dispositivo": "Moléculas, células e tecidos — Síntese proteica"
+    },
+    {
+     "frente": "O que acontece quando o ribossomo lê um códon de parada?",
+     "verso": "A tradução é encerrada com a participação de fatores de liberação.",
+     "dispositivo": "Moléculas, células e tecidos — Síntese proteica"
+    },
+    {
+     "frente": "Por que uma cadeia recém-formada pode ainda ter pouca atividade?",
+     "verso": "Pode precisar de dobramento ou modificações para adquirir a forma funcional.",
+     "dispositivo": "Moléculas, células e tecidos — Síntese proteica"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Um RNA inicial de célula eucariótica perde certos trechos antes de ir ao citoplasma.",
+     "enunciado": "O processamento pode mudar a sequência que ficará disponível para o ribossomo.",
+     "gabarito": "C",
+     "comentario": "Certo. O processamento determina quais trechos permanecerão na mensagem.",
+     "id": "enem-sintese-proteica-c14-q01",
+     "habilidade": "H13",
+     "dificuldade": "facil",
+     "dispositivo": "Moléculas, células e tecidos — Síntese proteica, H13"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma aula acompanha a formação de RNA a partir do DNA.",
+     "enunciado": "A etapa descrita é a tradução.",
+     "gabarito": "E",
+     "comentario": "Errado. A produção de RNA a partir de DNA é transcrição.",
+     "id": "enem-sintese-proteica-c14-q02",
+     "habilidade": "H13",
+     "dificuldade": "facil",
+     "dispositivo": "Moléculas, células e tecidos — Síntese proteica, H13"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um teste detecta grande quantidade de mensageiro de uma enzima.",
+     "enunciado": "Esse resultado, sozinho, mede diretamente a atividade da enzima.",
+     "gabarito": "E",
+     "comentario": "Errado. Encontrar RNA informa sobre a mensagem, não sobre a atividade.",
+     "id": "enem-sintese-proteica-c14-q03",
+     "habilidade": "H13",
+     "dificuldade": "media",
+     "dispositivo": "Moléculas, células e tecidos — Síntese proteica, H13"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Vários ribossomos estão ligados ao mesmo mensageiro em posições diferentes.",
+     "enunciado": "Essa disposição é compatível com várias cadeias em formação a partir da mesma mensagem.",
+     "gabarito": "C",
+     "comentario": "Certo. Cada ribossomo pode traduzir a molécula ao mesmo tempo.",
+     "id": "enem-sintese-proteica-c14-q04",
+     "habilidade": "H13",
+     "dificuldade": "media",
+     "dispositivo": "Moléculas, células e tecidos — Síntese proteica, H13"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma célula oferece aminoácidos e um mensageiro aos ribossomos.",
+     "enunciado": "Qual molécula ajuda a associar um aminoácido ao códon correspondente?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "DNA molde.",
+      "B": "RNA transportador.",
+      "C": "Íntron removido.",
+      "D": "Fosfolipídio.",
+      "E": "Celulose."
+     },
+     "comentarios_por_alternativa": {
+      "A": "O DNA molde atua na formação do RNA.",
+      "B": "Seu anticódon participa do reconhecimento e a molécula carrega aminoácido.",
+      "C": "O trecho removido não integra o mensageiro traduzido.",
+      "D": "Componente de membranas, não entrega aminoácidos na tradução.",
+      "E": "Polímero estrutural vegetal, sem a função descrita."
+     },
+     "comentario": "A) O DNA molde atua na formação do RNA.\nB) Seu anticódon participa do reconhecimento e a molécula carrega aminoácido.\nC) O trecho removido não integra o mensageiro traduzido.\nD) Componente de membranas, não entrega aminoácidos na tradução.\nE) Polímero estrutural vegetal, sem a função descrita.",
+     "id": "enem-sintese-proteica-c14-q05",
+     "habilidade": "H13",
+     "dificuldade": "media",
+     "dispositivo": "Moléculas, células e tecidos — Síntese proteica, H13"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Dois mensageiros maduros produzidos a partir do mesmo gene incluem conjuntos distintos de éxons.",
+     "enunciado": "Que processo explica essa diferença?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "Duplicação dos cromossomos.",
+      "B": "Citocinese.",
+      "C": "Osmose.",
+      "D": "Splicing alternativo.",
+      "E": "Endocitose."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Copiar DNA não explica diretamente as combinações de éxons no RNA.",
+      "B": "É a divisão do citoplasma.",
+      "C": "É o movimento líquido de água através de membrana seletiva.",
+      "D": "O processamento pode gerar combinações diferentes de éxons.",
+      "E": "Incorpora material por formação de vesículas."
+     },
+     "comentario": "A) Copiar DNA não explica diretamente as combinações de éxons no RNA.\nB) É a divisão do citoplasma.\nC) É o movimento líquido de água através de membrana seletiva.\nD) O processamento pode gerar combinações diferentes de éxons.\nE) Incorpora material por formação de vesículas.",
+     "id": "enem-sintese-proteica-c14-q06",
+     "habilidade": "H13",
+     "dificuldade": "media",
+     "dispositivo": "Moléculas, células e tecidos — Síntese proteica, H13"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Num experimento, o mensageiro é tão abundante quanto no controle. A cadeia também é detectada em quantidade igual, mas sua atividade é menor.",
+     "enunciado": "Qual hipótese pode explicar o resultado?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "Uma alteração de dobramento diminuiu a atividade de cada cadeia.",
+      "B": "O gene necessariamente desapareceu antes de produzir qualquer RNA.",
+      "C": "O código genético perdeu todos os sinais de parada.",
+      "D": "O transporte de água converteu o mensageiro em proteína.",
+      "E": "A amostra perdeu todas as cadeias de aminoácidos."
+     },
+     "comentarios_por_alternativa": {
+      "A": "A quantidade permanece igual, e a forma pode afetar a função.",
+      "B": "O mensageiro e as cadeias foram detectados.",
+      "C": "A alteração proposta não decorre das medidas.",
+      "D": "Osmose não realiza tradução.",
+      "E": "A medição mostra quantidade igual de cadeia."
+     },
+     "comentario": "A) A quantidade permanece igual, e a forma pode afetar a função.\nB) O mensageiro e as cadeias foram detectados.\nC) A alteração proposta não decorre das medidas.\nD) Osmose não realiza tradução.\nE) A medição mostra quantidade igual de cadeia.",
+     "id": "enem-sintese-proteica-c14-q07",
+     "habilidade": "H13",
+     "dificuldade": "media",
+     "dispositivo": "Moléculas, células e tecidos — Síntese proteica, H13"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "A sequência traduzida apresenta AUG no início, dois outros códons para aminoácidos e, logo depois, um códon de parada.",
+     "enunciado": "Quantos aminoácidos serão inseridos na cadeia inicial no modelo descrito?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Quatro.",
+      "B": "Dois.",
+      "C": "Um.",
+      "D": "Zero.",
+      "E": "Três."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esse total inclui indevidamente a parada.",
+      "B": "Esse total deixa de contar AUG.",
+      "C": "Ignora a contribuição de dois códons antes da parada.",
+      "D": "Há três códons que inserem aminoácidos.",
+      "E": "AUG no início acrescenta um, os dois códons seguintes acrescentam dois e a parada não acrescenta nenhum."
+     },
+     "comentario": "A) Esse total inclui indevidamente a parada.\nB) Esse total deixa de contar AUG.\nC) Ignora a contribuição de dois códons antes da parada.\nD) Há três códons que inserem aminoácidos.\nE) AUG no início acrescenta um, os dois códons seguintes acrescentam dois e a parada não acrescenta nenhum.",
+     "id": "enem-sintese-proteica-c14-q08",
+     "habilidade": "H13",
+     "dificuldade": "media",
+     "dispositivo": "Moléculas, células e tecidos — Síntese proteica, H13"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "A cópia de RNA a partir de DNA é a ___.",
+     "opcoes": [
+      "transcrição",
+      "tradução",
+      "citocinese"
+     ],
+     "respostas": [
+      "transcrição"
+     ],
+     "explicacao": "O produto direto é RNA."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Durante a tradução, ligações ___ unem aminoácidos.",
+     "opcoes": [
+      "peptídicas",
+      "glicosídicas",
+      "de hidrogênio entre bases"
+     ],
+     "respostas": [
+      "peptídicas"
+     ],
+     "explicacao": "As ligações peptídicas formam a cadeia da proteína."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a produção simplificada de uma proteína a partir de um gene nuclear.",
+     "itens": [
+      "Formação de RNA inicial.",
+      "Processamento do RNA.",
+      "Leitura do mensageiro no ribossomo.",
+      "Liberação da cadeia de aminoácidos."
+     ],
+     "explicacao": "A mensagem é preparada antes de orientar a montagem."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "RNA mensageiro",
+       "Informação lida pelo ribossomo"
+      ],
+      [
+       "RNA transportador",
+       "Entrega de aminoácido"
+      ],
+      [
+       "Códon de parada",
+       "Sinal de término da tradução"
+      ],
+      [
+       "Splicing",
+       "Seleção e união de segmentos do RNA"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

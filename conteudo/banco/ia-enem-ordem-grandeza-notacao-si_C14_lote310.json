@@ -1,0 +1,251 @@
+{
+ "assunto": "Ordem de grandeza, notação científica e unidades do SI",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-ordem-grandeza-notacao-si-c14",
+   "titulo": "Ordem de grandeza, notação científica e unidades do SI",
+   "microconteudo": "RAIO-X DA PROVA: Interprete potências de dez, converta medidas para unidades compatíveis e estime a escala de resultados. Distinguir um cálculo exato de uma aproximação evita usar mais precisão do que a situação pede.\n\nPOR QUE IMPORTA:\nGrandezas muito pequenas e muito grandes aparecem na mesma prova. Notação científica, estimativas e unidades ajudam a ler esses dados e a perceber quando uma resposta ficou mil ou um milhão de vezes maior do que deveria.\n\nO QUE A BANCA COBRA:\nInterprete potências de dez, converta medidas para unidades compatíveis e estime a escala de resultados. Distinguir um cálculo exato de uma aproximação evita usar mais precisão do que a situação pede.\n\nENTENDA:\nImagine que sua turma está preparando uma exposição. Uma maquete mostra um objeto de 4 milímetros, enquanto a legenda de outra mostra uma distância de 4 milhões de metros. Os dois dados começam com 4, mas descrevem escalas completamente diferentes. Quando temos muitos zeros, fica fácil perder a posição da vírgula. Para organizar a informação, podemos escrever 4 milímetros como 4 × 10⁻³ metros e 4 milhões de metros como 4 × 10⁶ metros. Em cada número, a potência de dez indica a escala e o coeficiente indica quanto daquela escala está representado. A diferença entre os expoentes é nove, então o segundo comprimento é um bilhão de vezes o primeiro.\n\nNa notação científica normalizada, um número positivo fica na forma a × 10ⁿ, com 1 ≤ a < 10 e n inteiro. Por exemplo, 38.000 vira 3,8 × 10⁴. O coeficiente 3,8 está na faixa adequada; o fator 10.000 recupera o valor inicial. Um número abaixo de um pode aparecer com expoente negativo. O valor 0,00038 corresponde a 3,8 × 10⁻⁴. A parte 10⁻⁴ é 1/10.000, portanto o produto representa pouco menos de quatro décimos de milésimo. Expoente negativo reduz a escala de um coeficiente positivo. Ele não torna o número negativo. Se a grandeza tiver sinal, como uma posição relativa antes da origem, o sinal fica à frente do coeficiente.\n\nPara comparar dois números positivos já normalizados, leia primeiro os expoentes, desde que as unidades sejam iguais. Entre 8 × 10³ m e 2 × 10⁴ m, o segundo é maior, embora seu coeficiente seja menor. Os valores são 8.000 m e 20.000 m. Quando o expoente é igual, compare os coeficientes. Para somar, deixe os dois termos na mesma escala: 3 × 10⁵ + 2 × 10⁴ equivale a 3 × 10⁵ + 0,2 × 10⁵, ou 3,2 × 10⁵. Somar os expoentes nessa operação mudaria o valor. Na multiplicação, os expoentes se somam: (3 × 10⁵)(2 × 10⁴) = 6 × 10⁹. Na divisão, subtraímos o expoente do denominador do expoente do numerador. Depois de operar, normalize o coeficiente se ele ficar fora da faixa.\n\nOrdem de grandeza responde a uma pergunta diferente. Ela resume a escala de uma medida em uma potência de dez. Quando a questão usa a potência mais próxima em escala logarítmica, a fronteira entre 10ⁿ e 10ⁿ⁺¹ é a média geométrica das duas, ou √10 × 10ⁿ. Como √10 vale aproximadamente 3,16, o coeficiente 2,7 em 2,7 × 10⁴ indica ordem 10⁴ segundo esse critério. O coeficiente 7,1 em 7,1 × 10⁴ indica ordem 10⁵. Se o enunciado indicar outro critério para a aproximação, siga o critério que ele der. Um número de ordem 10⁵ pode ter diferentes valores exatos; a ordem de grandeza guarda a escala, sem conservar todos os algarismos.\n\nA estimativa pode servir para conferir uma conta longa. Imagine 48 salas com 31 cadeiras em cada uma. Você pode estimar 50 × 30 = 1.500 cadeiras. O número exato seria 1.488, próximo da aproximação. Se alguém obtiver 14.880, a estimativa sinaliza que uma casa decimal ou um zero ficou fora do lugar. Em Física, uma estimativa pode combinar medidas aproximadas. Se 1 m de um fio tem massa próxima de 2 g, um rolo com cerca de 100 m teria massa perto de 200 g, supondo o fio uniforme. Os dados permitem uma estimativa, e o resultado não precisa de algarismos que insinuem uma pesagem mais precisa do que aquela realizada.\n\nO Sistema Internacional de Unidades, ou SI, oferece uma linguagem comum. Entre suas unidades de base estão metro para comprimento, quilograma para massa e segundo para tempo. As outras quatro são ampère, kelvin, mol e candela, associados a corrente elétrica, temperatura termodinâmica, quantidade de matéria e intensidade luminosa. Unidades derivadas combinam as unidades de base. Velocidade pode ser expressa em m/s e aceleração em m/s². Um newton equivale a kg·m/s². Se uma conta calcula a velocidade média, um resultado em metro por segundo combina com a divisão de comprimento por tempo. Se a resposta sai em segundos por metro, verifique se a razão foi invertida.\n\nOs prefixos indicam fatores de escala. Quilo corresponde a 10³, centi a 10⁻², mili a 10⁻³ e micro a 10⁻⁶. Assim, 2,5 km equivalem a 2.500 m e 250 μm equivalem a 2,5 × 10⁻⁴ m. Faça a conversão como multiplicação por um fator igual a um: 250 μm × (10⁻⁶ m/1 μm). A unidade inicial se cancela e resta metro. Essa técnica ajuda em conversões compostas. Como 1 km = 1.000 m e 1 h = 3.600 s, 72 km/h correspondem a 72 × 1.000/3.600 = 20 m/s. Dividir o número em km/h por 3,6 é um atalho para a mesma operação.\n\nPara área e volume, eleve o fator de conversão à potência indicada pela unidade. Como 1 cm = 10⁻² m, 1 cm² = (10⁻² m)² = 10⁻⁴ m². E 1 cm³ = (10⁻² m)³ = 10⁻⁶ m³. Um quadrado com lados de 2 cm tem área de 4 cm², ou 4 × 10⁻⁴ m². Uma caixa cúbica de 2 cm de aresta tem volume de 8 cm³, ou 8 × 10⁻⁶ m³. Você também pode converter as arestas antes de calcular. Para volume, 1 litro equivale a 1 decímetro cúbico, ou 10⁻³ m³. Por isso 1 mililitro equivale a 1 centímetro cúbico.\n\nA mesma lógica aparece em densidade. Se uma amostra tem 60 g de massa e ocupa 20 cm³, a densidade vale 3 g/cm³. Para expressá-la em unidades do SI, converta massa e volume: 60 g = 0,060 kg, e 20 cm³ = 2 × 10⁻⁵ m³. Então a densidade é 0,060/(2 × 10⁻⁵) = 3.000 kg/m³. A mesma amostra conserva a mesma densidade física. O número muda porque usamos outra unidade. Repare no sentido da conversão: a unidade kg/m³ corresponde a uma escala numérica diferente de g/cm³, embora as duas sejam razões entre massa e volume.\n\nAo revisar um problema, alinhe todos os dados na unidade exigida, escreva as potências de dez e estime a escala final. Se o enunciado informar que a massa é de alguns gramas, a conversão para quilogramas provavelmente dará um número menor que um. Se a conta envolve milímetros numa medida de área, converter como comprimento multiplicaria a resposta por um fator indevido. Por fim, distinga o que o problema solicita: uma representação normalizada, uma potência de dez para a escala ou um valor numa unidade determinada. As três tarefas podem aparecer no mesmo contexto, mas cada uma produz uma forma diferente de resposta.\n\nUm exemplo reúne as três ideias. Uma peça de 8 mm mede 8 × 10⁻³ m. Sua ordem de grandeza, pela potência mais próxima em escala logarítmica, é 10⁻² m, pois 8 supera √10. A medida continua sendo 8 mm. A representação guarda o coeficiente original, e a ordem aproxima somente a escala.\n\nPorcentagens também podem ser lidas como fatores. Se 0,2% da massa de uma amostra de 500 g corresponde a um aditivo, escreva 0,2/100 = 2 × 10⁻³. A massa do aditivo é 500 × 0,002 = 1 g, ou 10⁻³ kg. Esse resultado equivale a uma parte em quinhentas da massa total. A estimativa ajuda a descartar valores como 100 g, que representaria um quinto da amostra.\n\nTROCANDO EM MIÚDOS:\nPense em uma régua que mede em milímetros. Uma marca de 5 mm equivale a 0,005 m. Em notação científica, escrevemos 5 × 10⁻³ m. O 5 ainda diz quantas partes temos. O expoente indica que cada parte vale um milésimo de metro. Para não se perder, faça a prova ao contrário: multiplique 5 por 0,001 e veja se recupera os 0,005 m.\n\nÀs vezes, o problema quer saber apenas a escala. Se você calcula que um grupo tem algo perto de 1.900 participantes, pode dizer que a ordem de grandeza é mil, pelo critério da potência mais próxima em escala logarítmica. Se a estimativa for 8.000, ela se aproxima da escala de dez mil pelo mesmo critério. A fronteira nesse exemplo fica perto de 3.162. Use a regra que a questão apresentar e lembre que a ordem serve para orientar a leitura. Ela aproxima o valor e deixa de lado os algarismos que distinguem as medidas.\n\nQuando for comparar medidas, coloque tudo na mesma unidade. Uma distância de 2 km é de 2.000 m. Uma distância de 800 m continua menor mesmo que o número 800 pareça maior que 2. Para converter velocidade, converta também o tempo: andar 3,6 km em uma hora equivale a percorrer 3.600 metros em 3.600 segundos, ou 1 m/s.\n\nPor fim, cuidado com os quadradinhos e os cubinhos. Se um quadrado tem 1 cm de lado, escreva 0,01 m em cada direção. A área vale 0,01 × 0,01 = 0,0001 m². Em um cubo, há três direções, então você multiplica três vezes por 0,01. Na prova, escreva a unidade junto de cada número, estime o resultado e só então escolha a alternativa. Essas pequenas conferências ajudam a perceber um zero perdido sem refazer todo o cálculo. Se ainda tiver dúvida, desenhe a unidade original e a unidade de chegada.\n\nLEI SECA:\nNotação científica: a × 10ⁿ com 1 ≤ a < 10 para valores positivos. No critério logarítmico, √10 separa as ordens sucessivas.\n\nSÚMULAS E TESES:\nPrefixos mudam por potências de dez. Para áreas e volumes, o fator de conversão também é elevado ao quadrado ou ao cubo.\n\nESQUEMA:\nUnidade comum → coeficiente e potência → operação → escala aproximada → conferência dimensional.\n\nPEGADINHAS:\n1. Somar expoentes numa adição.\n2. Tratar expoente negativo como sinal do número.\n3. Comparar números em unidades diferentes.\n4. Converter cm² como cm.\n5. Confundir valor normalizado com ordem de grandeza.\n\nDOUTRINA:\nBIPM, The International System of Units, 9ª edição. A publicação define as unidades do SI, unidades derivadas e prefixos.\n\nNA PRÁTICA:\nUma peça tem área 250 mm². Como 1 mm² = 10⁻⁶ m², a medida vale 250 × 10⁻⁶ m², ou 2,5 × 10⁻⁴ m². Pelo critério logarítmico, sua ordem de grandeza é 10⁻⁴ m².",
+   "flashcards": [
+    {
+     "frente": "Qual é a faixa do coeficiente para números positivos?",
+     "verso": "De 1, inclusive, até 10, exclusive.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Noções de ordem de grandeza"
+    },
+    {
+     "frente": "Quanto vale o prefixo mili?",
+     "verso": "10⁻³.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Noções de ordem de grandeza"
+    },
+    {
+     "frente": "Quanto vale 1 cm² em m²?",
+     "verso": "10⁻⁴ m².",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Noções de ordem de grandeza"
+    },
+    {
+     "frente": "Quanto vale 1 L em m³?",
+     "verso": "10⁻³ m³.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Noções de ordem de grandeza"
+    },
+    {
+     "frente": "Qual é a unidade SI de massa?",
+     "verso": "Quilograma.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Noções de ordem de grandeza"
+    },
+    {
+     "frente": "Qual é o limiar logarítmico entre ordens sucessivas?",
+     "verso": "O coeficiente √10 na notação científica normalizada.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Noções de ordem de grandeza"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-ordem-grandeza-notacao-si-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Uma folha tem espessura de 0,0002 m.",
+     "enunciado": "Sua espessura é 2 × 10⁻⁴ m.",
+     "gabarito": "C",
+     "comentario": "Certo. 10⁻⁴ é um décimo de milésimo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Noções de ordem de grandeza"
+    },
+    {
+     "id": "enem-fisica-ordem-grandeza-notacao-si-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Uma placa tem área de 3 cm².",
+     "enunciado": "A área equivale a 0,03 m².",
+     "gabarito": "E",
+     "comentario": "Errado. O fator é 10⁻⁴ por centímetro quadrado.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Noções de ordem de grandeza"
+    },
+    {
+     "id": "enem-fisica-ordem-grandeza-notacao-si-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Uma bicicleta percorre 36 km em uma hora com velocidade constante.",
+     "enunciado": "A velocidade é 10 m/s.",
+     "gabarito": "C",
+     "comentario": "Certo. 36.000 metros em 3.600 segundos dão 10 m/s.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Noções de ordem de grandeza"
+    },
+    {
+     "id": "enem-fisica-ordem-grandeza-notacao-si-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Uma medida vale 8 × 10⁴ m. Use o critério da potência mais próxima em escala logarítmica.",
+     "enunciado": "A ordem de grandeza é 10⁴ m.",
+     "gabarito": "E",
+     "comentario": "Errado. Como 8 supera √10, a ordem é 10⁵ m.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Noções de ordem de grandeza"
+    },
+    {
+     "id": "enem-fisica-ordem-grandeza-notacao-si-c14-q05",
+     "tipo": "me",
+     "texto_base": "Um fio mede 350 μm.",
+     "enunciado": "Qual é a medida em metros na forma normalizada?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "3,5 × 10⁻⁶",
+      "B": "3,5 × 10⁻⁴",
+      "C": "3,5 × 10⁴",
+      "D": "3,5 × 10⁻²",
+      "E": "3,5 × 10⁻³"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Perde o fator 100 de 350 em relação a 3,5.",
+      "B": "Correta. 350 × 10⁻⁶ = 3,5 × 10⁻⁴ m.",
+      "C": "O expoente positivo daria mais de 30 km.",
+      "D": "Corresponde a 3,5 cm.",
+      "E": "Corresponde a 3,5 mm."
+     },
+     "comentario": "A) Perde o fator 100 de 350 em relação a 3,5.\nB) Correta. 350 × 10⁻⁶ = 3,5 × 10⁻⁴ m.\nC) O expoente positivo daria mais de 30 km.\nD) Corresponde a 3,5 cm.\nE) Corresponde a 3,5 mm.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Noções de ordem de grandeza"
+    },
+    {
+     "id": "enem-fisica-ordem-grandeza-notacao-si-c14-q06",
+     "tipo": "me",
+     "texto_base": "Um painel tem área de 45 cm².",
+     "enunciado": "Qual é sua área em m²?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "0,45",
+      "B": "0,045",
+      "C": "0,00045",
+      "D": "0,0045",
+      "E": "4,5"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Aplica apenas o fator linear.",
+      "B": "Desloca a vírgula por três casas.",
+      "C": "Desloca a vírgula por cinco casas.",
+      "D": "Correta. 45 × 10⁻⁴ = 0,0045 m².",
+      "E": "Divide por dez em vez de dez mil."
+     },
+     "comentario": "A) Aplica apenas o fator linear.\nB) Desloca a vírgula por três casas.\nC) Desloca a vírgula por cinco casas.\nD) Correta. 45 × 10⁻⁴ = 0,0045 m².\nE) Divide por dez em vez de dez mil.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Noções de ordem de grandeza"
+    },
+    {
+     "id": "enem-fisica-ordem-grandeza-notacao-si-c14-q07",
+     "tipo": "me",
+     "texto_base": "Um carrinho percorre 1,8 km em 120 s.",
+     "enunciado": "Qual é sua velocidade média em m/s?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "15",
+      "B": "0,015",
+      "C": "0,15",
+      "D": "150",
+      "E": "216"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. 1.800/120 = 15 m/s.",
+      "B": "É o valor numérico em km/s.",
+      "C": "Equivale a percorrer só 18 m.",
+      "D": "Equivale a percorrer 18 km nesse tempo.",
+      "E": "O produto de distância e tempo não fornece velocidade."
+     },
+     "comentario": "A) Correta. 1.800/120 = 15 m/s.\nB) É o valor numérico em km/s.\nC) Equivale a percorrer só 18 m.\nD) Equivale a percorrer 18 km nesse tempo.\nE) O produto de distância e tempo não fornece velocidade.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Noções de ordem de grandeza"
+    },
+    {
+     "id": "enem-fisica-ordem-grandeza-notacao-si-c14-q08",
+     "tipo": "me",
+     "texto_base": "Uma estimativa aponta 62.000 unidades. Adote a potência mais próxima em escala logarítmica.",
+     "enunciado": "Qual é a ordem de grandeza?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "10²",
+      "B": "10³",
+      "C": "10⁴",
+      "D": "10⁶",
+      "E": "10⁵"
+     },
+     "comentarios_por_alternativa": {
+      "A": "É a escala das centenas.",
+      "B": "É a escala dos milhares.",
+      "C": "É a potência da forma normalizada, mas 6,2 supera √10.",
+      "D": "Exigiria aproximar à escala de um milhão.",
+      "E": "Correta. 62.000 = 6,2 × 10⁴ e, pelo critério indicado, aproxima-se de 10⁵."
+     },
+     "comentario": "A) É a escala das centenas.\nB) É a escala dos milhares.\nC) É a potência da forma normalizada, mas 6,2 supera √10.\nD) Exigiria aproximar à escala de um milhão.\nE) Correta. 62.000 = 6,2 × 10⁴ e, pelo critério indicado, aproxima-se de 10⁵.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Noções de ordem de grandeza"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Um quilômetro vale ___ metros.",
+     "opcoes": [
+      "1.000",
+      "100",
+      "10"
+     ],
+     "respostas": [
+      "1.000"
+     ],
+     "explicacao": "Quilo indica mil vezes a unidade."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Uma área de 1 cm² equivale a ___ m².",
+     "opcoes": [
+      "10⁻⁴",
+      "10⁻²",
+      "10⁻⁶"
+     ],
+     "respostas": [
+      "10⁻⁴"
+     ],
+     "explicacao": "O fator de comprimento é elevado ao quadrado."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a conversão de uma velocidade em km/h para m/s.",
+     "itens": [
+      "Identificar a medida em quilômetros por hora.",
+      "Trocar quilômetros por metros e horas por segundos.",
+      "Efetuar a divisão.",
+      "Registrar o resultado em metros por segundo."
+     ],
+     "explicacao": "A unidade de distância e a de tempo precisam ser convertidas."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "quilo",
+       "10³"
+      ],
+      [
+       "centi",
+       "10⁻²"
+      ],
+      [
+       "mili",
+       "10⁻³"
+      ],
+      [
+       "micro",
+       "10⁻⁶"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,253 @@
+{
+ "assunto": "Mol, massa, volume e número de entidades",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-mol-avogadro-grandezas-c14",
+   "titulo": "Mol, massa, volume e número de entidades",
+   "microconteudo": "RAIO-X DA PROVA: Assunto do edital de Ciências da Natureza. A interpretação de dados ajuda a resolver situações-problema sobre esse conteúdo.\n\nPOR QUE IMPORTA:\nMol, massa, volume e número de entidades ajuda a traduzir observações e símbolos em explicações que você pode conferir. Nesta lição, você vai praticar a leitura de dados e justificar o resultado.\n\nO QUE A BANCA COBRA:\nIdentifique o que o problema descreve e escolha a conclusão explicada pelos dados. Revise a unidade, a entidade representada e as condições de aplicação quando elas fizerem parte do problema.\n\nENTENDA:\nO mol mede quantidade de substância. Um mol contém exatamente 6,02214076 × 10²³ entidades especificadas. A massa é nM e o número de entidades é n vezes a constante de Avogadro. Para gases ideais, o volume depende também de pressão e temperatura. Identifique se a entidade contada é átomo, molécula ou íon.\n\nEm 9 g de H₂O, com massa molar de 18 g/mol, há 0,50 mol de moléculas, cerca de 3,01 × 10²³ moléculas. Cada uma contém dois H e um O, então há 1 mol de átomos de H, 0,50 mol de átomos de O e 1,50 mol de átomos ao todo.\n\nA unidade mol funciona para diferentes entidades, por isso o nome da entidade faz parte da resposta. Um mol de unidades formais de NaCl corresponde, no modelo do sólido, a um mol de íons Na⁺ e um mol de íons Cl⁻. Para obter uma massa, use a massa molar da unidade correta. Para contar íons, multiplique segundo a proporção na fórmula.\n\nPrimeiro caso: ligue os dados à regra\nO₂ tem M = 32 g/mol. Qual a quantidade de moléculas em 8 g, usando Nₐ ≈ 6,02 × 10²³/mol? Qual valor aproximado?\n\nComece lendo o enunciado como um pequeno relatório. Anote em uma linha o material ou sistema descrito e, em outra, o que se quer descobrir. Essa divisão evita misturar um dado já fornecido com o resultado pedido. Escolha a regra depois de localizar o que, no texto, autoriza sua aplicação. Ao terminar, teste se a resposta ainda faz sentido ao substituir os valores ou reler a observação.\n\nResultado: 1,51 × 10²³ 8/32 = 0,25 mol, depois multiplique por Nₐ.\n\nCompare as hipóteses e os cálculos alternativos:\n• 6,02 × 10²³ Seria 1 mol.\n• 3,01 × 10²³ Seria 0,50 mol.\n• 2,41 × 10²⁴ É quatro vezes Nₐ.\n• 0,25 molécula 0,25 é quantidade em mol.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nSegundo caso: cuide da condição que permite a conclusão\nUma amostra tem 3,01 × 10²³ moléculas de CH₄, M = 16 g/mol. Qual a massa aproximada?\n\nCompare as interpretações antes de escolher. Duas respostas podem usar os mesmos termos ou números e ainda se referir a grandezas diferentes. Se houver unidades, escreva a unidade junto a cada valor. Se houver contagens, diga o que está sendo contado. Se a questão for explicativa, procure a relação de causa e efeito que é compatível com as condições fornecidas. Só então feche a resposta.\n\nResultado: 8 g A amostra tem 0,50 mol.\n\nCompare as hipóteses e os cálculos alternativos:\n• 16 g Equivale a um mol.\n• 32 g Equivale a dois mols.\n• 0,50 g Confunde quantidade em mol com massa.\n• 4 g Equivale a um quarto de mol.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nTerceiro caso: confira o que a pergunta está medindo\nUm gás ideal ocupa 36 L em condições em que seu volume molar é 24 L/mol. Qual a quantidade de matéria?\n\nFaça uma primeira previsão usando palavras. Pergunte se o resultado esperado é uma contagem, uma propriedade, uma comparação ou um mecanismo. Escrever a previsão antes de olhar as alternativas ajuda a perceber quando dois valores semelhantes têm sentidos diferentes. Em seguida, explique em uma frase como o primeiro dado se conecta ao resultado. A resposta fica mais forte quando essa ligação pode ser checada no próprio enunciado.\n\nResultado: 1,5 mol n = 36/24.\n\nCompare as hipóteses e os cálculos alternativos:\n• 0,67 mol É a divisão inversa.\n• 24 mol 24 é o volume molar.\n• 36 mol 36 é o volume total.\n• 60 mol A soma não converte as unidades.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nQuarto caso: escolha a conclusão sustentada\nDuas amostras têm 1 mol de moléculas. Uma é CO₂ e a outra é CH₄. Qual amostra contém mais átomos no total?\n\nTente justificar a escolha para alguém que observou apenas o resultado final. Comece pelos fatos que o problema realmente fornece e mostre como a regra interpreta esses fatos. Se a conclusão depender de uma condição, mantenha essa condição na justificativa. Depois procure uma alteração pequena nos dados que exigiria outra resposta. Esse último passo ajuda a reconhecer onde termina a aplicação do raciocínio.\n\nResultado: CH₄. Cada molécula contém cinco átomos, contra três no CO₂.\n\nCompare as hipóteses e os cálculos alternativos:\n• CO₂. Tem maior massa por mol, porém menos átomos por molécula.\n• São iguais. O mol foi especificado em moléculas, não em átomos.\n• Depende da pressão. A contagem dada independe dela.\n• Depende do estado físico. Mudar o estado não altera a fórmula molecular.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nLeitura crítica 1\nUma amostra contém 2 mol de moléculas de O₂. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “Contém 4 mol de átomos de O.” Cada molécula corresponde a dois átomos. A segunda é “Tem 2 mol de átomos de O.” Essa é a quantidade de moléculas.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nLeitura crítica 2\nUm aluno compara 1 mol de He com 1 mol de Ar. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “A contagem de átomos é igual.” Ambos são monoatômicos e têm um mol de entidades. A segunda é “As massas também são necessariamente iguais.” As massas molares são diferentes.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nCheque o alcance da conclusão\nO mol mede quantidade de substância. Um mol contém exatamente 6,02214076 × 10²³ entidades especificadas. A massa é nM e o número de entidades é n vezes a constante de Avogadro. Para gases ideais, o volume depende também de pressão e temperatura. Identifique se a entidade contada é átomo, molécula ou íon.\n\nAo estudar, escolha uma das situações acima e altere só um dado. Explique quais partes da solução continuam iguais e quais precisam ser refeitas. Num problema numérico, experimente multiplicar o dado alterado por dois e veja se a resposta dobra, diminui ou continua igual. Num problema de classificação, tente retirar a observação decisiva e veja quais hipóteses continuam compatíveis. Isso separa a regra geral da informação específica fornecida por uma questão.\n\nTROCANDO EM MIÚDOS:\nComece por uma pergunta que você conseguiria fazer a um colega: o que mudou, o que ficou igual e qual informação me permite dizer isso? Em questões de Química, dá para errar mesmo lembrando a regra certa quando se usa a regra para o dado errado. Separe a situação da pergunta. Leia os símbolos em voz baixa. Se houver dois materiais ou dois momentos, dê um nome curto para cada um. Assim você consegue comparar as coisas na ordem que o texto pediu.\n\nEm 9 g de H₂O, com massa molar de 18 g/mol, há 0,50 mol de moléculas, cerca de 3,01 × 10²³ moléculas. Cada uma contém dois H e um O, então há 1 mol de átomos de H, 0,50 mol de átomos de O e 1,50 mol de átomos ao todo.\n\nExperimente com este caso. O₂ tem M = 32 g/mol. Qual a quantidade de moléculas em 8 g, usando Nₐ ≈ 6,02 × 10²³/mol? Qual valor aproximado? A resposta é 1,51 × 10²³ 8/32 = 0,25 mol, depois multiplique por Nₐ. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nExperimente com este caso. Duas amostras têm 1 mol de moléculas. Uma é CO₂ e a outra é CH₄. Qual amostra contém mais átomos no total? A resposta é CH₄. Cada molécula contém cinco átomos, contra três no CO₂. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nFaça uma checagem que cabe no rascunho: escreva o dado, desenhe uma seta e escreva o que ele permite concluir. Se precisar de uma segunda seta, diga qual regra leva desse resultado intermediário até a resposta. Uma explicação em duas frases pode ser suficiente. A primeira conta o que o problema mostrou. A segunda diz por que esse dado leva à sua escolha. Esse caminho ajuda em problemas com tabelas, desenhos e comparações.\n\nESQUEMA:\nLeia o cenário → destaque o dado decisivo → aplique a relação → confira o que foi pedido.\n\nPEGADINHAS:\n• 6,02 × 10²³ Seria 1 mol.\n• 16 g Equivale a um mol.\n• 0,67 mol É a divisão inversa.\n• CO₂. Tem maior massa por mol, porém menos átomos por molécula.\n\nNA PRÁTICA:\nEm 9 g de H₂O, com massa molar de 18 g/mol, há 0,50 mol de moléculas, cerca de 3,01 × 10²³ moléculas. Cada uma contém dois H e um O, então há 1 mol de átomos de H, 0,50 mol de átomos de O e 1,50 mol de átomos ao todo.",
+   "flashcards": [
+    {
+     "frente": "Uma amostra contém 2 mol de moléculas de O₂. Contém 4 mol de átomos de O. Certo ou errado?",
+     "verso": "Certo. Cada molécula corresponde a dois átomos.",
+     "dispositivo": "Representação das transformações químicas — Grandezas Químicas: massa, volume, mol, massa molar, constante de Avogadro"
+    },
+    {
+     "frente": "Um aluno compara 1 mol de He com 1 mol de Ar. A contagem de átomos é igual. Certo ou errado?",
+     "verso": "Certo. Ambos são monoatômicos e têm um mol de entidades.",
+     "dispositivo": "Representação das transformações químicas — Grandezas Químicas: massa, volume, mol, massa molar, constante de Avogadro"
+    },
+    {
+     "frente": "O₂ tem M = 32 g/mol. Qual a quantidade de moléculas em 8 g, usando Nₐ ≈ 6,02 × 10²³/mol? Qual valor aproximado?",
+     "verso": "1,51 × 10²³ 8/32 = 0,25 mol, depois multiplique por Nₐ.",
+     "dispositivo": "Representação das transformações químicas — Grandezas Químicas: massa, volume, mol, massa molar, constante de Avogadro"
+    },
+    {
+     "frente": "Uma amostra tem 3,01 × 10²³ moléculas de CH₄, M = 16 g/mol. Qual a massa aproximada?",
+     "verso": "8 g A amostra tem 0,50 mol.",
+     "dispositivo": "Representação das transformações químicas — Grandezas Químicas: massa, volume, mol, massa molar, constante de Avogadro"
+    },
+    {
+     "frente": "Um gás ideal ocupa 36 L em condições em que seu volume molar é 24 L/mol. Qual a quantidade de matéria?",
+     "verso": "1,5 mol n = 36/24.",
+     "dispositivo": "Representação das transformações químicas — Grandezas Químicas: massa, volume, mol, massa molar, constante de Avogadro"
+    },
+    {
+     "frente": "Duas amostras têm 1 mol de moléculas. Uma é CO₂ e a outra é CH₄. Qual amostra contém mais átomos no total?",
+     "verso": "CH₄. Cada molécula contém cinco átomos, contra três no CO₂.",
+     "dispositivo": "Representação das transformações químicas — Grandezas Químicas: massa, volume, mol, massa molar, constante de Avogadro"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Uma amostra contém 2 mol de moléculas de O₂.",
+     "enunciado": "Contém 4 mol de átomos de O.",
+     "gabarito": "C",
+     "comentario": "Certo. Cada molécula corresponde a dois átomos.",
+     "id": "enem-mol-avogadro-grandezas-c14-q01",
+     "habilidade": "H24",
+     "dispositivo": "Representação das transformações químicas — Grandezas Químicas: massa, volume, mol, massa molar, constante de Avogadro",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma amostra contém 2 mol de moléculas de O₂.",
+     "enunciado": "Tem 2 mol de átomos de O.",
+     "gabarito": "E",
+     "comentario": "Errado. Essa é a quantidade de moléculas.",
+     "id": "enem-mol-avogadro-grandezas-c14-q02",
+     "habilidade": "H24",
+     "dispositivo": "Representação das transformações químicas — Grandezas Químicas: massa, volume, mol, massa molar, constante de Avogadro",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um aluno compara 1 mol de He com 1 mol de Ar.",
+     "enunciado": "A contagem de átomos é igual.",
+     "gabarito": "C",
+     "comentario": "Certo. Ambos são monoatômicos e têm um mol de entidades.",
+     "id": "enem-mol-avogadro-grandezas-c14-q03",
+     "habilidade": "H24",
+     "dispositivo": "Representação das transformações químicas — Grandezas Químicas: massa, volume, mol, massa molar, constante de Avogadro",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um aluno compara 1 mol de He com 1 mol de Ar.",
+     "enunciado": "As massas também são necessariamente iguais.",
+     "gabarito": "E",
+     "comentario": "Errado. As massas molares são diferentes.",
+     "id": "enem-mol-avogadro-grandezas-c14-q04",
+     "habilidade": "H24",
+     "dispositivo": "Representação das transformações químicas — Grandezas Químicas: massa, volume, mol, massa molar, constante de Avogadro",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "O₂ tem M = 32 g/mol. Qual a quantidade de moléculas em 8 g, usando Nₐ ≈ 6,02 × 10²³/mol?",
+     "enunciado": "Qual valor aproximado?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "6,02 × 10²³",
+      "B": "1,51 × 10²³",
+      "C": "3,01 × 10²³",
+      "D": "2,41 × 10²⁴",
+      "E": "0,25 molécula"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Seria 1 mol.",
+      "B": "8/32 = 0,25 mol, depois multiplique por Nₐ.",
+      "C": "Seria 0,50 mol.",
+      "D": "É quatro vezes Nₐ.",
+      "E": "0,25 é quantidade em mol."
+     },
+     "comentario": "A) Seria 1 mol.\nB) 8/32 = 0,25 mol, depois multiplique por Nₐ.\nC) Seria 0,50 mol.\nD) É quatro vezes Nₐ.\nE) 0,25 é quantidade em mol.",
+     "id": "enem-mol-avogadro-grandezas-c14-q05",
+     "habilidade": "H24",
+     "dispositivo": "Representação das transformações químicas — Grandezas Químicas: massa, volume, mol, massa molar, constante de Avogadro",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma amostra tem 3,01 × 10²³ moléculas de CH₄, M = 16 g/mol.",
+     "enunciado": "Qual a massa aproximada?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "16 g",
+      "B": "32 g",
+      "C": "0,50 g",
+      "D": "8 g",
+      "E": "4 g"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Equivale a um mol.",
+      "B": "Equivale a dois mols.",
+      "C": "Confunde quantidade em mol com massa.",
+      "D": "A amostra tem 0,50 mol.",
+      "E": "Equivale a um quarto de mol."
+     },
+     "comentario": "A) Equivale a um mol.\nB) Equivale a dois mols.\nC) Confunde quantidade em mol com massa.\nD) A amostra tem 0,50 mol.\nE) Equivale a um quarto de mol.",
+     "id": "enem-mol-avogadro-grandezas-c14-q06",
+     "habilidade": "H24",
+     "dispositivo": "Representação das transformações químicas — Grandezas Químicas: massa, volume, mol, massa molar, constante de Avogadro",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um gás ideal ocupa 36 L em condições em que seu volume molar é 24 L/mol.",
+     "enunciado": "Qual a quantidade de matéria?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "1,5 mol",
+      "B": "0,67 mol",
+      "C": "24 mol",
+      "D": "36 mol",
+      "E": "60 mol"
+     },
+     "comentarios_por_alternativa": {
+      "A": "n = 36/24.",
+      "B": "É a divisão inversa.",
+      "C": "24 é o volume molar.",
+      "D": "36 é o volume total.",
+      "E": "A soma não converte as unidades."
+     },
+     "comentario": "A) n = 36/24.\nB) É a divisão inversa.\nC) 24 é o volume molar.\nD) 36 é o volume total.\nE) A soma não converte as unidades.",
+     "id": "enem-mol-avogadro-grandezas-c14-q07",
+     "habilidade": "H24",
+     "dispositivo": "Representação das transformações químicas — Grandezas Químicas: massa, volume, mol, massa molar, constante de Avogadro",
+     "dificuldade": "dificil"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Duas amostras têm 1 mol de moléculas. Uma é CO₂ e a outra é CH₄.",
+     "enunciado": "Qual amostra contém mais átomos no total?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "CO₂.",
+      "B": "São iguais.",
+      "C": "Depende da pressão.",
+      "D": "Depende do estado físico.",
+      "E": "CH₄."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Tem maior massa por mol, porém menos átomos por molécula.",
+      "B": "O mol foi especificado em moléculas, não em átomos.",
+      "C": "A contagem dada independe dela.",
+      "D": "Mudar o estado não altera a fórmula molecular.",
+      "E": "Cada molécula contém cinco átomos, contra três no CO₂."
+     },
+     "comentario": "A) Tem maior massa por mol, porém menos átomos por molécula.\nB) O mol foi especificado em moléculas, não em átomos.\nC) A contagem dada independe dela.\nD) Mudar o estado não altera a fórmula molecular.\nE) Cada molécula contém cinco átomos, contra três no CO₂.",
+     "id": "enem-mol-avogadro-grandezas-c14-q08",
+     "habilidade": "H24",
+     "dispositivo": "Representação das transformações químicas — Grandezas Químicas: massa, volume, mol, massa molar, constante de Avogadro",
+     "dificuldade": "dificil"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Uma amostra tem 3,01 × 10²³ moléculas de CH₄, M = 16 g/mol. Qual a massa aproximada? ___",
+     "opcoes": [
+      "16 g",
+      "8 g",
+      "32 g",
+      "0,50 g"
+     ],
+     "respostas": [
+      "8 g"
+     ],
+     "explicacao": "A amostra tem 0,50 mol."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Um gás ideal ocupa 36 L em condições em que seu volume molar é 24 L/mol. Qual a quantidade de matéria? ___",
+     "opcoes": [
+      "0,67 mol",
+      "1,5 mol",
+      "24 mol",
+      "36 mol"
+     ],
+     "respostas": [
+      "1,5 mol"
+     ],
+     "explicacao": "n = 36/24."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise do caso: O₂ tem M = 32 g/mol. Qual a quantidade de moléculas em 8 g, usando Nₐ ≈ 6,02 × 10²³/mol?",
+     "itens": [
+      "Localizar o que se quer descobrir: Qual valor aproximado?",
+      "Separar as informações dadas no enunciado.",
+      "Aplicar a relação adequada aos dados.",
+      "Conferir se a conclusão responde à pergunta."
+     ],
+     "explicacao": "8/32 = 0,25 mol, depois multiplique por Nₐ."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O₂ tem M = 32 g/mol. Qual a quantidade de moléculas em 8 g, usando Nₐ ≈ 6,02 × 10²³/mol? Qual valor aproximado?",
+       "1,51 × 10²³"
+      ],
+      [
+       "Uma amostra tem 3,01 × 10²³ moléculas de CH₄, M = 16 g/mol. Qual a massa aproximada?",
+       "8 g"
+      ],
+      [
+       "Um gás ideal ocupa 36 L em condições em que seu volume molar é 24 L/mol. Qual a quantidade de matéria?",
+       "1,5 mol"
+      ],
+      [
+       "Duas amostras têm 1 mol de moléculas. Uma é CO₂ e a outra é CH₄. Qual amostra contém mais átomos no total?",
+       "CH₄."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,251 @@
+{
+ "assunto": "Paralelismo, perpendicularidade e sistemas de retas",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-retas-paralelas-perpendiculares-sistemas-c14",
+   "titulo": "Paralelismo, perpendicularidade e sistemas de retas",
+   "microconteudo": "RAIO-X DA PROVA: Compare inclinações e termos constantes, cuide de retas verticais e relacione interseções ao número de soluções.\n\nPOR QUE IMPORTA:\nEm uma planta, dois trajetos podem se encontrar, seguir lado a lado ou formar uma esquina de 90°. Essas situações também descrevem soluções de sistemas.\n\nO QUE A BANCA COBRA:\nCompare inclinações e termos constantes, cuide de retas verticais e relacione interseções ao número de soluções.\n\nENTENDA:\n1. Paralelas distintas\n\nDuas retas não verticais de mesma inclinação e interceptos distintos são paralelas. Em uma planta, as linhas são y = 2x + 1 e y = 2x − 6. Qual é a posição relativa? A resposta é **Paralelas distintas**. A inclinação é 2 em ambas e os interceptos são diferentes.\n\nUma resposta a examinar é “Concorrentes em um ponto”. Coloque lado a lado o que ela afirma e o dado principal do caso. Igualar as expressões deixa 1 = −6, uma impossibilidade que corresponde à ausência de cruzamento. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\n2. Perpendiculares oblíquas\n\nPara duas retas não verticais perpendiculares, o produto das inclinações é −1. Uma rua segue a reta de inclinação 3. Uma travessa deve cruzá-la em ângulo reto. Qual inclinação serve para a travessa? A resposta é **−1/3**. Multiplicar 3 por −1/3 dá −1.\n\nUma resposta a examinar é “−3”. Coloque lado a lado o que ela afirma e o dado principal do caso. Apenas trocar o sinal não garante um ângulo reto. O comprimento horizontal e o vertical de um vetor diretor trocam papéis na rotação de 90°. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\n3. Vertical e horizontal\n\nUma reta vertical e uma horizontal são perpendiculares, embora a vertical não tenha inclinação numérica finita. Um corredor tem equação x = 4 e outro, y = −2. Em que ponto se cruzam? A resposta é **(4,-2)**. A primeira equação fixa x e a segunda fixa y.\n\nUma resposta a examinar é “(-2,4)”. Coloque lado a lado o que ela afirma e o dado principal do caso. A ordem das coordenadas permanece (x,y). O cruzamento existe e o par atende simultaneamente às duas condições. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\n4. Sistema determinado\n\nRetas com inclinações diferentes encontram-se em um único ponto, que resolve o sistema. As equações são y = 2x e y = 9 − x. Qual é a única solução? A resposta é **(3,6)**. Igualar 2x = 9 − x dá x = 3 e y = 6.\n\nUma resposta a examinar é “(6,3)”. Coloque lado a lado o que ela afirma e o dado principal do caso. A substituição na primeira equação daria 3 = 12 se as coordenadas fossem trocadas. Teste sempre o par nas duas expressões. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\n5. Sistema impossível\n\nRetas paralelas distintas produzem um sistema sem solução comum. As equações são x + y = 5 e 2x + 2y = 12. Quantas soluções existem? A resposta é **Nenhuma**. Dividir a segunda equação por dois dá x + y = 6, incompatível com x + y = 5.\n\nUma resposta a examinar é “Infinitas”. Coloque lado a lado o que ela afirma e o dado principal do caso. Coeficientes proporcionais não bastam para identificar coincidência: os termos constantes também precisam ter a mesma proporção. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\n6. Sistema indeterminado\n\nEquações equivalentes descrevem a mesma reta e compartilham todos os seus pontos. As equações são x − y = 1 e 3x − 3y = 3. Quantas soluções existem? A resposta é **Infinitas**. A segunda equação resulta de multiplicar a primeira por três, preservando todo par solução.\n\nUma resposta a examinar é “Exatamente uma”. Coloque lado a lado o que ela afirma e o dado principal do caso. Basta escolher um valor real de x e calcular y = x − 1. Por exemplo, (1,0) e (2,1) atendem às duas equações. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\nTROCANDO EM MIÚDOS:\n**Paralelas distintas.** Em uma planta, as linhas são y = 2x + 1 e y = 2x − 6. Qual é a posição relativa? Paralelas distintas. A inclinação é 2 em ambas e os interceptos são diferentes. Igualar as expressões deixa 1 = −6, uma impossibilidade que corresponde à ausência de cruzamento.\n\n**Perpendiculares oblíquas.** Uma rua segue a reta de inclinação 3. Uma travessa deve cruzá-la em ângulo reto. Qual inclinação serve para a travessa? −1/3. Multiplicar 3 por −1/3 dá −1. Apenas trocar o sinal não garante um ângulo reto. O comprimento horizontal e o vertical de um vetor diretor trocam papéis na rotação de 90°.\n\n**Vertical e horizontal.** Um corredor tem equação x = 4 e outro, y = −2. Em que ponto se cruzam? (4,-2). A primeira equação fixa x e a segunda fixa y. A ordem das coordenadas permanece (x,y). O cruzamento existe e o par atende simultaneamente às duas condições.\n\n**Sistema determinado.** As equações são y = 2x e y = 9 − x. Qual é a única solução? (3,6). Igualar 2x = 9 − x dá x = 3 e y = 6. A substituição na primeira equação daria 3 = 12 se as coordenadas fossem trocadas. Teste sempre o par nas duas expressões.\n\n**Sistema impossível.** As equações são x + y = 5 e 2x + 2y = 12. Quantas soluções existem? Nenhuma. Dividir a segunda equação por dois dá x + y = 6, incompatível com x + y = 5. Coeficientes proporcionais não bastam para identificar coincidência: os termos constantes também precisam ter a mesma proporção.\n\n**Sistema indeterminado.** As equações são x − y = 1 e 3x − 3y = 3. Quantas soluções existem? Infinitas. A segunda equação resulta de multiplicar a primeira por três, preservando todo par solução. Basta escolher um valor real de x e calcular y = x − 1. Por exemplo, (1,0) e (2,1) atendem às duas equações.\n\nESQUEMA:\n• Paralelas distintas → Duas retas não verticais de mesma inclinação e interceptos distintos são paralelas.\n• Perpendiculares oblíquas → Para duas retas não verticais perpendiculares, o produto das inclinações é −1.\n• Vertical e horizontal → Uma reta vertical e uma horizontal são perpendiculares, embora a vertical não tenha inclinação numérica finita.\n• Sistema determinado → Retas com inclinações diferentes encontram-se em um único ponto, que resolve o sistema.\n• Sistema impossível → Retas paralelas distintas produzem um sistema sem solução comum.\n• Sistema indeterminado → Equações equivalentes descrevem a mesma reta e compartilham todos os seus pontos.\n\nPEGADINHAS:\n• Paralelas distintas: confira por que “Concorrentes em um ponto” falha nesse caso.\n• Perpendiculares oblíquas: confira por que “−3” falha nesse caso.\n• Vertical e horizontal: confira por que “(-2,4)” falha nesse caso.\n• Sistema determinado: confira por que “(6,3)” falha nesse caso.\n\nNA PRÁTICA:\nAs equações são x − y = 1 e 3x − 3y = 3. Quantas soluções existem? **Resposta:** Infinitas. A segunda equação resulta de multiplicar a primeira por três, preservando todo par solução.",
+   "flashcards": [
+    {
+     "frente": "Como reconhecer paralelas distintas?",
+     "verso": "Duas retas não verticais de mesma inclinação e interceptos distintos são paralelas.",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Paralelismo e perpendicularidade, sistemas de equações"
+    },
+    {
+     "frente": "Como reconhecer perpendiculares oblíquas?",
+     "verso": "Para duas retas não verticais perpendiculares, o produto das inclinações é −1.",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Paralelismo e perpendicularidade, sistemas de equações"
+    },
+    {
+     "frente": "Como reconhecer vertical e horizontal?",
+     "verso": "Uma reta vertical e uma horizontal são perpendiculares, embora a vertical não tenha inclinação numérica finita.",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Paralelismo e perpendicularidade, sistemas de equações"
+    },
+    {
+     "frente": "Como reconhecer sistema determinado?",
+     "verso": "Retas com inclinações diferentes encontram-se em um único ponto, que resolve o sistema.",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Paralelismo e perpendicularidade, sistemas de equações"
+    },
+    {
+     "frente": "Como reconhecer sistema impossível?",
+     "verso": "Retas paralelas distintas produzem um sistema sem solução comum.",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Paralelismo e perpendicularidade, sistemas de equações"
+    },
+    {
+     "frente": "Como reconhecer sistema indeterminado?",
+     "verso": "Equações equivalentes descrevem a mesma reta e compartilham todos os seus pontos.",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Paralelismo e perpendicularidade, sistemas de equações"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-retas-paralelas-perpendiculares-sistemas-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Em uma planta, as linhas são y = 2x + 1 e y = 2x − 6. Qual é a posição relativa?",
+     "enunciado": "A resposta é “Paralelas distintas”.",
+     "gabarito": "C",
+     "habilidade": "H21",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Paralelismo e perpendicularidade, sistemas de equações",
+     "comentario": "A inclinação é 2 em ambas e os interceptos são diferentes."
+    },
+    {
+     "id": "enem-retas-paralelas-perpendiculares-sistemas-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Um corredor tem equação x = 4 e outro, y = −2. Em que ponto se cruzam?",
+     "enunciado": "A resposta é “(-2,4)”.",
+     "gabarito": "E",
+     "habilidade": "H21",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Paralelismo e perpendicularidade, sistemas de equações",
+     "comentario": "A resposta é “(4,-2)”. A primeira equação fixa x e a segunda fixa y."
+    },
+    {
+     "id": "enem-retas-paralelas-perpendiculares-sistemas-c14-q03",
+     "tipo": "ce",
+     "texto_base": "As equações são x + y = 5 e 2x + 2y = 12. Quantas soluções existem?",
+     "enunciado": "A resposta é “Infinitas”.",
+     "gabarito": "E",
+     "habilidade": "H21",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Paralelismo e perpendicularidade, sistemas de equações",
+     "comentario": "A resposta é “Nenhuma”. Dividir a segunda equação por dois dá x + y = 6, incompatível com x + y = 5."
+    },
+    {
+     "id": "enem-retas-paralelas-perpendiculares-sistemas-c14-q04",
+     "tipo": "ce",
+     "texto_base": "As equações são x − y = 1 e 3x − 3y = 3. Quantas soluções existem?",
+     "enunciado": "A resposta é “Infinitas”.",
+     "gabarito": "C",
+     "habilidade": "H21",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Paralelismo e perpendicularidade, sistemas de equações",
+     "comentario": "A segunda equação resulta de multiplicar a primeira por três, preservando todo par solução."
+    },
+    {
+     "id": "enem-retas-paralelas-perpendiculares-sistemas-c14-q05",
+     "tipo": "me",
+     "texto_base": "Uma rua segue a reta de inclinação 3. Uma travessa deve cruzá-la em ângulo reto.",
+     "enunciado": "Qual inclinação serve para a travessa?",
+     "gabarito": "A",
+     "habilidade": "H21",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Paralelismo e perpendicularidade, sistemas de equações",
+     "alternativas": {
+      "A": "−1/3",
+      "B": "−3",
+      "C": "(4,-2)",
+      "D": "(3,6)",
+      "E": "Nenhuma"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Multiplicar 3 por −1/3 dá −1.",
+      "B": "Multiplicar 3 por −1/3 dá −1.",
+      "C": "Essa resposta descreve um caso de vertical e horizontal. Multiplicar 3 por −1/3 dá −1.",
+      "D": "Essa resposta descreve um caso de sistema determinado. Multiplicar 3 por −1/3 dá −1.",
+      "E": "Essa resposta descreve um caso de sistema impossível. Multiplicar 3 por −1/3 dá −1."
+     },
+     "comentario": "A) Correta. Multiplicar 3 por −1/3 dá −1.\nB) Multiplicar 3 por −1/3 dá −1.\nC) Essa resposta descreve um caso de vertical e horizontal. Multiplicar 3 por −1/3 dá −1.\nD) Essa resposta descreve um caso de sistema determinado. Multiplicar 3 por −1/3 dá −1.\nE) Essa resposta descreve um caso de sistema impossível. Multiplicar 3 por −1/3 dá −1."
+    },
+    {
+     "id": "enem-retas-paralelas-perpendiculares-sistemas-c14-q06",
+     "tipo": "me",
+     "texto_base": "Um corredor tem equação x = 4 e outro, y = −2.",
+     "enunciado": "Em que ponto se cruzam?",
+     "gabarito": "B",
+     "habilidade": "H21",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Paralelismo e perpendicularidade, sistemas de equações",
+     "alternativas": {
+      "A": "(-2,4)",
+      "B": "(4,-2)",
+      "C": "(3,6)",
+      "D": "Nenhuma",
+      "E": "Infinitas"
+     },
+     "comentarios_por_alternativa": {
+      "A": "A primeira equação fixa x e a segunda fixa y.",
+      "B": "Correta. A primeira equação fixa x e a segunda fixa y.",
+      "C": "Essa resposta descreve um caso de sistema determinado. A primeira equação fixa x e a segunda fixa y.",
+      "D": "Essa resposta descreve um caso de sistema impossível. A primeira equação fixa x e a segunda fixa y.",
+      "E": "Essa resposta descreve um caso de sistema indeterminado. A primeira equação fixa x e a segunda fixa y."
+     },
+     "comentario": "A) A primeira equação fixa x e a segunda fixa y.\nB) Correta. A primeira equação fixa x e a segunda fixa y.\nC) Essa resposta descreve um caso de sistema determinado. A primeira equação fixa x e a segunda fixa y.\nD) Essa resposta descreve um caso de sistema impossível. A primeira equação fixa x e a segunda fixa y.\nE) Essa resposta descreve um caso de sistema indeterminado. A primeira equação fixa x e a segunda fixa y."
+    },
+    {
+     "id": "enem-retas-paralelas-perpendiculares-sistemas-c14-q07",
+     "tipo": "me",
+     "texto_base": "As equações são y = 2x e y = 9 − x.",
+     "enunciado": "Qual é a única solução?",
+     "gabarito": "C",
+     "habilidade": "H21",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Paralelismo e perpendicularidade, sistemas de equações",
+     "alternativas": {
+      "A": "(6,3)",
+      "B": "Nenhuma",
+      "C": "(3,6)",
+      "D": "Infinitas",
+      "E": "Paralelas distintas"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Igualar 2x = 9 − x dá x = 3 e y = 6.",
+      "B": "Essa resposta descreve um caso de sistema impossível. Igualar 2x = 9 − x dá x = 3 e y = 6.",
+      "C": "Correta. Igualar 2x = 9 − x dá x = 3 e y = 6.",
+      "D": "Essa resposta descreve um caso de sistema indeterminado. Igualar 2x = 9 − x dá x = 3 e y = 6.",
+      "E": "Essa resposta descreve um caso de paralelas distintas. Igualar 2x = 9 − x dá x = 3 e y = 6."
+     },
+     "comentario": "A) Igualar 2x = 9 − x dá x = 3 e y = 6.\nB) Essa resposta descreve um caso de sistema impossível. Igualar 2x = 9 − x dá x = 3 e y = 6.\nC) Correta. Igualar 2x = 9 − x dá x = 3 e y = 6.\nD) Essa resposta descreve um caso de sistema indeterminado. Igualar 2x = 9 − x dá x = 3 e y = 6.\nE) Essa resposta descreve um caso de paralelas distintas. Igualar 2x = 9 − x dá x = 3 e y = 6."
+    },
+    {
+     "id": "enem-retas-paralelas-perpendiculares-sistemas-c14-q08",
+     "tipo": "me",
+     "texto_base": "As equações são x + y = 5 e 2x + 2y = 12.",
+     "enunciado": "Quantas soluções existem?",
+     "gabarito": "D",
+     "habilidade": "H21",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Paralelismo e perpendicularidade, sistemas de equações",
+     "alternativas": {
+      "A": "Infinitas",
+      "B": "Paralelas distintas",
+      "C": "−1/3",
+      "D": "Nenhuma",
+      "E": "(4,-2)"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Dividir a segunda equação por dois dá x + y = 6, incompatível com x + y = 5.",
+      "B": "Essa resposta descreve um caso de paralelas distintas. Dividir a segunda equação por dois dá x + y = 6, incompatível com x + y = 5.",
+      "C": "Essa resposta descreve um caso de perpendiculares oblíquas. Dividir a segunda equação por dois dá x + y = 6, incompatível com x + y = 5.",
+      "D": "Correta. Dividir a segunda equação por dois dá x + y = 6, incompatível com x + y = 5.",
+      "E": "Essa resposta descreve um caso de vertical e horizontal. Dividir a segunda equação por dois dá x + y = 6, incompatível com x + y = 5."
+     },
+     "comentario": "A) Dividir a segunda equação por dois dá x + y = 6, incompatível com x + y = 5.\nB) Essa resposta descreve um caso de paralelas distintas. Dividir a segunda equação por dois dá x + y = 6, incompatível com x + y = 5.\nC) Essa resposta descreve um caso de perpendiculares oblíquas. Dividir a segunda equação por dois dá x + y = 6, incompatível com x + y = 5.\nD) Correta. Dividir a segunda equação por dois dá x + y = 6, incompatível com x + y = 5.\nE) Essa resposta descreve um caso de vertical e horizontal. Dividir a segunda equação por dois dá x + y = 6, incompatível com x + y = 5."
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Em uma planta, as linhas são y = 2x + 1 e y = 2x − 6. Qual é a posição relativa? Resposta: ___.",
+     "opcoes": [
+      "Paralelas distintas",
+      "Concorrentes em um ponto",
+      "−1/3"
+     ],
+     "respostas": [
+      "Paralelas distintas"
+     ],
+     "explicacao": "A inclinação é 2 em ambas e os interceptos são diferentes."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "As equações são x − y = 1 e 3x − 3y = 3. Quantas soluções existem? Resposta: ___.",
+     "opcoes": [
+      "Infinitas",
+      "Exatamente uma",
+      "Paralelas distintas"
+     ],
+     "respostas": [
+      "Infinitas"
+     ],
+     "explicacao": "A segunda equação resulta de multiplicar a primeira por três, preservando todo par solução."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a leitura do caso. As equações são y = 2x e y = 9 − x. Qual é a única solução?",
+     "itens": [
+      "Identificar o que a pergunta pede.",
+      "Separar os dados relevantes.",
+      "Relacionar os dados ao conceito.",
+      "Conferir a conclusão."
+     ],
+     "explicacao": "Igualar 2x = 9 − x dá x = 3 e y = 6."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Paralelas distintas",
+       "Duas retas não verticais de mesma inclinação e interceptos distintos são paralelas."
+      ],
+      [
+       "Perpendiculares oblíquas",
+       "Para duas retas não verticais perpendiculares, o produto das inclinações é −1."
+      ],
+      [
+       "Vertical e horizontal",
+       "Uma reta vertical e uma horizontal são perpendiculares, embora a vertical não tenha inclinação numérica finita."
+      ],
+      [
+       "Sistema determinado",
+       "Retas com inclinações diferentes encontram-se em um único ponto, que resolve o sistema."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

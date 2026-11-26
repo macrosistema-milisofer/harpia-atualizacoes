@@ -1,0 +1,253 @@
+{
+ "assunto": "Da força que sustenta à força que muda o movimento",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-historia-forca-movimento-c14",
+   "titulo": "Da força que sustenta à força que muda o movimento",
+   "microconteudo": "RAIO-X DA PROVA: Interprete a situação e justifique a conclusão com a relação física pertinente. Na mecânica newtoniana, a força resultante está associada à mudança de velocidade em um referencial inercial. Um corpo pode manter velocidade constante com resultante nula.\n\nPOR QUE IMPORTA:\nUma bola empurrada pelo corredor acaba parando. A experiência pode sugerir que todo movimento exige um empurrão contínuo. Comparar pisos e examinar o atrito muda a interpretação.\n\nO QUE A BANCA COBRA:\nInterprete a situação e justifique a conclusão com a relação física pertinente. Na mecânica newtoniana, a força resultante está associada à mudança de velocidade em um referencial inercial. Um corpo pode manter velocidade constante com resultante nula.\n\nENTENDA:\nComece por esta situação: Uma bola empurrada pelo corredor acaba parando. A experiência pode sugerir que todo movimento exige um empurrão contínuo. Comparar pisos e examinar o atrito muda a interpretação. Leia os dados disponíveis e faça uma previsão antes de procurar uma fórmula. Na mecânica newtoniana, a força resultante está associada à mudança de velocidade em um referencial inercial. Um corpo pode manter velocidade constante com resultante nula. Galileu explorou situações idealizadas e planos inclinados para investigar o movimento. Newton formalizou leis que permitem distinguir conservação do estado de movimento e alteração provocada por forças.\n\nUma comparação imaginada por Galileu usa dois planos ligados. Uma esfera que desce pelo primeiro sobe no outro. Com menor resistência, pode aproximar-se da altura de partida. Se o plano de subida ficar menos inclinado, a esfera precisará percorrer uma distância maior para atingir a mesma elevação. No limite ideal em que o segundo plano é horizontal e as resistências são desprezadas, esse raciocínio sugere que a esfera continuará sem perder velocidade. O exemplo usa uma situação limite para destacar aquilo que o atrito costuma esconder. Modelos idealizados ajudam a formular previsões que podem ser contrastadas com experiências reais.\n\nNa descrição histórica, é importante perceber a mudança de pergunta. Em vez de perguntar qual impulso fica armazenado no corpo para que ele continue, a mecânica clássica investiga quais interações alteram sua velocidade. Um empurrão existe enquanto há contato com quem empurra; após a separação, procure as interações que ainda ocorrem. Se reduzir a resistência muda a desaceleração observada, a resistência é parte da explicação.\n\nConfira o significado das palavras da questão. Que efeito cotidiano mascara a inércia? O atrito e outras resistências reduzem o movimento observado.\nO que é uma idealização? Uma simplificação que permite destacar determinados efeitos.\nO que é força resultante? A soma vetorial das forças sobre o corpo.\nQuem sistematizou as três leis clássicas do movimento? Isaac Newton.\nQue estado pode persistir com resultante nula? Repouso ou movimento retilíneo uniforme.\nO que um teste comparando pisos ajuda a separar? A influência da resistência do piso sobre a desaceleração. Se dois termos parecem próximos, compare o que cada um descreve no caso inicial. Em Física, trocar o nome de uma grandeza pode mudar o cálculo ou até o que se está tentando explicar. Escreva, ao lado de cada símbolo, qual parte da situação ele representa e em que unidade seria medido.\n\nExemplo 1. Uma caixa desliza por mais tempo quando o piso é encerado, embora o empurrão inicial seja semelhante. Que interpretação combina com a mecânica clássica? A resposta é O menor atrito reduz a desaceleração depois do empurrão.. A mudança de velocidade depende da força resultante que atua. A força do contato cessa quando termina o contato. A massa não depende desse acabamento do chão. A observação não evidencia força propulsora. O peso continua atuando na caixa.\n\nExemplo 2. Um objeto desloca-se com velocidade constante em linha reta. Há peso e apoio, sem outras forças relevantes. O que a mecânica newtoniana prevê para a resultante? A resposta é Zero.. As forças se equilibram e a velocidade permanece constante. Uma força resultante nesse sentido geraria aceleração. A distância não é a grandeza que determina a resultante. A normal equilibra o peso. Com velocidade constante, não há aceleração.\n\nExemplo 3. Um corpo recebe uma força resultante lateral durante certo intervalo. Que grandeza muda diretamente nesse modelo? A resposta é A velocidade vetorial.. A aceleração altera a velocidade, que pode mudar de direção. A massa é tratada como constante. A força não modifica o instante já registrado. A unidade pode ser escolhida independentemente da força. A origem é uma convenção da descrição.\n\nExemplo 4. Uma turma testa uma esfera em superfícies com diferentes rugosidades. Qual previsão testa a influência da resistência? A resposta é Em condições iguais, a esfera tende a conservar o movimento por mais tempo onde a resistência é menor.. A diferença pode ser comparada pelas taxas de desaceleração. Isso não corresponde à hipótese de resistência diferente. A resistência tende a reduzir sua rapidez. Esse empurrão influencia a condição de partida. O material do piso não muda a massa da esfera.\n\nTeste de interpretação. Uma esfera rola por mais tempo numa superfície lisa. Considere a afirmação: “A observação é compatível com menor resistência ao rolamento.” Certo. A velocidade pode variar mais lentamente quando a resistência diminui. Um disco segue em linha reta sobre uma mesa com resistência desprezível. Considere a afirmação: “Uma força horizontal contínua é necessária para sustentar sua velocidade constante.” Errado. Com força resultante nula, ele pode conservar a velocidade. Um trenó desacelera depois que a pessoa para de puxá-lo. Considere a afirmação: “Uma resistência contrária ao movimento pode explicar a desaceleração.” Certo. A resistência gera força resultante contrária à velocidade. Um livro está em repouso apoiado sobre a mesa. Considere a afirmação: “O repouso demonstra ausência total de forças.” Errado. Há peso e normal, que se equilibram.\n\nUma sequência de resolução é útil quando a questão traz mais dados que o necessário. Primeiro, identificar o fenômeno observado. Depois, propor uma explicação que inclua as forças presentes. Em seguida, comparar com uma situação de resistência menor. Por último, reavaliar se a força altera ou mantém a velocidade. Explique oralmente por que cada passo vem nessa posição. Se a última conclusão mudar quando você troca um detalhe do enunciado, localize qual hipótese provocou essa mudança. Isso ajuda a distinguir o resultado de uma conta das condições em que ele vale.\n\nEm uma prova, procure separar o que o texto observou, o que o modelo assume e o que você concluiu. Um valor informado é um dado. Uma condição como desprezar o atrito ou tratar o intervalo como uniforme pode ser uma hipótese. Já o resultado é aquilo que você obtém ao combinar os dados com a regra escolhida. Se houver tabela ou figura, confira a legenda, os eixos e as unidades antes de usar os números. Para revisar, refaça um dos exemplos mudando um dado por vez e preveja o sentido da mudança antes de calcular.\n\nCheck de leitura. Escolha dois exemplos desta lição e compare o papel de cada informação. O que foi medido diretamente? Qual relação precisou ser usada para inferir uma resposta? Há alguma observação que, sozinha, seria insuficiente? Se a resposta for um número, faça uma estimativa simples para checar se ele é plausível. Se for uma explicação, procure indicar qual condição a torna válida. Depois, tente escrever uma resposta que inclua o dado utilizado, o raciocínio e a conclusão em uma ou duas frases.\n\nAo montar um rascunho, deixe os dados de um lado e a conclusão do outro. Comece pelo dado que tem relação direta com a pergunta. Caso sobrem informações, veja se elas servem para comparar hipóteses ou apenas situar a história. Em uma comparação, mantenha a mesma referência e o mesmo intervalo sempre que o enunciado permitir. Quando um resultado contradiz a previsão inicial, revise primeiro a interpretação do que foi pedido; em seguida, revise a operação e as condições assumidas.\n\nPara fechar, compare estas duas situações e procure a diferença física entre elas. Uma esfera rola por mais tempo numa superfície lisa. Um disco segue em linha reta sobre uma mesa com resistência desprezível. Quando o contexto muda, a leitura deve partir das informações apresentadas naquele caso. Considere a primeira afirmação e justifique o resultado: “A observação é compatível com menor resistência ao rolamento.” Certo. A velocidade pode variar mais lentamente quando a resistência diminui. Agora avalie a segunda: “Uma força horizontal contínua é necessária para sustentar sua velocidade constante.” Errado. Com força resultante nula, ele pode conservar a velocidade. Uma explicação adequada pode usar palavras e cálculos, desde que a relação com a situação seja clara. Pense em qual mudança nos dados tornaria cada afirmação válida ou inválida.\n\nUse este conjunto de definições como roteiro para checar o raciocínio. Que efeito cotidiano mascara a inércia? O atrito e outras resistências reduzem o movimento observado.\nO que é uma idealização? Uma simplificação que permite destacar determinados efeitos.\nO que é força resultante? A soma vetorial das forças sobre o corpo.\nQuem sistematizou as três leis clássicas do movimento? Isaac Newton.\nQue estado pode persistir com resultante nula? Repouso ou movimento retilíneo uniforme.\nO que um teste comparando pisos ajuda a separar? A influência da resistência do piso sobre a desaceleração. Ao voltar aos dados do começo, selecione as definições pertinentes ao caso. Leia a conclusão como se ela fosse uma frase independente: confira a unidade, a referência adotada e a condição de validade.\n\nTROCANDO EM MIÚDOS:\nImagine a situação do começo da lição. Uma bola empurrada pelo corredor acaba parando. A experiência pode sugerir que todo movimento exige um empurrão contínuo. Comparar pisos e examinar o atrito muda a interpretação. Galileu explorou situações idealizadas e planos inclinados para investigar o movimento. Newton formalizou leis que permitem distinguir conservação do estado de movimento e alteração provocada por forças.\n\nA regra principal pode ser escrita assim: Na mecânica newtoniana, a força resultante está associada à mudança de velocidade em um referencial inercial. Um corpo pode manter velocidade constante com resultante nula. Tente explicar essa regra em voz alta para alguém que ainda não viu o conteúdo, usando o exemplo inicial como apoio.\n\nAntes de marcar uma alternativa, faça esta checagem. Que efeito cotidiano mascara a inércia? O atrito e outras resistências reduzem o movimento observado. O que é uma idealização? Uma simplificação que permite destacar determinados efeitos. O que é força resultante? A soma vetorial das forças sobre o corpo. Quem sistematizou as três leis clássicas do movimento? Isaac Newton. Que estado pode persistir com resultante nula? Repouso ou movimento retilíneo uniforme. O que um teste comparando pisos ajuda a separar? A influência da resistência do piso sobre a desaceleração.\n\nEm um rascunho curto, anote quatro passos. Identificar o fenômeno observado. Propor uma explicação que inclua as forças presentes. Comparar com uma situação de resistência menor. Reavaliar se a força altera ou mantém a velocidade. Em seguida, tente aplicar os passos a um exemplo com números ou condições diferentes. As grandezas que foram medidas e o que você quer descobrir devem ficar em linhas separadas. Isso ajuda a identificar qual informação ainda falta.\n\nExperimente responder a esta situação sem olhar as opções. Uma caixa desliza por mais tempo quando o piso é encerado, embora o empurrão inicial seja semelhante. Que interpretação combina com a mecânica clássica? A mudança de velocidade depende da força resultante que atua. Depois, confira nos exemplos quais seriam as consequências de escolher uma interpretação diferente. Se tiver que refazer, comece pelas condições do problema e pelo significado de cada dado.\n\nPara fixar, releia uma afirmação verdadeira e uma falsa da lição. Reescreva a falsa trocando só o trecho necessário para corrigi-la. Na afirmação verdadeira, diga qual detalhe do enunciado permite chegar a essa conclusão. Assim você pratica explicar um resultado, além de reconhecer qual opção está certa.\n\nLEI SECA:\nNa mecânica newtoniana, a força resultante está associada à mudança de velocidade em um referencial inercial. Um corpo pode manter velocidade constante com resultante nula.\n\nSÚMULAS E TESES:\nGalileu explorou situações idealizadas e planos inclinados para investigar o movimento. Newton formalizou leis que permitem distinguir conservação do estado de movimento e alteração provocada por forças.\n\nESQUEMA:\nIdentificar o fenômeno observado → Propor uma explicação que inclua as forças presentes → Comparar com uma situação de resistência menor → Reavaliar se a força altera ou mantém a velocidade\n\nPEGADINHAS:\n1. Certo. A velocidade pode variar mais lentamente quando a resistência diminui.\n2. Errado. Com força resultante nula, ele pode conservar a velocidade.\n3. Certo. A resistência gera força resultante contrária à velocidade.\n4. Errado. Há peso e normal, que se equilibram.\n\nDOUTRINA:\nOpenStax — College Physics 2e, Newton’s First Law of Motion\n\nNA PRÁTICA:\nExemplo 1. Uma caixa desliza por mais tempo quando o piso é encerado, embora o empurrão inicial seja semelhante. Que interpretação combina com a mecânica clássica? A resposta é O menor atrito reduz a desaceleração depois do empurrão.. A mudança de velocidade depende da força resultante que atua. A força do contato cessa quando termina o contato. A massa não depende desse acabamento do chão. A observação não evidencia força propulsora. O peso continua atuando na caixa.",
+   "flashcards": [
+    {
+     "frente": "Que efeito cotidiano mascara a inércia?",
+     "verso": "O atrito e outras resistências reduzem o movimento observado.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Relação histórica entre força e movimento"
+    },
+    {
+     "frente": "O que é uma idealização?",
+     "verso": "Uma simplificação que permite destacar determinados efeitos.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Relação histórica entre força e movimento"
+    },
+    {
+     "frente": "O que é força resultante?",
+     "verso": "A soma vetorial das forças sobre o corpo.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Relação histórica entre força e movimento"
+    },
+    {
+     "frente": "Quem sistematizou as três leis clássicas do movimento?",
+     "verso": "Isaac Newton.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Relação histórica entre força e movimento"
+    },
+    {
+     "frente": "Que estado pode persistir com resultante nula?",
+     "verso": "Repouso ou movimento retilíneo uniforme.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Relação histórica entre força e movimento"
+    },
+    {
+     "frente": "O que um teste comparando pisos ajuda a separar?",
+     "verso": "A influência da resistência do piso sobre a desaceleração.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Relação histórica entre força e movimento"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-historia-forca-movimento-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Uma esfera rola por mais tempo numa superfície lisa.",
+     "enunciado": "A observação é compatível com menor resistência ao rolamento.",
+     "gabarito": "C",
+     "comentario": "Certo. A velocidade pode variar mais lentamente quando a resistência diminui.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Relação histórica entre força e movimento"
+    },
+    {
+     "id": "enem-fisica-historia-forca-movimento-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Um disco segue em linha reta sobre uma mesa com resistência desprezível.",
+     "enunciado": "Uma força horizontal contínua é necessária para sustentar sua velocidade constante.",
+     "gabarito": "E",
+     "comentario": "Errado. Com força resultante nula, ele pode conservar a velocidade.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Relação histórica entre força e movimento"
+    },
+    {
+     "id": "enem-fisica-historia-forca-movimento-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Um trenó desacelera depois que a pessoa para de puxá-lo.",
+     "enunciado": "Uma resistência contrária ao movimento pode explicar a desaceleração.",
+     "gabarito": "C",
+     "comentario": "Certo. A resistência gera força resultante contrária à velocidade.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Relação histórica entre força e movimento"
+    },
+    {
+     "id": "enem-fisica-historia-forca-movimento-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Um livro está em repouso apoiado sobre a mesa.",
+     "enunciado": "O repouso demonstra ausência total de forças.",
+     "gabarito": "E",
+     "comentario": "Errado. Há peso e normal, que se equilibram.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Relação histórica entre força e movimento"
+    },
+    {
+     "id": "enem-fisica-historia-forca-movimento-c14-q05",
+     "tipo": "me",
+     "texto_base": "Uma caixa desliza por mais tempo quando o piso é encerado, embora o empurrão inicial seja semelhante.",
+     "enunciado": "Que interpretação combina com a mecânica clássica?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "O empurrão inicial vira uma força permanente dentro da caixa.",
+      "B": "O menor atrito reduz a desaceleração depois do empurrão.",
+      "C": "A massa da caixa desaparece no piso liso.",
+      "D": "O piso exerce propulsão constante.",
+      "E": "O movimento é possível só porque não há peso."
+     },
+     "comentarios_por_alternativa": {
+      "A": "A força do contato cessa quando termina o contato.",
+      "B": "Correta. A mudança de velocidade depende da força resultante que atua.",
+      "C": "A massa não depende desse acabamento do chão.",
+      "D": "A observação não evidencia força propulsora.",
+      "E": "O peso continua atuando na caixa."
+     },
+     "comentario": "A) A força do contato cessa quando termina o contato.\nB) Correta. A mudança de velocidade depende da força resultante que atua.\nC) A massa não depende desse acabamento do chão.\nD) A observação não evidencia força propulsora.\nE) O peso continua atuando na caixa.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Relação histórica entre força e movimento"
+    },
+    {
+     "id": "enem-fisica-historia-forca-movimento-c14-q06",
+     "tipo": "me",
+     "texto_base": "Um objeto desloca-se com velocidade constante em linha reta. Há peso e apoio, sem outras forças relevantes.",
+     "enunciado": "O que a mecânica newtoniana prevê para a resultante?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "Uma força na direção da velocidade.",
+      "B": "Um valor proporcional à distância percorrida.",
+      "C": "Uma força igual ao peso.",
+      "D": "Zero.",
+      "E": "Um valor que cresce com o tempo."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Uma força resultante nesse sentido geraria aceleração.",
+      "B": "A distância não é a grandeza que determina a resultante.",
+      "C": "A normal equilibra o peso.",
+      "D": "Correta. As forças se equilibram e a velocidade permanece constante.",
+      "E": "Com velocidade constante, não há aceleração."
+     },
+     "comentario": "A) Uma força resultante nesse sentido geraria aceleração.\nB) A distância não é a grandeza que determina a resultante.\nC) A normal equilibra o peso.\nD) Correta. As forças se equilibram e a velocidade permanece constante.\nE) Com velocidade constante, não há aceleração.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Relação histórica entre força e movimento"
+    },
+    {
+     "id": "enem-fisica-historia-forca-movimento-c14-q07",
+     "tipo": "me",
+     "texto_base": "Um corpo recebe uma força resultante lateral durante certo intervalo.",
+     "enunciado": "Que grandeza muda diretamente nesse modelo?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "A velocidade vetorial.",
+      "B": "A massa.",
+      "C": "O tempo que já passou.",
+      "D": "A unidade de medida da velocidade.",
+      "E": "A origem do sistema de coordenadas."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. A aceleração altera a velocidade, que pode mudar de direção.",
+      "B": "A massa é tratada como constante.",
+      "C": "A força não modifica o instante já registrado.",
+      "D": "A unidade pode ser escolhida independentemente da força.",
+      "E": "A origem é uma convenção da descrição."
+     },
+     "comentario": "A) Correta. A aceleração altera a velocidade, que pode mudar de direção.\nB) A massa é tratada como constante.\nC) A força não modifica o instante já registrado.\nD) A unidade pode ser escolhida independentemente da força.\nE) A origem é uma convenção da descrição.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Relação histórica entre força e movimento"
+    },
+    {
+     "id": "enem-fisica-historia-forca-movimento-c14-q08",
+     "tipo": "me",
+     "texto_base": "Uma turma testa uma esfera em superfícies com diferentes rugosidades.",
+     "enunciado": "Qual previsão testa a influência da resistência?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "A esfera terá a mesma desaceleração em todas as superfícies.",
+      "B": "A esfera sempre acelera após ser liberada.",
+      "C": "A velocidade fica independente do empurrão inicial.",
+      "D": "A esfera mudará de massa em cada piso.",
+      "E": "Em condições iguais, a esfera tende a conservar o movimento por mais tempo onde a resistência é menor."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Isso não corresponde à hipótese de resistência diferente.",
+      "B": "A resistência tende a reduzir sua rapidez.",
+      "C": "Esse empurrão influencia a condição de partida.",
+      "D": "O material do piso não muda a massa da esfera.",
+      "E": "Correta. A diferença pode ser comparada pelas taxas de desaceleração."
+     },
+     "comentario": "A) Isso não corresponde à hipótese de resistência diferente.\nB) A resistência tende a reduzir sua rapidez.\nC) Esse empurrão influencia a condição de partida.\nD) O material do piso não muda a massa da esfera.\nE) Correta. A diferença pode ser comparada pelas taxas de desaceleração.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Relação histórica entre força e movimento"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Que efeito cotidiano mascara a inércia? Resposta: ___.",
+     "opcoes": [
+      "O atrito e outras resistências reduzem o movimento observado.",
+      "Uma simplificação que permite destacar determinados efeitos.",
+      "A soma vetorial das forças sobre o corpo.",
+      "Isaac Newton."
+     ],
+     "respostas": [
+      "O atrito e outras resistências reduzem o movimento observado."
+     ],
+     "explicacao": "O atrito e outras resistências reduzem o movimento observado."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Que estado pode persistir com resultante nula? Resposta: ___.",
+     "opcoes": [
+      "A soma vetorial das forças sobre o corpo.",
+      "Isaac Newton.",
+      "Repouso ou movimento retilíneo uniforme.",
+      "A influência da resistência do piso sobre a desaceleração."
+     ],
+     "respostas": [
+      "Repouso ou movimento retilíneo uniforme."
+     ],
+     "explicacao": "Repouso ou movimento retilíneo uniforme."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma situação sobre da força que sustenta à força que muda o movimento.",
+     "itens": [
+      "Identificar o fenômeno observado.",
+      "Propor uma explicação que inclua as forças presentes.",
+      "Comparar com uma situação de resistência menor.",
+      "Reavaliar se a força altera ou mantém a velocidade."
+     ],
+     "explicacao": "Na mecânica newtoniana, a força resultante está associada à mudança de velocidade em um referencial inercial. Um corpo pode manter velocidade constante com resultante nula."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Que efeito cotidiano mascara a inércia?",
+       "O atrito e outras resistências reduzem o movimento observado."
+      ],
+      [
+       "O que é uma idealização?",
+       "Uma simplificação que permite destacar determinados efeitos."
+      ],
+      [
+       "O que é força resultante?",
+       "A soma vetorial das forças sobre o corpo."
+      ],
+      [
+       "Quem sistematizou as três leis clássicas do movimento?",
+       "Isaac Newton."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,251 @@
+{
+ "assunto": "Plano cartesiano: posição, distância e deslocamento",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-plano-cartesiano-c14",
+   "titulo": "Plano cartesiano: posição, distância e deslocamento",
+   "microconteudo": "RAIO-X DA PROVA: Localize pontos, compare deslocamentos, calcule distância e ponto médio e interprete o significado dos eixos.\n\nPOR QUE IMPORTA:\nAplicativos de mapas e jogos representam posições com pares de números. Ler as coordenadas na ordem certa ajuda a traduzir os movimentos da tela para o plano.\n\nO QUE A BANCA COBRA:\nLocalize pontos, compare deslocamentos, calcule distância e ponto médio e interprete o significado dos eixos.\n\nENTENDA:\n1. Ordem das coordenadas\n\nEm (x,y), a primeira coordenada mede a posição horizontal e a segunda mede a posição vertical. Um avatar aparece três unidades à esquerda e duas acima da origem. Qual é o par ordenado? A resposta é **(-3, 2)**. À esquerda, x é negativo. Acima da origem, y é positivo.\n\nUma resposta a examinar é “(2, -3)”. Coloque lado a lado o que ela afirma e o dado principal do caso. Trocar a posição dos números faria o avatar aparecer à direita e abaixo, em outro quadrante e com distâncias diferentes dos eixos. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\n2. Quadrantes e eixos\n\nOs sinais não nulos determinam o quadrante. Pontos com uma coordenada nula ficam sobre um eixo. O marcador está em (0,-4). Onde fica o marcador? A resposta é **No eixo y abaixo da origem**. A coordenada horizontal é zero, e a vertical é negativa.\n\nUma resposta a examinar é “No quarto quadrante”. Coloque lado a lado o que ela afirma e o dado principal do caso. O quarto quadrante exige x positivo e y negativo. Um limite pode ter uma coordenada igual a zero e separa os quadrantes vizinhos. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\n3. Deslocamento\n\nA diferença entre as coordenadas final e inicial descreve o deslocamento em cada eixo. Um drone sobrevoa do ponto (2,5) ao ponto (7,1) no mapa. Qual é o vetor do deslocamento? A resposta é ** (5, -4)**. A mudança horizontal é 7 − 2 = 5 e a vertical é 1 − 5 = −4.\n\nUma resposta a examinar é “(-5, 4)”. Coloque lado a lado o que ela afirma e o dado principal do caso. O vetor proposto no erro serve para a volta do ponto final ao inicial. Somar o deslocamento correto ao ponto inicial recupera o final. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\n4. Distância\n\nA distância entre pontos pode ser calculada pelos catetos dados pelas diferenças de coordenadas. Dois pontos de um mapa estão em (1,2) e (4,6), com coordenadas em metros. Qual é a distância em linha reta? A resposta é **5 m**. As diferenças são 3 m e 4 m. Usando Pitágoras, √(9 + 16) = 5.\n\nUma resposta a examinar é “7 m”. Coloque lado a lado o que ela afirma e o dado principal do caso. Sete metros seriam percorridos numa rota de dois trechos paralelos aos eixos. A linha reta corresponde à hipotenusa e é mais curta. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\n5. Ponto médio\n\nO ponto médio tem como coordenadas as médias dos valores correspondentes dos extremos. Um banco ficará no meio do segmento entre (-2,3) e (6,7). Em que ponto ficará o banco? A resposta é **(2, 5)**. As médias são (-2 + 6)/2 = 2 e (3 + 7)/2 = 5.\n\nUma resposta a examinar é “(4, 10)”. Coloque lado a lado o que ela afirma e o dado principal do caso. Somar as coordenadas produz o dobro das coordenadas do ponto médio. O banco precisa ficar dentro do segmento entre os extremos. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\n6. Escala dos eixos\n\nA escala deve ser lida em cada eixo; intervalos visuais iguais podem representar grandezas diferentes. Num mapa quadriculado, um quadrado vale 100 m no eixo horizontal e 50 m no vertical. Uma rota vai dois quadrados para leste e um para norte. Quais as componentes do deslocamento? A resposta é **200 m para leste e 50 m para norte**. Multiplica-se a quantidade de quadrados pelo valor de cada escala, separadamente.\n\nUma resposta a examinar é “200 m para leste e 100 m para norte”. Coloque lado a lado o que ela afirma e o dado principal do caso. A configuração pode distorcer a aparência dos ângulos. A coordenada e o deslocamento dependem da escala indicada, e não apenas do desenho. Para conferir sua interpretação, volte à pergunta e explique a relação entre o dado e a conclusão em uma frase. Se usar uma operação, deixe visível o que cada número representa. Se a resposta depender de indícios, indique qual detalhe da situação sustenta o que você afirma. Ao praticar, tente recontar o caso mudando um detalhe de cada vez. Esse teste permite verificar se o detalhe alterado afeta a conclusão ou se apenas muda a descrição do cenário.\n\nTROCANDO EM MIÚDOS:\n**Ordem das coordenadas.** Um avatar aparece três unidades à esquerda e duas acima da origem. Qual é o par ordenado? (-3, 2). À esquerda, x é negativo. Acima da origem, y é positivo. Trocar a posição dos números faria o avatar aparecer à direita e abaixo, em outro quadrante e com distâncias diferentes dos eixos.\n\n**Quadrantes e eixos.** O marcador está em (0,-4). Onde fica o marcador? No eixo y abaixo da origem. A coordenada horizontal é zero, e a vertical é negativa. O quarto quadrante exige x positivo e y negativo. Um limite pode ter uma coordenada igual a zero e separa os quadrantes vizinhos.\n\n**Deslocamento.** Um drone sobrevoa do ponto (2,5) ao ponto (7,1) no mapa. Qual é o vetor do deslocamento? (5, -4). A mudança horizontal é 7 − 2 = 5 e a vertical é 1 − 5 = −4. O vetor proposto no erro serve para a volta do ponto final ao inicial. Somar o deslocamento correto ao ponto inicial recupera o final.\n\n**Distância.** Dois pontos de um mapa estão em (1,2) e (4,6), com coordenadas em metros. Qual é a distância em linha reta? 5 m. As diferenças são 3 m e 4 m. Usando Pitágoras, √(9 + 16) = 5. Sete metros seriam percorridos numa rota de dois trechos paralelos aos eixos. A linha reta corresponde à hipotenusa e é mais curta.\n\n**Ponto médio.** Um banco ficará no meio do segmento entre (-2,3) e (6,7). Em que ponto ficará o banco? (2, 5). As médias são (-2 + 6)/2 = 2 e (3 + 7)/2 = 5. Somar as coordenadas produz o dobro das coordenadas do ponto médio. O banco precisa ficar dentro do segmento entre os extremos.\n\n**Escala dos eixos.** Num mapa quadriculado, um quadrado vale 100 m no eixo horizontal e 50 m no vertical. Uma rota vai dois quadrados para leste e um para norte. Quais as componentes do deslocamento? 200 m para leste e 50 m para norte. Multiplica-se a quantidade de quadrados pelo valor de cada escala, separadamente. A configuração pode distorcer a aparência dos ângulos. A coordenada e o deslocamento dependem da escala indicada, e não apenas do desenho.\n\nESQUEMA:\n• Ordem das coordenadas → Em (x,y), a primeira coordenada mede a posição horizontal e a segunda mede a posição vertical.\n• Quadrantes e eixos → Os sinais não nulos determinam o quadrante. Pontos com uma coordenada nula ficam sobre um eixo.\n• Deslocamento → A diferença entre as coordenadas final e inicial descreve o deslocamento em cada eixo.\n• Distância → A distância entre pontos pode ser calculada pelos catetos dados pelas diferenças de coordenadas.\n• Ponto médio → O ponto médio tem como coordenadas as médias dos valores correspondentes dos extremos.\n• Escala dos eixos → A escala deve ser lida em cada eixo; intervalos visuais iguais podem representar grandezas diferentes.\n\nPEGADINHAS:\n• Ordem das coordenadas: confira por que “(2, -3)” falha nesse caso.\n• Quadrantes e eixos: confira por que “No quarto quadrante” falha nesse caso.\n• Deslocamento: confira por que “(-5, 4)” falha nesse caso.\n• Distância: confira por que “7 m” falha nesse caso.\n\nNA PRÁTICA:\nNum mapa quadriculado, um quadrado vale 100 m no eixo horizontal e 50 m no vertical. Uma rota vai dois quadrados para leste e um para norte. Quais as componentes do deslocamento? **Resposta:** 200 m para leste e 50 m para norte. Multiplica-se a quantidade de quadrados pelo valor de cada escala, separadamente.",
+   "flashcards": [
+    {
+     "frente": "Como reconhecer ordem das coordenadas?",
+     "verso": "Em (x,y), a primeira coordenada mede a posição horizontal e a segunda mede a posição vertical.",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Plano cartesiano"
+    },
+    {
+     "frente": "Como reconhecer quadrantes e eixos?",
+     "verso": "Os sinais não nulos determinam o quadrante. Pontos com uma coordenada nula ficam sobre um eixo.",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Plano cartesiano"
+    },
+    {
+     "frente": "Como reconhecer deslocamento?",
+     "verso": "A diferença entre as coordenadas final e inicial descreve o deslocamento em cada eixo.",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Plano cartesiano"
+    },
+    {
+     "frente": "Como reconhecer distância?",
+     "verso": "A distância entre pontos pode ser calculada pelos catetos dados pelas diferenças de coordenadas.",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Plano cartesiano"
+    },
+    {
+     "frente": "Como reconhecer ponto médio?",
+     "verso": "O ponto médio tem como coordenadas as médias dos valores correspondentes dos extremos.",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Plano cartesiano"
+    },
+    {
+     "frente": "Como reconhecer escala dos eixos?",
+     "verso": "A escala deve ser lida em cada eixo; intervalos visuais iguais podem representar grandezas diferentes.",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Plano cartesiano"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-plano-cartesiano-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Um avatar aparece três unidades à esquerda e duas acima da origem. Qual é o par ordenado?",
+     "enunciado": "A resposta é “(-3, 2)”.",
+     "gabarito": "C",
+     "habilidade": "H7",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Plano cartesiano",
+     "comentario": "À esquerda, x é negativo. Acima da origem, y é positivo."
+    },
+    {
+     "id": "enem-plano-cartesiano-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Um drone sobrevoa do ponto (2,5) ao ponto (7,1) no mapa. Qual é o vetor do deslocamento?",
+     "enunciado": "A resposta é “(-5, 4)”.",
+     "gabarito": "E",
+     "habilidade": "H7",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Plano cartesiano",
+     "comentario": "A resposta é “ (5, -4)”. A mudança horizontal é 7 − 2 = 5 e a vertical é 1 − 5 = −4."
+    },
+    {
+     "id": "enem-plano-cartesiano-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Um banco ficará no meio do segmento entre (-2,3) e (6,7). Em que ponto ficará o banco?",
+     "enunciado": "A resposta é “(4, 10)”.",
+     "gabarito": "E",
+     "habilidade": "H7",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Plano cartesiano",
+     "comentario": "A resposta é “(2, 5)”. As médias são (-2 + 6)/2 = 2 e (3 + 7)/2 = 5."
+    },
+    {
+     "id": "enem-plano-cartesiano-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Num mapa quadriculado, um quadrado vale 100 m no eixo horizontal e 50 m no vertical. Uma rota vai dois quadrados para leste e um para norte. Quais as componentes do deslocamento?",
+     "enunciado": "A resposta é “200 m para leste e 50 m para norte”.",
+     "gabarito": "C",
+     "habilidade": "H7",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Plano cartesiano",
+     "comentario": "Multiplica-se a quantidade de quadrados pelo valor de cada escala, separadamente."
+    },
+    {
+     "id": "enem-plano-cartesiano-c14-q05",
+     "tipo": "me",
+     "texto_base": "O marcador está em (0,-4).",
+     "enunciado": "Onde fica o marcador?",
+     "gabarito": "A",
+     "habilidade": "H7",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Plano cartesiano",
+     "alternativas": {
+      "A": "No eixo y abaixo da origem",
+      "B": "No quarto quadrante",
+      "C": "(5, -4)",
+      "D": "5 m",
+      "E": "(2, 5)"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. A coordenada horizontal é zero, e a vertical é negativa.",
+      "B": "A coordenada horizontal é zero, e a vertical é negativa.",
+      "C": "Essa resposta descreve um caso de deslocamento. A coordenada horizontal é zero, e a vertical é negativa.",
+      "D": "Essa resposta descreve um caso de distância. A coordenada horizontal é zero, e a vertical é negativa.",
+      "E": "Essa resposta descreve um caso de ponto médio. A coordenada horizontal é zero, e a vertical é negativa."
+     },
+     "comentario": "A) Correta. A coordenada horizontal é zero, e a vertical é negativa.\nB) A coordenada horizontal é zero, e a vertical é negativa.\nC) Essa resposta descreve um caso de deslocamento. A coordenada horizontal é zero, e a vertical é negativa.\nD) Essa resposta descreve um caso de distância. A coordenada horizontal é zero, e a vertical é negativa.\nE) Essa resposta descreve um caso de ponto médio. A coordenada horizontal é zero, e a vertical é negativa."
+    },
+    {
+     "id": "enem-plano-cartesiano-c14-q06",
+     "tipo": "me",
+     "texto_base": "Um drone sobrevoa do ponto (2,5) ao ponto (7,1) no mapa.",
+     "enunciado": "Qual é o vetor do deslocamento?",
+     "gabarito": "B",
+     "habilidade": "H7",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Plano cartesiano",
+     "alternativas": {
+      "A": "(-5, 4)",
+      "B": "(5, -4)",
+      "C": "5 m",
+      "D": "(2, 5)",
+      "E": "200 m para leste e 50 m para norte"
+     },
+     "comentarios_por_alternativa": {
+      "A": "A mudança horizontal é 7 − 2 = 5 e a vertical é 1 − 5 = −4.",
+      "B": "Correta. A mudança horizontal é 7 − 2 = 5 e a vertical é 1 − 5 = −4.",
+      "C": "Essa resposta descreve um caso de distância. A mudança horizontal é 7 − 2 = 5 e a vertical é 1 − 5 = −4.",
+      "D": "Essa resposta descreve um caso de ponto médio. A mudança horizontal é 7 − 2 = 5 e a vertical é 1 − 5 = −4.",
+      "E": "Essa resposta descreve um caso de escala dos eixos. A mudança horizontal é 7 − 2 = 5 e a vertical é 1 − 5 = −4."
+     },
+     "comentario": "A) A mudança horizontal é 7 − 2 = 5 e a vertical é 1 − 5 = −4.\nB) Correta. A mudança horizontal é 7 − 2 = 5 e a vertical é 1 − 5 = −4.\nC) Essa resposta descreve um caso de distância. A mudança horizontal é 7 − 2 = 5 e a vertical é 1 − 5 = −4.\nD) Essa resposta descreve um caso de ponto médio. A mudança horizontal é 7 − 2 = 5 e a vertical é 1 − 5 = −4.\nE) Essa resposta descreve um caso de escala dos eixos. A mudança horizontal é 7 − 2 = 5 e a vertical é 1 − 5 = −4."
+    },
+    {
+     "id": "enem-plano-cartesiano-c14-q07",
+     "tipo": "me",
+     "texto_base": "Dois pontos de um mapa estão em (1,2) e (4,6), com coordenadas em metros.",
+     "enunciado": "Qual é a distância em linha reta?",
+     "gabarito": "C",
+     "habilidade": "H7",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Plano cartesiano",
+     "alternativas": {
+      "A": "7 m",
+      "B": "(2, 5)",
+      "C": "5 m",
+      "D": "200 m para leste e 50 m para norte",
+      "E": "(-3, 2)"
+     },
+     "comentarios_por_alternativa": {
+      "A": "As diferenças são 3 m e 4 m. Usando Pitágoras, √(9 + 16) = 5.",
+      "B": "Essa resposta descreve um caso de ponto médio. As diferenças são 3 m e 4 m. Usando Pitágoras, √(9 + 16) = 5.",
+      "C": "Correta. As diferenças são 3 m e 4 m. Usando Pitágoras, √(9 + 16) = 5.",
+      "D": "Essa resposta descreve um caso de escala dos eixos. As diferenças são 3 m e 4 m. Usando Pitágoras, √(9 + 16) = 5.",
+      "E": "Essa resposta descreve um caso de ordem das coordenadas. As diferenças são 3 m e 4 m. Usando Pitágoras, √(9 + 16) = 5."
+     },
+     "comentario": "A) As diferenças são 3 m e 4 m. Usando Pitágoras, √(9 + 16) = 5.\nB) Essa resposta descreve um caso de ponto médio. As diferenças são 3 m e 4 m. Usando Pitágoras, √(9 + 16) = 5.\nC) Correta. As diferenças são 3 m e 4 m. Usando Pitágoras, √(9 + 16) = 5.\nD) Essa resposta descreve um caso de escala dos eixos. As diferenças são 3 m e 4 m. Usando Pitágoras, √(9 + 16) = 5.\nE) Essa resposta descreve um caso de ordem das coordenadas. As diferenças são 3 m e 4 m. Usando Pitágoras, √(9 + 16) = 5."
+    },
+    {
+     "id": "enem-plano-cartesiano-c14-q08",
+     "tipo": "me",
+     "texto_base": "Um banco ficará no meio do segmento entre (-2,3) e (6,7).",
+     "enunciado": "Em que ponto ficará o banco?",
+     "gabarito": "D",
+     "habilidade": "H7",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos/geométricos — Plano cartesiano",
+     "alternativas": {
+      "A": "(4, 10)",
+      "B": "200 m para leste e 50 m para norte",
+      "C": "(-3, 2)",
+      "D": "(2, 5)",
+      "E": "No eixo y abaixo da origem"
+     },
+     "comentarios_por_alternativa": {
+      "A": "As médias são (-2 + 6)/2 = 2 e (3 + 7)/2 = 5.",
+      "B": "Essa resposta descreve um caso de escala dos eixos. As médias são (-2 + 6)/2 = 2 e (3 + 7)/2 = 5.",
+      "C": "Essa resposta descreve um caso de ordem das coordenadas. As médias são (-2 + 6)/2 = 2 e (3 + 7)/2 = 5.",
+      "D": "Correta. As médias são (-2 + 6)/2 = 2 e (3 + 7)/2 = 5.",
+      "E": "Essa resposta descreve um caso de quadrantes e eixos. As médias são (-2 + 6)/2 = 2 e (3 + 7)/2 = 5."
+     },
+     "comentario": "A) As médias são (-2 + 6)/2 = 2 e (3 + 7)/2 = 5.\nB) Essa resposta descreve um caso de escala dos eixos. As médias são (-2 + 6)/2 = 2 e (3 + 7)/2 = 5.\nC) Essa resposta descreve um caso de ordem das coordenadas. As médias são (-2 + 6)/2 = 2 e (3 + 7)/2 = 5.\nD) Correta. As médias são (-2 + 6)/2 = 2 e (3 + 7)/2 = 5.\nE) Essa resposta descreve um caso de quadrantes e eixos. As médias são (-2 + 6)/2 = 2 e (3 + 7)/2 = 5."
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Um avatar aparece três unidades à esquerda e duas acima da origem. Qual é o par ordenado? Resposta: ___.",
+     "opcoes": [
+      "(-3, 2)",
+      "(2, -3)",
+      "No eixo y abaixo da origem"
+     ],
+     "respostas": [
+      "(-3, 2)"
+     ],
+     "explicacao": "À esquerda, x é negativo. Acima da origem, y é positivo."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Num mapa quadriculado, um quadrado vale 100 m no eixo horizontal e 50 m no vertical. Uma rota vai dois quadrados para leste e um para norte. Quais as componentes do deslocamento? Resposta: ___.",
+     "opcoes": [
+      "200 m para leste e 50 m para norte",
+      "200 m para leste e 100 m para norte",
+      "(-3, 2)"
+     ],
+     "respostas": [
+      "200 m para leste e 50 m para norte"
+     ],
+     "explicacao": "Multiplica-se a quantidade de quadrados pelo valor de cada escala, separadamente."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a leitura do caso. Dois pontos de um mapa estão em (1,2) e (4,6), com coordenadas em metros. Qual é a distância em linha reta?",
+     "itens": [
+      "Identificar o que a pergunta pede.",
+      "Separar os dados relevantes.",
+      "Relacionar os dados ao conceito.",
+      "Conferir a conclusão."
+     ],
+     "explicacao": "As diferenças são 3 m e 4 m. Usando Pitágoras, √(9 + 16) = 5."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Ordem das coordenadas",
+       "Em (x,y), a primeira coordenada mede a posição horizontal e a segunda mede a posição vertical."
+      ],
+      [
+       "Quadrantes e eixos",
+       "Os sinais não nulos determinam o quadrante. Pontos com uma coordenada nula ficam sobre um eixo."
+      ],
+      [
+       "Deslocamento",
+       "A diferença entre as coordenadas final e inicial descreve o deslocamento em cada eixo."
+      ],
+      [
+       "Distância",
+       "A distância entre pontos pode ser calculada pelos catetos dados pelas diferenças de coordenadas."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

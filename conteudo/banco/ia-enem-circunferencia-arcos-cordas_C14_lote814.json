@@ -1,0 +1,251 @@
+{
+ "assunto": "Circunferências: raios, arcos, cordas e tangentes",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-circunferencia-arcos-cordas-c14",
+   "titulo": "Circunferências: raios, arcos, cordas e tangentes",
+   "microconteudo": "RAIO-X DA PROVA: Use as relações entre raio, diâmetro, corda, arco, tangente e ângulos associados à circunferência.\n\nPOR QUE IMPORTA:\nPistas circulares, rodas e setores de um mostrador envolvem distâncias até o centro e comprimentos de arcos. Na prova, o cálculo depende de identificar qual grandeza a figura representa.\n\nO QUE A BANCA COBRA:\nUse as relações entre raio, diâmetro, corda, arco, tangente e ângulos associados à circunferência.\n\nENTENDA:\n1. Raio e diâmetro\n\nUma tampa circular tem 36 cm de uma borda à outra em uma linha que passa pelo centro. Qual é o raio? Para decidir, precisamos deste conceito: O diâmetro é uma corda que passa pelo centro e mede duas vezes o raio. No caso apresentado, a resposta é **18 cm**. A medida indicada é o diâmetro; metade de 36 cm é 18 cm.\n\nUma leitura que pode parecer plausível é “72 cm”. Compare essa hipótese com o que a situação descreve. A medida indicada é o diâmetro; metade de 36 cm é 18 cm. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n2. Comprimento da circunferência\n\nUma pista circular tem raio de 15 m, medido até o centro da faixa de corrida. Qual a distância percorrida em uma volta nessa linha? Para decidir, precisamos deste conceito: O comprimento da volta completa de raio r é 2πr. No caso apresentado, a resposta é **30π m**. Substituir r = 15 m em 2πr dá 30π m, unidade de comprimento.\n\nUma leitura que pode parecer plausível é “225π m”. Compare essa hipótese com o que a situação descreve. Substituir r = 15 m em 2πr dá 30π m, unidade de comprimento. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n3. Comprimento de arco\n\nUma roda de raio 12 cm tem uma faixa pintada que ocupa um arco de 90°. Quanto mede essa faixa ao longo da borda? Para decidir, precisamos deste conceito: Um arco de ângulo central θ em graus mede θ/360 vezes o comprimento da volta. No caso apresentado, a resposta é **6π cm**. O arco representa um quarto da volta, que mede 24π cm.\n\nUma leitura que pode parecer plausível é “12π cm”. Compare essa hipótese com o que a situação descreve. O arco representa um quarto da volta, que mede 24π cm. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n4. Corda e centro\n\nUma corda de 16 cm está a 6 cm do centro de uma circunferência. Qual é o raio da circunferência? Para decidir, precisamos deste conceito: Uma perpendicular do centro a uma corda divide a corda ao meio. No caso apresentado, a resposta é **10 cm**. O raio é a hipotenusa do triângulo de catetos 8 e 6 cm: √(64 + 36) = 10 cm.\n\nUma leitura que pode parecer plausível é “22 cm”. Compare essa hipótese com o que a situação descreve. O raio é a hipotenusa do triângulo de catetos 8 e 6 cm: √(64 + 36) = 10 cm. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n5. Tangente\n\nUma régua reta toca uma peça circular em apenas um ponto. Liga-se esse ponto ao centro da peça. Qual é o ângulo entre régua e raio? Para decidir, precisamos deste conceito: A reta tangente é perpendicular ao raio traçado até o ponto de tangência. No caso apresentado, a resposta é **90°**. No ponto de contato, a tangente faz ângulo reto com o raio.\n\nUma leitura que pode parecer plausível é “45°”. Compare essa hipótese com o que a situação descreve. No ponto de contato, a tangente faz ângulo reto com o raio. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n6. Ângulo inscrito\n\nO ângulo inscrito ACB intercepta o arco AB de 124° que não contém C. Quanto mede ACB? Para decidir, precisamos deste conceito: Um ângulo inscrito com vértice na circunferência mede metade do arco que intercepta. No caso apresentado, a resposta é **62°**. A relação entre ângulo inscrito e arco interceptado é 1 para 2.\n\nUma leitura que pode parecer plausível é “124°”. Compare essa hipótese com o que a situação descreve. A relação entre ângulo inscrito e arco interceptado é 1 para 2. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\nTROCANDO EM MIÚDOS:\n**Raio e diâmetro.** O diâmetro é uma corda que passa pelo centro e mede duas vezes o raio. Tente resolver esta situação: Uma tampa circular tem 36 cm de uma borda à outra em uma linha que passa pelo centro. Qual é o raio? Confira: 18 cm. A medida indicada é o diâmetro; metade de 36 cm é 18 cm.\n\n**Comprimento da circunferência.** O comprimento da volta completa de raio r é 2πr. Tente resolver esta situação: Uma pista circular tem raio de 15 m, medido até o centro da faixa de corrida. Qual a distância percorrida em uma volta nessa linha? Confira: 30π m. Substituir r = 15 m em 2πr dá 30π m, unidade de comprimento.\n\n**Comprimento de arco.** Um arco de ângulo central θ em graus mede θ/360 vezes o comprimento da volta. Tente resolver esta situação: Uma roda de raio 12 cm tem uma faixa pintada que ocupa um arco de 90°. Quanto mede essa faixa ao longo da borda? Confira: 6π cm. O arco representa um quarto da volta, que mede 24π cm.\n\n**Corda e centro.** Uma perpendicular do centro a uma corda divide a corda ao meio. Tente resolver esta situação: Uma corda de 16 cm está a 6 cm do centro de uma circunferência. Qual é o raio da circunferência? Confira: 10 cm. O raio é a hipotenusa do triângulo de catetos 8 e 6 cm: √(64 + 36) = 10 cm.\n\n**Tangente.** A reta tangente é perpendicular ao raio traçado até o ponto de tangência. Tente resolver esta situação: Uma régua reta toca uma peça circular em apenas um ponto. Liga-se esse ponto ao centro da peça. Qual é o ângulo entre régua e raio? Confira: 90°. No ponto de contato, a tangente faz ângulo reto com o raio.\n\n**Ângulo inscrito.** Um ângulo inscrito com vértice na circunferência mede metade do arco que intercepta. Tente resolver esta situação: O ângulo inscrito ACB intercepta o arco AB de 124° que não contém C. Quanto mede ACB? Confira: 62°. A relação entre ângulo inscrito e arco interceptado é 1 para 2.\n\nESQUEMA:\n• Raio e diâmetro → O diâmetro é uma corda que passa pelo centro e mede duas vezes o raio.\n• Comprimento da circunferência → O comprimento da volta completa de raio r é 2πr.\n• Comprimento de arco → Um arco de ângulo central θ em graus mede θ/360 vezes o comprimento da volta.\n• Corda e centro → Uma perpendicular do centro a uma corda divide a corda ao meio.\n• Tangente → A reta tangente é perpendicular ao raio traçado até o ponto de tangência.\n• Ângulo inscrito → Um ângulo inscrito com vértice na circunferência mede metade do arco que intercepta.\n\nPEGADINHAS:\n• Raio e diâmetro: ao ler “72 cm”, confira o que o enunciado permite concluir.\n• Comprimento da circunferência: ao ler “225π m”, confira o que o enunciado permite concluir.\n• Comprimento de arco: ao ler “12π cm”, confira o que o enunciado permite concluir.\n• Corda e centro: ao ler “22 cm”, confira o que o enunciado permite concluir.\n• Tangente: ao ler “45°”, confira o que o enunciado permite concluir.\n• Ângulo inscrito: ao ler “124°”, confira o que o enunciado permite concluir.\n\nNA PRÁTICA:\nO ângulo inscrito ACB intercepta o arco AB de 124° que não contém C. Quanto mede ACB? **Resposta:** 62°. A relação entre ângulo inscrito e arco interceptado é 1 para 2.",
+   "flashcards": [
+    {
+     "frente": "Como reconhecer raio e diâmetro?",
+     "verso": "O diâmetro é uma corda que passa pelo centro e mede duas vezes o raio.",
+     "dispositivo": "Conhecimentos geométricos — Circunferências"
+    },
+    {
+     "frente": "Como reconhecer comprimento da circunferência?",
+     "verso": "O comprimento da volta completa de raio r é 2πr.",
+     "dispositivo": "Conhecimentos geométricos — Circunferências"
+    },
+    {
+     "frente": "Como reconhecer comprimento de arco?",
+     "verso": "Um arco de ângulo central θ em graus mede θ/360 vezes o comprimento da volta.",
+     "dispositivo": "Conhecimentos geométricos — Circunferências"
+    },
+    {
+     "frente": "Como reconhecer corda e centro?",
+     "verso": "Uma perpendicular do centro a uma corda divide a corda ao meio.",
+     "dispositivo": "Conhecimentos geométricos — Circunferências"
+    },
+    {
+     "frente": "Como reconhecer tangente?",
+     "verso": "A reta tangente é perpendicular ao raio traçado até o ponto de tangência.",
+     "dispositivo": "Conhecimentos geométricos — Circunferências"
+    },
+    {
+     "frente": "Como reconhecer ângulo inscrito?",
+     "verso": "Um ângulo inscrito com vértice na circunferência mede metade do arco que intercepta.",
+     "dispositivo": "Conhecimentos geométricos — Circunferências"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-circunferencia-arcos-cordas-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Uma roda tem raio de 9 cm.",
+     "enunciado": "Seu diâmetro mede 18 cm.",
+     "gabarito": "C",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Circunferências",
+     "comentario": "O diâmetro mede dois raios."
+    },
+    {
+     "id": "enem-circunferencia-arcos-cordas-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Uma volta circular de raio 5 m será demarcada com uma fita.",
+     "enunciado": "O comprimento necessário é 25π m.",
+     "gabarito": "E",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Circunferências",
+     "comentario": "A volta mede 10π m. O número 25π corresponde à área do disco em m²."
+    },
+    {
+     "id": "enem-circunferencia-arcos-cordas-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Uma reta tangente encontra o raio no ponto em que toca a circunferência.",
+     "enunciado": "Nesse ponto, os dois formam um ângulo de 30°.",
+     "gabarito": "E",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Circunferências",
+     "comentario": "A tangente é perpendicular ao raio no ponto de contato."
+    },
+    {
+     "id": "enem-circunferencia-arcos-cordas-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Um arco corresponde a 180° do ângulo central.",
+     "enunciado": "Ele ocupa metade do comprimento total da circunferência.",
+     "gabarito": "C",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Circunferências",
+     "comentario": "Sua fração do total é 180/360."
+    },
+    {
+     "id": "enem-circunferencia-arcos-cordas-c14-q05",
+     "tipo": "me",
+     "texto_base": "Uma pista circular tem raio de 15 m, medido até o centro da faixa de corrida.",
+     "enunciado": "Qual a distância percorrida em uma volta nessa linha?",
+     "gabarito": "A",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Circunferências",
+     "alternativas": {
+      "A": "30π m",
+      "B": "225π m",
+      "C": "6π cm",
+      "D": "10 cm",
+      "E": "90°"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Substituir r = 15 m em 2πr dá 30π m, unidade de comprimento.",
+      "B": "Essa leitura falha neste caso. Substituir r = 15 m em 2πr dá 30π m, unidade de comprimento.",
+      "C": "Essa resposta se relaciona a comprimento de arco. Aqui, a pista decisiva é outra. Substituir r = 15 m em 2πr dá 30π m, unidade de comprimento.",
+      "D": "Essa resposta se relaciona a corda e centro. Aqui, a pista decisiva é outra. Substituir r = 15 m em 2πr dá 30π m, unidade de comprimento.",
+      "E": "Essa resposta se relaciona a tangente. Aqui, a pista decisiva é outra. Substituir r = 15 m em 2πr dá 30π m, unidade de comprimento."
+     },
+     "comentario": "A) Correta. Substituir r = 15 m em 2πr dá 30π m, unidade de comprimento.\nB) Essa leitura falha neste caso. Substituir r = 15 m em 2πr dá 30π m, unidade de comprimento.\nC) Essa resposta se relaciona a comprimento de arco. Aqui, a pista decisiva é outra. Substituir r = 15 m em 2πr dá 30π m, unidade de comprimento.\nD) Essa resposta se relaciona a corda e centro. Aqui, a pista decisiva é outra. Substituir r = 15 m em 2πr dá 30π m, unidade de comprimento.\nE) Essa resposta se relaciona a tangente. Aqui, a pista decisiva é outra. Substituir r = 15 m em 2πr dá 30π m, unidade de comprimento."
+    },
+    {
+     "id": "enem-circunferencia-arcos-cordas-c14-q06",
+     "tipo": "me",
+     "texto_base": "Uma roda de raio 12 cm tem uma faixa pintada que ocupa um arco de 90°.",
+     "enunciado": "Quanto mede essa faixa ao longo da borda?",
+     "gabarito": "B",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Circunferências",
+     "alternativas": {
+      "A": "12π cm",
+      "B": "6π cm",
+      "C": "10 cm",
+      "D": "90°",
+      "E": "62°"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Essa leitura falha neste caso. O arco representa um quarto da volta, que mede 24π cm.",
+      "B": "Correta. O arco representa um quarto da volta, que mede 24π cm.",
+      "C": "Essa resposta se relaciona a corda e centro. Aqui, a pista decisiva é outra. O arco representa um quarto da volta, que mede 24π cm.",
+      "D": "Essa resposta se relaciona a tangente. Aqui, a pista decisiva é outra. O arco representa um quarto da volta, que mede 24π cm.",
+      "E": "Essa resposta se relaciona a ângulo inscrito. Aqui, a pista decisiva é outra. O arco representa um quarto da volta, que mede 24π cm."
+     },
+     "comentario": "A) Essa leitura falha neste caso. O arco representa um quarto da volta, que mede 24π cm.\nB) Correta. O arco representa um quarto da volta, que mede 24π cm.\nC) Essa resposta se relaciona a corda e centro. Aqui, a pista decisiva é outra. O arco representa um quarto da volta, que mede 24π cm.\nD) Essa resposta se relaciona a tangente. Aqui, a pista decisiva é outra. O arco representa um quarto da volta, que mede 24π cm.\nE) Essa resposta se relaciona a ângulo inscrito. Aqui, a pista decisiva é outra. O arco representa um quarto da volta, que mede 24π cm."
+    },
+    {
+     "id": "enem-circunferencia-arcos-cordas-c14-q07",
+     "tipo": "me",
+     "texto_base": "Uma corda de 16 cm está a 6 cm do centro de uma circunferência.",
+     "enunciado": "Qual é o raio da circunferência?",
+     "gabarito": "C",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Circunferências",
+     "alternativas": {
+      "A": "22 cm",
+      "B": "90°",
+      "C": "10 cm",
+      "D": "62°",
+      "E": "18 cm"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Essa leitura falha neste caso. O raio é a hipotenusa do triângulo de catetos 8 e 6 cm: √(64 + 36) = 10 cm.",
+      "B": "Essa resposta se relaciona a tangente. Aqui, a pista decisiva é outra. O raio é a hipotenusa do triângulo de catetos 8 e 6 cm: √(64 + 36) = 10 cm.",
+      "C": "Correta. O raio é a hipotenusa do triângulo de catetos 8 e 6 cm: √(64 + 36) = 10 cm.",
+      "D": "Essa resposta se relaciona a ângulo inscrito. Aqui, a pista decisiva é outra. O raio é a hipotenusa do triângulo de catetos 8 e 6 cm: √(64 + 36) = 10 cm.",
+      "E": "Essa resposta se relaciona a raio e diâmetro. Aqui, a pista decisiva é outra. O raio é a hipotenusa do triângulo de catetos 8 e 6 cm: √(64 + 36) = 10 cm."
+     },
+     "comentario": "A) Essa leitura falha neste caso. O raio é a hipotenusa do triângulo de catetos 8 e 6 cm: √(64 + 36) = 10 cm.\nB) Essa resposta se relaciona a tangente. Aqui, a pista decisiva é outra. O raio é a hipotenusa do triângulo de catetos 8 e 6 cm: √(64 + 36) = 10 cm.\nC) Correta. O raio é a hipotenusa do triângulo de catetos 8 e 6 cm: √(64 + 36) = 10 cm.\nD) Essa resposta se relaciona a ângulo inscrito. Aqui, a pista decisiva é outra. O raio é a hipotenusa do triângulo de catetos 8 e 6 cm: √(64 + 36) = 10 cm.\nE) Essa resposta se relaciona a raio e diâmetro. Aqui, a pista decisiva é outra. O raio é a hipotenusa do triângulo de catetos 8 e 6 cm: √(64 + 36) = 10 cm."
+    },
+    {
+     "id": "enem-circunferencia-arcos-cordas-c14-q08",
+     "tipo": "me",
+     "texto_base": "Uma régua reta toca uma peça circular em apenas um ponto. Liga-se esse ponto ao centro da peça.",
+     "enunciado": "Qual é o ângulo entre régua e raio?",
+     "gabarito": "D",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Circunferências",
+     "alternativas": {
+      "A": "45°",
+      "B": "62°",
+      "C": "18 cm",
+      "D": "90°",
+      "E": "30π m"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Essa leitura falha neste caso. No ponto de contato, a tangente faz ângulo reto com o raio.",
+      "B": "Essa resposta se relaciona a ângulo inscrito. Aqui, a pista decisiva é outra. No ponto de contato, a tangente faz ângulo reto com o raio.",
+      "C": "Essa resposta se relaciona a raio e diâmetro. Aqui, a pista decisiva é outra. No ponto de contato, a tangente faz ângulo reto com o raio.",
+      "D": "Correta. No ponto de contato, a tangente faz ângulo reto com o raio.",
+      "E": "Essa resposta se relaciona a comprimento da circunferência. Aqui, a pista decisiva é outra. No ponto de contato, a tangente faz ângulo reto com o raio."
+     },
+     "comentario": "A) Essa leitura falha neste caso. No ponto de contato, a tangente faz ângulo reto com o raio.\nB) Essa resposta se relaciona a ângulo inscrito. Aqui, a pista decisiva é outra. No ponto de contato, a tangente faz ângulo reto com o raio.\nC) Essa resposta se relaciona a raio e diâmetro. Aqui, a pista decisiva é outra. No ponto de contato, a tangente faz ângulo reto com o raio.\nD) Correta. No ponto de contato, a tangente faz ângulo reto com o raio.\nE) Essa resposta se relaciona a comprimento da circunferência. Aqui, a pista decisiva é outra. No ponto de contato, a tangente faz ângulo reto com o raio."
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Uma tampa circular tem 36 cm de uma borda à outra em uma linha que passa pelo centro. Qual é o raio? Resposta: ___.",
+     "opcoes": [
+      "18 cm",
+      "72 cm",
+      "6π cm"
+     ],
+     "respostas": [
+      "18 cm"
+     ],
+     "explicacao": "A medida indicada é o diâmetro; metade de 36 cm é 18 cm."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "O ângulo inscrito ACB intercepta o arco AB de 124° que não contém C. Quanto mede ACB? Resposta: ___.",
+     "opcoes": [
+      "62°",
+      "124°",
+      "30π m"
+     ],
+     "respostas": [
+      "62°"
+     ],
+     "explicacao": "A relação entre ângulo inscrito e arco interceptado é 1 para 2."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a resolução do caso de comprimento de arco. Uma roda de raio 12 cm tem uma faixa pintada que ocupa um arco de 90°. Quanto mede essa faixa ao longo da borda?",
+     "itens": [
+      "Identificar o que a pergunta quer saber.",
+      "Relacionar as pistas ao conceito estudado.",
+      "Formular a resposta sustentada pelas pistas.",
+      "Conferir se a resposta atende à pergunta."
+     ],
+     "explicacao": "O arco representa um quarto da volta, que mede 24π cm."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Raio e diâmetro",
+       "O diâmetro é uma corda que passa pelo centro e mede duas vezes o raio."
+      ],
+      [
+       "Comprimento da circunferência",
+       "O comprimento da volta completa de raio r é 2πr."
+      ],
+      [
+       "Comprimento de arco",
+       "Um arco de ângulo central θ em graus mede θ/360 vezes o comprimento da volta."
+      ],
+      [
+       "Corda e centro",
+       "Uma perpendicular do centro a uma corda divide a corda ao meio."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

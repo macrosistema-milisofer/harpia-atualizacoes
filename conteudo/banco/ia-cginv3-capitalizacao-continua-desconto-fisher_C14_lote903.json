@@ -1,0 +1,235 @@
+{
+ "assunto": "Capitalização contínua, desconto bancário e equação de Fisher",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "cginv3-c14-capitalizacao-continua-desconto-fisher",
+   "titulo": "Capitalização contínua, desconto bancário e equação de Fisher",
+   "microconteudo": "RAIO-X DA PROVA: Identifique se a taxa é contínua, se o desconto incide sobre o valor nominal ou se a comparação deve descontar a inflação.\n\nPOR QUE IMPORTA:\nA análise financeira de um RPPS exige comparar valores em datas e bases compatíveis. Identifique se a taxa é contínua, se o desconto incide sobre o valor nominal ou se a comparação deve descontar a inflação.\n\nO QUE A BANCA COBRA:\nIdentifique se a taxa é contínua, se o desconto incide sobre o valor nominal ou se a comparação deve descontar a inflação.\n\nENTENDA:\nNa capitalização contínua, uma taxa constante δ por unidade de tempo gera fator e^(δt). A letra e representa a base do logaritmo natural, aproximadamente 2,71828. O expoente δt não tem unidade: uma taxa anual exige que t seja expresso em anos. Para transportar o valor no sentido inverso, use e^(−δt). Esse modelo surge do limite de (1 + δ/m)^(mt) quando a frequência de capitalização m cresce sem limite. O principal, o horizonte e a taxa nominal anual mantêm-se fixos nessa comparação. Se o que se mantém fixo é o fator efetivo anual, a taxa da base precisa ser convertida.\n\nPara encontrar a taxa efetiva anual de δ = 8% contínuos ao ano, calcule e^0,08 − 1, cerca de 8,3287%. Para achar a contínua equivalente a 8% efetivos anuais, calcule ln(1,08), cerca de 7,6961%. Os dois resultados respondem a perguntas inversas com bases diferentes. Para um fluxo de R$ 100 mil por 18 meses a 8% contínuos anuais, o fator é e^(0,08 × 1,5) = e^0,12 e o montante aproxima-se de R$ 112.749,69. O prazo de 18 meses não entra diretamente no expoente porque a taxa é anual. Quando as forças de juros mudam entre intervalos, pode-se somar δ_k × t_k no expoente, porque o produto de exponenciais soma expoentes. Isso também permite decompor retornos logarítmicos consecutivos.\n\nO desconto bancário simples, chamado desconto comercial ou por fora, tem outra base: o valor nominal N do título. Com taxa de desconto d por período e prazo n, D = Ndn, e o valor liberado A = N(1 − dn). A hipótese usual para fluxos com valor liberado positivo exige dn < 1. Para um título de R$ 100 mil, antecipado quatro meses à taxa de 2% ao mês, o desconto é R$ 8 mil e o valor líquido, sem outras despesas, é R$ 92 mil. O devedor devolve R$ 100 mil na data final. O custo efetivo acumulado tem como base o que recebeu: 100.000/92.000 − 1 = 8,6957%. Os 8% incidem sobre o valor de face e os 8,6957% sobre o valor liberado.\n\nNo desconto racional simples, VP = N/(1+in). Para o mesmo valor nominal de R$ 100 mil, 2% ao mês e quatro meses, o valor presente racional é R$ 92.592,59. O desconto bancário é maior nas hipóteses de taxa positiva e dn < 1, se os percentuais numéricos usados forem iguais. A diferença das bases explica o resultado. Para tornar os métodos equivalentes, busque a taxa que iguala os valores liberados. Com d = 2% e n = 4, n vezes a taxa racional correspondente é 1/0,92 − 1. Logo, a taxa racional simples por mês é cerca de 2,1739%. Se a questão quiser uma taxa composta mensal equivalente, use (100.000/92.000)^(1/4) − 1. Os resultados são distintos porque a primeira distribuição é linear e a segunda exige fator igual em cada mês.\n\nTaxa nominal, na equação de Fisher, é a taxa observada em moeda corrente. A taxa real mede a mudança do poder de compra. Se i_nom é o retorno nominal e π a inflação do mesmo período, vale 1+i_nom = (1+i_real)(1+π). A fórmula pode ser isolada como i_real = (1+i_nom)/(1+π) − 1. Uma carteira rende 12% enquanto a inflação é 5%. O ganho real é 1,12/1,05 − 1 = 6,6667%. A subtração 12% − 5% = 7% é aproximação, com diferença de aproximadamente 0,3333 ponto percentual. Expandir o produto esclarece a origem da diferença: o retorno nominal inclui a inflação, o retorno real e o termo cruzado entre ambos.\n\nUm título indexado a IPCA mais 6% reais ao ano, com inflação de 4% no mesmo horizonte, acumularia em modelo simplificado (1,04)(1,06) − 1 = 10,24% nominais. Se houver cupons, defasagem do índice, imposto ou venda antes do vencimento, o retorno realizado pode divergir dessa conta. A marcação a mercado altera o preço de saída, enquanto a fórmula de Fisher apenas muda a base de mensuração de um fator. Em um exemplo didático com resgate certo, use a inflação efetivamente realizada para calcular retorno real ex post. Para uma projeção ex ante, use a hipótese de inflação esperada e identifique sua natureza.\n\nEm outros enunciados, nominal pode designar uma taxa anual cotada com frequência de capitalização inferior a um ano. Essa acepção difere da usada em Fisher. Uma taxa nominal de 12% ao ano capitalizada mensalmente fornece 1% por mês e cerca de 12,68% anuais efetivos. Uma taxa ex post de 12% em moeda corrente já pode ser efetiva no período. Para deflacionar a primeira cotação, converta antes para efetiva anual. Dividir 1,12 por 1,05 a partir da cotação com capitalização mensal ignoraria os efeitos de compor os doze períodos.\n\nCompare ainda taxas reais negativas sem confiar apenas no sinal do ganho nominal. Uma aplicação que sobe de R$ 20 mil para R$ 20.800 ganhou 4% nominais. Se os preços sobem 6%, conservar o poder de compra requer R$ 21.200. Medido em reais do início da análise, o valor final é R$ 20.800/1,06, cerca de R$ 19.622,64. A perda real é cerca de R$ 377,36 em preços iniciais. Se a inflação for negativa, o retorno real pode superar o nominal. Com retorno nominal zero e deflação de 2%, o ganho real é cerca de 2,04%, pois a mesma quantia compra mais.\n\nA aplicação de um índice depende do objeto medido. Um índice de preços é uma referência de variação média e pode divergir da cesta de despesas efetivas do regime. Se a questão indica IPCA, use esse índice sem substituí-lo por taxas interbancárias ou por meta atuarial. No trabalho do comitê, identifique rendimento bruto ou líquido, período do indicador e objetivo da comparação. Mostrar o ganho em moeda corrente e o ganho em poder de compra na mesma apresentação ajuda a evitar conclusões conflitantes. A mesma carteira pode crescer em reais correntes e perder poder de compra sem qualquer erro aritmético.\n\nA diferença entre as taxas também aparece quando se encadeiam janelas menores. Para duas etapas com taxas contínuas de 6% e 10% anuais, cada uma aplicada por seis meses, o expoente anual total é 0,06 × 0,5 + 0,10 × 0,5 = 0,08. A taxa efetiva anual é, portanto, e^0,08 − 1. Já se 6% e 10% forem taxas anuais efetivas para cada etapa, primeiro extraia o fator semestral de cada uma e multiplique os fatores obtidos. A média aritmética direta das taxas efetivas anuais não reconstrói exatamente essa trajetória. A diferença pode ser pequena em taxas próximas, mas o contrato ou a questão determina qual operação é correta.\n\nUma operação bancária com tarifa na origem ilustra outra variação de base. Retome o exemplo de R$ 100 mil descontado para R$ 92 mil. Se a tarifa adicional retida for R$ 500, o tomador recebe R$ 91.500. O custo até o vencimento fica em 100.000/91.500 − 1, aproximadamente 9,29%. A tarifa entra na data em que é cobrada. Se fosse paga no vencimento, o valor líquido de origem permaneceria R$ 92 mil e a saída final aumentaria. Os dois calendários podem cobrar a mesma tarifa nominal e, ainda assim, produzir custos efetivos distintos. Para identificar o custo, marque cada cobrança na data de pagamento e faça a conta com as entradas e saídas líquidas.\n\nPor fim, verifique o sentido da operação. Uma taxa contínua positiva gera fator futuro maior que um. Um desconto bancário com taxa positiva e líquido positivo produz valor liberado menor que o nominal. Um ganho real positivo exige fator nominal superior ao fator de preços. Esses três testes detectam trocas de sinal antes de interpretar a resposta.\n\nTROCANDO EM MIÚDOS:\nUm modo de separar os três temas é perguntar sobre a base. Na capitalização contínua você recebe uma taxa que entra no expoente. Use o prazo na mesma unidade. Se a taxa é 8% ao ano e o prazo é meio ano, o expoente vale 0,04. O fator é e elevado a 0,04. Uma taxa contínua de 8% não significa que o valor cresceu exatamente 8% em um ano. A taxa efetiva vem do fator calculado ao final.\n\nNo desconto por fora, o percentual incide sobre o valor que vence daqui a algum tempo. Se um documento de R$ 1.000 sofre desconto total de 10%, a pessoa recebe R$ 900. Na data final, os R$ 100 de diferença representam 11,11% dos R$ 900 recebidos. Quem compara o custo com um empréstimo comum deve olhar para o dinheiro que de fato entrou. Se houver cobrança adicional na origem, o valor líquido cai e o custo efetivo aumenta, mantidas as outras condições.\n\nNa taxa real, a pergunta é quanto o dinheiro consegue comprar. Se a aplicação cresceu 10% e os preços subiram 5%, as duas variações ocorrem sobre bases próprias. A forma exata é dividir 1,10 por 1,05 e tirar 1. Isso dá cerca de 4,76%. Em uma questão que pede o resultado exato, subtrair 5 de 10 deixa de considerar como as variações se combinam.\n\nCompare sempre datas iguais. Se o investimento mostra retorno de seis meses, a inflação para o cálculo real deve cobrir os mesmos seis meses. Se o enunciado entrega uma taxa total e pede a mensal, confira se o regime é simples, composto ou contínuo. Uma taxa mensal pode ser calculada por divisão, raiz ou logaritmo, dependendo do que o problema chama de taxa e do fator que ela deve representar.\n\nNa hora de conferir a resposta, identifique se a taxa fala sobre rendimento, desconto ou poder de compra. Cada uma usa uma base diferente.\n\nESQUEMA:\nContínua → e^(δt). Bancário → D sobre N. Real → razão entre fator nominal e fator de preços.\n\nPEGADINHAS:\n• Usar meses com taxa contínua anual\n• Confundir cotação contínua e efetiva\n• Calcular o custo da antecipação sobre o valor de face\n• Subtrair inflação em questão exata\n• Misturar taxa mensal com inflação anual\n\nDOUTRINA:\nOpenStax, Principles of Finance, capítulos 7, 8 e 16. A escolha da data focal, do regime de capitalização e da trajetória dos fluxos determina a comparação econômica.\n\nNA PRÁTICA:\nUm título de R$ 50.000 é descontado por fora, a 2% ao mês por três meses. O valor líquido é R$ 47.000, sem tarifas. O custo nominal acumulado é 50.000/47.000 − 1 ≈ 6,383%. Com inflação acumulada de 2% nos mesmos três meses, o custo real aproximado é 1,06383/1,02 − 1 = 4,30%.",
+   "flashcards": [
+    {
+     "frente": "Qual fator de desconto contínuo?",
+     "verso": "e^(−δt).",
+     "dispositivo": "Capitalização contínua, desconto bancário e equação de Fisher"
+    },
+    {
+     "frente": "O que significa d no desconto bancário?",
+     "verso": "Taxa de desconto incidente sobre o nominal, por período.",
+     "dispositivo": "Capitalização contínua, desconto bancário e equação de Fisher"
+    },
+    {
+     "frente": "Qual a base do custo efetivo do tomador?",
+     "verso": "O valor líquido que ele recebeu.",
+     "dispositivo": "Capitalização contínua, desconto bancário e equação de Fisher"
+    },
+    {
+     "frente": "Qual a forma exata do fator real?",
+     "verso": "Dividir fator nominal pelo fator de inflação.",
+     "dispositivo": "Capitalização contínua, desconto bancário e equação de Fisher"
+    },
+    {
+     "frente": "O que é retorno real ex post?",
+     "verso": "Retorno nominal deflacionado pela inflação realizada no período.",
+     "dispositivo": "Capitalização contínua, desconto bancário e equação de Fisher"
+    },
+    {
+     "frente": "Qual força contínua equivale à taxa efetiva i por período?",
+     "verso": "ln(1+i).",
+     "dispositivo": "Capitalização contínua, desconto bancário e equação de Fisher"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A força contínua anual equivalente a uma taxa efetiva de 10% ao ano é ln(1,10).",
+     "gabarito": "C",
+     "comentario": "Ambas geram o fator anual 1,10.",
+     "dificuldade": "media",
+     "id": "cginv3-c14-capitalizacao-continua-desconto-fisher-q01",
+     "dispositivo": "Capitalização contínua, desconto bancário e equação de Fisher"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Em desconto bancário simples, a taxa incide sobre o valor liberado.",
+     "gabarito": "E",
+     "comentario": "O desconto por fora incide sobre o valor nominal.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-capitalizacao-continua-desconto-fisher-q02",
+     "dispositivo": "Capitalização contínua, desconto bancário e equação de Fisher"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Retorno nominal de 12% com inflação de 8% implica retorno real exato de 4%.",
+     "gabarito": "E",
+     "comentario": "O cálculo exato é 1,12/1,08 − 1, cerca de 3,70%.",
+     "dificuldade": "media",
+     "id": "cginv3-c14-capitalizacao-continua-desconto-fisher-q03",
+     "dispositivo": "Capitalização contínua, desconto bancário e equação de Fisher"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Sob inflação de 5%, um retorno nominal de 3% corresponde a retorno real negativo.",
+     "gabarito": "C",
+     "comentario": "O fator 1,03 é menor que o fator de preços 1,05.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-capitalizacao-continua-desconto-fisher-q04",
+     "dispositivo": "Capitalização contínua, desconto bancário e equação de Fisher"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual o fator de seis meses para força contínua anual de 12%?",
+     "alternativas": {
+      "A": "1,12",
+      "B": "1,06",
+      "C": "e^−0,06",
+      "D": "e^0,06",
+      "E": "e^0,72"
+     },
+     "gabarito": "D",
+     "comentarios_por_alternativa": {
+      "A": "É fator discreto anual de 12%.",
+      "B": "Aplica regime linear.",
+      "C": "É o fator para descontar.",
+      "D": "O prazo de meio ano multiplica 0,12.",
+      "E": "Trata seis meses como seis anos."
+     },
+     "comentario": "A) É fator discreto anual de 12%.\nB) Aplica regime linear.\nC) É o fator para descontar.\nD) O prazo de meio ano multiplica 0,12.\nE) Trata seis meses como seis anos.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-capitalizacao-continua-desconto-fisher-q05",
+     "dispositivo": "Capitalização contínua, desconto bancário e equação de Fisher"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "No desconto bancário simples de R$ 30.000 a 3% ao mês por dois meses, quanto é liberado sem tarifas?",
+     "alternativas": {
+      "A": "R$ 28.301,89",
+      "B": "R$ 29.100",
+      "C": "R$ 31.800",
+      "D": "R$ 1.800",
+      "E": "R$ 28.200"
+     },
+     "gabarito": "E",
+     "comentarios_por_alternativa": {
+      "A": "É o desconto racional simples com a mesma taxa.",
+      "B": "Desconta um mês.",
+      "C": "Acrescenta o desconto.",
+      "D": "É o desconto retido.",
+      "E": "30.000 × (1 − 0,03 × 2)."
+     },
+     "comentario": "A) É o desconto racional simples com a mesma taxa.\nB) Desconta um mês.\nC) Acrescenta o desconto.\nD) É o desconto retido.\nE) 30.000 × (1 − 0,03 × 2).",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-capitalizacao-continua-desconto-fisher-q06",
+     "dispositivo": "Capitalização contínua, desconto bancário e equação de Fisher"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Inflação anual de 6% e ganho real de 5%. Qual o ganho nominal exato?",
+     "alternativas": {
+      "A": "11,30%",
+      "B": "11%",
+      "C": "1%",
+      "D": "0,30%",
+      "E": "10,70%"
+     },
+     "gabarito": "A",
+     "comentarios_por_alternativa": {
+      "A": "1,06 × 1,05 − 1.",
+      "B": "É a aproximação aditiva.",
+      "C": "Subtrai as taxas.",
+      "D": "É só o termo cruzado.",
+      "E": "Subtrai o termo cruzado."
+     },
+     "comentario": "A) 1,06 × 1,05 − 1.\nB) É a aproximação aditiva.\nC) Subtrai as taxas.\nD) É só o termo cruzado.\nE) Subtrai o termo cruzado.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-capitalizacao-continua-desconto-fisher-q07",
+     "dispositivo": "Capitalização contínua, desconto bancário e equação de Fisher"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Um título de R$ 20.000 gera R$ 18.000 líquidos numa operação por fora. Qual o custo acumulado sobre o líquido?",
+     "alternativas": {
+      "A": "20%",
+      "B": "11,11%",
+      "C": "10%",
+      "D": "18%",
+      "E": "9%"
+     },
+     "gabarito": "B",
+     "comentarios_por_alternativa": {
+      "A": "Confunde montante em milhares com taxa.",
+      "B": "20.000/18.000 − 1.",
+      "C": "Usa o valor nominal como base.",
+      "D": "Não relaciona a diferença aos valores.",
+      "E": "Equivale a dividir valores por base indevida."
+     },
+     "comentario": "A) Confunde montante em milhares com taxa.\nB) 20.000/18.000 − 1.\nC) Usa o valor nominal como base.\nD) Não relaciona a diferença aos valores.\nE) Equivale a dividir valores por base indevida.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-capitalizacao-continua-desconto-fisher-q08",
+     "dispositivo": "Capitalização contínua, desconto bancário e equação de Fisher"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Um valor futuro cresce de forma contínua com fator ___.",
+     "opcoes": [
+      "e^(δt)",
+      "1+δt",
+      "1−δt"
+     ],
+     "respostas": [
+      "e^(δt)"
+     ],
+     "explicacao": "É a função exponencial de força vezes prazo."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Com ganho nominal igual à inflação do período, o ganho real é ___.",
+     "opcoes": [
+      "zero",
+      "igual à inflação",
+      "negativo"
+     ],
+     "respostas": [
+      "zero"
+     ],
+     "explicacao": "A razão entre fatores iguais é 1."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o cálculo do custo real de uma antecipação.",
+     "itens": [
+      "Calcule o desconto sobre o valor nominal.",
+      "Apure o valor líquido liberado.",
+      "Divida o valor nominal pelo líquido para obter o fator nominal.",
+      "Divida o fator nominal pelo fator de inflação e subtraia 1."
+     ],
+     "explicacao": "O custo acumula sobre o dinheiro disponível e a inflação precisa cobrir o mesmo prazo."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Força de juros",
+       "Taxa no expoente contínuo"
+      ],
+      [
+       "Desconto por fora",
+       "Abatimento sobre o nominal"
+      ],
+      [
+       "Inflação",
+       "Variação do nível de preços"
+      ],
+      [
+       "Fisher",
+       "Relação entre fatores nominal e real"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

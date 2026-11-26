@@ -1,0 +1,253 @@
+{
+ "assunto": "Operações básicas com vetores",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-operacoes-vetores-c14",
+   "titulo": "Operações básicas com vetores",
+   "microconteudo": "RAIO-X DA PROVA: Interprete a situação e justifique a conclusão com a relação física pertinente. Na soma gráfica, coloque a origem do próximo vetor na ponta do anterior; a resultante vai da origem do primeiro à ponta do último. Pelas componentes, some cada eixo separadamente.\n\nPOR QUE IMPORTA:\nEm um mapa da escola, um estudante percorre 3 m ao leste e 4 m ao norte. O percurso tem 7 m, mas o segmento da partida à chegada mede 5 m.\n\nO QUE A BANCA COBRA:\nInterprete a situação e justifique a conclusão com a relação física pertinente. Na soma gráfica, coloque a origem do próximo vetor na ponta do anterior; a resultante vai da origem do primeiro à ponta do último. Pelas componentes, some cada eixo separadamente.\n\nENTENDA:\nComece por esta situação: Em um mapa da escola, um estudante percorre 3 m ao leste e 4 m ao norte. O percurso tem 7 m, mas o segmento da partida à chegada mede 5 m. Leia os dados disponíveis e faça uma previsão antes de procurar uma fórmula. Na soma gráfica, coloque a origem do próximo vetor na ponta do anterior; a resultante vai da origem do primeiro à ponta do último. Pelas componentes, some cada eixo separadamente. Se tomarmos leste e norte como positivos, os deslocamentos são (3, 0) e (0, 4) m. A soma é (3, 4) m, e seu módulo resulta da raiz de 3² + 4².\n\nA soma de vetores também pode ser desenhada pelo paralelogramo. Coloque os dois vetores com a mesma origem e trace paralelas por suas extremidades. A diagonal que começa nessa origem representa a soma. O resultado coincide com a regra de ponta com cauda. Quando os vetores formam um ângulo qualquer, a diagonal pode ter módulo entre a diferença e a soma dos módulos. O maior valor ocorre quando ambos têm a mesma orientação. O menor ocorre quando são colineares e opostos. O caso perpendicular fornece um valor intermediário por Pitágoras.\n\nEm um sistema ortogonal, decompor uma seta inclinada é pensar em dois deslocamentos equivalentes, um por eixo. Se um vetor aponta para cima e à esquerda, com direita e cima positivos, sua componente horizontal é negativa e a vertical é positiva. Calcular o módulo por raiz da soma de quadrados elimina os sinais. Por isso o módulo sozinho não identifica o quadrante. Para recuperar a orientação, mantenha as componentes registradas. Ao somar vários vetores, primeiro some cada coluna. Só depois use as componentes resultantes para calcular o módulo e interpretar o sentido.\n\nConfira o significado das palavras da questão. Como somar componentes cartesianas? Some as componentes correspondentes de cada eixo.\nComo representar o oposto de um vetor? Mantenha módulo e direção e inverta o sentido.\nComo subtrair um vetor? Some seu oposto ao primeiro.\nQuanto vale o módulo de (3,4)? Cinco, se os eixos forem perpendiculares e usarem a mesma unidade.\nO que faz um fator escalar negativo? Multiplica o módulo pelo valor absoluto do fator e inverte o sentido.\nQual a soma de dois vetores opostos iguais em módulo? O vetor nulo. Se dois termos parecem próximos, compare o que cada um descreve no caso inicial. Em Física, trocar o nome de uma grandeza pode mudar o cálculo ou até o que se está tentando explicar. Escreva, ao lado de cada símbolo, qual parte da situação ele representa e em que unidade seria medido.\n\nExemplo 1. Um robô percorre 6 m a leste e 8 m ao norte. Qual é o módulo do deslocamento? A resposta é 10 m.. A raiz de 6² + 8² é 10. É a soma dos comprimentos do percurso. Subtrair catetos não dá o comprimento da diagonal. A média não mede a resultante. É o número do quadrado do módulo.\n\nExemplo 2. Num eixo orientado para a direita, atuam +12 N, −4 N e −3 N. Qual é a resultante? A resposta é +5 N.. A soma 12 − 4 − 3 equivale a 5 N à direita. O sentido ficou invertido. Usa apenas os módulos. Ignora a contribuição de −4 N. Considera somente as forças para a esquerda.\n\nExemplo 3. Os vetores u = (4,1) e v = (2,3) são deslocamentos em metros. Quais são as componentes de u − v? A resposta é  (2, −2) m.. Subtraia 2 de 4 e 3 de 1. Essa é a soma. Essa é a diferença v − u. A componente vertical deve manter o sinal negativo. Produto de componentes não é subtração vetorial.\n\nExemplo 4. Uma seta de 3 N para norte representa a força u. O que representa 3u? A resposta é 9 N para norte.. O fator positivo triplica o módulo e preserva o sentido. Soma 3 ao módulo em vez de multiplicar. O sentido só inverteria com fator negativo. Ignora o fator dado. Divide o módulo por três.\n\nTeste de interpretação. Dois deslocamentos colineares valem +6 m e −2 m num eixo. Considere a afirmação: “A resultante é +4 m.” Certo. A soma algébrica preserva o sentido positivo. Dois deslocamentos perpendiculares têm módulos 3 m e 4 m. Considere a afirmação: “O módulo da soma é 7 m.” Errado. A resultante tem módulo 5 m pela relação de Pitágoras. Os vetores u e v são dados. Considere a afirmação: “Subtrair v de u equivale a somar o oposto de v a u.” Certo. Essa é a operação u + (−v). O vetor u tem módulo de 4 N apontando para leste. Considere a afirmação: “−2u tem módulo de −8 N.” Errado. O módulo é 8 N, com sentido oeste.\n\nUma sequência de resolução é útil quando a questão traz mais dados que o necessário. Primeiro, escolher eixos e sentidos positivos. Depois, decompor as setas nesses eixos. Em seguida, somar as componentes respeitando os sinais. Por último, interpretar módulo e orientação da resultante. Explique oralmente por que cada passo vem nessa posição. Se a última conclusão mudar quando você troca um detalhe do enunciado, localize qual hipótese provocou essa mudança. Isso ajuda a distinguir o resultado de uma conta das condições em que ele vale.\n\nEm uma prova, procure separar o que o texto observou, o que o modelo assume e o que você concluiu. Um valor informado é um dado. Uma condição como desprezar o atrito ou tratar o intervalo como uniforme pode ser uma hipótese. Já o resultado é aquilo que você obtém ao combinar os dados com a regra escolhida. Se houver tabela ou figura, confira a legenda, os eixos e as unidades antes de usar os números. Para revisar, refaça um dos exemplos mudando um dado por vez e preveja o sentido da mudança antes de calcular.\n\nCheck de leitura. Escolha dois exemplos desta lição e compare o papel de cada informação. O que foi medido diretamente? Qual relação precisou ser usada para inferir uma resposta? Há alguma observação que, sozinha, seria insuficiente? Se a resposta for um número, faça uma estimativa simples para checar se ele é plausível. Se for uma explicação, procure indicar qual condição a torna válida. Depois, tente escrever uma resposta que inclua o dado utilizado, o raciocínio e a conclusão em uma ou duas frases.\n\nAo montar um rascunho, deixe os dados de um lado e a conclusão do outro. Comece pelo dado que tem relação direta com a pergunta. Caso sobrem informações, veja se elas servem para comparar hipóteses ou apenas situar a história. Em uma comparação, mantenha a mesma referência e o mesmo intervalo sempre que o enunciado permitir. Quando um resultado contradiz a previsão inicial, revise primeiro a interpretação do que foi pedido; em seguida, revise a operação e as condições assumidas.\n\nPara fechar, compare estas duas situações e procure a diferença física entre elas. Dois deslocamentos colineares valem +6 m e −2 m num eixo. Dois deslocamentos perpendiculares têm módulos 3 m e 4 m. Quando o contexto muda, a leitura deve partir das informações apresentadas naquele caso. Considere a primeira afirmação e justifique o resultado: “A resultante é +4 m.” Certo. A soma algébrica preserva o sentido positivo. Agora avalie a segunda: “O módulo da soma é 7 m.” Errado. A resultante tem módulo 5 m pela relação de Pitágoras. Uma explicação adequada pode usar palavras e cálculos, desde que a relação com a situação seja clara. Pense em qual mudança nos dados tornaria cada afirmação válida ou inválida.\n\nUse este conjunto de definições como roteiro para checar o raciocínio. Como somar componentes cartesianas? Some as componentes correspondentes de cada eixo.\nComo representar o oposto de um vetor? Mantenha módulo e direção e inverta o sentido.\nComo subtrair um vetor? Some seu oposto ao primeiro.\nQuanto vale o módulo de (3,4)? Cinco, se os eixos forem perpendiculares e usarem a mesma unidade.\nO que faz um fator escalar negativo? Multiplica o módulo pelo valor absoluto do fator e inverte o sentido.\nQual a soma de dois vetores opostos iguais em módulo? O vetor nulo. Ao voltar aos dados do começo, selecione as definições pertinentes ao caso. Leia a conclusão como se ela fosse uma frase independente: confira a unidade, a referência adotada e a condição de validade.\n\nTROCANDO EM MIÚDOS:\nImagine a situação do começo da lição. Em um mapa da escola, um estudante percorre 3 m ao leste e 4 m ao norte. O percurso tem 7 m, mas o segmento da partida à chegada mede 5 m. Se tomarmos leste e norte como positivos, os deslocamentos são (3, 0) e (0, 4) m. A soma é (3, 4) m, e seu módulo resulta da raiz de 3² + 4².\n\nA regra principal pode ser escrita assim: Na soma gráfica, coloque a origem do próximo vetor na ponta do anterior; a resultante vai da origem do primeiro à ponta do último. Pelas componentes, some cada eixo separadamente. Tente explicar essa regra em voz alta para alguém que ainda não viu o conteúdo, usando o exemplo inicial como apoio.\n\nAntes de marcar uma alternativa, faça esta checagem. Como somar componentes cartesianas? Some as componentes correspondentes de cada eixo. Como representar o oposto de um vetor? Mantenha módulo e direção e inverta o sentido. Como subtrair um vetor? Some seu oposto ao primeiro. Quanto vale o módulo de (3,4)? Cinco, se os eixos forem perpendiculares e usarem a mesma unidade. O que faz um fator escalar negativo? Multiplica o módulo pelo valor absoluto do fator e inverte o sentido. Qual a soma de dois vetores opostos iguais em módulo? O vetor nulo.\n\nEm um rascunho curto, anote quatro passos. Escolher eixos e sentidos positivos. Decompor as setas nesses eixos. Somar as componentes respeitando os sinais. Interpretar módulo e orientação da resultante. Em seguida, tente aplicar os passos a um exemplo com números ou condições diferentes. As grandezas que foram medidas e o que você quer descobrir devem ficar em linhas separadas. Isso ajuda a identificar qual informação ainda falta.\n\nExperimente responder a esta situação sem olhar as opções. Um robô percorre 6 m a leste e 8 m ao norte. Qual é o módulo do deslocamento? A raiz de 6² + 8² é 10. Depois, confira nos exemplos quais seriam as consequências de escolher uma interpretação diferente. Se tiver que refazer, comece pelas condições do problema e pelo significado de cada dado.\n\nPara fixar, releia uma afirmação verdadeira e uma falsa da lição. Reescreva a falsa trocando só o trecho necessário para corrigi-la. Na afirmação verdadeira, diga qual detalhe do enunciado permite chegar a essa conclusão. Assim você pratica explicar um resultado, além de reconhecer qual opção está certa.\n\nLEI SECA:\nNa soma gráfica, coloque a origem do próximo vetor na ponta do anterior; a resultante vai da origem do primeiro à ponta do último. Pelas componentes, some cada eixo separadamente.\n\nSÚMULAS E TESES:\nSe tomarmos leste e norte como positivos, os deslocamentos são (3, 0) e (0, 4) m. A soma é (3, 4) m, e seu módulo resulta da raiz de 3² + 4².\n\nESQUEMA:\nEscolher eixos e sentidos positivos → Decompor as setas nesses eixos → Somar as componentes respeitando os sinais → Interpretar módulo e orientação da resultante\n\nPEGADINHAS:\n1. Certo. A soma algébrica preserva o sentido positivo.\n2. Errado. A resultante tem módulo 5 m pela relação de Pitágoras.\n3. Certo. Essa é a operação u + (−v).\n4. Errado. O módulo é 8 N, com sentido oeste.\n\nDOUTRINA:\nOpenStax — College Physics 2e, Vector Addition and Subtraction\n\nNA PRÁTICA:\nExemplo 1. Um robô percorre 6 m a leste e 8 m ao norte. Qual é o módulo do deslocamento? A resposta é 10 m.. A raiz de 6² + 8² é 10. É a soma dos comprimentos do percurso. Subtrair catetos não dá o comprimento da diagonal. A média não mede a resultante. É o número do quadrado do módulo.",
+   "flashcards": [
+    {
+     "frente": "Como somar componentes cartesianas?",
+     "verso": "Some as componentes correspondentes de cada eixo.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Operações básicas com vetores"
+    },
+    {
+     "frente": "Como representar o oposto de um vetor?",
+     "verso": "Mantenha módulo e direção e inverta o sentido.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Operações básicas com vetores"
+    },
+    {
+     "frente": "Como subtrair um vetor?",
+     "verso": "Some seu oposto ao primeiro.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Operações básicas com vetores"
+    },
+    {
+     "frente": "Quanto vale o módulo de (3,4)?",
+     "verso": "Cinco, se os eixos forem perpendiculares e usarem a mesma unidade.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Operações básicas com vetores"
+    },
+    {
+     "frente": "O que faz um fator escalar negativo?",
+     "verso": "Multiplica o módulo pelo valor absoluto do fator e inverte o sentido.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Operações básicas com vetores"
+    },
+    {
+     "frente": "Qual a soma de dois vetores opostos iguais em módulo?",
+     "verso": "O vetor nulo.",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Operações básicas com vetores"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-operacoes-vetores-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Dois deslocamentos colineares valem +6 m e −2 m num eixo.",
+     "enunciado": "A resultante é +4 m.",
+     "gabarito": "C",
+     "comentario": "Certo. A soma algébrica preserva o sentido positivo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Operações básicas com vetores"
+    },
+    {
+     "id": "enem-fisica-operacoes-vetores-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Dois deslocamentos perpendiculares têm módulos 3 m e 4 m.",
+     "enunciado": "O módulo da soma é 7 m.",
+     "gabarito": "E",
+     "comentario": "Errado. A resultante tem módulo 5 m pela relação de Pitágoras.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Operações básicas com vetores"
+    },
+    {
+     "id": "enem-fisica-operacoes-vetores-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Os vetores u e v são dados.",
+     "enunciado": "Subtrair v de u equivale a somar o oposto de v a u.",
+     "gabarito": "C",
+     "comentario": "Certo. Essa é a operação u + (−v).",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Operações básicas com vetores"
+    },
+    {
+     "id": "enem-fisica-operacoes-vetores-c14-q04",
+     "tipo": "ce",
+     "texto_base": "O vetor u tem módulo de 4 N apontando para leste.",
+     "enunciado": "−2u tem módulo de −8 N.",
+     "gabarito": "E",
+     "comentario": "Errado. O módulo é 8 N, com sentido oeste.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Operações básicas com vetores"
+    },
+    {
+     "id": "enem-fisica-operacoes-vetores-c14-q05",
+     "tipo": "me",
+     "texto_base": "Um robô percorre 6 m a leste e 8 m ao norte.",
+     "enunciado": "Qual é o módulo do deslocamento?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "14 m.",
+      "B": "10 m.",
+      "C": "2 m.",
+      "D": "7 m.",
+      "E": "100 m."
+     },
+     "comentarios_por_alternativa": {
+      "A": "É a soma dos comprimentos do percurso.",
+      "B": "Correta. A raiz de 6² + 8² é 10.",
+      "C": "Subtrair catetos não dá o comprimento da diagonal.",
+      "D": "A média não mede a resultante.",
+      "E": "É o número do quadrado do módulo."
+     },
+     "comentario": "A) É a soma dos comprimentos do percurso.\nB) Correta. A raiz de 6² + 8² é 10.\nC) Subtrair catetos não dá o comprimento da diagonal.\nD) A média não mede a resultante.\nE) É o número do quadrado do módulo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Operações básicas com vetores"
+    },
+    {
+     "id": "enem-fisica-operacoes-vetores-c14-q06",
+     "tipo": "me",
+     "texto_base": "Num eixo orientado para a direita, atuam +12 N, −4 N e −3 N.",
+     "enunciado": "Qual é a resultante?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "−5 N.",
+      "B": "+19 N.",
+      "C": "+9 N.",
+      "D": "+5 N.",
+      "E": "−7 N."
+     },
+     "comentarios_por_alternativa": {
+      "A": "O sentido ficou invertido.",
+      "B": "Usa apenas os módulos.",
+      "C": "Ignora a contribuição de −4 N.",
+      "D": "Correta. A soma 12 − 4 − 3 equivale a 5 N à direita.",
+      "E": "Considera somente as forças para a esquerda."
+     },
+     "comentario": "A) O sentido ficou invertido.\nB) Usa apenas os módulos.\nC) Ignora a contribuição de −4 N.\nD) Correta. A soma 12 − 4 − 3 equivale a 5 N à direita.\nE) Considera somente as forças para a esquerda.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Operações básicas com vetores"
+    },
+    {
+     "id": "enem-fisica-operacoes-vetores-c14-q07",
+     "tipo": "me",
+     "texto_base": "Os vetores u = (4,1) e v = (2,3) são deslocamentos em metros.",
+     "enunciado": "Quais são as componentes de u − v?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "(2, −2) m.",
+      "B": "(6, 4) m.",
+      "C": "(−2, 2) m.",
+      "D": "(2, 2) m.",
+      "E": "(8, 3) m."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Subtraia 2 de 4 e 3 de 1.",
+      "B": "Essa é a soma.",
+      "C": "Essa é a diferença v − u.",
+      "D": "A componente vertical deve manter o sinal negativo.",
+      "E": "Produto de componentes não é subtração vetorial."
+     },
+     "comentario": "A) Correta. Subtraia 2 de 4 e 3 de 1.\nB) Essa é a soma.\nC) Essa é a diferença v − u.\nD) A componente vertical deve manter o sinal negativo.\nE) Produto de componentes não é subtração vetorial.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Operações básicas com vetores"
+    },
+    {
+     "id": "enem-fisica-operacoes-vetores-c14-q08",
+     "tipo": "me",
+     "texto_base": "Uma seta de 3 N para norte representa a força u.",
+     "enunciado": "O que representa 3u?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "6 N para norte.",
+      "B": "9 N para sul.",
+      "C": "3 N para norte.",
+      "D": "1 N para norte.",
+      "E": "9 N para norte."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Soma 3 ao módulo em vez de multiplicar.",
+      "B": "O sentido só inverteria com fator negativo.",
+      "C": "Ignora o fator dado.",
+      "D": "Divide o módulo por três.",
+      "E": "Correta. O fator positivo triplica o módulo e preserva o sentido."
+     },
+     "comentario": "A) Soma 3 ao módulo em vez de multiplicar.\nB) O sentido só inverteria com fator negativo.\nC) Ignora o fator dado.\nD) Divide o módulo por três.\nE) Correta. O fator positivo triplica o módulo e preserva o sentido.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos básicos e fundamentais — Operações básicas com vetores"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Como somar componentes cartesianas? Resposta: ___.",
+     "opcoes": [
+      "Some as componentes correspondentes de cada eixo.",
+      "Mantenha módulo e direção e inverta o sentido.",
+      "Some seu oposto ao primeiro.",
+      "Cinco, se os eixos forem perpendiculares e usarem a mesma unidade."
+     ],
+     "respostas": [
+      "Some as componentes correspondentes de cada eixo."
+     ],
+     "explicacao": "Some as componentes correspondentes de cada eixo."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "O que faz um fator escalar negativo? Resposta: ___.",
+     "opcoes": [
+      "Some seu oposto ao primeiro.",
+      "Cinco, se os eixos forem perpendiculares e usarem a mesma unidade.",
+      "Multiplica o módulo pelo valor absoluto do fator e inverte o sentido.",
+      "O vetor nulo."
+     ],
+     "respostas": [
+      "Multiplica o módulo pelo valor absoluto do fator e inverte o sentido."
+     ],
+     "explicacao": "Multiplica o módulo pelo valor absoluto do fator e inverte o sentido."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma situação sobre operações básicas com vetores.",
+     "itens": [
+      "Escolher eixos e sentidos positivos.",
+      "Decompor as setas nesses eixos.",
+      "Somar as componentes respeitando os sinais.",
+      "Interpretar módulo e orientação da resultante."
+     ],
+     "explicacao": "Na soma gráfica, coloque a origem do próximo vetor na ponta do anterior; a resultante vai da origem do primeiro à ponta do último. Pelas componentes, some cada eixo separadamente."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Como somar componentes cartesianas?",
+       "Some as componentes correspondentes de cada eixo."
+      ],
+      [
+       "Como representar o oposto de um vetor?",
+       "Mantenha módulo e direção e inverta o sentido."
+      ],
+      [
+       "Como subtrair um vetor?",
+       "Some seu oposto ao primeiro."
+      ],
+      [
+       "Quanto vale o módulo de (3,4)?",
+       "Cinco, se os eixos forem perpendiculares e usarem a mesma unidade."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

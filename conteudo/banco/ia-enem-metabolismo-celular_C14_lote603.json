@@ -1,0 +1,251 @@
+{
+ "assunto": "Metabolismo celular: enzimas, ATP e transformação de matéria",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-metabolismo-celular-c14",
+   "titulo": "Metabolismo celular: enzimas, ATP e transformação de matéria",
+   "microconteudo": "RAIO-X DA PROVA: Assunto prioritário do edital.\n\nPOR QUE IMPORTA:\nUma semente germinando, uma fruta amadurecendo e uma célula que repõe suas proteínas dependem de sequências de transformações químicas. Saber acompanhar essas sequências ajuda a interpretar experimentos e gráficos no ENEM.\n\nO QUE A BANCA COBRA:\nRelacione a atividade das enzimas às condições do meio, acompanhe a conversão de substratos em produtos e identifique como o ATP pode sustentar processos celulares.\n\nENTENDA:\nQuando uma célula recebe nutrientes, parte das moléculas pode ser aproveitada como matéria-prima e parte passa por transformações que ajudam a sustentar atividades como movimento e transporte de íons. O conjunto das reações químicas da célula é chamado de metabolismo. Uma mesma molécula pode entrar em caminhos diferentes dependendo do tipo celular e do momento. Depois de uma refeição, por exemplo, parte da glicose pode ser incorporada a cadeias de glicogênio. Em outro momento, essas cadeias podem ser degradadas. O destino das moléculas muda com as condições do organismo e com a regulação das reações em cada tecido.\n\nAs reações de construção fazem parte do anabolismo. Formar um polímero a partir de unidades menores ou produzir um novo componente da membrana são exemplos. O catabolismo inclui reações de degradação, como aquelas nas quais uma molécula orgânica é transformada em moléculas menores. A degradação pode disponibilizar energia para atividades celulares. A construção pode exigir fornecimento de energia, além das unidades que serão unidas. Para decidir que termo usar, identifique a transformação pedida: em uma célula que incorpora aminoácidos a uma cadeia, houve construção de uma proteína, mesmo se a energia envolvida veio de outra reação de degradação.\n\nUma via metabólica é uma sequência de reações. Imagine que A dê origem a B, B a C e C a D. B e C são intermediários. Uma enzima pode acelerar a etapa que transforma B em C, enquanto outra acelera a que produz D. Se a primeira deixar de atuar, B pode acumular e a produção de D pode diminuir, desde que as demais condições permaneçam comparáveis e não haja outra rota suprindo o sistema. Ao resolver uma questão com setas, encontre o ponto alterado e acompanhe as consequências de cada lado. O efeito observado no produto final pode ter surgido num passo bem anterior.\n\nA enzima acelera uma transformação ao favorecer um caminho que requer menor energia de ativação. Essa energia corresponde à barreira que deve ser vencida para que os reagentes cheguem a um estado a partir do qual possam formar produtos. Imagine duas curvas de energia. As duas começam e terminam nos mesmos níveis, mas uma tem um pico menor. Essa curva pode representar o caminho catalisado. O pico mais baixo ajuda a explicar por que a transformação acontece mais depressa. A enzima não acrescenta energia aos produtos nem muda a diferença de energia entre reagentes e produtos nas mesmas condições.\n\nChamamos de substrato a molécula sobre a qual atua uma enzima em determinada reação. O sítio ativo é uma região que interage com o substrato e contribui para a transformação. A interação depende da geometria e das propriedades químicas dos participantes. Depois, os produtos são liberados, e a enzima pode atuar novamente. Uma pequena quantidade de enzima pode acelerar a transformação de muitas moléculas. Em um gráfico que registra produto acumulado, compare quantidades no mesmo instante. Em outro que registra a velocidade da reação, compare a inclinação ou os valores de velocidade conforme a legenda. Uma grande quantidade acumulada pode resultar de uma velocidade modesta mantida por bastante tempo.\n\nConsidere um teste com a mesma quantidade de enzima em vários recipientes. Quando há pouco substrato, adicionar mais substrato aumenta a chance de encontro com a enzima e pode elevar a velocidade inicial. Em concentrações muito altas, muitos sítios ativos já ficam ocupados durante boa parte do tempo. A velocidade tende a aproximar-se de um limite para aquela quantidade de enzima. Aumentar somente o substrato, nesse ponto, provoca pouco efeito. Para interpretar um gráfico que sobe e depois se estabiliza, verifique se ele relaciona velocidade inicial com concentração de substrato. Se acompanhar produto ao longo do tempo, um platô também pode ocorrer porque o substrato se esgotou.\n\nA temperatura influencia a atividade observada. Em certo intervalo, o aquecimento pode favorecer encontros produtivos entre moléculas e acelerar reações. Contudo, calor intenso pode alterar o arranjo espacial de enzimas proteicas e reduzir sua atividade. Um ensaio simples ajuda a distinguir uma alteração que depende da temperatura do teste de um efeito que persiste depois do aquecimento. Compare uma porção aquecida e resfriada com outra mantida em condições usuais e faça a medida final na mesma temperatura. Se a primeira continua menos ativa, o aquecimento prévio pode ter mudado sua estrutura funcional.\n\nO pH também influencia a atividade. As cargas de grupos químicos da enzima e do substrato podem mudar conforme o pH, afetando a ligação ou a etapa química. Assim, enzimas de ambientes distintos podem mostrar picos de atividade em faixas diferentes. Uma protease que atua em condição ácida e outra que atua melhor perto da neutralidade podem atuar sobre proteínas, mas responder de modo diferente ao meio. Para comparar suas curvas, identifique o pH em que cada uma atinge maior atividade e veja se ambas foram medidas na mesma escala. Um ponto de máxima atividade em uma curva não permite concluir que uma enzima é mais rápida que a outra sem comparar os eixos.\n\nO ATP participa da transferência de energia para processos celulares. Sua hidrólise pode ser acoplada a fenômenos que, sozinhos, ocorreriam com dificuldade nas mesmas condições. Um exemplo é a atividade de uma bomba que mantém diferenças de concentração de íons entre os lados da membrana. Pense no acoplamento como uma ligação entre eventos: a hidrólise participa de mudanças na bomba que permitem transportar os íons. A energia envolvida se explica pelo conjunto da reação e pela interação de reagentes e produtos com o meio. Dizer apenas que uma ligação se rompe e por isso libera energia deixa de considerar a formação e a estabilização dos produtos.\n\nA célula usa ATP e volta a produzi-lo. Isso permite sustentar demandas variáveis ao longo do tempo. Se uma célula aumenta a atividade de bombas ou a produção de macromoléculas, pode consumir ATP com mais rapidez. Em um gráfico, um nível aproximadamente constante de ATP durante uma tarefa intensa não prova que ele parou de ser usado. Uma produção mais rápida pode compensar o consumo. O mesmo raciocínio vale para intermediários, como B em uma via. Sua concentração pode permanecer quase constante mesmo que muitas moléculas estejam sendo produzidas e consumidas no mesmo intervalo.\n\nAlgumas vias são reguladas pela concentração de seus próprios produtos. Quando o produto final se acumula, ele pode reduzir a atividade de uma enzima de etapa anterior. Essa retroalimentação ajuda a ajustar a produção à demanda. Se o produto volta a ser consumido e sua concentração cai, a atividade inibida pode aumentar novamente. Esse controle reduz gastos de matéria-prima. Numa questão, localize onde o produto atua. Se ele afeta a primeira etapa, pode diminuir a formação de todos os intermediários posteriores. Se a via tem ramificações, o efeito depende de onde ocorre o bloqueio e de quais outros caminhos podem aproveitar os intermediários.\n\nAo interpretar um experimento, procure distinguir a causa proposta de outras explicações possíveis. Se comparar o efeito do pH, use a mesma temperatura, o mesmo tempo de reação e quantidades comparáveis de substrato e enzima. Um grupo sem enzima ajuda a observar se o substrato já muda por conta própria naquelas condições. Com uma única medida ao final, duas amostras podem parecer iguais mesmo tendo velocidades iniciais diferentes, por exemplo se ambas já consumiram todo o substrato. Medir em mais de um instante permite acompanhar como a mudança aconteceu e testar se a diferença de velocidade é compatível com a hipótese apresentada.\n\nTROCANDO EM MIÚDOS:\nImagine uma receita em que primeiro você mistura os ingredientes, depois bate a massa e por fim assa. Se você interrompe a etapa de bater, pode ficar com ingredientes misturados e sem o bolo pronto. Uma via metabólica também tem etapas. Cada seta leva de uma substância a outra, e cada etapa pode depender de determinada enzima. Quando a questão disser que uma parte da via parou, trace o caminho a partir da seta afetada. Veja qual material poderia sobrar antes dela e qual produto ficaria mais difícil de obter depois.\n\nNo começo, com poucas pessoas chegando, os atendentes passam parte do tempo livres. Mais clientes podem fazer o balcão atender mais pessoas por minuto. Num gráfico de velocidade por quantidade de substrato, acontece algo parecido. Quando quase todos os sítios ativos passam a maior parte do tempo ocupados, acrescentar mais substrato altera pouco a velocidade. Antes de aplicar a ideia, confira os nomes dos eixos. Um gráfico mostrando produto acumulado ao longo do tempo pode ficar plano por outra razão.\n\nPense também no ATP quando uma célula precisa manter uma bomba funcionando. A bomba usa a energia associada à transformação do ATP para movimentar íons. O ATP precisa ser produzido novamente. É como olhar o nível de água numa caixa que tem torneira de entrada e outra de saída. Se entra a mesma quantidade que sai em cada minuto, o nível pode parecer constante enquanto muita água circula. Na prova, se a quantidade de ATP não muda durante uma atividade, pergunte se produção e consumo podem estar equilibrados. Uma medida estável mostra que o saldo pouco mudou naquele período. Para saber se o uso aumentou, você precisaria de outra pista sobre a velocidade dos processos.\n\nESQUEMA:\n• Anabolismo → construção de moléculas.\n• Catabolismo → degradação em reações que podem disponibilizar energia.\n• Enzima → menor barreira de ativação e maior velocidade.\n• ATP → acoplamento entre transformações e atividades celulares.\n• Retroalimentação → produto final pode regular etapa anterior.\n\nPEGADINHAS:\n• Confundir a diferença de energia entre reagentes e produtos com a barreira de ativação.\n• Ler um platô sem saber o que os eixos mostram.\n• Atribuir velocidade alta ao pH quando temperatura e pH mudaram juntos.\n• Concluir que uma quantidade estável de ATP prova ausência de consumo.\n\nNA PRÁTICA:\nEm uma sequência P → Q → R, ambas as setas dependem de enzimas diferentes. Uma alteração impede a conversão de Q em R e a célula continua formando Q a partir de P. Sem uma via alternativa, Q tende a acumular e a síntese de R diminui. As duas previsões vêm da posição da etapa afetada.",
+   "flashcards": [
+    {
+     "frente": "O que é metabolismo?",
+     "verso": "É o conjunto de reações químicas da célula.",
+     "dispositivo": "Moléculas, células e tecidos — Aspectos gerais do metabolismo celular"
+    },
+    {
+     "frente": "O que é um intermediário de uma via?",
+     "verso": "É um produto de uma etapa que participa de uma etapa posterior.",
+     "dispositivo": "Moléculas, células e tecidos — Aspectos gerais do metabolismo celular"
+    },
+    {
+     "frente": "O que a enzima faz à energia de ativação?",
+     "verso": "Favorece um caminho com menor barreira de ativação.",
+     "dispositivo": "Moléculas, células e tecidos — Aspectos gerais do metabolismo celular"
+    },
+    {
+     "frente": "Quando uma enzima está perto da saturação pelo substrato?",
+     "verso": "Quando seus sítios ativos passam boa parte do tempo ocupados e adicionar substrato pouco aumenta a velocidade.",
+     "dispositivo": "Moléculas, células e tecidos — Aspectos gerais do metabolismo celular"
+    },
+    {
+     "frente": "O que é retroalimentação negativa em uma via?",
+     "verso": "O acúmulo do produto reduz a atividade de uma etapa anterior e limita a produção.",
+     "dispositivo": "Moléculas, células e tecidos — Aspectos gerais do metabolismo celular"
+    },
+    {
+     "frente": "Por que ATP constante não comprova consumo zero?",
+     "verso": "A célula pode repor ATP na mesma velocidade em que o consome.",
+     "dispositivo": "Moléculas, células e tecidos — Aspectos gerais do metabolismo celular"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Duas curvas para a mesma reação têm início e fim iguais, mas picos diferentes.",
+     "enunciado": "O caminho catalisado pode corresponder à curva com menor pico.",
+     "gabarito": "C",
+     "comentario": "Certo. A enzima diminui a energia de ativação.",
+     "id": "enem-metabolismo-celular-c14-q01",
+     "habilidade": "H15",
+     "dificuldade": "facil",
+     "dispositivo": "Moléculas, células e tecidos — Aspectos gerais do metabolismo celular, H15"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma amostra tem enzima suficiente para transformar muitas moléculas de substrato.",
+     "enunciado": "Cada molécula de enzima é consumida definitivamente quando libera o primeiro produto.",
+     "gabarito": "E",
+     "comentario": "Errado. A enzima pode atuar em novos ciclos catalíticos.",
+     "id": "enem-metabolismo-celular-c14-q02",
+     "habilidade": "H15",
+     "dificuldade": "facil",
+     "dispositivo": "Moléculas, células e tecidos — Aspectos gerais do metabolismo celular, H15"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma célula permanece ativa com quantidade de ATP aproximadamente constante.",
+     "enunciado": "Pode haver produção contínua de ATP compensando o consumo.",
+     "gabarito": "C",
+     "comentario": "Certo. Uma quantidade estável é compatível com produção e consumo equilibrados.",
+     "id": "enem-metabolismo-celular-c14-q03",
+     "habilidade": "H15",
+     "dificuldade": "media",
+     "dispositivo": "Moléculas, células e tecidos — Aspectos gerais do metabolismo celular, H15"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma via leva A a B e B a C, sem caminhos alternativos.",
+     "enunciado": "Bloquear B → C acelera diretamente a produção de C.",
+     "gabarito": "E",
+     "comentario": "Errado. O bloqueio reduz a produção de C por essa rota.",
+     "id": "enem-metabolismo-celular-c14-q04",
+     "habilidade": "H15",
+     "dificuldade": "media",
+     "dispositivo": "Moléculas, células e tecidos — Aspectos gerais do metabolismo celular, H15"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "O gráfico mostra velocidade inicial em função da concentração de substrato. A velocidade sobe e se aproxima de um valor máximo.",
+     "enunciado": "Qual explicação é compatível com esse resultado?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "O substrato desapareceu antes de todos os ensaios.",
+      "B": "A maior parte dos sítios ativos passa muito tempo ocupada.",
+      "C": "A enzima passou a elevar a energia de ativação.",
+      "D": "A enzima passou a funcionar como substrato.",
+      "E": "A concentração de enzima sempre cresceu com a de substrato."
+     },
+     "comentarios_por_alternativa": {
+      "A": "O gráfico compara concentrações iniciais distintas.",
+      "B": "A quantidade fixa de enzima limita o processamento quando há muito substrato.",
+      "C": "A ação catalítica favorece um caminho de menor barreira.",
+      "D": "A saturação dispensa essa hipótese.",
+      "E": "Uma quantidade fixa de enzima explica o limite observado."
+     },
+     "comentario": "A) O gráfico compara concentrações iniciais distintas.\nB) A quantidade fixa de enzima limita o processamento quando há muito substrato.\nC) A ação catalítica favorece um caminho de menor barreira.\nD) A saturação dispensa essa hipótese.\nE) Uma quantidade fixa de enzima explica o limite observado.",
+     "id": "enem-metabolismo-celular-c14-q05",
+     "habilidade": "H15",
+     "dificuldade": "media",
+     "dispositivo": "Moléculas, células e tecidos — Aspectos gerais do metabolismo celular, H15"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma via produz Z em três etapas. Ao acumular, Z reduz a atividade da enzima da primeira etapa.",
+     "enunciado": "Qual efeito descreve a regulação?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "O acúmulo acelera a produção de Z.",
+      "B": "Z deixa de existir ao alcançar a primeira enzima.",
+      "C": "Todas as vias da célula se interrompem.",
+      "D": "O acúmulo tende a diminuir a produção subsequente de Z.",
+      "E": "A primeira etapa fica independente da concentração de Z."
+     },
+     "comentarios_por_alternativa": {
+      "A": "O efeito descrito na primeira etapa é inibitório.",
+      "B": "O texto descreve regulação da atividade, sem indicar consumo de Z nessa interação.",
+      "C": "O efeito observado pertence à via descrita.",
+      "D": "Esse é um exemplo de retroalimentação negativa.",
+      "E": "A premissa estabelece dependência em relação a Z."
+     },
+     "comentario": "A) O efeito descrito na primeira etapa é inibitório.\nB) O texto descreve regulação da atividade, sem indicar consumo de Z nessa interação.\nC) O efeito observado pertence à via descrita.\nD) Esse é um exemplo de retroalimentação negativa.\nE) A premissa estabelece dependência em relação a Z.",
+     "id": "enem-metabolismo-celular-c14-q06",
+     "habilidade": "H15",
+     "dificuldade": "media",
+     "dispositivo": "Moléculas, células e tecidos — Aspectos gerais do metabolismo celular, H15"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma turma quer descobrir se o pH afeta a atividade de uma enzima.",
+     "enunciado": "Qual desenho experimental oferece a comparação mais direta?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "Variar o pH e manter temperatura, quantidades e tempo iguais.",
+      "B": "Variar pH e temperatura nos mesmos tubos.",
+      "C": "Variar pH e quantidade inicial de enzima.",
+      "D": "Usar apenas um tubo em um único pH.",
+      "E": "Comparar enzimas diferentes em pHs diferentes."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Manter os demais fatores permite atribuir diferenças ao pH com mais confiança.",
+      "B": "O resultado pode refletir a temperatura.",
+      "C": "A quantidade de enzima também pode alterar a velocidade.",
+      "D": "Falta uma condição de comparação.",
+      "E": "A identidade da enzima vira outra variável."
+     },
+     "comentario": "A) Manter os demais fatores permite atribuir diferenças ao pH com mais confiança.\nB) O resultado pode refletir a temperatura.\nC) A quantidade de enzima também pode alterar a velocidade.\nD) Falta uma condição de comparação.\nE) A identidade da enzima vira outra variável.",
+     "id": "enem-metabolismo-celular-c14-q07",
+     "habilidade": "H15",
+     "dificuldade": "media",
+     "dispositivo": "Moléculas, células e tecidos — Aspectos gerais do metabolismo celular, H15"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma célula produz uma cadeia longa a partir de aminoácidos.",
+     "enunciado": "Como se classifica a construção dessa cadeia?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Catabolismo da cadeia.",
+      "B": "Difusão simples.",
+      "C": "Osmose.",
+      "D": "Desnaturação.",
+      "E": "Anabolismo."
+     },
+     "comentarios_por_alternativa": {
+      "A": "O processo descrito está construindo a cadeia.",
+      "B": "Esse transporte não forma ligações entre aminoácidos.",
+      "C": "A osmose envolve movimento de água por membrana.",
+      "D": "O processo descrito é formação de uma cadeia, sem indicação de perda da forma espacial.",
+      "E": "A etapa reúne unidades menores numa molécula maior."
+     },
+     "comentario": "A) O processo descrito está construindo a cadeia.\nB) Esse transporte não forma ligações entre aminoácidos.\nC) A osmose envolve movimento de água por membrana.\nD) O processo descrito é formação de uma cadeia, sem indicação de perda da forma espacial.\nE) A etapa reúne unidades menores numa molécula maior.",
+     "id": "enem-metabolismo-celular-c14-q08",
+     "habilidade": "H15",
+     "dificuldade": "media",
+     "dispositivo": "Moléculas, células e tecidos — Aspectos gerais do metabolismo celular, H15"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Uma reação de construção de moléculas pertence ao ___.",
+     "opcoes": [
+      "anabolismo",
+      "catabolismo",
+      "transporte passivo"
+     ],
+     "respostas": [
+      "anabolismo"
+     ],
+     "explicacao": "A construção integra unidades menores ou modifica moléculas para formar novos componentes."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Uma enzima acelera a reação ao reduzir a energia de ___.",
+     "opcoes": [
+      "ativação",
+      "equilíbrio",
+      "evaporação"
+     ],
+     "respostas": [
+      "ativação"
+     ],
+     "explicacao": "O caminho catalisado apresenta uma barreira menor."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene os acontecimentos de um ciclo catalítico simples.",
+     "itens": [
+      "Substrato se aproxima da enzima.",
+      "Substrato interage com o sítio ativo.",
+      "Transformação química ocorre.",
+      "Produto se desprende."
+     ],
+     "explicacao": "A liberação deixa a enzima disponível para outro ciclo."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Sítio ativo",
+       "Região que interage com o substrato"
+      ],
+      [
+       "Produto",
+       "Substância formada na reação"
+      ],
+      [
+       "Energia de ativação",
+       "Barreira para a transformação"
+      ],
+      [
+       "Catabolismo",
+       "Conjunto de reações de degradação"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,253 @@
+{
+ "assunto": "Aceleração gravitacional",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-aceleracao-gravitacional-c14",
+   "titulo": "Aceleração gravitacional",
+   "microconteudo": "RAIO-X DA PROVA: Use a relação física indicada e confira as condições em que ela se aplica. Fora de um corpo aproximadamente esférico, g = GM/r², com distância ao centro. Perto do solo, g é aproximadamente constante.\n\nPOR QUE IMPORTA:\nUma bola cai e uma nave orbita. A gravidade explica a mudança de velocidade nos dois casos.\n\nO QUE A BANCA COBRA:\nUse a relação física indicada e confira as condições em que ela se aplica. Fora de um corpo aproximadamente esférico, g = GM/r², com distância ao centro. Perto do solo, g é aproximadamente constante.\n\nENTENDA:\nUma bola cai e uma nave orbita. A gravidade explica a mudança de velocidade nos dois casos.\n\nFora de um corpo aproximadamente esférico, g = GM/r², com distância ao centro. Perto do solo, g é aproximadamente constante.\n\nUma lua de raio R tem g = 6 m/s² na superfície. A uma distância 2R do centro, g = 6/4 = 1,5 m/s².\n\nUma peça cai do repouso em um local com g = 8 m/s², sem resistência. Em 1,5 s, sua rapidez chega a 12 m/s e seu deslocamento vertical em módulo é 9 m.\n\nMesmo longe do chão, um satélite sofre gravidade. A sensação de flutuar acontece porque o satélite e seus passageiros estão em queda livre juntos. Em órbita circular, a velocidade é tangente e a gravidade muda sua direção continuamente. Essa explicação concilia g diferente de zero e ausência de normal significativa sobre um passageiro solto.\n\nPara explicar o resultado, use o vocabulário da situação. Como calcular g exterior? Use GM/r². Qual a unidade de g? Metro por segundo ao quadrado. A massa de teste altera g? Não no modelo de massa de teste desprezível. Onde aponta g? Para o centro de uma fonte esférica isolada. Como obter r a partir da altitude? Some altitude e raio. O que muda perto da superfície? Pequenas diferenças de altura permitem tratar g como constante.\n\nNa hora de resolver no papel, siga a sequência abaixo. Identificar a fonte. Calcular a distância ao centro. Aplicar a dependência com r². Conferir a direção e a unidade. Depois, escreva o resultado em uma frase completa. Um número isolado pode estar correto e, ainda assim, deixar ambíguo o que você calculou. Informe a unidade quando houver medida e identifique o objeto, a região ou o intervalo a que o resultado se refere.\n\nAltitude e distância ao centro são diferentes. Use r = R + h. Em queda livre, massa maior não implica aceleração maior no mesmo ponto.\n\nReleia os dois exemplos resolvidos e tente antecipar o desfecho sem consultar o cálculo. No primeiro exemplo, identifique qual dado determina diretamente a resposta. No segundo, diga qual condição deve permanecer válida para que a conclusão se mantenha. Compare depois o papel das unidades e do sentido das grandezas. Se o resultado for qualitativo, procure enunciar a previsão em termos observáveis. Se for quantitativo, estime a escala antes de efetuar a última operação.\n\nVocê pode adaptar a análise a uma situação do cotidiano. Comece com esta ideia: Uma bola cai e uma nave orbita. A gravidade explica a mudança de velocidade nos dois casos. Em seguida, desenhe o cenário, indique o que está sendo comparado e escreva que dado precisaria medir para testar a previsão. Diferencie a regra do modelo das informações que servem apenas para situar a história. Isso ajuda a decidir o que aproveitar quando uma questão apresenta mais dados do que a resolução exige.\n\nTrês conferências úteis: a definição corresponde ao objeto descrito? As condições indicadas no enunciado permitem aplicar a regra? A resposta continua coerente ao voltar ao desenho? Faça a última conferência lendo esta relação no contexto: Fora de um corpo aproximadamente esférico, g = GM/r², com distância ao centro. Perto do solo, g é aproximadamente constante. Uma hipótese deve ser usada dentro de sua faixa de validade; quando o contexto mudar, justifique a adaptação antes de transportar o resultado.\n\nAo treinar, explique a diferença entre o mecanismo e seu efeito. Altitude e distância ao centro são diferentes. Use r = R + h. Em queda livre, massa maior não implica aceleração maior no mesmo ponto. Em um texto de prova, essa distinção pode aparecer escondida em uma frase sobre o resultado de uma medida. Identifique primeiro a causa física e depois a grandeza observada. Se for necessário comparar cenários, mude uma condição por vez para descobrir qual mudança explica a diferença.\n\nPergunte o que aconteceria se você aplicasse a regra a um desenho mais simples. Comece separando estas tarefas: Identificar a fonte. Calcular a distância ao centro. Aplicar a dependência com r². Conferir a direção e a unidade. Refaça o primeiro exemplo apenas com setas ou um esquema, deixando os números para o final. Em seguida, recolha do enunciado as unidades e os sentidos. Uma seta no desenho pode indicar a direção de uma interação, a mudança de uma medida ou apenas uma referência. É importante dizer qual papel ela desempenha antes de usar a relação do começo da lição.\n\nPara consolidar, use três perguntas de revisão. Qual a unidade de g? Metro por segundo ao quadrado. Onde aponta g? Para o centro de uma fonte esférica isolada. O que muda perto da superfície? Pequenas diferenças de altura permitem tratar g como constante. A ideia é explicar essas respostas sem depender da ordem em que apareceram. Em um problema de comparação, preste atenção às palavras que mantêm algo igual entre os cenários. Em um problema de cálculo, confira a operação inversa quando possível. Por exemplo, reintroduza o resultado na relação inicial e verifique se os dados do problema são recuperados. Em uma questão qualitativa, faça o equivalente testando se a conclusão explica as condições observadas.\n\nNo fim da leitura, diga qual grandeza a pergunta solicitou e qual grandeza você usou para chegar a ela. Faça essa distinção também quando a resposta for uma direção, uma comparação ou uma interpretação histórica. Um resultado bem explicado deve poder ser lido sem adivinhar de onde ele veio.\n\nTROCANDO EM MIÚDOS:\nUma bola cai e uma nave orbita. A gravidade explica a mudança de velocidade nos dois casos.\n\nFora de um corpo aproximadamente esférico, g = GM/r², com distância ao centro. Perto do solo, g é aproximadamente constante.\n\nUma lua de raio R tem g = 6 m/s² na superfície. A uma distância 2R do centro, g = 6/4 = 1,5 m/s².\n\nUma peça cai do repouso em um local com g = 8 m/s², sem resistência. Em 1,5 s, sua rapidez chega a 12 m/s e seu deslocamento vertical em módulo é 9 m.\n\nAltitude e distância ao centro são diferentes. Use r = R + h. Em queda livre, massa maior não implica aceleração maior no mesmo ponto.\n\nComo calcular g exterior? Use GM/r². Qual a unidade de g? Metro por segundo ao quadrado. A massa de teste altera g? Não no modelo de massa de teste desprezível. Onde aponta g? Para o centro de uma fonte esférica isolada. Como obter r a partir da altitude? Some altitude e raio. O que muda perto da superfície? Pequenas diferenças de altura permitem tratar g como constante.\n\nPara montar seu rascunho: Identificar a fonte. Calcular a distância ao centro. Aplicar a dependência com r². Conferir a direção e a unidade. Na leitura final, escolha a parte do desenho que corresponde ao resultado. Se encontrar uma unidade diferente da pedida, volte ao cálculo e confira os fatores de conversão. Quando a pergunta for conceitual, confira se a explicação indica o mecanismo que liga o dado à conclusão. Você pode comparar os dois exemplos da lição antes de tentar os exercícios e explicar de memória por que cada resultado faz sentido.\n\nLEI SECA:\nFora de um corpo aproximadamente esférico, g = GM/r², com distância ao centro. Perto do solo, g é aproximadamente constante.\n\nSÚMULAS E TESES:\nUma peça cai do repouso em um local com g = 8 m/s², sem resistência. Em 1,5 s, sua rapidez chega a 12 m/s e seu deslocamento vertical em módulo é 9 m.\n\nESQUEMA:\nIdentificar a fonte. → Calcular a distância ao centro. → Aplicar a dependência com r². → Conferir a direção e a unidade.\n\nPEGADINHAS:\nAltitude e distância ao centro são diferentes. Use r = R + h. Em queda livre, massa maior não implica aceleração maior no mesmo ponto.\n\nDOUTRINA:\nGravitation\n\nNA PRÁTICA:\nUma lua de raio R tem g = 6 m/s² na superfície. A uma distância 2R do centro, g = 6/4 = 1,5 m/s².",
+   "flashcards": [
+    {
+     "frente": "Como calcular g exterior?",
+     "verso": "Use GM/r².",
+     "dispositivo": "A Mecânica e o funcionamento do Universo — Aceleração gravitacional"
+    },
+    {
+     "frente": "Qual a unidade de g?",
+     "verso": "Metro por segundo ao quadrado.",
+     "dispositivo": "A Mecânica e o funcionamento do Universo — Aceleração gravitacional"
+    },
+    {
+     "frente": "A massa de teste altera g?",
+     "verso": "Não no modelo de massa de teste desprezível.",
+     "dispositivo": "A Mecânica e o funcionamento do Universo — Aceleração gravitacional"
+    },
+    {
+     "frente": "Onde aponta g?",
+     "verso": "Para o centro de uma fonte esférica isolada.",
+     "dispositivo": "A Mecânica e o funcionamento do Universo — Aceleração gravitacional"
+    },
+    {
+     "frente": "Como obter r a partir da altitude?",
+     "verso": "Some altitude e raio.",
+     "dispositivo": "A Mecânica e o funcionamento do Universo — Aceleração gravitacional"
+    },
+    {
+     "frente": "O que muda perto da superfície?",
+     "verso": "Pequenas diferenças de altura permitem tratar g como constante.",
+     "dispositivo": "A Mecânica e o funcionamento do Universo — Aceleração gravitacional"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-aceleracao-gravitacional-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Duas esferas caem no vácuo no mesmo local.",
+     "enunciado": "Suas acelerações são iguais.",
+     "gabarito": "C",
+     "comentario": "Certo. Ambas sofrem o mesmo campo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "A Mecânica e o funcionamento do Universo — Aceleração gravitacional"
+    },
+    {
+     "id": "enem-fisica-aceleracao-gravitacional-c14-q02",
+     "tipo": "ce",
+     "texto_base": "O raio ao centro dobra.",
+     "enunciado": "g cai à metade.",
+     "gabarito": "E",
+     "comentario": "Errado. Cai a um quarto.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "A Mecânica e o funcionamento do Universo — Aceleração gravitacional"
+    },
+    {
+     "id": "enem-fisica-aceleracao-gravitacional-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Um foguete se afasta de um planeta isolado.",
+     "enunciado": "O módulo de g diminui.",
+     "gabarito": "C",
+     "comentario": "Certo. O denominador cresce.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "A Mecânica e o funcionamento do Universo — Aceleração gravitacional"
+    },
+    {
+     "id": "enem-fisica-aceleracao-gravitacional-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Uma órbita circular tem rapidez constante.",
+     "enunciado": "Seu g é nulo.",
+     "gabarito": "E",
+     "comentario": "Errado. O campo fornece aceleração radial.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "A Mecânica e o funcionamento do Universo — Aceleração gravitacional"
+    },
+    {
+     "id": "enem-fisica-aceleracao-gravitacional-c14-q05",
+     "tipo": "me",
+     "texto_base": "Na superfície g = 9 m/s²; o ponto está a 3R do centro.",
+     "enunciado": "Qual o novo g?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "3 m/s²",
+      "B": "1 m/s²",
+      "C": "9 m/s²",
+      "D": "27 m/s²",
+      "E": "81 m/s²"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Usa relação linear.",
+      "B": "Correta. Divida 9 por 9.",
+      "C": "Ignora a distância.",
+      "D": "Multiplica por três.",
+      "E": "Inverte o fator quadrático."
+     },
+     "comentario": "A) Usa relação linear.\nB) Correta. Divida 9 por 9.\nC) Ignora a distância.\nD) Multiplica por três.\nE) Inverte o fator quadrático.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "A Mecânica e o funcionamento do Universo — Aceleração gravitacional"
+    },
+    {
+     "id": "enem-fisica-aceleracao-gravitacional-c14-q06",
+     "tipo": "me",
+     "texto_base": "A altitude de uma sonda é R sobre a superfície.",
+     "enunciado": "Qual sua distância ao centro?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "R",
+      "B": "0",
+      "C": "3R",
+      "D": "2R",
+      "E": "R/2"
+     },
+     "comentarios_por_alternativa": {
+      "A": "É apenas a altitude.",
+      "B": "Subtrai grandezas iguais.",
+      "C": "Conta o raio duas vezes.",
+      "D": "Correta. Some o raio e a altitude.",
+      "E": "Não corresponde à distância."
+     },
+     "comentario": "A) É apenas a altitude.\nB) Subtrai grandezas iguais.\nC) Conta o raio duas vezes.\nD) Correta. Some o raio e a altitude.\nE) Não corresponde à distância.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "A Mecânica e o funcionamento do Universo — Aceleração gravitacional"
+    },
+    {
+     "id": "enem-fisica-aceleracao-gravitacional-c14-q07",
+     "tipo": "me",
+     "texto_base": "Um objeto cai por 3 s do repouso com g = 10 m/s².",
+     "enunciado": "Qual a rapidez final?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "30 m/s",
+      "B": "15 m/s",
+      "C": "45 m/s",
+      "D": "10 m/s",
+      "E": "90 m/s"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Use gt.",
+      "B": "É a rapidez média.",
+      "C": "45 m é a distância caída.",
+      "D": "Valeria após 1 s.",
+      "E": "Usa tempo ao quadrado."
+     },
+     "comentario": "A) Correta. Use gt.\nB) É a rapidez média.\nC) 45 m é a distância caída.\nD) Valeria após 1 s.\nE) Usa tempo ao quadrado.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "A Mecânica e o funcionamento do Universo — Aceleração gravitacional"
+    },
+    {
+     "id": "enem-fisica-aceleracao-gravitacional-c14-q08",
+     "tipo": "me",
+     "texto_base": "Dois planetas têm o mesmo raio e massas M e 2M.",
+     "enunciado": "Qual é g do segundo em relação ao primeiro?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "g/2",
+      "B": "4g",
+      "C": "g",
+      "D": "8g",
+      "E": "2g"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Inverte a proporcionalidade.",
+      "B": "A massa não está ao quadrado.",
+      "C": "Ignora a massa da fonte.",
+      "D": "Usa o cubo.",
+      "E": "Correta. g é proporcional à massa da fonte."
+     },
+     "comentario": "A) Inverte a proporcionalidade.\nB) A massa não está ao quadrado.\nC) Ignora a massa da fonte.\nD) Usa o cubo.\nE) Correta. g é proporcional à massa da fonte.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "A Mecânica e o funcionamento do Universo — Aceleração gravitacional"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Como calcular g exterior? ___",
+     "opcoes": [
+      "Use GM/r².",
+      "Metro por segundo ao quadrado.",
+      "Não no modelo de massa de teste desprezível.",
+      "Para o centro de uma fonte esférica isolada."
+     ],
+     "respostas": [
+      "Use GM/r²."
+     ],
+     "explicacao": "Use GM/r²."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "A massa de teste altera g? ___",
+     "opcoes": [
+      "Não no modelo de massa de teste desprezível.",
+      "Para o centro de uma fonte esférica isolada.",
+      "Some altitude e raio.",
+      "Pequenas diferenças de altura permitem tratar g como constante."
+     ],
+     "respostas": [
+      "Não no modelo de massa de teste desprezível."
+     ],
+     "explicacao": "Não no modelo de massa de teste desprezível."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise de aceleração gravitacional.",
+     "itens": [
+      "Identificar a fonte.",
+      "Calcular a distância ao centro.",
+      "Aplicar a dependência com r².",
+      "Conferir a direção e a unidade."
+     ],
+     "explicacao": "Fora de um corpo aproximadamente esférico, g = GM/r², com distância ao centro. Perto do solo, g é aproximadamente constante."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Como calcular g exterior?",
+       "Use GM/r²."
+      ],
+      [
+       "Qual a unidade de g?",
+       "Metro por segundo ao quadrado."
+      ],
+      [
+       "A massa de teste altera g?",
+       "Não no modelo de massa de teste desprezível."
+      ],
+      [
+       "Onde aponta g?",
+       "Para o centro de uma fonte esférica isolada."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

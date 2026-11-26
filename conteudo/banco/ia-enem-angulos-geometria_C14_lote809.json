@@ -1,0 +1,251 @@
+{
+ "assunto": "Ângulos: giros, retas e polígonos",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-angulos-geometria-c14",
+   "titulo": "Ângulos: giros, retas e polígonos",
+   "microconteudo": "RAIO-X DA PROVA: Reconheça ângulos complementares, suplementares, opostos pelo vértice e relações em paralelas. Use somas angulares para calcular medidas.\n\nPOR QUE IMPORTA:\nUma guinada, uma dobra e a abertura de uma tesoura podem ser descritas por ângulos. Na prova, analisar a figura e sua referência ajuda a escolher a relação correta.\n\nO QUE A BANCA COBRA:\nReconheça ângulos complementares, suplementares, opostos pelo vértice e relações em paralelas. Use somas angulares para calcular medidas.\n\nENTENDA:\n1. Giro completo\n\nUm disco foi dividido em três setores de 100°, 105° e um terceiro ângulo. Qual é a abertura restante? Para decidir, precisamos deste conceito: Ângulos em torno do mesmo ponto, sem sobreposição, somam 360° quando completam uma volta. No caso apresentado, a resposta é **155°**. A soma dos setores conhecidos é 205°, então faltam 360° − 205° = 155°.\n\nUma leitura que pode parecer plausível é “75°”. Compare essa hipótese com o que a situação descreve. A soma dos setores conhecidos é 205°, então faltam 360° − 205° = 155°. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n2. Complementares\n\nUma linha divide um ângulo reto. Uma das partes mede 37°. Qual é a abertura da outra parte? Para decidir, precisamos deste conceito: Dois ângulos são complementares quando somam 90°. No caso apresentado, a resposta é **53°**. Para completar o ângulo reto, calcule 90° − 37°.\n\nUma leitura que pode parecer plausível é “143°”. Compare essa hipótese com o que a situação descreve. Para completar o ângulo reto, calcule 90° − 37°. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n3. Suplementares\n\nSobre uma reta, uma semirreta forma dois ângulos adjacentes. Um mede 68°. Qual é o outro ângulo? Para decidir, precisamos deste conceito: Dois ângulos são suplementares quando somam 180°. No caso apresentado, a resposta é **112°**. Os dois ângulos formam juntos um ângulo raso, então 180° − 68° = 112°.\n\nUma leitura que pode parecer plausível é “22°”. Compare essa hipótese com o que a situação descreve. Os dois ângulos formam juntos um ângulo raso, então 180° − 68° = 112°. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n4. Opostos pelo vértice\n\nUma tesoura desenhada como duas retas cruzadas tem um ângulo de 41°. Qual é a medida do ângulo diretamente oposto? Para decidir, precisamos deste conceito: Duas retas concorrentes formam pares de ângulos opostos pelo vértice com medidas iguais. No caso apresentado, a resposta é **41°**. Cada ângulo oposto é suplementar ao mesmo adjacente, logo as medidas são iguais.\n\nUma leitura que pode parecer plausível é “139°”. Compare essa hipótese com o que a situação descreve. Cada ângulo oposto é suplementar ao mesmo adjacente, logo as medidas são iguais. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n5. Transversal a paralelas\n\nEntre duas margens paralelas, uma travessa reta define um ângulo interno de 73° junto à margem superior. Quanto mede o alterno interno junto à margem inferior? Para decidir, precisamos deste conceito: Uma transversal a duas paralelas produz ângulos alternos internos que são congruentes. No caso apresentado, a resposta é **73°**. Os ângulos estão no interior das paralelas e em lados opostos da transversal.\n\nUma leitura que pode parecer plausível é “107°”. Compare essa hipótese com o que a situação descreve. Os ângulos estão no interior das paralelas e em lados opostos da transversal. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n6. Soma no triângulo plano\n\nUma armação triangular tem duas aberturas internas, de 36° e 79°. Qual é a terceira abertura? Para decidir, precisamos deste conceito: Os ângulos internos de um triângulo no plano somam 180°. No caso apresentado, a resposta é **65°**. As medidas conhecidas somam 115°. A terceira mede 180° − 115°.\n\nUma leitura que pode parecer plausível é “115°”. Compare essa hipótese com o que a situação descreve. As medidas conhecidas somam 115°. A terceira mede 180° − 115°. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\nTROCANDO EM MIÚDOS:\n**Giro completo.** Ângulos em torno do mesmo ponto, sem sobreposição, somam 360° quando completam uma volta. Tente resolver esta situação: Um disco foi dividido em três setores de 100°, 105° e um terceiro ângulo. Qual é a abertura restante? Confira: 155°. A soma dos setores conhecidos é 205°, então faltam 360° − 205° = 155°.\n\n**Complementares.** Dois ângulos são complementares quando somam 90°. Tente resolver esta situação: Uma linha divide um ângulo reto. Uma das partes mede 37°. Qual é a abertura da outra parte? Confira: 53°. Para completar o ângulo reto, calcule 90° − 37°.\n\n**Suplementares.** Dois ângulos são suplementares quando somam 180°. Tente resolver esta situação: Sobre uma reta, uma semirreta forma dois ângulos adjacentes. Um mede 68°. Qual é o outro ângulo? Confira: 112°. Os dois ângulos formam juntos um ângulo raso, então 180° − 68° = 112°.\n\n**Opostos pelo vértice.** Duas retas concorrentes formam pares de ângulos opostos pelo vértice com medidas iguais. Tente resolver esta situação: Uma tesoura desenhada como duas retas cruzadas tem um ângulo de 41°. Qual é a medida do ângulo diretamente oposto? Confira: 41°. Cada ângulo oposto é suplementar ao mesmo adjacente, logo as medidas são iguais.\n\n**Transversal a paralelas.** Uma transversal a duas paralelas produz ângulos alternos internos que são congruentes. Tente resolver esta situação: Entre duas margens paralelas, uma travessa reta define um ângulo interno de 73° junto à margem superior. Quanto mede o alterno interno junto à margem inferior? Confira: 73°. Os ângulos estão no interior das paralelas e em lados opostos da transversal.\n\n**Soma no triângulo plano.** Os ângulos internos de um triângulo no plano somam 180°. Tente resolver esta situação: Uma armação triangular tem duas aberturas internas, de 36° e 79°. Qual é a terceira abertura? Confira: 65°. As medidas conhecidas somam 115°. A terceira mede 180° − 115°.\n\nESQUEMA:\n• Giro completo → Ângulos em torno do mesmo ponto, sem sobreposição, somam 360° quando completam uma volta.\n• Complementares → Dois ângulos são complementares quando somam 90°.\n• Suplementares → Dois ângulos são suplementares quando somam 180°.\n• Opostos pelo vértice → Duas retas concorrentes formam pares de ângulos opostos pelo vértice com medidas iguais.\n• Transversal a paralelas → Uma transversal a duas paralelas produz ângulos alternos internos que são congruentes.\n• Soma no triângulo plano → Os ângulos internos de um triângulo no plano somam 180°.\n\nPEGADINHAS:\n• Giro completo: ao ler “75°”, confira o que o enunciado permite concluir.\n• Complementares: ao ler “143°”, confira o que o enunciado permite concluir.\n• Suplementares: ao ler “22°”, confira o que o enunciado permite concluir.\n• Opostos pelo vértice: ao ler “139°”, confira o que o enunciado permite concluir.\n• Transversal a paralelas: ao ler “107°”, confira o que o enunciado permite concluir.\n• Soma no triângulo plano: ao ler “115°”, confira o que o enunciado permite concluir.\n\nNA PRÁTICA:\nUma armação triangular tem duas aberturas internas, de 36° e 79°. Qual é a terceira abertura? **Resposta:** 65°. As medidas conhecidas somam 115°. A terceira mede 180° − 115°.",
+   "flashcards": [
+    {
+     "frente": "Como reconhecer giro completo?",
+     "verso": "Ângulos em torno do mesmo ponto, sem sobreposição, somam 360° quando completam uma volta.",
+     "dispositivo": "Conhecimentos geométricos — Ângulos"
+    },
+    {
+     "frente": "Como reconhecer complementares?",
+     "verso": "Dois ângulos são complementares quando somam 90°.",
+     "dispositivo": "Conhecimentos geométricos — Ângulos"
+    },
+    {
+     "frente": "Como reconhecer suplementares?",
+     "verso": "Dois ângulos são suplementares quando somam 180°.",
+     "dispositivo": "Conhecimentos geométricos — Ângulos"
+    },
+    {
+     "frente": "Como reconhecer opostos pelo vértice?",
+     "verso": "Duas retas concorrentes formam pares de ângulos opostos pelo vértice com medidas iguais.",
+     "dispositivo": "Conhecimentos geométricos — Ângulos"
+    },
+    {
+     "frente": "Como reconhecer transversal a paralelas?",
+     "verso": "Uma transversal a duas paralelas produz ângulos alternos internos que são congruentes.",
+     "dispositivo": "Conhecimentos geométricos — Ângulos"
+    },
+    {
+     "frente": "Como reconhecer soma no triângulo plano?",
+     "verso": "Os ângulos internos de um triângulo no plano somam 180°.",
+     "dispositivo": "Conhecimentos geométricos — Ângulos"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-angulos-geometria-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Dois ângulos adjacentes sobre uma reta medem 35° e 145°.",
+     "enunciado": "Eles são suplementares.",
+     "gabarito": "C",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Ângulos",
+     "comentario": "As duas medidas somam 180°."
+    },
+    {
+     "id": "enem-angulos-geometria-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Duas retas que se cruzam formam um ângulo de 30°.",
+     "enunciado": "O ângulo diretamente oposto mede 150°.",
+     "gabarito": "E",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Ângulos",
+     "comentario": "O oposto pelo vértice mede 30°. O adjacente é que mede 150°."
+    },
+    {
+     "id": "enem-angulos-geometria-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Num triângulo plano há um ângulo de 100° e outro de 45°.",
+     "enunciado": "O terceiro mede 45°.",
+     "gabarito": "E",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Ângulos",
+     "comentario": "Faltam 35°, pois 100° + 45° = 145° e a soma interna é 180°."
+    },
+    {
+     "id": "enem-angulos-geometria-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Um ângulo reto é dividido em três partes iguais.",
+     "enunciado": "Cada parte mede 30°.",
+     "gabarito": "C",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Ângulos",
+     "comentario": "A divisão de 90° por três dá 30°."
+    },
+    {
+     "id": "enem-angulos-geometria-c14-q05",
+     "tipo": "me",
+     "texto_base": "Uma linha divide um ângulo reto. Uma das partes mede 37°.",
+     "enunciado": "Qual é a abertura da outra parte?",
+     "gabarito": "A",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Ângulos",
+     "alternativas": {
+      "A": "53°",
+      "B": "143°",
+      "C": "112°",
+      "D": "41°",
+      "E": "73°"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Para completar o ângulo reto, calcule 90° − 37°.",
+      "B": "Essa leitura falha neste caso. Para completar o ângulo reto, calcule 90° − 37°.",
+      "C": "Essa resposta se relaciona a suplementares. Aqui, a pista decisiva é outra. Para completar o ângulo reto, calcule 90° − 37°.",
+      "D": "Essa resposta se relaciona a opostos pelo vértice. Aqui, a pista decisiva é outra. Para completar o ângulo reto, calcule 90° − 37°.",
+      "E": "Essa resposta se relaciona a transversal a paralelas. Aqui, a pista decisiva é outra. Para completar o ângulo reto, calcule 90° − 37°."
+     },
+     "comentario": "A) Correta. Para completar o ângulo reto, calcule 90° − 37°.\nB) Essa leitura falha neste caso. Para completar o ângulo reto, calcule 90° − 37°.\nC) Essa resposta se relaciona a suplementares. Aqui, a pista decisiva é outra. Para completar o ângulo reto, calcule 90° − 37°.\nD) Essa resposta se relaciona a opostos pelo vértice. Aqui, a pista decisiva é outra. Para completar o ângulo reto, calcule 90° − 37°.\nE) Essa resposta se relaciona a transversal a paralelas. Aqui, a pista decisiva é outra. Para completar o ângulo reto, calcule 90° − 37°."
+    },
+    {
+     "id": "enem-angulos-geometria-c14-q06",
+     "tipo": "me",
+     "texto_base": "Sobre uma reta, uma semirreta forma dois ângulos adjacentes. Um mede 68°.",
+     "enunciado": "Qual é o outro ângulo?",
+     "gabarito": "B",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Ângulos",
+     "alternativas": {
+      "A": "22°",
+      "B": "112°",
+      "C": "41°",
+      "D": "73°",
+      "E": "65°"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Essa leitura falha neste caso. Os dois ângulos formam juntos um ângulo raso, então 180° − 68° = 112°.",
+      "B": "Correta. Os dois ângulos formam juntos um ângulo raso, então 180° − 68° = 112°.",
+      "C": "Essa resposta se relaciona a opostos pelo vértice. Aqui, a pista decisiva é outra. Os dois ângulos formam juntos um ângulo raso, então 180° − 68° = 112°.",
+      "D": "Essa resposta se relaciona a transversal a paralelas. Aqui, a pista decisiva é outra. Os dois ângulos formam juntos um ângulo raso, então 180° − 68° = 112°.",
+      "E": "Essa resposta se relaciona a soma no triângulo plano. Aqui, a pista decisiva é outra. Os dois ângulos formam juntos um ângulo raso, então 180° − 68° = 112°."
+     },
+     "comentario": "A) Essa leitura falha neste caso. Os dois ângulos formam juntos um ângulo raso, então 180° − 68° = 112°.\nB) Correta. Os dois ângulos formam juntos um ângulo raso, então 180° − 68° = 112°.\nC) Essa resposta se relaciona a opostos pelo vértice. Aqui, a pista decisiva é outra. Os dois ângulos formam juntos um ângulo raso, então 180° − 68° = 112°.\nD) Essa resposta se relaciona a transversal a paralelas. Aqui, a pista decisiva é outra. Os dois ângulos formam juntos um ângulo raso, então 180° − 68° = 112°.\nE) Essa resposta se relaciona a soma no triângulo plano. Aqui, a pista decisiva é outra. Os dois ângulos formam juntos um ângulo raso, então 180° − 68° = 112°."
+    },
+    {
+     "id": "enem-angulos-geometria-c14-q07",
+     "tipo": "me",
+     "texto_base": "Uma tesoura desenhada como duas retas cruzadas tem um ângulo de 41°.",
+     "enunciado": "Qual é a medida do ângulo diretamente oposto?",
+     "gabarito": "C",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Ângulos",
+     "alternativas": {
+      "A": "139°",
+      "B": "73°",
+      "C": "41°",
+      "D": "65°",
+      "E": "155°"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Essa leitura falha neste caso. Cada ângulo oposto é suplementar ao mesmo adjacente, logo as medidas são iguais.",
+      "B": "Essa resposta se relaciona a transversal a paralelas. Aqui, a pista decisiva é outra. Cada ângulo oposto é suplementar ao mesmo adjacente, logo as medidas são iguais.",
+      "C": "Correta. Cada ângulo oposto é suplementar ao mesmo adjacente, logo as medidas são iguais.",
+      "D": "Essa resposta se relaciona a soma no triângulo plano. Aqui, a pista decisiva é outra. Cada ângulo oposto é suplementar ao mesmo adjacente, logo as medidas são iguais.",
+      "E": "Essa resposta se relaciona a giro completo. Aqui, a pista decisiva é outra. Cada ângulo oposto é suplementar ao mesmo adjacente, logo as medidas são iguais."
+     },
+     "comentario": "A) Essa leitura falha neste caso. Cada ângulo oposto é suplementar ao mesmo adjacente, logo as medidas são iguais.\nB) Essa resposta se relaciona a transversal a paralelas. Aqui, a pista decisiva é outra. Cada ângulo oposto é suplementar ao mesmo adjacente, logo as medidas são iguais.\nC) Correta. Cada ângulo oposto é suplementar ao mesmo adjacente, logo as medidas são iguais.\nD) Essa resposta se relaciona a soma no triângulo plano. Aqui, a pista decisiva é outra. Cada ângulo oposto é suplementar ao mesmo adjacente, logo as medidas são iguais.\nE) Essa resposta se relaciona a giro completo. Aqui, a pista decisiva é outra. Cada ângulo oposto é suplementar ao mesmo adjacente, logo as medidas são iguais."
+    },
+    {
+     "id": "enem-angulos-geometria-c14-q08",
+     "tipo": "me",
+     "texto_base": "Entre duas margens paralelas, uma travessa reta define um ângulo interno de 73° junto à margem superior.",
+     "enunciado": "Quanto mede o alterno interno junto à margem inferior?",
+     "gabarito": "D",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Ângulos",
+     "alternativas": {
+      "A": "107°",
+      "B": "65°",
+      "C": "155°",
+      "D": "73°",
+      "E": "53°"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Essa leitura falha neste caso. Os ângulos estão no interior das paralelas e em lados opostos da transversal.",
+      "B": "Essa resposta se relaciona a soma no triângulo plano. Aqui, a pista decisiva é outra. Os ângulos estão no interior das paralelas e em lados opostos da transversal.",
+      "C": "Essa resposta se relaciona a giro completo. Aqui, a pista decisiva é outra. Os ângulos estão no interior das paralelas e em lados opostos da transversal.",
+      "D": "Correta. Os ângulos estão no interior das paralelas e em lados opostos da transversal.",
+      "E": "Essa resposta se relaciona a complementares. Aqui, a pista decisiva é outra. Os ângulos estão no interior das paralelas e em lados opostos da transversal."
+     },
+     "comentario": "A) Essa leitura falha neste caso. Os ângulos estão no interior das paralelas e em lados opostos da transversal.\nB) Essa resposta se relaciona a soma no triângulo plano. Aqui, a pista decisiva é outra. Os ângulos estão no interior das paralelas e em lados opostos da transversal.\nC) Essa resposta se relaciona a giro completo. Aqui, a pista decisiva é outra. Os ângulos estão no interior das paralelas e em lados opostos da transversal.\nD) Correta. Os ângulos estão no interior das paralelas e em lados opostos da transversal.\nE) Essa resposta se relaciona a complementares. Aqui, a pista decisiva é outra. Os ângulos estão no interior das paralelas e em lados opostos da transversal."
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Um disco foi dividido em três setores de 100°, 105° e um terceiro ângulo. Qual é a abertura restante? Resposta: ___.",
+     "opcoes": [
+      "155°",
+      "75°",
+      "112°"
+     ],
+     "respostas": [
+      "155°"
+     ],
+     "explicacao": "A soma dos setores conhecidos é 205°, então faltam 360° − 205° = 155°."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Uma armação triangular tem duas aberturas internas, de 36° e 79°. Qual é a terceira abertura? Resposta: ___.",
+     "opcoes": [
+      "65°",
+      "115°",
+      "53°"
+     ],
+     "respostas": [
+      "65°"
+     ],
+     "explicacao": "As medidas conhecidas somam 115°. A terceira mede 180° − 115°."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a resolução do caso de suplementares. Sobre uma reta, uma semirreta forma dois ângulos adjacentes. Um mede 68°. Qual é o outro ângulo?",
+     "itens": [
+      "Identificar o que a pergunta quer saber.",
+      "Relacionar as pistas ao conceito estudado.",
+      "Formular a resposta sustentada pelas pistas.",
+      "Conferir se a resposta atende à pergunta."
+     ],
+     "explicacao": "Os dois ângulos formam juntos um ângulo raso, então 180° − 68° = 112°."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Giro completo",
+       "Ângulos em torno do mesmo ponto, sem sobreposição, somam 360° quando completam uma volta."
+      ],
+      [
+       "Complementares",
+       "Dois ângulos são complementares quando somam 90°."
+      ],
+      [
+       "Suplementares",
+       "Dois ângulos são suplementares quando somam 180°."
+      ],
+      [
+       "Opostos pelo vértice",
+       "Duas retas concorrentes formam pares de ângulos opostos pelo vértice com medidas iguais."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

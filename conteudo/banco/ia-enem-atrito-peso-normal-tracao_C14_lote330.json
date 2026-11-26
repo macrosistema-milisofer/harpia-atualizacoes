@@ -1,0 +1,253 @@
+{
+ "assunto": "Atrito, peso, normal e tração",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-atrito-peso-normal-tracao-c14",
+   "titulo": "Atrito, peso, normal e tração",
+   "microconteudo": "RAIO-X DA PROVA: Interprete a situação e justifique a conclusão com a relação física pertinente. Peso é força gravitacional; normal é contato perpendicular; atrito atua tangencialmente; tração puxa ao longo do fio ideal.\n\nPOR QUE IMPORTA:\nUma caixa pode ser puxada por uma corda, sustentada pelo piso e retardada pelo atrito. Cada força tem uma origem identificável.\n\nO QUE A BANCA COBRA:\nInterprete a situação e justifique a conclusão com a relação física pertinente. Peso é força gravitacional; normal é contato perpendicular; atrito atua tangencialmente; tração puxa ao longo do fio ideal.\n\nENTENDA:\nComece por esta situação: Uma caixa pode ser puxada por uma corda, sustentada pelo piso e retardada pelo atrito. Cada força tem uma origem identificável. Leia os dados disponíveis e faça uma previsão antes de procurar uma fórmula. Peso é força gravitacional; normal é contato perpendicular; atrito atua tangencialmente; tração puxa ao longo do fio ideal. Uma caixa de 4 kg repousa no piso plano sem outras forças verticais. Com g = 10 m/s², peso e normal têm módulo de 40 N.\n\nSe você puxa uma caixa e ela continua parada, o atrito estático pode equilibrar a força aplicada. Aumentar o puxão aumenta a força necessária para o equilíbrio até atingir o limite estático. Para uma caixa em repouso sem qualquer tendência de deslizamento, o atrito estático pode ser zero apesar de haver contato.\n\nUma caixa de 4 kg repousa no piso plano sem outras forças verticais. Com g = 10 m/s², peso e normal têm módulo de 40 N. Ao interpretar esse exemplo, escreva a condição física que torna possível prever o resultado. Pergunte se ela continuaria valendo caso um dos dados omitidos passasse a ter importância. Diferencie o que você consegue concluir numericamente do que pode apenas prever qualitativamente. A descrição do resultado deve manter explícito qual corpo ou conjunto está sendo observado e em qual intervalo a afirmação é válida.\n\nConfira o significado das palavras da questão. Que interação produz o peso? A interação gravitacional.\nComo a normal se orienta? Perpendicularmente à superfície de contato.\nComo atua a tração? Ao longo do fio, puxando o corpo.\nComo identificar o sentido do atrito? Ele se opõe ao deslizamento relativo ou à sua tendência no contato.\nComo estimar atrito cinético no modelo escolar? Multiplique o coeficiente cinético pela normal.\nAtrito estático vale sempre o máximo? Não. Seu módulo pode ajustar-se até um limite. Se dois termos parecem próximos, compare o que cada um descreve no caso inicial. Em Física, trocar o nome de uma grandeza pode mudar o cálculo ou até o que se está tentando explicar. Escreva, ao lado de cada símbolo, qual parte da situação ele representa e em que unidade seria medido.\n\nExemplo 1. Um objeto tem massa de 6 kg e g = 10 m/s². Qual o peso em módulo? A resposta é 60 N. Multiplique massa por g. É a massa em quilogramas. É o número de g. Divide massa por g. Soma grandezas incompatíveis.\n\nExemplo 2. O coeficiente de atrito cinético é 0,2 e a normal vale 50 N. Qual o módulo do atrito? A resposta é 10 N. O produto de 0,2 por 50 vale 10. Divide pela constante. Ignora o coeficiente. Repete o coeficiente. Usa 2 em vez de 0,2.\n\nExemplo 3. Uma caixa de peso 40 N é puxada verticalmente para cima com 10 N, sem sair do piso horizontal e sem acelerar. Qual a normal? A resposta é 30 N. A tração já compensa parte do peso. Valeria sem tração vertical. A tração aponta para cima, não para baixo. É a tração. A caixa ainda está apoiada.\n\nExemplo 4. Uma caixa recebe tração horizontal de 25 N e atrito de 7 N no sentido oposto. Qual o módulo da resultante horizontal? A resposta é 18 N. Subtraia 7 de 25. Soma forças opostas. Ignora o atrito. Ignora a tração. As duas forças não se equilibram.\n\nTeste de interpretação. Um livro repousa sobre uma mesa horizontal. Considere a afirmação: “A força normal é perpendicular à mesa.” Certo. Ela aponta para fora da superfície de contato. Um plano está inclinado. Considere a afirmação: “A normal é sempre vertical.” Errado. Ela é perpendicular ao plano, que não é horizontal. Um bloco desliza para a direita sobre um piso fixo. Considere a afirmação: “O atrito cinético do piso aponta para a esquerda.” Certo. Ele se opõe ao deslizamento relativo. Uma corda ideal está presa à caixa. Considere a afirmação: “A corda consegue empurrar a caixa quando afrouxa.” Errado. Corda transmite tração quando tensionada.\n\nUma sequência de resolução é útil quando a questão traz mais dados que o necessário. Primeiro, isolar o corpo. Depois, identificar superfícies e fios. Em seguida, indicar a força de cada interação. Por último, somar componentes no eixo solicitado. Explique oralmente por que cada passo vem nessa posição. Se a última conclusão mudar quando você troca um detalhe do enunciado, localize qual hipótese provocou essa mudança. Isso ajuda a distinguir o resultado de uma conta das condições em que ele vale.\n\nEm uma prova, procure separar o que o texto observou, o que o modelo assume e o que você concluiu. Um valor informado é um dado. Uma condição como desprezar o atrito ou tratar o intervalo como uniforme pode ser uma hipótese. Já o resultado é aquilo que você obtém ao combinar os dados com a regra escolhida. Se houver tabela ou figura, confira a legenda, os eixos e as unidades antes de usar os números. Para revisar, refaça um dos exemplos mudando um dado por vez e preveja o sentido da mudança antes de calcular.\n\nCheck de leitura. Escolha dois exemplos desta lição e compare o papel de cada informação. O que foi medido diretamente? Qual relação precisou ser usada para inferir uma resposta? Há alguma observação que, sozinha, seria insuficiente? Se a resposta for um número, faça uma estimativa simples para checar se ele é plausível. Se for uma explicação, procure indicar qual condição a torna válida. Depois, tente escrever uma resposta que inclua o dado utilizado, o raciocínio e a conclusão em uma ou duas frases.\n\nAo montar um rascunho, deixe os dados de um lado e a conclusão do outro. Comece pelo dado que tem relação direta com a pergunta. Caso sobrem informações, veja se elas servem para comparar hipóteses ou apenas situar a história. Em uma comparação, mantenha a mesma referência e o mesmo intervalo sempre que o enunciado permitir. Quando um resultado contradiz a previsão inicial, revise primeiro a interpretação do que foi pedido; em seguida, revise a operação e as condições assumidas.\n\nNa primeira, destaque o que o enunciado informa sobre as condições da situação. Na segunda, explique como a regra escolhida conecta essas condições ao resultado. Se houver um cálculo, escreva as unidades intermediárias. Em uma resposta sobre direção ou sentido, declare a orientação de referência. Uma alternativa pode conter um número familiar do enunciado e ainda responder sobre a grandeza errada.\n\nPara fechar, compare estas duas situações e procure a diferença física entre elas. Um livro repousa sobre uma mesa horizontal. Um plano está inclinado. Quando o contexto muda, a leitura deve partir das informações apresentadas naquele caso. Considere a primeira afirmação e justifique o resultado: “A força normal é perpendicular à mesa.” Certo. Ela aponta para fora da superfície de contato. Agora avalie a segunda: “A normal é sempre vertical.” Errado. Ela é perpendicular ao plano, que não é horizontal. Uma explicação adequada pode usar palavras e cálculos, desde que a relação com a situação seja clara. Pense em qual mudança nos dados tornaria cada afirmação válida ou inválida.\n\nUse este conjunto de definições como roteiro para checar o raciocínio. Que interação produz o peso? A interação gravitacional.\nComo a normal se orienta? Perpendicularmente à superfície de contato.\nComo atua a tração? Ao longo do fio, puxando o corpo.\nComo identificar o sentido do atrito? Ele se opõe ao deslizamento relativo ou à sua tendência no contato.\nComo estimar atrito cinético no modelo escolar? Multiplique o coeficiente cinético pela normal.\nAtrito estático vale sempre o máximo? Não. Seu módulo pode ajustar-se até um limite. Ao voltar aos dados do começo, selecione as definições pertinentes ao caso. Leia a conclusão como se ela fosse uma frase independente: confira a unidade, a referência adotada e a condição de validade.\n\nTROCANDO EM MIÚDOS:\nImagine a situação do começo da lição. Uma caixa pode ser puxada por uma corda, sustentada pelo piso e retardada pelo atrito. Cada força tem uma origem identificável. Uma caixa de 4 kg repousa no piso plano sem outras forças verticais. Com g = 10 m/s², peso e normal têm módulo de 40 N.\n\nA regra principal pode ser escrita assim: Peso é força gravitacional; normal é contato perpendicular; atrito atua tangencialmente; tração puxa ao longo do fio ideal. Tente explicar essa regra em voz alta para alguém que ainda não viu o conteúdo, usando o exemplo inicial como apoio.\n\nAntes de marcar uma alternativa, faça esta checagem. Que interação produz o peso? A interação gravitacional. Como a normal se orienta? Perpendicularmente à superfície de contato. Como atua a tração? Ao longo do fio, puxando o corpo. Como identificar o sentido do atrito? Ele se opõe ao deslizamento relativo ou à sua tendência no contato. Como estimar atrito cinético no modelo escolar? Multiplique o coeficiente cinético pela normal. Atrito estático vale sempre o máximo? Não. Seu módulo pode ajustar-se até um limite.\n\nEm um rascunho curto, anote quatro passos. Isolar o corpo. Identificar superfícies e fios. Indicar a força de cada interação. Somar componentes no eixo solicitado. Em seguida, tente aplicar os passos a um exemplo com números ou condições diferentes. As grandezas que foram medidas e o que você quer descobrir devem ficar em linhas separadas. Isso ajuda a identificar qual informação ainda falta.\n\nExperimente responder a esta situação sem olhar as opções. Um objeto tem massa de 6 kg e g = 10 m/s². Qual o peso em módulo? Multiplique massa por g. Depois, confira nos exemplos quais seriam as consequências de escolher uma interpretação diferente. Se tiver que refazer, comece pelas condições do problema e pelo significado de cada dado.\n\nPara fixar, releia uma afirmação verdadeira e uma falsa da lição. Reescreva a falsa trocando só o trecho necessário para corrigi-la. Na afirmação verdadeira, diga qual detalhe do enunciado permite chegar a essa conclusão. Assim você pratica explicar um resultado, além de reconhecer qual opção está certa.\n\nLEI SECA:\nPeso é força gravitacional; normal é contato perpendicular; atrito atua tangencialmente; tração puxa ao longo do fio ideal.\n\nSÚMULAS E TESES:\nUma caixa de 4 kg repousa no piso plano sem outras forças verticais. Com g = 10 m/s², peso e normal têm módulo de 40 N.\n\nESQUEMA:\nIsolar o corpo → Identificar superfícies e fios → Indicar a força de cada interação → Somar componentes no eixo solicitado\n\nPEGADINHAS:\n1. Certo. Ela aponta para fora da superfície de contato.\n2. Errado. Ela é perpendicular ao plano, que não é horizontal.\n3. Certo. Ele se opõe ao deslizamento relativo.\n4. Errado. Corda transmite tração quando tensionada.\n\nDOUTRINA:\nOpenStax — College Physics 2e, Friction\n\nNA PRÁTICA:\nExemplo 1. Um objeto tem massa de 6 kg e g = 10 m/s². Qual o peso em módulo? A resposta é 60 N. Multiplique massa por g. É a massa em quilogramas. É o número de g. Divide massa por g. Soma grandezas incompatíveis.",
+   "flashcards": [
+    {
+     "frente": "Que interação produz o peso?",
+     "verso": "A interação gravitacional.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Força de atrito, força peso, força normal de contato e tração"
+    },
+    {
+     "frente": "Como a normal se orienta?",
+     "verso": "Perpendicularmente à superfície de contato.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Força de atrito, força peso, força normal de contato e tração"
+    },
+    {
+     "frente": "Como atua a tração?",
+     "verso": "Ao longo do fio, puxando o corpo.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Força de atrito, força peso, força normal de contato e tração"
+    },
+    {
+     "frente": "Como identificar o sentido do atrito?",
+     "verso": "Ele se opõe ao deslizamento relativo ou à sua tendência no contato.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Força de atrito, força peso, força normal de contato e tração"
+    },
+    {
+     "frente": "Como estimar atrito cinético no modelo escolar?",
+     "verso": "Multiplique o coeficiente cinético pela normal.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Força de atrito, força peso, força normal de contato e tração"
+    },
+    {
+     "frente": "Atrito estático vale sempre o máximo?",
+     "verso": "Não. Seu módulo pode ajustar-se até um limite.",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Força de atrito, força peso, força normal de contato e tração"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-atrito-peso-normal-tracao-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Um livro repousa sobre uma mesa horizontal.",
+     "enunciado": "A força normal é perpendicular à mesa.",
+     "gabarito": "C",
+     "comentario": "Certo. Ela aponta para fora da superfície de contato.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Força de atrito, força peso, força normal de contato e tração"
+    },
+    {
+     "id": "enem-fisica-atrito-peso-normal-tracao-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Um plano está inclinado.",
+     "enunciado": "A normal é sempre vertical.",
+     "gabarito": "E",
+     "comentario": "Errado. Ela é perpendicular ao plano, que não é horizontal.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Força de atrito, força peso, força normal de contato e tração"
+    },
+    {
+     "id": "enem-fisica-atrito-peso-normal-tracao-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Um bloco desliza para a direita sobre um piso fixo.",
+     "enunciado": "O atrito cinético do piso aponta para a esquerda.",
+     "gabarito": "C",
+     "comentario": "Certo. Ele se opõe ao deslizamento relativo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Força de atrito, força peso, força normal de contato e tração"
+    },
+    {
+     "id": "enem-fisica-atrito-peso-normal-tracao-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Uma corda ideal está presa à caixa.",
+     "enunciado": "A corda consegue empurrar a caixa quando afrouxa.",
+     "gabarito": "E",
+     "comentario": "Errado. Corda transmite tração quando tensionada.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Força de atrito, força peso, força normal de contato e tração"
+    },
+    {
+     "id": "enem-fisica-atrito-peso-normal-tracao-c14-q05",
+     "tipo": "me",
+     "texto_base": "Um objeto tem massa de 6 kg e g = 10 m/s².",
+     "enunciado": "Qual o peso em módulo?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "6 N",
+      "B": "60 N",
+      "C": "10 N",
+      "D": "0,6 N",
+      "E": "16 N"
+     },
+     "comentarios_por_alternativa": {
+      "A": "É a massa em quilogramas.",
+      "B": "Correta. Multiplique massa por g.",
+      "C": "É o número de g.",
+      "D": "Divide massa por g.",
+      "E": "Soma grandezas incompatíveis."
+     },
+     "comentario": "A) É a massa em quilogramas.\nB) Correta. Multiplique massa por g.\nC) É o número de g.\nD) Divide massa por g.\nE) Soma grandezas incompatíveis.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Força de atrito, força peso, força normal de contato e tração"
+    },
+    {
+     "id": "enem-fisica-atrito-peso-normal-tracao-c14-q06",
+     "tipo": "me",
+     "texto_base": "O coeficiente de atrito cinético é 0,2 e a normal vale 50 N.",
+     "enunciado": "Qual o módulo do atrito?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "250 N",
+      "B": "50 N",
+      "C": "0,2 N",
+      "D": "10 N",
+      "E": "100 N"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Divide pela constante.",
+      "B": "Ignora o coeficiente.",
+      "C": "Repete o coeficiente.",
+      "D": "Correta. O produto de 0,2 por 50 vale 10.",
+      "E": "Usa 2 em vez de 0,2."
+     },
+     "comentario": "A) Divide pela constante.\nB) Ignora o coeficiente.\nC) Repete o coeficiente.\nD) Correta. O produto de 0,2 por 50 vale 10.\nE) Usa 2 em vez de 0,2.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Força de atrito, força peso, força normal de contato e tração"
+    },
+    {
+     "id": "enem-fisica-atrito-peso-normal-tracao-c14-q07",
+     "tipo": "me",
+     "texto_base": "Uma caixa de peso 40 N é puxada verticalmente para cima com 10 N, sem sair do piso horizontal e sem acelerar.",
+     "enunciado": "Qual a normal?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "30 N",
+      "B": "40 N",
+      "C": "50 N",
+      "D": "10 N",
+      "E": "0 N"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. A tração já compensa parte do peso.",
+      "B": "Valeria sem tração vertical.",
+      "C": "A tração aponta para cima, não para baixo.",
+      "D": "É a tração.",
+      "E": "A caixa ainda está apoiada."
+     },
+     "comentario": "A) Correta. A tração já compensa parte do peso.\nB) Valeria sem tração vertical.\nC) A tração aponta para cima, não para baixo.\nD) É a tração.\nE) A caixa ainda está apoiada.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Força de atrito, força peso, força normal de contato e tração"
+    },
+    {
+     "id": "enem-fisica-atrito-peso-normal-tracao-c14-q08",
+     "tipo": "me",
+     "texto_base": "Uma caixa recebe tração horizontal de 25 N e atrito de 7 N no sentido oposto.",
+     "enunciado": "Qual o módulo da resultante horizontal?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "32 N",
+      "B": "25 N",
+      "C": "7 N",
+      "D": "0 N",
+      "E": "18 N"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Soma forças opostas.",
+      "B": "Ignora o atrito.",
+      "C": "Ignora a tração.",
+      "D": "As duas forças não se equilibram.",
+      "E": "Correta. Subtraia 7 de 25."
+     },
+     "comentario": "A) Soma forças opostas.\nB) Ignora o atrito.\nC) Ignora a tração.\nD) As duas forças não se equilibram.\nE) Correta. Subtraia 7 de 25.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O movimento, o equilíbrio e a descoberta de leis físicas — Força de atrito, força peso, força normal de contato e tração"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Que interação produz o peso? Resposta: ___.",
+     "opcoes": [
+      "A interação gravitacional.",
+      "Perpendicularmente à superfície de contato.",
+      "Ao longo do fio, puxando o corpo.",
+      "Ele se opõe ao deslizamento relativo ou à sua tendência no contato."
+     ],
+     "respostas": [
+      "A interação gravitacional."
+     ],
+     "explicacao": "A interação gravitacional."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Como estimar atrito cinético no modelo escolar? Resposta: ___.",
+     "opcoes": [
+      "Ao longo do fio, puxando o corpo.",
+      "Ele se opõe ao deslizamento relativo ou à sua tendência no contato.",
+      "Multiplique o coeficiente cinético pela normal.",
+      "Não. Seu módulo pode ajustar-se até um limite."
+     ],
+     "respostas": [
+      "Multiplique o coeficiente cinético pela normal."
+     ],
+     "explicacao": "Multiplique o coeficiente cinético pela normal."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma situação sobre atrito, peso, normal e tração.",
+     "itens": [
+      "Isolar o corpo.",
+      "Identificar superfícies e fios.",
+      "Indicar a força de cada interação.",
+      "Somar componentes no eixo solicitado."
+     ],
+     "explicacao": "Peso é força gravitacional; normal é contato perpendicular; atrito atua tangencialmente; tração puxa ao longo do fio ideal."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Que interação produz o peso?",
+       "A interação gravitacional."
+      ],
+      [
+       "Como a normal se orienta?",
+       "Perpendicularmente à superfície de contato."
+      ],
+      [
+       "Como atua a tração?",
+       "Ao longo do fio, puxando o corpo."
+      ],
+      [
+       "Como identificar o sentido do atrito?",
+       "Ele se opõe ao deslizamento relativo ou à sua tendência no contato."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

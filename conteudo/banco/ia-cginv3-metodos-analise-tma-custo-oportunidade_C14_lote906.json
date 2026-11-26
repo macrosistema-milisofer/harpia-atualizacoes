@@ -1,0 +1,235 @@
+{
+ "assunto": "Métodos de análise, taxa mínima de atratividade e custo de oportunidade",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "cginv3-c14-metodos-analise-tma-custo-oportunidade",
+   "titulo": "Métodos de análise, taxa mínima de atratividade e custo de oportunidade",
+   "microconteudo": "RAIO-X DA PROVA: Defina fluxos incrementais e alternativas comparáveis. Interprete TMA, payback, índice de lucratividade e VPL conforme o problema de decisão.\n\nPOR QUE IMPORTA:\nA análise financeira de um RPPS exige comparar valores em datas e bases compatíveis. Defina fluxos incrementais e alternativas comparáveis. Interprete TMA, payback, índice de lucratividade e VPL conforme o problema de decisão.\n\nO QUE A BANCA COBRA:\nDefina fluxos incrementais e alternativas comparáveis. Interprete TMA, payback, índice de lucratividade e VPL conforme o problema de decisão.\n\nENTENDA:\nA análise de investimentos começa pela comparação econômica entre alternativas factíveis. Um investimento envolve uma aplicação de recursos em troca de fluxos futuros. Na avaliação incremental, entram as diferenças de caixa causadas pela decisão: desembolsos, entradas, custos evitados e valor residual quando pertinentes. Um gasto passado e irrecuperável é custo afundado. Ele pode explicar a história do projeto, mas não muda o fluxo incremental de escolher uma alternativa hoje. Já utilizar um ativo que poderia ser vendido ou alugado implica abrir mão de um valor futuro ou presente associado à melhor alternativa viável. Esse valor é custo de oportunidade.\n\nA taxa mínima de atratividade, ou TMA, é o retorno requerido para aceitar a alternativa nas bases usadas na análise. Em decisões privadas, pode refletir a alternativa de risco comparável e o custo dos recursos, com ajustes quando sustentados. Para um RPPS, o exame da carteira também deve considerar elegibilidade, liquidez, obrigações e política aprovada. Uma taxa de referência econômica, um índice de desempenho e uma meta atuarial podem ter funções diferentes. Identifique a taxa definida pelo problema e mantenha coerência entre período, risco e base de inflação dos fluxos. Projetar fluxos nominais e descontá-los a uma taxa real superestima o valor presente quando a inflação é positiva.\n\nAo usar custo de oportunidade como taxa, escolha um investimento alternativo que poderia efetivamente ser feito e cuja exposição seja comparável. Uma alternativa à disposição com taxa de 8%, mesmo horizonte, risco e liquidez constitui uma referência defensável. Um investimento de alto risco que anuncia 18% não estabelece automaticamente o retorno mínimo de toda decisão. Se as alternativas têm calendários distintos ou exigem reservas distintas, deixe isso explícito e compare a compatibilidade com as obrigações. A taxa única pode ser uma simplificação de prova. Em aplicações com estrutura temporal de taxas ou riscos diferentes por fluxo, a análise pode requerer fatores específicos.\n\nO mesmo conceito de oportunidade aparece na estimativa de fluxos. Suponha que uma instituição já possua um imóvel, use parte em uma atividade e possa alugar a outra parte por R$ 40 mil anuais. Se um projeto ocupa o espaço que seria alugado, o aluguel líquido perdido é um fluxo incremental relevante. O preço histórico pago pelo imóvel é passado e afundado na decisão atual. Incluir a alternativa sacrificada como fluxo e, simultaneamente, repetir aquele mesmo sacrifício como encargo separado pode contar a perda duas vezes. O avaliador deve documentar o que já está refletido na alternativa de referência e o que entra no fluxo.\n\nO payback simples mede quando as entradas acumuladas recuperam o desembolso inicial. Com R$ 100 mil de saída inicial e R$ 40 mil ao fim de cada ano, o saldo acumulado torna-se não negativo no fim do terceiro ano. Um valor de 2,5 anos exige hipótese de distribuição uniforme dentro do terceiro ano, porque com entradas estritamente no fim do período a recuperação observável ocorre apenas na data três. O payback descontado aplica a TMA aos fluxos de cada período antes de acumular. À taxa positiva, e em fluxo convencional de saídas iniciais seguidas de entradas, a recuperação descontada tende a ocorrer depois ou nunca ocorrer. Ambos os métodos observam a rapidez da recuperação e deixam de refletir os fluxos posteriores ao prazo calculado.\n\nO valor presente líquido desconta todos os fluxos incrementais à data focal. Positivo, indica excedente econômico depois de remunerar a taxa requerida, nas hipóteses dadas. O índice de lucratividade, no caso simples de desembolso inicial único, divide o VP de entradas pelo investimento inicial. Se o VP de entradas é R$ 108 mil para R$ 100 mil aplicados, o índice vale 1,08 e o VPL vale R$ 8 mil. O índice aponta valor presente recebido por real comprometido. O VPL expressa contribuição absoluta em moeda. Se dois projetos exclusivos têm escalas diferentes, maior valor por real e maior excedente em reais podem apontar alternativas diferentes. Quando a decisão busca maximizar valor sob premissas compatíveis, o VPL tem papel central.\n\nProjetos independentes podem ser aceitos individualmente, desde que restrições de capital e demais critérios sejam atendidos. Projetos mutuamente excludentes competem pela mesma finalidade ou recurso. Um projeto de R$ 100 mil gera VP de entradas de R$ 120 mil, enquanto outro de R$ 300 mil gera R$ 345 mil. O primeiro tem índice 1,20 e VPL R$ 20 mil. O segundo tem índice 1,15 e VPL R$ 45 mil. Se ambos são viáveis, têm horizontes comparáveis e a escolha maximiza valor absoluto, o segundo é superior nesse critério. Se existe orçamento de R$ 150 mil, o segundo é inviável. Sob restrições com projetos indivisíveis, ordenar só por índice pode falhar em encontrar a melhor combinação.\n\nHorizontes diferentes também exigem atenção. Se um equipamento de dois anos e outro de quatro desempenham a mesma função recorrente, compare um horizonte comum com hipóteses claras de reposição ou converta valores presentes a anuidades equivalentes quando fizer sentido supor repetição. Se a oportunidade só existe uma vez, forçar reposição equivale a criar fluxos hipotéticos sem fundamento. Na prova, destaque se a decisão é pontual ou repetível. A projeção de valor residual deve manter coerência com o período final de cada alternativa e com o tributo pertinente, se ele estiver especificado.\n\nO teste de sensibilidade avalia como a conclusão muda quando uma hipótese varia. Se há economia de caixa esperada por quatro anos, examine o ponto em que menor economia ou maior TMA torna o VPL igual a zero. O teste é especialmente útil quando a diferença de valor entre opções está próxima do erro de previsão. Cenários representam combinações coerentes de hipóteses e devem respeitar o calendário de caixa. Um caso de inflação alta pode acompanhar taxas nominais diferentes e preços de reposição maiores. Alterar vários fatores sem explicitar como se relacionam deixa o resultado difícil de interpretar.\n\nO parecer pode apresentar a conclusão em camadas. Primeiro confirme se a alternativa é possível considerando restrições de liquidez, prazo e elegibilidade. Depois exponha a TMA e a estimativa dos fluxos, com a perspectiva escolhida. Mostre os indicadores em reais ou porcentagem e explique que perguntas cada um responde. Se o projeto vence pelo valor presente mas perde pelo payback, explicite que o ganho posterior compensa a recuperação mais lenta no modelo. Se a necessidade de caixa não admite essa demora, o projeto com maior VPL pode ficar fora do conjunto viável. Um método é tanto mais informativo quanto melhor traduz a restrição efetiva do problema.\n\nConsidere ainda um projeto com saída de encerramento depois de recuperar o investimento inicial. Um payback curto pode coexistir com custo futuro suficiente para eliminar todo o valor econômico. Com desembolso de R$ 100 mil, entrada de R$ 130 mil no primeiro ano e custo de encerramento de R$ 40 mil no segundo, o payback simples acontece no primeiro ano. A 10% anuais, o VPL é −100 + 130/1,10 − 40/(1,10)^2, aproximadamente −R$ 14,88 mil. A saída final é material para a decisão e deve aparecer na projeção.\n\nA estimativa econômica também pode usar uma referência incremental entre dois projetos exclusivos. Se escolher B em vez de A exige R$ 40 mil a mais hoje, pergunte quanto valem hoje as entradas adicionais de B em relação a A. Um ganho presente de R$ 55 mil sobre aquele desembolso incremental adiciona R$ 15 mil de valor. Esse teste reproduz a diferença de VPLs quando os fluxos são avaliados na mesma base. Além de indicar a escolha, mostra de onde vem a vantagem e qual hipótese precisa ser testada.\n\nTROCANDO EM MIÚDOS:\nImagine que você tem dinheiro para uma única escolha. Pode deixá-lo numa aplicação ou usar o valor em um plano que promete outras entradas no futuro. O que você perde ao abrir mão da melhor aplicação possível entra na comparação como custo de oportunidade. Se uma opção segura já rende determinado percentual e a outra tem risco e prazo semelhantes, esse retorno ajuda a estabelecer o mínimo que vale a pena exigir da segunda. A taxa mínima de atratividade é esse corte de avaliação no problema.\n\nOutro custo interessante é o que já aconteceu. Se você pagou por um estudo e o dinheiro não pode voltar, ele não muda o que entra ou sai a partir de hoje. A decisão atual deve considerar os pagamentos e recebimentos que ainda podem mudar. Se usar um local próprio impede receber um aluguel, esse dinheiro perdido daqui para frente importa para a escolha, embora não apareça como boleto.\n\nÀs vezes, duas alternativas recuperam o dinheiro em velocidades diferentes. Payback responde quando o dinheiro inicial volta. Ele ajuda a olhar a necessidade de caixa, mas para de contar depois da recuperação. O valor presente líquido olha até o fim e transforma todos os pagamentos numa medida comum de hoje. Uma alternativa pode devolver o dinheiro mais cedo e gerar menos valor ao longo do tempo. Outra pode criar mais valor e exigir que a instituição espere mais.\n\nImagine um investimento de R$ 10 mil com entradas que valem R$ 12 mil hoje. O excedente é R$ 2 mil e o índice é 1,20. Outro exige R$ 50 mil e produz entradas que valem R$ 57,5 mil. O excedente é R$ 7,5 mil e o índice é 1,15. A primeira escolha entrega mais por real investido. A segunda entrega mais valor total. Para concluir, confira quanto dinheiro a instituição tem para aplicar, quando precisará usá-lo e qual objetivo o problema pede para maximizar.\n\nESQUEMA:\nAlternativas e restrições → fluxos incrementais → TMA coerente → indicadores → sensibilidade → decisão.\n\nPEGADINHAS:\n• Incluir gasto irrecuperável\n• Omitir aluguel sacrificado\n• Comparar fluxo nominal com taxa real\n• Usar payback para medir todo o valor\n• Escolher maior índice sem observar escala e restrição\n\nDOUTRINA:\nOpenStax, Principles of Finance, capítulos 7, 8 e 16. A escolha da data focal, do regime de capitalização e da trajetória dos fluxos determina a comparação econômica.\n\nNA PRÁTICA:\nProjeto A exige R$ 100 mil e oferece VP de entradas de R$ 125 mil. Projeto B exige R$ 200 mil e oferece VP de R$ 234 mil. Se ambos forem viáveis e exclusivos, o VPL maior é B, R$ 34 mil. A tem índice maior, 1,25 contra 1,17. Com teto de R$ 150 mil, só A é viável.",
+   "flashcards": [
+    {
+     "frente": "O que é custo de oportunidade?",
+     "verso": "Valor da melhor alternativa viável sacrificada.",
+     "dispositivo": "Métodos de análise, taxa mínima de atratividade e custo de oportunidade"
+    },
+    {
+     "frente": "O que é gasto afundado?",
+     "verso": "Desembolso passado e irrecuperável.",
+     "dispositivo": "Métodos de análise, taxa mínima de atratividade e custo de oportunidade"
+    },
+    {
+     "frente": "O que a TMA representa?",
+     "verso": "Taxa mínima requerida para avaliar os fluxos sob premissas compatíveis.",
+     "dispositivo": "Métodos de análise, taxa mínima de atratividade e custo de oportunidade"
+    },
+    {
+     "frente": "Qual a diferença entre os dois paybacks?",
+     "verso": "O descontado traz cada fluxo à data focal antes de acumular.",
+     "dispositivo": "Métodos de análise, taxa mínima de atratividade e custo de oportunidade"
+    },
+    {
+     "frente": "Como obter índice com única saída inicial?",
+     "verso": "Dividir VP de entradas pelo desembolso inicial.",
+     "dispositivo": "Métodos de análise, taxa mínima de atratividade e custo de oportunidade"
+    },
+    {
+     "frente": "O que mede o VPL?",
+     "verso": "Excedente econômico total em moeda da data focal.",
+     "dispositivo": "Métodos de análise, taxa mínima de atratividade e custo de oportunidade"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "O aluguel líquido que será perdido pelo uso de imóvel próprio pode ser custo de oportunidade do projeto.",
+     "gabarito": "C",
+     "comentario": "A escolha elimina uma entrada futura da melhor alternativa disponível.",
+     "dificuldade": "media",
+     "id": "cginv3-c14-metodos-analise-tma-custo-oportunidade-q01",
+     "dispositivo": "Métodos de análise, taxa mínima de atratividade e custo de oportunidade"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Gasto de estudo já pago e irrecuperável deve aumentar o desembolso incremental da decisão de hoje.",
+     "gabarito": "E",
+     "comentario": "Gasto afundado não depende da escolha presente.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-metodos-analise-tma-custo-oportunidade-q02",
+     "dispositivo": "Métodos de análise, taxa mínima de atratividade e custo de oportunidade"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Uma TMA anual real deve ser aplicada a fluxos anuais projetados em poder de compra constante.",
+     "gabarito": "C",
+     "comentario": "A taxa e o fluxo precisam usar a mesma base monetária.",
+     "dificuldade": "media",
+     "id": "cginv3-c14-metodos-analise-tma-custo-oportunidade-q03",
+     "dispositivo": "Métodos de análise, taxa mínima de atratividade e custo de oportunidade"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O payback descontado incorpora obrigatoriamente todas as entradas depois da recuperação.",
+     "gabarito": "E",
+     "comentario": "O indicador para quando o acumulado descontado recupera a saída inicial.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-metodos-analise-tma-custo-oportunidade-q04",
+     "dispositivo": "Métodos de análise, taxa mínima de atratividade e custo de oportunidade"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Um projeto exige R$ 80 mil e recebe VP de entradas de R$ 100 mil. Qual é o índice de lucratividade?",
+     "alternativas": {
+      "A": "1,80",
+      "B": "1,25",
+      "C": "0,80",
+      "D": "0,25",
+      "E": "20 mil"
+     },
+     "gabarito": "B",
+     "comentarios_por_alternativa": {
+      "A": "Acrescenta o investimento ao VP sem fundamento.",
+      "B": "100/80 = 1,25.",
+      "C": "Inverte numerador e denominador.",
+      "D": "É o excedente relativo em relação ao inicial.",
+      "E": "É o valor presente líquido."
+     },
+     "comentario": "A) Acrescenta o investimento ao VP sem fundamento.\nB) 100/80 = 1,25.\nC) Inverte numerador e denominador.\nD) É o excedente relativo em relação ao inicial.\nE) É o valor presente líquido.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-metodos-analise-tma-custo-oportunidade-q05",
+     "dispositivo": "Métodos de análise, taxa mínima de atratividade e custo de oportunidade"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Saída de R$ 100 mil e entradas de R$ 35 mil nos fins dos anos. Quando o acumulado simples fica positivo?",
+     "alternativas": {
+      "A": "Fim do quarto ano.",
+      "B": "Imediatamente em t=0.",
+      "C": "Fim do terceiro ano.",
+      "D": "Fim do segundo ano.",
+      "E": "Primeiro ano."
+     },
+     "gabarito": "C",
+     "comentarios_por_alternativa": {
+      "A": "Já houve recuperação no ano 3.",
+      "B": "A data inicial contém a saída de caixa.",
+      "C": "O acumulado recebido alcança R$ 105 mil no ano 3.",
+      "D": "R$ 70 mil não recuperam a saída.",
+      "E": "R$ 35 mil não cobrem o investimento."
+     },
+     "comentario": "A) Já houve recuperação no ano 3.\nB) A data inicial contém a saída de caixa.\nC) O acumulado recebido alcança R$ 105 mil no ano 3.\nD) R$ 70 mil não recuperam a saída.\nE) R$ 35 mil não cobrem o investimento.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-metodos-analise-tma-custo-oportunidade-q06",
+     "dispositivo": "Métodos de análise, taxa mínima de atratividade e custo de oportunidade"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual referência é mais adequada para formar TMA na hipótese de alternativas comparáveis?",
+     "alternativas": {
+      "A": "Taxa escolhida exclusivamente para obter VPL zero.",
+      "B": "Média simples dos pagamentos futuros.",
+      "C": "Taxa real sobre fluxo nominal sem ajuste.",
+      "D": "Retorno requerido em aplicação viável de risco e horizonte comparáveis.",
+      "E": "Maior retorno anunciado no mercado, independentemente de risco."
+     },
+     "gabarito": "D",
+     "comentarios_por_alternativa": {
+      "A": "A taxa que zera o VPL é a TIR.",
+      "B": "Pagamentos em reais não fornecem diretamente uma taxa requerida.",
+      "C": "Mistura bases de mensuração.",
+      "D": "Representa a remuneração mínima diante da alternativa factível.",
+      "E": "Riscos diferentes tornam a comparação inadequada."
+     },
+     "comentario": "A) A taxa que zera o VPL é a TIR.\nB) Pagamentos em reais não fornecem diretamente uma taxa requerida.\nC) Mistura bases de mensuração.\nD) Representa a remuneração mínima diante da alternativa factível.\nE) Riscos diferentes tornam a comparação inadequada.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-metodos-analise-tma-custo-oportunidade-q07",
+     "dispositivo": "Métodos de análise, taxa mínima de atratividade e custo de oportunidade"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Entre dois projetos exclusivos de mesma finalidade e comparáveis, um tem VPL de R$ 15 mil e o outro de R$ 22 mil. Ambos cabem no orçamento. Qual critério escolhe o segundo?",
+     "alternativas": {
+      "A": "Prazo de recuperação sempre mais curto.",
+      "B": "Maior índice de lucratividade, garantidamente.",
+      "C": "Menor desembolso, garantidamente.",
+      "D": "Maior taxa interna, necessariamente.",
+      "E": "Maximização de valor presente em reais."
+     },
+     "gabarito": "E",
+     "comentarios_por_alternativa": {
+      "A": "O VPL não informa isoladamente o payback.",
+      "B": "O custo inicial também influencia o índice.",
+      "C": "O desenho não informa os custos iniciais.",
+      "D": "A ordenação por TIR pode diferir da ordenação por VPL.",
+      "E": "O segundo cria maior excedente na data focal."
+     },
+     "comentario": "A) O VPL não informa isoladamente o payback.\nB) O custo inicial também influencia o índice.\nC) O desenho não informa os custos iniciais.\nD) A ordenação por TIR pode diferir da ordenação por VPL.\nE) O segundo cria maior excedente na data focal.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-metodos-analise-tma-custo-oportunidade-q08",
+     "dispositivo": "Métodos de análise, taxa mínima de atratividade e custo de oportunidade"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "A análise deve considerar caixa ___ causado pela escolha.",
+     "opcoes": [
+      "incremental",
+      "passado irrecuperável",
+      "sem data"
+     ],
+     "respostas": [
+      "incremental"
+     ],
+     "explicacao": "Compare apenas os movimentos que mudam entre alternativas."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Fluxos nominais devem ser avaliados com taxa ___ correspondente.",
+     "opcoes": [
+      "nominal",
+      "real",
+      "nula sempre"
+     ],
+     "respostas": [
+      "nominal"
+     ],
+     "explicacao": "A base de inflação precisa ser a mesma."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene uma avaliação econômica de alternativas.",
+     "itens": [
+      "Identifique as opções viáveis e suas restrições.",
+      "Estime fluxos incrementais por data.",
+      "Justifique a taxa de desconto.",
+      "Compare os indicadores e teste as premissas."
+     ],
+     "explicacao": "A comparação parte de alternativas que de fato podem ser escolhidas."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Payback",
+       "Tempo de recuperação"
+      ],
+      [
+       "VPL",
+       "Excedente em valor presente"
+      ],
+      [
+       "Índice de lucratividade",
+       "Valor presente recebido por unidade aplicada"
+      ],
+      [
+       "TMA",
+       "Retorno mínimo requerido"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

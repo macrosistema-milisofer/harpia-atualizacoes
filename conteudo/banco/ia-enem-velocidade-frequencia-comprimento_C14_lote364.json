@@ -1,0 +1,253 @@
+{
+ "assunto": "Velocidade, frequência e comprimento de onda",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-velocidade-frequencia-comprimento-c14",
+   "titulo": "Velocidade, frequência e comprimento de onda",
+   "microconteudo": "RAIO-X DA PROVA: Use a relação física indicada e confira as condições em que ela se aplica. Para uma onda periódica, v = λf. O comprimento de onda é a distância espacial por ciclo; a frequência conta os ciclos no tempo.\n\nPOR QUE IMPORTA:\nUma ondulação avança enquanto a fonte continua oscilando. A distância entre cristas depende tanto da velocidade de propagação quanto da frequência.\n\nO QUE A BANCA COBRA:\nUse a relação física indicada e confira as condições em que ela se aplica. Para uma onda periódica, v = λf. O comprimento de onda é a distância espacial por ciclo; a frequência conta os ciclos no tempo.\n\nENTENDA:\nUma ondulação avança enquanto a fonte continua oscilando. A distância entre cristas depende tanto da velocidade de propagação quanto da frequência.\n\nPara uma onda periódica, v = λf. O comprimento de onda é a distância espacial por ciclo; a frequência conta os ciclos no tempo.\n\nExemplo resolvido. Um trem de ondas com cristas separadas por 0,18 m passa a 3 Hz. A onda avança 0,18 m por ciclo e três ciclos passam em um segundo, então v = 0,54 m/s.\n\nOutro exemplo. Uma onda entra em um segundo meio parado e sua velocidade cai de 24 para 15 m/s. Se f = 6 Hz, o comprimento passa de 4 m a 2,5 m, enquanto a frequência permanece em 6 Hz.\n\nSe o eixo espacial estiver em centímetros, converta antes de usar uma rapidez em metros por segundo. Se o eixo for temporal, a distância horizontal entre duas cristas do gráfico pode ser um intervalo de tempo, e não um comprimento. A legenda decide a leitura antes da fórmula.\n\nPara explicar o resultado, use o vocabulário da situação. O que é comprimento de onda? Distância entre pontos consecutivos em mesma fase. Qual relação liga rapidez e frequência? v = λf. Como achar f conhecendo λ e v? Divida v por λ. Como achar λ conhecendo v e f? Divida v por f. Como reconhecer Hz na conta? Ciclos por segundo. O que ocorre com λ quando v cai a f fixa? O comprimento de onda diminui.\n\nNa hora de resolver no papel, siga a sequência abaixo. Ler as grandezas do enunciado. Compatibilizar unidades. Isolar a variável pedida. Conferir se o resultado tem unidade coerente. Depois, escreva o resultado em uma frase completa. Um número isolado pode estar correto e, ainda assim, deixar ambíguo o que você calculou. Informe a unidade quando houver medida e identifique o objeto, a região ou o intervalo a que o resultado se refere.\n\nFrequência não é rapidez. A amplitude também não entra em v = λf. Em fronteiras estacionárias, a frequência é mantida e o meio pode mudar v e λ.\n\nReleia os dois exemplos resolvidos e tente antecipar o desfecho sem consultar o cálculo. No primeiro exemplo, identifique qual dado determina diretamente a resposta. No segundo, diga qual condição deve permanecer válida para que a conclusão se mantenha. Compare depois o papel das unidades e do sentido das grandezas. Se o resultado for qualitativo, procure enunciar a previsão em termos observáveis. Se for quantitativo, estime a escala antes de efetuar a última operação.\n\nVocê pode adaptar a análise a uma situação do cotidiano. Comece com esta ideia: Uma ondulação avança enquanto a fonte continua oscilando. A distância entre cristas depende tanto da velocidade de propagação quanto da frequência. Em seguida, desenhe o cenário, indique o que está sendo comparado e escreva que dado precisaria medir para testar a previsão. Diferencie a regra do modelo das informações que servem apenas para situar a história. Isso ajuda a decidir o que aproveitar quando uma questão apresenta mais dados do que a resolução exige.\n\nTrês conferências úteis: a definição corresponde ao objeto descrito? As condições indicadas no enunciado permitem aplicar a regra? A resposta continua coerente ao voltar ao desenho? Faça a última conferência lendo esta relação no contexto: Para uma onda periódica, v = λf. O comprimento de onda é a distância espacial por ciclo; a frequência conta os ciclos no tempo. Uma hipótese deve ser usada dentro de sua faixa de validade; quando o contexto mudar, justifique a adaptação antes de transportar o resultado.\n\nAo treinar, explique a diferença entre o mecanismo e seu efeito. Frequência não é rapidez. A amplitude também não entra em v = λf. Em fronteiras estacionárias, a frequência é mantida e o meio pode mudar v e λ. Em um texto de prova, essa distinção pode aparecer escondida em uma frase sobre o resultado de uma medida. Identifique primeiro a causa física e depois a grandeza observada. Se for necessário comparar cenários, mude uma condição por vez para descobrir qual mudança explica a diferença.\n\nPergunte o que aconteceria se você aplicasse a regra a um desenho mais simples. Comece separando estas tarefas: Ler as grandezas do enunciado. Compatibilizar unidades. Isolar a variável pedida. Conferir se o resultado tem unidade coerente. Refaça o primeiro exemplo apenas com setas ou um esquema, deixando os números para o final. Em seguida, recolha do enunciado as unidades e os sentidos. Uma seta no desenho pode indicar a direção de uma interação, a mudança de uma medida ou apenas uma referência. É importante dizer qual papel ela desempenha antes de usar a relação do começo da lição.\n\nPara consolidar, use três perguntas de revisão. Qual relação liga rapidez e frequência? v = λf. Como achar λ conhecendo v e f? Divida v por f. O que ocorre com λ quando v cai a f fixa? O comprimento de onda diminui. A ideia é explicar essas respostas sem depender da ordem em que apareceram. Em um problema de comparação, preste atenção às palavras que mantêm algo igual entre os cenários. Em um problema de cálculo, confira a operação inversa quando possível. Por exemplo, reintroduza o resultado na relação inicial e verifique se os dados do problema são recuperados. Em uma questão qualitativa, faça o equivalente testando se a conclusão explica as condições observadas.\n\nNo fim da leitura, diga qual grandeza a pergunta solicitou e qual grandeza você usou para chegar a ela. Faça essa distinção também quando a resposta for uma direção, uma comparação ou uma interpretação histórica. Um resultado bem explicado deve poder ser lido sem adivinhar de onde ele veio.\n\nEm uma atividade de estudo, escreva primeiro uma estimativa ou previsão. Depois escolha o dado específico que vai confirmar ou contrariar essa previsão. Se duas respostas parecerem possíveis, indique qual condição extra permitiria escolher entre elas. A ideia é explicar o raciocínio, deixando claro por que a relação física é apropriada naquele contexto.\n\nTROCANDO EM MIÚDOS:\nUma ondulação avança enquanto a fonte continua oscilando. A distância entre cristas depende tanto da velocidade de propagação quanto da frequência.\n\nPara uma onda periódica, v = λf. O comprimento de onda é a distância espacial por ciclo; a frequência conta os ciclos no tempo.\n\nExemplo resolvido. Um trem de ondas com cristas separadas por 0,18 m passa a 3 Hz. A onda avança 0,18 m por ciclo e três ciclos passam em um segundo, então v = 0,54 m/s.\n\nOutro exemplo. Uma onda entra em um segundo meio parado e sua velocidade cai de 24 para 15 m/s. Se f = 6 Hz, o comprimento passa de 4 m a 2,5 m, enquanto a frequência permanece em 6 Hz.\n\nFrequência não é rapidez. A amplitude também não entra em v = λf. Em fronteiras estacionárias, a frequência é mantida e o meio pode mudar v e λ.\n\nO que é comprimento de onda? Distância entre pontos consecutivos em mesma fase. Qual relação liga rapidez e frequência? v = λf. Como achar f conhecendo λ e v? Divida v por λ. Como achar λ conhecendo v e f? Divida v por f. Como reconhecer Hz na conta? Ciclos por segundo. O que ocorre com λ quando v cai a f fixa? O comprimento de onda diminui.\n\nPara montar seu rascunho: Ler as grandezas do enunciado. Compatibilizar unidades. Isolar a variável pedida. Conferir se o resultado tem unidade coerente. Na leitura final, escolha a parte do desenho que corresponde ao resultado. Se encontrar uma unidade diferente da pedida, volte ao cálculo e confira os fatores de conversão. Quando a pergunta for conceitual, confira se a explicação indica o mecanismo que liga o dado à conclusão. Você pode comparar os dois exemplos da lição antes de tentar os exercícios e explicar de memória por que cada resultado faz sentido.\n\nLEI SECA:\nPara uma onda periódica, v = λf. O comprimento de onda é a distância espacial por ciclo; a frequência conta os ciclos no tempo.\n\nSÚMULAS E TESES:\nOutro exemplo. Uma onda entra em um segundo meio parado e sua velocidade cai de 24 para 15 m/s. Se f = 6 Hz, o comprimento passa de 4 m a 2,5 m, enquanto a frequência permanece em 6 Hz.\n\nESQUEMA:\nLer as grandezas do enunciado. → Compatibilizar unidades. → Isolar a variável pedida. → Conferir se o resultado tem unidade coerente.\n\nPEGADINHAS:\nFrequência não é rapidez. A amplitude também não entra em v = λf. Em fronteiras estacionárias, a frequência é mantida e o meio pode mudar v e λ.\n\nDOUTRINA:\nWaves\n\nNA PRÁTICA:\nExemplo resolvido. Um trem de ondas com cristas separadas por 0,18 m passa a 3 Hz. A onda avança 0,18 m por ciclo e três ciclos passam em um segundo, então v = 0,54 m/s.",
+   "flashcards": [
+    {
+     "frente": "O que é comprimento de onda?",
+     "verso": "Distância entre pontos consecutivos em mesma fase.",
+     "dispositivo": "Oscilações, ondas, óptica e radiação — Propagação: relação entre velocidade, frequência e comprimento de onda"
+    },
+    {
+     "frente": "Qual relação liga rapidez e frequência?",
+     "verso": "v = λf.",
+     "dispositivo": "Oscilações, ondas, óptica e radiação — Propagação: relação entre velocidade, frequência e comprimento de onda"
+    },
+    {
+     "frente": "Como achar f conhecendo λ e v?",
+     "verso": "Divida v por λ.",
+     "dispositivo": "Oscilações, ondas, óptica e radiação — Propagação: relação entre velocidade, frequência e comprimento de onda"
+    },
+    {
+     "frente": "Como achar λ conhecendo v e f?",
+     "verso": "Divida v por f.",
+     "dispositivo": "Oscilações, ondas, óptica e radiação — Propagação: relação entre velocidade, frequência e comprimento de onda"
+    },
+    {
+     "frente": "Como reconhecer Hz na conta?",
+     "verso": "Ciclos por segundo.",
+     "dispositivo": "Oscilações, ondas, óptica e radiação — Propagação: relação entre velocidade, frequência e comprimento de onda"
+    },
+    {
+     "frente": "O que ocorre com λ quando v cai a f fixa?",
+     "verso": "O comprimento de onda diminui.",
+     "dispositivo": "Oscilações, ondas, óptica e radiação — Propagação: relação entre velocidade, frequência e comprimento de onda"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-velocidade-frequencia-comprimento-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Uma onda tem λ = 2 m e f = 3 Hz.",
+     "enunciado": "Sua rapidez é 6 m/s.",
+     "gabarito": "C",
+     "comentario": "Certo. O produto vale 6.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Oscilações, ondas, óptica e radiação — Propagação: relação entre velocidade, frequência e comprimento de onda"
+    },
+    {
+     "id": "enem-fisica-velocidade-frequencia-comprimento-c14-q02",
+     "tipo": "ce",
+     "texto_base": "A frequência aumenta em meio que mantém a rapidez.",
+     "enunciado": "O comprimento de onda aumenta.",
+     "gabarito": "E",
+     "comentario": "Errado. Ele cai porque λ = v/f.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Oscilações, ondas, óptica e radiação — Propagação: relação entre velocidade, frequência e comprimento de onda"
+    },
+    {
+     "id": "enem-fisica-velocidade-frequencia-comprimento-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Uma onda cruza uma interface estacionária com mesma frequência.",
+     "enunciado": "Se a rapidez muda, o comprimento de onda muda.",
+     "gabarito": "C",
+     "comentario": "Certo. O produto precisa acompanhar a rapidez.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Oscilações, ondas, óptica e radiação — Propagação: relação entre velocidade, frequência e comprimento de onda"
+    },
+    {
+     "id": "enem-fisica-velocidade-frequencia-comprimento-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Duas cristas têm diferença de altura igual a zero.",
+     "enunciado": "Essa diferença vertical determina o comprimento de onda.",
+     "gabarito": "E",
+     "comentario": "Errado. Mede-se sua separação espacial na direção da propagação.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Oscilações, ondas, óptica e radiação — Propagação: relação entre velocidade, frequência e comprimento de onda"
+    },
+    {
+     "id": "enem-fisica-velocidade-frequencia-comprimento-c14-q05",
+     "tipo": "me",
+     "texto_base": "Uma onda de 8 Hz tem λ = 0,5 m.",
+     "enunciado": "Qual a rapidez?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "16 m/s",
+      "B": "4 m/s",
+      "C": "8 m/s",
+      "D": "0,5 m/s",
+      "E": "0,0625 m/s"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve 16 m/s, enquanto a situação pede 4 m/s. O produto 8 × 0,5 vale 4.",
+      "B": "Correta. O produto 8 × 0,5 vale 4.",
+      "C": "Esta opção descreve 8 m/s, enquanto a situação pede 4 m/s. O produto 8 × 0,5 vale 4.",
+      "D": "Esta opção descreve 0,5 m/s, enquanto a situação pede 4 m/s. O produto 8 × 0,5 vale 4.",
+      "E": "Esta opção descreve 0,0625 m/s, enquanto a situação pede 4 m/s. O produto 8 × 0,5 vale 4."
+     },
+     "comentario": "A) Esta opção descreve 16 m/s, enquanto a situação pede 4 m/s. O produto 8 × 0,5 vale 4.\nB) Correta. O produto 8 × 0,5 vale 4.\nC) Esta opção descreve 8 m/s, enquanto a situação pede 4 m/s. O produto 8 × 0,5 vale 4.\nD) Esta opção descreve 0,5 m/s, enquanto a situação pede 4 m/s. O produto 8 × 0,5 vale 4.\nE) Esta opção descreve 0,0625 m/s, enquanto a situação pede 4 m/s. O produto 8 × 0,5 vale 4.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Oscilações, ondas, óptica e radiação — Propagação: relação entre velocidade, frequência e comprimento de onda"
+    },
+    {
+     "id": "enem-fisica-velocidade-frequencia-comprimento-c14-q06",
+     "tipo": "me",
+     "texto_base": "Uma onda viaja a 18 m/s com frequência de 9 Hz.",
+     "enunciado": "Qual λ?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "162 m",
+      "B": "0,5 m",
+      "C": "9 m",
+      "D": "2 m",
+      "E": "27 m"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve 162 m, enquanto a situação pede 2 m. Divida 18 por 9.",
+      "B": "Esta opção descreve 0,5 m, enquanto a situação pede 2 m. Divida 18 por 9.",
+      "C": "Esta opção descreve 9 m, enquanto a situação pede 2 m. Divida 18 por 9.",
+      "D": "Correta. Divida 18 por 9.",
+      "E": "Esta opção descreve 27 m, enquanto a situação pede 2 m. Divida 18 por 9."
+     },
+     "comentario": "A) Esta opção descreve 162 m, enquanto a situação pede 2 m. Divida 18 por 9.\nB) Esta opção descreve 0,5 m, enquanto a situação pede 2 m. Divida 18 por 9.\nC) Esta opção descreve 9 m, enquanto a situação pede 2 m. Divida 18 por 9.\nD) Correta. Divida 18 por 9.\nE) Esta opção descreve 27 m, enquanto a situação pede 2 m. Divida 18 por 9.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Oscilações, ondas, óptica e radiação — Propagação: relação entre velocidade, frequência e comprimento de onda"
+    },
+    {
+     "id": "enem-fisica-velocidade-frequencia-comprimento-c14-q07",
+     "tipo": "me",
+     "texto_base": "As cristas de uma onda estão separadas por 3 m e avançam a 15 m/s.",
+     "enunciado": "Qual a frequência?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "5 Hz",
+      "B": "45 Hz",
+      "C": "0,2 Hz",
+      "D": "3 Hz",
+      "E": "12 Hz"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Divida v por λ.",
+      "B": "Esta opção descreve 45 hz, enquanto a situação pede 5 hz. Divida v por λ.",
+      "C": "Esta opção descreve 0,2 hz, enquanto a situação pede 5 hz. Divida v por λ.",
+      "D": "Esta opção descreve 3 hz, enquanto a situação pede 5 hz. Divida v por λ.",
+      "E": "Esta opção descreve 12 hz, enquanto a situação pede 5 hz. Divida v por λ."
+     },
+     "comentario": "A) Correta. Divida v por λ.\nB) Esta opção descreve 45 hz, enquanto a situação pede 5 hz. Divida v por λ.\nC) Esta opção descreve 0,2 hz, enquanto a situação pede 5 hz. Divida v por λ.\nD) Esta opção descreve 3 hz, enquanto a situação pede 5 hz. Divida v por λ.\nE) Esta opção descreve 12 hz, enquanto a situação pede 5 hz. Divida v por λ.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Oscilações, ondas, óptica e radiação — Propagação: relação entre velocidade, frequência e comprimento de onda"
+    },
+    {
+     "id": "enem-fisica-velocidade-frequencia-comprimento-c14-q08",
+     "tipo": "me",
+     "texto_base": "Uma onda conserva f = 4 Hz ao entrar em região onde v = 28 m/s.",
+     "enunciado": "Qual seu comprimento na nova região?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "112 m",
+      "B": "24 m",
+      "C": "4 m",
+      "D": "0,14 m",
+      "E": "7 m"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve 112 m, enquanto a situação pede 7 m. A relação 28/4 fornece λ.",
+      "B": "Esta opção descreve 24 m, enquanto a situação pede 7 m. A relação 28/4 fornece λ.",
+      "C": "Esta opção descreve 4 m, enquanto a situação pede 7 m. A relação 28/4 fornece λ.",
+      "D": "Esta opção descreve 0,14 m, enquanto a situação pede 7 m. A relação 28/4 fornece λ.",
+      "E": "Correta. A relação 28/4 fornece λ."
+     },
+     "comentario": "A) Esta opção descreve 112 m, enquanto a situação pede 7 m. A relação 28/4 fornece λ.\nB) Esta opção descreve 24 m, enquanto a situação pede 7 m. A relação 28/4 fornece λ.\nC) Esta opção descreve 4 m, enquanto a situação pede 7 m. A relação 28/4 fornece λ.\nD) Esta opção descreve 0,14 m, enquanto a situação pede 7 m. A relação 28/4 fornece λ.\nE) Correta. A relação 28/4 fornece λ.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Oscilações, ondas, óptica e radiação — Propagação: relação entre velocidade, frequência e comprimento de onda"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O que é comprimento de onda? ___",
+     "opcoes": [
+      "Distância entre pontos consecutivos em mesma fase.",
+      "v = λf.",
+      "Divida v por λ.",
+      "Divida v por f."
+     ],
+     "respostas": [
+      "Distância entre pontos consecutivos em mesma fase."
+     ],
+     "explicacao": "Distância entre pontos consecutivos em mesma fase."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Como achar f conhecendo λ e v? ___",
+     "opcoes": [
+      "Divida v por λ.",
+      "Divida v por f.",
+      "Ciclos por segundo.",
+      "O comprimento de onda diminui."
+     ],
+     "respostas": [
+      "Divida v por λ."
+     ],
+     "explicacao": "Divida v por λ."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise de velocidade, frequência e comprimento de onda.",
+     "itens": [
+      "Ler as grandezas do enunciado.",
+      "Compatibilizar unidades.",
+      "Isolar a variável pedida.",
+      "Conferir se o resultado tem unidade coerente."
+     ],
+     "explicacao": "Para uma onda periódica, v = λf. O comprimento de onda é a distância espacial por ciclo; a frequência conta os ciclos no tempo."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O que é comprimento de onda?",
+       "Distância entre pontos consecutivos em mesma fase."
+      ],
+      [
+       "Qual relação liga rapidez e frequência?",
+       "v = λf."
+      ],
+      [
+       "Como achar f conhecendo λ e v?",
+       "Divida v por λ."
+      ],
+      [
+       "Como achar λ conhecendo v e f?",
+       "Divida v por f."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

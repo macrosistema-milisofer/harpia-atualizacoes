@@ -1,0 +1,235 @@
+{
+ "assunto": "Valor do dinheiro no tempo, juros simples e compostos e conversão de taxas",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "cginv3-c14-valor-do-dinheiro-juros-e-taxas",
+   "titulo": "Valor do dinheiro no tempo, juros simples e compostos e conversão de taxas",
+   "microconteudo": "RAIO-X DA PROVA: Monte a linha do tempo, escolha o regime de juros e converta a taxa para o período correto antes de calcular valores presentes ou futuros.\n\nPOR QUE IMPORTA:\nA análise financeira de um RPPS exige comparar valores em datas e bases compatíveis. Monte a linha do tempo, escolha o regime de juros e converta a taxa para o período correto antes de calcular valores presentes ou futuros.\n\nO QUE A BANCA COBRA:\nMonte a linha do tempo, escolha o regime de juros e converta a taxa para o período correto antes de calcular valores presentes ou futuros.\n\nENTENDA:\nO valor do dinheiro no tempo decorre da possibilidade de aplicar ou usar os recursos antes do vencimento de uma obrigação. Para comparar R$ 100 hoje com R$ 110 daqui a um ano, é preciso estabelecer a taxa de referência e dizer se os fluxos têm risco e liquidez comparáveis. Em hipótese simplificada de 8% ao ano, R$ 100 hoje se transformam em R$ 108 ao fim do ano. A promessa de R$ 110 vale R$ 101,85 hoje àquela taxa. A escolha depende também da capacidade de esperar e da qualidade do crédito. Um fluxo que vence na data do pagamento de benefícios ajuda a financiar a saída esperada. O mesmo fluxo, vencendo depois, pode exigir outra reserva.\n\nO diagrama de fluxo tem uma origem, uma unidade temporal e valores escritos com sinal coerente. Da perspectiva de quem investe, a aplicação inicial aparece negativa e o resgate aparece positivo. Da perspectiva do tomador, receber o dinheiro é entrada e devolver principal e juros é saída. A data zero representa a avaliação ou a contratação, conforme o problema. Uma seta no mês dois e outra no mês três não podem ser somadas como valores equivalentes sem transposição a uma data focal. Para montar uma comparação de carteira, registre também se cada movimento é previsto ou observado, se inclui tributos e custos e se será recebido no início ou no fim do período.\n\nNo regime simples, os juros de cada período incidem sobre o principal original. Se P é o principal, i a taxa por período e n a quantidade de períodos, juros J = P × i × n e montante M = P × (1 + i × n). Aplicar R$ 4.000 a 2% ao mês por cinco meses dá juros de R$ 400 e montante de R$ 4.400. O crescimento em reais é linear: R$ 80 por mês. Para trazer um valor nominal futuramente recebido à data inicial sob o mesmo regime, divida por 1 + i × n. Os valores P e M precisam pertencer à mesma operação e respeitar a convenção do enunciado.\n\nTaxas proporcionais guardam a razão das unidades de tempo. Considerando um trimestre igual a três meses, 2% ao mês é proporcional a 6% ao trimestre. No regime simples, essa proporcionalidade preserva o montante do mesmo capital no mesmo horizonte. Compare 1 + 0,02 × 3 = 1,06 com 1 + 0,06 × 1 = 1,06. Se o contrato usa dias úteis, mês comercial ou ano civil, a base temporal deve ser informada. Um ano civil de 365 dias e um ano comercial de 360 dias produzem frações diferentes para uma duração de 45 dias. Anote a convenção antes de arredondar.\n\nNo regime composto, o rendimento incorporado passa a integrar a base do período seguinte. VF = VP × (1 + i)^n e VP = VF/(1 + i)^n. Para R$ 4.000 a 2% ao mês por cinco meses, VF = R$ 4.416,32, arredondado ao centavo. A diferença em relação ao simples surge porque a taxa mensal incide sobre um saldo crescente. Para n = 1, os fatores coincidem. Em dois meses, o fator composto é 1,0404, e o simples é 1,04. Para resolver a taxa composta de um fluxo único, use i = (VF/VP)^(1/n) − 1 quando VP e VF são magnitudes positivas. Para achar o prazo, use a razão ln(VF/VP)/ln(1+i) quando os logaritmos estiverem definidos e i for diferente de zero.\n\nA taxa de desconto é a taxa usada para transportar o valor futuro de volta à data focal, sob o regime do problema. Em capitalização composta, 10% de juros por um ano transforma R$ 1.000 em R$ 1.100. Trazer R$ 1.100 a valor presente usa divisão por 1,10. Subtrair 10% de R$ 1.100 levaria a R$ 990, pois nesse cálculo o percentual incide sobre o valor futuro. O erro é misturar o desconto racional, reverso da capitalização, com uma regra de abatimento sobre o valor nominal.\n\nTaxas equivalentes produzem o mesmo fator acumulado em igual intervalo. Se i_m é a taxa mensal e i_a a anual efetiva, a equação é 1 + i_a = (1 + i_m)^12, supondo doze meses completos. Para 1% ao mês, i_a ≈ 12,6825%. O valor de 12% corresponde à taxa anual proporcional e pode representar uma nominal anual com capitalização mensal, conforme a convenção da cotação. Já 12% anuais efetivos correspondem a aproximadamente 0,9489% ao mês. Converter de anual para mensal exige a raiz décima segunda do fator anual. A diferença fica visível ao calcular o valor final de um principal idêntico por doze períodos.\n\nEm taxas compostas variáveis, multiplique fatores sucessivos. Uma carteira que ganha 10% e perde 10% em dois períodos fica com 1,10 × 0,90 = 0,99 do valor original, ou uma perda acumulada de 1%. O retorno composto por período equivalente é √0,99 − 1, cerca de −0,5013%. A média aritmética dos dois retornos é zero e responde a outra pergunta. Em análise histórica, um fluxo externo de contribuição também não deve ser confundido com ganho do investimento. Se a carteira sobe de R$ 1 milhão para R$ 1,12 milhão com aporte de R$ 100 mil no fim do período, a valorização antes desse aporte é R$ 20 mil, ou 2% nas hipóteses do exemplo.\n\nHá situações em que uma proposta anuncia a maior taxa e ainda entrega o menor valor na data do compromisso. Imagine uma obrigação de R$ 1,05 milhão em seis meses. Um título de R$ 1 milhão com taxa de 1% ao mês rende cerca de R$ 1,0615 milhão aos seis meses. Uma aplicação que promete 14% efetivos ao ano, porém só pode ser resgatada no mês doze, não disponibiliza seu valor na data de pagamento. A taxa equivalente permite comparar rendimento sob bases homogêneas. O calendário é necessário para concluir sobre adequação à obrigação. Retorno elevado e disponibilidade no momento certo são atributos diferentes.\n\nEm questões de comparação, faça primeiro a checagem numérica de sentido. Sob taxa positiva, um mesmo valor futuro tem menor valor presente quanto maior a taxa ou o prazo. Para um mesmo valor presente e número de períodos superior a um, o montante composto supera o simples quando a taxa é positiva. Ao alongar o horizonte, os efeitos da diferença entre regimes se ampliam. Se uma conta produz um presente maior que o futuro em condições de taxa positiva, o fator provavelmente foi empregado no sentido errado. Se a taxa mensal equivalente à anual positiva sai maior que a anual, confira a unidade e a posição do expoente.\n\nAo documentar a análise, preserve a precisão intermediária e arredonde no resultado. Indique se os valores estão em reais ou milhares de reais e se a convenção corresponde ao fim de cada mês. Uma projeção com R$ 500 mil escrita em milhares deve usar 500 nas três datas. Alternar 500, 500.000 e 0,5 sem marcar a escala torna a apresentação impossível de auditar. O mesmo vale para taxas: 2% é 0,02 no fator e 2 na apresentação percentual. Um procedimento replicável contém entradas, fórmulas, convenções e conclusão vinculada à data do compromisso.\n\nUma maneira de evitar erros de conversão é fazer a verificação inversa. Depois de encontrar uma taxa mensal equivalente, eleve seu fator a doze e compare com o fator anual informado. Em um modelo simples, multiplique a taxa mensal por doze sob a convenção adotada. A escolha do teste confirma o regime usado.\n\nTROCANDO EM MIÚDOS:\nImagine duas propostas: receber agora ou esperar. Para decidir, coloque os dois valores no mesmo dia. Se você consegue fazer R$ 100 virarem R$ 105 em um ano, receber R$ 105 depois de um ano equivale a receber R$ 100 hoje à taxa de 5%, quando o risco e as condições são os mesmos. A linha do tempo mostra a comparação com clareza. Marque a saída hoje com um sinal de menos e a entrada futura com um sinal de mais.\n\nJuros simples funcionam como acrescentar a mesma quantia a cada período. Em R$ 1.000 a 2% ao mês, acrescente R$ 20 todo mês. Em juros compostos, o ganho anterior também rende. O primeiro mês termina com R$ 1.020 e o segundo com R$ 1.040,40. A diferença de quarenta centavos resulta dos juros sobre os primeiros R$ 20. Em um saldo maior e por mais tempo, esse efeito pode ser relevante.\n\nPara avançar na linha do tempo, multiplique pelo fator. Para voltar, divida pelo mesmo fator. A taxa em porcentagem precisa virar decimal para fazer parte da conta. Assim, 2% entra como 0,02. Se uma tarefa informa taxa mensal e prazo em anos, passe tudo para a mesma unidade antes de calcular. Em juros compostos, três meses a 2% dão 1,02 × 1,02 × 1,02 = 1,061208. Isso significa ganho de 6,1208% no trimestre. A soma de 2% três vezes daria 6% e corresponde à proporcionalidade simples.\n\nNo RPPS, o dia em que o dinheiro pode ser usado também importa. Se o pagamento de benefícios é no mês seis, o saldo de uma aplicação bloqueada até o mês doze não resolve sozinho aquele compromisso. Para escolher entre alternativas, compare os valores na mesma data e confira o calendário de entradas e saídas. Essa conferência revela o que o percentual anunciado, por si só, não mostra.\n\nESQUEMA:\nIdentificar sinais e datas → alinhar a unidade de i e n → escolher regime → calcular fatores → comparar na data focal.\n\nPEGADINHAS:\n• Somar fluxos de datas distintas\n• Subtrair do valor futuro a taxa usada na capitalização\n• Dividir taxa efetiva anual por 12 em juros compostos\n• Somar taxas compostas variáveis\n• Ignorar restrição de resgate\n\nDOUTRINA:\nOpenStax, Principles of Finance, capítulos 7, 8 e 16. A escolha da data focal, do regime de capitalização e da trajetória dos fluxos determina a comparação econômica.\n\nNA PRÁTICA:\nUma obrigação de R$ 550.000 vence em um ano. Descontada a 10% efetivos anuais, vale R$ 500.000 hoje. Uma proposta de R$ 505.000 imediatamente supera seu valor presente à taxa de referência, sob risco e condições equivalentes.",
+   "flashcards": [
+    {
+     "frente": "Qual a fórmula do montante simples?",
+     "verso": "P(1+i×n).",
+     "dispositivo": "Valor do dinheiro no tempo, juros simples e compostos e conversão de taxas"
+    },
+    {
+     "frente": "Qual a fórmula do valor presente composto de um fluxo único?",
+     "verso": "VF/(1+i)^n.",
+     "dispositivo": "Valor do dinheiro no tempo, juros simples e compostos e conversão de taxas"
+    },
+    {
+     "frente": "Quando a proporcionalidade preserva o montante?",
+     "verso": "Ao converter períodos no regime de juros simples.",
+     "dispositivo": "Valor do dinheiro no tempo, juros simples e compostos e conversão de taxas"
+    },
+    {
+     "frente": "Como achar a taxa efetiva anual a partir da taxa mensal composta?",
+     "verso": "Elevar 1+i mensal a 12 e subtrair 1.",
+     "dispositivo": "Valor do dinheiro no tempo, juros simples e compostos e conversão de taxas"
+    },
+    {
+     "frente": "Qual sinal indica a aplicação na perspectiva do investidor?",
+     "verso": "Negativo.",
+     "dispositivo": "Valor do dinheiro no tempo, juros simples e compostos e conversão de taxas"
+    },
+    {
+     "frente": "Como combinar taxas compostas sucessivas?",
+     "verso": "Multiplicar seus fatores e subtrair 1.",
+     "dispositivo": "Valor do dinheiro no tempo, juros simples e compostos e conversão de taxas"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "enunciado": "A capitalização simples de R$ 10.000 a 1% ao mês gera R$ 600 em seis meses.",
+     "gabarito": "C",
+     "comentario": "J = 10.000 × 0,01 × 6.",
+     "dificuldade": "media",
+     "id": "cginv3-c14-valor-do-dinheiro-juros-e-taxas-q01",
+     "dispositivo": "Valor do dinheiro no tempo, juros simples e compostos e conversão de taxas"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Uma taxa de 2% ao mês equivale a 24% ao ano efetivos sob capitalização composta.",
+     "gabarito": "E",
+     "comentario": "O fator anual é (1,02)^12, que dá cerca de 26,82%.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-valor-do-dinheiro-juros-e-taxas-q02",
+     "dispositivo": "Valor do dinheiro no tempo, juros simples e compostos e conversão de taxas"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "Aplicar dois retornos sucessivos de +20% e −20% produz perda acumulada de 4%.",
+     "gabarito": "C",
+     "comentario": "O produto 1,20 × 0,80 é 0,96.",
+     "dificuldade": "media",
+     "id": "cginv3-c14-valor-do-dinheiro-juros-e-taxas-q03",
+     "dispositivo": "Valor do dinheiro no tempo, juros simples e compostos e conversão de taxas"
+    },
+    {
+     "tipo": "ce",
+     "enunciado": "O valor presente de R$ 1.210 em dois anos a 10% compostos é R$ 968.",
+     "gabarito": "E",
+     "comentario": "A divisão por 1,21 dá R$ 1.000.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-valor-do-dinheiro-juros-e-taxas-q04",
+     "dispositivo": "Valor do dinheiro no tempo, juros simples e compostos e conversão de taxas"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "R$ 2.000 rendem 3% simples ao mês por quatro meses. Qual é o montante?",
+     "alternativas": {
+      "A": "R$ 2.251,02",
+      "B": "R$ 1.760",
+      "C": "R$ 2.240",
+      "D": "R$ 2.120",
+      "E": "R$ 2.060"
+     },
+     "gabarito": "C",
+     "comentarios_por_alternativa": {
+      "A": "É o resultado composto aproximado.",
+      "B": "A taxa foi subtraída do capital.",
+      "C": "2.000 × (1 + 0,03 × 4).",
+      "D": "Foi usado o prazo de dois meses.",
+      "E": "Foi considerado um único mês."
+     },
+     "comentario": "A) É o resultado composto aproximado.\nB) A taxa foi subtraída do capital.\nC) 2.000 × (1 + 0,03 × 4).\nD) Foi usado o prazo de dois meses.\nE) Foi considerado um único mês.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-valor-do-dinheiro-juros-e-taxas-q05",
+     "dispositivo": "Valor do dinheiro no tempo, juros simples e compostos e conversão de taxas"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual é a taxa trimestral efetiva equivalente a 2% mensais compostos?",
+     "alternativas": {
+      "A": "2%",
+      "B": "8,2432%",
+      "C": "0,66%",
+      "D": "6,1208%",
+      "E": "6%"
+     },
+     "gabarito": "D",
+     "comentarios_por_alternativa": {
+      "A": "É a taxa de apenas um mês.",
+      "B": "Corresponde a quatro meses.",
+      "C": "Reduz indevidamente a taxa ao alongar o período.",
+      "D": "(1,02)^3 − 1.",
+      "E": "É a taxa proporcional."
+     },
+     "comentario": "A) É a taxa de apenas um mês.\nB) Corresponde a quatro meses.\nC) Reduz indevidamente a taxa ao alongar o período.\nD) (1,02)^3 − 1.\nE) É a taxa proporcional.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-valor-do-dinheiro-juros-e-taxas-q06",
+     "dispositivo": "Valor do dinheiro no tempo, juros simples e compostos e conversão de taxas"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual valor presente corresponde a R$ 1.155 em dois períodos com taxa composta de 5%?",
+     "alternativas": {
+      "A": "R$ 1.100",
+      "B": "R$ 1.050",
+      "C": "R$ 1.273,39",
+      "D": "R$ 1.155",
+      "E": "R$ 1.047,62"
+     },
+     "gabarito": "E",
+     "comentarios_por_alternativa": {
+      "A": "Desconta um único período.",
+      "B": "Aplica o fator simples 1,10.",
+      "C": "Capitaliza o valor em vez de descontar.",
+      "D": "Desconsidera o tempo.",
+      "E": "1.155 dividido por 1,1025."
+     },
+     "comentario": "A) Desconta um único período.\nB) Aplica o fator simples 1,10.\nC) Capitaliza o valor em vez de descontar.\nD) Desconsidera o tempo.\nE) 1.155 dividido por 1,1025.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-valor-do-dinheiro-juros-e-taxas-q07",
+     "dispositivo": "Valor do dinheiro no tempo, juros simples e compostos e conversão de taxas"
+    },
+    {
+     "tipo": "me",
+     "enunciado": "Qual é o valor futuro de R$ 5.000 após 4% de ganho em um mês e 5% de perda no seguinte?",
+     "alternativas": {
+      "A": "R$ 4.940",
+      "B": "R$ 4.950",
+      "C": "R$ 5.050",
+      "D": "R$ 5.200",
+      "E": "R$ 4.750"
+     },
+     "gabarito": "A",
+     "comentarios_por_alternativa": {
+      "A": "5.000 × 1,04 × 0,95.",
+      "B": "Soma percentuais em vez de compor fatores.",
+      "C": "Inverte o sinal da variação final.",
+      "D": "Considera apenas o ganho inicial.",
+      "E": "Considera apenas a queda final."
+     },
+     "comentario": "A) 5.000 × 1,04 × 0,95.\nB) Soma percentuais em vez de compor fatores.\nC) Inverte o sinal da variação final.\nD) Considera apenas o ganho inicial.\nE) Considera apenas a queda final.",
+     "dificuldade": "dificil",
+     "id": "cginv3-c14-valor-do-dinheiro-juros-e-taxas-q08",
+     "dispositivo": "Valor do dinheiro no tempo, juros simples e compostos e conversão de taxas"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Descontar um fluxo composto significa ___ pelo fator acumulado.",
+     "opcoes": [
+      "dividir",
+      "multiplicar",
+      "somar"
+     ],
+     "respostas": [
+      "dividir"
+     ],
+     "explicacao": "É a operação inversa da capitalização."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "A taxa simples trimestral proporcional a 1,5% ao mês é ___.",
+     "opcoes": [
+      "4,5%",
+      "1,5%",
+      "0,5%"
+     ],
+     "respostas": [
+      "4,5%"
+     ],
+     "explicacao": "O trimestre tem três meses."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a comparação de duas propostas em datas diferentes.",
+     "itens": [
+      "Marque os valores com sinal e data.",
+      "Uniformize taxa e prazo.",
+      "Converta os valores à mesma data focal.",
+      "Compare valores e disponibilidade."
+     ],
+     "explicacao": "O cálculo só tem interpretação se taxa e tempo usam a mesma base."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "VP",
+       "Valor na data focal inicial"
+      ],
+      [
+       "VF",
+       "Valor transportado a data posterior"
+      ],
+      [
+       "Proporcionalidade",
+       "Razão linear entre unidades de tempo"
+      ],
+      [
+       "Equivalência",
+       "Igualdade de fator no mesmo horizonte"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

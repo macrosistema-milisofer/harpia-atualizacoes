@@ -1,0 +1,251 @@
+{
+ "assunto": "Teorema de Tales: segmentos proporcionais",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-teorema-de-tales-c14",
+   "titulo": "Teorema de Tales: segmentos proporcionais",
+   "microconteudo": "RAIO-X DA PROVA: Verifique o paralelismo, alinhe os intervalos correspondentes e interprete a proporção dentro da figura.\n\nPOR QUE IMPORTA:\nDivisões paralelas aparecem em projetos de terrenos, mapas e desenhos. O ENEM pode oferecer medidas em uma margem e pedir a medida correspondente em outra.\n\nO QUE A BANCA COBRA:\nVerifique o paralelismo, alinhe os intervalos correspondentes e interprete a proporção dentro da figura.\n\nENTENDA:\n1. Faixas entre paralelas\n\nTrês cercas paralelas cruzam duas pistas. Na primeira, as faixas sucessivas medem 4 e 6 m. Na segunda, a primeira faixa mede 10 m. Quanto mede a segunda faixa na segunda pista? Para decidir, precisamos deste conceito: O Teorema de Tales garante que paralelas determinam segmentos correspondentes proporcionais em duas transversais. No caso apresentado, a resposta é **15 m**. A razão da segunda pista para a primeira é 10/4. Aplicando-a a 6, obtemos 15.\n\nUma leitura que pode parecer plausível é “12 m”. Compare essa hipótese com o que a situação descreve. A razão da segunda pista para a primeira é 10/4. Aplicando-a a 6, obtemos 15. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n2. Divisão igual\n\nTrês linhas paralelas dividem uma lateral em duas partes de 7 cm. Na outra lateral, um dos intervalos mede 9 cm. Quanto mede o outro intervalo da segunda lateral? Para decidir, precisamos deste conceito: Quando paralelas determinam intervalos iguais em uma transversal, os intervalos correspondentes são iguais na outra. No caso apresentado, a resposta é **9 cm**. A razão entre os dois intervalos na primeira lateral é 1. Essa razão se repete na segunda.\n\nUma leitura que pode parecer plausível é “7 cm”. Compare essa hipótese com o que a situação descreve. A razão entre os dois intervalos na primeira lateral é 1. Essa razão se repete na segunda. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n3. Parte e todo\n\nEm uma lateral de 20 m, uma cerca paralela separa um primeiro trecho de 8 m. Na outra lateral, o comprimento total é 30 m. Quanto mede nessa lateral o trecho correspondente aos 8 m? Para decidir, precisamos deste conceito: A relação de proporcionalidade pode ser montada entre um segmento e o total da mesma transversal. No caso apresentado, a resposta é **12 m**. A parte representa 8/20 = 0,4 do total. Em 30 m, essa fração vale 12 m.\n\nUma leitura que pode parecer plausível é “18 m”. Compare essa hipótese com o que a situação descreve. A parte representa 8/20 = 0,4 do total. Em 30 m, essa fração vale 12 m. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n4. Paralela dentro de triângulo\n\nNum triângulo de base 18 cm, um segmento paralelo à base corta as laterais a um terço da distância do vértice até a base. Quanto mede o segmento paralelo? Para decidir, precisamos deste conceito: Uma reta interna paralela à base determina um triângulo menor semelhante ao triângulo completo. No caso apresentado, a resposta é **6 cm**. O triângulo menor tem fator linear 1/3 em relação ao completo e a base também é reduzida por esse fator.\n\nUma leitura que pode parecer plausível é “9 cm”. Compare essa hipótese com o que a situação descreve. O triângulo menor tem fator linear 1/3 em relação ao completo e a base também é reduzida por esse fator. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n5. Correspondência de intervalos\n\nDe P a Q, uma transversal mede 3 m; de Q a R, mede 5 m. Na outra, de R a Q o trecho mede 20 m. Quanto mede o trecho de Q a P na segunda transversal? Para decidir, precisamos deste conceito: Associe os trechos limitados pelo mesmo par de paralelas, ainda que a segunda transversal seja lida em sentido oposto. No caso apresentado, a resposta é **12 m**. R–Q corresponde a Q–R. O fator é 20/5 = 4, aplicado a 3 m.\n\nUma leitura que pode parecer plausível é “33⅓ m”. Compare essa hipótese com o que a situação descreve. R–Q corresponde a Q–R. O fator é 20/5 = 4, aplicado a 3 m. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n6. Hipótese necessária\n\nTrês divisórias retas cortam dois caminhos, mas o desenho informa que duas das divisórias se cruzam. É possível usar apenas a posição das divisórias para aplicar Tales? Para decidir, precisamos deste conceito: Para inferir a proporcionalidade diretamente por Tales, confirme o paralelismo das linhas que definem os segmentos. No caso apresentado, a resposta é **Não, falta a condição de paralelismo**. Sem paralelismo, os segmentos até podem ser proporcionais por acaso, mas o teorema não garante a proporção.\n\nUma leitura que pode parecer plausível é “Sim, porque toda divisória reta produz a razão desejada”. Compare essa hipótese com o que a situação descreve. Sem paralelismo, os segmentos até podem ser proporcionais por acaso, mas o teorema não garante a proporção. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\nTROCANDO EM MIÚDOS:\n**Faixas entre paralelas.** O Teorema de Tales garante que paralelas determinam segmentos correspondentes proporcionais em duas transversais. Tente resolver esta situação: Três cercas paralelas cruzam duas pistas. Na primeira, as faixas sucessivas medem 4 e 6 m. Na segunda, a primeira faixa mede 10 m. Quanto mede a segunda faixa na segunda pista? Confira: 15 m. A razão da segunda pista para a primeira é 10/4. Aplicando-a a 6, obtemos 15.\n\n**Divisão igual.** Quando paralelas determinam intervalos iguais em uma transversal, os intervalos correspondentes são iguais na outra. Tente resolver esta situação: Três linhas paralelas dividem uma lateral em duas partes de 7 cm. Na outra lateral, um dos intervalos mede 9 cm. Quanto mede o outro intervalo da segunda lateral? Confira: 9 cm. A razão entre os dois intervalos na primeira lateral é 1. Essa razão se repete na segunda.\n\n**Parte e todo.** A relação de proporcionalidade pode ser montada entre um segmento e o total da mesma transversal. Tente resolver esta situação: Em uma lateral de 20 m, uma cerca paralela separa um primeiro trecho de 8 m. Na outra lateral, o comprimento total é 30 m. Quanto mede nessa lateral o trecho correspondente aos 8 m? Confira: 12 m. A parte representa 8/20 = 0,4 do total. Em 30 m, essa fração vale 12 m.\n\n**Paralela dentro de triângulo.** Uma reta interna paralela à base determina um triângulo menor semelhante ao triângulo completo. Tente resolver esta situação: Num triângulo de base 18 cm, um segmento paralelo à base corta as laterais a um terço da distância do vértice até a base. Quanto mede o segmento paralelo? Confira: 6 cm. O triângulo menor tem fator linear 1/3 em relação ao completo e a base também é reduzida por esse fator.\n\n**Correspondência de intervalos.** Associe os trechos limitados pelo mesmo par de paralelas, ainda que a segunda transversal seja lida em sentido oposto. Tente resolver esta situação: De P a Q, uma transversal mede 3 m; de Q a R, mede 5 m. Na outra, de R a Q o trecho mede 20 m. Quanto mede o trecho de Q a P na segunda transversal? Confira: 12 m. R–Q corresponde a Q–R. O fator é 20/5 = 4, aplicado a 3 m.\n\n**Hipótese necessária.** Para inferir a proporcionalidade diretamente por Tales, confirme o paralelismo das linhas que definem os segmentos. Tente resolver esta situação: Três divisórias retas cortam dois caminhos, mas o desenho informa que duas das divisórias se cruzam. É possível usar apenas a posição das divisórias para aplicar Tales? Confira: Não, falta a condição de paralelismo. Sem paralelismo, os segmentos até podem ser proporcionais por acaso, mas o teorema não garante a proporção.\n\nESQUEMA:\n• Faixas entre paralelas → O Teorema de Tales garante que paralelas determinam segmentos correspondentes proporcionais em duas transversais.\n• Divisão igual → Quando paralelas determinam intervalos iguais em uma transversal, os intervalos correspondentes são iguais na outra.\n• Parte e todo → A relação de proporcionalidade pode ser montada entre um segmento e o total da mesma transversal.\n• Paralela dentro de triângulo → Uma reta interna paralela à base determina um triângulo menor semelhante ao triângulo completo.\n• Correspondência de intervalos → Associe os trechos limitados pelo mesmo par de paralelas, ainda que a segunda transversal seja lida em sentido oposto.\n• Hipótese necessária → Para inferir a proporcionalidade diretamente por Tales, confirme o paralelismo das linhas que definem os segmentos.\n\nPEGADINHAS:\n• Faixas entre paralelas: ao ler “12 m”, confira o que o enunciado permite concluir.\n• Divisão igual: ao ler “7 cm”, confira o que o enunciado permite concluir.\n• Parte e todo: ao ler “18 m”, confira o que o enunciado permite concluir.\n• Paralela dentro de triângulo: ao ler “9 cm”, confira o que o enunciado permite concluir.\n• Correspondência de intervalos: ao ler “33⅓ m”, confira o que o enunciado permite concluir.\n• Hipótese necessária: ao ler “Sim, porque toda divisória reta produz a razão desejada”, confira o que o enunciado permite concluir.\n\nNA PRÁTICA:\nTrês divisórias retas cortam dois caminhos, mas o desenho informa que duas das divisórias se cruzam. É possível usar apenas a posição das divisórias para aplicar Tales? **Resposta:** Não, falta a condição de paralelismo. Sem paralelismo, os segmentos até podem ser proporcionais por acaso, mas o teorema não garante a proporção.",
+   "flashcards": [
+    {
+     "frente": "Como reconhecer faixas entre paralelas?",
+     "verso": "O Teorema de Tales garante que paralelas determinam segmentos correspondentes proporcionais em duas transversais.",
+     "dispositivo": "Conhecimentos geométricos — Teorema de Tales"
+    },
+    {
+     "frente": "Como reconhecer divisão igual?",
+     "verso": "Quando paralelas determinam intervalos iguais em uma transversal, os intervalos correspondentes são iguais na outra.",
+     "dispositivo": "Conhecimentos geométricos — Teorema de Tales"
+    },
+    {
+     "frente": "Como reconhecer parte e todo?",
+     "verso": "A relação de proporcionalidade pode ser montada entre um segmento e o total da mesma transversal.",
+     "dispositivo": "Conhecimentos geométricos — Teorema de Tales"
+    },
+    {
+     "frente": "Como reconhecer paralela dentro de triângulo?",
+     "verso": "Uma reta interna paralela à base determina um triângulo menor semelhante ao triângulo completo.",
+     "dispositivo": "Conhecimentos geométricos — Teorema de Tales"
+    },
+    {
+     "frente": "Como reconhecer correspondência de intervalos?",
+     "verso": "Associe os trechos limitados pelo mesmo par de paralelas, ainda que a segunda transversal seja lida em sentido oposto.",
+     "dispositivo": "Conhecimentos geométricos — Teorema de Tales"
+    },
+    {
+     "frente": "Como reconhecer hipótese necessária?",
+     "verso": "Para inferir a proporcionalidade diretamente por Tales, confirme o paralelismo das linhas que definem os segmentos.",
+     "dispositivo": "Conhecimentos geométricos — Teorema de Tales"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-teorema-de-tales-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Três paralelas recortam as duas laterais retas de uma faixa. Em uma lateral, os intervalos consecutivos são 2 m e 3 m. Na outra, o primeiro mede 6 m.",
+     "enunciado": "O intervalo correspondente aos 3 m mede 9 m.",
+     "gabarito": "C",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Teorema de Tales",
+     "comentario": "O fator é 6/2 = 3, e 3 m vezes 3 dá 9 m."
+    },
+    {
+     "id": "enem-teorema-de-tales-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Duas das três linhas que cortam um desenho são concorrentes.",
+     "enunciado": "Só por serem retas, as três satisfazem o paralelismo exigido no Teorema de Tales.",
+     "gabarito": "E",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Teorema de Tales",
+     "comentario": "Retas concorrentes se cruzam e a hipótese de paralelismo das três falha."
+    },
+    {
+     "id": "enem-teorema-de-tales-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Um segmento interno paralelo à base recorta um triângulo menor com fator linear 1/2.",
+     "enunciado": "A base do triângulo menor mede o mesmo que a base original.",
+     "gabarito": "E",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Teorema de Tales",
+     "comentario": "Ela mede metade da base original, pois é um comprimento correspondente."
+    },
+    {
+     "id": "enem-teorema-de-tales-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Uma faixa ocupa 2 de 8 metros em uma lateral. Na outra, a mesma faixa ocupa 3 de 12. As linhas separadoras são paralelas.",
+     "enunciado": "Os valores são compatíveis com o teorema.",
+     "gabarito": "C",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Teorema de Tales",
+     "comentario": "As frações da largura total são iguais: 2/8 = 3/12 = 1/4."
+    },
+    {
+     "id": "enem-teorema-de-tales-c14-q05",
+     "tipo": "me",
+     "texto_base": "Três linhas paralelas dividem uma lateral em duas partes de 7 cm. Na outra lateral, um dos intervalos mede 9 cm.",
+     "enunciado": "Quanto mede o outro intervalo da segunda lateral?",
+     "gabarito": "A",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Teorema de Tales",
+     "alternativas": {
+      "A": "9 cm",
+      "B": "7 cm",
+      "C": "12 m",
+      "D": "6 cm",
+      "E": "Não, falta a condição de paralelismo"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. A razão entre os dois intervalos na primeira lateral é 1. Essa razão se repete na segunda.",
+      "B": "Essa leitura falha neste caso. A razão entre os dois intervalos na primeira lateral é 1. Essa razão se repete na segunda.",
+      "C": "Essa resposta se relaciona a parte e todo. Aqui, a pista decisiva é outra. A razão entre os dois intervalos na primeira lateral é 1. Essa razão se repete na segunda.",
+      "D": "Essa resposta se relaciona a paralela dentro de triângulo. Aqui, a pista decisiva é outra. A razão entre os dois intervalos na primeira lateral é 1. Essa razão se repete na segunda.",
+      "E": "Essa resposta se relaciona a hipótese necessária. Aqui, a pista decisiva é outra. A razão entre os dois intervalos na primeira lateral é 1. Essa razão se repete na segunda."
+     },
+     "comentario": "A) Correta. A razão entre os dois intervalos na primeira lateral é 1. Essa razão se repete na segunda.\nB) Essa leitura falha neste caso. A razão entre os dois intervalos na primeira lateral é 1. Essa razão se repete na segunda.\nC) Essa resposta se relaciona a parte e todo. Aqui, a pista decisiva é outra. A razão entre os dois intervalos na primeira lateral é 1. Essa razão se repete na segunda.\nD) Essa resposta se relaciona a paralela dentro de triângulo. Aqui, a pista decisiva é outra. A razão entre os dois intervalos na primeira lateral é 1. Essa razão se repete na segunda.\nE) Essa resposta se relaciona a hipótese necessária. Aqui, a pista decisiva é outra. A razão entre os dois intervalos na primeira lateral é 1. Essa razão se repete na segunda."
+    },
+    {
+     "id": "enem-teorema-de-tales-c14-q06",
+     "tipo": "me",
+     "texto_base": "Em uma lateral de 20 m, uma cerca paralela separa um primeiro trecho de 8 m. Na outra lateral, o comprimento total é 30 m.",
+     "enunciado": "Quanto mede nessa lateral o trecho correspondente aos 8 m?",
+     "gabarito": "B",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Teorema de Tales",
+     "alternativas": {
+      "A": "18 m",
+      "B": "12 m",
+      "C": "6 cm",
+      "D": "Não, falta a condição de paralelismo",
+      "E": "15 m"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Essa leitura falha neste caso. A parte representa 8/20 = 0,4 do total. Em 30 m, essa fração vale 12 m.",
+      "B": "Correta. A parte representa 8/20 = 0,4 do total. Em 30 m, essa fração vale 12 m.",
+      "C": "Essa resposta se relaciona a paralela dentro de triângulo. Aqui, a pista decisiva é outra. A parte representa 8/20 = 0,4 do total. Em 30 m, essa fração vale 12 m.",
+      "D": "Essa resposta se relaciona a hipótese necessária. Aqui, a pista decisiva é outra. A parte representa 8/20 = 0,4 do total. Em 30 m, essa fração vale 12 m.",
+      "E": "Essa resposta se relaciona a faixas entre paralelas. Aqui, a pista decisiva é outra. A parte representa 8/20 = 0,4 do total. Em 30 m, essa fração vale 12 m."
+     },
+     "comentario": "A) Essa leitura falha neste caso. A parte representa 8/20 = 0,4 do total. Em 30 m, essa fração vale 12 m.\nB) Correta. A parte representa 8/20 = 0,4 do total. Em 30 m, essa fração vale 12 m.\nC) Essa resposta se relaciona a paralela dentro de triângulo. Aqui, a pista decisiva é outra. A parte representa 8/20 = 0,4 do total. Em 30 m, essa fração vale 12 m.\nD) Essa resposta se relaciona a hipótese necessária. Aqui, a pista decisiva é outra. A parte representa 8/20 = 0,4 do total. Em 30 m, essa fração vale 12 m.\nE) Essa resposta se relaciona a faixas entre paralelas. Aqui, a pista decisiva é outra. A parte representa 8/20 = 0,4 do total. Em 30 m, essa fração vale 12 m."
+    },
+    {
+     "id": "enem-teorema-de-tales-c14-q07",
+     "tipo": "me",
+     "texto_base": "Num triângulo de base 18 cm, um segmento paralelo à base corta as laterais a um terço da distância do vértice até a base.",
+     "enunciado": "Quanto mede o segmento paralelo?",
+     "gabarito": "C",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Teorema de Tales",
+     "alternativas": {
+      "A": "9 cm",
+      "B": "12 m",
+      "C": "6 cm",
+      "D": "Não, falta a condição de paralelismo",
+      "E": "15 m"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Essa leitura falha neste caso. O triângulo menor tem fator linear 1/3 em relação ao completo e a base também é reduzida por esse fator.",
+      "B": "Essa resposta se relaciona a correspondência de intervalos. Aqui, a pista decisiva é outra. O triângulo menor tem fator linear 1/3 em relação ao completo e a base também é reduzida por esse fator.",
+      "C": "Correta. O triângulo menor tem fator linear 1/3 em relação ao completo e a base também é reduzida por esse fator.",
+      "D": "Essa resposta se relaciona a hipótese necessária. Aqui, a pista decisiva é outra. O triângulo menor tem fator linear 1/3 em relação ao completo e a base também é reduzida por esse fator.",
+      "E": "Essa resposta se relaciona a faixas entre paralelas. Aqui, a pista decisiva é outra. O triângulo menor tem fator linear 1/3 em relação ao completo e a base também é reduzida por esse fator."
+     },
+     "comentario": "A) Essa leitura falha neste caso. O triângulo menor tem fator linear 1/3 em relação ao completo e a base também é reduzida por esse fator.\nB) Essa resposta se relaciona a correspondência de intervalos. Aqui, a pista decisiva é outra. O triângulo menor tem fator linear 1/3 em relação ao completo e a base também é reduzida por esse fator.\nC) Correta. O triângulo menor tem fator linear 1/3 em relação ao completo e a base também é reduzida por esse fator.\nD) Essa resposta se relaciona a hipótese necessária. Aqui, a pista decisiva é outra. O triângulo menor tem fator linear 1/3 em relação ao completo e a base também é reduzida por esse fator.\nE) Essa resposta se relaciona a faixas entre paralelas. Aqui, a pista decisiva é outra. O triângulo menor tem fator linear 1/3 em relação ao completo e a base também é reduzida por esse fator."
+    },
+    {
+     "id": "enem-teorema-de-tales-c14-q08",
+     "tipo": "me",
+     "texto_base": "De P a Q, uma transversal mede 3 m; de Q a R, mede 5 m. Na outra, de R a Q o trecho mede 20 m.",
+     "enunciado": "Quanto mede o trecho de Q a P na segunda transversal?",
+     "gabarito": "D",
+     "habilidade": "H8",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos geométricos — Teorema de Tales",
+     "alternativas": {
+      "A": "33⅓ m",
+      "B": "Não, falta a condição de paralelismo",
+      "C": "15 m",
+      "D": "12 m",
+      "E": "9 cm"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Essa leitura falha neste caso. R–Q corresponde a Q–R. O fator é 20/5 = 4, aplicado a 3 m.",
+      "B": "Essa resposta se relaciona a hipótese necessária. Aqui, a pista decisiva é outra. R–Q corresponde a Q–R. O fator é 20/5 = 4, aplicado a 3 m.",
+      "C": "Essa resposta se relaciona a faixas entre paralelas. Aqui, a pista decisiva é outra. R–Q corresponde a Q–R. O fator é 20/5 = 4, aplicado a 3 m.",
+      "D": "Correta. R–Q corresponde a Q–R. O fator é 20/5 = 4, aplicado a 3 m.",
+      "E": "Essa resposta se relaciona a divisão igual. Aqui, a pista decisiva é outra. R–Q corresponde a Q–R. O fator é 20/5 = 4, aplicado a 3 m."
+     },
+     "comentario": "A) Essa leitura falha neste caso. R–Q corresponde a Q–R. O fator é 20/5 = 4, aplicado a 3 m.\nB) Essa resposta se relaciona a hipótese necessária. Aqui, a pista decisiva é outra. R–Q corresponde a Q–R. O fator é 20/5 = 4, aplicado a 3 m.\nC) Essa resposta se relaciona a faixas entre paralelas. Aqui, a pista decisiva é outra. R–Q corresponde a Q–R. O fator é 20/5 = 4, aplicado a 3 m.\nD) Correta. R–Q corresponde a Q–R. O fator é 20/5 = 4, aplicado a 3 m.\nE) Essa resposta se relaciona a divisão igual. Aqui, a pista decisiva é outra. R–Q corresponde a Q–R. O fator é 20/5 = 4, aplicado a 3 m."
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Três cercas paralelas cruzam duas pistas. Na primeira, as faixas sucessivas medem 4 e 6 m. Na segunda, a primeira faixa mede 10 m. Quanto mede a segunda faixa na segunda pista? Resposta: ___.",
+     "opcoes": [
+      "15 m",
+      "12 m",
+      "12 m"
+     ],
+     "respostas": [
+      "15 m"
+     ],
+     "explicacao": "A razão da segunda pista para a primeira é 10/4. Aplicando-a a 6, obtemos 15."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Três divisórias retas cortam dois caminhos, mas o desenho informa que duas das divisórias se cruzam. É possível usar apenas a posição das divisórias para aplicar Tales? Resposta: ___.",
+     "opcoes": [
+      "Não, falta a condição de paralelismo",
+      "Sim, porque toda divisória reta produz a razão desejada",
+      "9 cm"
+     ],
+     "respostas": [
+      "Não, falta a condição de paralelismo"
+     ],
+     "explicacao": "Sem paralelismo, os segmentos até podem ser proporcionais por acaso, mas o teorema não garante a proporção."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a resolução do caso de parte e todo. Em uma lateral de 20 m, uma cerca paralela separa um primeiro trecho de 8 m. Na outra lateral, o comprimento total é 30 m. Quanto mede nessa lateral o trecho correspondente aos 8 m?",
+     "itens": [
+      "Identificar o que a pergunta quer saber.",
+      "Relacionar as pistas ao conceito estudado.",
+      "Formular a resposta sustentada pelas pistas.",
+      "Conferir se a resposta atende à pergunta."
+     ],
+     "explicacao": "A parte representa 8/20 = 0,4 do total. Em 30 m, essa fração vale 12 m."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Faixas entre paralelas",
+       "O Teorema de Tales garante que paralelas determinam segmentos correspondentes proporcionais em duas transversais."
+      ],
+      [
+       "Divisão igual",
+       "Quando paralelas determinam intervalos iguais em uma transversal, os intervalos correspondentes são iguais na outra."
+      ],
+      [
+       "Parte e todo",
+       "A relação de proporcionalidade pode ser montada entre um segmento e o total da mesma transversal."
+      ],
+      [
+       "Paralela dentro de triângulo",
+       "Uma reta interna paralela à base determina um triângulo menor semelhante ao triângulo completo."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

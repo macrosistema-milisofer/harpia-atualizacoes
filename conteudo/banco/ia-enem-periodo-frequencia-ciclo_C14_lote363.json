@@ -1,0 +1,253 @@
+{
+ "assunto": "Período, frequência e ciclo",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-periodo-frequencia-ciclo-c14",
+   "titulo": "Período, frequência e ciclo",
+   "microconteudo": "RAIO-X DA PROVA: Use a relação física indicada e confira as condições em que ela se aplica. Período é o tempo de um ciclo, frequência é o número de ciclos por unidade de tempo e f = 1/T para oscilações periódicas.\n\nPOR QUE IMPORTA:\nUm metrônomo repete batidas enquanto uma roda gira e uma corda vibra. Ciclos, período e frequência permitem comparar essas repetições.\n\nO QUE A BANCA COBRA:\nUse a relação física indicada e confira as condições em que ela se aplica. Período é o tempo de um ciclo, frequência é o número de ciclos por unidade de tempo e f = 1/T para oscilações periódicas.\n\nENTENDA:\nUm metrônomo repete batidas enquanto uma roda gira e uma corda vibra. Ciclos, período e frequência permitem comparar essas repetições.\n\nPeríodo é o tempo de um ciclo, frequência é o número de ciclos por unidade de tempo e f = 1/T para oscilações periódicas.\n\nExemplo resolvido. Um metrônomo executa 45 ciclos completos em 30 s. Ele tem frequência de 1,5 Hz e período de 2/3 s. Se cada ciclo produz uma batida, a taxa equivale a 90 batidas por minuto.\n\nOutro exemplo. Um ponto de uma corda atinge máximo em t = 0,12 s e o próximo máximo em t = 0,20 s. O período é 0,08 s e a frequência vale 12,5 Hz.\n\nNo gráfico temporal, ciclos completos podem ser contados de crista a crista, de vale a vale ou entre passagens pela origem no mesmo sentido. Contar vários ciclos reduz o efeito de pequenos erros de leitura. Se seis intervalos separam sete picos sucessivos, divida o tempo entre o primeiro e o sétimo por seis.\n\nPara explicar o resultado, use o vocabulário da situação. O que é um ciclo? Uma repetição completa de um estado de fase. O que é período? O tempo de um ciclo. O que é frequência? O número de ciclos por unidade de tempo. Qual a unidade SI de f? Hertz. Como converter ciclos por minuto para hertz? Divida por 60. Como achar o período a partir de máximos consecutivos? Subtraia o tempo do primeiro máximo do tempo do seguinte.\n\nNa hora de resolver no papel, siga a sequência abaixo. Escolher uma fase de referência. Contar ciclos completos. Calcular ciclo por tempo ou tempo por ciclo. Converter a unidade. Depois, escreva o resultado em uma frase completa. Um número isolado pode estar correto e, ainda assim, deixar ambíguo o que você calculou. Informe a unidade quando houver medida e identifique o objeto, a região ou o intervalo a que o resultado se refere.\n\nUm ciclo completa-se quando se repete a mesma fase. Cruzar a posição de equilíbrio duas vezes não equivale a dois ciclos, porque os cruzamentos podem ocorrer em sentidos diferentes.\n\nReleia os dois exemplos resolvidos e tente antecipar o desfecho sem consultar o cálculo. No primeiro exemplo, identifique qual dado determina diretamente a resposta. No segundo, diga qual condição deve permanecer válida para que a conclusão se mantenha. Compare depois o papel das unidades e do sentido das grandezas. Se o resultado for qualitativo, procure enunciar a previsão em termos observáveis. Se for quantitativo, estime a escala antes de efetuar a última operação.\n\nVocê pode adaptar a análise a uma situação do cotidiano. Comece com esta ideia: Um metrônomo repete batidas enquanto uma roda gira e uma corda vibra. Ciclos, período e frequência permitem comparar essas repetições. Em seguida, desenhe o cenário, indique o que está sendo comparado e escreva que dado precisaria medir para testar a previsão. Diferencie a regra do modelo das informações que servem apenas para situar a história. Isso ajuda a decidir o que aproveitar quando uma questão apresenta mais dados do que a resolução exige.\n\nTrês conferências úteis: a definição corresponde ao objeto descrito? As condições indicadas no enunciado permitem aplicar a regra? A resposta continua coerente ao voltar ao desenho? Faça a última conferência lendo esta relação no contexto: Período é o tempo de um ciclo, frequência é o número de ciclos por unidade de tempo e f = 1/T para oscilações periódicas. Uma hipótese deve ser usada dentro de sua faixa de validade; quando o contexto mudar, justifique a adaptação antes de transportar o resultado.\n\nAo treinar, explique a diferença entre o mecanismo e seu efeito. Um ciclo completa-se quando se repete a mesma fase. Cruzar a posição de equilíbrio duas vezes não equivale a dois ciclos, porque os cruzamentos podem ocorrer em sentidos diferentes. Em um texto de prova, essa distinção pode aparecer escondida em uma frase sobre o resultado de uma medida. Identifique primeiro a causa física e depois a grandeza observada. Se for necessário comparar cenários, mude uma condição por vez para descobrir qual mudança explica a diferença.\n\nPergunte o que aconteceria se você aplicasse a regra a um desenho mais simples. Comece separando estas tarefas: Escolher uma fase de referência. Contar ciclos completos. Calcular ciclo por tempo ou tempo por ciclo. Converter a unidade. Refaça o primeiro exemplo apenas com setas ou um esquema, deixando os números para o final. Em seguida, recolha do enunciado as unidades e os sentidos. Uma seta no desenho pode indicar a direção de uma interação, a mudança de uma medida ou apenas uma referência. É importante dizer qual papel ela desempenha antes de usar a relação do começo da lição.\n\nPara consolidar, use três perguntas de revisão. O que é período? O tempo de um ciclo. Qual a unidade SI de f? Hertz. Como achar o período a partir de máximos consecutivos? Subtraia o tempo do primeiro máximo do tempo do seguinte. A ideia é explicar essas respostas sem depender da ordem em que apareceram. Em um problema de comparação, preste atenção às palavras que mantêm algo igual entre os cenários. Em um problema de cálculo, confira a operação inversa quando possível. Por exemplo, reintroduza o resultado na relação inicial e verifique se os dados do problema são recuperados. Em uma questão qualitativa, faça o equivalente testando se a conclusão explica as condições observadas.\n\nNo fim da leitura, diga qual grandeza a pergunta solicitou e qual grandeza você usou para chegar a ela. Faça essa distinção também quando a resposta for uma direção, uma comparação ou uma interpretação histórica. Um resultado bem explicado deve poder ser lido sem adivinhar de onde ele veio.\n\nEm uma atividade de estudo, escreva primeiro uma estimativa ou previsão. Depois escolha o dado específico que vai confirmar ou contrariar essa previsão. Se duas respostas parecerem possíveis, indique qual condição extra permitiria escolher entre elas. A ideia é explicar o raciocínio, deixando claro por que a relação física é apropriada naquele contexto.\n\nTROCANDO EM MIÚDOS:\nUm metrônomo repete batidas enquanto uma roda gira e uma corda vibra. Ciclos, período e frequência permitem comparar essas repetições.\n\nPeríodo é o tempo de um ciclo, frequência é o número de ciclos por unidade de tempo e f = 1/T para oscilações periódicas.\n\nExemplo resolvido. Um metrônomo executa 45 ciclos completos em 30 s. Ele tem frequência de 1,5 Hz e período de 2/3 s. Se cada ciclo produz uma batida, a taxa equivale a 90 batidas por minuto.\n\nOutro exemplo. Um ponto de uma corda atinge máximo em t = 0,12 s e o próximo máximo em t = 0,20 s. O período é 0,08 s e a frequência vale 12,5 Hz.\n\nUm ciclo completa-se quando se repete a mesma fase. Cruzar a posição de equilíbrio duas vezes não equivale a dois ciclos, porque os cruzamentos podem ocorrer em sentidos diferentes.\n\nO que é um ciclo? Uma repetição completa de um estado de fase. O que é período? O tempo de um ciclo. O que é frequência? O número de ciclos por unidade de tempo. Qual a unidade SI de f? Hertz. Como converter ciclos por minuto para hertz? Divida por 60. Como achar o período a partir de máximos consecutivos? Subtraia o tempo do primeiro máximo do tempo do seguinte.\n\nPara montar seu rascunho: Escolher uma fase de referência. Contar ciclos completos. Calcular ciclo por tempo ou tempo por ciclo. Converter a unidade. Na leitura final, escolha a parte do desenho que corresponde ao resultado. Se encontrar uma unidade diferente da pedida, volte ao cálculo e confira os fatores de conversão. Quando a pergunta for conceitual, confira se a explicação indica o mecanismo que liga o dado à conclusão. Você pode comparar os dois exemplos da lição antes de tentar os exercícios e explicar de memória por que cada resultado faz sentido.\n\nLEI SECA:\nPeríodo é o tempo de um ciclo, frequência é o número de ciclos por unidade de tempo e f = 1/T para oscilações periódicas.\n\nSÚMULAS E TESES:\nOutro exemplo. Um ponto de uma corda atinge máximo em t = 0,12 s e o próximo máximo em t = 0,20 s. O período é 0,08 s e a frequência vale 12,5 Hz.\n\nESQUEMA:\nEscolher uma fase de referência. → Contar ciclos completos. → Calcular ciclo por tempo ou tempo por ciclo. → Converter a unidade.\n\nPEGADINHAS:\nUm ciclo completa-se quando se repete a mesma fase. Cruzar a posição de equilíbrio duas vezes não equivale a dois ciclos, porque os cruzamentos podem ocorrer em sentidos diferentes.\n\nDOUTRINA:\nPeriod and Frequency\n\nNA PRÁTICA:\nExemplo resolvido. Um metrônomo executa 45 ciclos completos em 30 s. Ele tem frequência de 1,5 Hz e período de 2/3 s. Se cada ciclo produz uma batida, a taxa equivale a 90 batidas por minuto.",
+   "flashcards": [
+    {
+     "frente": "O que é um ciclo?",
+     "verso": "Uma repetição completa de um estado de fase.",
+     "dispositivo": "Oscilações, ondas, óptica e radiação — Período, frequência, ciclo"
+    },
+    {
+     "frente": "O que é período?",
+     "verso": "O tempo de um ciclo.",
+     "dispositivo": "Oscilações, ondas, óptica e radiação — Período, frequência, ciclo"
+    },
+    {
+     "frente": "O que é frequência?",
+     "verso": "O número de ciclos por unidade de tempo.",
+     "dispositivo": "Oscilações, ondas, óptica e radiação — Período, frequência, ciclo"
+    },
+    {
+     "frente": "Qual a unidade SI de f?",
+     "verso": "Hertz.",
+     "dispositivo": "Oscilações, ondas, óptica e radiação — Período, frequência, ciclo"
+    },
+    {
+     "frente": "Como converter ciclos por minuto para hertz?",
+     "verso": "Divida por 60.",
+     "dispositivo": "Oscilações, ondas, óptica e radiação — Período, frequência, ciclo"
+    },
+    {
+     "frente": "Como achar o período a partir de máximos consecutivos?",
+     "verso": "Subtraia o tempo do primeiro máximo do tempo do seguinte.",
+     "dispositivo": "Oscilações, ondas, óptica e radiação — Período, frequência, ciclo"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-periodo-frequencia-ciclo-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Um sistema executa 4 ciclos completos em 2 s.",
+     "enunciado": "Sua frequência vale 2 Hz.",
+     "gabarito": "C",
+     "comentario": "Certo. Dividimos o número de ciclos pelo tempo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Oscilações, ondas, óptica e radiação — Período, frequência, ciclo"
+    },
+    {
+     "id": "enem-fisica-periodo-frequencia-ciclo-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Uma oscilação tem frequência de 10 Hz.",
+     "enunciado": "Seu período é de 10 s.",
+     "gabarito": "E",
+     "comentario": "Errado. O inverso de 10 Hz é 0,1 s.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Oscilações, ondas, óptica e radiação — Período, frequência, ciclo"
+    },
+    {
+     "id": "enem-fisica-periodo-frequencia-ciclo-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Um oscilador vai de um máximo ao máximo consecutivo.",
+     "enunciado": "O intervalo representa um período.",
+     "gabarito": "C",
+     "comentario": "Certo. A fase retorna ao mesmo estado.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Oscilações, ondas, óptica e radiação — Período, frequência, ciclo"
+    },
+    {
+     "id": "enem-fisica-periodo-frequencia-ciclo-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Um seno cruza o equilíbrio em sentidos opostos em dois cruzamentos consecutivos.",
+     "enunciado": "Entre eles sempre há um ciclo inteiro.",
+     "gabarito": "E",
+     "comentario": "Errado. Para o seno, há meio ciclo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Oscilações, ondas, óptica e radiação — Período, frequência, ciclo"
+    },
+    {
+     "id": "enem-fisica-periodo-frequencia-ciclo-c14-q05",
+     "tipo": "me",
+     "texto_base": "Uma vibração tem período de 0,25 s.",
+     "enunciado": "Qual a frequência?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "0,25 Hz",
+      "B": "4 Hz",
+      "C": "2 Hz",
+      "D": "25 Hz",
+      "E": "0,04 Hz"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve 0,25 hz, enquanto a situação pede 4 hz. O inverso de 0,25 é 4.",
+      "B": "Correta. O inverso de 0,25 é 4.",
+      "C": "Esta opção descreve 2 hz, enquanto a situação pede 4 hz. O inverso de 0,25 é 4.",
+      "D": "Esta opção descreve 25 hz, enquanto a situação pede 4 hz. O inverso de 0,25 é 4.",
+      "E": "Esta opção descreve 0,04 hz, enquanto a situação pede 4 hz. O inverso de 0,25 é 4."
+     },
+     "comentario": "A) Esta opção descreve 0,25 hz, enquanto a situação pede 4 hz. O inverso de 0,25 é 4.\nB) Correta. O inverso de 0,25 é 4.\nC) Esta opção descreve 2 hz, enquanto a situação pede 4 hz. O inverso de 0,25 é 4.\nD) Esta opção descreve 25 hz, enquanto a situação pede 4 hz. O inverso de 0,25 é 4.\nE) Esta opção descreve 0,04 hz, enquanto a situação pede 4 hz. O inverso de 0,25 é 4.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Oscilações, ondas, óptica e radiação — Período, frequência, ciclo"
+    },
+    {
+     "id": "enem-fisica-periodo-frequencia-ciclo-c14-q06",
+     "tipo": "me",
+     "texto_base": "Um mecanismo faz 180 ciclos a cada minuto.",
+     "enunciado": "Qual a frequência em Hz?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "180 Hz",
+      "B": "60 Hz",
+      "C": "120 Hz",
+      "D": "3 Hz",
+      "E": "0,33 Hz"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve 180 hz, enquanto a situação pede 3 hz. 180/60 = 3 ciclos por segundo.",
+      "B": "Esta opção descreve 60 hz, enquanto a situação pede 3 hz. 180/60 = 3 ciclos por segundo.",
+      "C": "Esta opção descreve 120 hz, enquanto a situação pede 3 hz. 180/60 = 3 ciclos por segundo.",
+      "D": "Correta. 180/60 = 3 ciclos por segundo.",
+      "E": "Esta opção descreve 0,33 hz, enquanto a situação pede 3 hz. 180/60 = 3 ciclos por segundo."
+     },
+     "comentario": "A) Esta opção descreve 180 hz, enquanto a situação pede 3 hz. 180/60 = 3 ciclos por segundo.\nB) Esta opção descreve 60 hz, enquanto a situação pede 3 hz. 180/60 = 3 ciclos por segundo.\nC) Esta opção descreve 120 hz, enquanto a situação pede 3 hz. 180/60 = 3 ciclos por segundo.\nD) Correta. 180/60 = 3 ciclos por segundo.\nE) Esta opção descreve 0,33 hz, enquanto a situação pede 3 hz. 180/60 = 3 ciclos por segundo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Oscilações, ondas, óptica e radiação — Período, frequência, ciclo"
+    },
+    {
+     "id": "enem-fisica-periodo-frequencia-ciclo-c14-q07",
+     "tipo": "me",
+     "texto_base": "Duas cristas consecutivas chegam a um sensor em 1,2 s e 1,7 s.",
+     "enunciado": "Qual o período?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "0,5 s",
+      "B": "2,9 s",
+      "C": "1,2 s",
+      "D": "1,7 s",
+      "E": "2 s"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Subtraia os instantes.",
+      "B": "Esta opção descreve 2,9 s, enquanto a situação pede 0,5 s. Subtraia os instantes.",
+      "C": "Esta opção descreve 1,2 s, enquanto a situação pede 0,5 s. Subtraia os instantes.",
+      "D": "Esta opção descreve 1,7 s, enquanto a situação pede 0,5 s. Subtraia os instantes.",
+      "E": "Esta opção descreve 2 s, enquanto a situação pede 0,5 s. Subtraia os instantes."
+     },
+     "comentario": "A) Correta. Subtraia os instantes.\nB) Esta opção descreve 2,9 s, enquanto a situação pede 0,5 s. Subtraia os instantes.\nC) Esta opção descreve 1,2 s, enquanto a situação pede 0,5 s. Subtraia os instantes.\nD) Esta opção descreve 1,7 s, enquanto a situação pede 0,5 s. Subtraia os instantes.\nE) Esta opção descreve 2 s, enquanto a situação pede 0,5 s. Subtraia os instantes.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Oscilações, ondas, óptica e radiação — Período, frequência, ciclo"
+    },
+    {
+     "id": "enem-fisica-periodo-frequencia-ciclo-c14-q08",
+     "tipo": "me",
+     "texto_base": "Um oscilador de 6 Hz funciona por 4 s em regime periódico.",
+     "enunciado": "Quantos ciclos completa?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "10",
+      "B": "2",
+      "C": "1,5",
+      "D": "6",
+      "E": "24"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve 10, enquanto a situação pede 24. Multiplique frequência e tempo.",
+      "B": "Esta opção descreve 2, enquanto a situação pede 24. Multiplique frequência e tempo.",
+      "C": "Esta opção descreve 1,5, enquanto a situação pede 24. Multiplique frequência e tempo.",
+      "D": "Esta opção descreve 6, enquanto a situação pede 24. Multiplique frequência e tempo.",
+      "E": "Correta. Multiplique frequência e tempo."
+     },
+     "comentario": "A) Esta opção descreve 10, enquanto a situação pede 24. Multiplique frequência e tempo.\nB) Esta opção descreve 2, enquanto a situação pede 24. Multiplique frequência e tempo.\nC) Esta opção descreve 1,5, enquanto a situação pede 24. Multiplique frequência e tempo.\nD) Esta opção descreve 6, enquanto a situação pede 24. Multiplique frequência e tempo.\nE) Correta. Multiplique frequência e tempo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "Oscilações, ondas, óptica e radiação — Período, frequência, ciclo"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O que é um ciclo? ___",
+     "opcoes": [
+      "Uma repetição completa de um estado de fase.",
+      "O tempo de um ciclo.",
+      "O número de ciclos por unidade de tempo.",
+      "Hertz."
+     ],
+     "respostas": [
+      "Uma repetição completa de um estado de fase."
+     ],
+     "explicacao": "Uma repetição completa de um estado de fase."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "O que é frequência? ___",
+     "opcoes": [
+      "O número de ciclos por unidade de tempo.",
+      "Hertz.",
+      "Divida por 60.",
+      "Subtraia o tempo do primeiro máximo do tempo do seguinte."
+     ],
+     "respostas": [
+      "O número de ciclos por unidade de tempo."
+     ],
+     "explicacao": "O número de ciclos por unidade de tempo."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise de período, frequência e ciclo.",
+     "itens": [
+      "Escolher uma fase de referência.",
+      "Contar ciclos completos.",
+      "Calcular ciclo por tempo ou tempo por ciclo.",
+      "Converter a unidade."
+     ],
+     "explicacao": "Período é o tempo de um ciclo, frequência é o número de ciclos por unidade de tempo e f = 1/T para oscilações periódicas."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O que é um ciclo?",
+       "Uma repetição completa de um estado de fase."
+      ],
+      [
+       "O que é período?",
+       "O tempo de um ciclo."
+      ],
+      [
+       "O que é frequência?",
+       "O número de ciclos por unidade de tempo."
+      ],
+      [
+       "Qual a unidade SI de f?",
+       "Hertz."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

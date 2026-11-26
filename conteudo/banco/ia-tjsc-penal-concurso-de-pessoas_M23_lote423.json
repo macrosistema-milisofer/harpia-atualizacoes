@@ -1,0 +1,221 @@
+{
+ "assunto": "Concurso de pessoas: autoria, participação e elementares",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tjsc-penal-concurso-de-pessoas",
+   "titulo": "Concurso de pessoas: autoria, participação e elementares",
+   "microconteudo": "RAIO-X DA PROVA: Identifique contribuição, vínculo subjetivo e infração. Individualize autoria, participação e consequências.\n\nO QUE A BANCA COBRA:\nIdentifique contribuição, vínculo subjetivo e infração. Individualize autoria, participação e consequências.\n\nENTENDA:\n1. Regra monista. Em regra, quem concorre para a infração incide na pena do mesmo crime, na medida de sua culpabilidade. Unidade de imputação é compatível com penas diferentes. Tipos autônomos previstos pelo legislador podem afastar a unidade de enquadramento.\n\n2. Autoria e coautoria. A autoria direta realiza a conduta típica. Coautoria pode resultar de divisão funcional de tarefas com atuação conjunta e contribuição relevante. A teoria do domínio do fato ajuda a discutir a direção da execução, sem permitir concluir pela autoria apenas pelo cargo ocupado.\n\n3. Autoria mediata e colateral. Na mediata, a atuação se dá por intermédio de outra pessoa nas condições dogmáticas pertinentes. Na colateral, agentes atuam independentemente, sem vínculo subjetivo. Se não se identifica a contribuição geradora do resultado, individualize o que se pode provar segundo a natureza do caso.\n\n4. Participação. Induzimento forma a resolução delitiva, instigação reforça resolução já existente e auxílio fornece contribuição material. A mera presença silenciosa normalmente é insuficiente sem prova de contribuição relevante. Participação de menor importância pode reduzir a pena de um sexto a um terço.\n\n5. Cooperação dolosamente distinta. Se o concorrente quis participar de crime menos grave, aplica-se a pena desse crime, aumentada até metade se era previsível o resultado mais grave. Diferencie previsibilidade e adesão dolosa ao resultado.\n\n6. Comunicabilidade. Condições e circunstâncias pessoais não se comunicam, salvo se forem elementares do crime. Examine o conhecimento do concorrente sobre a elementar. Circunstâncias objetivas exigem exame da abrangência do vínculo subjetivo.\n\nTROCANDO EM MIÚDOS:\nDois agentes agem independentemente no mesmo local. Sem vínculo subjetivo, verifique autoria colateral e nexo individual.\n\nUm auxiliar tem contribuição consciente e secundária. O art. 29, § 1º, exige contribuição de menor importância.\n\nUm acusado ocupava a direção da organização. É preciso demonstrar contribuição e elemento subjetivo.\n\nDOUTRINA:\nAs teorias restritivas distinguem autor e partícipe por sua contribuição. A teoria do domínio do fato desenvolve essa distinção sem afastar as exigências de atribuição pessoal.\n\nPEGADINHAS:\n• É circunstância pessoal, e não elementar do crime.\n• O art. 29, § 2º, protege quem quis tomar parte em crime menos grave, nos limites legais.\n\nESQUEMA:\nMapeie atos e vínculo subjetivo → diferencie autoria e participação → verifique elementares e eventual cooperação distinta.\n\nLIGAÇÕES:\nCP, arts. 29–31.",
+   "flashcards": [
+    {
+     "frente": "Como reconhecer regra monista em um caso?",
+     "verso": "Em regra, quem concorre para a infração incide na pena do mesmo crime, na medida de sua culpabilidade. Unidade de imputação é compatível com penas diferentes. Tipos autônomos previstos pelo legislador podem afastar a unidade de enquadramento.",
+     "dispositivo": "CP, arts. 29–31"
+    },
+    {
+     "frente": "Como reconhecer autoria e coautoria em um caso?",
+     "verso": "A autoria direta realiza a conduta típica. Coautoria pode resultar de divisão funcional de tarefas com atuação conjunta e contribuição relevante. A teoria do domínio do fato ajuda a discutir a direção da execução, sem permitir concluir pela autoria apenas pelo cargo ocupado.",
+     "dispositivo": "CP, arts. 29–31"
+    },
+    {
+     "frente": "Como reconhecer autoria mediata e colateral em um caso?",
+     "verso": "Na mediata, a atuação se dá por intermédio de outra pessoa nas condições dogmáticas pertinentes. Na colateral, agentes atuam independentemente, sem vínculo subjetivo. Se não se identifica a contribuição geradora do resultado, individualize o que se pode provar segundo a natureza do caso.",
+     "dispositivo": "CP, arts. 29–31"
+    },
+    {
+     "frente": "Como reconhecer participação em um caso?",
+     "verso": "Induzimento forma a resolução delitiva, instigação reforça resolução já existente e auxílio fornece contribuição material. A mera presença silenciosa normalmente é insuficiente sem prova de contribuição relevante. Participação de menor importância pode reduzir a pena de um sexto a um terço.",
+     "dispositivo": "CP, arts. 29–31"
+    },
+    {
+     "frente": "Como reconhecer cooperação dolosamente distinta em um caso?",
+     "verso": "Se o concorrente quis participar de crime menos grave, aplica-se a pena desse crime, aumentada até metade se era previsível o resultado mais grave. Diferencie previsibilidade e adesão dolosa ao resultado.",
+     "dispositivo": "CP, arts. 29–31"
+    },
+    {
+     "frente": "Como reconhecer comunicabilidade em um caso?",
+     "verso": "Condições e circunstâncias pessoais não se comunicam, salvo se forem elementares do crime. Examine o conhecimento do concorrente sobre a elementar. Circunstâncias objetivas exigem exame da abrangência do vínculo subjetivo.",
+     "dispositivo": "CP, arts. 29–31"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Dois agentes agem independentemente no mesmo local. A coincidência temporal não basta para coautoria.",
+     "gabarito": "C",
+     "comentario": "Sem vínculo subjetivo, verifique autoria colateral e nexo individual.",
+     "dispositivo": "CP, arts. 29–31"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A reincidência de um agente se comunica automaticamente ao outro.",
+     "gabarito": "E",
+     "comentario": "É circunstância pessoal, e não elementar do crime.",
+     "dispositivo": "CP, arts. 29–31"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Um auxiliar tem contribuição consciente e secundária. Cabe examinar a causa de diminuição.",
+     "gabarito": "C",
+     "comentario": "O art. 29, § 1º, exige contribuição de menor importância.",
+     "dispositivo": "CP, arts. 29–31"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Todo partícipe responde necessariamente pelo crime mais grave executado pelo autor.",
+     "gabarito": "E",
+     "comentario": "O art. 29, § 2º, protege quem quis tomar parte em crime menos grave, nos limites legais.",
+     "dispositivo": "CP, arts. 29–31"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Qual dado distingue autoria colateral de coautoria?",
+     "alternativas": {
+      "A": "Ausência de liame subjetivo entre as condutas colaterais.",
+      "B": "Ausência de pluralidade.",
+      "C": "Identidade de horário.",
+      "D": "Uso de meios idênticos."
+     },
+     "gabarito": "A",
+     "comentario": "A (correta). As atuações são independentes. B (incorreta). Há vários agentes. C (incorreta). O horário não demonstra acordo. D (incorreta). Semelhança de meios não demonstra atuação conjunta.",
+     "comentarios_por_alternativa": {
+      "A": "As atuações são independentes.",
+      "B": "Há vários agentes.",
+      "C": "O horário não demonstra acordo.",
+      "D": "Semelhança de meios não demonstra atuação conjunta."
+     },
+     "dispositivo": "CP, arts. 29–31"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "O que caracteriza instigação?",
+     "alternativas": {
+      "A": "Realizar sempre o verbo típico.",
+      "B": "Reforçar resolução delitiva já existente.",
+      "C": "Produzir condenação pela mera presença.",
+      "D": "Agir após o fato sem vínculo anterior em todos os casos."
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). Pode ocorrer como participação moral. B (correta). Distingue-se de fazer nascer a resolução. C (incorreta). Presença isolada é insuficiente. D (incorreta). O tempo e o acordo precisam ser examinados.",
+     "comentarios_por_alternativa": {
+      "A": "Pode ocorrer como participação moral.",
+      "B": "Distingue-se de fazer nascer a resolução.",
+      "C": "Presença isolada é insuficiente.",
+      "D": "O tempo e o acordo precisam ser examinados."
+     },
+     "dispositivo": "CP, arts. 29–31"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Qual fração cabe na participação de menor importância?",
+     "alternativas": {
+      "A": "Um a dois terços.",
+      "B": "Um quinto, sempre.",
+      "C": "Um sexto a um terço.",
+      "D": "Metade, sempre."
+     },
+     "gabarito": "C",
+     "comentario": "A (incorreta). Não é a fração do dispositivo. B (incorreta). Não corresponde à lei. C (correta). Art. 29, § 1º. D (incorreta). Não corresponde à lei.",
+     "comentarios_por_alternativa": {
+      "A": "Não é a fração do dispositivo.",
+      "B": "Não corresponde à lei.",
+      "C": "Art. 29, § 1º.",
+      "D": "Não corresponde à lei."
+     },
+     "dispositivo": "CP, arts. 29–31"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Em que hipótese uma condição pessoal pode comunicar-se?",
+     "alternativas": {
+      "A": "Sempre que um agente é reincidente.",
+      "B": "Sempre que houver quatro participantes.",
+      "C": "Basta que seja condição desconhecida.",
+      "D": "Quando é elementar do crime e conhecida pelo concorrente."
+     },
+     "gabarito": "D",
+     "comentario": "A (incorreta). Reincidência é pessoal. B (incorreta). O número não decide comunicabilidade. C (incorreta). A imputação exige exame subjetivo. D (correta). Incide a ressalva do art. 30.",
+     "comentarios_por_alternativa": {
+      "A": "Reincidência é pessoal.",
+      "B": "O número não decide comunicabilidade.",
+      "C": "A imputação exige exame subjetivo.",
+      "D": "Incide a ressalva do art. 30."
+     },
+     "dispositivo": "CP, arts. 29–31"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Resposta: ___. Em que hipótese uma condição pessoal pode comunicar-se?",
+     "opcoes": [
+      "Quando é elementar do crime e conhecida pelo concorrente.",
+      "Sempre que um agente é reincidente.",
+      "Sempre que houver quatro participantes.",
+      "Basta que seja condição desconhecida."
+     ],
+     "respostas": [
+      "Quando é elementar do crime e conhecida pelo concorrente."
+     ],
+     "explicacao": "Incide a ressalva do art. 30.",
+     "dispositivo": "CP, arts. 29–31"
+    },
+    {
+     "tipo": "associacao",
+     "pares": [
+      {
+       "esquerda": "Regra monista",
+       "direita": "Em regra, quem concorre para a infração incide na pena do mesmo crime, na medida de sua culpabilidade. Unidade de imputação é compatível com penas diferentes. Tipos autônomos previstos pelo legislador podem afastar a unidade de enquadramento."
+      },
+      {
+       "esquerda": "Autoria e coautoria",
+       "direita": "A autoria direta realiza a conduta típica. Coautoria pode resultar de divisão funcional de tarefas com atuação conjunta e contribuição relevante. A teoria do domínio do fato ajuda a discutir a direção da execução, sem permitir concluir pela autoria apenas pelo cargo ocupado."
+      },
+      {
+       "esquerda": "Autoria mediata e colateral",
+       "direita": "Na mediata, a atuação se dá por intermédio de outra pessoa nas condições dogmáticas pertinentes. Na colateral, agentes atuam independentemente, sem vínculo subjetivo. Se não se identifica a contribuição geradora do resultado, individualize o que se pode provar segundo a natureza do caso."
+      }
+     ],
+     "explicacao": "Associe cada conceito ao seu efeito.",
+     "dispositivo": "CP, arts. 29–31"
+    },
+    {
+     "tipo": "classificacao",
+     "itens": [
+      {
+       "enunciado": "Dois agentes agem independentemente no mesmo local.",
+       "resposta": "Sem vínculo subjetivo, verifique autoria colateral e nexo individual."
+      },
+      {
+       "enunciado": "Um auxiliar tem contribuição consciente e secundária.",
+       "resposta": "O art. 29, § 1º, exige contribuição de menor importância."
+      },
+      {
+       "enunciado": "Um acusado ocupava a direção da organização.",
+       "resposta": "É preciso demonstrar contribuição e elemento subjetivo."
+      }
+     ],
+     "explicacao": "Identifique a categoria aplicável em cada situação.",
+     "dispositivo": "CP, arts. 29–31"
+    },
+    {
+     "tipo": "caso_pratico",
+     "enunciado": "Um acusado ocupava a direção da organização. Como resolver?",
+     "resposta": "É preciso demonstrar contribuição e elemento subjetivo.",
+     "explicacao": "É preciso demonstrar contribuição e elemento subjetivo.",
+     "dispositivo": "CP, arts. 29–31"
+    }
+   ]
+  }
+ ]
+}

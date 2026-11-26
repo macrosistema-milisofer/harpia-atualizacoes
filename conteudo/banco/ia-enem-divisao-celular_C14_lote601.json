@@ -1,0 +1,251 @@
+{
+ "assunto": "Divisão celular: mitose, meiose e contagem de cromossomos",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-divisao-celular-c14",
+   "titulo": "Divisão celular: mitose, meiose e contagem de cromossomos",
+   "microconteudo": "RAIO-X DA PROVA: Assunto prioritário do edital.\n\nPOR QUE IMPORTA:\nQuando um corte cicatriza ou uma planta produz novas folhas, grupos de células se multiplicam. Em organismos com reprodução sexuada, outro tipo de divisão ajuda a manter o número de cromossomos entre as gerações. Distinguir esses processos permite interpretar imagens, gráficos e situações de reprodução no ENEM.\n\nO QUE A BANCA COBRA:\nIdentifique a etapa descrita pelas pistas da questão. Compare o que se separa em cada divisão e saiba distinguir quantidade de DNA, número de cromossomos e número de conjuntos cromossômicos.\n\nENTENDA:\nImagine uma célula de uma muda de feijão pouco antes de se dividir. Para que as células resultantes recebam instruções genéticas, o DNA precisa ser copiado e depois repartido. Entre as divisões, a célula passa pela intérfase. Em G1, ela cresce e mantém atividades como a fabricação de proteínas. Em S, as moléculas de DNA dos cromossomos são duplicadas. Em G2, a célula continua se preparando para a divisão, inclusive conferindo condições para dar prosseguimento ao processo. Ao observar um gráfico de quantidade de DNA por célula, espere uma subida durante S e um trecho em nível mais alto entre o fim de S e a separação das novas células ao fim da divisão mitótica.\n\nA duplicação do DNA cria duas cópias ligadas de cada cromossomo, chamadas cromátides-irmãs. Até a separação entre as irmãs, elas são contadas como partes do mesmo cromossomo. Imagine uma célula com quatro cromossomos antes de S. Depois de S, ela tem quatro cromossomos duplicados, cada um com duas cromátides. A quantidade de DNA nuclear dobrou, mas a célula continua tendo dois conjuntos cromossômicos se já era diploide. Quando as irmãs se separam, cada cromátide passa a contar como um cromossomo. Durante parte da anáfase mitótica ainda existe uma célula só, com os cromossomos distribuídos em dois grupos. Para responder à questão sem erro, observe se ela pede o total na célula inteira nesse instante ou a contagem em cada polo.\n\nNa mitose, o núcleo é dividido de modo a formar dois conjuntos equivalentes de cromossomos. Na metáfase, os cromossomos duplicados se alinham na região central da célula. Na anáfase, as cromátides-irmãs se separam e seguem em direções opostas. Na telófase, formam-se novos núcleos e os cromossomos se descondensam. As fases são nomes para momentos de um processo contínuo. Numa imagem, a disposição dos cromossomos é mais útil do que tentar memorizar o desenho exato de cada fase.\n\nA divisão do citoplasma se chama citocinese. Em muitas células animais, um anel contrátil aperta a região central e gera um sulco que vai se aprofundando. Em células vegetais, a parede rígida dificulta separar a célula por meio de um sulco desse tipo. Vesículas entregam materiais no centro e formam uma placa que avança em direção às bordas. Essa estrutura contribui para a formação da separação entre as células-filhas. Portanto, a presença de uma placa central ajuda a reconhecer uma citocinese vegetal. Em ambos os casos, distinguir citocinese da divisão nuclear permite explicar como um núcleo pode se dividir antes de o citoplasma estar totalmente separado.\n\nA mitose participa do crescimento e da reposição de células em tecidos. Na pele, algumas células proliferam e suas descendentes substituem células perdidas na superfície. Em organismos unicelulares eucarióticos, a divisão mitótica também pode fazer parte da reprodução assexuada. Uma célula diploide tende a produzir, por mitose e citocinese sem erros, duas células diploides. Uma célula haploide também pode realizar mitose. Sua descendência tende a permanecer haploide. Assim, em uma questão sobre ploidia, procure a condição inicial e o tipo de divisão. A palavra mitose indica conservação do número de conjuntos nas células-filhas, qualquer que seja a ploidia inicial.\n\nNa meiose, uma duplicação do DNA precede duas divisões sucessivas. Em um organismo diploide, a célula inicial possui pares de cromossomos homólogos. Esses cromossomos carregam genes correspondentes em posições equivalentes e podem apresentar versões diferentes desses genes. Na prófase I, os homólogos se emparelham e pode ocorrer permuta, ou crossing-over, entre cromátides não irmãs. A troca de trechos correspondentes cria combinações de variantes que podem diferir das combinações presentes nos cromossomos originais. Irmãs são cópias produzidas na duplicação de um cromossomo; homólogos correspondem aos cromossomos de um mesmo par. A troca entre não irmãs ajuda a explicar por que os produtos da meiose podem diferir geneticamente.\n\nNa metáfase I, os pares de homólogos se posicionam na região central. A orientação de cada par pode variar, o que favorece combinações diferentes de cromossomos nos produtos da divisão. Na anáfase I, os homólogos seguem para polos opostos enquanto as cromátides-irmãs de cada cromossomo permanecem associadas. Ao fim dessa primeira divisão, cada conjunto resultante contém um cromossomo de cada par original. Por isso a meiose I é chamada de reducional. Numa célula que começou com quatro cromossomos, ou dois pares, cada célula após a meiose I possui dois cromossomos e quatro cromátides. Ela é haploide porque possui um cromossomo de cada par, embora cada cromossomo ainda esteja duplicado.\n\nNa meiose II não há outra fase S. As cromátides-irmãs de cada cromossomo se separam, como ocorre na mitose. No exemplo anterior, cada produto final recebe dois cromossomos com uma cromátide cada. O número de conjuntos continua sendo um, e a quantidade de DNA por núcleo diminui em relação à da célula após a meiose I. Em animais, a meiose está associada à formação de gametas. Em plantas, ela pode formar esporos haploides, e os gametas podem surgir posteriormente por mitose na fase haploide do ciclo. Se a questão diz que toda meiose produz diretamente gametas, teste a afirmação lembrando o ciclo das plantas.\n\nA fecundação combina os conjuntos cromossômicos de dois gametas. No modelo de um animal com 2n = 8, um gameta típico terá n = 4. Quando dois gametas se unem, o zigoto recupera 2n = 8. As mitoses durante o desenvolvimento permitem aumentar o número de células com a mesma ploidia do zigoto. O equilíbrio entre redução meiótica e combinação na fecundação explica por que oito cromossomos podem continuar sendo o número esperado em células somáticas de gerações sucessivas desse animal. Também explica por que convém acompanhar ploidia em vez de simplesmente somar a quantidade de DNA entre etapas que incluem duplicação.\n\nÀs vezes, os cromossomos falham em se separar. Se um par de homólogos não se separa na meiose I, um dos polos pode receber os dois cromossomos e o outro, nenhum daquele par. Com uma meiose II regular, os quatro produtos finais ficam com número alterado. Se a falha ocorre apenas na separação de cromátides em uma das duas células que entram na meiose II, a outra ainda pode produzir dois produtos com número esperado. Para resolver um problema assim, desenhe os produtos e distribua os cromossomos um par por vez. O desenho ajuda a mostrar de onde vieram os cromossomos excedentes ou ausentes.\n\nA progressão do ciclo celular depende de mecanismos de controle. Eles podem retardar a divisão quando, por exemplo, há problemas na duplicação do DNA ou na ligação dos cromossomos ao fuso. Em uma cultura didática, um grupo de células se acumula com cromossomos alinhados após receber uma substância que interfere no fuso. O acúmulo indica que as células chegam à etapa de alinhamento, mas têm dificuldade de avançar para a separação. Se o gráfico mostrar apenas DNA total, o valor alto sugere duplicação prévia. Para identificar com mais segurança a etapa exata, conecte esse valor com a imagem da disposição dos cromossomos.\n\nUm cuidado vale para qualquer comparação entre gráficos. Se cada barra mostrar o DNA de uma célula, o valor por célula tende a cair quando a divisão termina. Se cada barra mostrar a soma do DNA das duas células recém-formadas, a soma pode continuar igual à quantidade que havia imediatamente antes de elas se separarem. Leia a legenda antes de interpretar a mudança.\n\nTROCANDO EM MIÚDOS:\nImagine duas gavetas com um jogo de instruções em cada uma. Um jogo veio de cada progenitor e os dois têm capítulos correspondentes. Pense em cada capítulo como um cromossomo. Quando a célula vai se dividir, ela copia cada capítulo. Prenda cada original à cópia com um clipe. Há o dobro de páginas, mas ainda há o mesmo número de capítulos presos por clipes. Na célula, aconteceu algo parecido depois da duplicação do DNA: as cromátides-irmãs continuam ligadas e cada dupla ainda conta como um cromossomo.\n\nNa mitose, abra os clipes e entregue uma cópia de cada capítulo a cada um de dois grupos. Os grupos recebem a coleção completa. Isso ajuda você a entender por que uma célula da pele pode produzir descendentes com o mesmo número de cromossomos. Na meiose, primeiro distribua os capítulos correspondentes das duas gavetas para grupos opostos, ainda com os clipes. Só na segunda divisão cada grupo abre os clipes e reparte as cópias. É por isso que a quantidade de conjuntos cai na primeira divisão, mesmo com as cópias ainda ligadas.\n\nAntes da primeira divisão meiótica, dois capítulos correspondentes podem trocar pequenos trechos entre cópias de origens diferentes. Pense em duas versões da mesma história, com detalhes distintos. A troca gera uma nova combinação de detalhes. Além disso, cada par pode se orientar de um jeito diferente quando se alinha. Esses processos ajudam a explicar por que irmãos com os mesmos pais costumam ter combinações genéticas diferentes.\n\nSe a prova mostrar uma foto, procure pistas concretas. Veja se há pares juntos na região central ou cromossomos duplicados alinhados individualmente. Observe também se os cromossomos já caminham para lados opostos. Se a prova mostrar números, escreva ao lado de cada um o que ele mede: DNA, cromossomos ou conjuntos. Faça sua própria contagem em cada polo ou célula-filha. Assim você consegue seguir a divisão, mesmo quando o desenho da prova é bem diferente do livro.\n\nESQUEMA:\n• Fase S → duplicação do DNA.\n• Mitose → separação de cromátides-irmãs → conservação da ploidia.\n• Meiose I → separação de homólogos → redução da ploidia.\n• Meiose II → separação de cromátides-irmãs.\n• Citocinese → divisão do citoplasma.\n\nPEGADINHAS:\n• Dobrar o número de cromossomos na contagem logo após S.\n• Colocar nova duplicação de DNA entre meiose I e II.\n• Confundir homólogos com cromátides-irmãs.\n• Atribuir todo aumento de variabilidade à permuta e esquecer a orientação dos pares.\n• Usar o sulco da célula animal para explicar a placa celular vegetal.\n\nNA PRÁTICA:\nUma célula diploide com 2n = 6 inicia a meiose após duplicar o DNA. Ao fim da meiose I, cada célula tem três cromossomos duplicados, um de cada par. Ao fim da meiose II, cada produto tem três cromossomos de uma cromátide cada. A redução do número de conjuntos aconteceu na primeira divisão.",
+   "flashcards": [
+    {
+     "frente": "Em qual fase da intérfase se duplica o DNA?",
+     "verso": "Na fase S.",
+     "dispositivo": "Moléculas, células e tecidos — Divisão celular"
+    },
+    {
+     "frente": "Como distinguir cromátides-irmãs de homólogos?",
+     "verso": "Irmãs surgem da duplicação de um cromossomo. Homólogos são os cromossomos correspondentes de um par.",
+     "dispositivo": "Moléculas, células e tecidos — Divisão celular"
+    },
+    {
+     "frente": "Que estruturas se separam na anáfase I?",
+     "verso": "Cromossomos homólogos.",
+     "dispositivo": "Moléculas, células e tecidos — Divisão celular"
+    },
+    {
+     "frente": "Em qual etapa da mitose as cromátides-irmãs se separam?",
+     "verso": "Na anáfase.",
+     "dispositivo": "Moléculas, células e tecidos — Divisão celular"
+    },
+    {
+     "frente": "O que é citocinese?",
+     "verso": "Divisão do citoplasma.",
+     "dispositivo": "Moléculas, células e tecidos — Divisão celular"
+    },
+    {
+     "frente": "Por que meioses podem gerar produtos geneticamente diferentes?",
+     "verso": "A permuta e a distribuição dos homólogos podem gerar combinações distintas.",
+     "dispositivo": "Moléculas, células e tecidos — Divisão celular"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Uma célula tem seis cromossomos antes da fase S.",
+     "enunciado": "Imediatamente após S, ela ainda tem seis cromossomos, agora duplicados.",
+     "gabarito": "C",
+     "comentario": "Certo. As irmãs ainda integram a mesma unidade cromossômica.",
+     "id": "enem-divisao-celular-c14-q01",
+     "habilidade": "H13",
+     "dificuldade": "facil",
+     "dispositivo": "Moléculas, células e tecidos — Divisão celular, H13"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um esquema compara a anáfase mitótica com a anáfase I da meiose.",
+     "enunciado": "Nos dois casos, separam-se cromátides-irmãs.",
+     "gabarito": "E",
+     "comentario": "Errado. Na anáfase I separam-se homólogos.",
+     "id": "enem-divisao-celular-c14-q02",
+     "habilidade": "H13",
+     "dificuldade": "facil",
+     "dispositivo": "Moléculas, células e tecidos — Divisão celular, H13"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma célula haploide de uma alga se divide por mitose.",
+     "enunciado": "A mitose transforma as células-filhas em diploides.",
+     "gabarito": "E",
+     "comentario": "Errado. Em uma mitose regular, as células-filhas conservam a ploidia inicial.",
+     "id": "enem-divisao-celular-c14-q03",
+     "habilidade": "H13",
+     "dificuldade": "media",
+     "dispositivo": "Moléculas, células e tecidos — Divisão celular, H13"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma célula vegetal em divisão apresenta uma placa crescendo a partir do centro.",
+     "enunciado": "A placa pode indicar que o citoplasma está sendo dividido.",
+     "gabarito": "C",
+     "comentario": "Certo. A placa celular participa da citocinese vegetal.",
+     "id": "enem-divisao-celular-c14-q04",
+     "habilidade": "H13",
+     "dificuldade": "media",
+     "dispositivo": "Moléculas, células e tecidos — Divisão celular, H13"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um animal tem 2n = 10. Uma célula germinativa completou a meiose I sem erros.",
+     "enunciado": "Qual composição cromossômica é esperada em cada célula resultante?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "Dez cromossomos duplicados.",
+      "B": "Cinco cromossomos duplicados.",
+      "C": "Cinco cromossomos simples.",
+      "D": "Dez cromossomos simples.",
+      "E": "Vinte cromossomos simples."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esse é o número anterior à separação dos homólogos.",
+      "B": "Cada produto recebe um cromossomo duplicado de cada par.",
+      "C": "As irmãs só se separam na segunda divisão.",
+      "D": "Não considera a redução na primeira divisão e presume separação das irmãs.",
+      "E": "Confunde a quantidade de cromátides anterior à divisão com número de cromossomos por produto."
+     },
+     "comentario": "A) Esse é o número anterior à separação dos homólogos.\nB) Cada produto recebe um cromossomo duplicado de cada par.\nC) As irmãs só se separam na segunda divisão.\nD) Não considera a redução na primeira divisão e presume separação das irmãs.\nE) Confunde a quantidade de cromátides anterior à divisão com número de cromossomos por produto.",
+     "id": "enem-divisao-celular-c14-q05",
+     "habilidade": "H13",
+     "dificuldade": "media",
+     "dispositivo": "Moléculas, células e tecidos — Divisão celular, H13"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma figura mostra quatro pares de homólogos alinhados no centro da célula.",
+     "enunciado": "Qual fase a figura representa?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "Prófase da mitose.",
+      "B": "Anáfase I.",
+      "C": "Metáfase II.",
+      "D": "Metáfase I.",
+      "E": "Telófase da mitose."
+     },
+     "comentarios_por_alternativa": {
+      "A": "A fase não mostra alinhamento de pares de homólogos no centro.",
+      "B": "O movimento dos homólogos em sentidos opostos caracteriza essa fase.",
+      "C": "Nessa etapa os cromossomos duplicados se alinham individualmente.",
+      "D": "A presença de pares alinhados é a pista decisiva.",
+      "E": "Os conjuntos cromossômicos já se encontram separados nessa fase."
+     },
+     "comentario": "A) A fase não mostra alinhamento de pares de homólogos no centro.\nB) O movimento dos homólogos em sentidos opostos caracteriza essa fase.\nC) Nessa etapa os cromossomos duplicados se alinham individualmente.\nD) A presença de pares alinhados é a pista decisiva.\nE) Os conjuntos cromossômicos já se encontram separados nessa fase.",
+     "id": "enem-divisao-celular-c14-q06",
+     "habilidade": "H13",
+     "dificuldade": "media",
+     "dispositivo": "Moléculas, células e tecidos — Divisão celular, H13"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Dois produtos de uma mesma meiose apresentam novas combinações de variantes ao longo de um cromossomo.",
+     "enunciado": "Que processo pode criar essas combinações?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "Permuta entre cromátides não irmãs de homólogos.",
+      "B": "Citocinese vegetal.",
+      "C": "Separação mitótica de cromossomos após a meiose.",
+      "D": "Fusão do envelope nuclear.",
+      "E": "Alinhamento de homólogos sem permuta."
+     },
+     "comentarios_por_alternativa": {
+      "A": "A troca física entre essas cromátides pode gerar novas combinações.",
+      "B": "A divisão do citoplasma não troca trechos cromossômicos.",
+      "C": "Separar cópias não explica a troca de trechos observada.",
+      "D": "A reorganização do envelope não troca sequências cromossômicas.",
+      "E": "A orientação dos pares pode combinar cromossomos, mas não explica a recombinação de trechos de um mesmo cromossomo."
+     },
+     "comentario": "A) A troca física entre essas cromátides pode gerar novas combinações.\nB) A divisão do citoplasma não troca trechos cromossômicos.\nC) Separar cópias não explica a troca de trechos observada.\nD) A reorganização do envelope não troca sequências cromossômicas.\nE) A orientação dos pares pode combinar cromossomos, mas não explica a recombinação de trechos de um mesmo cromossomo.",
+     "id": "enem-divisao-celular-c14-q07",
+     "habilidade": "H13",
+     "dificuldade": "media",
+     "dispositivo": "Moléculas, células e tecidos — Divisão celular, H13"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Após uma meiose, dois produtos têm o número cromossômico esperado, um possui um cromossomo a mais e outro tem um a menos.",
+     "enunciado": "Qual evento explica diretamente esse padrão simplificado?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Falha de separação do mesmo par de homólogos na meiose I, seguida de meiose II normal.",
+      "B": "Separação regular dos cromossomos nas duas divisões.",
+      "C": "Duplicação normal do DNA antes da meiose I.",
+      "D": "Ausência de permuta entre cromátides.",
+      "E": "Falha de separação de cromátides em apenas uma célula da meiose II."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Nesse caso, os quatro produtos ficariam afetados.",
+      "B": "A distribuição regular não deixa um produto com excesso e outro com falta.",
+      "C": "É uma etapa comum que não cria o padrão desigual descrito.",
+      "D": "Por si só, a falta de troca de trechos não descreve a distribuição desigual observada.",
+      "E": "A outra célula da meiose II ainda pode gerar dois produtos regulares."
+     },
+     "comentario": "A) Nesse caso, os quatro produtos ficariam afetados.\nB) A distribuição regular não deixa um produto com excesso e outro com falta.\nC) É uma etapa comum que não cria o padrão desigual descrito.\nD) Por si só, a falta de troca de trechos não descreve a distribuição desigual observada.\nE) A outra célula da meiose II ainda pode gerar dois produtos regulares.",
+     "id": "enem-divisao-celular-c14-q08",
+     "habilidade": "H13",
+     "dificuldade": "media",
+     "dispositivo": "Moléculas, células e tecidos — Divisão celular, H13"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "A primeira divisão da meiose é ___ porque reduz a quantidade de conjuntos cromossômicos.",
+     "opcoes": [
+      "reducional",
+      "equacional",
+      "mitótica"
+     ],
+     "respostas": [
+      "reducional"
+     ],
+     "explicacao": "Cada célula recebe apenas um cromossomo de cada par original."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "A separação das cromátides-irmãs durante a mitose ocorre na ___.",
+     "opcoes": [
+      "anáfase",
+      "metáfase",
+      "intérfase"
+     ],
+     "respostas": [
+      "anáfase"
+     ],
+     "explicacao": "As cromátides migram para polos opostos durante a anáfase."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene os acontecimentos de uma meiose.",
+     "itens": [
+      "Duplicação do DNA.",
+      "Emparelhamento dos homólogos.",
+      "Separação dos homólogos.",
+      "Separação das cromátides-irmãs."
+     ],
+     "explicacao": "Uma duplicação antecede as duas divisões, que separam estruturas diferentes."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Fase S",
+       "Duplicação do DNA"
+      ],
+      [
+       "Metáfase I",
+       "Alinhamento dos pares de homólogos"
+      ],
+      [
+       "Anáfase II",
+       "Separação das cromátides-irmãs"
+      ],
+      [
+       "Citocinese vegetal",
+       "Formação da placa celular"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

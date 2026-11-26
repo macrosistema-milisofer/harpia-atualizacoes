@@ -1,0 +1,251 @@
+{
+ "assunto": "Gráficos e funções: ler, comparar e modelar",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-graficos-e-funcoes-c14",
+   "titulo": "Gráficos e funções: ler, comparar e modelar",
+   "microconteudo": "RAIO-X DA PROVA: Identifique domínio, valores, zeros, crescimento, extremos e intervalos. Observe as escalas e confirme quais valores o contexto admite.\n\nPOR QUE IMPORTA:\nAplicativos de transporte e relógios esportivos usam gráficos para relacionar grandezas. Interpretar os eixos ajuda a transformar a imagem em uma decisão ou cálculo.\n\nO QUE A BANCA COBRA:\nIdentifique domínio, valores, zeros, crescimento, extremos e intervalos. Observe as escalas e confirme quais valores o contexto admite.\n\nENTENDA:\n1. Função e entrada\n\nUma tabela informa um valor único de temperatura para cada hora de medição ao longo de um dia. A relação pode ser uma função da hora medida? Para decidir, precisamos deste conceito: Uma relação é função quando a cada entrada do domínio corresponde exatamente uma saída. No caso apresentado, a resposta é **Sim, há uma saída para cada hora do domínio**. Temperaturas podem se repetir em horas diferentes. A exigência é uma saída por entrada.\n\nUma leitura que pode parecer plausível é “Não, porque duas horas podem ter a mesma temperatura”. Compare essa hipótese com o que a situação descreve. Temperaturas podem se repetir em horas diferentes. A exigência é uma saída por entrada. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n2. Leitura de coordenadas\n\nNum gráfico de volume em litros por minuto decorrido, o ponto (4, 20) está marcado. Como interpretar o ponto? Para decidir, precisamos deste conceito: O par (x, y) num gráfico de função significa que a entrada x produz a saída y. No caso apresentado, a resposta é **Após 4 minutos o volume era 20 L**. A ordem das coordenadas segue os eixos: primeiro tempo, depois volume.\n\nUma leitura que pode parecer plausível é “Após 20 minutos o volume era 4 L”. Compare essa hipótese com o que a situação descreve. A ordem das coordenadas segue os eixos: primeiro tempo, depois volume. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n3. Zero da função\n\nEm um jogo, a variação de pontos é dada por f(t) = 2t − 8 e t representa o número de tarefas feitas. Quando a variação é nula? Para decidir, precisamos deste conceito: Um zero da função é um valor x do domínio para o qual f(x) = 0. No caso apresentado, a resposta é **Com 4 tarefas**. Resolver 2t − 8 = 0 dá t = 4.\n\nUma leitura que pode parecer plausível é “Com 8 tarefas”. Compare essa hipótese com o que a situação descreve. Resolver 2t − 8 = 0 dá t = 4. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n4. Crescimento e sinais\n\nDurante três minutos, a temperatura sobe continuamente de −5 °C para −1 °C. Como se classifica esse trecho? Para decidir, precisamos deste conceito: Uma função é crescente em um intervalo quando a saída aumenta conforme a entrada aumenta nesse intervalo. No caso apresentado, a resposta é **Crescente, com valores negativos**. −1 é maior que −5, de modo que há aumento mesmo abaixo de zero.\n\nUma leitura que pode parecer plausível é “Decrescente porque os valores são negativos”. Compare essa hipótese com o que a situação descreve. −1 é maior que −5, de modo que há aumento mesmo abaixo de zero. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n5. Extremo no intervalo\n\nEntre 8 h e 12 h, um gráfico tem pico em (10, 37). Todos os outros pontos têm saída menor. Qual máximo é atingido nesse intervalo? Para decidir, precisamos deste conceito: O máximo de uma função em um intervalo é o maior valor de saída atingido ali. No caso apresentado, a resposta é **37, às 10 h**. A altura do pico representa o valor máximo; a coordenada horizontal informa quando ele ocorre.\n\nUma leitura que pode parecer plausível é “10, às 37 h”. Compare essa hipótese com o que a situação descreve. A altura do pico representa o valor máximo; a coordenada horizontal informa quando ele ocorre. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\n6. Domínio contextual\n\nUma reserva vende ingressos inteiros individualmente; ainda há 7 ingressos. A entrada n representa quantos ingressos a pessoa comprará. Quais entradas são possíveis se ela pode desistir da compra? Para decidir, precisamos deste conceito: O domínio é o conjunto de entradas admitidas pela função na situação descrita. No caso apresentado, a resposta é **Os inteiros de 0 a 7**. A disponibilidade limita o máximo a sete, e a venda por unidade exclui entradas fracionárias.\n\nUma leitura que pode parecer plausível é “Todos os reais de 0 a 7”. Compare essa hipótese com o que a situação descreve. A disponibilidade limita o máximo a sete, e a venda por unidade exclui entradas fracionárias. Localize o dado que sustenta a resposta e confira como ele entra no raciocínio. Quando há uma magnitude, indique o que foi medido e em que unidade. Quando a pista está numa escolha de linguagem, indique qual escolha aparece e o efeito que ela pode produzir nesse caso.\n\nTeste sua explicação cobrindo a resposta em negrito. Leia a situação em voz alta para alguém e peça que essa pessoa aponte as pistas que você usou. Agora formule uma resposta que inclua uma dessas pistas. Se ela servir para qualquer situação, refine-a. E se você retirar a informação citada no comentário — o valor, a relação ou o detalhe da composição? Pergunte se a mesma conclusão ainda teria fundamento. Essa comparação ajuda a distinguir a informação decisiva daquelas que servem apenas para apresentar o cenário.\n\nTROCANDO EM MIÚDOS:\n**Função e entrada.** Uma relação é função quando a cada entrada do domínio corresponde exatamente uma saída. Tente resolver esta situação: Uma tabela informa um valor único de temperatura para cada hora de medição ao longo de um dia. A relação pode ser uma função da hora medida? Confira: Sim, há uma saída para cada hora do domínio. Temperaturas podem se repetir em horas diferentes. A exigência é uma saída por entrada.\n\n**Leitura de coordenadas.** O par (x, y) num gráfico de função significa que a entrada x produz a saída y. Tente resolver esta situação: Num gráfico de volume em litros por minuto decorrido, o ponto (4, 20) está marcado. Como interpretar o ponto? Confira: Após 4 minutos o volume era 20 L. A ordem das coordenadas segue os eixos: primeiro tempo, depois volume.\n\n**Zero da função.** Um zero da função é um valor x do domínio para o qual f(x) = 0. Tente resolver esta situação: Em um jogo, a variação de pontos é dada por f(t) = 2t − 8 e t representa o número de tarefas feitas. Quando a variação é nula? Confira: Com 4 tarefas. Resolver 2t − 8 = 0 dá t = 4.\n\n**Crescimento e sinais.** Uma função é crescente em um intervalo quando a saída aumenta conforme a entrada aumenta nesse intervalo. Tente resolver esta situação: Durante três minutos, a temperatura sobe continuamente de −5 °C para −1 °C. Como se classifica esse trecho? Confira: Crescente, com valores negativos. −1 é maior que −5, de modo que há aumento mesmo abaixo de zero.\n\n**Extremo no intervalo.** O máximo de uma função em um intervalo é o maior valor de saída atingido ali. Tente resolver esta situação: Entre 8 h e 12 h, um gráfico tem pico em (10, 37). Todos os outros pontos têm saída menor. Qual máximo é atingido nesse intervalo? Confira: 37, às 10 h. A altura do pico representa o valor máximo; a coordenada horizontal informa quando ele ocorre.\n\n**Domínio contextual.** O domínio é o conjunto de entradas admitidas pela função na situação descrita. Tente resolver esta situação: Uma reserva vende ingressos inteiros individualmente; ainda há 7 ingressos. A entrada n representa quantos ingressos a pessoa comprará. Quais entradas são possíveis se ela pode desistir da compra? Confira: Os inteiros de 0 a 7. A disponibilidade limita o máximo a sete, e a venda por unidade exclui entradas fracionárias.\n\nESQUEMA:\n• Função e entrada → Uma relação é função quando a cada entrada do domínio corresponde exatamente uma saída.\n• Leitura de coordenadas → O par (x, y) num gráfico de função significa que a entrada x produz a saída y.\n• Zero da função → Um zero da função é um valor x do domínio para o qual f(x) = 0.\n• Crescimento e sinais → Uma função é crescente em um intervalo quando a saída aumenta conforme a entrada aumenta nesse intervalo.\n• Extremo no intervalo → O máximo de uma função em um intervalo é o maior valor de saída atingido ali.\n• Domínio contextual → O domínio é o conjunto de entradas admitidas pela função na situação descrita.\n\nPEGADINHAS:\n• Função e entrada: ao ler “Não, porque duas horas podem ter a mesma temperatura”, confira o que o enunciado permite concluir.\n• Leitura de coordenadas: ao ler “Após 20 minutos o volume era 4 L”, confira o que o enunciado permite concluir.\n• Zero da função: ao ler “Com 8 tarefas”, confira o que o enunciado permite concluir.\n• Crescimento e sinais: ao ler “Decrescente porque os valores são negativos”, confira o que o enunciado permite concluir.\n• Extremo no intervalo: ao ler “10, às 37 h”, confira o que o enunciado permite concluir.\n• Domínio contextual: ao ler “Todos os reais de 0 a 7”, confira o que o enunciado permite concluir.\n\nNA PRÁTICA:\nUma reserva vende ingressos inteiros individualmente; ainda há 7 ingressos. A entrada n representa quantos ingressos a pessoa comprará. Quais entradas são possíveis se ela pode desistir da compra? **Resposta:** Os inteiros de 0 a 7. A disponibilidade limita o máximo a sete, e a venda por unidade exclui entradas fracionárias.",
+   "flashcards": [
+    {
+     "frente": "Como reconhecer função e entrada?",
+     "verso": "Uma relação é função quando a cada entrada do domínio corresponde exatamente uma saída.",
+     "dispositivo": "Conhecimentos algébricos — Gráficos e funções"
+    },
+    {
+     "frente": "Como reconhecer leitura de coordenadas?",
+     "verso": "O par (x, y) num gráfico de função significa que a entrada x produz a saída y.",
+     "dispositivo": "Conhecimentos algébricos — Gráficos e funções"
+    },
+    {
+     "frente": "Como reconhecer zero da função?",
+     "verso": "Um zero da função é um valor x do domínio para o qual f(x) = 0.",
+     "dispositivo": "Conhecimentos algébricos — Gráficos e funções"
+    },
+    {
+     "frente": "Como reconhecer crescimento e sinais?",
+     "verso": "Uma função é crescente em um intervalo quando a saída aumenta conforme a entrada aumenta nesse intervalo.",
+     "dispositivo": "Conhecimentos algébricos — Gráficos e funções"
+    },
+    {
+     "frente": "Como reconhecer extremo no intervalo?",
+     "verso": "O máximo de uma função em um intervalo é o maior valor de saída atingido ali.",
+     "dispositivo": "Conhecimentos algébricos — Gráficos e funções"
+    },
+    {
+     "frente": "Como reconhecer domínio contextual?",
+     "verso": "O domínio é o conjunto de entradas admitidas pela função na situação descrita.",
+     "dispositivo": "Conhecimentos algébricos — Gráficos e funções"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-graficos-e-funcoes-c14-q01",
+     "tipo": "ce",
+     "texto_base": "A função g associa o mesmo valor 2 às entradas 1, 2 e 3.",
+     "enunciado": "É possível que a relação descrita seja uma função.",
+     "gabarito": "C",
+     "habilidade": "H20",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos — Gráficos e funções",
+     "comentario": "Cada entrada tem uma saída única, mesmo que as saídas coincidam."
+    },
+    {
+     "id": "enem-graficos-e-funcoes-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Um gráfico associa às vezes duas saídas diferentes ao mesmo instante.",
+     "enunciado": "A relação pode ser função da saída em relação ao instante sem informação adicional.",
+     "gabarito": "E",
+     "habilidade": "H20",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos — Gráficos e funções",
+     "comentario": "Uma entrada não pode ter duas imagens distintas na mesma função."
+    },
+    {
+     "id": "enem-graficos-e-funcoes-c14-q03",
+     "tipo": "ce",
+     "texto_base": "A expressão f(x) = x + 6 é definida para todo x real.",
+     "enunciado": "Seu zero está em x = 6.",
+     "gabarito": "E",
+     "habilidade": "H20",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos — Gráficos e funções",
+     "comentario": "A equação x + 6 = 0 resulta em x = −6."
+    },
+    {
+     "id": "enem-graficos-e-funcoes-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Um gráfico de distância em função do tempo passa por (3, 180), com tempo em minutos e distância em metros.",
+     "enunciado": "A distância indicada na marca de 3 minutos é 180 m.",
+     "gabarito": "C",
+     "habilidade": "H20",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos — Gráficos e funções",
+     "comentario": "A abscissa informa o tempo e a ordenada a distância."
+    },
+    {
+     "id": "enem-graficos-e-funcoes-c14-q05",
+     "tipo": "me",
+     "texto_base": "Num gráfico de volume em litros por minuto decorrido, o ponto (4, 20) está marcado.",
+     "enunciado": "Como interpretar o ponto?",
+     "gabarito": "A",
+     "habilidade": "H20",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos — Gráficos e funções",
+     "alternativas": {
+      "A": "Após 4 minutos o volume era 20 L",
+      "B": "Após 20 minutos o volume era 4 L",
+      "C": "Com 4 tarefas",
+      "D": "Crescente, com valores negativos",
+      "E": "37, às 10 h"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. A ordem das coordenadas segue os eixos: primeiro tempo, depois volume.",
+      "B": "Essa leitura falha neste caso. A ordem das coordenadas segue os eixos: primeiro tempo, depois volume.",
+      "C": "Essa resposta se relaciona a zero da função. Aqui, a pista decisiva é outra. A ordem das coordenadas segue os eixos: primeiro tempo, depois volume.",
+      "D": "Essa resposta se relaciona a crescimento e sinais. Aqui, a pista decisiva é outra. A ordem das coordenadas segue os eixos: primeiro tempo, depois volume.",
+      "E": "Essa resposta se relaciona a extremo no intervalo. Aqui, a pista decisiva é outra. A ordem das coordenadas segue os eixos: primeiro tempo, depois volume."
+     },
+     "comentario": "A) Correta. A ordem das coordenadas segue os eixos: primeiro tempo, depois volume.\nB) Essa leitura falha neste caso. A ordem das coordenadas segue os eixos: primeiro tempo, depois volume.\nC) Essa resposta se relaciona a zero da função. Aqui, a pista decisiva é outra. A ordem das coordenadas segue os eixos: primeiro tempo, depois volume.\nD) Essa resposta se relaciona a crescimento e sinais. Aqui, a pista decisiva é outra. A ordem das coordenadas segue os eixos: primeiro tempo, depois volume.\nE) Essa resposta se relaciona a extremo no intervalo. Aqui, a pista decisiva é outra. A ordem das coordenadas segue os eixos: primeiro tempo, depois volume."
+    },
+    {
+     "id": "enem-graficos-e-funcoes-c14-q06",
+     "tipo": "me",
+     "texto_base": "Em um jogo, a variação de pontos é dada por f(t) = 2t − 8 e t representa o número de tarefas feitas.",
+     "enunciado": "Quando a variação é nula?",
+     "gabarito": "B",
+     "habilidade": "H20",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos — Gráficos e funções",
+     "alternativas": {
+      "A": "Com 8 tarefas",
+      "B": "Com 4 tarefas",
+      "C": "Crescente, com valores negativos",
+      "D": "37, às 10 h",
+      "E": "Os inteiros de 0 a 7"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Essa leitura falha neste caso. Resolver 2t − 8 = 0 dá t = 4.",
+      "B": "Correta. Resolver 2t − 8 = 0 dá t = 4.",
+      "C": "Essa resposta se relaciona a crescimento e sinais. Aqui, a pista decisiva é outra. Resolver 2t − 8 = 0 dá t = 4.",
+      "D": "Essa resposta se relaciona a extremo no intervalo. Aqui, a pista decisiva é outra. Resolver 2t − 8 = 0 dá t = 4.",
+      "E": "Essa resposta se relaciona a domínio contextual. Aqui, a pista decisiva é outra. Resolver 2t − 8 = 0 dá t = 4."
+     },
+     "comentario": "A) Essa leitura falha neste caso. Resolver 2t − 8 = 0 dá t = 4.\nB) Correta. Resolver 2t − 8 = 0 dá t = 4.\nC) Essa resposta se relaciona a crescimento e sinais. Aqui, a pista decisiva é outra. Resolver 2t − 8 = 0 dá t = 4.\nD) Essa resposta se relaciona a extremo no intervalo. Aqui, a pista decisiva é outra. Resolver 2t − 8 = 0 dá t = 4.\nE) Essa resposta se relaciona a domínio contextual. Aqui, a pista decisiva é outra. Resolver 2t − 8 = 0 dá t = 4."
+    },
+    {
+     "id": "enem-graficos-e-funcoes-c14-q07",
+     "tipo": "me",
+     "texto_base": "Durante três minutos, a temperatura sobe continuamente de −5 °C para −1 °C.",
+     "enunciado": "Como se classifica esse trecho?",
+     "gabarito": "C",
+     "habilidade": "H20",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos — Gráficos e funções",
+     "alternativas": {
+      "A": "Decrescente porque os valores são negativos",
+      "B": "37, às 10 h",
+      "C": "Crescente, com valores negativos",
+      "D": "Os inteiros de 0 a 7",
+      "E": "Sim, há uma saída para cada hora do domínio"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Essa leitura falha neste caso. −1 é maior que −5, de modo que há aumento mesmo abaixo de zero.",
+      "B": "Essa resposta se relaciona a extremo no intervalo. Aqui, a pista decisiva é outra. −1 é maior que −5, de modo que há aumento mesmo abaixo de zero.",
+      "C": "Correta. −1 é maior que −5, de modo que há aumento mesmo abaixo de zero.",
+      "D": "Essa resposta se relaciona a domínio contextual. Aqui, a pista decisiva é outra. −1 é maior que −5, de modo que há aumento mesmo abaixo de zero.",
+      "E": "Essa resposta se relaciona a função e entrada. Aqui, a pista decisiva é outra. −1 é maior que −5, de modo que há aumento mesmo abaixo de zero."
+     },
+     "comentario": "A) Essa leitura falha neste caso. −1 é maior que −5, de modo que há aumento mesmo abaixo de zero.\nB) Essa resposta se relaciona a extremo no intervalo. Aqui, a pista decisiva é outra. −1 é maior que −5, de modo que há aumento mesmo abaixo de zero.\nC) Correta. −1 é maior que −5, de modo que há aumento mesmo abaixo de zero.\nD) Essa resposta se relaciona a domínio contextual. Aqui, a pista decisiva é outra. −1 é maior que −5, de modo que há aumento mesmo abaixo de zero.\nE) Essa resposta se relaciona a função e entrada. Aqui, a pista decisiva é outra. −1 é maior que −5, de modo que há aumento mesmo abaixo de zero."
+    },
+    {
+     "id": "enem-graficos-e-funcoes-c14-q08",
+     "tipo": "me",
+     "texto_base": "Entre 8 h e 12 h, um gráfico tem pico em (10, 37). Todos os outros pontos têm saída menor.",
+     "enunciado": "Qual máximo é atingido nesse intervalo?",
+     "gabarito": "D",
+     "habilidade": "H20",
+     "dificuldade": "media",
+     "dispositivo": "Conhecimentos algébricos — Gráficos e funções",
+     "alternativas": {
+      "A": "10, às 37 h",
+      "B": "Os inteiros de 0 a 7",
+      "C": "Sim, há uma saída para cada hora do domínio",
+      "D": "37, às 10 h",
+      "E": "Após 4 minutos o volume era 20 L"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Essa leitura falha neste caso. A altura do pico representa o valor máximo; a coordenada horizontal informa quando ele ocorre.",
+      "B": "Essa resposta se relaciona a domínio contextual. Aqui, a pista decisiva é outra. A altura do pico representa o valor máximo; a coordenada horizontal informa quando ele ocorre.",
+      "C": "Essa resposta se relaciona a função e entrada. Aqui, a pista decisiva é outra. A altura do pico representa o valor máximo; a coordenada horizontal informa quando ele ocorre.",
+      "D": "Correta. A altura do pico representa o valor máximo; a coordenada horizontal informa quando ele ocorre.",
+      "E": "Essa resposta se relaciona a leitura de coordenadas. Aqui, a pista decisiva é outra. A altura do pico representa o valor máximo; a coordenada horizontal informa quando ele ocorre."
+     },
+     "comentario": "A) Essa leitura falha neste caso. A altura do pico representa o valor máximo; a coordenada horizontal informa quando ele ocorre.\nB) Essa resposta se relaciona a domínio contextual. Aqui, a pista decisiva é outra. A altura do pico representa o valor máximo; a coordenada horizontal informa quando ele ocorre.\nC) Essa resposta se relaciona a função e entrada. Aqui, a pista decisiva é outra. A altura do pico representa o valor máximo; a coordenada horizontal informa quando ele ocorre.\nD) Correta. A altura do pico representa o valor máximo; a coordenada horizontal informa quando ele ocorre.\nE) Essa resposta se relaciona a leitura de coordenadas. Aqui, a pista decisiva é outra. A altura do pico representa o valor máximo; a coordenada horizontal informa quando ele ocorre."
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Uma tabela informa um valor único de temperatura para cada hora de medição ao longo de um dia. A relação pode ser uma função da hora medida? Resposta: ___.",
+     "opcoes": [
+      "Sim, há uma saída para cada hora do domínio",
+      "Não, porque duas horas podem ter a mesma temperatura",
+      "Com 4 tarefas"
+     ],
+     "respostas": [
+      "Sim, há uma saída para cada hora do domínio"
+     ],
+     "explicacao": "Temperaturas podem se repetir em horas diferentes. A exigência é uma saída por entrada."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Uma reserva vende ingressos inteiros individualmente; ainda há 7 ingressos. A entrada n representa quantos ingressos a pessoa comprará. Quais entradas são possíveis se ela pode desistir da compra? Resposta: ___.",
+     "opcoes": [
+      "Os inteiros de 0 a 7",
+      "Todos os reais de 0 a 7",
+      "Após 4 minutos o volume era 20 L"
+     ],
+     "respostas": [
+      "Os inteiros de 0 a 7"
+     ],
+     "explicacao": "A disponibilidade limita o máximo a sete, e a venda por unidade exclui entradas fracionárias."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a resolução do caso de zero da função. Em um jogo, a variação de pontos é dada por f(t) = 2t − 8 e t representa o número de tarefas feitas. Quando a variação é nula?",
+     "itens": [
+      "Identificar o que a pergunta quer saber.",
+      "Relacionar as pistas ao conceito estudado.",
+      "Formular a resposta sustentada pelas pistas.",
+      "Conferir se a resposta atende à pergunta."
+     ],
+     "explicacao": "Resolver 2t − 8 = 0 dá t = 4."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Função e entrada",
+       "Uma relação é função quando a cada entrada do domínio corresponde exatamente uma saída."
+      ],
+      [
+       "Leitura de coordenadas",
+       "O par (x, y) num gráfico de função significa que a entrada x produz a saída y."
+      ],
+      [
+       "Zero da função",
+       "Um zero da função é um valor x do domínio para o qual f(x) = 0."
+      ],
+      [
+       "Crescimento e sinais",
+       "Uma função é crescente em um intervalo quando a saída aumenta conforme a entrada aumenta nesse intervalo."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
