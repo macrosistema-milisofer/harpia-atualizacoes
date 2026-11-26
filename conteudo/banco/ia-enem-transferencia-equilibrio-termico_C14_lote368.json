@@ -1,0 +1,253 @@
+{
+ "assunto": "Transferência de calor e equilíbrio térmico",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-transferencia-equilibrio-termico-c14",
+   "titulo": "Transferência de calor e equilíbrio térmico",
+   "microconteudo": "RAIO-X DA PROVA: Use a relação física indicada e confira as condições em que ela se aplica. Calor pode se transferir por condução, convecção e radiação. No equilíbrio térmico, não há fluxo líquido de calor entre corpos em contato térmico.\n\nPOR QUE IMPORTA:\nUma xícara esfria numa sala e os materiais ao redor recebem energia. Em um sistema isolado, os corpos inicialmente mais quentes e mais frios tendem a uma temperatura comum.\n\nO QUE A BANCA COBRA:\nUse a relação física indicada e confira as condições em que ela se aplica. Calor pode se transferir por condução, convecção e radiação. No equilíbrio térmico, não há fluxo líquido de calor entre corpos em contato térmico.\n\nENTENDA:\nUma xícara esfria numa sala e os materiais ao redor recebem energia. Em um sistema isolado, os corpos inicialmente mais quentes e mais frios tendem a uma temperatura comum.\n\nCalor pode se transferir por condução, convecção e radiação. No equilíbrio térmico, não há fluxo líquido de calor entre corpos em contato térmico.\n\nExemplo resolvido. Duas porções de água, 120 g a 70 °C e 180 g a 20 °C, misturam-se num recipiente ideal isolado. A temperatura final é (120 × 70 + 180 × 20)/300 = 40 °C.\n\nOutro exemplo. Dois blocos têm capacidades de 50 e 150 J/°C e temperaturas de 80 e 20 °C. Sem perdas, a temperatura comum é (50 × 80 + 150 × 20)/200 = 35 °C.\n\nA mesma situação pode combinar mecanismos. Uma panela conduz pela base, o líquido pode circular por convecção e a panela troca radiação com seu entorno. Em uma questão, procure o mecanismo dominante para o trecho específico mencionado. O balanço de energia considera as fronteiras do conjunto escolhido.\n\nPara explicar o resultado, use o vocabulário da situação. O que é condução? Transferência térmica por interações microscópicas sem transporte macroscópico necessário. O que é convecção? Transferência acompanhada pelo movimento de um fluido. O que é radiação? Transferência por ondas eletromagnéticas. Que condição descreve equilíbrio térmico? Temperatura comum sem transferência líquida entre os corpos. O que vale no balanço isolado? A soma algébrica dos calores trocados é zero. Quando usar a média simples? Quando os corpos têm capacidades térmicas iguais no modelo de troca.\n\nNa hora de resolver no papel, siga a sequência abaixo. Delimitar o sistema. Identificar as temperaturas iniciais. Comparar as capacidades térmicas. Aplicar o balanço e verificar o intervalo final. Depois, escreva o resultado em uma frase completa. Um número isolado pode estar correto e, ainda assim, deixar ambíguo o que você calculou. Informe a unidade quando houver medida e identifique o objeto, a região ou o intervalo a que o resultado se refere.\n\nO equilíbrio não exige que os corpos tenham a mesma energia interna. A média de temperaturas é ponderada pela capacidade térmica, desde que cada capacidade seja constante e não haja mudança de fase.\n\nReleia os dois exemplos resolvidos e tente antecipar o desfecho sem consultar o cálculo. No primeiro exemplo, identifique qual dado determina diretamente a resposta. No segundo, diga qual condição deve permanecer válida para que a conclusão se mantenha. Compare depois o papel das unidades e do sentido das grandezas. Se o resultado for qualitativo, procure enunciar a previsão em termos observáveis. Se for quantitativo, estime a escala antes de efetuar a última operação.\n\nVocê pode adaptar a análise a uma situação do cotidiano. Comece com esta ideia: Uma xícara esfria numa sala e os materiais ao redor recebem energia. Em um sistema isolado, os corpos inicialmente mais quentes e mais frios tendem a uma temperatura comum. Em seguida, desenhe o cenário, indique o que está sendo comparado e escreva que dado precisaria medir para testar a previsão. Diferencie a regra do modelo das informações que servem apenas para situar a história. Isso ajuda a decidir o que aproveitar quando uma questão apresenta mais dados do que a resolução exige.\n\nTrês conferências úteis: a definição corresponde ao objeto descrito? As condições indicadas no enunciado permitem aplicar a regra? A resposta continua coerente ao voltar ao desenho? Faça a última conferência lendo esta relação no contexto: Calor pode se transferir por condução, convecção e radiação. No equilíbrio térmico, não há fluxo líquido de calor entre corpos em contato térmico. Uma hipótese deve ser usada dentro de sua faixa de validade; quando o contexto mudar, justifique a adaptação antes de transportar o resultado.\n\nAo treinar, explique a diferença entre o mecanismo e seu efeito. O equilíbrio não exige que os corpos tenham a mesma energia interna. A média de temperaturas é ponderada pela capacidade térmica, desde que cada capacidade seja constante e não haja mudança de fase. Em um texto de prova, essa distinção pode aparecer escondida em uma frase sobre o resultado de uma medida. Identifique primeiro a causa física e depois a grandeza observada. Se for necessário comparar cenários, mude uma condição por vez para descobrir qual mudança explica a diferença.\n\nPergunte o que aconteceria se você aplicasse a regra a um desenho mais simples. Comece separando estas tarefas: Delimitar o sistema. Identificar as temperaturas iniciais. Comparar as capacidades térmicas. Aplicar o balanço e verificar o intervalo final. Refaça o primeiro exemplo apenas com setas ou um esquema, deixando os números para o final. Em seguida, recolha do enunciado as unidades e os sentidos. Uma seta no desenho pode indicar a direção de uma interação, a mudança de uma medida ou apenas uma referência. É importante dizer qual papel ela desempenha antes de usar a relação do começo da lição.\n\nPara consolidar, use três perguntas de revisão. O que é convecção? Transferência acompanhada pelo movimento de um fluido. Que condição descreve equilíbrio térmico? Temperatura comum sem transferência líquida entre os corpos. Quando usar a média simples? Quando os corpos têm capacidades térmicas iguais no modelo de troca. A ideia é explicar essas respostas sem depender da ordem em que apareceram. Em um problema de comparação, preste atenção às palavras que mantêm algo igual entre os cenários. Em um problema de cálculo, confira a operação inversa quando possível. Por exemplo, reintroduza o resultado na relação inicial e verifique se os dados do problema são recuperados. Em uma questão qualitativa, faça o equivalente testando se a conclusão explica as condições observadas.\n\nNo fim da leitura, diga qual grandeza a pergunta solicitou e qual grandeza você usou para chegar a ela. Faça essa distinção também quando a resposta for uma direção, uma comparação ou uma interpretação histórica. Um resultado bem explicado deve poder ser lido sem adivinhar de onde ele veio.\n\nEm uma atividade de estudo, escreva primeiro uma estimativa ou previsão. Depois escolha o dado específico que vai confirmar ou contrariar essa previsão. Se duas respostas parecerem possíveis, indique qual condição extra permitiria escolher entre elas. A ideia é explicar o raciocínio, deixando claro por que a relação física é apropriada naquele contexto.\n\nTROCANDO EM MIÚDOS:\nUma xícara esfria numa sala e os materiais ao redor recebem energia. Em um sistema isolado, os corpos inicialmente mais quentes e mais frios tendem a uma temperatura comum.\n\nCalor pode se transferir por condução, convecção e radiação. No equilíbrio térmico, não há fluxo líquido de calor entre corpos em contato térmico.\n\nExemplo resolvido. Duas porções de água, 120 g a 70 °C e 180 g a 20 °C, misturam-se num recipiente ideal isolado. A temperatura final é (120 × 70 + 180 × 20)/300 = 40 °C.\n\nOutro exemplo. Dois blocos têm capacidades de 50 e 150 J/°C e temperaturas de 80 e 20 °C. Sem perdas, a temperatura comum é (50 × 80 + 150 × 20)/200 = 35 °C.\n\nO equilíbrio não exige que os corpos tenham a mesma energia interna. A média de temperaturas é ponderada pela capacidade térmica, desde que cada capacidade seja constante e não haja mudança de fase.\n\nO que é condução? Transferência térmica por interações microscópicas sem transporte macroscópico necessário. O que é convecção? Transferência acompanhada pelo movimento de um fluido. O que é radiação? Transferência por ondas eletromagnéticas. Que condição descreve equilíbrio térmico? Temperatura comum sem transferência líquida entre os corpos. O que vale no balanço isolado? A soma algébrica dos calores trocados é zero. Quando usar a média simples? Quando os corpos têm capacidades térmicas iguais no modelo de troca.\n\nPara montar seu rascunho: Delimitar o sistema. Identificar as temperaturas iniciais. Comparar as capacidades térmicas. Aplicar o balanço e verificar o intervalo final. Na leitura final, escolha a parte do desenho que corresponde ao resultado. Se encontrar uma unidade diferente da pedida, volte ao cálculo e confira os fatores de conversão. Quando a pergunta for conceitual, confira se a explicação indica o mecanismo que liga o dado à conclusão. Você pode comparar os dois exemplos da lição antes de tentar os exercícios e explicar de memória por que cada resultado faz sentido.\n\nLEI SECA:\nCalor pode se transferir por condução, convecção e radiação. No equilíbrio térmico, não há fluxo líquido de calor entre corpos em contato térmico.\n\nSÚMULAS E TESES:\nOutro exemplo. Dois blocos têm capacidades de 50 e 150 J/°C e temperaturas de 80 e 20 °C. Sem perdas, a temperatura comum é (50 × 80 + 150 × 20)/200 = 35 °C.\n\nESQUEMA:\nDelimitar o sistema. → Identificar as temperaturas iniciais. → Comparar as capacidades térmicas. → Aplicar o balanço e verificar o intervalo final.\n\nPEGADINHAS:\nO equilíbrio não exige que os corpos tenham a mesma energia interna. A média de temperaturas é ponderada pela capacidade térmica, desde que cada capacidade seja constante e não haja mudança de fase.\n\nDOUTRINA:\nHeat Transfer Methods\n\nNA PRÁTICA:\nExemplo resolvido. Duas porções de água, 120 g a 70 °C e 180 g a 20 °C, misturam-se num recipiente ideal isolado. A temperatura final é (120 × 70 + 180 × 20)/300 = 40 °C.",
+   "flashcards": [
+    {
+     "frente": "O que é condução?",
+     "verso": "Transferência térmica por interações microscópicas sem transporte macroscópico necessário.",
+     "dispositivo": "O calor e os fenômenos térmicos — Transferência de calor e equilíbrio térmico"
+    },
+    {
+     "frente": "O que é convecção?",
+     "verso": "Transferência acompanhada pelo movimento de um fluido.",
+     "dispositivo": "O calor e os fenômenos térmicos — Transferência de calor e equilíbrio térmico"
+    },
+    {
+     "frente": "O que é radiação?",
+     "verso": "Transferência por ondas eletromagnéticas.",
+     "dispositivo": "O calor e os fenômenos térmicos — Transferência de calor e equilíbrio térmico"
+    },
+    {
+     "frente": "Que condição descreve equilíbrio térmico?",
+     "verso": "Temperatura comum sem transferência líquida entre os corpos.",
+     "dispositivo": "O calor e os fenômenos térmicos — Transferência de calor e equilíbrio térmico"
+    },
+    {
+     "frente": "O que vale no balanço isolado?",
+     "verso": "A soma algébrica dos calores trocados é zero.",
+     "dispositivo": "O calor e os fenômenos térmicos — Transferência de calor e equilíbrio térmico"
+    },
+    {
+     "frente": "Quando usar a média simples?",
+     "verso": "Quando os corpos têm capacidades térmicas iguais no modelo de troca.",
+     "dispositivo": "O calor e os fenômenos térmicos — Transferência de calor e equilíbrio térmico"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-transferencia-equilibrio-termico-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Dois corpos estão em equilíbrio térmico.",
+     "enunciado": "Suas temperaturas são iguais.",
+     "gabarito": "C",
+     "comentario": "Certo. O equilíbrio elimina a troca líquida.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Transferência de calor e equilíbrio térmico"
+    },
+    {
+     "id": "enem-fisica-transferencia-equilibrio-termico-c14-q02",
+     "tipo": "ce",
+     "texto_base": "A radiação solar chega à Terra.",
+     "enunciado": "Precisa da convecção através do vácuo.",
+     "gabarito": "E",
+     "comentario": "Errado. A radiação atravessa o vácuo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Transferência de calor e equilíbrio térmico"
+    },
+    {
+     "id": "enem-fisica-transferencia-equilibrio-termico-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Uma panela aquece a água e correntes circulam no líquido.",
+     "enunciado": "O movimento do fluido caracteriza convecção.",
+     "gabarito": "C",
+     "comentario": "Certo. O fluido transporta energia.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Transferência de calor e equilíbrio térmico"
+    },
+    {
+     "id": "enem-fisica-transferencia-equilibrio-termico-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Dois corpos têm capacidades térmicas muito diferentes.",
+     "enunciado": "A média simples vale para qualquer troca isolada.",
+     "gabarito": "E",
+     "comentario": "Errado. A média deve ser ponderada.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Transferência de calor e equilíbrio térmico"
+    },
+    {
+     "id": "enem-fisica-transferencia-equilibrio-termico-c14-q05",
+     "tipo": "me",
+     "texto_base": "Duas porções iguais de água têm 20 °C e 60 °C, sem perdas.",
+     "enunciado": "Qual temperatura final?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "20 °C",
+      "B": "40 °C",
+      "C": "60 °C",
+      "D": "80 °C",
+      "E": "30 °C"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve 20 °c, enquanto a situação pede 40 °c. As capacidades são iguais e a média é 40.",
+      "B": "Correta. As capacidades são iguais e a média é 40.",
+      "C": "Esta opção descreve 60 °c, enquanto a situação pede 40 °c. As capacidades são iguais e a média é 40.",
+      "D": "Esta opção descreve 80 °c, enquanto a situação pede 40 °c. As capacidades são iguais e a média é 40.",
+      "E": "Esta opção descreve 30 °c, enquanto a situação pede 40 °c. As capacidades são iguais e a média é 40."
+     },
+     "comentario": "A) Esta opção descreve 20 °c, enquanto a situação pede 40 °c. As capacidades são iguais e a média é 40.\nB) Correta. As capacidades são iguais e a média é 40.\nC) Esta opção descreve 60 °c, enquanto a situação pede 40 °c. As capacidades são iguais e a média é 40.\nD) Esta opção descreve 80 °c, enquanto a situação pede 40 °c. As capacidades são iguais e a média é 40.\nE) Esta opção descreve 30 °c, enquanto a situação pede 40 °c. As capacidades são iguais e a média é 40.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Transferência de calor e equilíbrio térmico"
+    },
+    {
+     "id": "enem-fisica-transferencia-equilibrio-termico-c14-q06",
+     "tipo": "me",
+     "texto_base": "Um corpo cede 125 J num sistema isolado de dois corpos.",
+     "enunciado": "Quanto o outro recebe?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "−125 J",
+      "B": "250 J",
+      "C": "62,5 J",
+      "D": "125 J",
+      "E": "0 J"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve −125 j, enquanto a situação pede 125 j. A soma algébrica das trocas é nula.",
+      "B": "Esta opção descreve 250 j, enquanto a situação pede 125 j. A soma algébrica das trocas é nula.",
+      "C": "Esta opção descreve 62,5 j, enquanto a situação pede 125 j. A soma algébrica das trocas é nula.",
+      "D": "Correta. A soma algébrica das trocas é nula.",
+      "E": "Esta opção descreve 0 j, enquanto a situação pede 125 j. A soma algébrica das trocas é nula."
+     },
+     "comentario": "A) Esta opção descreve −125 j, enquanto a situação pede 125 j. A soma algébrica das trocas é nula.\nB) Esta opção descreve 250 j, enquanto a situação pede 125 j. A soma algébrica das trocas é nula.\nC) Esta opção descreve 62,5 j, enquanto a situação pede 125 j. A soma algébrica das trocas é nula.\nD) Correta. A soma algébrica das trocas é nula.\nE) Esta opção descreve 0 j, enquanto a situação pede 125 j. A soma algébrica das trocas é nula.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Transferência de calor e equilíbrio térmico"
+    },
+    {
+     "id": "enem-fisica-transferencia-equilibrio-termico-c14-q07",
+     "tipo": "me",
+     "texto_base": "Um aparelho aquece um material distante sem contato por emissão infravermelha.",
+     "enunciado": "Qual o mecanismo principal indicado?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "Radiação",
+      "B": "Condução direta",
+      "C": "Convecção obrigatória",
+      "D": "Translação orbital",
+      "E": "Fusão sem troca"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. A emissão eletromagnética transporta energia.",
+      "B": "Esta opção descreve condução direta, enquanto a situação pede radiação. A emissão eletromagnética transporta energia.",
+      "C": "Esta opção descreve convecção obrigatória, enquanto a situação pede radiação. A emissão eletromagnética transporta energia.",
+      "D": "Esta opção descreve translação orbital, enquanto a situação pede radiação. A emissão eletromagnética transporta energia.",
+      "E": "Esta opção descreve fusão sem troca, enquanto a situação pede radiação. A emissão eletromagnética transporta energia."
+     },
+     "comentario": "A) Correta. A emissão eletromagnética transporta energia.\nB) Esta opção descreve condução direta, enquanto a situação pede radiação. A emissão eletromagnética transporta energia.\nC) Esta opção descreve convecção obrigatória, enquanto a situação pede radiação. A emissão eletromagnética transporta energia.\nD) Esta opção descreve translação orbital, enquanto a situação pede radiação. A emissão eletromagnética transporta energia.\nE) Esta opção descreve fusão sem troca, enquanto a situação pede radiação. A emissão eletromagnética transporta energia.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Transferência de calor e equilíbrio térmico"
+    },
+    {
+     "id": "enem-fisica-transferencia-equilibrio-termico-c14-q08",
+     "tipo": "me",
+     "texto_base": "Dois blocos isolados do exterior chegam ao equilíbrio a partir de 15 °C e 65 °C.",
+     "enunciado": "Qual leitura é fisicamente compatível?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "80 °C",
+      "B": "5 °C",
+      "C": "100 °C",
+      "D": "−20 °C",
+      "E": "45 °C"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve 80 °c, enquanto a situação pede 45 °c. A temperatura final deve ficar entre as iniciais.",
+      "B": "Esta opção descreve 5 °c, enquanto a situação pede 45 °c. A temperatura final deve ficar entre as iniciais.",
+      "C": "Esta opção descreve 100 °c, enquanto a situação pede 45 °c. A temperatura final deve ficar entre as iniciais.",
+      "D": "Esta opção descreve −20 °c, enquanto a situação pede 45 °c. A temperatura final deve ficar entre as iniciais.",
+      "E": "Correta. A temperatura final deve ficar entre as iniciais."
+     },
+     "comentario": "A) Esta opção descreve 80 °c, enquanto a situação pede 45 °c. A temperatura final deve ficar entre as iniciais.\nB) Esta opção descreve 5 °c, enquanto a situação pede 45 °c. A temperatura final deve ficar entre as iniciais.\nC) Esta opção descreve 100 °c, enquanto a situação pede 45 °c. A temperatura final deve ficar entre as iniciais.\nD) Esta opção descreve −20 °c, enquanto a situação pede 45 °c. A temperatura final deve ficar entre as iniciais.\nE) Correta. A temperatura final deve ficar entre as iniciais.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Transferência de calor e equilíbrio térmico"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O que é condução? ___",
+     "opcoes": [
+      "Transferência térmica por interações microscópicas sem transporte macroscópico necessário.",
+      "Transferência acompanhada pelo movimento de um fluido.",
+      "Transferência por ondas eletromagnéticas.",
+      "Temperatura comum sem transferência líquida entre os corpos."
+     ],
+     "respostas": [
+      "Transferência térmica por interações microscópicas sem transporte macroscópico necessário."
+     ],
+     "explicacao": "Transferência térmica por interações microscópicas sem transporte macroscópico necessário."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "O que é radiação? ___",
+     "opcoes": [
+      "Transferência por ondas eletromagnéticas.",
+      "Temperatura comum sem transferência líquida entre os corpos.",
+      "A soma algébrica dos calores trocados é zero.",
+      "Quando os corpos têm capacidades térmicas iguais no modelo de troca."
+     ],
+     "respostas": [
+      "Transferência por ondas eletromagnéticas."
+     ],
+     "explicacao": "Transferência por ondas eletromagnéticas."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise de transferência de calor e equilíbrio térmico.",
+     "itens": [
+      "Delimitar o sistema.",
+      "Identificar as temperaturas iniciais.",
+      "Comparar as capacidades térmicas.",
+      "Aplicar o balanço e verificar o intervalo final."
+     ],
+     "explicacao": "Calor pode se transferir por condução, convecção e radiação. No equilíbrio térmico, não há fluxo líquido de calor entre corpos em contato térmico."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O que é condução?",
+       "Transferência térmica por interações microscópicas sem transporte macroscópico necessário."
+      ],
+      [
+       "O que é convecção?",
+       "Transferência acompanhada pelo movimento de um fluido."
+      ],
+      [
+       "O que é radiação?",
+       "Transferência por ondas eletromagnéticas."
+      ],
+      [
+       "Que condição descreve equilíbrio térmico?",
+       "Temperatura comum sem transferência líquida entre os corpos."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

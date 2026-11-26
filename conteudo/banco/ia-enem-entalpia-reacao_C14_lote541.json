@@ -1,0 +1,253 @@
+{
+ "assunto": "Entalpia e variação de entalpia",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-entalpia-reacao-c14",
+   "titulo": "Entalpia e variação de entalpia",
+   "microconteudo": "RAIO-X DA PROVA: Assunto do edital de Ciências da Natureza. A interpretação de dados ajuda a resolver situações-problema sobre esse conteúdo.\n\nPOR QUE IMPORTA:\nEntalpia e variação de entalpia ajuda a traduzir observações e símbolos em explicações que você pode conferir. Nesta lição, você vai praticar a leitura de dados e justificar o resultado.\n\nO QUE A BANCA COBRA:\nIdentifique o que o problema descreve e escolha a conclusão explicada pelos dados. Revise a unidade, a entidade representada e as condições de aplicação quando elas fizerem parte do problema.\n\nENTENDA:\nEntalpia é uma função de estado definida por H = U + PV. Sua variação é H final menos H inicial. Sob pressão constante, quando o único trabalho relevante é o de expansão ou compressão, o calor trocado corresponde a ΔH. Em equações químicas, o valor depende das quantidades e estados físicos indicados.\n\nSe um processo tem H inicial de referência de 150 kJ e H final de 90 kJ, ΔH é −60 kJ. Um diagrama com produtos abaixo dos reagentes indica transformação exotérmica à pressão constante sob as condições descritas. A altura da barreira de ativação corresponde a uma questão distinta da diferença final.\n\nEm um gráfico de entalpia, o zero pode ser uma referência arbitrária. Para encontrar a variação, subtraia as duas alturas na ordem produtos menos reagentes. Isso também explica por que alterar a referência de todos os níveis em uma mesma quantidade não modifica a diferença. Ao comparar resultados reportados, verifique a pressão, a temperatura e os estados físicos.\n\nPrimeiro caso: ligue os dados à regra\nUma reação parte de H relativa de 220 kJ e chega a 305 kJ. Qual ΔH?\n\nComece lendo o enunciado como um pequeno relatório. Anote em uma linha o material ou sistema descrito e, em outra, o que se quer descobrir. Essa divisão evita misturar um dado já fornecido com o resultado pedido. Escolha a regra depois de localizar o que, no texto, autoriza sua aplicação. Ao terminar, teste se a resposta ainda faz sentido ao substituir os valores ou reler a observação.\n\nResultado: +85 kJ 305 − 220 = +85.\n\nCompare as hipóteses e os cálculos alternativos:\n• −85 kJ A ordem da subtração está invertida.\n• +525 kJ A definição usa diferença.\n• +305 kJ Esse é o estado final relativo.\n• +220 kJ Esse é o inicial relativo.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nSegundo caso: cuide da condição que permite a conclusão\nUma equação em certa condição apresenta ΔH = −40 kJ. Qual ΔH da reação inversa entre os mesmos estados?\n\nCompare as interpretações antes de escolher. Duas respostas podem usar os mesmos termos ou números e ainda se referir a grandezas diferentes. Se houver unidades, escreva a unidade junto a cada valor. Se houver contagens, diga o que está sendo contado. Se a questão for explicativa, procure a relação de causa e efeito que é compatível com as condições fornecidas. Só então feche a resposta.\n\nResultado: +40 kJ Inverter troca os papéis dos estados.\n\nCompare as hipóteses e os cálculos alternativos:\n• −40 kJ O sinal muda.\n• 0 kJ Os estados têm entalpias diferentes.\n• +80 kJ A inversão não duplica a magnitude.\n• −80 kJ Nem o fator nem o sinal correspondem.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nTerceiro caso: confira o que a pergunta está medindo\nUm enunciado muda H₂O(l) para H₂O(g) entre os produtos de uma equação. Por que deve reconsiderar ΔH?\n\nFaça uma primeira previsão usando palavras. Pergunte se o resultado esperado é uma contagem, uma propriedade, uma comparação ou um mecanismo. Escrever a previsão antes de olhar as alternativas ajuda a perceber quando dois valores semelhantes têm sentidos diferentes. Em seguida, explique em uma frase como o primeiro dado se conecta ao resultado. A resposta fica mais forte quando essa ligação pode ser checada no próprio enunciado.\n\nResultado: Estados físicos diferentes têm entalpias diferentes. O estado final mudou.\n\nCompare as hipóteses e os cálculos alternativos:\n• Moléculas de água viraram outro elemento. A identidade molecular se conserva.\n• Equações nunca especificam fase. Símbolos de fase são relevantes.\n• Só importa a cor do produto. Cor não define entalpia.\n• O ΔH de uma reação é sempre zero. Ele pode ser positivo ou negativo.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nQuarto caso: escolha a conclusão sustentada\nHá aquecimento a pressão constante com apenas trabalho de expansão. Como relacionar o calor recebido pelo sistema e ΔH?\n\nTente justificar a escolha para alguém que observou apenas o resultado final. Comece pelos fatos que o problema realmente fornece e mostre como a regra interpreta esses fatos. Se a conclusão depender de uma condição, mantenha essa condição na justificativa. Depois procure uma alteração pequena nos dados que exigiria outra resposta. Esse último passo ajuda a reconhecer onde termina a aplicação do raciocínio.\n\nResultado: São iguais sob as condições descritas. A definição de H incorpora o termo PV nessa situação.\n\nCompare as hipóteses e os cálculos alternativos:\n• Sempre têm sinais opostos. Para o sistema, a igualdade mantém o sinal.\n• ΔH é sempre a metade de q. Não há esse fator.\n• Calor sempre equivale a ΔH mesmo com outros trabalhos. As condições da igualdade importam.\n• ΔH mede apenas o pico do caminho. Depende dos estados, não da barreira.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nLeitura crítica 1\nUm diagrama mostra produtos abaixo dos reagentes em entalpia. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “ΔH é negativo.” H final é menor que H inicial. A segunda é “ΔH é positivo.” A subtração tem sentido inverso.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nLeitura crítica 2\nUm catalisador permite caminho alternativo entre mesmos estados inicial e final. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “ΔH permanece igual.” A entalpia é função de estado. A segunda é “O catalisador sempre muda ΔH.” Ele altera o percurso, não os estados especificados.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nCheque o alcance da conclusão\nEntalpia é uma função de estado definida por H = U + PV. Sua variação é H final menos H inicial. Sob pressão constante, quando o único trabalho relevante é o de expansão ou compressão, o calor trocado corresponde a ΔH. Em equações químicas, o valor depende das quantidades e estados físicos indicados.\n\nAo estudar, escolha uma das situações acima e altere só um dado. Explique quais partes da solução continuam iguais e quais precisam ser refeitas. Num problema numérico, experimente multiplicar o dado alterado por dois e veja se a resposta dobra, diminui ou continua igual. Num problema de classificação, tente retirar a observação decisiva e veja quais hipóteses continuam compatíveis. Isso separa a regra geral da informação específica fornecida por uma questão.\n\nTROCANDO EM MIÚDOS:\nComece por uma pergunta que você conseguiria fazer a um colega: o que mudou, o que ficou igual e qual informação me permite dizer isso? Em questões de Química, dá para errar mesmo lembrando a regra certa quando se usa a regra para o dado errado. Separe a situação da pergunta. Leia os símbolos em voz baixa. Se houver dois materiais ou dois momentos, dê um nome curto para cada um. Assim você consegue comparar as coisas na ordem que o texto pediu.\n\nSe um processo tem H inicial de referência de 150 kJ e H final de 90 kJ, ΔH é −60 kJ. Um diagrama com produtos abaixo dos reagentes indica transformação exotérmica à pressão constante sob as condições descritas. A altura da barreira de ativação corresponde a uma questão distinta da diferença final.\n\nExperimente com este caso. Uma reação parte de H relativa de 220 kJ e chega a 305 kJ. Qual ΔH? A resposta é +85 kJ 305 − 220 = +85. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nExperimente com este caso. Há aquecimento a pressão constante com apenas trabalho de expansão. Como relacionar o calor recebido pelo sistema e ΔH? A resposta é São iguais sob as condições descritas. A definição de H incorpora o termo PV nessa situação. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nFaça uma checagem que cabe no rascunho: escreva o dado, desenhe uma seta e escreva o que ele permite concluir. Se precisar de uma segunda seta, diga qual regra leva desse resultado intermediário até a resposta. Uma explicação em duas frases pode ser suficiente. A primeira conta o que o problema mostrou. A segunda diz por que esse dado leva à sua escolha. Esse caminho ajuda em problemas com tabelas, desenhos e comparações.\n\nESQUEMA:\nLeia o cenário → destaque o dado decisivo → aplique a relação → confira o que foi pedido.\n\nPEGADINHAS:\n• −85 kJ A ordem da subtração está invertida.\n• −40 kJ O sinal muda.\n• Moléculas de água viraram outro elemento. A identidade molecular se conserva.\n• Sempre têm sinais opostos. Para o sistema, a igualdade mantém o sinal.\n\nNA PRÁTICA:\nSe um processo tem H inicial de referência de 150 kJ e H final de 90 kJ, ΔH é −60 kJ. Um diagrama com produtos abaixo dos reagentes indica transformação exotérmica à pressão constante sob as condições descritas. A altura da barreira de ativação corresponde a uma questão distinta da diferença final.",
+   "flashcards": [
+    {
+     "frente": "Um diagrama mostra produtos abaixo dos reagentes em entalpia. ΔH é negativo. Certo ou errado?",
+     "verso": "Certo. H final é menor que H inicial.",
+     "dispositivo": "Transformações químicas e energia — Entalpia"
+    },
+    {
+     "frente": "Um catalisador permite caminho alternativo entre mesmos estados inicial e final. ΔH permanece igual. Certo ou errado?",
+     "verso": "Certo. A entalpia é função de estado.",
+     "dispositivo": "Transformações químicas e energia — Entalpia"
+    },
+    {
+     "frente": "Uma reação parte de H relativa de 220 kJ e chega a 305 kJ. Qual ΔH?",
+     "verso": "+85 kJ 305 − 220 = +85.",
+     "dispositivo": "Transformações químicas e energia — Entalpia"
+    },
+    {
+     "frente": "Uma equação em certa condição apresenta ΔH = −40 kJ. Qual ΔH da reação inversa entre os mesmos estados?",
+     "verso": "+40 kJ Inverter troca os papéis dos estados.",
+     "dispositivo": "Transformações químicas e energia — Entalpia"
+    },
+    {
+     "frente": "Um enunciado muda H₂O(l) para H₂O(g) entre os produtos de uma equação. Por que deve reconsiderar ΔH?",
+     "verso": "Estados físicos diferentes têm entalpias diferentes. O estado final mudou.",
+     "dispositivo": "Transformações químicas e energia — Entalpia"
+    },
+    {
+     "frente": "Há aquecimento a pressão constante com apenas trabalho de expansão. Como relacionar o calor recebido pelo sistema e ΔH?",
+     "verso": "São iguais sob as condições descritas. A definição de H incorpora o termo PV nessa situação.",
+     "dispositivo": "Transformações químicas e energia — Entalpia"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Um diagrama mostra produtos abaixo dos reagentes em entalpia.",
+     "enunciado": "ΔH é negativo.",
+     "gabarito": "C",
+     "comentario": "Certo. H final é menor que H inicial.",
+     "id": "enem-entalpia-reacao-c14-q01",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Entalpia",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um diagrama mostra produtos abaixo dos reagentes em entalpia.",
+     "enunciado": "ΔH é positivo.",
+     "gabarito": "E",
+     "comentario": "Errado. A subtração tem sentido inverso.",
+     "id": "enem-entalpia-reacao-c14-q02",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Entalpia",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um catalisador permite caminho alternativo entre mesmos estados inicial e final.",
+     "enunciado": "ΔH permanece igual.",
+     "gabarito": "C",
+     "comentario": "Certo. A entalpia é função de estado.",
+     "id": "enem-entalpia-reacao-c14-q03",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Entalpia",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um catalisador permite caminho alternativo entre mesmos estados inicial e final.",
+     "enunciado": "O catalisador sempre muda ΔH.",
+     "gabarito": "E",
+     "comentario": "Errado. Ele altera o percurso, não os estados especificados.",
+     "id": "enem-entalpia-reacao-c14-q04",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Entalpia",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma reação parte de H relativa de 220 kJ e chega a 305 kJ.",
+     "enunciado": "Qual ΔH?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "−85 kJ",
+      "B": "+525 kJ",
+      "C": "+305 kJ",
+      "D": "+85 kJ",
+      "E": "+220 kJ"
+     },
+     "comentarios_por_alternativa": {
+      "A": "A ordem da subtração está invertida.",
+      "B": "A definição usa diferença.",
+      "C": "Esse é o estado final relativo.",
+      "D": "305 − 220 = +85.",
+      "E": "Esse é o inicial relativo."
+     },
+     "comentario": "A) A ordem da subtração está invertida.\nB) A definição usa diferença.\nC) Esse é o estado final relativo.\nD) 305 − 220 = +85.\nE) Esse é o inicial relativo.",
+     "id": "enem-entalpia-reacao-c14-q05",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Entalpia",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma equação em certa condição apresenta ΔH = −40 kJ.",
+     "enunciado": "Qual ΔH da reação inversa entre os mesmos estados?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "+40 kJ",
+      "B": "−40 kJ",
+      "C": "0 kJ",
+      "D": "+80 kJ",
+      "E": "−80 kJ"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Inverter troca os papéis dos estados.",
+      "B": "O sinal muda.",
+      "C": "Os estados têm entalpias diferentes.",
+      "D": "A inversão não duplica a magnitude.",
+      "E": "Nem o fator nem o sinal correspondem."
+     },
+     "comentario": "A) Inverter troca os papéis dos estados.\nB) O sinal muda.\nC) Os estados têm entalpias diferentes.\nD) A inversão não duplica a magnitude.\nE) Nem o fator nem o sinal correspondem.",
+     "id": "enem-entalpia-reacao-c14-q06",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Entalpia",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um enunciado muda H₂O(l) para H₂O(g) entre os produtos de uma equação.",
+     "enunciado": "Por que deve reconsiderar ΔH?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Moléculas de água viraram outro elemento.",
+      "B": "Equações nunca especificam fase.",
+      "C": "Só importa a cor do produto.",
+      "D": "O ΔH de uma reação é sempre zero.",
+      "E": "Estados físicos diferentes têm entalpias diferentes."
+     },
+     "comentarios_por_alternativa": {
+      "A": "A identidade molecular se conserva.",
+      "B": "Símbolos de fase são relevantes.",
+      "C": "Cor não define entalpia.",
+      "D": "Ele pode ser positivo ou negativo.",
+      "E": "O estado final mudou."
+     },
+     "comentario": "A) A identidade molecular se conserva.\nB) Símbolos de fase são relevantes.\nC) Cor não define entalpia.\nD) Ele pode ser positivo ou negativo.\nE) O estado final mudou.",
+     "id": "enem-entalpia-reacao-c14-q07",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Entalpia",
+     "dificuldade": "dificil"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Há aquecimento a pressão constante com apenas trabalho de expansão.",
+     "enunciado": "Como relacionar o calor recebido pelo sistema e ΔH?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "Sempre têm sinais opostos.",
+      "B": "São iguais sob as condições descritas.",
+      "C": "ΔH é sempre a metade de q.",
+      "D": "Calor sempre equivale a ΔH mesmo com outros trabalhos.",
+      "E": "ΔH mede apenas o pico do caminho."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Para o sistema, a igualdade mantém o sinal.",
+      "B": "A definição de H incorpora o termo PV nessa situação.",
+      "C": "Não há esse fator.",
+      "D": "As condições da igualdade importam.",
+      "E": "Depende dos estados, não da barreira."
+     },
+     "comentario": "A) Para o sistema, a igualdade mantém o sinal.\nB) A definição de H incorpora o termo PV nessa situação.\nC) Não há esse fator.\nD) As condições da igualdade importam.\nE) Depende dos estados, não da barreira.",
+     "id": "enem-entalpia-reacao-c14-q08",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Entalpia",
+     "dificuldade": "dificil"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Uma equação em certa condição apresenta ΔH = −40 kJ. Qual ΔH da reação inversa entre os mesmos estados? ___",
+     "opcoes": [
+      "−40 kJ",
+      "+40 kJ",
+      "0 kJ",
+      "+80 kJ"
+     ],
+     "respostas": [
+      "+40 kJ"
+     ],
+     "explicacao": "Inverter troca os papéis dos estados."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Um enunciado muda H₂O(l) para H₂O(g) entre os produtos de uma equação. Por que deve reconsiderar ΔH? ___",
+     "opcoes": [
+      "Moléculas de água viraram outro elemento.",
+      "Estados físicos diferentes têm entalpias diferentes.",
+      "Equações nunca especificam fase.",
+      "Só importa a cor do produto."
+     ],
+     "respostas": [
+      "Estados físicos diferentes têm entalpias diferentes."
+     ],
+     "explicacao": "O estado final mudou."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise do caso: Uma reação parte de H relativa de 220 kJ e chega a 305 kJ.",
+     "itens": [
+      "Localizar o que se quer descobrir: Qual ΔH?",
+      "Separar as informações dadas no enunciado.",
+      "Aplicar a relação adequada aos dados.",
+      "Conferir se a conclusão responde à pergunta."
+     ],
+     "explicacao": "305 − 220 = +85."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Uma reação parte de H relativa de 220 kJ e chega a 305 kJ. Qual ΔH?",
+       "+85 kJ"
+      ],
+      [
+       "Uma equação em certa condição apresenta ΔH = −40 kJ. Qual ΔH da reação inversa entre os mesmos estados?",
+       "+40 kJ"
+      ],
+      [
+       "Um enunciado muda H₂O(l) para H₂O(g) entre os produtos de uma equação. Por que deve reconsiderar ΔH?",
+       "Estados físicos diferentes têm entalpias diferentes."
+      ],
+      [
+       "Há aquecimento a pressão constante com apenas trabalho de expansão. Como relacionar o calor recebido pelo sistema e ΔH?",
+       "São iguais sob as condições descritas."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

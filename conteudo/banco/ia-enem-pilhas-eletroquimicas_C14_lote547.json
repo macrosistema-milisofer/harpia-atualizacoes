@@ -1,0 +1,253 @@
+{
+ "assunto": "Pilha, eletrodos e ponte salina",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-pilhas-eletroquimicas-c14",
+   "titulo": "Pilha, eletrodos e ponte salina",
+   "microconteudo": "RAIO-X DA PROVA: Assunto do edital de Ciências da Natureza. A interpretação de dados ajuda a resolver situações-problema sobre esse conteúdo.\n\nPOR QUE IMPORTA:\nPilha, eletrodos e ponte salina ajuda a traduzir observações e símbolos em explicações que você pode conferir. Nesta lição, você vai praticar a leitura de dados e justificar o resultado.\n\nO QUE A BANCA COBRA:\nIdentifique o que o problema descreve e escolha a conclusão explicada pelos dados. Revise a unidade, a entidade representada e as condições de aplicação quando elas fizerem parte do problema.\n\nENTENDA:\nNuma pilha galvânica, o ânodo é o eletrodo da oxidação e o cátodo é o da redução. Os elétrons saem do ânodo pelo circuito externo. A ponte salina fornece caminho iônico para compensar tendências de acúmulo de carga sem ligar diretamente as soluções como se fossem um único recipiente.\n\nNa pilha de Daniell, Zn metálico produz Zn²⁺ no ânodo, enquanto Cu²⁺ recebe elétrons e deposita Cu no cátodo. Em operação ideal, ânions da ponte migram em direção ao compartimento que ganha carga positiva pela formação de Zn²⁺, e cátions ajudam a compensar o consumo de Cu²⁺ no outro.\n\nSepare as mudanças nos eletrodos das mudanças nas soluções. Quando o ânodo metálico produz íons que se dispersam no líquido, a massa da lâmina pode cair enquanto a concentração do íon cresce. Quando o cátodo recebe depósito metálico, sua massa pode subir enquanto o íon correspondente é consumido. A ponte salina ajuda a compensar a transferência líquida de carga em cada compartimento. Para determinar a polaridade elétrica, confirme primeiro se o tipo de célula é galvânico ou eletrolítico. A definição de ânodo por oxidação e de cátodo por redução independe do tipo; o sinal de cada eletrodo depende do funcionamento do dispositivo.\n\nPrimeiro caso: ligue os dados à regra\nUm eletrodo de Zn perde massa em uma pilha de Daniell. Qual processo explica?\n\nComece lendo o enunciado como um pequeno relatório. Anote em uma linha o material ou sistema descrito e, em outra, o que se quer descobrir. Essa divisão evita misturar um dado já fornecido com o resultado pedido. Escolha a regra depois de localizar o que, no texto, autoriza sua aplicação. Ao terminar, teste se a resposta ainda faz sentido ao substituir os valores ou reler a observação.\n\nResultado: Zn(s) forma Zn²⁺ em solução. Metal é oxidado.\n\nCompare as hipóteses e os cálculos alternativos:\n• Zn²⁺ se deposita nesse eletrodo. Isso aumentaria a massa.\n• Cu²⁺ é formado a partir de Zn. A identidade elemental se conserva.\n• O núcleo de Zn se divide. O processo envolve elétrons.\n• Elétrons precipitam sobre Zn. A perda vem da saída de Zn como íon.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nSegundo caso: cuide da condição que permite a conclusão\nCu²⁺ é consumido no compartimento catódico. Que processo ocorre?\n\nCompare as interpretações antes de escolher. Duas respostas podem usar os mesmos termos ou números e ainda se referir a grandezas diferentes. Se houver unidades, escreva a unidade junto a cada valor. Se houver contagens, diga o que está sendo contado. Se a questão for explicativa, procure a relação de causa e efeito que é compatível com as condições fornecidas. Só então feche a resposta.\n\nResultado: Redução com depósito de Cu. Cu²⁺ recebe elétrons.\n\nCompare as hipóteses e os cálculos alternativos:\n• Oxidação do Cu²⁺ a Cu. O NOX diminui.\n• Fusão do eletrodo por definição. O depósito não exige fusão.\n• Transporte de elétrons pela ponte em lugar do fio. A ponte é iônica.\n• Consumo de todo solvente. A semirreação não exige isso.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nTerceiro caso: confira o que a pergunta está medindo\nUma ponte salina é retirada, mantendo o fio. Por que a corrente tende a cair rapidamente?\n\nFaça uma primeira previsão usando palavras. Pergunte se o resultado esperado é uma contagem, uma propriedade, uma comparação ou um mecanismo. Escrever a previsão antes de olhar as alternativas ajuda a perceber quando dois valores semelhantes têm sentidos diferentes. Em seguida, explique em uma frase como o primeiro dado se conecta ao resultado. A resposta fica mais forte quando essa ligação pode ser checada no próprio enunciado.\n\nResultado: O balanço de cargas nas soluções fica prejudicado. Acúmulos locais passam a se opor ao progresso da reação.\n\nCompare as hipóteses e os cálculos alternativos:\n• O fio perde todo elétron instantaneamente. O problema é o caminho iônico.\n• Todas as reações mudam para nucleares. Nada muda os núcleos.\n• A tensão dobra sempre. A remoção não aumenta a força motriz dessa forma.\n• O cátodo necessariamente vira ânodo. A espécie oxidada continua definida pelo sentido da reação.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nQuarto caso: escolha a conclusão sustentada\nUma pilha galvânica está ligada a uma carga. Qual direção dos elétrons no circuito externo?\n\nTente justificar a escolha para alguém que observou apenas o resultado final. Comece pelos fatos que o problema realmente fornece e mostre como a regra interpreta esses fatos. Se a conclusão depender de uma condição, mantenha essa condição na justificativa. Depois procure uma alteração pequena nos dados que exigiria outra resposta. Esse último passo ajuda a reconhecer onde termina a aplicação do raciocínio.\n\nResultado: Do ânodo ao cátodo. A oxidação fornece elétrons e a redução os recebe.\n\nCompare as hipóteses e os cálculos alternativos:\n• Do cátodo ao ânodo. É a direção inversa do fluxo eletrônico.\n• Da ponte ao ar. A ponte não fornece essa corrente.\n• De ambos os eletrodos para nenhum destino. O circuito conecta as semirreações.\n• Da solução diretamente ao usuário. A descrição envolve o fio externo.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nLeitura crítica 1\nUm eletrodo libera elétrons numa pilha. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “Funciona como ânodo.” É local da oxidação. A segunda é “É cátodo por fornecer elétrons.” O cátodo realiza redução.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nLeitura crítica 2\nO fio externo é interrompido. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “A corrente útil sustentada cessa.” O caminho eletrônico foi aberto. A segunda é “A ponte salina substitui o fio como caminho eletrônico.” A ponte transporta íons.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nTROCANDO EM MIÚDOS:\nComece por uma pergunta que você conseguiria fazer a um colega: o que mudou, o que ficou igual e qual informação me permite dizer isso? Em questões de Química, dá para errar mesmo lembrando a regra certa quando se usa a regra para o dado errado. Separe a situação da pergunta. Leia os símbolos em voz baixa. Se houver dois materiais ou dois momentos, dê um nome curto para cada um. Assim você consegue comparar as coisas na ordem que o texto pediu.\n\nNa pilha de Daniell, Zn metálico produz Zn²⁺ no ânodo, enquanto Cu²⁺ recebe elétrons e deposita Cu no cátodo. Em operação ideal, ânions da ponte migram em direção ao compartimento que ganha carga positiva pela formação de Zn²⁺, e cátions ajudam a compensar o consumo de Cu²⁺ no outro.\n\nExperimente com este caso. Um eletrodo de Zn perde massa em uma pilha de Daniell. Qual processo explica? A resposta é Zn(s) forma Zn²⁺ em solução. Metal é oxidado. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nExperimente com este caso. Uma pilha galvânica está ligada a uma carga. Qual direção dos elétrons no circuito externo? A resposta é Do ânodo ao cátodo. A oxidação fornece elétrons e a redução os recebe. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nFaça uma checagem que cabe no rascunho: escreva o dado, desenhe uma seta e escreva o que ele permite concluir. Se precisar de uma segunda seta, diga qual regra leva desse resultado intermediário até a resposta. Uma explicação em duas frases pode ser suficiente. A primeira conta o que o problema mostrou. A segunda diz por que esse dado leva à sua escolha. Esse caminho ajuda em problemas com tabelas, desenhos e comparações.\n\nESQUEMA:\nLeia o cenário → destaque o dado decisivo → aplique a relação → confira o que foi pedido.\n\nPEGADINHAS:\n• Zn²⁺ se deposita nesse eletrodo. Isso aumentaria a massa.\n• Oxidação do Cu²⁺ a Cu. O NOX diminui.\n• O fio perde todo elétron instantaneamente. O problema é o caminho iônico.\n• Do cátodo ao ânodo. É a direção inversa do fluxo eletrônico.\n\nNA PRÁTICA:\nNa pilha de Daniell, Zn metálico produz Zn²⁺ no ânodo, enquanto Cu²⁺ recebe elétrons e deposita Cu no cátodo. Em operação ideal, ânions da ponte migram em direção ao compartimento que ganha carga positiva pela formação de Zn²⁺, e cátions ajudam a compensar o consumo de Cu²⁺ no outro.",
+   "flashcards": [
+    {
+     "frente": "Um eletrodo libera elétrons numa pilha. Funciona como ânodo. Certo ou errado?",
+     "verso": "Certo. É local da oxidação.",
+     "dispositivo": "Transformações químicas e energia — Pilha"
+    },
+    {
+     "frente": "O fio externo é interrompido. A corrente útil sustentada cessa. Certo ou errado?",
+     "verso": "Certo. O caminho eletrônico foi aberto.",
+     "dispositivo": "Transformações químicas e energia — Pilha"
+    },
+    {
+     "frente": "Um eletrodo de Zn perde massa em uma pilha de Daniell. Qual processo explica?",
+     "verso": "Zn(s) forma Zn²⁺ em solução. Metal é oxidado.",
+     "dispositivo": "Transformações químicas e energia — Pilha"
+    },
+    {
+     "frente": "Cu²⁺ é consumido no compartimento catódico. Que processo ocorre?",
+     "verso": "Redução com depósito de Cu. Cu²⁺ recebe elétrons.",
+     "dispositivo": "Transformações químicas e energia — Pilha"
+    },
+    {
+     "frente": "Uma ponte salina é retirada, mantendo o fio. Por que a corrente tende a cair rapidamente?",
+     "verso": "O balanço de cargas nas soluções fica prejudicado. Acúmulos locais passam a se opor ao progresso da reação.",
+     "dispositivo": "Transformações químicas e energia — Pilha"
+    },
+    {
+     "frente": "Uma pilha galvânica está ligada a uma carga. Qual direção dos elétrons no circuito externo?",
+     "verso": "Do ânodo ao cátodo. A oxidação fornece elétrons e a redução os recebe.",
+     "dispositivo": "Transformações químicas e energia — Pilha"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Um eletrodo libera elétrons numa pilha.",
+     "enunciado": "Funciona como ânodo.",
+     "gabarito": "C",
+     "comentario": "Certo. É local da oxidação.",
+     "id": "enem-pilhas-eletroquimicas-c14-q01",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas e energia — Pilha",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um eletrodo libera elétrons numa pilha.",
+     "enunciado": "É cátodo por fornecer elétrons.",
+     "gabarito": "E",
+     "comentario": "Errado. O cátodo realiza redução.",
+     "id": "enem-pilhas-eletroquimicas-c14-q02",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas e energia — Pilha",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "O fio externo é interrompido.",
+     "enunciado": "A corrente útil sustentada cessa.",
+     "gabarito": "C",
+     "comentario": "Certo. O caminho eletrônico foi aberto.",
+     "id": "enem-pilhas-eletroquimicas-c14-q03",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas e energia — Pilha",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "O fio externo é interrompido.",
+     "enunciado": "A ponte salina substitui o fio como caminho eletrônico.",
+     "gabarito": "E",
+     "comentario": "Errado. A ponte transporta íons.",
+     "id": "enem-pilhas-eletroquimicas-c14-q04",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas e energia — Pilha",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um eletrodo de Zn perde massa em uma pilha de Daniell.",
+     "enunciado": "Qual processo explica?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Zn²⁺ se deposita nesse eletrodo.",
+      "B": "Cu²⁺ é formado a partir de Zn.",
+      "C": "O núcleo de Zn se divide.",
+      "D": "Elétrons precipitam sobre Zn.",
+      "E": "Zn(s) forma Zn²⁺ em solução."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Isso aumentaria a massa.",
+      "B": "A identidade elemental se conserva.",
+      "C": "O processo envolve elétrons.",
+      "D": "A perda vem da saída de Zn como íon.",
+      "E": "Metal é oxidado."
+     },
+     "comentario": "A) Isso aumentaria a massa.\nB) A identidade elemental se conserva.\nC) O processo envolve elétrons.\nD) A perda vem da saída de Zn como íon.\nE) Metal é oxidado.",
+     "id": "enem-pilhas-eletroquimicas-c14-q05",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas e energia — Pilha",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Cu²⁺ é consumido no compartimento catódico.",
+     "enunciado": "Que processo ocorre?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "Oxidação do Cu²⁺ a Cu.",
+      "B": "Redução com depósito de Cu.",
+      "C": "Fusão do eletrodo por definição.",
+      "D": "Transporte de elétrons pela ponte em lugar do fio.",
+      "E": "Consumo de todo solvente."
+     },
+     "comentarios_por_alternativa": {
+      "A": "O NOX diminui.",
+      "B": "Cu²⁺ recebe elétrons.",
+      "C": "O depósito não exige fusão.",
+      "D": "A ponte é iônica.",
+      "E": "A semirreação não exige isso."
+     },
+     "comentario": "A) O NOX diminui.\nB) Cu²⁺ recebe elétrons.\nC) O depósito não exige fusão.\nD) A ponte é iônica.\nE) A semirreação não exige isso.",
+     "id": "enem-pilhas-eletroquimicas-c14-q06",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas e energia — Pilha",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma ponte salina é retirada, mantendo o fio.",
+     "enunciado": "Por que a corrente tende a cair rapidamente?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "O fio perde todo elétron instantaneamente.",
+      "B": "Todas as reações mudam para nucleares.",
+      "C": "A tensão dobra sempre.",
+      "D": "O balanço de cargas nas soluções fica prejudicado.",
+      "E": "O cátodo necessariamente vira ânodo."
+     },
+     "comentarios_por_alternativa": {
+      "A": "O problema é o caminho iônico.",
+      "B": "Nada muda os núcleos.",
+      "C": "A remoção não aumenta a força motriz dessa forma.",
+      "D": "Acúmulos locais passam a se opor ao progresso da reação.",
+      "E": "A espécie oxidada continua definida pelo sentido da reação."
+     },
+     "comentario": "A) O problema é o caminho iônico.\nB) Nada muda os núcleos.\nC) A remoção não aumenta a força motriz dessa forma.\nD) Acúmulos locais passam a se opor ao progresso da reação.\nE) A espécie oxidada continua definida pelo sentido da reação.",
+     "id": "enem-pilhas-eletroquimicas-c14-q07",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas e energia — Pilha",
+     "dificuldade": "dificil"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma pilha galvânica está ligada a uma carga.",
+     "enunciado": "Qual direção dos elétrons no circuito externo?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "Do ânodo ao cátodo.",
+      "B": "Do cátodo ao ânodo.",
+      "C": "Da ponte ao ar.",
+      "D": "De ambos os eletrodos para nenhum destino.",
+      "E": "Da solução diretamente ao usuário."
+     },
+     "comentarios_por_alternativa": {
+      "A": "A oxidação fornece elétrons e a redução os recebe.",
+      "B": "É a direção inversa do fluxo eletrônico.",
+      "C": "A ponte não fornece essa corrente.",
+      "D": "O circuito conecta as semirreações.",
+      "E": "A descrição envolve o fio externo."
+     },
+     "comentario": "A) A oxidação fornece elétrons e a redução os recebe.\nB) É a direção inversa do fluxo eletrônico.\nC) A ponte não fornece essa corrente.\nD) O circuito conecta as semirreações.\nE) A descrição envolve o fio externo.",
+     "id": "enem-pilhas-eletroquimicas-c14-q08",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas e energia — Pilha",
+     "dificuldade": "dificil"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Cu²⁺ é consumido no compartimento catódico. Que processo ocorre? ___",
+     "opcoes": [
+      "Oxidação do Cu²⁺ a Cu.",
+      "Redução com depósito de Cu.",
+      "Fusão do eletrodo por definição.",
+      "Transporte de elétrons pela ponte em lugar do fio."
+     ],
+     "respostas": [
+      "Redução com depósito de Cu."
+     ],
+     "explicacao": "Cu²⁺ recebe elétrons."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Uma ponte salina é retirada, mantendo o fio. Por que a corrente tende a cair rapidamente? ___",
+     "opcoes": [
+      "O fio perde todo elétron instantaneamente.",
+      "O balanço de cargas nas soluções fica prejudicado.",
+      "Todas as reações mudam para nucleares.",
+      "A tensão dobra sempre."
+     ],
+     "respostas": [
+      "O balanço de cargas nas soluções fica prejudicado."
+     ],
+     "explicacao": "Acúmulos locais passam a se opor ao progresso da reação."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise do caso: Um eletrodo de Zn perde massa em uma pilha de Daniell.",
+     "itens": [
+      "Localizar o que se quer descobrir: Qual processo explica?",
+      "Separar as informações dadas no enunciado.",
+      "Aplicar a relação adequada aos dados.",
+      "Conferir se a conclusão responde à pergunta."
+     ],
+     "explicacao": "Metal é oxidado."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Um eletrodo de Zn perde massa em uma pilha de Daniell. Qual processo explica?",
+       "Zn(s) forma Zn²⁺ em solução."
+      ],
+      [
+       "Cu²⁺ é consumido no compartimento catódico. Que processo ocorre?",
+       "Redução com depósito de Cu."
+      ],
+      [
+       "Uma ponte salina é retirada, mantendo o fio. Por que a corrente tende a cair rapidamente?",
+       "O balanço de cargas nas soluções fica prejudicado."
+      ],
+      [
+       "Uma pilha galvânica está ligada a uma carga. Qual direção dos elétrons no circuito externo?",
+       "Do ânodo ao cátodo."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

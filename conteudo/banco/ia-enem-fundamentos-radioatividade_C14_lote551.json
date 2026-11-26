@@ -1,0 +1,253 @@
+{
+ "assunto": "Conceitos fundamentais da radioatividade",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fundamentos-radioatividade-c14",
+   "titulo": "Conceitos fundamentais da radioatividade",
+   "microconteudo": "RAIO-X DA PROVA: Assunto do edital de Ciências da Natureza. A interpretação de dados ajuda a resolver situações-problema sobre esse conteúdo.\n\nPOR QUE IMPORTA:\nConceitos fundamentais da radioatividade ajuda a traduzir observações e símbolos em explicações que você pode conferir. Nesta lição, você vai praticar a leitura de dados e justificar o resultado.\n\nO QUE A BANCA COBRA:\nIdentifique o que o problema descreve e escolha a conclusão explicada pelos dados. Revise a unidade, a entidade representada e as condições de aplicação quando elas fizerem parte do problema.\n\nENTENDA:\nRadioatividade é a transformação espontânea de núcleos instáveis. Emissões alfa, beta e gama têm naturezas distintas. A atividade mede decaimentos por tempo, em becquerel. Meia-vida é o intervalo em que, em uma população grande de núcleos de um único radioisótopo, a quantidade esperada de núcleos pais cai à metade.\n\nUma amostra idealizada contém 800 núcleos pais inicialmente e meia-vida de 5 dias. Após 10 dias, passaram duas meias-vidas e restam em média 200 núcleos pais. Isso descreve uma população, sem determinar o momento de decaimento de um núcleo particular.\n\nA atividade de uma população de núcleos pais diminui junto com a quantidade desses núcleos, quando a meia-vida é constante e não existe reposição. Uma fonte pode conter produtos de decaimento que também são radioativos, mas um exercício que fala somente da atividade dos núcleos pais deve ser resolvido sem somar contribuições que o problema não forneceu. Para comparar intervalos, divida o tempo total pela meia-vida. Se o resultado é um inteiro, divida a atividade inicial por dois o mesmo número de vezes. O procedimento evita tratar o decaimento como perda da mesma quantidade absoluta a cada intervalo. A fração restante é constante a cada período.\n\nPrimeiro caso: ligue os dados à regra\nUma amostra tem atividade inicial de 480 Bq e meia-vida de 6 h, sem reposição. Qual sua atividade após 12 h?\n\nComece lendo o enunciado como um pequeno relatório. Anote em uma linha o material ou sistema descrito e, em outra, o que se quer descobrir. Essa divisão evita misturar um dado já fornecido com o resultado pedido. Escolha a regra depois de localizar o que, no texto, autoriza sua aplicação. Ao terminar, teste se a resposta ainda faz sentido ao substituir os valores ou reler a observação.\n\nResultado: 120 Bq Duas meias-vidas reduzem a um quarto.\n\nCompare as hipóteses e os cálculos alternativos:\n• 240 Bq Seria uma meia-vida.\n• 0 Bq O modelo não zera após dois períodos.\n• 360 Bq O decaimento não é linear.\n• 960 Bq A atividade tende a cair.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nSegundo caso: cuide da condição que permite a conclusão\nUm cartaz diz que todos os núcleos sobreviventes decairão exatamente na próxima meia-vida. Qual ajuste científico é adequado?\n\nCompare as interpretações antes de escolher. Duas respostas podem usar os mesmos termos ou números e ainda se referir a grandezas diferentes. Se houver unidades, escreva a unidade junto a cada valor. Se houver contagens, diga o que está sendo contado. Se a questão for explicativa, procure a relação de causa e efeito que é compatível com as condições fornecidas. Só então feche a resposta.\n\nResultado: A meia-vida descreve uma redução estatística de uma população. O instante individual não é fixado pelo período.\n\nCompare as hipóteses e os cálculos alternativos:\n• Todos decaem no mesmo instante. O processo é probabilístico.\n• Nenhum decai antes de uma meia-vida. Podem ocorrer decaimentos antes.\n• O período informa massa molar. É intervalo de tempo.\n• A atividade aumenta indefinidamente sem reposição. A população de núcleos pais diminui.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nTerceiro caso: confira o que a pergunta está medindo\nUm texto compara atividade e energia depositada por unidade de massa. Qual distinção é correta?\n\nFaça uma primeira previsão usando palavras. Pergunte se o resultado esperado é uma contagem, uma propriedade, uma comparação ou um mecanismo. Escrever a previsão antes de olhar as alternativas ajuda a perceber quando dois valores semelhantes têm sentidos diferentes. Em seguida, explique em uma frase como o primeiro dado se conecta ao resultado. A resposta fica mais forte quando essa ligação pode ser checada no próprio enunciado.\n\nResultado: Atividade é frequência de decaimentos; dose absorvida é energia por massa. As grandezas medem aspectos diferentes.\n\nCompare as hipóteses e os cálculos alternativos:\n• Becquerel é joule por quilograma. Essa unidade corresponde ao gray.\n• Toda atividade igual produz a mesma dose em qualquer cenário. Energia, exposição e geometria importam.\n• Dose absorvida é número de nêutrons. É energia depositada por massa.\n• As duas grandezas são sempre numericamente idênticas. Têm dimensões diferentes.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nQuarto caso: escolha a conclusão sustentada\nUm núcleo emite beta menos. Qual descrição escolar corresponde?\n\nTente justificar a escolha para alguém que observou apenas o resultado final. Comece pelos fatos que o problema realmente fornece e mostre como a regra interpreta esses fatos. Se a conclusão depender de uma condição, mantenha essa condição na justificativa. Depois procure uma alteração pequena nos dados que exigiria outra resposta. Esse último passo ajuda a reconhecer onde termina a aplicação do raciocínio.\n\nResultado: Um elétron é emitido e Z aumenta uma unidade para o núcleo filho. Na transformação, um nêutron se converte em próton, com emissão de elétron e antineutrino.\n\nCompare as hipóteses e os cálculos alternativos:\n• É emitida uma partícula alfa. Alfa tem dois prótons e dois nêutrons.\n• O núcleo perde quatro núcleons. A permanece igual.\n• É apenas luz visível. Beta menos inclui elétron.\n• Z diminui por emissão de próton. O processo converte nêutron em próton.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nLeitura crítica 1\nUm detector registra decaimentos por unidade de tempo. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “A grandeza correspondente é atividade.” Becquerel equivale a um decaimento por segundo. A segunda é “A grandeza é massa molar.” Massa molar relaciona massa e mol.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nLeitura crítica 2\nUm núcleo emite radiação gama. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “A emissão é eletromagnética.” Gama é constituída por fótons. A segunda é “Gama consiste em dois prótons e dois nêutrons.” Essa é a partícula alfa.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nTROCANDO EM MIÚDOS:\nComece por uma pergunta que você conseguiria fazer a um colega: o que mudou, o que ficou igual e qual informação me permite dizer isso? Em questões de Química, dá para errar mesmo lembrando a regra certa quando se usa a regra para o dado errado. Separe a situação da pergunta. Leia os símbolos em voz baixa. Se houver dois materiais ou dois momentos, dê um nome curto para cada um. Assim você consegue comparar as coisas na ordem que o texto pediu.\n\nUma amostra idealizada contém 800 núcleos pais inicialmente e meia-vida de 5 dias. Após 10 dias, passaram duas meias-vidas e restam em média 200 núcleos pais. Isso descreve uma população, sem determinar o momento de decaimento de um núcleo particular.\n\nExperimente com este caso. Uma amostra tem atividade inicial de 480 Bq e meia-vida de 6 h, sem reposição. Qual sua atividade após 12 h? A resposta é 120 Bq Duas meias-vidas reduzem a um quarto. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nExperimente com este caso. Um núcleo emite beta menos. Qual descrição escolar corresponde? A resposta é Um elétron é emitido e Z aumenta uma unidade para o núcleo filho. Na transformação, um nêutron se converte em próton, com emissão de elétron e antineutrino. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nFaça uma checagem que cabe no rascunho: escreva o dado, desenhe uma seta e escreva o que ele permite concluir. Se precisar de uma segunda seta, diga qual regra leva desse resultado intermediário até a resposta. Uma explicação em duas frases pode ser suficiente. A primeira conta o que o problema mostrou. A segunda diz por que esse dado leva à sua escolha. Esse caminho ajuda em problemas com tabelas, desenhos e comparações.\n\nESQUEMA:\nLeia o cenário → destaque o dado decisivo → aplique a relação → confira o que foi pedido.\n\nPEGADINHAS:\n• 240 Bq Seria uma meia-vida.\n• Todos decaem no mesmo instante. O processo é probabilístico.\n• Becquerel é joule por quilograma. Essa unidade corresponde ao gray.\n• É emitida uma partícula alfa. Alfa tem dois prótons e dois nêutrons.\n\nNA PRÁTICA:\nUma amostra idealizada contém 800 núcleos pais inicialmente e meia-vida de 5 dias. Após 10 dias, passaram duas meias-vidas e restam em média 200 núcleos pais. Isso descreve uma população, sem determinar o momento de decaimento de um núcleo particular.",
+   "flashcards": [
+    {
+     "frente": "Um detector registra decaimentos por unidade de tempo. A grandeza correspondente é atividade. Certo ou errado?",
+     "verso": "Certo. Becquerel equivale a um decaimento por segundo.",
+     "dispositivo": "Transformações químicas e energia — Conceitos fundamentais da radioatividade"
+    },
+    {
+     "frente": "Um núcleo emite radiação gama. A emissão é eletromagnética. Certo ou errado?",
+     "verso": "Certo. Gama é constituída por fótons.",
+     "dispositivo": "Transformações químicas e energia — Conceitos fundamentais da radioatividade"
+    },
+    {
+     "frente": "Uma amostra tem atividade inicial de 480 Bq e meia-vida de 6 h, sem reposição. Qual sua atividade após 12 h?",
+     "verso": "120 Bq Duas meias-vidas reduzem a um quarto.",
+     "dispositivo": "Transformações químicas e energia — Conceitos fundamentais da radioatividade"
+    },
+    {
+     "frente": "Um cartaz diz que todos os núcleos sobreviventes decairão exatamente na próxima meia-vida. Qual ajuste científico é adequado?",
+     "verso": "A meia-vida descreve uma redução estatística de uma população. O instante individual não é fixado pelo período.",
+     "dispositivo": "Transformações químicas e energia — Conceitos fundamentais da radioatividade"
+    },
+    {
+     "frente": "Um texto compara atividade e energia depositada por unidade de massa. Qual distinção é correta?",
+     "verso": "Atividade é frequência de decaimentos; dose absorvida é energia por massa. As grandezas medem aspectos diferentes.",
+     "dispositivo": "Transformações químicas e energia — Conceitos fundamentais da radioatividade"
+    },
+    {
+     "frente": "Um núcleo emite beta menos. Qual descrição escolar corresponde?",
+     "verso": "Um elétron é emitido e Z aumenta uma unidade para o núcleo filho. Na transformação, um nêutron se converte em próton, com emissão de elétron e antineutrino.",
+     "dispositivo": "Transformações químicas e energia — Conceitos fundamentais da radioatividade"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Um detector registra decaimentos por unidade de tempo.",
+     "enunciado": "A grandeza correspondente é atividade.",
+     "gabarito": "C",
+     "comentario": "Certo. Becquerel equivale a um decaimento por segundo.",
+     "id": "enem-fundamentos-radioatividade-c14-q01",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas e energia — Conceitos fundamentais da radioatividade",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um detector registra decaimentos por unidade de tempo.",
+     "enunciado": "A grandeza é massa molar.",
+     "gabarito": "E",
+     "comentario": "Errado. Massa molar relaciona massa e mol.",
+     "id": "enem-fundamentos-radioatividade-c14-q02",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas e energia — Conceitos fundamentais da radioatividade",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um núcleo emite radiação gama.",
+     "enunciado": "A emissão é eletromagnética.",
+     "gabarito": "C",
+     "comentario": "Certo. Gama é constituída por fótons.",
+     "id": "enem-fundamentos-radioatividade-c14-q03",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas e energia — Conceitos fundamentais da radioatividade",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um núcleo emite radiação gama.",
+     "enunciado": "Gama consiste em dois prótons e dois nêutrons.",
+     "gabarito": "E",
+     "comentario": "Errado. Essa é a partícula alfa.",
+     "id": "enem-fundamentos-radioatividade-c14-q04",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas e energia — Conceitos fundamentais da radioatividade",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma amostra tem atividade inicial de 480 Bq e meia-vida de 6 h, sem reposição.",
+     "enunciado": "Qual sua atividade após 12 h?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "240 Bq",
+      "B": "0 Bq",
+      "C": "360 Bq",
+      "D": "960 Bq",
+      "E": "120 Bq"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Seria uma meia-vida.",
+      "B": "O modelo não zera após dois períodos.",
+      "C": "O decaimento não é linear.",
+      "D": "A atividade tende a cair.",
+      "E": "Duas meias-vidas reduzem a um quarto."
+     },
+     "comentario": "A) Seria uma meia-vida.\nB) O modelo não zera após dois períodos.\nC) O decaimento não é linear.\nD) A atividade tende a cair.\nE) Duas meias-vidas reduzem a um quarto.",
+     "id": "enem-fundamentos-radioatividade-c14-q05",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas e energia — Conceitos fundamentais da radioatividade",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um cartaz diz que todos os núcleos sobreviventes decairão exatamente na próxima meia-vida.",
+     "enunciado": "Qual ajuste científico é adequado?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "Todos decaem no mesmo instante.",
+      "B": "A meia-vida descreve uma redução estatística de uma população.",
+      "C": "Nenhum decai antes de uma meia-vida.",
+      "D": "O período informa massa molar.",
+      "E": "A atividade aumenta indefinidamente sem reposição."
+     },
+     "comentarios_por_alternativa": {
+      "A": "O processo é probabilístico.",
+      "B": "O instante individual não é fixado pelo período.",
+      "C": "Podem ocorrer decaimentos antes.",
+      "D": "É intervalo de tempo.",
+      "E": "A população de núcleos pais diminui."
+     },
+     "comentario": "A) O processo é probabilístico.\nB) O instante individual não é fixado pelo período.\nC) Podem ocorrer decaimentos antes.\nD) É intervalo de tempo.\nE) A população de núcleos pais diminui.",
+     "id": "enem-fundamentos-radioatividade-c14-q06",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas e energia — Conceitos fundamentais da radioatividade",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um texto compara atividade e energia depositada por unidade de massa.",
+     "enunciado": "Qual distinção é correta?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "Becquerel é joule por quilograma.",
+      "B": "Toda atividade igual produz a mesma dose em qualquer cenário.",
+      "C": "Dose absorvida é número de nêutrons.",
+      "D": "Atividade é frequência de decaimentos; dose absorvida é energia por massa.",
+      "E": "As duas grandezas são sempre numericamente idênticas."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Essa unidade corresponde ao gray.",
+      "B": "Energia, exposição e geometria importam.",
+      "C": "É energia depositada por massa.",
+      "D": "As grandezas medem aspectos diferentes.",
+      "E": "Têm dimensões diferentes."
+     },
+     "comentario": "A) Essa unidade corresponde ao gray.\nB) Energia, exposição e geometria importam.\nC) É energia depositada por massa.\nD) As grandezas medem aspectos diferentes.\nE) Têm dimensões diferentes.",
+     "id": "enem-fundamentos-radioatividade-c14-q07",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas e energia — Conceitos fundamentais da radioatividade",
+     "dificuldade": "dificil"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um núcleo emite beta menos.",
+     "enunciado": "Qual descrição escolar corresponde?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "Um elétron é emitido e Z aumenta uma unidade para o núcleo filho.",
+      "B": "É emitida uma partícula alfa.",
+      "C": "O núcleo perde quatro núcleons.",
+      "D": "É apenas luz visível.",
+      "E": "Z diminui por emissão de próton."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Na transformação, um nêutron se converte em próton, com emissão de elétron e antineutrino.",
+      "B": "Alfa tem dois prótons e dois nêutrons.",
+      "C": "A permanece igual.",
+      "D": "Beta menos inclui elétron.",
+      "E": "O processo converte nêutron em próton."
+     },
+     "comentario": "A) Na transformação, um nêutron se converte em próton, com emissão de elétron e antineutrino.\nB) Alfa tem dois prótons e dois nêutrons.\nC) A permanece igual.\nD) Beta menos inclui elétron.\nE) O processo converte nêutron em próton.",
+     "id": "enem-fundamentos-radioatividade-c14-q08",
+     "habilidade": "H17",
+     "dispositivo": "Transformações químicas e energia — Conceitos fundamentais da radioatividade",
+     "dificuldade": "dificil"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Um cartaz diz que todos os núcleos sobreviventes decairão exatamente na próxima meia-vida. Qual ajuste científico é adequado? ___",
+     "opcoes": [
+      "Todos decaem no mesmo instante.",
+      "A meia-vida descreve uma redução estatística de uma população.",
+      "Nenhum decai antes de uma meia-vida.",
+      "O período informa massa molar."
+     ],
+     "respostas": [
+      "A meia-vida descreve uma redução estatística de uma população."
+     ],
+     "explicacao": "O instante individual não é fixado pelo período."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Um texto compara atividade e energia depositada por unidade de massa. Qual distinção é correta? ___",
+     "opcoes": [
+      "Becquerel é joule por quilograma.",
+      "Atividade é frequência de decaimentos; dose absorvida é energia por massa.",
+      "Toda atividade igual produz a mesma dose em qualquer cenário.",
+      "Dose absorvida é número de nêutrons."
+     ],
+     "respostas": [
+      "Atividade é frequência de decaimentos; dose absorvida é energia por massa."
+     ],
+     "explicacao": "As grandezas medem aspectos diferentes."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise do caso: Uma amostra tem atividade inicial de 480 Bq e meia-vida de 6 h, sem reposição.",
+     "itens": [
+      "Localizar o que se quer descobrir: Qual sua atividade após 12 h?",
+      "Separar as informações dadas no enunciado.",
+      "Aplicar a relação adequada aos dados.",
+      "Conferir se a conclusão responde à pergunta."
+     ],
+     "explicacao": "Duas meias-vidas reduzem a um quarto."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Uma amostra tem atividade inicial de 480 Bq e meia-vida de 6 h, sem reposição. Qual sua atividade após 12 h?",
+       "120 Bq"
+      ],
+      [
+       "Um cartaz diz que todos os núcleos sobreviventes decairão exatamente na próxima meia-vida. Qual ajuste científico é adequado?",
+       "A meia-vida descreve uma redução estatística de uma população."
+      ],
+      [
+       "Um texto compara atividade e energia depositada por unidade de massa. Qual distinção é correta?",
+       "Atividade é frequência de decaimentos; dose absorvida é energia por massa."
+      ],
+      [
+       "Um núcleo emite beta menos. Qual descrição escolar corresponde?",
+       "Um elétron é emitido e Z aumenta uma unidade para o núcleo filho."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

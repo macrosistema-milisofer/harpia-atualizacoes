@@ -1,0 +1,253 @@
+{
+ "assunto": "Equações termoquímicas",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-equacoes-termoquimicas-c14",
+   "titulo": "Equações termoquímicas",
+   "microconteudo": "RAIO-X DA PROVA: Assunto do edital de Ciências da Natureza. A interpretação de dados ajuda a resolver situações-problema sobre esse conteúdo.\n\nPOR QUE IMPORTA:\nEquações termoquímicas ajuda a traduzir observações e símbolos em explicações que você pode conferir. Nesta lição, você vai praticar a leitura de dados e justificar o resultado.\n\nO QUE A BANCA COBRA:\nIdentifique o que o problema descreve e escolha a conclusão explicada pelos dados. Revise a unidade, a entidade representada e as condições de aplicação quando elas fizerem parte do problema.\n\nENTENDA:\nUma equação termoquímica liga uma transformação balanceada à sua variação de entalpia. Os coeficientes determinam a quantidade que corresponde ao valor informado. As fases, a direção e as condições também integram a descrição. Multiplicar a equação multiplica ΔH; invertê-la troca seu sinal.\n\nSe 2 A(s) → B(s) apresenta ΔH = −100 kJ para a equação escrita, transformar 1 mol de A nessa mesma proporção dá ΔH = −50 kJ. Decompor 1 mol de B por meio da transformação inversa dá +100 kJ. O sinal é da reação, enquanto o módulo indica a energia trocada como calor à pressão constante quando só há trabalho de expansão.\n\nQuando uma equação indica um valor em quilojoules, verifique se vale para a equação tal como escrita ou se o texto adotou explicitamente uma base molar. Se o valor é dado por mol de combustível, conte os mols desse combustível antes de aplicar a proporção. Se o valor acompanha uma equação que usa dois mols de combustível, divida por dois para obter a base de um mol. Essa diferença de leitura pode produzir dois números plausíveis, dos quais apenas um corresponde à pergunta. Também verifique se os estados aparecem junto às fórmulas. Uma tabela que supõe produto líquido e outra que supõe produto gasoso podem descrever a mesma mudança de composição com duas variações de entalpia diferentes.\n\nPrimeiro caso: ligue os dados à regra\nC(s) + O₂(g) → CO₂(g) tem ΔH = −394 kJ. Qual o ΔH para formar 2 mol de CO₂ pela mesma reação?\n\nComece lendo o enunciado como um pequeno relatório. Anote em uma linha o material ou sistema descrito e, em outra, o que se quer descobrir. Essa divisão evita misturar um dado já fornecido com o resultado pedido. Escolha a regra depois de localizar o que, no texto, autoriza sua aplicação. Ao terminar, teste se a resposta ainda faz sentido ao substituir os valores ou reler a observação.\n\nResultado: −788 kJ A equação e o ΔH dobram.\n\nCompare as hipóteses e os cálculos alternativos:\n• −394 kJ Corresponde a 1 mol de produto.\n• +788 kJ O sentido é mantido.\n• −197 kJ Isso corresponde a meia extensão.\n• 0 kJ O processo troca energia.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nSegundo caso: cuide da condição que permite a conclusão\nUma conversão A → B tem ΔH = +28 kJ. Qual valor para B → A?\n\nCompare as interpretações antes de escolher. Duas respostas podem usar os mesmos termos ou números e ainda se referir a grandezas diferentes. Se houver unidades, escreva a unidade junto a cada valor. Se houver contagens, diga o que está sendo contado. Se a questão for explicativa, procure a relação de causa e efeito que é compatível com as condições fornecidas. Só então feche a resposta.\n\nResultado: −28 kJ A inversão troca o sinal.\n\nCompare as hipóteses e os cálculos alternativos:\n• +28 kJ Esse é o sentido original.\n• −56 kJ Não há duplicação.\n• +56 kJ Não inverte o sinal nem conserva a magnitude.\n• 0 kJ A entalpia difere entre estados.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nTerceiro caso: confira o que a pergunta está medindo\nDuas equações registram H₂O(l) e H₂O(g) no produto, mantendo o restante igual. Qual relação é esperada?\n\nFaça uma primeira previsão usando palavras. Pergunte se o resultado esperado é uma contagem, uma propriedade, uma comparação ou um mecanismo. Escrever a previsão antes de olhar as alternativas ajuda a perceber quando dois valores semelhantes têm sentidos diferentes. Em seguida, explique em uma frase como o primeiro dado se conecta ao resultado. A resposta fica mais forte quando essa ligação pode ser checada no próprio enunciado.\n\nResultado: O valor com vapor é maior pela entalpia de vaporização da água formada. O vapor tem entalpia maior nas condições comparáveis.\n\nCompare as hipóteses e os cálculos alternativos:\n• Os valores são iguais pela mesma fórmula. A fase importa.\n• O valor com vapor é menor. Vaporizar exige energia.\n• Os sinais são sempre opostos. A diferença não exige troca de sinal.\n• O valor com líquido é necessariamente zero. A reação pode liberar ou absorver calor.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nQuarto caso: escolha a conclusão sustentada\nUma ficha traz ΔH de reação em kJ por equação escrita. Qual leitura é correta?\n\nTente justificar a escolha para alguém que observou apenas o resultado final. Comece pelos fatos que o problema realmente fornece e mostre como a regra interpreta esses fatos. Se a conclusão depender de uma condição, mantenha essa condição na justificativa. Depois procure uma alteração pequena nos dados que exigiria outra resposta. Esse último passo ajuda a reconhecer onde termina a aplicação do raciocínio.\n\nResultado: Leia o valor junto dos coeficientes e das fases. Esses dados especificam a transformação.\n\nCompare as hipóteses e os cálculos alternativos:\n• Interprete como valor por grama em todo caso. A base não é por grama.\n• Some os índices químicos ao valor. Índices não são parcelas de energia.\n• Ignore o sentido da seta. A inversão troca o sinal.\n• Use qualquer estado físico sem ajuste. Mudanças de fase alteram ΔH.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nLeitura crítica 1\nUma equação é multiplicada por três. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “O ΔH deve ser multiplicado por três.” A extensão descrita é três vezes maior. A segunda é “O ΔH deve ser dividido por três.” A energia é extensiva.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nLeitura crítica 2\nUma equação de condensação é invertida. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “O sinal do ΔH muda.” A ordem dos estados inicial e final se inverte. A segunda é “O ΔH vira necessariamente zero.” Os estados ainda têm entalpias distintas.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nTROCANDO EM MIÚDOS:\nComece por uma pergunta que você conseguiria fazer a um colega: o que mudou, o que ficou igual e qual informação me permite dizer isso? Em questões de Química, dá para errar mesmo lembrando a regra certa quando se usa a regra para o dado errado. Separe a situação da pergunta. Leia os símbolos em voz baixa. Se houver dois materiais ou dois momentos, dê um nome curto para cada um. Assim você consegue comparar as coisas na ordem que o texto pediu.\n\nSe 2 A(s) → B(s) apresenta ΔH = −100 kJ para a equação escrita, transformar 1 mol de A nessa mesma proporção dá ΔH = −50 kJ. Decompor 1 mol de B por meio da transformação inversa dá +100 kJ. O sinal é da reação, enquanto o módulo indica a energia trocada como calor à pressão constante quando só há trabalho de expansão.\n\nExperimente com este caso. C(s) + O₂(g) → CO₂(g) tem ΔH = −394 kJ. Qual o ΔH para formar 2 mol de CO₂ pela mesma reação? A resposta é −788 kJ A equação e o ΔH dobram. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nExperimente com este caso. Uma ficha traz ΔH de reação em kJ por equação escrita. Qual leitura é correta? A resposta é Leia o valor junto dos coeficientes e das fases. Esses dados especificam a transformação. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nFaça uma checagem que cabe no rascunho: escreva o dado, desenhe uma seta e escreva o que ele permite concluir. Se precisar de uma segunda seta, diga qual regra leva desse resultado intermediário até a resposta. Uma explicação em duas frases pode ser suficiente. A primeira conta o que o problema mostrou. A segunda diz por que esse dado leva à sua escolha. Esse caminho ajuda em problemas com tabelas, desenhos e comparações.\n\nESQUEMA:\nLeia o cenário → destaque o dado decisivo → aplique a relação → confira o que foi pedido.\n\nPEGADINHAS:\n• −394 kJ Corresponde a 1 mol de produto.\n• +28 kJ Esse é o sentido original.\n• Os valores são iguais pela mesma fórmula. A fase importa.\n• Interprete como valor por grama em todo caso. A base não é por grama.\n\nNA PRÁTICA:\nSe 2 A(s) → B(s) apresenta ΔH = −100 kJ para a equação escrita, transformar 1 mol de A nessa mesma proporção dá ΔH = −50 kJ. Decompor 1 mol de B por meio da transformação inversa dá +100 kJ. O sinal é da reação, enquanto o módulo indica a energia trocada como calor à pressão constante quando só há trabalho de expansão.",
+   "flashcards": [
+    {
+     "frente": "Uma equação é multiplicada por três. O ΔH deve ser multiplicado por três. Certo ou errado?",
+     "verso": "Certo. A extensão descrita é três vezes maior.",
+     "dispositivo": "Transformações químicas e energia — Equações termoquímicas"
+    },
+    {
+     "frente": "Uma equação de condensação é invertida. O sinal do ΔH muda. Certo ou errado?",
+     "verso": "Certo. A ordem dos estados inicial e final se inverte.",
+     "dispositivo": "Transformações químicas e energia — Equações termoquímicas"
+    },
+    {
+     "frente": "C(s) + O₂(g) → CO₂(g) tem ΔH = −394 kJ. Qual o ΔH para formar 2 mol de CO₂ pela mesma reação?",
+     "verso": "−788 kJ A equação e o ΔH dobram.",
+     "dispositivo": "Transformações químicas e energia — Equações termoquímicas"
+    },
+    {
+     "frente": "Uma conversão A → B tem ΔH = +28 kJ. Qual valor para B → A?",
+     "verso": "−28 kJ A inversão troca o sinal.",
+     "dispositivo": "Transformações químicas e energia — Equações termoquímicas"
+    },
+    {
+     "frente": "Duas equações registram H₂O(l) e H₂O(g) no produto, mantendo o restante igual. Qual relação é esperada?",
+     "verso": "O valor com vapor é maior pela entalpia de vaporização da água formada. O vapor tem entalpia maior nas condições comparáveis.",
+     "dispositivo": "Transformações químicas e energia — Equações termoquímicas"
+    },
+    {
+     "frente": "Uma ficha traz ΔH de reação em kJ por equação escrita. Qual leitura é correta?",
+     "verso": "Leia o valor junto dos coeficientes e das fases. Esses dados especificam a transformação.",
+     "dispositivo": "Transformações químicas e energia — Equações termoquímicas"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Uma equação é multiplicada por três.",
+     "enunciado": "O ΔH deve ser multiplicado por três.",
+     "gabarito": "C",
+     "comentario": "Certo. A extensão descrita é três vezes maior.",
+     "id": "enem-equacoes-termoquimicas-c14-q01",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Equações termoquímicas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma equação é multiplicada por três.",
+     "enunciado": "O ΔH deve ser dividido por três.",
+     "gabarito": "E",
+     "comentario": "Errado. A energia é extensiva.",
+     "id": "enem-equacoes-termoquimicas-c14-q02",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Equações termoquímicas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma equação de condensação é invertida.",
+     "enunciado": "O sinal do ΔH muda.",
+     "gabarito": "C",
+     "comentario": "Certo. A ordem dos estados inicial e final se inverte.",
+     "id": "enem-equacoes-termoquimicas-c14-q03",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Equações termoquímicas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma equação de condensação é invertida.",
+     "enunciado": "O ΔH vira necessariamente zero.",
+     "gabarito": "E",
+     "comentario": "Errado. Os estados ainda têm entalpias distintas.",
+     "id": "enem-equacoes-termoquimicas-c14-q04",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Equações termoquímicas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "C(s) + O₂(g) → CO₂(g) tem ΔH = −394 kJ.",
+     "enunciado": "Qual o ΔH para formar 2 mol de CO₂ pela mesma reação?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "−788 kJ",
+      "B": "−394 kJ",
+      "C": "+788 kJ",
+      "D": "−197 kJ",
+      "E": "0 kJ"
+     },
+     "comentarios_por_alternativa": {
+      "A": "A equação e o ΔH dobram.",
+      "B": "Corresponde a 1 mol de produto.",
+      "C": "O sentido é mantido.",
+      "D": "Isso corresponde a meia extensão.",
+      "E": "O processo troca energia."
+     },
+     "comentario": "A) A equação e o ΔH dobram.\nB) Corresponde a 1 mol de produto.\nC) O sentido é mantido.\nD) Isso corresponde a meia extensão.\nE) O processo troca energia.",
+     "id": "enem-equacoes-termoquimicas-c14-q05",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Equações termoquímicas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma conversão A → B tem ΔH = +28 kJ.",
+     "enunciado": "Qual valor para B → A?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "+28 kJ",
+      "B": "−56 kJ",
+      "C": "+56 kJ",
+      "D": "0 kJ",
+      "E": "−28 kJ"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esse é o sentido original.",
+      "B": "Não há duplicação.",
+      "C": "Não inverte o sinal nem conserva a magnitude.",
+      "D": "A entalpia difere entre estados.",
+      "E": "A inversão troca o sinal."
+     },
+     "comentario": "A) Esse é o sentido original.\nB) Não há duplicação.\nC) Não inverte o sinal nem conserva a magnitude.\nD) A entalpia difere entre estados.\nE) A inversão troca o sinal.",
+     "id": "enem-equacoes-termoquimicas-c14-q06",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Equações termoquímicas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Duas equações registram H₂O(l) e H₂O(g) no produto, mantendo o restante igual.",
+     "enunciado": "Qual relação é esperada?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "Os valores são iguais pela mesma fórmula.",
+      "B": "O valor com vapor é maior pela entalpia de vaporização da água formada.",
+      "C": "O valor com vapor é menor.",
+      "D": "Os sinais são sempre opostos.",
+      "E": "O valor com líquido é necessariamente zero."
+     },
+     "comentarios_por_alternativa": {
+      "A": "A fase importa.",
+      "B": "O vapor tem entalpia maior nas condições comparáveis.",
+      "C": "Vaporizar exige energia.",
+      "D": "A diferença não exige troca de sinal.",
+      "E": "A reação pode liberar ou absorver calor."
+     },
+     "comentario": "A) A fase importa.\nB) O vapor tem entalpia maior nas condições comparáveis.\nC) Vaporizar exige energia.\nD) A diferença não exige troca de sinal.\nE) A reação pode liberar ou absorver calor.",
+     "id": "enem-equacoes-termoquimicas-c14-q07",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Equações termoquímicas",
+     "dificuldade": "dificil"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma ficha traz ΔH de reação em kJ por equação escrita.",
+     "enunciado": "Qual leitura é correta?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "Interprete como valor por grama em todo caso.",
+      "B": "Some os índices químicos ao valor.",
+      "C": "Ignore o sentido da seta.",
+      "D": "Leia o valor junto dos coeficientes e das fases.",
+      "E": "Use qualquer estado físico sem ajuste."
+     },
+     "comentarios_por_alternativa": {
+      "A": "A base não é por grama.",
+      "B": "Índices não são parcelas de energia.",
+      "C": "A inversão troca o sinal.",
+      "D": "Esses dados especificam a transformação.",
+      "E": "Mudanças de fase alteram ΔH."
+     },
+     "comentario": "A) A base não é por grama.\nB) Índices não são parcelas de energia.\nC) A inversão troca o sinal.\nD) Esses dados especificam a transformação.\nE) Mudanças de fase alteram ΔH.",
+     "id": "enem-equacoes-termoquimicas-c14-q08",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Equações termoquímicas",
+     "dificuldade": "dificil"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Uma conversão A → B tem ΔH = +28 kJ. Qual valor para B → A? ___",
+     "opcoes": [
+      "+28 kJ",
+      "−28 kJ",
+      "−56 kJ",
+      "+56 kJ"
+     ],
+     "respostas": [
+      "−28 kJ"
+     ],
+     "explicacao": "A inversão troca o sinal."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Duas equações registram H₂O(l) e H₂O(g) no produto, mantendo o restante igual. Qual relação é esperada? ___",
+     "opcoes": [
+      "Os valores são iguais pela mesma fórmula.",
+      "O valor com vapor é maior pela entalpia de vaporização da água formada.",
+      "O valor com vapor é menor.",
+      "Os sinais são sempre opostos."
+     ],
+     "respostas": [
+      "O valor com vapor é maior pela entalpia de vaporização da água formada."
+     ],
+     "explicacao": "O vapor tem entalpia maior nas condições comparáveis."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise do caso: C(s) + O₂(g) → CO₂(g) tem ΔH = −394 kJ.",
+     "itens": [
+      "Localizar o que se quer descobrir: Qual o ΔH para formar 2 mol de CO₂ pela mesma reação?",
+      "Separar as informações dadas no enunciado.",
+      "Aplicar a relação adequada aos dados.",
+      "Conferir se a conclusão responde à pergunta."
+     ],
+     "explicacao": "A equação e o ΔH dobram."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "C(s) + O₂(g) → CO₂(g) tem ΔH = −394 kJ. Qual o ΔH para formar 2 mol de CO₂ pela mesma reação?",
+       "−788 kJ"
+      ],
+      [
+       "Uma conversão A → B tem ΔH = +28 kJ. Qual valor para B → A?",
+       "−28 kJ"
+      ],
+      [
+       "Duas equações registram H₂O(l) e H₂O(g) no produto, mantendo o restante igual. Qual relação é esperada?",
+       "O valor com vapor é maior pela entalpia de vaporização da água formada."
+      ],
+      [
+       "Uma ficha traz ΔH de reação em kJ por equação escrita. Qual leitura é correta?",
+       "Leia o valor junto dos coeficientes e das fases."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

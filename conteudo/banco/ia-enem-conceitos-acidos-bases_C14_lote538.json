@@ -1,0 +1,253 @@
+{
+ "assunto": "Conceitos de ácidos e bases",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-conceitos-acidos-bases-c14",
+   "titulo": "Conceitos de ácidos e bases",
+   "microconteudo": "RAIO-X DA PROVA: Assunto do edital de Ciências da Natureza. A interpretação de dados ajuda a resolver situações-problema sobre esse conteúdo.\n\nPOR QUE IMPORTA:\nConceitos de ácidos e bases ajuda a traduzir observações e símbolos em explicações que você pode conferir. Nesta lição, você vai praticar a leitura de dados e justificar o resultado.\n\nO QUE A BANCA COBRA:\nIdentifique o que o problema descreve e escolha a conclusão explicada pelos dados. Revise a unidade, a entidade representada e as condições de aplicação quando elas fizerem parte do problema.\n\nENTENDA:\nArrhenius descreve ácidos e bases em água pelo aumento de H₃O⁺ ou OH⁻. Brønsted–Lowry chama de ácido o doador de próton e de base o receptor. Lewis trata de aceitação e doação de pares eletrônicos. A mesma transformação pode ser lida por modelos diferentes.\n\nNa reação NH₃ + H₂O ⇌ NH₄⁺ + OH⁻, a amônia recebe um próton e a água o doa. Em HCl + H₂O → H₃O⁺ + Cl⁻, a água recebe um próton. Os dois casos mostram que o papel da água depende de seu parceiro na transferência.\n\nQuando você escreve pares conjugados, confira se as duas fórmulas diferem por um H e uma unidade de carga. Retirar H⁺ de H₂PO₄⁻, por exemplo, deixa HPO₄²⁻. Ganhar H⁺ produz H₃PO₄. Essa comparação mostra que uma espécie intermediária pode participar de reações em ambos os sentidos dependendo do meio.\n\nPrimeiro caso: ligue os dados à regra\nH₂O doa próton a NH₃. Qual é a base conjugada de H₂O nesse caso?\n\nComece lendo o enunciado como um pequeno relatório. Anote em uma linha o material ou sistema descrito e, em outra, o que se quer descobrir. Essa divisão evita misturar um dado já fornecido com o resultado pedido. Escolha a regra depois de localizar o que, no texto, autoriza sua aplicação. Ao terminar, teste se a resposta ainda faz sentido ao substituir os valores ou reler a observação.\n\nResultado: OH⁻ É o que resta após a perda de H⁺.\n\nCompare as hipóteses e os cálculos alternativos:\n• NH₄⁺ É o ácido conjugado da amônia.\n• NH₃ É a base receptora inicial.\n• H₃O⁺ Resulta do ganho de próton.\n• H₂ Não é o produto indicado.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nSegundo caso: cuide da condição que permite a conclusão\nÁcido acético doa próton à água. Qual par representa o ácido e sua base conjugada?\n\nCompare as interpretações antes de escolher. Duas respostas podem usar os mesmos termos ou números e ainda se referir a grandezas diferentes. Se houver unidades, escreva a unidade junto a cada valor. Se houver contagens, diga o que está sendo contado. Se a questão for explicativa, procure a relação de causa e efeito que é compatível com as condições fornecidas. Só então feche a resposta.\n\nResultado: CH₃COOH e CH₃COO⁻. Diferem por H⁺.\n\nCompare as hipóteses e os cálculos alternativos:\n• H₂O e OH⁻. São espécies do par da água.\n• CH₃COOH e H₃O⁺. Correspondem a pares diferentes.\n• CH₃COO⁻ e OH⁻. São bases de pares distintos.\n• CH₃COOH e H₂. A reação não produz H₂.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nTerceiro caso: confira o que a pergunta está medindo\nUma espécie recebe de NH₃ um par de elétrons para formar ligação. Qual é o papel da receptora?\n\nFaça uma primeira previsão usando palavras. Pergunte se o resultado esperado é uma contagem, uma propriedade, uma comparação ou um mecanismo. Escrever a previsão antes de olhar as alternativas ajuda a perceber quando dois valores semelhantes têm sentidos diferentes. Em seguida, explique em uma frase como o primeiro dado se conecta ao resultado. A resposta fica mais forte quando essa ligação pode ser checada no próprio enunciado.\n\nResultado: Ácido de Lewis. Aceita par eletrônico.\n\nCompare as hipóteses e os cálculos alternativos:\n• Base de Lewis. A base doa par.\n• Solvente obrigatório. A função não exige ser solvente.\n• Sal necessariamente. A condição não define essa classe.\n• Doador obrigatório de próton. O critério aqui é o par de elétrons.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nQuarto caso: escolha a conclusão sustentada\nÁgua ganha próton em um caso e perde em outro. Qual conclusão decorre?\n\nTente justificar a escolha para alguém que observou apenas o resultado final. Comece pelos fatos que o problema realmente fornece e mostre como a regra interpreta esses fatos. Se a conclusão depender de uma condição, mantenha essa condição na justificativa. Depois procure uma alteração pequena nos dados que exigiria outra resposta. Esse último passo ajuda a reconhecer onde termina a aplicação do raciocínio.\n\nResultado: Pode atuar como ácido ou base conforme a reação. O papel depende da direção da transferência.\n\nCompare as hipóteses e os cálculos alternativos:\n• É sempre somente ácido. Ela também recebe próton.\n• É sempre somente base. Ela também doa próton.\n• Deixa de ser H₂O antes de agir em todo caso. H₂O participa como espécie inicial.\n• Nenhum modelo permite descrevê-la. Brønsted abrange ambos os papéis.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nLeitura crítica 1\nHCl doa próton à água. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “Atua como ácido de Brønsted.” É o doador. A segunda é “Atua como receptor de próton nesse caso.” A água recebe.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nLeitura crítica 2\nNH₃ recebe próton da água. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “É base de Brønsted nessa reação.” Recebe H⁺. A segunda é “Toda base de Brønsted precisa ter OH na fórmula.” A definição exige aceitação de próton.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nCheque o alcance da conclusão\nArrhenius descreve ácidos e bases em água pelo aumento de H₃O⁺ ou OH⁻. Brønsted–Lowry chama de ácido o doador de próton e de base o receptor. Lewis trata de aceitação e doação de pares eletrônicos. A mesma transformação pode ser lida por modelos diferentes.\n\nAo estudar, escolha uma das situações acima e altere só um dado. Explique quais partes da solução continuam iguais e quais precisam ser refeitas. Num problema numérico, experimente multiplicar o dado alterado por dois e veja se a resposta dobra, diminui ou continua igual. Num problema de classificação, tente retirar a observação decisiva e veja quais hipóteses continuam compatíveis. Isso separa a regra geral da informação específica fornecida por uma questão.\n\nTROCANDO EM MIÚDOS:\nComece por uma pergunta que você conseguiria fazer a um colega: o que mudou, o que ficou igual e qual informação me permite dizer isso? Em questões de Química, dá para errar mesmo lembrando a regra certa quando se usa a regra para o dado errado. Separe a situação da pergunta. Leia os símbolos em voz baixa. Se houver dois materiais ou dois momentos, dê um nome curto para cada um. Assim você consegue comparar as coisas na ordem que o texto pediu.\n\nNa reação NH₃ + H₂O ⇌ NH₄⁺ + OH⁻, a amônia recebe um próton e a água o doa. Em HCl + H₂O → H₃O⁺ + Cl⁻, a água recebe um próton. Os dois casos mostram que o papel da água depende de seu parceiro na transferência.\n\nExperimente com este caso. H₂O doa próton a NH₃. Qual é a base conjugada de H₂O nesse caso? A resposta é OH⁻ É o que resta após a perda de H⁺. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nExperimente com este caso. Água ganha próton em um caso e perde em outro. Qual conclusão decorre? A resposta é Pode atuar como ácido ou base conforme a reação. O papel depende da direção da transferência. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nFaça uma checagem que cabe no rascunho: escreva o dado, desenhe uma seta e escreva o que ele permite concluir. Se precisar de uma segunda seta, diga qual regra leva desse resultado intermediário até a resposta. Uma explicação em duas frases pode ser suficiente. A primeira conta o que o problema mostrou. A segunda diz por que esse dado leva à sua escolha. Esse caminho ajuda em problemas com tabelas, desenhos e comparações.\n\nESQUEMA:\nLeia o cenário → destaque o dado decisivo → aplique a relação → confira o que foi pedido.\n\nPEGADINHAS:\n• NH₄⁺ É o ácido conjugado da amônia.\n• H₂O e OH⁻. São espécies do par da água.\n• Base de Lewis. A base doa par.\n• É sempre somente ácido. Ela também recebe próton.\n\nNA PRÁTICA:\nNa reação NH₃ + H₂O ⇌ NH₄⁺ + OH⁻, a amônia recebe um próton e a água o doa. Em HCl + H₂O → H₃O⁺ + Cl⁻, a água recebe um próton. Os dois casos mostram que o papel da água depende de seu parceiro na transferência.",
+   "flashcards": [
+    {
+     "frente": "HCl doa próton à água. Atua como ácido de Brønsted. Certo ou errado?",
+     "verso": "Certo. É o doador.",
+     "dispositivo": "Água — Conceitos de ácidos e base"
+    },
+    {
+     "frente": "NH₃ recebe próton da água. É base de Brønsted nessa reação. Certo ou errado?",
+     "verso": "Certo. Recebe H⁺.",
+     "dispositivo": "Água — Conceitos de ácidos e base"
+    },
+    {
+     "frente": "H₂O doa próton a NH₃. Qual é a base conjugada de H₂O nesse caso?",
+     "verso": "OH⁻ É o que resta após a perda de H⁺.",
+     "dispositivo": "Água — Conceitos de ácidos e base"
+    },
+    {
+     "frente": "Ácido acético doa próton à água. Qual par representa o ácido e sua base conjugada?",
+     "verso": "CH₃COOH e CH₃COO⁻. Diferem por H⁺.",
+     "dispositivo": "Água — Conceitos de ácidos e base"
+    },
+    {
+     "frente": "Uma espécie recebe de NH₃ um par de elétrons para formar ligação. Qual é o papel da receptora?",
+     "verso": "Ácido de Lewis. Aceita par eletrônico.",
+     "dispositivo": "Água — Conceitos de ácidos e base"
+    },
+    {
+     "frente": "Água ganha próton em um caso e perde em outro. Qual conclusão decorre?",
+     "verso": "Pode atuar como ácido ou base conforme a reação. O papel depende da direção da transferência.",
+     "dispositivo": "Água — Conceitos de ácidos e base"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "HCl doa próton à água.",
+     "enunciado": "Atua como ácido de Brønsted.",
+     "gabarito": "C",
+     "comentario": "Certo. É o doador.",
+     "id": "enem-conceitos-acidos-bases-c14-q01",
+     "habilidade": "H24",
+     "dispositivo": "Água — Conceitos de ácidos e base",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "HCl doa próton à água.",
+     "enunciado": "Atua como receptor de próton nesse caso.",
+     "gabarito": "E",
+     "comentario": "Errado. A água recebe.",
+     "id": "enem-conceitos-acidos-bases-c14-q02",
+     "habilidade": "H24",
+     "dispositivo": "Água — Conceitos de ácidos e base",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "NH₃ recebe próton da água.",
+     "enunciado": "É base de Brønsted nessa reação.",
+     "gabarito": "C",
+     "comentario": "Certo. Recebe H⁺.",
+     "id": "enem-conceitos-acidos-bases-c14-q03",
+     "habilidade": "H24",
+     "dispositivo": "Água — Conceitos de ácidos e base",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "NH₃ recebe próton da água.",
+     "enunciado": "Toda base de Brønsted precisa ter OH na fórmula.",
+     "gabarito": "E",
+     "comentario": "Errado. A definição exige aceitação de próton.",
+     "id": "enem-conceitos-acidos-bases-c14-q04",
+     "habilidade": "H24",
+     "dispositivo": "Água — Conceitos de ácidos e base",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "H₂O doa próton a NH₃.",
+     "enunciado": "Qual é a base conjugada de H₂O nesse caso?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "OH⁻",
+      "B": "NH₄⁺",
+      "C": "NH₃",
+      "D": "H₃O⁺",
+      "E": "H₂"
+     },
+     "comentarios_por_alternativa": {
+      "A": "É o que resta após a perda de H⁺.",
+      "B": "É o ácido conjugado da amônia.",
+      "C": "É a base receptora inicial.",
+      "D": "Resulta do ganho de próton.",
+      "E": "Não é o produto indicado."
+     },
+     "comentario": "A) É o que resta após a perda de H⁺.\nB) É o ácido conjugado da amônia.\nC) É a base receptora inicial.\nD) Resulta do ganho de próton.\nE) Não é o produto indicado.",
+     "id": "enem-conceitos-acidos-bases-c14-q05",
+     "habilidade": "H24",
+     "dispositivo": "Água — Conceitos de ácidos e base",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Ácido acético doa próton à água.",
+     "enunciado": "Qual par representa o ácido e sua base conjugada?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "H₂O e OH⁻.",
+      "B": "CH₃COOH e H₃O⁺.",
+      "C": "CH₃COO⁻ e OH⁻.",
+      "D": "CH₃COOH e H₂.",
+      "E": "CH₃COOH e CH₃COO⁻."
+     },
+     "comentarios_por_alternativa": {
+      "A": "São espécies do par da água.",
+      "B": "Correspondem a pares diferentes.",
+      "C": "São bases de pares distintos.",
+      "D": "A reação não produz H₂.",
+      "E": "Diferem por H⁺."
+     },
+     "comentario": "A) São espécies do par da água.\nB) Correspondem a pares diferentes.\nC) São bases de pares distintos.\nD) A reação não produz H₂.\nE) Diferem por H⁺.",
+     "id": "enem-conceitos-acidos-bases-c14-q06",
+     "habilidade": "H24",
+     "dispositivo": "Água — Conceitos de ácidos e base",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma espécie recebe de NH₃ um par de elétrons para formar ligação.",
+     "enunciado": "Qual é o papel da receptora?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "Base de Lewis.",
+      "B": "Ácido de Lewis.",
+      "C": "Solvente obrigatório.",
+      "D": "Sal necessariamente.",
+      "E": "Doador obrigatório de próton."
+     },
+     "comentarios_por_alternativa": {
+      "A": "A base doa par.",
+      "B": "Aceita par eletrônico.",
+      "C": "A função não exige ser solvente.",
+      "D": "A condição não define essa classe.",
+      "E": "O critério aqui é o par de elétrons."
+     },
+     "comentario": "A) A base doa par.\nB) Aceita par eletrônico.\nC) A função não exige ser solvente.\nD) A condição não define essa classe.\nE) O critério aqui é o par de elétrons.",
+     "id": "enem-conceitos-acidos-bases-c14-q07",
+     "habilidade": "H24",
+     "dispositivo": "Água — Conceitos de ácidos e base",
+     "dificuldade": "dificil"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Água ganha próton em um caso e perde em outro.",
+     "enunciado": "Qual conclusão decorre?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "É sempre somente ácido.",
+      "B": "É sempre somente base.",
+      "C": "Deixa de ser H₂O antes de agir em todo caso.",
+      "D": "Pode atuar como ácido ou base conforme a reação.",
+      "E": "Nenhum modelo permite descrevê-la."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Ela também recebe próton.",
+      "B": "Ela também doa próton.",
+      "C": "H₂O participa como espécie inicial.",
+      "D": "O papel depende da direção da transferência.",
+      "E": "Brønsted abrange ambos os papéis."
+     },
+     "comentario": "A) Ela também recebe próton.\nB) Ela também doa próton.\nC) H₂O participa como espécie inicial.\nD) O papel depende da direção da transferência.\nE) Brønsted abrange ambos os papéis.",
+     "id": "enem-conceitos-acidos-bases-c14-q08",
+     "habilidade": "H24",
+     "dispositivo": "Água — Conceitos de ácidos e base",
+     "dificuldade": "dificil"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Ácido acético doa próton à água. Qual par representa o ácido e sua base conjugada? ___",
+     "opcoes": [
+      "H₂O e OH⁻.",
+      "CH₃COOH e CH₃COO⁻.",
+      "CH₃COOH e H₃O⁺.",
+      "CH₃COO⁻ e OH⁻."
+     ],
+     "respostas": [
+      "CH₃COOH e CH₃COO⁻."
+     ],
+     "explicacao": "Diferem por H⁺."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Uma espécie recebe de NH₃ um par de elétrons para formar ligação. Qual é o papel da receptora? ___",
+     "opcoes": [
+      "Base de Lewis.",
+      "Ácido de Lewis.",
+      "Solvente obrigatório.",
+      "Sal necessariamente."
+     ],
+     "respostas": [
+      "Ácido de Lewis."
+     ],
+     "explicacao": "Aceita par eletrônico."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise do caso: H₂O doa próton a NH₃.",
+     "itens": [
+      "Localizar o que se quer descobrir: Qual é a base conjugada de H₂O nesse caso?",
+      "Separar as informações dadas no enunciado.",
+      "Aplicar a relação adequada aos dados.",
+      "Conferir se a conclusão responde à pergunta."
+     ],
+     "explicacao": "É o que resta após a perda de H⁺."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "H₂O doa próton a NH₃. Qual é a base conjugada de H₂O nesse caso?",
+       "OH⁻"
+      ],
+      [
+       "Ácido acético doa próton à água. Qual par representa o ácido e sua base conjugada?",
+       "CH₃COOH e CH₃COO⁻."
+      ],
+      [
+       "Uma espécie recebe de NH₃ um par de elétrons para formar ligação. Qual é o papel da receptora?",
+       "Ácido de Lewis."
+      ],
+      [
+       "Água ganha próton em um caso e perde em outro. Qual conclusão decorre?",
+       "Pode atuar como ácido ou base conforme a reação."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

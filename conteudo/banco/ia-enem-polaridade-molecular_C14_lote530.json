@@ -1,0 +1,253 @@
+{
+ "assunto": "Polaridade de ligações e moléculas",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-polaridade-molecular-c14",
+   "titulo": "Polaridade de ligações e moléculas",
+   "microconteudo": "RAIO-X DA PROVA: Assunto do edital de Ciências da Natureza. A interpretação de dados ajuda a resolver situações-problema sobre esse conteúdo.\n\nPOR QUE IMPORTA:\nPolaridade de ligações e moléculas ajuda a traduzir observações e símbolos em explicações que você pode conferir. Nesta lição, você vai praticar a leitura de dados e justificar o resultado.\n\nO QUE A BANCA COBRA:\nIdentifique o que o problema descreve e escolha a conclusão explicada pelos dados. Revise a unidade, a entidade representada e as condições de aplicação quando elas fizerem parte do problema.\n\nENTENDA:\nUma ligação polar tem distribuição desigual dos elétrons compartilhados. A polaridade global depende da intensidade e da direção dos dipolos de ligação e da geometria molecular. Dipolos podem cancelar-se por simetria. Em uma molécula diatômica, basta considerar a ligação única.\n\nCO₂ tem duas ligações C=O polares, orientadas em sentidos opostos em uma geometria linear, e o dipolo global é nulo. H₂O é angular e os dipolos O–H não se cancelam. Comparar apenas a presença de oxigênio nesses exemplos levaria a uma conclusão indevida.\n\nA molécula polar pode continuar neutra. As cargas parciais representam uma distribuição desigual, e sua soma não gera um íon. Podemos imaginar cada interação de ligação como uma seta e verificar se o conjunto de setas se equilibra. Essa ideia geométrica evita classificar como polar toda molécula que tenha um átomo fortemente eletronegativo.\n\nPrimeiro caso: ligue os dados à regra\nH₂O é angular e tem duas ligações O–H polares. Qual a polaridade da molécula?\n\nComece lendo o enunciado como um pequeno relatório. Anote em uma linha o material ou sistema descrito e, em outra, o que se quer descobrir. Essa divisão evita misturar um dado já fornecido com o resultado pedido. Escolha a regra depois de localizar o que, no texto, autoriza sua aplicação. Ao terminar, teste se a resposta ainda faz sentido ao substituir os valores ou reler a observação.\n\nResultado: Polar. As contribuições não se anulam nessa geometria.\n\nCompare as hipóteses e os cálculos alternativos:\n• Apolar pela igualdade das duas ligações. A igualdade não basta sem oposição das direções.\n• Apolar por conter três átomos. A contagem de átomos não determina polaridade.\n• Iônica em toda molécula isolada. Uma molécula isolada é eletricamente neutra, com distribuição desigual de carga.\n• Metálica. O modelo de ligação aqui é covalente.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nSegundo caso: cuide da condição que permite a conclusão\nUma amostra de O₂ é comparada com HCl. Qual contraste é esperado?\n\nCompare as interpretações antes de escolher. Duas respostas podem usar os mesmos termos ou números e ainda se referir a grandezas diferentes. Se houver unidades, escreva a unidade junto a cada valor. Se houver contagens, diga o que está sendo contado. Se a questão for explicativa, procure a relação de causa e efeito que é compatível com as condições fornecidas. Só então feche a resposta.\n\nResultado: O₂ é apolar e HCl é polar. Oxigênios iguais compartilham simetricamente; H e Cl diferem.\n\nCompare as hipóteses e os cálculos alternativos:\n• Ambas são polares por serem diatômicas. O₂ tem átomos iguais.\n• Ambas são apolares por serem diatômicas. HCl tem um dipolo.\n• O₂ é mais polar por ter dois oxigênios. Igualdade de átomos dispensa dipolo permanente.\n• A polaridade depende apenas da massa molar. É uma questão de distribuição de carga.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nTerceiro caso: confira o que a pergunta está medindo\nUm modelo mostra uma molécula tetraédrica CH₄ com quatro ligações equivalentes. O que a simetria permite prever?\n\nFaça uma primeira previsão usando palavras. Pergunte se o resultado esperado é uma contagem, uma propriedade, uma comparação ou um mecanismo. Escrever a previsão antes de olhar as alternativas ajuda a perceber quando dois valores semelhantes têm sentidos diferentes. Em seguida, explique em uma frase como o primeiro dado se conecta ao resultado. A resposta fica mais forte quando essa ligação pode ser checada no próprio enunciado.\n\nResultado: Cancelamento do dipolo global. As contribuições se compensam nas quatro direções.\n\nCompare as hipóteses e os cálculos alternativos:\n• Soma em uma única direção. Não há uma direção privilegiada pela simetria.\n• Uma carga iônica total de +4. Os dipolos não são cargas líquidas.\n• Cancelamento só em geometria linear. Outra geometria simétrica também pode cancelar.\n• O carbono está ausente no centro. A fórmula e o modelo incluem C.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nQuarto caso: escolha a conclusão sustentada\nUm modelo de NH₃ mostra forma piramidal com par não ligante no N. Qual conclusão é compatível?\n\nTente justificar a escolha para alguém que observou apenas o resultado final. Comece pelos fatos que o problema realmente fornece e mostre como a regra interpreta esses fatos. Se a conclusão depender de uma condição, mantenha essa condição na justificativa. Depois procure uma alteração pequena nos dados que exigiria outra resposta. Esse último passo ajuda a reconhecer onde termina a aplicação do raciocínio.\n\nResultado: A molécula apresenta dipolo resultante. Na pirâmide, as contribuições não se cancelam.\n\nCompare as hipóteses e os cálculos alternativos:\n• A molécula é necessariamente plana. O modelo informa forma piramidal.\n• O N perdeu completamente o par não ligante. Esse par está presente no desenho.\n• A presença de três ligações garante apolaridade. A distribuição espacial é decisiva.\n• Os H são todos íons livres. Eles estão ligados dentro da molécula.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nLeitura crítica 1\nCO₂ tem ligações polares e geometria linear simétrica. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “O dipolo global pode ser nulo.” As contribuições opostas se cancelam. A segunda é “Duas ligações polares sempre tornam a molécula polar.” A geometria pode fazê-las cancelar.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nLeitura crítica 2\nHCl é formado por dois átomos com eletronegatividades distintas. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “Sua ligação pode gerar um dipolo molecular.” Há uma ligação única com distribuição desigual. A segunda é “Suas duas ligações se cancelam.” A molécula é diatômica e tem uma ligação.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nCheque o alcance da conclusão\nUma ligação polar tem distribuição desigual dos elétrons compartilhados. A polaridade global depende da intensidade e da direção dos dipolos de ligação e da geometria molecular. Dipolos podem cancelar-se por simetria. Em uma molécula diatômica, basta considerar a ligação única.\n\nAo estudar, escolha uma das situações acima e altere só um dado. Explique quais partes da solução continuam iguais e quais precisam ser refeitas. Num problema numérico, experimente multiplicar o dado alterado por dois e veja se a resposta dobra, diminui ou continua igual. Num problema de classificação, tente retirar a observação decisiva e veja quais hipóteses continuam compatíveis. Isso separa a regra geral da informação específica fornecida por uma questão.\n\nTROCANDO EM MIÚDOS:\nComece por uma pergunta que você conseguiria fazer a um colega: o que mudou, o que ficou igual e qual informação me permite dizer isso? Em questões de Química, dá para errar mesmo lembrando a regra certa quando se usa a regra para o dado errado. Separe a situação da pergunta. Leia os símbolos em voz baixa. Se houver dois materiais ou dois momentos, dê um nome curto para cada um. Assim você consegue comparar as coisas na ordem que o texto pediu.\n\nCO₂ tem duas ligações C=O polares, orientadas em sentidos opostos em uma geometria linear, e o dipolo global é nulo. H₂O é angular e os dipolos O–H não se cancelam. Comparar apenas a presença de oxigênio nesses exemplos levaria a uma conclusão indevida.\n\nExperimente com este caso. H₂O é angular e tem duas ligações O–H polares. Qual a polaridade da molécula? A resposta é Polar. As contribuições não se anulam nessa geometria. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nExperimente com este caso. Um modelo de NH₃ mostra forma piramidal com par não ligante no N. Qual conclusão é compatível? A resposta é A molécula apresenta dipolo resultante. Na pirâmide, as contribuições não se cancelam. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nFaça uma checagem que cabe no rascunho: escreva o dado, desenhe uma seta e escreva o que ele permite concluir. Se precisar de uma segunda seta, diga qual regra leva desse resultado intermediário até a resposta. Uma explicação em duas frases pode ser suficiente. A primeira conta o que o problema mostrou. A segunda diz por que esse dado leva à sua escolha. Esse caminho ajuda em problemas com tabelas, desenhos e comparações.\n\nESQUEMA:\nLeia o cenário → destaque o dado decisivo → aplique a relação → confira o que foi pedido.\n\nPEGADINHAS:\n• Apolar pela igualdade das duas ligações. A igualdade não basta sem oposição das direções.\n• Ambas são polares por serem diatômicas. O₂ tem átomos iguais.\n• Soma em uma única direção. Não há uma direção privilegiada pela simetria.\n• A molécula é necessariamente plana. O modelo informa forma piramidal.\n\nNA PRÁTICA:\nCO₂ tem duas ligações C=O polares, orientadas em sentidos opostos em uma geometria linear, e o dipolo global é nulo. H₂O é angular e os dipolos O–H não se cancelam. Comparar apenas a presença de oxigênio nesses exemplos levaria a uma conclusão indevida.",
+   "flashcards": [
+    {
+     "frente": "CO₂ tem ligações polares e geometria linear simétrica. O dipolo global pode ser nulo. Certo ou errado?",
+     "verso": "Certo. As contribuições opostas se cancelam.",
+     "dispositivo": "Materiais, suas propriedades e usos — Polaridade de moléculas"
+    },
+    {
+     "frente": "HCl é formado por dois átomos com eletronegatividades distintas. Sua ligação pode gerar um dipolo molecular. Certo ou errado?",
+     "verso": "Certo. Há uma ligação única com distribuição desigual.",
+     "dispositivo": "Materiais, suas propriedades e usos — Polaridade de moléculas"
+    },
+    {
+     "frente": "H₂O é angular e tem duas ligações O–H polares. Qual a polaridade da molécula?",
+     "verso": "Polar. As contribuições não se anulam nessa geometria.",
+     "dispositivo": "Materiais, suas propriedades e usos — Polaridade de moléculas"
+    },
+    {
+     "frente": "Uma amostra de O₂ é comparada com HCl. Qual contraste é esperado?",
+     "verso": "O₂ é apolar e HCl é polar. Oxigênios iguais compartilham simetricamente; H e Cl diferem.",
+     "dispositivo": "Materiais, suas propriedades e usos — Polaridade de moléculas"
+    },
+    {
+     "frente": "Um modelo mostra uma molécula tetraédrica CH₄ com quatro ligações equivalentes. O que a simetria permite prever?",
+     "verso": "Cancelamento do dipolo global. As contribuições se compensam nas quatro direções.",
+     "dispositivo": "Materiais, suas propriedades e usos — Polaridade de moléculas"
+    },
+    {
+     "frente": "Um modelo de NH₃ mostra forma piramidal com par não ligante no N. Qual conclusão é compatível?",
+     "verso": "A molécula apresenta dipolo resultante. Na pirâmide, as contribuições não se cancelam.",
+     "dispositivo": "Materiais, suas propriedades e usos — Polaridade de moléculas"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "CO₂ tem ligações polares e geometria linear simétrica.",
+     "enunciado": "O dipolo global pode ser nulo.",
+     "gabarito": "C",
+     "comentario": "Certo. As contribuições opostas se cancelam.",
+     "id": "enem-polaridade-molecular-c14-q01",
+     "habilidade": "H24",
+     "dispositivo": "Materiais, suas propriedades e usos — Polaridade de moléculas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "CO₂ tem ligações polares e geometria linear simétrica.",
+     "enunciado": "Duas ligações polares sempre tornam a molécula polar.",
+     "gabarito": "E",
+     "comentario": "Errado. A geometria pode fazê-las cancelar.",
+     "id": "enem-polaridade-molecular-c14-q02",
+     "habilidade": "H24",
+     "dispositivo": "Materiais, suas propriedades e usos — Polaridade de moléculas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "HCl é formado por dois átomos com eletronegatividades distintas.",
+     "enunciado": "Sua ligação pode gerar um dipolo molecular.",
+     "gabarito": "C",
+     "comentario": "Certo. Há uma ligação única com distribuição desigual.",
+     "id": "enem-polaridade-molecular-c14-q03",
+     "habilidade": "H24",
+     "dispositivo": "Materiais, suas propriedades e usos — Polaridade de moléculas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "HCl é formado por dois átomos com eletronegatividades distintas.",
+     "enunciado": "Suas duas ligações se cancelam.",
+     "gabarito": "E",
+     "comentario": "Errado. A molécula é diatômica e tem uma ligação.",
+     "id": "enem-polaridade-molecular-c14-q04",
+     "habilidade": "H24",
+     "dispositivo": "Materiais, suas propriedades e usos — Polaridade de moléculas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "H₂O é angular e tem duas ligações O–H polares.",
+     "enunciado": "Qual a polaridade da molécula?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "Polar.",
+      "B": "Apolar pela igualdade das duas ligações.",
+      "C": "Apolar por conter três átomos.",
+      "D": "Iônica em toda molécula isolada.",
+      "E": "Metálica."
+     },
+     "comentarios_por_alternativa": {
+      "A": "As contribuições não se anulam nessa geometria.",
+      "B": "A igualdade não basta sem oposição das direções.",
+      "C": "A contagem de átomos não determina polaridade.",
+      "D": "Uma molécula isolada é eletricamente neutra, com distribuição desigual de carga.",
+      "E": "O modelo de ligação aqui é covalente."
+     },
+     "comentario": "A) As contribuições não se anulam nessa geometria.\nB) A igualdade não basta sem oposição das direções.\nC) A contagem de átomos não determina polaridade.\nD) Uma molécula isolada é eletricamente neutra, com distribuição desigual de carga.\nE) O modelo de ligação aqui é covalente.",
+     "id": "enem-polaridade-molecular-c14-q05",
+     "habilidade": "H24",
+     "dispositivo": "Materiais, suas propriedades e usos — Polaridade de moléculas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma amostra de O₂ é comparada com HCl.",
+     "enunciado": "Qual contraste é esperado?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Ambas são polares por serem diatômicas.",
+      "B": "Ambas são apolares por serem diatômicas.",
+      "C": "O₂ é mais polar por ter dois oxigênios.",
+      "D": "A polaridade depende apenas da massa molar.",
+      "E": "O₂ é apolar e HCl é polar."
+     },
+     "comentarios_por_alternativa": {
+      "A": "O₂ tem átomos iguais.",
+      "B": "HCl tem um dipolo.",
+      "C": "Igualdade de átomos dispensa dipolo permanente.",
+      "D": "É uma questão de distribuição de carga.",
+      "E": "Oxigênios iguais compartilham simetricamente; H e Cl diferem."
+     },
+     "comentario": "A) O₂ tem átomos iguais.\nB) HCl tem um dipolo.\nC) Igualdade de átomos dispensa dipolo permanente.\nD) É uma questão de distribuição de carga.\nE) Oxigênios iguais compartilham simetricamente; H e Cl diferem.",
+     "id": "enem-polaridade-molecular-c14-q06",
+     "habilidade": "H24",
+     "dispositivo": "Materiais, suas propriedades e usos — Polaridade de moléculas",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um modelo mostra uma molécula tetraédrica CH₄ com quatro ligações equivalentes.",
+     "enunciado": "O que a simetria permite prever?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "Soma em uma única direção.",
+      "B": "Cancelamento do dipolo global.",
+      "C": "Uma carga iônica total de +4.",
+      "D": "Cancelamento só em geometria linear.",
+      "E": "O carbono está ausente no centro."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Não há uma direção privilegiada pela simetria.",
+      "B": "As contribuições se compensam nas quatro direções.",
+      "C": "Os dipolos não são cargas líquidas.",
+      "D": "Outra geometria simétrica também pode cancelar.",
+      "E": "A fórmula e o modelo incluem C."
+     },
+     "comentario": "A) Não há uma direção privilegiada pela simetria.\nB) As contribuições se compensam nas quatro direções.\nC) Os dipolos não são cargas líquidas.\nD) Outra geometria simétrica também pode cancelar.\nE) A fórmula e o modelo incluem C.",
+     "id": "enem-polaridade-molecular-c14-q07",
+     "habilidade": "H24",
+     "dispositivo": "Materiais, suas propriedades e usos — Polaridade de moléculas",
+     "dificuldade": "dificil"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um modelo de NH₃ mostra forma piramidal com par não ligante no N.",
+     "enunciado": "Qual conclusão é compatível?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "A molécula é necessariamente plana.",
+      "B": "O N perdeu completamente o par não ligante.",
+      "C": "A presença de três ligações garante apolaridade.",
+      "D": "A molécula apresenta dipolo resultante.",
+      "E": "Os H são todos íons livres."
+     },
+     "comentarios_por_alternativa": {
+      "A": "O modelo informa forma piramidal.",
+      "B": "Esse par está presente no desenho.",
+      "C": "A distribuição espacial é decisiva.",
+      "D": "Na pirâmide, as contribuições não se cancelam.",
+      "E": "Eles estão ligados dentro da molécula."
+     },
+     "comentario": "A) O modelo informa forma piramidal.\nB) Esse par está presente no desenho.\nC) A distribuição espacial é decisiva.\nD) Na pirâmide, as contribuições não se cancelam.\nE) Eles estão ligados dentro da molécula.",
+     "id": "enem-polaridade-molecular-c14-q08",
+     "habilidade": "H24",
+     "dispositivo": "Materiais, suas propriedades e usos — Polaridade de moléculas",
+     "dificuldade": "dificil"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Uma amostra de O₂ é comparada com HCl. Qual contraste é esperado? ___",
+     "opcoes": [
+      "Ambas são polares por serem diatômicas.",
+      "O₂ é apolar e HCl é polar.",
+      "Ambas são apolares por serem diatômicas.",
+      "O₂ é mais polar por ter dois oxigênios."
+     ],
+     "respostas": [
+      "O₂ é apolar e HCl é polar."
+     ],
+     "explicacao": "Oxigênios iguais compartilham simetricamente; H e Cl diferem."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Um modelo mostra uma molécula tetraédrica CH₄ com quatro ligações equivalentes. O que a simetria permite prever? ___",
+     "opcoes": [
+      "Soma em uma única direção.",
+      "Cancelamento do dipolo global.",
+      "Uma carga iônica total de +4.",
+      "Cancelamento só em geometria linear."
+     ],
+     "respostas": [
+      "Cancelamento do dipolo global."
+     ],
+     "explicacao": "As contribuições se compensam nas quatro direções."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise do caso: H₂O é angular e tem duas ligações O–H polares.",
+     "itens": [
+      "Localizar o que se quer descobrir: Qual a polaridade da molécula?",
+      "Separar as informações dadas no enunciado.",
+      "Aplicar a relação adequada aos dados.",
+      "Conferir se a conclusão responde à pergunta."
+     ],
+     "explicacao": "As contribuições não se anulam nessa geometria."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "H₂O é angular e tem duas ligações O–H polares. Qual a polaridade da molécula?",
+       "Polar."
+      ],
+      [
+       "Uma amostra de O₂ é comparada com HCl. Qual contraste é esperado?",
+       "O₂ é apolar e HCl é polar."
+      ],
+      [
+       "Um modelo mostra uma molécula tetraédrica CH₄ com quatro ligações equivalentes. O que a simetria permite prever?",
+       "Cancelamento do dipolo global."
+      ],
+      [
+       "Um modelo de NH₃ mostra forma piramidal com par não ligante no N. Qual conclusão é compatível?",
+       "A molécula apresenta dipolo resultante."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

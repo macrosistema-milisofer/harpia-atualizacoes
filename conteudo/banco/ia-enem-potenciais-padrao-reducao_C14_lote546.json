@@ -1,0 +1,253 @@
+{
+ "assunto": "Potenciais padrão de redução",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-potenciais-padrao-reducao-c14",
+   "titulo": "Potenciais padrão de redução",
+   "microconteudo": "RAIO-X DA PROVA: Assunto do edital de Ciências da Natureza. A interpretação de dados ajuda a resolver situações-problema sobre esse conteúdo.\n\nPOR QUE IMPORTA:\nPotenciais padrão de redução ajuda a traduzir observações e símbolos em explicações que você pode conferir. Nesta lição, você vai praticar a leitura de dados e justificar o resultado.\n\nO QUE A BANCA COBRA:\nIdentifique o que o problema descreve e escolha a conclusão explicada pelos dados. Revise a unidade, a entidade representada e as condições de aplicação quando elas fizerem parte do problema.\n\nENTENDA:\nPotenciais padrão de redução são referidos a um eletrodo de referência, convencionalmente o eletrodo padrão de hidrogênio. Para uma pilha padrão, subtraia o potencial de redução do ânodo do potencial de redução do cátodo. Multiplicar uma semirreação para acertar elétrons não multiplica seu potencial.\n\nSe Cu²⁺/Cu tem E° = +0,34 V e Zn²⁺/Zn tem E° = −0,76 V, a pilha padrão que reduz Cu²⁺ e oxida Zn apresenta E° = 0,34 − (−0,76) = 1,10 V. O sinal positivo indica favorecimento termodinâmico no sentido escrito sob as condições padrão.\n\nO padrão fixa estados de referência, e a tabela pode indicar uma temperatura específica. Um valor negativo na tabela não torna impossível a redução daquela espécie. Se o outro par tiver potencial ainda menor, a primeira espécie pode ocupar o cátodo em uma combinação espontânea. A comparação deve incluir os dois pares. Ao calcular a tensão, use a mesma convenção para todos os potenciais. Se mudar uma tabela de redução para escrever a semirreação de oxidação, inverta o sinal da contribuição. Se preferir subtrair os dois potenciais conforme tabulados, conserve os sinais originais. Fazer as duas correções ao mesmo tempo contaria a inversão duas vezes.\n\nPrimeiro caso: ligue os dados à regra\nCátodo tem +0,80 V e ânodo tem −0,40 V na tabela de redução. Qual E° da pilha?\n\nComece lendo o enunciado como um pequeno relatório. Anote em uma linha o material ou sistema descrito e, em outra, o que se quer descobrir. Essa divisão evita misturar um dado já fornecido com o resultado pedido. Escolha a regra depois de localizar o que, no texto, autoriza sua aplicação. Ao terminar, teste se a resposta ainda faz sentido ao substituir os valores ou reler a observação.\n\nResultado: +1,20 V 0,80 − (−0,40) = 1,20.\n\nCompare as hipóteses e os cálculos alternativos:\n• +0,40 V É a soma indevida dos números tabelados.\n• −1,20 V É o sentido inverso.\n• −0,40 V É o dado do ânodo.\n• 0 V Os potenciais diferem.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nSegundo caso: cuide da condição que permite a conclusão\nDois pares têm potenciais padrão de redução −0,15 V e +0,25 V. Qual par tende a sofrer redução na célula espontânea padrão?\n\nCompare as interpretações antes de escolher. Duas respostas podem usar os mesmos termos ou números e ainda se referir a grandezas diferentes. Se houver unidades, escreva a unidade junto a cada valor. Se houver contagens, diga o que está sendo contado. Se a questão for explicativa, procure a relação de causa e efeito que é compatível com as condições fornecidas. Só então feche a resposta.\n\nResultado: O de +0,25 V. É o maior potencial de redução.\n\nCompare as hipóteses e os cálculos alternativos:\n• O de −0,15 V. Tem menor tendência de redução nessa comparação.\n• Ambos sofrem redução só porque estão na tabela. Uma semirreação precisa fornecer elétrons.\n• Nenhum sofre redução. A diferença permite uma direção favorecida.\n• O de maior coeficiente obrigatoriamente. Coeficiente não determina potencial.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nTerceiro caso: confira o que a pergunta está medindo\nUma pilha ideal tem E° = +0,60 V no sentido proposto. Qual E° para a equação inversa?\n\nFaça uma primeira previsão usando palavras. Pergunte se o resultado esperado é uma contagem, uma propriedade, uma comparação ou um mecanismo. Escrever a previsão antes de olhar as alternativas ajuda a perceber quando dois valores semelhantes têm sentidos diferentes. Em seguida, explique em uma frase como o primeiro dado se conecta ao resultado. A resposta fica mais forte quando essa ligação pode ser checada no próprio enunciado.\n\nResultado: −0,60 V A inversão troca o sinal da diferença.\n\nCompare as hipóteses e os cálculos alternativos:\n• +0,60 V É o sentido original.\n• −1,20 V A magnitude não dobra.\n• +1,20 V Nem o sinal nem a escala correspondem.\n• 0 V Os pares permanecem distintos.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nQuarto caso: escolha a conclusão sustentada\nUma experiência usa concentrações diferentes das padrão. Qual cuidado ao interpretar a tabela?\n\nTente justificar a escolha para alguém que observou apenas o resultado final. Comece pelos fatos que o problema realmente fornece e mostre como a regra interpreta esses fatos. Se a conclusão depender de uma condição, mantenha essa condição na justificativa. Depois procure uma alteração pequena nos dados que exigiria outra resposta. Esse último passo ajuda a reconhecer onde termina a aplicação do raciocínio.\n\nResultado: O potencial real pode diferir do padrão. Composição e condições afetam E.\n\nCompare as hipóteses e os cálculos alternativos:\n• O valor é invariável em qualquer condição. A tabela se refere a um estado definido.\n• A tabela perde todo significado. Continua sendo referência.\n• A diferença padrão é necessariamente zero. Não depende dessa mudança experimental.\n• A concentração multiplica diretamente toda tensão. A relação não é uma escala linear geral.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nLeitura crítica 1\nUma semirreação é duplicada para balancear elétrons. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “Seu potencial padrão não dobra.” Potencial é energia por unidade de carga. A segunda é “A tensão dobra junto com os coeficientes.” Energia e carga escalam juntas.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nLeitura crítica 2\nUma pilha padrão usa tabelas de potenciais de redução. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “A expressão é E° do cátodo menos E° do ânodo.” A tabela está em convenção de redução. A segunda é “O cálculo sempre soma os dois valores tabulados.” É preciso inverter a contribuição da oxidação.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nTROCANDO EM MIÚDOS:\nComece por uma pergunta que você conseguiria fazer a um colega: o que mudou, o que ficou igual e qual informação me permite dizer isso? Em questões de Química, dá para errar mesmo lembrando a regra certa quando se usa a regra para o dado errado. Separe a situação da pergunta. Leia os símbolos em voz baixa. Se houver dois materiais ou dois momentos, dê um nome curto para cada um. Assim você consegue comparar as coisas na ordem que o texto pediu.\n\nSe Cu²⁺/Cu tem E° = +0,34 V e Zn²⁺/Zn tem E° = −0,76 V, a pilha padrão que reduz Cu²⁺ e oxida Zn apresenta E° = 0,34 − (−0,76) = 1,10 V. O sinal positivo indica favorecimento termodinâmico no sentido escrito sob as condições padrão.\n\nExperimente com este caso. Cátodo tem +0,80 V e ânodo tem −0,40 V na tabela de redução. Qual E° da pilha? A resposta é +1,20 V 0,80 − (−0,40) = 1,20. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nExperimente com este caso. Uma experiência usa concentrações diferentes das padrão. Qual cuidado ao interpretar a tabela? A resposta é O potencial real pode diferir do padrão. Composição e condições afetam E. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nFaça uma checagem que cabe no rascunho: escreva o dado, desenhe uma seta e escreva o que ele permite concluir. Se precisar de uma segunda seta, diga qual regra leva desse resultado intermediário até a resposta. Uma explicação em duas frases pode ser suficiente. A primeira conta o que o problema mostrou. A segunda diz por que esse dado leva à sua escolha. Esse caminho ajuda em problemas com tabelas, desenhos e comparações.\n\nESQUEMA:\nLeia o cenário → destaque o dado decisivo → aplique a relação → confira o que foi pedido.\n\nPEGADINHAS:\n• +0,40 V É a soma indevida dos números tabelados.\n• O de −0,15 V. Tem menor tendência de redução nessa comparação.\n• +0,60 V É o sentido original.\n• O valor é invariável em qualquer condição. A tabela se refere a um estado definido.\n\nNA PRÁTICA:\nSe Cu²⁺/Cu tem E° = +0,34 V e Zn²⁺/Zn tem E° = −0,76 V, a pilha padrão que reduz Cu²⁺ e oxida Zn apresenta E° = 0,34 − (−0,76) = 1,10 V. O sinal positivo indica favorecimento termodinâmico no sentido escrito sob as condições padrão.",
+   "flashcards": [
+    {
+     "frente": "Uma semirreação é duplicada para balancear elétrons. Seu potencial padrão não dobra. Certo ou errado?",
+     "verso": "Certo. Potencial é energia por unidade de carga.",
+     "dispositivo": "Transformações químicas e energia — Potenciais padrão de redução"
+    },
+    {
+     "frente": "Uma pilha padrão usa tabelas de potenciais de redução. A expressão é E° do cátodo menos E° do ânodo. Certo ou errado?",
+     "verso": "Certo. A tabela está em convenção de redução.",
+     "dispositivo": "Transformações químicas e energia — Potenciais padrão de redução"
+    },
+    {
+     "frente": "Cátodo tem +0,80 V e ânodo tem −0,40 V na tabela de redução. Qual E° da pilha?",
+     "verso": "+1,20 V 0,80 − (−0,40) = 1,20.",
+     "dispositivo": "Transformações químicas e energia — Potenciais padrão de redução"
+    },
+    {
+     "frente": "Dois pares têm potenciais padrão de redução −0,15 V e +0,25 V. Qual par tende a sofrer redução na célula espontânea padrão?",
+     "verso": "O de +0,25 V. É o maior potencial de redução.",
+     "dispositivo": "Transformações químicas e energia — Potenciais padrão de redução"
+    },
+    {
+     "frente": "Uma pilha ideal tem E° = +0,60 V no sentido proposto. Qual E° para a equação inversa?",
+     "verso": "−0,60 V A inversão troca o sinal da diferença.",
+     "dispositivo": "Transformações químicas e energia — Potenciais padrão de redução"
+    },
+    {
+     "frente": "Uma experiência usa concentrações diferentes das padrão. Qual cuidado ao interpretar a tabela?",
+     "verso": "O potencial real pode diferir do padrão. Composição e condições afetam E.",
+     "dispositivo": "Transformações químicas e energia — Potenciais padrão de redução"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Uma semirreação é duplicada para balancear elétrons.",
+     "enunciado": "Seu potencial padrão não dobra.",
+     "gabarito": "C",
+     "comentario": "Certo. Potencial é energia por unidade de carga.",
+     "id": "enem-potenciais-padrao-reducao-c14-q01",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Potenciais padrão de redução",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma semirreação é duplicada para balancear elétrons.",
+     "enunciado": "A tensão dobra junto com os coeficientes.",
+     "gabarito": "E",
+     "comentario": "Errado. Energia e carga escalam juntas.",
+     "id": "enem-potenciais-padrao-reducao-c14-q02",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Potenciais padrão de redução",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma pilha padrão usa tabelas de potenciais de redução.",
+     "enunciado": "A expressão é E° do cátodo menos E° do ânodo.",
+     "gabarito": "C",
+     "comentario": "Certo. A tabela está em convenção de redução.",
+     "id": "enem-potenciais-padrao-reducao-c14-q03",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Potenciais padrão de redução",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma pilha padrão usa tabelas de potenciais de redução.",
+     "enunciado": "O cálculo sempre soma os dois valores tabulados.",
+     "gabarito": "E",
+     "comentario": "Errado. É preciso inverter a contribuição da oxidação.",
+     "id": "enem-potenciais-padrao-reducao-c14-q04",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Potenciais padrão de redução",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Cátodo tem +0,80 V e ânodo tem −0,40 V na tabela de redução.",
+     "enunciado": "Qual E° da pilha?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "+1,20 V",
+      "B": "+0,40 V",
+      "C": "−1,20 V",
+      "D": "−0,40 V",
+      "E": "0 V"
+     },
+     "comentarios_por_alternativa": {
+      "A": "0,80 − (−0,40) = 1,20.",
+      "B": "É a soma indevida dos números tabelados.",
+      "C": "É o sentido inverso.",
+      "D": "É o dado do ânodo.",
+      "E": "Os potenciais diferem."
+     },
+     "comentario": "A) 0,80 − (−0,40) = 1,20.\nB) É a soma indevida dos números tabelados.\nC) É o sentido inverso.\nD) É o dado do ânodo.\nE) Os potenciais diferem.",
+     "id": "enem-potenciais-padrao-reducao-c14-q05",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Potenciais padrão de redução",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Dois pares têm potenciais padrão de redução −0,15 V e +0,25 V.",
+     "enunciado": "Qual par tende a sofrer redução na célula espontânea padrão?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "O de −0,15 V.",
+      "B": "Ambos sofrem redução só porque estão na tabela.",
+      "C": "Nenhum sofre redução.",
+      "D": "O de maior coeficiente obrigatoriamente.",
+      "E": "O de +0,25 V."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Tem menor tendência de redução nessa comparação.",
+      "B": "Uma semirreação precisa fornecer elétrons.",
+      "C": "A diferença permite uma direção favorecida.",
+      "D": "Coeficiente não determina potencial.",
+      "E": "É o maior potencial de redução."
+     },
+     "comentario": "A) Tem menor tendência de redução nessa comparação.\nB) Uma semirreação precisa fornecer elétrons.\nC) A diferença permite uma direção favorecida.\nD) Coeficiente não determina potencial.\nE) É o maior potencial de redução.",
+     "id": "enem-potenciais-padrao-reducao-c14-q06",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Potenciais padrão de redução",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma pilha ideal tem E° = +0,60 V no sentido proposto.",
+     "enunciado": "Qual E° para a equação inversa?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "+0,60 V",
+      "B": "−0,60 V",
+      "C": "−1,20 V",
+      "D": "+1,20 V",
+      "E": "0 V"
+     },
+     "comentarios_por_alternativa": {
+      "A": "É o sentido original.",
+      "B": "A inversão troca o sinal da diferença.",
+      "C": "A magnitude não dobra.",
+      "D": "Nem o sinal nem a escala correspondem.",
+      "E": "Os pares permanecem distintos."
+     },
+     "comentario": "A) É o sentido original.\nB) A inversão troca o sinal da diferença.\nC) A magnitude não dobra.\nD) Nem o sinal nem a escala correspondem.\nE) Os pares permanecem distintos.",
+     "id": "enem-potenciais-padrao-reducao-c14-q07",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Potenciais padrão de redução",
+     "dificuldade": "dificil"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma experiência usa concentrações diferentes das padrão.",
+     "enunciado": "Qual cuidado ao interpretar a tabela?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "O valor é invariável em qualquer condição.",
+      "B": "A tabela perde todo significado.",
+      "C": "A diferença padrão é necessariamente zero.",
+      "D": "O potencial real pode diferir do padrão.",
+      "E": "A concentração multiplica diretamente toda tensão."
+     },
+     "comentarios_por_alternativa": {
+      "A": "A tabela se refere a um estado definido.",
+      "B": "Continua sendo referência.",
+      "C": "Não depende dessa mudança experimental.",
+      "D": "Composição e condições afetam E.",
+      "E": "A relação não é uma escala linear geral."
+     },
+     "comentario": "A) A tabela se refere a um estado definido.\nB) Continua sendo referência.\nC) Não depende dessa mudança experimental.\nD) Composição e condições afetam E.\nE) A relação não é uma escala linear geral.",
+     "id": "enem-potenciais-padrao-reducao-c14-q08",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Potenciais padrão de redução",
+     "dificuldade": "dificil"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Dois pares têm potenciais padrão de redução −0,15 V e +0,25 V. Qual par tende a sofrer redução na célula espontânea padrão? ___",
+     "opcoes": [
+      "O de −0,15 V.",
+      "O de +0,25 V.",
+      "Ambos sofrem redução só porque estão na tabela.",
+      "Nenhum sofre redução."
+     ],
+     "respostas": [
+      "O de +0,25 V."
+     ],
+     "explicacao": "É o maior potencial de redução."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Uma pilha ideal tem E° = +0,60 V no sentido proposto. Qual E° para a equação inversa? ___",
+     "opcoes": [
+      "+0,60 V",
+      "−0,60 V",
+      "−1,20 V",
+      "+1,20 V"
+     ],
+     "respostas": [
+      "−0,60 V"
+     ],
+     "explicacao": "A inversão troca o sinal da diferença."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise do caso: Cátodo tem +0,80 V e ânodo tem −0,40 V na tabela de redução.",
+     "itens": [
+      "Localizar o que se quer descobrir: Qual E° da pilha?",
+      "Separar as informações dadas no enunciado.",
+      "Aplicar a relação adequada aos dados.",
+      "Conferir se a conclusão responde à pergunta."
+     ],
+     "explicacao": "0,80 − (−0,40) = 1,20."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Cátodo tem +0,80 V e ânodo tem −0,40 V na tabela de redução. Qual E° da pilha?",
+       "+1,20 V"
+      ],
+      [
+       "Dois pares têm potenciais padrão de redução −0,15 V e +0,25 V. Qual par tende a sofrer redução na célula espontânea padrão?",
+       "O de +0,25 V."
+      ],
+      [
+       "Uma pilha ideal tem E° = +0,60 V no sentido proposto. Qual E° para a equação inversa?",
+       "−0,60 V"
+      ],
+      [
+       "Uma experiência usa concentrações diferentes das padrão. Qual cuidado ao interpretar a tabela?",
+       "O potencial real pode diferir do padrão."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

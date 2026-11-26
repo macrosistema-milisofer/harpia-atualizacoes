@@ -1,0 +1,253 @@
+{
+ "assunto": "Leis da termodinâmica e balanço de energia",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-leis-termodinamica-c14",
+   "titulo": "Leis da termodinâmica e balanço de energia",
+   "microconteudo": "RAIO-X DA PROVA: Use a relação física indicada e confira as condições em que ela se aplica. Com W como trabalho feito pelo sistema, a primeira lei é ΔU = Q − W. A segunda lei restringe os processos espontâneos e o rendimento de máquinas.\n\nPOR QUE IMPORTA:\nAo aquecer um gás sob um êmbolo móvel, parte da energia pode aumentar sua energia interna e parte pode empurrar o êmbolo.\n\nO QUE A BANCA COBRA:\nUse a relação física indicada e confira as condições em que ela se aplica. Com W como trabalho feito pelo sistema, a primeira lei é ΔU = Q − W. A segunda lei restringe os processos espontâneos e o rendimento de máquinas.\n\nENTENDA:\nAo aquecer um gás sob um êmbolo móvel, parte da energia pode aumentar sua energia interna e parte pode empurrar o êmbolo.\n\nCom W como trabalho feito pelo sistema, a primeira lei é ΔU = Q − W. A segunda lei restringe os processos espontâneos e o rendimento de máquinas.\n\nExemplo resolvido. Um gás recebe 450 J e realiza 160 J de trabalho, aumentando sua energia interna em 290 J. Se estivesse num recipiente rígido sem outro trabalho, os mesmos 450 J aumentariam integralmente a energia interna.\n\nOutro exemplo. O ambiente fornece 230 J de trabalho por compressão a um gás isolado termicamente. Com Q = 0 e W = −230 J, a energia interna aumenta 230 J.\n\nA primeira lei permite contabilizar a energia de trajetórias diferentes entre estados. Ela não aponta, sozinha, o sentido natural de cada troca. A segunda lei permite entender por que o calor flui espontaneamente do quente para o frio e por que refrigeradores precisam de trabalho para promover o fluxo contrário.\n\nPara explicar o resultado, use o vocabulário da situação. O que afirma a lei zero? O equilíbrio térmico é transitivo. O que exprime a primeira lei? Conservação de energia para o sistema. O que restringe a segunda lei? A direção de processos espontâneos e a conversão de calor em trabalho. Quando Q é zero? Num processo adiabático. Quando o trabalho de expansão é zero? Quando o volume não varia, no modelo de trabalho pV. Qual enunciado escolar da terceira lei? A entropia de cristal perfeito tende a zero no limite de zero absoluto.\n\nNa hora de resolver no papel, siga a sequência abaixo. Definir o sistema. Declarar a convenção de sinais. Contabilizar calor e trabalho. Calcular a mudança de energia interna. Depois, escreva o resultado em uma frase completa. Um número isolado pode estar correto e, ainda assim, deixar ambíguo o que você calculou. Informe a unidade quando houver medida e identifique o objeto, a região ou o intervalo a que o resultado se refere.\n\nDeclare a convenção dos sinais. Calor recebido e trabalho realizado pelo sistema são positivos nesta lição. Isolamento térmico não impede trabalho mecânico. A terceira lei associa o limite de zero absoluto ao comportamento da entropia de cristais perfeitos.\n\nReleia os dois exemplos resolvidos e tente antecipar o desfecho sem consultar o cálculo. No primeiro exemplo, identifique qual dado determina diretamente a resposta. No segundo, diga qual condição deve permanecer válida para que a conclusão se mantenha. Compare depois o papel das unidades e do sentido das grandezas. Se o resultado for qualitativo, procure enunciar a previsão em termos observáveis. Se for quantitativo, estime a escala antes de efetuar a última operação.\n\nVocê pode adaptar a análise a uma situação do cotidiano. Comece com esta ideia: Ao aquecer um gás sob um êmbolo móvel, parte da energia pode aumentar sua energia interna e parte pode empurrar o êmbolo. Em seguida, desenhe o cenário, indique o que está sendo comparado e escreva que dado precisaria medir para testar a previsão. Diferencie a regra do modelo das informações que servem apenas para situar a história. Isso ajuda a decidir o que aproveitar quando uma questão apresenta mais dados do que a resolução exige.\n\nTrês conferências úteis: a definição corresponde ao objeto descrito? As condições indicadas no enunciado permitem aplicar a regra? A resposta continua coerente ao voltar ao desenho? Faça a última conferência lendo esta relação no contexto: Com W como trabalho feito pelo sistema, a primeira lei é ΔU = Q − W. A segunda lei restringe os processos espontâneos e o rendimento de máquinas. Uma hipótese deve ser usada dentro de sua faixa de validade; quando o contexto mudar, justifique a adaptação antes de transportar o resultado.\n\nAo treinar, explique a diferença entre o mecanismo e seu efeito. Declare a convenção dos sinais. Calor recebido e trabalho realizado pelo sistema são positivos nesta lição. Isolamento térmico não impede trabalho mecânico. A terceira lei associa o limite de zero absoluto ao comportamento da entropia de cristais perfeitos. Em um texto de prova, essa distinção pode aparecer escondida em uma frase sobre o resultado de uma medida. Identifique primeiro a causa física e depois a grandeza observada. Se for necessário comparar cenários, mude uma condição por vez para descobrir qual mudança explica a diferença.\n\nPergunte o que aconteceria se você aplicasse a regra a um desenho mais simples. Comece separando estas tarefas: Definir o sistema. Declarar a convenção de sinais. Contabilizar calor e trabalho. Calcular a mudança de energia interna. Refaça o primeiro exemplo apenas com setas ou um esquema, deixando os números para o final. Em seguida, recolha do enunciado as unidades e os sentidos. Uma seta no desenho pode indicar a direção de uma interação, a mudança de uma medida ou apenas uma referência. É importante dizer qual papel ela desempenha antes de usar a relação do começo da lição.\n\nPara consolidar, use três perguntas de revisão. O que exprime a primeira lei? Conservação de energia para o sistema. Quando Q é zero? Num processo adiabático. Qual enunciado escolar da terceira lei? A entropia de cristal perfeito tende a zero no limite de zero absoluto. A ideia é explicar essas respostas sem depender da ordem em que apareceram. Em um problema de comparação, preste atenção às palavras que mantêm algo igual entre os cenários. Em um problema de cálculo, confira a operação inversa quando possível. Por exemplo, reintroduza o resultado na relação inicial e verifique se os dados do problema são recuperados. Em uma questão qualitativa, faça o equivalente testando se a conclusão explica as condições observadas.\n\nNo fim da leitura, diga qual grandeza a pergunta solicitou e qual grandeza você usou para chegar a ela. Faça essa distinção também quando a resposta for uma direção, uma comparação ou uma interpretação histórica. Um resultado bem explicado deve poder ser lido sem adivinhar de onde ele veio.\n\nEm uma atividade de estudo, escreva primeiro uma estimativa ou previsão. Depois escolha o dado específico que vai confirmar ou contrariar essa previsão. Se duas respostas parecerem possíveis, indique qual condição extra permitiria escolher entre elas. A ideia é explicar o raciocínio, deixando claro por que a relação física é apropriada naquele contexto.\n\nTROCANDO EM MIÚDOS:\nAo aquecer um gás sob um êmbolo móvel, parte da energia pode aumentar sua energia interna e parte pode empurrar o êmbolo.\n\nCom W como trabalho feito pelo sistema, a primeira lei é ΔU = Q − W. A segunda lei restringe os processos espontâneos e o rendimento de máquinas.\n\nExemplo resolvido. Um gás recebe 450 J e realiza 160 J de trabalho, aumentando sua energia interna em 290 J. Se estivesse num recipiente rígido sem outro trabalho, os mesmos 450 J aumentariam integralmente a energia interna.\n\nOutro exemplo. O ambiente fornece 230 J de trabalho por compressão a um gás isolado termicamente. Com Q = 0 e W = −230 J, a energia interna aumenta 230 J.\n\nDeclare a convenção dos sinais. Calor recebido e trabalho realizado pelo sistema são positivos nesta lição. Isolamento térmico não impede trabalho mecânico. A terceira lei associa o limite de zero absoluto ao comportamento da entropia de cristais perfeitos.\n\nO que afirma a lei zero? O equilíbrio térmico é transitivo. O que exprime a primeira lei? Conservação de energia para o sistema. O que restringe a segunda lei? A direção de processos espontâneos e a conversão de calor em trabalho. Quando Q é zero? Num processo adiabático. Quando o trabalho de expansão é zero? Quando o volume não varia, no modelo de trabalho pV. Qual enunciado escolar da terceira lei? A entropia de cristal perfeito tende a zero no limite de zero absoluto.\n\nPara montar seu rascunho: Definir o sistema. Declarar a convenção de sinais. Contabilizar calor e trabalho. Calcular a mudança de energia interna. Na leitura final, escolha a parte do desenho que corresponde ao resultado. Se encontrar uma unidade diferente da pedida, volte ao cálculo e confira os fatores de conversão. Quando a pergunta for conceitual, confira se a explicação indica o mecanismo que liga o dado à conclusão. Você pode comparar os dois exemplos da lição antes de tentar os exercícios e explicar de memória por que cada resultado faz sentido.\n\nLEI SECA:\nCom W como trabalho feito pelo sistema, a primeira lei é ΔU = Q − W. A segunda lei restringe os processos espontâneos e o rendimento de máquinas.\n\nSÚMULAS E TESES:\nOutro exemplo. O ambiente fornece 230 J de trabalho por compressão a um gás isolado termicamente. Com Q = 0 e W = −230 J, a energia interna aumenta 230 J.\n\nESQUEMA:\nDefinir o sistema. → Declarar a convenção de sinais. → Contabilizar calor e trabalho. → Calcular a mudança de energia interna.\n\nPEGADINHAS:\nDeclare a convenção dos sinais. Calor recebido e trabalho realizado pelo sistema são positivos nesta lição. Isolamento térmico não impede trabalho mecânico. A terceira lei associa o limite de zero absoluto ao comportamento da entropia de cristais perfeitos.\n\nDOUTRINA:\nFirst Law of Thermodynamics\n\nNA PRÁTICA:\nExemplo resolvido. Um gás recebe 450 J e realiza 160 J de trabalho, aumentando sua energia interna em 290 J. Se estivesse num recipiente rígido sem outro trabalho, os mesmos 450 J aumentariam integralmente a energia interna.",
+   "flashcards": [
+    {
+     "frente": "O que afirma a lei zero?",
+     "verso": "O equilíbrio térmico é transitivo.",
+     "dispositivo": "O calor e os fenômenos térmicos — Leis da Termodinâmica"
+    },
+    {
+     "frente": "O que exprime a primeira lei?",
+     "verso": "Conservação de energia para o sistema.",
+     "dispositivo": "O calor e os fenômenos térmicos — Leis da Termodinâmica"
+    },
+    {
+     "frente": "O que restringe a segunda lei?",
+     "verso": "A direção de processos espontâneos e a conversão de calor em trabalho.",
+     "dispositivo": "O calor e os fenômenos térmicos — Leis da Termodinâmica"
+    },
+    {
+     "frente": "Quando Q é zero?",
+     "verso": "Num processo adiabático.",
+     "dispositivo": "O calor e os fenômenos térmicos — Leis da Termodinâmica"
+    },
+    {
+     "frente": "Quando o trabalho de expansão é zero?",
+     "verso": "Quando o volume não varia, no modelo de trabalho pV.",
+     "dispositivo": "O calor e os fenômenos térmicos — Leis da Termodinâmica"
+    },
+    {
+     "frente": "Qual enunciado escolar da terceira lei?",
+     "verso": "A entropia de cristal perfeito tende a zero no limite de zero absoluto.",
+     "dispositivo": "O calor e os fenômenos térmicos — Leis da Termodinâmica"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-leis-termodinamica-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Um gás recebe calor e não realiza trabalho.",
+     "enunciado": "Sua energia interna aumenta.",
+     "gabarito": "C",
+     "comentario": "Certo. ΔU = Q.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Leis da Termodinâmica"
+    },
+    {
+     "id": "enem-fisica-leis-termodinamica-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Um processo adiabático implica Q = 0.",
+     "enunciado": "O trabalho também precisa ser zero.",
+     "gabarito": "E",
+     "comentario": "Errado. Pode haver expansão ou compressão adiabática.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Leis da Termodinâmica"
+    },
+    {
+     "id": "enem-fisica-leis-termodinamica-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Um gás realiza trabalho positivo sem troca de calor.",
+     "enunciado": "Sua energia interna diminui.",
+     "gabarito": "C",
+     "comentario": "Certo. ΔU = −W.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Leis da Termodinâmica"
+    },
+    {
+     "id": "enem-fisica-leis-termodinamica-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Uma máquina tenta converter todo o calor de uma única fonte em trabalho, repetindo ciclos.",
+     "enunciado": "A segunda lei permite o processo como único efeito.",
+     "gabarito": "E",
+     "comentario": "Errado. Isso contraria a formulação de Kelvin–Planck.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Leis da Termodinâmica"
+    },
+    {
+     "id": "enem-fisica-leis-termodinamica-c14-q05",
+     "tipo": "me",
+     "texto_base": "O sistema recebe 200 J e realiza 60 J de trabalho.",
+     "enunciado": "Qual ΔU?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "+260 J",
+      "B": "+140 J",
+      "C": "−140 J",
+      "D": "+60 J",
+      "E": "0 J"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve +260 j, enquanto a situação pede +140 j. Subtraia o trabalho realizado do calor recebido.",
+      "B": "Correta. Subtraia o trabalho realizado do calor recebido.",
+      "C": "Esta opção descreve −140 j, enquanto a situação pede +140 j. Subtraia o trabalho realizado do calor recebido.",
+      "D": "Esta opção descreve +60 j, enquanto a situação pede +140 j. Subtraia o trabalho realizado do calor recebido.",
+      "E": "Esta opção descreve 0 j, enquanto a situação pede +140 j. Subtraia o trabalho realizado do calor recebido."
+     },
+     "comentario": "A) Esta opção descreve +260 j, enquanto a situação pede +140 j. Subtraia o trabalho realizado do calor recebido.\nB) Correta. Subtraia o trabalho realizado do calor recebido.\nC) Esta opção descreve −140 j, enquanto a situação pede +140 j. Subtraia o trabalho realizado do calor recebido.\nD) Esta opção descreve +60 j, enquanto a situação pede +140 j. Subtraia o trabalho realizado do calor recebido.\nE) Esta opção descreve 0 j, enquanto a situação pede +140 j. Subtraia o trabalho realizado do calor recebido.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Leis da Termodinâmica"
+    },
+    {
+     "id": "enem-fisica-leis-termodinamica-c14-q06",
+     "tipo": "me",
+     "texto_base": "Um gás adiabático é comprimido e recebe 90 J de trabalho.",
+     "enunciado": "Qual ΔU?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "−90 J",
+      "B": "0 J",
+      "C": "+180 J",
+      "D": "+90 J",
+      "E": "−180 J"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve −90 j, enquanto a situação pede +90 j. Q = 0 e W = −90 J na convenção dada.",
+      "B": "Esta opção descreve 0 j, enquanto a situação pede +90 j. Q = 0 e W = −90 J na convenção dada.",
+      "C": "Esta opção descreve +180 j, enquanto a situação pede +90 j. Q = 0 e W = −90 J na convenção dada.",
+      "D": "Correta. Q = 0 e W = −90 J na convenção dada.",
+      "E": "Esta opção descreve −180 j, enquanto a situação pede +90 j. Q = 0 e W = −90 J na convenção dada."
+     },
+     "comentario": "A) Esta opção descreve −90 j, enquanto a situação pede +90 j. Q = 0 e W = −90 J na convenção dada.\nB) Esta opção descreve 0 j, enquanto a situação pede +90 j. Q = 0 e W = −90 J na convenção dada.\nC) Esta opção descreve +180 j, enquanto a situação pede +90 j. Q = 0 e W = −90 J na convenção dada.\nD) Correta. Q = 0 e W = −90 J na convenção dada.\nE) Esta opção descreve −180 j, enquanto a situação pede +90 j. Q = 0 e W = −90 J na convenção dada.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Leis da Termodinâmica"
+    },
+    {
+     "id": "enem-fisica-leis-termodinamica-c14-q07",
+     "tipo": "me",
+     "texto_base": "A está em equilíbrio térmico com B, e B com C.",
+     "enunciado": "Que lei permite concluir que A está em equilíbrio térmico com C?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "Lei zero",
+      "B": "Primeira lei",
+      "C": "Segunda lei",
+      "D": "Terceira lei",
+      "E": "Lei de Ohm"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. A propriedade de equilíbrio é transitiva.",
+      "B": "Esta opção descreve primeira lei, enquanto a situação pede lei zero. A propriedade de equilíbrio é transitiva.",
+      "C": "Esta opção descreve segunda lei, enquanto a situação pede lei zero. A propriedade de equilíbrio é transitiva.",
+      "D": "Esta opção descreve terceira lei, enquanto a situação pede lei zero. A propriedade de equilíbrio é transitiva.",
+      "E": "Esta opção descreve lei de ohm, enquanto a situação pede lei zero. A propriedade de equilíbrio é transitiva."
+     },
+     "comentario": "A) Correta. A propriedade de equilíbrio é transitiva.\nB) Esta opção descreve primeira lei, enquanto a situação pede lei zero. A propriedade de equilíbrio é transitiva.\nC) Esta opção descreve segunda lei, enquanto a situação pede lei zero. A propriedade de equilíbrio é transitiva.\nD) Esta opção descreve terceira lei, enquanto a situação pede lei zero. A propriedade de equilíbrio é transitiva.\nE) Esta opção descreve lei de ohm, enquanto a situação pede lei zero. A propriedade de equilíbrio é transitiva.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Leis da Termodinâmica"
+    },
+    {
+     "id": "enem-fisica-leis-termodinamica-c14-q08",
+     "tipo": "me",
+     "texto_base": "Um gás completa um ciclo e recebe calor líquido de 500 J.",
+     "enunciado": "Qual o trabalho líquido feito pelo gás?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "0 J",
+      "B": "−500 J",
+      "C": "250 J",
+      "D": "1000 J",
+      "E": "500 J"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve 0 j, enquanto a situação pede 500 j. Energia interna é função de estado e ΔU = 0 no ciclo.",
+      "B": "Esta opção descreve −500 j, enquanto a situação pede 500 j. Energia interna é função de estado e ΔU = 0 no ciclo.",
+      "C": "Esta opção descreve 250 j, enquanto a situação pede 500 j. Energia interna é função de estado e ΔU = 0 no ciclo.",
+      "D": "Esta opção descreve 1000 j, enquanto a situação pede 500 j. Energia interna é função de estado e ΔU = 0 no ciclo.",
+      "E": "Correta. Energia interna é função de estado e ΔU = 0 no ciclo."
+     },
+     "comentario": "A) Esta opção descreve 0 j, enquanto a situação pede 500 j. Energia interna é função de estado e ΔU = 0 no ciclo.\nB) Esta opção descreve −500 j, enquanto a situação pede 500 j. Energia interna é função de estado e ΔU = 0 no ciclo.\nC) Esta opção descreve 250 j, enquanto a situação pede 500 j. Energia interna é função de estado e ΔU = 0 no ciclo.\nD) Esta opção descreve 1000 j, enquanto a situação pede 500 j. Energia interna é função de estado e ΔU = 0 no ciclo.\nE) Correta. Energia interna é função de estado e ΔU = 0 no ciclo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Leis da Termodinâmica"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O que afirma a lei zero? ___",
+     "opcoes": [
+      "O equilíbrio térmico é transitivo.",
+      "Conservação de energia para o sistema.",
+      "A direção de processos espontâneos e a conversão de calor em trabalho.",
+      "Num processo adiabático."
+     ],
+     "respostas": [
+      "O equilíbrio térmico é transitivo."
+     ],
+     "explicacao": "O equilíbrio térmico é transitivo."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "O que restringe a segunda lei? ___",
+     "opcoes": [
+      "A direção de processos espontâneos e a conversão de calor em trabalho.",
+      "Num processo adiabático.",
+      "Quando o volume não varia, no modelo de trabalho pV.",
+      "A entropia de cristal perfeito tende a zero no limite de zero absoluto."
+     ],
+     "respostas": [
+      "A direção de processos espontâneos e a conversão de calor em trabalho."
+     ],
+     "explicacao": "A direção de processos espontâneos e a conversão de calor em trabalho."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise de leis da termodinâmica e balanço de energia.",
+     "itens": [
+      "Definir o sistema.",
+      "Declarar a convenção de sinais.",
+      "Contabilizar calor e trabalho.",
+      "Calcular a mudança de energia interna."
+     ],
+     "explicacao": "Com W como trabalho feito pelo sistema, a primeira lei é ΔU = Q − W. A segunda lei restringe os processos espontâneos e o rendimento de máquinas."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O que afirma a lei zero?",
+       "O equilíbrio térmico é transitivo."
+      ],
+      [
+       "O que exprime a primeira lei?",
+       "Conservação de energia para o sistema."
+      ],
+      [
+       "O que restringe a segunda lei?",
+       "A direção de processos espontâneos e a conversão de calor em trabalho."
+      ],
+      [
+       "Quando Q é zero?",
+       "Num processo adiabático."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,253 @@
+{
+ "assunto": "Propriedades dos materiais e escolha de aplicações",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-propriedades-materiais-c14",
+   "titulo": "Propriedades dos materiais e escolha de aplicações",
+   "microconteudo": "RAIO-X DA PROVA: Assunto do edital de Ciências da Natureza. A interpretação de dados ajuda a resolver situações-problema sobre esse conteúdo.\n\nPOR QUE IMPORTA:\nPropriedades dos materiais e escolha de aplicações ajuda a traduzir observações e símbolos em explicações que você pode conferir. Nesta lição, você vai praticar a leitura de dados e justificar o resultado.\n\nO QUE A BANCA COBRA:\nIdentifique o que o problema descreve e escolha a conclusão explicada pelos dados. Revise a unidade, a entidade representada e as condições de aplicação quando elas fizerem parte do problema.\n\nENTENDA:\nDensidade é massa por volume. Dureza descreve resistência a risco ou penetração; tenacidade envolve capacidade de absorver energia antes de romper. Condutividade térmica e elétrica tratam de diferentes formas de transporte. Uma propriedade intensiva, como densidade de material homogêneo nas mesmas condições, independe do tamanho da amostra.\n\nUma equipe escolhe entre um polímero isolante e um metal condutor para um cabo de panela. O metal ajuda a espalhar calor na base; o polímero adequado reduz a transferência para a mão. Também importa verificar a temperatura de serviço: um material isolante pode deformar se ultrapassar seu limite.\n\nUm sensor portátil pode precisar de baixo peso, resistência a quedas e isolamento elétrico simultaneamente. Compare as propriedades usando amostras de geometria semelhante. Uma parede mais espessa pode compensar um material pouco rígido, mas aumenta a massa. Isso mostra por que a melhor decisão parte da função da peça e das condições de teste, com uma ordem de prioridade explícita.\n\nPrimeiro caso: ligue os dados à regra\nUma peça de 90 g ocupa 30 cm³. Qual sua densidade?\n\nComece lendo o enunciado como um pequeno relatório. Anote em uma linha o material ou sistema descrito e, em outra, o que se quer descobrir. Essa divisão evita misturar um dado já fornecido com o resultado pedido. Escolha a regra depois de localizar o que, no texto, autoriza sua aplicação. Ao terminar, teste se a resposta ainda faz sentido ao substituir os valores ou reler a observação.\n\nResultado: 3 g/cm³ 90/30 = 3.\n\nCompare as hipóteses e os cálculos alternativos:\n• 0,33 g/cm³ É a razão invertida.\n• 60 g/cm³ Subtração entre grandezas diferentes não calcula densidade.\n• 90 g/cm³ 90 é a massa.\n• 30 g/cm³ 30 é o volume.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nSegundo caso: cuide da condição que permite a conclusão\nUm estojo precisa proteger um sensor de contato elétrico acidental. Qual dado merece prioridade para a parede do estojo?\n\nCompare as interpretações antes de escolher. Duas respostas podem usar os mesmos termos ou números e ainda se referir a grandezas diferentes. Se houver unidades, escreva a unidade junto a cada valor. Se houver contagens, diga o que está sendo contado. Se a questão for explicativa, procure a relação de causa e efeito que é compatível com as condições fornecidas. Só então feche a resposta.\n\nResultado: Baixa condutividade elétrica. Reduz a passagem de corrente pela parede.\n\nCompare as hipóteses e os cálculos alternativos:\n• Alta densidade. Densidade por si só não mede isolamento.\n• Cor escura. A cor não estabelece condutividade.\n• Alto brilho. Brilho de superfície não garante isolamento.\n• Grande massa. Aumentar massa não troca a natureza elétrica.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nTerceiro caso: confira o que a pergunta está medindo\nUma ferramenta deve manter uma aresta em contato com superfícies abrasivas. Qual ensaio indica melhor resistência ao desgaste por riscamento?\n\nFaça uma primeira previsão usando palavras. Pergunte se o resultado esperado é uma contagem, uma propriedade, uma comparação ou um mecanismo. Escrever a previsão antes de olhar as alternativas ajuda a perceber quando dois valores semelhantes têm sentidos diferentes. Em seguida, explique em uma frase como o primeiro dado se conecta ao resultado. A resposta fica mais forte quando essa ligação pode ser checada no próprio enunciado.\n\nResultado: Ensaio de dureza. Avalia resistência localizada a deformação ou risco, conforme o método.\n\nCompare as hipóteses e os cálculos alternativos:\n• Ensaio de flutuação. Avalia comportamento associado à densidade média.\n• Medição de condutividade térmica. Avalia transferência de calor.\n• Medição de cor. Não testa a aresta.\n• Medição do volume. Não testa o riscamento.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nQuarto caso: escolha a conclusão sustentada\nUm revestimento ficará em contato frequente com água e ar. Qual comparação avalia resistência química?\n\nTente justificar a escolha para alguém que observou apenas o resultado final. Comece pelos fatos que o problema realmente fornece e mostre como a regra interpreta esses fatos. Se a conclusão depender de uma condição, mantenha essa condição na justificativa. Depois procure uma alteração pequena nos dados que exigiria outra resposta. Esse último passo ajuda a reconhecer onde termina a aplicação do raciocínio.\n\nResultado: Compare corrosão em amostras expostas nas mesmas condições. O ensaio isola melhor diferenças de comportamento.\n\nCompare as hipóteses e os cálculos alternativos:\n• Compare só a massa inicial. Ela não mede a velocidade de corrosão.\n• Compare recipientes de tamanhos diferentes sem controlar a exposição. Isso mistura efeitos.\n• Compare apenas o brilho logo após polir. O brilho inicial não mede reação ao longo do tempo.\n• Compare só a rigidez. Rigidez não descreve reação com o meio.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nLeitura crítica 1\nUm bloco homogêneo é cortado ao meio. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “Sua densidade se mantém nas mesmas condições.” Massa e volume diminuem na mesma proporção. A segunda é “Sua densidade cai à metade.” O que cai à metade são massa e volume.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nLeitura crítica 2\nDuas amostras resistem igualmente a riscos, mas uma quebra mais facilmente sob impacto. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “Dureza igual pode coexistir com tenacidades diferentes.” O risco e o impacto investigam respostas distintas. A segunda é “Resistência ao risco garante resistência idêntica a impacto.” Uma propriedade não determina a outra.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nCheque o alcance da conclusão\nDensidade é massa por volume. Dureza descreve resistência a risco ou penetração; tenacidade envolve capacidade de absorver energia antes de romper. Condutividade térmica e elétrica tratam de diferentes formas de transporte. Uma propriedade intensiva, como densidade de material homogêneo nas mesmas condições, independe do tamanho da amostra.\n\nAo estudar, escolha uma das situações acima e altere só um dado. Explique quais partes da solução continuam iguais e quais precisam ser refeitas. Num problema numérico, experimente multiplicar o dado alterado por dois e veja se a resposta dobra, diminui ou continua igual. Num problema de classificação, tente retirar a observação decisiva e veja quais hipóteses continuam compatíveis. Isso separa a regra geral da informação específica fornecida por uma questão.\n\nTROCANDO EM MIÚDOS:\nComece por uma pergunta que você conseguiria fazer a um colega: o que mudou, o que ficou igual e qual informação me permite dizer isso? Em questões de Química, dá para errar mesmo lembrando a regra certa quando se usa a regra para o dado errado. Separe a situação da pergunta. Leia os símbolos em voz baixa. Se houver dois materiais ou dois momentos, dê um nome curto para cada um. Assim você consegue comparar as coisas na ordem que o texto pediu.\n\nUma equipe escolhe entre um polímero isolante e um metal condutor para um cabo de panela. O metal ajuda a espalhar calor na base; o polímero adequado reduz a transferência para a mão. Também importa verificar a temperatura de serviço: um material isolante pode deformar se ultrapassar seu limite.\n\nExperimente com este caso. Uma peça de 90 g ocupa 30 cm³. Qual sua densidade? A resposta é 3 g/cm³ 90/30 = 3. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nExperimente com este caso. Um revestimento ficará em contato frequente com água e ar. Qual comparação avalia resistência química? A resposta é Compare corrosão em amostras expostas nas mesmas condições. O ensaio isola melhor diferenças de comportamento. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nFaça uma checagem que cabe no rascunho: escreva o dado, desenhe uma seta e escreva o que ele permite concluir. Se precisar de uma segunda seta, diga qual regra leva desse resultado intermediário até a resposta. Uma explicação em duas frases pode ser suficiente. A primeira conta o que o problema mostrou. A segunda diz por que esse dado leva à sua escolha. Esse caminho ajuda em problemas com tabelas, desenhos e comparações.\n\nESQUEMA:\nLeia o cenário → destaque o dado decisivo → aplique a relação → confira o que foi pedido.\n\nPEGADINHAS:\n• 0,33 g/cm³ É a razão invertida.\n• Alta densidade. Densidade por si só não mede isolamento.\n• Ensaio de flutuação. Avalia comportamento associado à densidade média.\n• Compare só a massa inicial. Ela não mede a velocidade de corrosão.\n\nNA PRÁTICA:\nUma equipe escolhe entre um polímero isolante e um metal condutor para um cabo de panela. O metal ajuda a espalhar calor na base; o polímero adequado reduz a transferência para a mão. Também importa verificar a temperatura de serviço: um material isolante pode deformar se ultrapassar seu limite.",
+   "flashcards": [
+    {
+     "frente": "Um bloco homogêneo é cortado ao meio. Sua densidade se mantém nas mesmas condições. Certo ou errado?",
+     "verso": "Certo. Massa e volume diminuem na mesma proporção.",
+     "dispositivo": "Materiais, suas propriedades e usos — Propriedades de materiais"
+    },
+    {
+     "frente": "Duas amostras resistem igualmente a riscos, mas uma quebra mais facilmente sob impacto. Dureza igual pode coexistir com tenacidades diferentes. Certo ou errado?",
+     "verso": "Certo. O risco e o impacto investigam respostas distintas.",
+     "dispositivo": "Materiais, suas propriedades e usos — Propriedades de materiais"
+    },
+    {
+     "frente": "Uma peça de 90 g ocupa 30 cm³. Qual sua densidade?",
+     "verso": "3 g/cm³ 90/30 = 3.",
+     "dispositivo": "Materiais, suas propriedades e usos — Propriedades de materiais"
+    },
+    {
+     "frente": "Um estojo precisa proteger um sensor de contato elétrico acidental. Qual dado merece prioridade para a parede do estojo?",
+     "verso": "Baixa condutividade elétrica. Reduz a passagem de corrente pela parede.",
+     "dispositivo": "Materiais, suas propriedades e usos — Propriedades de materiais"
+    },
+    {
+     "frente": "Uma ferramenta deve manter uma aresta em contato com superfícies abrasivas. Qual ensaio indica melhor resistência ao desgaste por riscamento?",
+     "verso": "Ensaio de dureza. Avalia resistência localizada a deformação ou risco, conforme o método.",
+     "dispositivo": "Materiais, suas propriedades e usos — Propriedades de materiais"
+    },
+    {
+     "frente": "Um revestimento ficará em contato frequente com água e ar. Qual comparação avalia resistência química?",
+     "verso": "Compare corrosão em amostras expostas nas mesmas condições. O ensaio isola melhor diferenças de comportamento.",
+     "dispositivo": "Materiais, suas propriedades e usos — Propriedades de materiais"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Um bloco homogêneo é cortado ao meio.",
+     "enunciado": "Sua densidade se mantém nas mesmas condições.",
+     "gabarito": "C",
+     "comentario": "Certo. Massa e volume diminuem na mesma proporção.",
+     "id": "enem-propriedades-materiais-c14-q01",
+     "habilidade": "H17",
+     "dispositivo": "Materiais, suas propriedades e usos — Propriedades de materiais",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um bloco homogêneo é cortado ao meio.",
+     "enunciado": "Sua densidade cai à metade.",
+     "gabarito": "E",
+     "comentario": "Errado. O que cai à metade são massa e volume.",
+     "id": "enem-propriedades-materiais-c14-q02",
+     "habilidade": "H17",
+     "dispositivo": "Materiais, suas propriedades e usos — Propriedades de materiais",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Duas amostras resistem igualmente a riscos, mas uma quebra mais facilmente sob impacto.",
+     "enunciado": "Dureza igual pode coexistir com tenacidades diferentes.",
+     "gabarito": "C",
+     "comentario": "Certo. O risco e o impacto investigam respostas distintas.",
+     "id": "enem-propriedades-materiais-c14-q03",
+     "habilidade": "H17",
+     "dispositivo": "Materiais, suas propriedades e usos — Propriedades de materiais",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Duas amostras resistem igualmente a riscos, mas uma quebra mais facilmente sob impacto.",
+     "enunciado": "Resistência ao risco garante resistência idêntica a impacto.",
+     "gabarito": "E",
+     "comentario": "Errado. Uma propriedade não determina a outra.",
+     "id": "enem-propriedades-materiais-c14-q04",
+     "habilidade": "H17",
+     "dispositivo": "Materiais, suas propriedades e usos — Propriedades de materiais",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma peça de 90 g ocupa 30 cm³.",
+     "enunciado": "Qual sua densidade?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "0,33 g/cm³",
+      "B": "60 g/cm³",
+      "C": "90 g/cm³",
+      "D": "3 g/cm³",
+      "E": "30 g/cm³"
+     },
+     "comentarios_por_alternativa": {
+      "A": "É a razão invertida.",
+      "B": "Subtração entre grandezas diferentes não calcula densidade.",
+      "C": "90 é a massa.",
+      "D": "90/30 = 3.",
+      "E": "30 é o volume."
+     },
+     "comentario": "A) É a razão invertida.\nB) Subtração entre grandezas diferentes não calcula densidade.\nC) 90 é a massa.\nD) 90/30 = 3.\nE) 30 é o volume.",
+     "id": "enem-propriedades-materiais-c14-q05",
+     "habilidade": "H17",
+     "dispositivo": "Materiais, suas propriedades e usos — Propriedades de materiais",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um estojo precisa proteger um sensor de contato elétrico acidental.",
+     "enunciado": "Qual dado merece prioridade para a parede do estojo?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "Baixa condutividade elétrica.",
+      "B": "Alta densidade.",
+      "C": "Cor escura.",
+      "D": "Alto brilho.",
+      "E": "Grande massa."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Reduz a passagem de corrente pela parede.",
+      "B": "Densidade por si só não mede isolamento.",
+      "C": "A cor não estabelece condutividade.",
+      "D": "Brilho de superfície não garante isolamento.",
+      "E": "Aumentar massa não troca a natureza elétrica."
+     },
+     "comentario": "A) Reduz a passagem de corrente pela parede.\nB) Densidade por si só não mede isolamento.\nC) A cor não estabelece condutividade.\nD) Brilho de superfície não garante isolamento.\nE) Aumentar massa não troca a natureza elétrica.",
+     "id": "enem-propriedades-materiais-c14-q06",
+     "habilidade": "H17",
+     "dispositivo": "Materiais, suas propriedades e usos — Propriedades de materiais",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma ferramenta deve manter uma aresta em contato com superfícies abrasivas.",
+     "enunciado": "Qual ensaio indica melhor resistência ao desgaste por riscamento?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Ensaio de flutuação.",
+      "B": "Medição de condutividade térmica.",
+      "C": "Medição de cor.",
+      "D": "Medição do volume.",
+      "E": "Ensaio de dureza."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Avalia comportamento associado à densidade média.",
+      "B": "Avalia transferência de calor.",
+      "C": "Não testa a aresta.",
+      "D": "Não testa o riscamento.",
+      "E": "Avalia resistência localizada a deformação ou risco, conforme o método."
+     },
+     "comentario": "A) Avalia comportamento associado à densidade média.\nB) Avalia transferência de calor.\nC) Não testa a aresta.\nD) Não testa o riscamento.\nE) Avalia resistência localizada a deformação ou risco, conforme o método.",
+     "id": "enem-propriedades-materiais-c14-q07",
+     "habilidade": "H17",
+     "dispositivo": "Materiais, suas propriedades e usos — Propriedades de materiais",
+     "dificuldade": "dificil"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um revestimento ficará em contato frequente com água e ar.",
+     "enunciado": "Qual comparação avalia resistência química?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "Compare só a massa inicial.",
+      "B": "Compare corrosão em amostras expostas nas mesmas condições.",
+      "C": "Compare recipientes de tamanhos diferentes sem controlar a exposição.",
+      "D": "Compare apenas o brilho logo após polir.",
+      "E": "Compare só a rigidez."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Ela não mede a velocidade de corrosão.",
+      "B": "O ensaio isola melhor diferenças de comportamento.",
+      "C": "Isso mistura efeitos.",
+      "D": "O brilho inicial não mede reação ao longo do tempo.",
+      "E": "Rigidez não descreve reação com o meio."
+     },
+     "comentario": "A) Ela não mede a velocidade de corrosão.\nB) O ensaio isola melhor diferenças de comportamento.\nC) Isso mistura efeitos.\nD) O brilho inicial não mede reação ao longo do tempo.\nE) Rigidez não descreve reação com o meio.",
+     "id": "enem-propriedades-materiais-c14-q08",
+     "habilidade": "H17",
+     "dispositivo": "Materiais, suas propriedades e usos — Propriedades de materiais",
+     "dificuldade": "dificil"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Um estojo precisa proteger um sensor de contato elétrico acidental. Qual dado merece prioridade para a parede do estojo? ___",
+     "opcoes": [
+      "Alta densidade.",
+      "Baixa condutividade elétrica.",
+      "Cor escura.",
+      "Alto brilho."
+     ],
+     "respostas": [
+      "Baixa condutividade elétrica."
+     ],
+     "explicacao": "Reduz a passagem de corrente pela parede."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Uma ferramenta deve manter uma aresta em contato com superfícies abrasivas. Qual ensaio indica melhor resistência ao desgaste por riscamento? ___",
+     "opcoes": [
+      "Ensaio de flutuação.",
+      "Ensaio de dureza.",
+      "Medição de condutividade térmica.",
+      "Medição de cor."
+     ],
+     "respostas": [
+      "Ensaio de dureza."
+     ],
+     "explicacao": "Avalia resistência localizada a deformação ou risco, conforme o método."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise do caso: Uma peça de 90 g ocupa 30 cm³.",
+     "itens": [
+      "Localizar o que se quer descobrir: Qual sua densidade?",
+      "Separar as informações dadas no enunciado.",
+      "Aplicar a relação adequada aos dados.",
+      "Conferir se a conclusão responde à pergunta."
+     ],
+     "explicacao": "90/30 = 3."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Uma peça de 90 g ocupa 30 cm³. Qual sua densidade?",
+       "3 g/cm³"
+      ],
+      [
+       "Um estojo precisa proteger um sensor de contato elétrico acidental. Qual dado merece prioridade para a parede do estojo?",
+       "Baixa condutividade elétrica."
+      ],
+      [
+       "Uma ferramenta deve manter uma aresta em contato com superfícies abrasivas. Qual ensaio indica melhor resistência ao desgaste por riscamento?",
+       "Ensaio de dureza."
+      ],
+      [
+       "Um revestimento ficará em contato frequente com água e ar. Qual comparação avalia resistência química?",
+       "Compare corrosão em amostras expostas nas mesmas condições."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

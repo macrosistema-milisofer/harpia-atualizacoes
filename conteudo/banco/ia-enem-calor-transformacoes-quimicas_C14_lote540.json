@@ -1,0 +1,253 @@
+{
+ "assunto": "Transformações químicas e calor de reação",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-calor-transformacoes-quimicas-c14",
+   "titulo": "Transformações químicas e calor de reação",
+   "microconteudo": "RAIO-X DA PROVA: Assunto do edital de Ciências da Natureza. A interpretação de dados ajuda a resolver situações-problema sobre esse conteúdo.\n\nPOR QUE IMPORTA:\nTransformações químicas e calor de reação ajuda a traduzir observações e símbolos em explicações que você pode conferir. Nesta lição, você vai praticar a leitura de dados e justificar o resultado.\n\nO QUE A BANCA COBRA:\nIdentifique o que o problema descreve e escolha a conclusão explicada pelos dados. Revise a unidade, a entidade representada e as condições de aplicação quando elas fizerem parte do problema.\n\nENTENDA:\nCalor é energia em trânsito devido a diferença de temperatura. Numa reação exotérmica é liberado pelo sistema para a vizinhança; numa endotérmica é absorvido. Em calorímetro simples, a variação de temperatura do líquido permite estimar o calor transferido. Para uma massa m e calor específico c, vale q = mcΔT quando c pode ser tratado como constante e não ocorre mudança de fase.\n\nEm um calorímetro isolado ideal, a solução ao redor da reação aquece 4 °C. Se a solução absorve 800 J e os demais componentes absorvem energia desprezível, a reação libera cerca de 800 J. O sinal depende do lado para o qual se escreve o balanço.\n\nÉ possível converter a leitura do calorímetro para uma base molar. Divida o calor atribuído à reação pela quantidade efetivamente consumida do reagente de referência, respeitando a estequiometria. Se dobrar a quantidade que reage nas mesmas condições, o calor total idealizado dobra. Já o calor por mol pode permanecer igual, desde que estados e processo sejam equivalentes.\n\nPrimeiro caso: ligue os dados à regra\nUma solução de 100 g tem c = 4 J/(g·°C) e sua temperatura sobe 5 °C. Qual q da solução?\n\nComece lendo o enunciado como um pequeno relatório. Anote em uma linha o material ou sistema descrito e, em outra, o que se quer descobrir. Essa divisão evita misturar um dado já fornecido com o resultado pedido. Escolha a regra depois de localizar o que, no texto, autoriza sua aplicação. Ao terminar, teste se a resposta ainda faz sentido ao substituir os valores ou reler a observação.\n\nResultado: +2000 J 100 × 4 × 5 = 2000.\n\nCompare as hipóteses e os cálculos alternativos:\n• −2000 J A solução aqueceu.\n• +20 J Faltou a massa.\n• +500 J Faltou o calor específico.\n• +200 J O produto informado é dez vezes maior.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nSegundo caso: cuide da condição que permite a conclusão\nUma reação libera 60 kJ por mol. Considere 0,5 mol na mesma condição. Quanto calor o sistema libera?\n\nCompare as interpretações antes de escolher. Duas respostas podem usar os mesmos termos ou números e ainda se referir a grandezas diferentes. Se houver unidades, escreva a unidade junto a cada valor. Se houver contagens, diga o que está sendo contado. Se a questão for explicativa, procure a relação de causa e efeito que é compatível com as condições fornecidas. Só então feche a resposta.\n\nResultado: 30 kJ Multiplique 60 por 0,5.\n\nCompare as hipóteses e os cálculos alternativos:\n• 120 kJ Essa seria a liberação para 2 mol.\n• 60 kJ É o valor para 1 mol.\n• 0,5 kJ Confunde quantidade de matéria com energia.\n• Nenhum calor. A reação é exotérmica.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nTerceiro caso: confira o que a pergunta está medindo\nUm calorímetro perde parte do calor para o ar durante reação exotérmica. Qual efeito pode ter usar apenas o aquecimento do líquido na estimativa?\n\nFaça uma primeira previsão usando palavras. Pergunte se o resultado esperado é uma contagem, uma propriedade, uma comparação ou um mecanismo. Escrever a previsão antes de olhar as alternativas ajuda a perceber quando dois valores semelhantes têm sentidos diferentes. Em seguida, explique em uma frase como o primeiro dado se conecta ao resultado. A resposta fica mais forte quando essa ligação pode ser checada no próprio enunciado.\n\nResultado: Subestimar a energia liberada em módulo. Parte sai por caminho que ficou fora da conta.\n\nCompare as hipóteses e os cálculos alternativos:\n• Superestimar necessariamente. O calor que escapa reduz o aquecimento medido.\n• Medir toda a energia automaticamente. A fuga de calor é uma fonte de erro.\n• Inverter obrigatoriamente o sinal físico. A fuga não torna a reação endotérmica.\n• Eliminar a necessidade de controlar condições. O ambiente precisa ser considerado.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nQuarto caso: escolha a conclusão sustentada\nUm experimento tem duas demonstrações, uma reação e uma mudança de estado. Que afirmação se aplica às duas?\n\nTente justificar a escolha para alguém que observou apenas o resultado final. Comece pelos fatos que o problema realmente fornece e mostre como a regra interpreta esses fatos. Se a conclusão depender de uma condição, mantenha essa condição na justificativa. Depois procure uma alteração pequena nos dados que exigiria outra resposta. Esse último passo ajuda a reconhecer onde termina a aplicação do raciocínio.\n\nResultado: Pode haver troca de calor mesmo quando a composição não muda. Mudanças físicas também podem absorver ou liberar energia.\n\nCompare as hipóteses e os cálculos alternativos:\n• Toda troca de calor implica reação. A fusão é um contraexemplo.\n• Toda reação mantém a temperatura fixa. Isso depende das condições.\n• Somente a mudança de estado envolve energia. A reação também pode transferir energia.\n• Qualquer aumento de temperatura é prova isolada de novas substâncias. Há explicações físicas para aquecimento.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nLeitura crítica 1\nUma reação aquece o líquido ao redor num calorímetro isolado ideal. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “O líquido recebeu energia.” Sua variação positiva indica q do líquido positivo. A segunda é “A reação também teve q positivo pelo mesmo motivo.” Ela transferiu energia ao líquido.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nLeitura crítica 2\nUm processo reage absorvendo calor da vizinhança. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “É endotérmico para o sistema.” O calor entra no sistema. A segunda é “É exotérmico porque a vizinhança perde energia.” O nome segue a perspectiva do sistema.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nTROCANDO EM MIÚDOS:\nComece por uma pergunta que você conseguiria fazer a um colega: o que mudou, o que ficou igual e qual informação me permite dizer isso? Em questões de Química, dá para errar mesmo lembrando a regra certa quando se usa a regra para o dado errado. Separe a situação da pergunta. Leia os símbolos em voz baixa. Se houver dois materiais ou dois momentos, dê um nome curto para cada um. Assim você consegue comparar as coisas na ordem que o texto pediu.\n\nEm um calorímetro isolado ideal, a solução ao redor da reação aquece 4 °C. Se a solução absorve 800 J e os demais componentes absorvem energia desprezível, a reação libera cerca de 800 J. O sinal depende do lado para o qual se escreve o balanço.\n\nExperimente com este caso. Uma solução de 100 g tem c = 4 J/(g·°C) e sua temperatura sobe 5 °C. Qual q da solução? A resposta é +2000 J 100 × 4 × 5 = 2000. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nExperimente com este caso. Um experimento tem duas demonstrações, uma reação e uma mudança de estado. Que afirmação se aplica às duas? A resposta é Pode haver troca de calor mesmo quando a composição não muda. Mudanças físicas também podem absorver ou liberar energia. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nFaça uma checagem que cabe no rascunho: escreva o dado, desenhe uma seta e escreva o que ele permite concluir. Se precisar de uma segunda seta, diga qual regra leva desse resultado intermediário até a resposta. Uma explicação em duas frases pode ser suficiente. A primeira conta o que o problema mostrou. A segunda diz por que esse dado leva à sua escolha. Esse caminho ajuda em problemas com tabelas, desenhos e comparações.\n\nESQUEMA:\nLeia o cenário → destaque o dado decisivo → aplique a relação → confira o que foi pedido.\n\nPEGADINHAS:\n• −2000 J A solução aqueceu.\n• 120 kJ Essa seria a liberação para 2 mol.\n• Superestimar necessariamente. O calor que escapa reduz o aquecimento medido.\n• Toda troca de calor implica reação. A fusão é um contraexemplo.\n\nNA PRÁTICA:\nEm um calorímetro isolado ideal, a solução ao redor da reação aquece 4 °C. Se a solução absorve 800 J e os demais componentes absorvem energia desprezível, a reação libera cerca de 800 J. O sinal depende do lado para o qual se escreve o balanço.",
+   "flashcards": [
+    {
+     "frente": "Uma reação aquece o líquido ao redor num calorímetro isolado ideal. O líquido recebeu energia. Certo ou errado?",
+     "verso": "Certo. Sua variação positiva indica q do líquido positivo.",
+     "dispositivo": "Transformações químicas e energia — Transformações químicas e energia calorífica"
+    },
+    {
+     "frente": "Um processo reage absorvendo calor da vizinhança. É endotérmico para o sistema. Certo ou errado?",
+     "verso": "Certo. O calor entra no sistema.",
+     "dispositivo": "Transformações químicas e energia — Transformações químicas e energia calorífica"
+    },
+    {
+     "frente": "Uma solução de 100 g tem c = 4 J/(g·°C) e sua temperatura sobe 5 °C. Qual q da solução?",
+     "verso": "+2000 J 100 × 4 × 5 = 2000.",
+     "dispositivo": "Transformações químicas e energia — Transformações químicas e energia calorífica"
+    },
+    {
+     "frente": "Uma reação libera 60 kJ por mol. Considere 0,5 mol na mesma condição. Quanto calor o sistema libera?",
+     "verso": "30 kJ Multiplique 60 por 0,5.",
+     "dispositivo": "Transformações químicas e energia — Transformações químicas e energia calorífica"
+    },
+    {
+     "frente": "Um calorímetro perde parte do calor para o ar durante reação exotérmica. Qual efeito pode ter usar apenas o aquecimento do líquido na estimativa?",
+     "verso": "Subestimar a energia liberada em módulo. Parte sai por caminho que ficou fora da conta.",
+     "dispositivo": "Transformações químicas e energia — Transformações químicas e energia calorífica"
+    },
+    {
+     "frente": "Um experimento tem duas demonstrações, uma reação e uma mudança de estado. Que afirmação se aplica às duas?",
+     "verso": "Pode haver troca de calor mesmo quando a composição não muda. Mudanças físicas também podem absorver ou liberar energia.",
+     "dispositivo": "Transformações químicas e energia — Transformações químicas e energia calorífica"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Uma reação aquece o líquido ao redor num calorímetro isolado ideal.",
+     "enunciado": "O líquido recebeu energia.",
+     "gabarito": "C",
+     "comentario": "Certo. Sua variação positiva indica q do líquido positivo.",
+     "id": "enem-calor-transformacoes-quimicas-c14-q01",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Transformações químicas e energia calorífica",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma reação aquece o líquido ao redor num calorímetro isolado ideal.",
+     "enunciado": "A reação também teve q positivo pelo mesmo motivo.",
+     "gabarito": "E",
+     "comentario": "Errado. Ela transferiu energia ao líquido.",
+     "id": "enem-calor-transformacoes-quimicas-c14-q02",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Transformações químicas e energia calorífica",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um processo reage absorvendo calor da vizinhança.",
+     "enunciado": "É endotérmico para o sistema.",
+     "gabarito": "C",
+     "comentario": "Certo. O calor entra no sistema.",
+     "id": "enem-calor-transformacoes-quimicas-c14-q03",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Transformações químicas e energia calorífica",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um processo reage absorvendo calor da vizinhança.",
+     "enunciado": "É exotérmico porque a vizinhança perde energia.",
+     "gabarito": "E",
+     "comentario": "Errado. O nome segue a perspectiva do sistema.",
+     "id": "enem-calor-transformacoes-quimicas-c14-q04",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Transformações químicas e energia calorífica",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma solução de 100 g tem c = 4 J/(g·°C) e sua temperatura sobe 5 °C.",
+     "enunciado": "Qual q da solução?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "−2000 J",
+      "B": "+2000 J",
+      "C": "+20 J",
+      "D": "+500 J",
+      "E": "+200 J"
+     },
+     "comentarios_por_alternativa": {
+      "A": "A solução aqueceu.",
+      "B": "100 × 4 × 5 = 2000.",
+      "C": "Faltou a massa.",
+      "D": "Faltou o calor específico.",
+      "E": "O produto informado é dez vezes maior."
+     },
+     "comentario": "A) A solução aqueceu.\nB) 100 × 4 × 5 = 2000.\nC) Faltou a massa.\nD) Faltou o calor específico.\nE) O produto informado é dez vezes maior.",
+     "id": "enem-calor-transformacoes-quimicas-c14-q05",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Transformações químicas e energia calorífica",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma reação libera 60 kJ por mol. Considere 0,5 mol na mesma condição.",
+     "enunciado": "Quanto calor o sistema libera?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "120 kJ",
+      "B": "60 kJ",
+      "C": "0,5 kJ",
+      "D": "30 kJ",
+      "E": "Nenhum calor."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Essa seria a liberação para 2 mol.",
+      "B": "É o valor para 1 mol.",
+      "C": "Confunde quantidade de matéria com energia.",
+      "D": "Multiplique 60 por 0,5.",
+      "E": "A reação é exotérmica."
+     },
+     "comentario": "A) Essa seria a liberação para 2 mol.\nB) É o valor para 1 mol.\nC) Confunde quantidade de matéria com energia.\nD) Multiplique 60 por 0,5.\nE) A reação é exotérmica.",
+     "id": "enem-calor-transformacoes-quimicas-c14-q06",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Transformações químicas e energia calorífica",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um calorímetro perde parte do calor para o ar durante reação exotérmica.",
+     "enunciado": "Qual efeito pode ter usar apenas o aquecimento do líquido na estimativa?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "Subestimar a energia liberada em módulo.",
+      "B": "Superestimar necessariamente.",
+      "C": "Medir toda a energia automaticamente.",
+      "D": "Inverter obrigatoriamente o sinal físico.",
+      "E": "Eliminar a necessidade de controlar condições."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Parte sai por caminho que ficou fora da conta.",
+      "B": "O calor que escapa reduz o aquecimento medido.",
+      "C": "A fuga de calor é uma fonte de erro.",
+      "D": "A fuga não torna a reação endotérmica.",
+      "E": "O ambiente precisa ser considerado."
+     },
+     "comentario": "A) Parte sai por caminho que ficou fora da conta.\nB) O calor que escapa reduz o aquecimento medido.\nC) A fuga de calor é uma fonte de erro.\nD) A fuga não torna a reação endotérmica.\nE) O ambiente precisa ser considerado.",
+     "id": "enem-calor-transformacoes-quimicas-c14-q07",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Transformações químicas e energia calorífica",
+     "dificuldade": "dificil"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um experimento tem duas demonstrações, uma reação e uma mudança de estado.",
+     "enunciado": "Que afirmação se aplica às duas?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Toda troca de calor implica reação.",
+      "B": "Toda reação mantém a temperatura fixa.",
+      "C": "Somente a mudança de estado envolve energia.",
+      "D": "Qualquer aumento de temperatura é prova isolada de novas substâncias.",
+      "E": "Pode haver troca de calor mesmo quando a composição não muda."
+     },
+     "comentarios_por_alternativa": {
+      "A": "A fusão é um contraexemplo.",
+      "B": "Isso depende das condições.",
+      "C": "A reação também pode transferir energia.",
+      "D": "Há explicações físicas para aquecimento.",
+      "E": "Mudanças físicas também podem absorver ou liberar energia."
+     },
+     "comentario": "A) A fusão é um contraexemplo.\nB) Isso depende das condições.\nC) A reação também pode transferir energia.\nD) Há explicações físicas para aquecimento.\nE) Mudanças físicas também podem absorver ou liberar energia.",
+     "id": "enem-calor-transformacoes-quimicas-c14-q08",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Transformações químicas e energia calorífica",
+     "dificuldade": "dificil"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Uma reação libera 60 kJ por mol. Considere 0,5 mol na mesma condição. Quanto calor o sistema libera? ___",
+     "opcoes": [
+      "120 kJ",
+      "30 kJ",
+      "60 kJ",
+      "0,5 kJ"
+     ],
+     "respostas": [
+      "30 kJ"
+     ],
+     "explicacao": "Multiplique 60 por 0,5."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Um calorímetro perde parte do calor para o ar durante reação exotérmica. Qual efeito pode ter usar apenas o aquecimento do líquido na estimativa? ___",
+     "opcoes": [
+      "Superestimar necessariamente.",
+      "Subestimar a energia liberada em módulo.",
+      "Medir toda a energia automaticamente.",
+      "Inverter obrigatoriamente o sinal físico."
+     ],
+     "respostas": [
+      "Subestimar a energia liberada em módulo."
+     ],
+     "explicacao": "Parte sai por caminho que ficou fora da conta."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise do caso: Uma solução de 100 g tem c = 4 J/(g·°C) e sua temperatura sobe 5 °C.",
+     "itens": [
+      "Localizar o que se quer descobrir: Qual q da solução?",
+      "Separar as informações dadas no enunciado.",
+      "Aplicar a relação adequada aos dados.",
+      "Conferir se a conclusão responde à pergunta."
+     ],
+     "explicacao": "100 × 4 × 5 = 2000."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Uma solução de 100 g tem c = 4 J/(g·°C) e sua temperatura sobe 5 °C. Qual q da solução?",
+       "+2000 J"
+      ],
+      [
+       "Uma reação libera 60 kJ por mol. Considere 0,5 mol na mesma condição. Quanto calor o sistema libera?",
+       "30 kJ"
+      ],
+      [
+       "Um calorímetro perde parte do calor para o ar durante reação exotérmica. Qual efeito pode ter usar apenas o aquecimento do líquido na estimativa?",
+       "Subestimar a energia liberada em módulo."
+      ],
+      [
+       "Um experimento tem duas demonstrações, uma reação e uma mudança de estado. Que afirmação se aplica às duas?",
+       "Pode haver troca de calor mesmo quando a composição não muda."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

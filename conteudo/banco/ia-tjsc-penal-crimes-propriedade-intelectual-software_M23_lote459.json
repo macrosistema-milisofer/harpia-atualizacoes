@@ -1,0 +1,221 @@
+{
+ "assunto": "Crimes contra direitos autorais de programa de computador",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tjsc-penal-crimes-propriedade-intelectual-software",
+   "titulo": "Crimes contra direitos autorais de programa de computador",
+   "microconteudo": "RAIO-X DA PROVA: Identifique o direito autoral atingido e a licença. Distinga violação simples, reprodução para comércio e circulação comercial de cópia infratora.\n\nO QUE A BANCA COBRA:\nIdentifique o direito autoral atingido e a licença. Distinga violação simples, reprodução para comércio e circulação comercial de cópia infratora.\n\nENTENDA:\n1. Objeto da tutela. A Lei 9.609/1998 protege o programa de computador pelo regime de direitos autorais, com adaptações próprias. A tutela se refere à expressão do conjunto de instruções, na forma legal. Uma ideia de produto, uma funcionalidade geral ou requisito de mercado não equivale por si à expressão protegida de um programa. Em comparação entre dois sistemas, identifique qual componente seria objeto de cópia, que elementos são comuns por necessidade funcional e quais evidências demonstram apropriação da expressão de titular alheio. Uma coincidência de finalidade comercial pode justificar investigação, mas não prova reprodução. A análise penal exige vínculo entre a expressão protegida e a conduta atribuída ao agente.\n\n2. Titularidade, autoria e licenciamento. A proteção independe de registro. Registros, contratos, históricos de desenvolvimento e documentos de cessão podem ajudar a demonstrar titularidade. O art. 4º prevê regras para programas desenvolvidos no âmbito de contrato de trabalho, serviço ou vínculo estatutário, nas condições ali indicadas e observada eventual estipulação em contrário. Tenha em conta objeto do vínculo, atribuições do desenvolvedor e recursos usados. O art. 9º prevê licença de uso. Na eventual falta do contrato, o documento fiscal de aquisição ou licenciamento da cópia serve para comprovar regularidade do uso. Verifique a versão, o período, as pessoas autorizadas e a modalidade de uso. Comprar acesso a uma versão não significa adquirir direitos de reprodução comercial ou titularidade do programa.\n\n3. Violação simples. O art. 12, caput, pune violar direitos de autor de programa de computador, com detenção de seis meses a dois anos ou multa. É necessário identificar o direito infringido e demonstrar dever, autorização e conduta. Infração contratual, falha administrativa e responsabilidade penal devem ser distinguidas. Por exemplo, divergência sobre pagamento de suporte ou data de manutenção pode ter solução contratual mesmo quando o uso do programa está autorizado. Já a existência de contrato não impede apurar violação se a autorização não cobre o ato atribuído. Examine o conteúdo da licença, a atribuição pessoal da conduta e o elemento subjetivo. A titularidade civil do programa precisa ser relacionada ao direito precisamente invocado no caso.\n\n4. Reprodução para comércio. O § 1º alcança reprodução total ou parcial por qualquer meio, para fins de comércio, sem autorização expressa do autor ou de seu representante. A pena é de reclusão de um a quatro anos e multa. O caráter parcial da reprodução não exclui o tipo, desde que haja demonstração da parcela protegida e das demais elementares. A finalidade comercial deve ser provada por circunstâncias como oferta, contratos ou destinação do material, conforme o caso. A venda efetivamente concluída não é elemento do verbo reproduzir. Uma acusação deve mostrar qual ato corresponde à formação da cópia e por que a finalidade comercial é atribuível ao acusado. Em prova, diferencie finalidade comercial de simples uso organizacional interno, que exige exame próprio.\n\n5. Circulação comercial de programa infrator. O § 2º aplica a mesma pena às condutas ali enumeradas de vender, expor à venda, introduzir no país, adquirir, ocultar ou ter em depósito, para fins de comércio, original ou cópia de programa produzido com violação autoral. Aqui, a questão é a prática de um núcleo de circulação, aquisição ou guarda com os elementos legais. A prova deve estabelecer a origem irregular do programa, a destinação comercial e a relação da pessoa com o ato. A reprodução sem autorização e a comercialização podem ocorrer em etapas distintas e ser atribuídas a pessoas diferentes. Se ambos os núcleos forem atribuídos à mesma pessoa, examine contexto, unidade do fato e eventual concurso de crimes sem duplicar automaticamente a imputação.\n\n6. Limites da proteção e autorização. O art. 6º enumera hipóteses que não constituem ofensa, inclusive cópia de salvaguarda de exemplar legitimamente adquirido nas condições da lei, citação parcial para fins didáticos observada a identificação e certas semelhanças determinadas por características funcionais, normas técnicas ou limitação de alternativas de expressão. Há também hipótese específica de integração a sistema, nas condições indicadas. Verifique se o enunciado traz exemplar legítimo e finalidade compatível. Um código oferecido sob licença livre pode ter condições de distribuição ou atribuição. A disponibilidade pública não significa, por si, renúncia do titular a qualquer direito. Ao mesmo tempo, eventual descumprimento de cláusula deve ser examinado conforme sua natureza, sem tratar automaticamente toda divergência contratual como crime.\n\n7. Ação penal, vistoria e tutela civil. Pela regra do § 3º do art. 12, os delitos são processados mediante queixa. As exceções abrangem prejuízo às entidades públicas indicadas e hipóteses de sonegação, perda de arrecadação ou prática de crimes contra a ordem tributária ou relações de consumo decorrentes do fato, nos termos legais. Identifique a vítima e verifique se a exceção é realmente aplicável. O art. 13 dispõe sobre vistoria prévia à ação penal e às diligências preliminares de busca e apreensão. A documentação técnica precisa permitir verificar versões, correspondência do programa e regularidade de licenças. Já o art. 14 admite tutela civil para impedir o ato e cumulação com perdas e danos mesmo independentemente da ação penal. Informações confidenciais apresentadas em juízo recebem o tratamento de segredo previsto na lei. A preservação da prova deve proteger a integridade dos registros, a confidencialidade e a possibilidade de contraditório. Uma comparação técnica deve indicar o que foi examinado e como se chegou à conclusão, sem depender exclusivamente de semelhança visual. Se as versões são diferentes ou a documentação da cadeia de titularidade é incompleta, essas limitações precisam aparecer na avaliação.\n\nTROCANDO EM MIÚDOS:\nUma empresa tem contrato que permite usar determinado programa em suas estações de trabalho. Uma auditoria encontra uma versão diferente em parte dos equipamentos. Antes de classificar o fato, confira se a licença inclui a versão, quais dispositivos eram autorizados e quem instalou ou manteve o programa. A divergência entre a informação contratual e o inventário de máquinas pode ser explicada por migração, atualização ou erro documental. Ela precisa ser apurada. Se houver prova de violação, o próximo passo é verificar se foi reprodução para comércio ou outra conduta juridicamente relevante.\n\nEm outro exemplo, uma pessoa oferece comercialmente cópias de programa que não produziu. A conduta tem de ser confrontada com o § 2º, que abrange determinadas formas de circulação de original ou cópia produzidos com violação autoral. Procure elementos de que o programa era infrator e de que havia finalidade comercial. Compare com a hipótese em que a própria pessoa produziu as cópias para venda, em que o § 1º pode ser relevante. A distinção depende dos fatos atribuídos, e não apenas da presença do programa em ambos os casos.\n\nPor fim, pense em dois programas com funcionalidades muito parecidas. Isso pode decorrer de requisitos técnicos comuns. Para afirmar violação penal, indique qual expressão foi reproduzida, de quem era o direito e que prova vincula a pessoa ao ato. A vistoria e os documentos da licença ajudam a resolver essas questões. Na resposta, separe também a medida civil para interromper eventual uso e a iniciativa da ação penal. Se a regra for queixa, a análise de prazo e legitimidade segue essa via. Se o fato atingiu alguma entidade pública descrita na lei, verifique a exceção. Uma linha para cada etapa evita deduzir toda a solução apenas da semelhança entre programas.\n\nDOUTRINA:\nCompare os elementos objetivos, a finalidade exigida e a disciplina legal de cada hipótese.\n\nPEGADINHAS:\n• A lei abrange reprodução no todo ou em parte.\n• O § 3º ressalva hipóteses legalmente enumeradas.\n\nESQUEMA:\nIdentifique o direito autoral atingido e a licença. Distinga violação simples, reprodução para comércio e circulação comercial de cópia infratora.\n\nLIGAÇÕES:\nLei 9.609/1998, arts. 1º–6º e 9º–14; Lei 9.610/1998; CP, art. 184.",
+   "flashcards": [
+    {
+     "frente": "Qual figura examinar para violação autoral sem prova das elementares comerciais dos parágrafos?",
+     "verso": "O art. 12, caput, descreve a figura básica.",
+     "dispositivo": "Lei 9.609/1998, arts. 1º–6º e 9º–14; Lei 9.610/1998; CP, art. 184"
+    },
+    {
+     "frente": "Qual figura exige reprodução para fins de comércio, sem autorização expressa?",
+     "verso": "O § 1º do art. 12 pune a reprodução total ou parcial nas condições indicadas.",
+     "dispositivo": "Lei 9.609/1998, arts. 1º–6º e 9º–14; Lei 9.610/1998; CP, art. 184"
+    },
+    {
+     "frente": "Qual figura examinar quando alguém expõe à venda cópia infratora que não produziu?",
+     "verso": "A exposição à venda para fins de comércio está na disciplina do § 2º.",
+     "dispositivo": "Lei 9.609/1998, arts. 1º–6º e 9º–14; Lei 9.610/1998; CP, art. 184"
+    },
+    {
+     "frente": "Qual categoria permite ao titular buscar ordem de abstenção nos termos do art. 14?",
+     "verso": "O art. 14 permite ação civil independentemente da ação penal.",
+     "dispositivo": "Lei 9.609/1998, arts. 1º–6º e 9º–14; Lei 9.610/1998; CP, art. 184"
+    },
+    {
+     "frente": "Qual a iniciativa penal como regra no art. 12?",
+     "verso": "Em regra procede-se mediante queixa, ressalvadas as situações do § 3º.",
+     "dispositivo": "Lei 9.609/1998, arts. 1º–6º e 9º–14; Lei 9.610/1998; CP, art. 184"
+    },
+    {
+     "frente": "Qual o papel do registro para a proteção do programa?",
+     "verso": "A proteção autoral de programa de computador independe de registro.",
+     "dispositivo": "Lei 9.609/1998, arts. 1º–6º e 9º–14; Lei 9.610/1998; CP, art. 184"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Em regra procede-se mediante queixa, ressalvadas as situações do § 3º.",
+     "gabarito": "C",
+     "comentario": "É a regra aplicável a ação penal privada.",
+     "dispositivo": "Lei 9.609/1998, arts. 1º–6º e 9º–14; Lei 9.610/1998; CP, art. 184"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O tipo do § 1º exige cópia integral do programa.",
+     "gabarito": "E",
+     "comentario": "A lei abrange reprodução no todo ou em parte.",
+     "dispositivo": "Lei 9.609/1998, arts. 1º–6º e 9º–14; Lei 9.610/1998; CP, art. 184"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A proteção autoral de programa de computador independe de registro.",
+     "gabarito": "C",
+     "comentario": "É a regra aplicável a proteção independente de registro.",
+     "dispositivo": "Lei 9.609/1998, arts. 1º–6º e 9º–14; Lei 9.610/1998; CP, art. 184"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Toda acusação do art. 12 depende de queixa, sem exceções.",
+     "gabarito": "E",
+     "comentario": "O § 3º ressalva hipóteses legalmente enumeradas.",
+     "dispositivo": "Lei 9.609/1998, arts. 1º–6º e 9º–14; Lei 9.610/1998; CP, art. 184"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Qual figura examinar para violação autoral sem prova das elementares comerciais dos parágrafos?",
+     "alternativas": {
+      "A": "Violação simples",
+      "B": "Reprodução comercial não autorizada",
+      "C": "Circulação comercial de cópia infratora",
+      "D": "Tutela civil autônoma"
+     },
+     "gabarito": "A",
+     "comentario": "A (correta). O art. 12, caput, descreve a figura básica. B (incorreta). O § 1º do art. 12 pune a reprodução total ou parcial nas condições indicadas. C (incorreta). A exposição à venda para fins de comércio está na disciplina do § 2º. D (incorreta). O art. 14 permite ação civil independentemente da ação penal.",
+     "comentarios_por_alternativa": {
+      "A": "O art. 12, caput, descreve a figura básica.",
+      "B": "O § 1º do art. 12 pune a reprodução total ou parcial nas condições indicadas.",
+      "C": "A exposição à venda para fins de comércio está na disciplina do § 2º.",
+      "D": "O art. 14 permite ação civil independentemente da ação penal."
+     },
+     "dispositivo": "Lei 9.609/1998, arts. 1º–6º e 9º–14; Lei 9.610/1998; CP, art. 184"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Qual figura exige reprodução para fins de comércio, sem autorização expressa?",
+     "alternativas": {
+      "A": "Circulação comercial de cópia infratora",
+      "B": "Reprodução comercial não autorizada",
+      "C": "Tutela civil autônoma",
+      "D": "Ação penal privada"
+     },
+     "gabarito": "B",
+     "comentario": "A (incorreta). A exposição à venda para fins de comércio está na disciplina do § 2º. B (correta). O § 1º do art. 12 pune a reprodução total ou parcial nas condições indicadas. C (incorreta). O art. 14 permite ação civil independentemente da ação penal. D (incorreta). Em regra procede-se mediante queixa, ressalvadas as situações do § 3º.",
+     "comentarios_por_alternativa": {
+      "A": "A exposição à venda para fins de comércio está na disciplina do § 2º.",
+      "B": "O § 1º do art. 12 pune a reprodução total ou parcial nas condições indicadas.",
+      "C": "O art. 14 permite ação civil independentemente da ação penal.",
+      "D": "Em regra procede-se mediante queixa, ressalvadas as situações do § 3º."
+     },
+     "dispositivo": "Lei 9.609/1998, arts. 1º–6º e 9º–14; Lei 9.610/1998; CP, art. 184"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Qual figura examinar quando alguém expõe à venda cópia infratora que não produziu?",
+     "alternativas": {
+      "A": "Tutela civil autônoma",
+      "B": "Ação penal privada",
+      "C": "Circulação comercial de cópia infratora",
+      "D": "Proteção independente de registro"
+     },
+     "gabarito": "C",
+     "comentario": "A (incorreta). O art. 14 permite ação civil independentemente da ação penal. B (incorreta). Em regra procede-se mediante queixa, ressalvadas as situações do § 3º. C (correta). A exposição à venda para fins de comércio está na disciplina do § 2º. D (incorreta). A proteção autoral de programa de computador independe de registro.",
+     "comentarios_por_alternativa": {
+      "A": "O art. 14 permite ação civil independentemente da ação penal.",
+      "B": "Em regra procede-se mediante queixa, ressalvadas as situações do § 3º.",
+      "C": "A exposição à venda para fins de comércio está na disciplina do § 2º.",
+      "D": "A proteção autoral de programa de computador independe de registro."
+     },
+     "dispositivo": "Lei 9.609/1998, arts. 1º–6º e 9º–14; Lei 9.610/1998; CP, art. 184"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Qual categoria permite ao titular buscar ordem de abstenção nos termos do art. 14?",
+     "alternativas": {
+      "A": "Ação penal privada",
+      "B": "Proteção independente de registro",
+      "C": "Violação simples",
+      "D": "Tutela civil autônoma"
+     },
+     "gabarito": "D",
+     "comentario": "A (incorreta). Em regra procede-se mediante queixa, ressalvadas as situações do § 3º. B (incorreta). A proteção autoral de programa de computador independe de registro. C (incorreta). O art. 12, caput, descreve a figura básica. D (correta). O art. 14 permite ação civil independentemente da ação penal.",
+     "comentarios_por_alternativa": {
+      "A": "Em regra procede-se mediante queixa, ressalvadas as situações do § 3º.",
+      "B": "A proteção autoral de programa de computador independe de registro.",
+      "C": "O art. 12, caput, descreve a figura básica.",
+      "D": "O art. 14 permite ação civil independentemente da ação penal."
+     },
+     "dispositivo": "Lei 9.609/1998, arts. 1º–6º e 9º–14; Lei 9.610/1998; CP, art. 184"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "A categoria que responde à pergunta é ___. Qual figura examinar para violação autoral sem prova das elementares comerciais dos parágrafos?",
+     "opcoes": [
+      "Violação simples",
+      "Reprodução comercial não autorizada",
+      "Circulação comercial de cópia infratora",
+      "Tutela civil autônoma"
+     ],
+     "respostas": [
+      "Violação simples"
+     ],
+     "explicacao": "A lacuna se completa com Violação simples.",
+     "dispositivo": "Lei 9.609/1998, arts. 1º–6º e 9º–14; Lei 9.610/1998; CP, art. 184"
+    },
+    {
+     "tipo": "associacao",
+     "pares": [
+      {
+       "esquerda": "Reprodução comercial não autorizada",
+       "direita": "O § 1º do art. 12 pune a reprodução total ou parcial nas condições indicadas."
+      },
+      {
+       "esquerda": "Circulação comercial de cópia infratora",
+       "direita": "A exposição à venda para fins de comércio está na disciplina do § 2º."
+      },
+      {
+       "esquerda": "Tutela civil autônoma",
+       "direita": "O art. 14 permite ação civil independentemente da ação penal."
+      }
+     ],
+     "explicacao": "Associe cada conceito ao seu efeito.",
+     "dispositivo": "Lei 9.609/1998, arts. 1º–6º e 9º–14; Lei 9.610/1998; CP, art. 184"
+    },
+    {
+     "tipo": "classificacao",
+     "itens": [
+      {
+       "enunciado": "Qual categoria permite ao titular buscar ordem de abstenção nos termos do art. 14?",
+       "resposta": "Tutela civil autônoma"
+      },
+      {
+       "enunciado": "Qual a iniciativa penal como regra no art. 12?",
+       "resposta": "Ação penal privada"
+      },
+      {
+       "enunciado": "Qual o papel do registro para a proteção do programa?",
+       "resposta": "Proteção independente de registro"
+      }
+     ],
+     "explicacao": "Identifique a categoria aplicável em cada situação.",
+     "dispositivo": "Lei 9.609/1998, arts. 1º–6º e 9º–14; Lei 9.610/1998; CP, art. 184"
+    },
+    {
+     "tipo": "caso_pratico",
+     "enunciado": "Qual o papel do registro para a proteção do programa?",
+     "resposta": "A proteção autoral de programa de computador independe de registro.",
+     "explicacao": "A proteção autoral de programa de computador independe de registro.",
+     "dispositivo": "Lei 9.609/1998, arts. 1º–6º e 9º–14; Lei 9.610/1998; CP, art. 184"
+    }
+   ]
+  }
+ ]
+}

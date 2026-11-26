@@ -1,0 +1,253 @@
+{
+ "assunto": "Escalas Celsius, Fahrenheit e kelvin",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-escalas-termometricas-c14",
+   "titulo": "Escalas Celsius, Fahrenheit e kelvin",
+   "microconteudo": "RAIO-X DA PROVA: Use a relação física indicada e confira as condições em que ela se aplica. T(K) = t(°C) + 273,15. t(°F) = 1,8t(°C) + 32. Para diferenças, ΔK = Δ°C e Δ°F = 1,8Δ°C.\n\nPOR QUE IMPORTA:\nPrevisões do tempo podem usar Celsius ou Fahrenheit. Experimentos com gases também usam kelvins para expressar temperaturas absolutas.\n\nO QUE A BANCA COBRA:\nUse a relação física indicada e confira as condições em que ela se aplica. T(K) = t(°C) + 273,15. t(°F) = 1,8t(°C) + 32. Para diferenças, ΔK = Δ°C e Δ°F = 1,8Δ°C.\n\nENTENDA:\nPrevisões do tempo podem usar Celsius ou Fahrenheit. Experimentos com gases também usam kelvins para expressar temperaturas absolutas.\n\nT(K) = t(°C) + 273,15. t(°F) = 1,8t(°C) + 32. Para diferenças, ΔK = Δ°C e Δ°F = 1,8Δ°C.\n\nExemplo resolvido. Um termômetro indica 14 °C: em Fahrenheit vale 1,8 × 14 + 32 = 57,2 °F. Em kelvins, vale 287,15 K.\n\nOutro exemplo. Um recinto passa de 68 °F para 86 °F. A diferença de 18 °F equivale a 18/1,8 = 10 °C de aumento. O deslocamento de 32 aparece na conversão de cada leitura absoluta, mas se cancela ao subtraí-las.\n\nImagine duas réguas que marcam a mesma distância com origens distintas. Isso explica por que Celsius e kelvin podem ter constantes de deslocamento para leituras inteiras e, ao mesmo tempo, mudanças idênticas. Fahrenheit muda tanto a origem quanto o tamanho da divisão. Escolha a transformação conforme aquilo que se quer converter.\n\nPara explicar o resultado, use o vocabulário da situação. Qual escala absoluta usa kelvin? A escala termodinâmica. Como converter °C para K? Some 273,15 à leitura Celsius. Como converter °C para °F? Multiplique por 1,8 e some 32. Como converter Δ°F para Δ°C? Divida por 1,8. Um intervalo de 1 K vale quanto em Celsius? Um intervalo de 1 °C. Qual temperatura Celsius corresponde a 0 K? −273,15 °C.\n\nNa hora de resolver no papel, siga a sequência abaixo. Identificar escala inicial. Separar leitura de diferença. Aplicar a relação adequada. Checar ordem de grandeza. Depois, escreva o resultado em uma frase completa. Um número isolado pode estar correto e, ainda assim, deixar ambíguo o que você calculou. Informe a unidade quando houver medida e identifique o objeto, a região ou o intervalo a que o resultado se refere.\n\nNunca some 32 ao converter uma diferença para Fahrenheit. Em equações com razões de temperaturas absolutas, use kelvin. A unidade escreve-se K sem símbolo de grau.\n\nReleia os dois exemplos resolvidos e tente antecipar o desfecho sem consultar o cálculo. No primeiro exemplo, identifique qual dado determina diretamente a resposta. No segundo, diga qual condição deve permanecer válida para que a conclusão se mantenha. Compare depois o papel das unidades e do sentido das grandezas. Se o resultado for qualitativo, procure enunciar a previsão em termos observáveis. Se for quantitativo, estime a escala antes de efetuar a última operação.\n\nVocê pode adaptar a análise a uma situação do cotidiano. Comece com esta ideia: Previsões do tempo podem usar Celsius ou Fahrenheit. Experimentos com gases também usam kelvins para expressar temperaturas absolutas. Em seguida, desenhe o cenário, indique o que está sendo comparado e escreva que dado precisaria medir para testar a previsão. Diferencie a regra do modelo das informações que servem apenas para situar a história. Isso ajuda a decidir o que aproveitar quando uma questão apresenta mais dados do que a resolução exige.\n\nTrês conferências úteis: a definição corresponde ao objeto descrito? As condições indicadas no enunciado permitem aplicar a regra? A resposta continua coerente ao voltar ao desenho? Faça a última conferência lendo esta relação no contexto: T(K) = t(°C) + 273,15. t(°F) = 1,8t(°C) + 32. Para diferenças, ΔK = Δ°C e Δ°F = 1,8Δ°C. Uma hipótese deve ser usada dentro de sua faixa de validade; quando o contexto mudar, justifique a adaptação antes de transportar o resultado.\n\nAo treinar, explique a diferença entre o mecanismo e seu efeito. Nunca some 32 ao converter uma diferença para Fahrenheit. Em equações com razões de temperaturas absolutas, use kelvin. A unidade escreve-se K sem símbolo de grau. Em um texto de prova, essa distinção pode aparecer escondida em uma frase sobre o resultado de uma medida. Identifique primeiro a causa física e depois a grandeza observada. Se for necessário comparar cenários, mude uma condição por vez para descobrir qual mudança explica a diferença.\n\nPergunte o que aconteceria se você aplicasse a regra a um desenho mais simples. Comece separando estas tarefas: Identificar escala inicial. Separar leitura de diferença. Aplicar a relação adequada. Checar ordem de grandeza. Refaça o primeiro exemplo apenas com setas ou um esquema, deixando os números para o final. Em seguida, recolha do enunciado as unidades e os sentidos. Uma seta no desenho pode indicar a direção de uma interação, a mudança de uma medida ou apenas uma referência. É importante dizer qual papel ela desempenha antes de usar a relação do começo da lição.\n\nPara consolidar, use três perguntas de revisão. Como converter °C para K? Some 273,15 à leitura Celsius. Como converter Δ°F para Δ°C? Divida por 1,8. Qual temperatura Celsius corresponde a 0 K? −273,15 °C. A ideia é explicar essas respostas sem depender da ordem em que apareceram. Em um problema de comparação, preste atenção às palavras que mantêm algo igual entre os cenários. Em um problema de cálculo, confira a operação inversa quando possível. Por exemplo, reintroduza o resultado na relação inicial e verifique se os dados do problema são recuperados. Em uma questão qualitativa, faça o equivalente testando se a conclusão explica as condições observadas.\n\nNo fim da leitura, diga qual grandeza a pergunta solicitou e qual grandeza você usou para chegar a ela. Faça essa distinção também quando a resposta for uma direção, uma comparação ou uma interpretação histórica. Um resultado bem explicado deve poder ser lido sem adivinhar de onde ele veio.\n\nEm uma atividade de estudo, escreva primeiro uma estimativa ou previsão. Depois escolha o dado específico que vai confirmar ou contrariar essa previsão. Se duas respostas parecerem possíveis, indique qual condição extra permitiria escolher entre elas. A ideia é explicar o raciocínio, deixando claro por que a relação física é apropriada naquele contexto.\n\nTROCANDO EM MIÚDOS:\nPrevisões do tempo podem usar Celsius ou Fahrenheit. Experimentos com gases também usam kelvins para expressar temperaturas absolutas.\n\nT(K) = t(°C) + 273,15. t(°F) = 1,8t(°C) + 32. Para diferenças, ΔK = Δ°C e Δ°F = 1,8Δ°C.\n\nExemplo resolvido. Um termômetro indica 14 °C: em Fahrenheit vale 1,8 × 14 + 32 = 57,2 °F. Em kelvins, vale 287,15 K.\n\nOutro exemplo. Um recinto passa de 68 °F para 86 °F. A diferença de 18 °F equivale a 18/1,8 = 10 °C de aumento. O deslocamento de 32 aparece na conversão de cada leitura absoluta, mas se cancela ao subtraí-las.\n\nNunca some 32 ao converter uma diferença para Fahrenheit. Em equações com razões de temperaturas absolutas, use kelvin. A unidade escreve-se K sem símbolo de grau.\n\nQual escala absoluta usa kelvin? A escala termodinâmica. Como converter °C para K? Some 273,15 à leitura Celsius. Como converter °C para °F? Multiplique por 1,8 e some 32. Como converter Δ°F para Δ°C? Divida por 1,8. Um intervalo de 1 K vale quanto em Celsius? Um intervalo de 1 °C. Qual temperatura Celsius corresponde a 0 K? −273,15 °C.\n\nPara montar seu rascunho: Identificar escala inicial. Separar leitura de diferença. Aplicar a relação adequada. Checar ordem de grandeza. Na leitura final, escolha a parte do desenho que corresponde ao resultado. Se encontrar uma unidade diferente da pedida, volte ao cálculo e confira os fatores de conversão. Quando a pergunta for conceitual, confira se a explicação indica o mecanismo que liga o dado à conclusão. Você pode comparar os dois exemplos da lição antes de tentar os exercícios e explicar de memória por que cada resultado faz sentido.\n\nLEI SECA:\nT(K) = t(°C) + 273,15. t(°F) = 1,8t(°C) + 32. Para diferenças, ΔK = Δ°C e Δ°F = 1,8Δ°C.\n\nSÚMULAS E TESES:\nOutro exemplo. Um recinto passa de 68 °F para 86 °F. A diferença de 18 °F equivale a 18/1,8 = 10 °C de aumento. O deslocamento de 32 aparece na conversão de cada leitura absoluta, mas se cancela ao subtraí-las.\n\nESQUEMA:\nIdentificar escala inicial. → Separar leitura de diferença. → Aplicar a relação adequada. → Checar ordem de grandeza.\n\nPEGADINHAS:\nNunca some 32 ao converter uma diferença para Fahrenheit. Em equações com razões de temperaturas absolutas, use kelvin. A unidade escreve-se K sem símbolo de grau.\n\nDOUTRINA:\nTemperature\n\nNA PRÁTICA:\nExemplo resolvido. Um termômetro indica 14 °C: em Fahrenheit vale 1,8 × 14 + 32 = 57,2 °F. Em kelvins, vale 287,15 K.",
+   "flashcards": [
+    {
+     "frente": "Qual escala absoluta usa kelvin?",
+     "verso": "A escala termodinâmica.",
+     "dispositivo": "O calor e os fenômenos térmicos — Escalas termométricas"
+    },
+    {
+     "frente": "Como converter °C para K?",
+     "verso": "Some 273,15 à leitura Celsius.",
+     "dispositivo": "O calor e os fenômenos térmicos — Escalas termométricas"
+    },
+    {
+     "frente": "Como converter °C para °F?",
+     "verso": "Multiplique por 1,8 e some 32.",
+     "dispositivo": "O calor e os fenômenos térmicos — Escalas termométricas"
+    },
+    {
+     "frente": "Como converter Δ°F para Δ°C?",
+     "verso": "Divida por 1,8.",
+     "dispositivo": "O calor e os fenômenos térmicos — Escalas termométricas"
+    },
+    {
+     "frente": "Um intervalo de 1 K vale quanto em Celsius?",
+     "verso": "Um intervalo de 1 °C.",
+     "dispositivo": "O calor e os fenômenos térmicos — Escalas termométricas"
+    },
+    {
+     "frente": "Qual temperatura Celsius corresponde a 0 K?",
+     "verso": "−273,15 °C.",
+     "dispositivo": "O calor e os fenômenos térmicos — Escalas termométricas"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-escalas-termometricas-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Uma diferença de 8 °C é considerada.",
+     "enunciado": "Ela equivale a 8 K.",
+     "gabarito": "C",
+     "comentario": "Certo. As duas escalas têm o mesmo tamanho de intervalo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Escalas termométricas"
+    },
+    {
+     "id": "enem-fisica-escalas-termometricas-c14-q02",
+     "tipo": "ce",
+     "texto_base": "A temperatura é de 0 °C.",
+     "enunciado": "Ela equivale ao zero absoluto.",
+     "gabarito": "E",
+     "comentario": "Errado. Vale 273,15 K.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Escalas termométricas"
+    },
+    {
+     "id": "enem-fisica-escalas-termometricas-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Uma leitura é 32 °F.",
+     "enunciado": "Corresponde a 0 °C.",
+     "gabarito": "C",
+     "comentario": "Certo. Subtraia 32 e divida por 1,8.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Escalas termométricas"
+    },
+    {
+     "id": "enem-fisica-escalas-termometricas-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Um gás passa de 20 °C para 40 °C.",
+     "enunciado": "Sua temperatura absoluta dobrou.",
+     "gabarito": "E",
+     "comentario": "Errado. A razão correta usa 293,15 K e 313,15 K.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Escalas termométricas"
+    },
+    {
+     "id": "enem-fisica-escalas-termometricas-c14-q05",
+     "tipo": "me",
+     "texto_base": "Uma leitura de laboratório é de 30 °C.",
+     "enunciado": "Qual valor em Fahrenheit?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "54 °F",
+      "B": "86 °F",
+      "C": "62 °F",
+      "D": "16,7 °F",
+      "E": "303,15 °F"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve 54 °f, enquanto a situação pede 86 °f. 1,8 × 30 + 32 = 86.",
+      "B": "Correta. 1,8 × 30 + 32 = 86.",
+      "C": "Esta opção descreve 62 °f, enquanto a situação pede 86 °f. 1,8 × 30 + 32 = 86.",
+      "D": "Esta opção descreve 16,7 °f, enquanto a situação pede 86 °f. 1,8 × 30 + 32 = 86.",
+      "E": "Esta opção descreve 303,15 °f, enquanto a situação pede 86 °f. 1,8 × 30 + 32 = 86."
+     },
+     "comentario": "A) Esta opção descreve 54 °f, enquanto a situação pede 86 °f. 1,8 × 30 + 32 = 86.\nB) Correta. 1,8 × 30 + 32 = 86.\nC) Esta opção descreve 62 °f, enquanto a situação pede 86 °f. 1,8 × 30 + 32 = 86.\nD) Esta opção descreve 16,7 °f, enquanto a situação pede 86 °f. 1,8 × 30 + 32 = 86.\nE) Esta opção descreve 303,15 °f, enquanto a situação pede 86 °f. 1,8 × 30 + 32 = 86.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Escalas termométricas"
+    },
+    {
+     "id": "enem-fisica-escalas-termometricas-c14-q06",
+     "tipo": "me",
+     "texto_base": "Um objeto está a 293,15 K.",
+     "enunciado": "Qual a temperatura Celsius?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "293,15 °C",
+      "B": "566,30 °C",
+      "C": "−20 °C",
+      "D": "20 °C",
+      "E": "273,15 °C"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve 293,15 °c, enquanto a situação pede 20 °c. Subtraia 273,15.",
+      "B": "Esta opção descreve 566,30 °c, enquanto a situação pede 20 °c. Subtraia 273,15.",
+      "C": "Esta opção descreve −20 °c, enquanto a situação pede 20 °c. Subtraia 273,15.",
+      "D": "Correta. Subtraia 273,15.",
+      "E": "Esta opção descreve 273,15 °c, enquanto a situação pede 20 °c. Subtraia 273,15."
+     },
+     "comentario": "A) Esta opção descreve 293,15 °c, enquanto a situação pede 20 °c. Subtraia 273,15.\nB) Esta opção descreve 566,30 °c, enquanto a situação pede 20 °c. Subtraia 273,15.\nC) Esta opção descreve −20 °c, enquanto a situação pede 20 °c. Subtraia 273,15.\nD) Correta. Subtraia 273,15.\nE) Esta opção descreve 273,15 °c, enquanto a situação pede 20 °c. Subtraia 273,15.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Escalas termométricas"
+    },
+    {
+     "id": "enem-fisica-escalas-termometricas-c14-q07",
+     "tipo": "me",
+     "texto_base": "Um processo aquece em 15 °C.",
+     "enunciado": "Qual é a variação em Fahrenheit?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "27 °F",
+      "B": "59 °F",
+      "C": "15 °F",
+      "D": "8,33 °F",
+      "E": "47 °F"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Multiplique a diferença por 1,8 sem somar 32.",
+      "B": "Esta opção descreve 59 °f, enquanto a situação pede 27 °f. Multiplique a diferença por 1,8 sem somar 32.",
+      "C": "Esta opção descreve 15 °f, enquanto a situação pede 27 °f. Multiplique a diferença por 1,8 sem somar 32.",
+      "D": "Esta opção descreve 8,33 °f, enquanto a situação pede 27 °f. Multiplique a diferença por 1,8 sem somar 32.",
+      "E": "Esta opção descreve 47 °f, enquanto a situação pede 27 °f. Multiplique a diferença por 1,8 sem somar 32."
+     },
+     "comentario": "A) Correta. Multiplique a diferença por 1,8 sem somar 32.\nB) Esta opção descreve 59 °f, enquanto a situação pede 27 °f. Multiplique a diferença por 1,8 sem somar 32.\nC) Esta opção descreve 15 °f, enquanto a situação pede 27 °f. Multiplique a diferença por 1,8 sem somar 32.\nD) Esta opção descreve 8,33 °f, enquanto a situação pede 27 °f. Multiplique a diferença por 1,8 sem somar 32.\nE) Esta opção descreve 47 °f, enquanto a situação pede 27 °f. Multiplique a diferença por 1,8 sem somar 32.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Escalas termométricas"
+    },
+    {
+     "id": "enem-fisica-escalas-termometricas-c14-q08",
+     "tipo": "me",
+     "texto_base": "Uma previsão mostra 50 °F.",
+     "enunciado": "Qual a leitura Celsius?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "18 °C",
+      "B": "90 °C",
+      "C": "27,8 °C",
+      "D": "−10 °C",
+      "E": "10 °C"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve 18 °c, enquanto a situação pede 10 °c. Subtraia 32 e divida por 1,8.",
+      "B": "Esta opção descreve 90 °c, enquanto a situação pede 10 °c. Subtraia 32 e divida por 1,8.",
+      "C": "Esta opção descreve 27,8 °c, enquanto a situação pede 10 °c. Subtraia 32 e divida por 1,8.",
+      "D": "Esta opção descreve −10 °c, enquanto a situação pede 10 °c. Subtraia 32 e divida por 1,8.",
+      "E": "Correta. Subtraia 32 e divida por 1,8."
+     },
+     "comentario": "A) Esta opção descreve 18 °c, enquanto a situação pede 10 °c. Subtraia 32 e divida por 1,8.\nB) Esta opção descreve 90 °c, enquanto a situação pede 10 °c. Subtraia 32 e divida por 1,8.\nC) Esta opção descreve 27,8 °c, enquanto a situação pede 10 °c. Subtraia 32 e divida por 1,8.\nD) Esta opção descreve −10 °c, enquanto a situação pede 10 °c. Subtraia 32 e divida por 1,8.\nE) Correta. Subtraia 32 e divida por 1,8.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Escalas termométricas"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Qual escala absoluta usa kelvin? ___",
+     "opcoes": [
+      "A escala termodinâmica.",
+      "Some 273,15 à leitura Celsius.",
+      "Multiplique por 1,8 e some 32.",
+      "Divida por 1,8."
+     ],
+     "respostas": [
+      "A escala termodinâmica."
+     ],
+     "explicacao": "A escala termodinâmica."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Como converter °C para °F? ___",
+     "opcoes": [
+      "Multiplique por 1,8 e some 32.",
+      "Divida por 1,8.",
+      "Um intervalo de 1 °C.",
+      "−273,15 °C."
+     ],
+     "respostas": [
+      "Multiplique por 1,8 e some 32."
+     ],
+     "explicacao": "Multiplique por 1,8 e some 32."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise de escalas celsius, fahrenheit e kelvin.",
+     "itens": [
+      "Identificar escala inicial.",
+      "Separar leitura de diferença.",
+      "Aplicar a relação adequada.",
+      "Checar ordem de grandeza."
+     ],
+     "explicacao": "T(K) = t(°C) + 273,15. t(°F) = 1,8t(°C) + 32. Para diferenças, ΔK = Δ°C e Δ°F = 1,8Δ°C."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Qual escala absoluta usa kelvin?",
+       "A escala termodinâmica."
+      ],
+      [
+       "Como converter °C para K?",
+       "Some 273,15 à leitura Celsius."
+      ],
+      [
+       "Como converter °C para °F?",
+       "Multiplique por 1,8 e some 32."
+      ],
+      [
+       "Como converter Δ°F para Δ°C?",
+       "Divida por 1,8."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

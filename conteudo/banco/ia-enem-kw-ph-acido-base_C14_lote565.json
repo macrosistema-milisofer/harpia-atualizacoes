@@ -1,0 +1,253 @@
+{
+ "assunto": "Produto iônico da água e pH",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-quimica-kw-ph-acido-base-c14",
+   "titulo": "Produto iônico da água e pH",
+   "microconteudo": "RAIO-X DA PROVA: Use a relação física indicada e confira as condições em que ela se aplica. Para soluções diluídas, pH ≈ −log₁₀[H₃O⁺]. A 25 °C, Kw ≈ 10⁻¹⁴ e pH + pOH ≈ 14 no modelo escolar.\n\nPOR QUE IMPORTA:\nA escala de pH representa diferenças grandes na quantidade efetiva de íons hidrônio por meio de números relativamente pequenos.\n\nO QUE A BANCA COBRA:\nUse a relação física indicada e confira as condições em que ela se aplica. Para soluções diluídas, pH ≈ −log₁₀[H₃O⁺]. A 25 °C, Kw ≈ 10⁻¹⁴ e pH + pOH ≈ 14 no modelo escolar.\n\nENTENDA:\nA escala de pH representa diferenças grandes na quantidade efetiva de íons hidrônio por meio de números relativamente pequenos.\n\nPara soluções diluídas, pH ≈ −log₁₀[H₃O⁺]. A 25 °C, Kw ≈ 10⁻¹⁴ e pH + pOH ≈ 14 no modelo escolar.\n\nExemplo resolvido. Uma solução tem concentração aproximada de hidrônio de 10⁻⁴ mol/L. O pH vale 4. A 25 °C, a concentração aproximada de hidróxido vale 10⁻¹⁰ mol/L.\n\nOutro exemplo. Uma amostra tem pH 8 e outra pH 5. Embora a diferença seja três unidades, a segunda tem atividade de hidrônio mil vezes maior. A direção da comparação acompanha o sinal negativo do logaritmo.\n\npH é uma escala logarítmica, portanto não se deve tirar a média aritmética dos valores para prever o pH de uma mistura. A neutralização e a diluição dependem das quantidades e das espécies presentes. Um indicador fornece uma faixa de pH de acordo com a transição de sua cor, enquanto um medidor calibrado permite leituras mais finas.\n\nPara explicar o resultado, use o vocabulário da situação. O que mede o pH? O negativo do logaritmo decimal da atividade de hidrônio. Qual é o Kw aproximado a 25 °C? 10⁻¹⁴. Qual é o pH neutro a 25 °C? Aproximadamente 7. O que é pOH? O negativo do logaritmo decimal da atividade de hidróxido. Que significa baixar um ponto de pH? A atividade de hidrônio aumenta dez vezes. Neutralidade depende da temperatura? Sim, o valor de pH neutro depende de Kw.\n\nNa hora de resolver no papel, siga a sequência abaixo. Ler a temperatura. Identificar o íon informado. Aplicar o logaritmo ou o produto iônico. Interpretar a comparação com a neutralidade. Depois, escreva o resultado em uma frase completa. Um número isolado pode estar correto e, ainda assim, deixar ambíguo o que você calculou. Informe a unidade quando houver medida e identifique o objeto, a região ou o intervalo a que o resultado se refere.\n\nNeutralidade significa atividade de hidrônio igual à de hidróxido. O pH neutro é aproximadamente 7 a 25 °C e pode mudar quando a temperatura muda.\n\nReleia os dois exemplos resolvidos e tente antecipar o desfecho sem consultar o cálculo. No primeiro exemplo, identifique qual dado determina diretamente a resposta. No segundo, diga qual condição deve permanecer válida para que a conclusão se mantenha. Compare depois o papel das unidades e do sentido das grandezas. Se o resultado for qualitativo, procure enunciar a previsão em termos observáveis. Se for quantitativo, estime a escala antes de efetuar a última operação.\n\nVocê pode adaptar a análise a uma situação do cotidiano. Comece com esta ideia: A escala de pH representa diferenças grandes na quantidade efetiva de íons hidrônio por meio de números relativamente pequenos. Em seguida, desenhe o cenário, indique o que está sendo comparado e escreva que dado precisaria medir para testar a previsão. Diferencie a regra do modelo das informações que servem apenas para situar a história. Isso ajuda a decidir o que aproveitar quando uma questão apresenta mais dados do que a resolução exige.\n\nTrês conferências úteis: a definição corresponde ao objeto descrito? As condições indicadas no enunciado permitem aplicar a regra? A resposta continua coerente ao voltar ao desenho? Faça a última conferência lendo esta relação no contexto: Para soluções diluídas, pH ≈ −log₁₀[H₃O⁺]. A 25 °C, Kw ≈ 10⁻¹⁴ e pH + pOH ≈ 14 no modelo escolar. Uma hipótese deve ser usada dentro de sua faixa de validade; quando o contexto mudar, justifique a adaptação antes de transportar o resultado.\n\nAo treinar, explique a diferença entre o mecanismo e seu efeito. Neutralidade significa atividade de hidrônio igual à de hidróxido. O pH neutro é aproximadamente 7 a 25 °C e pode mudar quando a temperatura muda. Em um texto de prova, essa distinção pode aparecer escondida em uma frase sobre o resultado de uma medida. Identifique primeiro a causa física e depois a grandeza observada. Se for necessário comparar cenários, mude uma condição por vez para descobrir qual mudança explica a diferença.\n\nPergunte o que aconteceria se você aplicasse a regra a um desenho mais simples. Comece separando estas tarefas: Ler a temperatura. Identificar o íon informado. Aplicar o logaritmo ou o produto iônico. Interpretar a comparação com a neutralidade. Refaça o primeiro exemplo apenas com setas ou um esquema, deixando os números para o final. Em seguida, recolha do enunciado as unidades e os sentidos. Uma seta no desenho pode indicar a direção de uma interação, a mudança de uma medida ou apenas uma referência. É importante dizer qual papel ela desempenha antes de usar a relação do começo da lição.\n\nPara consolidar, use três perguntas de revisão. Qual é o Kw aproximado a 25 °C? 10⁻¹⁴. O que é pOH? O negativo do logaritmo decimal da atividade de hidróxido. Neutralidade depende da temperatura? Sim, o valor de pH neutro depende de Kw. A ideia é explicar essas respostas sem depender da ordem em que apareceram. Em um problema de comparação, preste atenção às palavras que mantêm algo igual entre os cenários. Em um problema de cálculo, confira a operação inversa quando possível. Por exemplo, reintroduza o resultado na relação inicial e verifique se os dados do problema são recuperados. Em uma questão qualitativa, faça o equivalente testando se a conclusão explica as condições observadas.\n\nNo fim da leitura, diga qual grandeza a pergunta solicitou e qual grandeza você usou para chegar a ela. Faça essa distinção também quando a resposta for uma direção, uma comparação ou uma interpretação histórica. Um resultado bem explicado deve poder ser lido sem adivinhar de onde ele veio.\n\nEm uma atividade de estudo, escreva primeiro uma estimativa ou previsão. Depois escolha o dado específico que vai confirmar ou contrariar essa previsão. Se duas respostas parecerem possíveis, indique qual condição extra permitiria escolher entre elas. A ideia é explicar o raciocínio, deixando claro por que a relação física é apropriada naquele contexto.\n\nTROCANDO EM MIÚDOS:\nA escala de pH representa diferenças grandes na quantidade efetiva de íons hidrônio por meio de números relativamente pequenos.\n\nPara soluções diluídas, pH ≈ −log₁₀[H₃O⁺]. A 25 °C, Kw ≈ 10⁻¹⁴ e pH + pOH ≈ 14 no modelo escolar.\n\nExemplo resolvido. Uma solução tem concentração aproximada de hidrônio de 10⁻⁴ mol/L. O pH vale 4. A 25 °C, a concentração aproximada de hidróxido vale 10⁻¹⁰ mol/L.\n\nOutro exemplo. Uma amostra tem pH 8 e outra pH 5. Embora a diferença seja três unidades, a segunda tem atividade de hidrônio mil vezes maior. A direção da comparação acompanha o sinal negativo do logaritmo.\n\nNeutralidade significa atividade de hidrônio igual à de hidróxido. O pH neutro é aproximadamente 7 a 25 °C e pode mudar quando a temperatura muda.\n\nO que mede o pH? O negativo do logaritmo decimal da atividade de hidrônio. Qual é o Kw aproximado a 25 °C? 10⁻¹⁴. Qual é o pH neutro a 25 °C? Aproximadamente 7. O que é pOH? O negativo do logaritmo decimal da atividade de hidróxido. Que significa baixar um ponto de pH? A atividade de hidrônio aumenta dez vezes. Neutralidade depende da temperatura? Sim, o valor de pH neutro depende de Kw.\n\nPara montar seu rascunho: Ler a temperatura. Identificar o íon informado. Aplicar o logaritmo ou o produto iônico. Interpretar a comparação com a neutralidade. Na leitura final, escolha a parte do desenho que corresponde ao resultado. Se encontrar uma unidade diferente da pedida, volte ao cálculo e confira os fatores de conversão. Quando a pergunta for conceitual, confira se a explicação indica o mecanismo que liga o dado à conclusão. Você pode comparar os dois exemplos da lição antes de tentar os exercícios e explicar de memória por que cada resultado faz sentido.\n\nLEI SECA:\nPara soluções diluídas, pH ≈ −log₁₀[H₃O⁺]. A 25 °C, Kw ≈ 10⁻¹⁴ e pH + pOH ≈ 14 no modelo escolar.\n\nSÚMULAS E TESES:\nOutro exemplo. Uma amostra tem pH 8 e outra pH 5. Embora a diferença seja três unidades, a segunda tem atividade de hidrônio mil vezes maior. A direção da comparação acompanha o sinal negativo do logaritmo.\n\nESQUEMA:\nLer a temperatura. → Identificar o íon informado. → Aplicar o logaritmo ou o produto iônico. → Interpretar a comparação com a neutralidade.\n\nPEGADINHAS:\nNeutralidade significa atividade de hidrônio igual à de hidróxido. O pH neutro é aproximadamente 7 a 25 °C e pode mudar quando a temperatura muda.\n\nDOUTRINA:\npH and pOH\n\nNA PRÁTICA:\nExemplo resolvido. Uma solução tem concentração aproximada de hidrônio de 10⁻⁴ mol/L. O pH vale 4. A 25 °C, a concentração aproximada de hidróxido vale 10⁻¹⁰ mol/L.",
+   "flashcards": [
+    {
+     "frente": "O que mede o pH?",
+     "verso": "O negativo do logaritmo decimal da atividade de hidrônio.",
+     "dispositivo": "Transformação Química e Equilíbrio — Produto iônico da água, equilíbrio ácido-base e pH"
+    },
+    {
+     "frente": "Qual é o Kw aproximado a 25 °C?",
+     "verso": "10⁻¹⁴.",
+     "dispositivo": "Transformação Química e Equilíbrio — Produto iônico da água, equilíbrio ácido-base e pH"
+    },
+    {
+     "frente": "Qual é o pH neutro a 25 °C?",
+     "verso": "Aproximadamente 7.",
+     "dispositivo": "Transformação Química e Equilíbrio — Produto iônico da água, equilíbrio ácido-base e pH"
+    },
+    {
+     "frente": "O que é pOH?",
+     "verso": "O negativo do logaritmo decimal da atividade de hidróxido.",
+     "dispositivo": "Transformação Química e Equilíbrio — Produto iônico da água, equilíbrio ácido-base e pH"
+    },
+    {
+     "frente": "Que significa baixar um ponto de pH?",
+     "verso": "A atividade de hidrônio aumenta dez vezes.",
+     "dispositivo": "Transformação Química e Equilíbrio — Produto iônico da água, equilíbrio ácido-base e pH"
+    },
+    {
+     "frente": "Neutralidade depende da temperatura?",
+     "verso": "Sim, o valor de pH neutro depende de Kw.",
+     "dispositivo": "Transformação Química e Equilíbrio — Produto iônico da água, equilíbrio ácido-base e pH"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-quimica-kw-ph-acido-base-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Solução diluída a 25 °C tem pH 3.",
+     "enunciado": "Ela é ácida.",
+     "gabarito": "C",
+     "comentario": "Certo. Está abaixo do pH neutro.",
+     "habilidade": "H18",
+     "dificuldade": "media",
+     "dispositivo": "Transformação Química e Equilíbrio — Produto iônico da água, equilíbrio ácido-base e pH"
+    },
+    {
+     "id": "enem-quimica-kw-ph-acido-base-c14-q02",
+     "tipo": "ce",
+     "texto_base": "pH diminui de 6 para 5.",
+     "enunciado": "A atividade de hidrônio cai dez vezes.",
+     "gabarito": "E",
+     "comentario": "Errado. Ela aumenta dez vezes.",
+     "habilidade": "H18",
+     "dificuldade": "media",
+     "dispositivo": "Transformação Química e Equilíbrio — Produto iônico da água, equilíbrio ácido-base e pH"
+    },
+    {
+     "id": "enem-quimica-kw-ph-acido-base-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Em solução neutra a 25 °C.",
+     "enunciado": "Hidrônio e hidróxido têm atividades iguais.",
+     "gabarito": "C",
+     "comentario": "Certo. A igualdade caracteriza a neutralidade.",
+     "habilidade": "H18",
+     "dificuldade": "media",
+     "dispositivo": "Transformação Química e Equilíbrio — Produto iônico da água, equilíbrio ácido-base e pH"
+    },
+    {
+     "id": "enem-quimica-kw-ph-acido-base-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Uma solução diluída a 25 °C tem pOH 3.",
+     "enunciado": "O pH também é 3.",
+     "gabarito": "E",
+     "comentario": "Errado. O pH vale cerca de 11.",
+     "habilidade": "H18",
+     "dificuldade": "media",
+     "dispositivo": "Transformação Química e Equilíbrio — Produto iônico da água, equilíbrio ácido-base e pH"
+    },
+    {
+     "id": "enem-quimica-kw-ph-acido-base-c14-q05",
+     "tipo": "me",
+     "texto_base": "A 25 °C, [H₃O⁺] ≈ 10⁻⁶ mol/L.",
+     "enunciado": "Qual o pH aproximado?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "−6",
+      "B": "6",
+      "C": "8",
+      "D": "14",
+      "E": "0"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve −6, enquanto a situação pede 6. O negativo do logaritmo decimal de 10⁻⁶ é 6.",
+      "B": "Correta. O negativo do logaritmo decimal de 10⁻⁶ é 6.",
+      "C": "Esta opção descreve 8, enquanto a situação pede 6. O negativo do logaritmo decimal de 10⁻⁶ é 6.",
+      "D": "Esta opção descreve 14, enquanto a situação pede 6. O negativo do logaritmo decimal de 10⁻⁶ é 6.",
+      "E": "Esta opção descreve 0, enquanto a situação pede 6. O negativo do logaritmo decimal de 10⁻⁶ é 6."
+     },
+     "comentario": "A) Esta opção descreve −6, enquanto a situação pede 6. O negativo do logaritmo decimal de 10⁻⁶ é 6.\nB) Correta. O negativo do logaritmo decimal de 10⁻⁶ é 6.\nC) Esta opção descreve 8, enquanto a situação pede 6. O negativo do logaritmo decimal de 10⁻⁶ é 6.\nD) Esta opção descreve 14, enquanto a situação pede 6. O negativo do logaritmo decimal de 10⁻⁶ é 6.\nE) Esta opção descreve 0, enquanto a situação pede 6. O negativo do logaritmo decimal de 10⁻⁶ é 6.",
+     "habilidade": "H18",
+     "dificuldade": "media",
+     "dispositivo": "Transformação Química e Equilíbrio — Produto iônico da água, equilíbrio ácido-base e pH"
+    },
+    {
+     "id": "enem-quimica-kw-ph-acido-base-c14-q06",
+     "tipo": "me",
+     "texto_base": "Uma turma compara duas explicações para o mesmo experimento.",
+     "enunciado": "Qual é o Kw aproximado a 25 °C?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "O negativo do logaritmo decimal da atividade de hidrônio.",
+      "B": "Aproximadamente 7.",
+      "C": "O negativo do logaritmo decimal da atividade de hidróxido.",
+      "D": "10⁻¹⁴.",
+      "E": "A atividade de hidrônio aumenta dez vezes."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta alternativa se refere à seguinte pergunta: O que mede o pH?",
+      "B": "Esta alternativa se refere à seguinte pergunta: Qual é o pH neutro a 25 °C?",
+      "C": "Esta alternativa se refere à seguinte pergunta: O que é pOH?",
+      "D": "Correta. 10⁻¹⁴.",
+      "E": "Esta alternativa se refere à seguinte pergunta: Que significa baixar um ponto de pH?"
+     },
+     "comentario": "A) Esta alternativa se refere à seguinte pergunta: O que mede o pH?\nB) Esta alternativa se refere à seguinte pergunta: Qual é o pH neutro a 25 °C?\nC) Esta alternativa se refere à seguinte pergunta: O que é pOH?\nD) Correta. 10⁻¹⁴.\nE) Esta alternativa se refere à seguinte pergunta: Que significa baixar um ponto de pH?",
+     "habilidade": "H18",
+     "dificuldade": "media",
+     "dispositivo": "Transformação Química e Equilíbrio — Produto iônico da água, equilíbrio ácido-base e pH"
+    },
+    {
+     "id": "enem-quimica-kw-ph-acido-base-c14-q07",
+     "tipo": "me",
+     "texto_base": "Ao revisar a interpretação de um esquema, uma estudante consulta suas anotações.",
+     "enunciado": "O que é pOH?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "O negativo do logaritmo decimal da atividade de hidróxido.",
+      "B": "O negativo do logaritmo decimal da atividade de hidrônio.",
+      "C": "10⁻¹⁴.",
+      "D": "Aproximadamente 7.",
+      "E": "A atividade de hidrônio aumenta dez vezes."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. O negativo do logaritmo decimal da atividade de hidróxido.",
+      "B": "Esta alternativa se refere à seguinte pergunta: O que mede o pH?",
+      "C": "Esta alternativa se refere à seguinte pergunta: Qual é o Kw aproximado a 25 °C?",
+      "D": "Esta alternativa se refere à seguinte pergunta: Qual é o pH neutro a 25 °C?",
+      "E": "Esta alternativa se refere à seguinte pergunta: Que significa baixar um ponto de pH?"
+     },
+     "comentario": "A) Correta. O negativo do logaritmo decimal da atividade de hidróxido.\nB) Esta alternativa se refere à seguinte pergunta: O que mede o pH?\nC) Esta alternativa se refere à seguinte pergunta: Qual é o Kw aproximado a 25 °C?\nD) Esta alternativa se refere à seguinte pergunta: Qual é o pH neutro a 25 °C?\nE) Esta alternativa se refere à seguinte pergunta: Que significa baixar um ponto de pH?",
+     "habilidade": "H18",
+     "dificuldade": "media",
+     "dispositivo": "Transformação Química e Equilíbrio — Produto iônico da água, equilíbrio ácido-base e pH"
+    },
+    {
+     "id": "enem-quimica-kw-ph-acido-base-c14-q08",
+     "tipo": "me",
+     "texto_base": "Antes de justificar o resultado no relatório, um grupo revisa o conceito.",
+     "enunciado": "Neutralidade depende da temperatura?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "O negativo do logaritmo decimal da atividade de hidrônio.",
+      "B": "10⁻¹⁴.",
+      "C": "Aproximadamente 7.",
+      "D": "O negativo do logaritmo decimal da atividade de hidróxido.",
+      "E": "Sim, o valor de pH neutro depende de Kw."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta alternativa se refere à seguinte pergunta: O que mede o pH?",
+      "B": "Esta alternativa se refere à seguinte pergunta: Qual é o Kw aproximado a 25 °C?",
+      "C": "Esta alternativa se refere à seguinte pergunta: Qual é o pH neutro a 25 °C?",
+      "D": "Esta alternativa se refere à seguinte pergunta: O que é pOH?",
+      "E": "Correta. Sim, o valor de pH neutro depende de Kw."
+     },
+     "comentario": "A) Esta alternativa se refere à seguinte pergunta: O que mede o pH?\nB) Esta alternativa se refere à seguinte pergunta: Qual é o Kw aproximado a 25 °C?\nC) Esta alternativa se refere à seguinte pergunta: Qual é o pH neutro a 25 °C?\nD) Esta alternativa se refere à seguinte pergunta: O que é pOH?\nE) Correta. Sim, o valor de pH neutro depende de Kw.",
+     "habilidade": "H18",
+     "dificuldade": "media",
+     "dispositivo": "Transformação Química e Equilíbrio — Produto iônico da água, equilíbrio ácido-base e pH"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O que mede o pH? ___",
+     "opcoes": [
+      "O negativo do logaritmo decimal da atividade de hidrônio.",
+      "10⁻¹⁴.",
+      "Aproximadamente 7.",
+      "O negativo do logaritmo decimal da atividade de hidróxido."
+     ],
+     "respostas": [
+      "O negativo do logaritmo decimal da atividade de hidrônio."
+     ],
+     "explicacao": "O negativo do logaritmo decimal da atividade de hidrônio."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Qual é o pH neutro a 25 °C? ___",
+     "opcoes": [
+      "Aproximadamente 7.",
+      "O negativo do logaritmo decimal da atividade de hidróxido.",
+      "A atividade de hidrônio aumenta dez vezes.",
+      "Sim, o valor de pH neutro depende de Kw."
+     ],
+     "respostas": [
+      "Aproximadamente 7."
+     ],
+     "explicacao": "Aproximadamente 7."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise de produto iônico da água e ph.",
+     "itens": [
+      "Ler a temperatura.",
+      "Identificar o íon informado.",
+      "Aplicar o logaritmo ou o produto iônico.",
+      "Interpretar a comparação com a neutralidade."
+     ],
+     "explicacao": "Para soluções diluídas, pH ≈ −log₁₀[H₃O⁺]. A 25 °C, Kw ≈ 10⁻¹⁴ e pH + pOH ≈ 14 no modelo escolar."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O que mede o pH?",
+       "O negativo do logaritmo decimal da atividade de hidrônio."
+      ],
+      [
+       "Qual é o Kw aproximado a 25 °C?",
+       "10⁻¹⁴."
+      ],
+      [
+       "Qual é o pH neutro a 25 °C?",
+       "Aproximadamente 7."
+      ],
+      [
+       "O que é pOH?",
+       "O negativo do logaritmo decimal da atividade de hidróxido."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

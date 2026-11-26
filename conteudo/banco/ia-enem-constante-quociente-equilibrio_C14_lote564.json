@@ -1,0 +1,253 @@
+{
+ "assunto": "Constante e quociente de equilíbrio",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-quimica-constante-quociente-equilibrio-c14",
+   "titulo": "Constante e quociente de equilíbrio",
+   "microconteudo": "RAIO-X DA PROVA: Use a relação física indicada e confira as condições em que ela se aplica. K descreve o equilíbrio a temperatura fixa. Q usa a mesma expressão com a composição atual. Se Q < K, há tendência líquida de avanço.\n\nPOR QUE IMPORTA:\nA expressão de equilíbrio permite comparar a composição observada agora com a composição que caracteriza o equilíbrio na mesma temperatura.\n\nO QUE A BANCA COBRA:\nUse a relação física indicada e confira as condições em que ela se aplica. K descreve o equilíbrio a temperatura fixa. Q usa a mesma expressão com a composição atual. Se Q < K, há tendência líquida de avanço.\n\nENTENDA:\nA expressão de equilíbrio permite comparar a composição observada agora com a composição que caracteriza o equilíbrio na mesma temperatura.\n\nK descreve o equilíbrio a temperatura fixa. Q usa a mesma expressão com a composição atual. Se Q < K, há tendência líquida de avanço.\n\nExemplo resolvido. Para 2A(g) ⇌ B(g), se a concentração relativa de A vale 0,40 e a de B vale 0,32 no equilíbrio, Kc = 0,32/0,40² = 2. O coeficiente 2 vira expoente da concentração relativa de A.\n\nOutro exemplo. Para C ⇌ D, K = 5. Se as concentrações relativas atuais valem 0,25 e 0,50, Q = 2. A transformação líquida caminha para D até que Q alcance K.\n\nNo tratamento escolar, concentrações podem representar atividades relativas de soluções diluídas. Os expoentes vêm da equação escrita. Alterar todos os coeficientes por um fator também altera a expressão e transforma K de modo correspondente. Já trocar a quantidade inicial numa mesma temperatura pode mudar a composição de equilíbrio sem mudar a constante.\n\nPara explicar o resultado, use o vocabulário da situação. O que entra no numerador? Produtos, elevados aos coeficientes. O que entra no denominador? Reagentes, elevados aos coeficientes. Como Q difere de K? Q descreve a composição atual; K a de equilíbrio. Quando há avanço líquido? Quando Q é menor que K na mesma temperatura. Como muda K ao inverter a equação? Passa ao recíproco. Catalisador altera K? Não na mesma temperatura.\n\nNa hora de resolver no papel, siga a sequência abaixo. Conferir a equação balanceada. Montar produtos sobre reagentes. Calcular Q ou K conforme os dados. Comparar os valores e inferir o sentido. Depois, escreva o resultado em uma frase completa. Um número isolado pode estar correto e, ainda assim, deixar ambíguo o que você calculou. Informe a unidade quando houver medida e identifique o objeto, a região ou o intervalo a que o resultado se refere.\n\nAtividades de sólidos puros e líquidos puros são unitárias. K alto indica predominância relativa de produtos no sentido escrito, mas não informa se o equilíbrio será atingido depressa.\n\nReleia os dois exemplos resolvidos e tente antecipar o desfecho sem consultar o cálculo. No primeiro exemplo, identifique qual dado determina diretamente a resposta. No segundo, diga qual condição deve permanecer válida para que a conclusão se mantenha. Compare depois o papel das unidades e do sentido das grandezas. Se o resultado for qualitativo, procure enunciar a previsão em termos observáveis. Se for quantitativo, estime a escala antes de efetuar a última operação.\n\nVocê pode adaptar a análise a uma situação do cotidiano. Comece com esta ideia: A expressão de equilíbrio permite comparar a composição observada agora com a composição que caracteriza o equilíbrio na mesma temperatura. Em seguida, desenhe o cenário, indique o que está sendo comparado e escreva que dado precisaria medir para testar a previsão. Diferencie a regra do modelo das informações que servem apenas para situar a história. Isso ajuda a decidir o que aproveitar quando uma questão apresenta mais dados do que a resolução exige.\n\nTrês conferências úteis: a definição corresponde ao objeto descrito? As condições indicadas no enunciado permitem aplicar a regra? A resposta continua coerente ao voltar ao desenho? Faça a última conferência lendo esta relação no contexto: K descreve o equilíbrio a temperatura fixa. Q usa a mesma expressão com a composição atual. Se Q < K, há tendência líquida de avanço. Uma hipótese deve ser usada dentro de sua faixa de validade; quando o contexto mudar, justifique a adaptação antes de transportar o resultado.\n\nAo treinar, explique a diferença entre o mecanismo e seu efeito. Atividades de sólidos puros e líquidos puros são unitárias. K alto indica predominância relativa de produtos no sentido escrito, mas não informa se o equilíbrio será atingido depressa. Em um texto de prova, essa distinção pode aparecer escondida em uma frase sobre o resultado de uma medida. Identifique primeiro a causa física e depois a grandeza observada. Se for necessário comparar cenários, mude uma condição por vez para descobrir qual mudança explica a diferença.\n\nPergunte o que aconteceria se você aplicasse a regra a um desenho mais simples. Comece separando estas tarefas: Conferir a equação balanceada. Montar produtos sobre reagentes. Calcular Q ou K conforme os dados. Comparar os valores e inferir o sentido. Refaça o primeiro exemplo apenas com setas ou um esquema, deixando os números para o final. Em seguida, recolha do enunciado as unidades e os sentidos. Uma seta no desenho pode indicar a direção de uma interação, a mudança de uma medida ou apenas uma referência. É importante dizer qual papel ela desempenha antes de usar a relação do começo da lição.\n\nPara consolidar, use três perguntas de revisão. O que entra no denominador? Reagentes, elevados aos coeficientes. Quando há avanço líquido? Quando Q é menor que K na mesma temperatura. Catalisador altera K? Não na mesma temperatura. A ideia é explicar essas respostas sem depender da ordem em que apareceram. Em um problema de comparação, preste atenção às palavras que mantêm algo igual entre os cenários. Em um problema de cálculo, confira a operação inversa quando possível. Por exemplo, reintroduza o resultado na relação inicial e verifique se os dados do problema são recuperados. Em uma questão qualitativa, faça o equivalente testando se a conclusão explica as condições observadas.\n\nNo fim da leitura, diga qual grandeza a pergunta solicitou e qual grandeza você usou para chegar a ela. Faça essa distinção também quando a resposta for uma direção, uma comparação ou uma interpretação histórica. Um resultado bem explicado deve poder ser lido sem adivinhar de onde ele veio.\n\nEm uma atividade de estudo, escreva primeiro uma estimativa ou previsão. Depois escolha o dado específico que vai confirmar ou contrariar essa previsão. Se duas respostas parecerem possíveis, indique qual condição extra permitiria escolher entre elas. A ideia é explicar o raciocínio, deixando claro por que a relação física é apropriada naquele contexto.\n\nTROCANDO EM MIÚDOS:\nA expressão de equilíbrio permite comparar a composição observada agora com a composição que caracteriza o equilíbrio na mesma temperatura.\n\nK descreve o equilíbrio a temperatura fixa. Q usa a mesma expressão com a composição atual. Se Q < K, há tendência líquida de avanço.\n\nExemplo resolvido. Para 2A(g) ⇌ B(g), se a concentração relativa de A vale 0,40 e a de B vale 0,32 no equilíbrio, Kc = 0,32/0,40² = 2. O coeficiente 2 vira expoente da concentração relativa de A.\n\nOutro exemplo. Para C ⇌ D, K = 5. Se as concentrações relativas atuais valem 0,25 e 0,50, Q = 2. A transformação líquida caminha para D até que Q alcance K.\n\nAtividades de sólidos puros e líquidos puros são unitárias. K alto indica predominância relativa de produtos no sentido escrito, mas não informa se o equilíbrio será atingido depressa.\n\nO que entra no numerador? Produtos, elevados aos coeficientes. O que entra no denominador? Reagentes, elevados aos coeficientes. Como Q difere de K? Q descreve a composição atual; K a de equilíbrio. Quando há avanço líquido? Quando Q é menor que K na mesma temperatura. Como muda K ao inverter a equação? Passa ao recíproco. Catalisador altera K? Não na mesma temperatura.\n\nPara montar seu rascunho: Conferir a equação balanceada. Montar produtos sobre reagentes. Calcular Q ou K conforme os dados. Comparar os valores e inferir o sentido. Na leitura final, escolha a parte do desenho que corresponde ao resultado. Se encontrar uma unidade diferente da pedida, volte ao cálculo e confira os fatores de conversão. Quando a pergunta for conceitual, confira se a explicação indica o mecanismo que liga o dado à conclusão. Você pode comparar os dois exemplos da lição antes de tentar os exercícios e explicar de memória por que cada resultado faz sentido.\n\nLEI SECA:\nK descreve o equilíbrio a temperatura fixa. Q usa a mesma expressão com a composição atual. Se Q < K, há tendência líquida de avanço.\n\nSÚMULAS E TESES:\nOutro exemplo. Para C ⇌ D, K = 5. Se as concentrações relativas atuais valem 0,25 e 0,50, Q = 2. A transformação líquida caminha para D até que Q alcance K.\n\nESQUEMA:\nConferir a equação balanceada. → Montar produtos sobre reagentes. → Calcular Q ou K conforme os dados. → Comparar os valores e inferir o sentido.\n\nPEGADINHAS:\nAtividades de sólidos puros e líquidos puros são unitárias. K alto indica predominância relativa de produtos no sentido escrito, mas não informa se o equilíbrio será atingido depressa.\n\nDOUTRINA:\nEquilibrium Constants\n\nNA PRÁTICA:\nExemplo resolvido. Para 2A(g) ⇌ B(g), se a concentração relativa de A vale 0,40 e a de B vale 0,32 no equilíbrio, Kc = 0,32/0,40² = 2. O coeficiente 2 vira expoente da concentração relativa de A.",
+   "flashcards": [
+    {
+     "frente": "O que entra no numerador?",
+     "verso": "Produtos, elevados aos coeficientes.",
+     "dispositivo": "Transformação Química e Equilíbrio — Constante de equilíbrio"
+    },
+    {
+     "frente": "O que entra no denominador?",
+     "verso": "Reagentes, elevados aos coeficientes.",
+     "dispositivo": "Transformação Química e Equilíbrio — Constante de equilíbrio"
+    },
+    {
+     "frente": "Como Q difere de K?",
+     "verso": "Q descreve a composição atual; K a de equilíbrio.",
+     "dispositivo": "Transformação Química e Equilíbrio — Constante de equilíbrio"
+    },
+    {
+     "frente": "Quando há avanço líquido?",
+     "verso": "Quando Q é menor que K na mesma temperatura.",
+     "dispositivo": "Transformação Química e Equilíbrio — Constante de equilíbrio"
+    },
+    {
+     "frente": "Como muda K ao inverter a equação?",
+     "verso": "Passa ao recíproco.",
+     "dispositivo": "Transformação Química e Equilíbrio — Constante de equilíbrio"
+    },
+    {
+     "frente": "Catalisador altera K?",
+     "verso": "Não na mesma temperatura.",
+     "dispositivo": "Transformação Química e Equilíbrio — Constante de equilíbrio"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-quimica-constante-quociente-equilibrio-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Q é igual a K.",
+     "enunciado": "A composição está em equilíbrio no modelo.",
+     "gabarito": "C",
+     "comentario": "Certo. Não há tendência líquida para um dos lados.",
+     "habilidade": "H18",
+     "dificuldade": "media",
+     "dispositivo": "Transformação Química e Equilíbrio — Constante de equilíbrio"
+    },
+    {
+     "id": "enem-quimica-constante-quociente-equilibrio-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Q é maior do que K.",
+     "enunciado": "Há tendência líquida de formar mais produtos.",
+     "gabarito": "E",
+     "comentario": "Errado. O sentido inverso reduz Q.",
+     "habilidade": "H18",
+     "dificuldade": "media",
+     "dispositivo": "Transformação Química e Equilíbrio — Constante de equilíbrio"
+    },
+    {
+     "id": "enem-quimica-constante-quociente-equilibrio-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Ao inverter a reação escrita, invertem-se os termos do quociente.",
+     "enunciado": "A constante passa a 1/K.",
+     "gabarito": "C",
+     "comentario": "Certo. A expressão original é invertida.",
+     "habilidade": "H18",
+     "dificuldade": "media",
+     "dispositivo": "Transformação Química e Equilíbrio — Constante de equilíbrio"
+    },
+    {
+     "id": "enem-quimica-constante-quociente-equilibrio-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Há sólido puro presente.",
+     "enunciado": "Sua massa sempre aparece como fator explícito de K.",
+     "gabarito": "E",
+     "comentario": "Errado. A atividade de sólido puro é unitária.",
+     "habilidade": "H18",
+     "dificuldade": "media",
+     "dispositivo": "Transformação Química e Equilíbrio — Constante de equilíbrio"
+    },
+    {
+     "id": "enem-quimica-constante-quociente-equilibrio-c14-q05",
+     "tipo": "me",
+     "texto_base": "Para A ⇌ B, no equilíbrio A relativo vale 0,2 e B relativo vale 0,6.",
+     "enunciado": "Qual K?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "0,33",
+      "B": "3",
+      "C": "0,12",
+      "D": "0,4",
+      "E": "0,8"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve 0,33, enquanto a situação pede 3. Calcule 0,6/0,2.",
+      "B": "Correta. Calcule 0,6/0,2.",
+      "C": "Esta opção descreve 0,12, enquanto a situação pede 3. Calcule 0,6/0,2.",
+      "D": "Esta opção descreve 0,4, enquanto a situação pede 3. Calcule 0,6/0,2.",
+      "E": "Esta opção descreve 0,8, enquanto a situação pede 3. Calcule 0,6/0,2."
+     },
+     "comentario": "A) Esta opção descreve 0,33, enquanto a situação pede 3. Calcule 0,6/0,2.\nB) Correta. Calcule 0,6/0,2.\nC) Esta opção descreve 0,12, enquanto a situação pede 3. Calcule 0,6/0,2.\nD) Esta opção descreve 0,4, enquanto a situação pede 3. Calcule 0,6/0,2.\nE) Esta opção descreve 0,8, enquanto a situação pede 3. Calcule 0,6/0,2.",
+     "habilidade": "H18",
+     "dificuldade": "media",
+     "dispositivo": "Transformação Química e Equilíbrio — Constante de equilíbrio"
+    },
+    {
+     "id": "enem-quimica-constante-quociente-equilibrio-c14-q06",
+     "tipo": "me",
+     "texto_base": "Uma turma compara duas explicações para o mesmo experimento.",
+     "enunciado": "O que entra no denominador?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "Produtos, elevados aos coeficientes.",
+      "B": "Q descreve a composição atual; K a de equilíbrio.",
+      "C": "Quando Q é menor que K na mesma temperatura.",
+      "D": "Reagentes, elevados aos coeficientes.",
+      "E": "Passa ao recíproco."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta alternativa se refere à seguinte pergunta: O que entra no numerador?",
+      "B": "Esta alternativa se refere à seguinte pergunta: Como Q difere de K?",
+      "C": "Esta alternativa se refere à seguinte pergunta: Quando há avanço líquido?",
+      "D": "Correta. Reagentes, elevados aos coeficientes.",
+      "E": "Esta alternativa se refere à seguinte pergunta: Como muda K ao inverter a equação?"
+     },
+     "comentario": "A) Esta alternativa se refere à seguinte pergunta: O que entra no numerador?\nB) Esta alternativa se refere à seguinte pergunta: Como Q difere de K?\nC) Esta alternativa se refere à seguinte pergunta: Quando há avanço líquido?\nD) Correta. Reagentes, elevados aos coeficientes.\nE) Esta alternativa se refere à seguinte pergunta: Como muda K ao inverter a equação?",
+     "habilidade": "H18",
+     "dificuldade": "media",
+     "dispositivo": "Transformação Química e Equilíbrio — Constante de equilíbrio"
+    },
+    {
+     "id": "enem-quimica-constante-quociente-equilibrio-c14-q07",
+     "tipo": "me",
+     "texto_base": "Ao revisar a interpretação de um esquema, uma estudante consulta suas anotações.",
+     "enunciado": "Quando há avanço líquido?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "Quando Q é menor que K na mesma temperatura.",
+      "B": "Produtos, elevados aos coeficientes.",
+      "C": "Reagentes, elevados aos coeficientes.",
+      "D": "Q descreve a composição atual; K a de equilíbrio.",
+      "E": "Passa ao recíproco."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Quando Q é menor que K na mesma temperatura.",
+      "B": "Esta alternativa se refere à seguinte pergunta: O que entra no numerador?",
+      "C": "Esta alternativa se refere à seguinte pergunta: O que entra no denominador?",
+      "D": "Esta alternativa se refere à seguinte pergunta: Como Q difere de K?",
+      "E": "Esta alternativa se refere à seguinte pergunta: Como muda K ao inverter a equação?"
+     },
+     "comentario": "A) Correta. Quando Q é menor que K na mesma temperatura.\nB) Esta alternativa se refere à seguinte pergunta: O que entra no numerador?\nC) Esta alternativa se refere à seguinte pergunta: O que entra no denominador?\nD) Esta alternativa se refere à seguinte pergunta: Como Q difere de K?\nE) Esta alternativa se refere à seguinte pergunta: Como muda K ao inverter a equação?",
+     "habilidade": "H18",
+     "dificuldade": "media",
+     "dispositivo": "Transformação Química e Equilíbrio — Constante de equilíbrio"
+    },
+    {
+     "id": "enem-quimica-constante-quociente-equilibrio-c14-q08",
+     "tipo": "me",
+     "texto_base": "Antes de justificar o resultado no relatório, um grupo revisa o conceito.",
+     "enunciado": "Catalisador altera K?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Produtos, elevados aos coeficientes.",
+      "B": "Reagentes, elevados aos coeficientes.",
+      "C": "Q descreve a composição atual; K a de equilíbrio.",
+      "D": "Quando Q é menor que K na mesma temperatura.",
+      "E": "Não na mesma temperatura."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta alternativa se refere à seguinte pergunta: O que entra no numerador?",
+      "B": "Esta alternativa se refere à seguinte pergunta: O que entra no denominador?",
+      "C": "Esta alternativa se refere à seguinte pergunta: Como Q difere de K?",
+      "D": "Esta alternativa se refere à seguinte pergunta: Quando há avanço líquido?",
+      "E": "Correta. Não na mesma temperatura."
+     },
+     "comentario": "A) Esta alternativa se refere à seguinte pergunta: O que entra no numerador?\nB) Esta alternativa se refere à seguinte pergunta: O que entra no denominador?\nC) Esta alternativa se refere à seguinte pergunta: Como Q difere de K?\nD) Esta alternativa se refere à seguinte pergunta: Quando há avanço líquido?\nE) Correta. Não na mesma temperatura.",
+     "habilidade": "H18",
+     "dificuldade": "media",
+     "dispositivo": "Transformação Química e Equilíbrio — Constante de equilíbrio"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O que entra no numerador? ___",
+     "opcoes": [
+      "Produtos, elevados aos coeficientes.",
+      "Reagentes, elevados aos coeficientes.",
+      "Q descreve a composição atual; K a de equilíbrio.",
+      "Quando Q é menor que K na mesma temperatura."
+     ],
+     "respostas": [
+      "Produtos, elevados aos coeficientes."
+     ],
+     "explicacao": "Produtos, elevados aos coeficientes."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Como Q difere de K? ___",
+     "opcoes": [
+      "Q descreve a composição atual; K a de equilíbrio.",
+      "Quando Q é menor que K na mesma temperatura.",
+      "Passa ao recíproco.",
+      "Não na mesma temperatura."
+     ],
+     "respostas": [
+      "Q descreve a composição atual; K a de equilíbrio."
+     ],
+     "explicacao": "Q descreve a composição atual; K a de equilíbrio."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise de constante e quociente de equilíbrio.",
+     "itens": [
+      "Conferir a equação balanceada.",
+      "Montar produtos sobre reagentes.",
+      "Calcular Q ou K conforme os dados.",
+      "Comparar os valores e inferir o sentido."
+     ],
+     "explicacao": "K descreve o equilíbrio a temperatura fixa. Q usa a mesma expressão com a composição atual. Se Q < K, há tendência líquida de avanço."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O que entra no numerador?",
+       "Produtos, elevados aos coeficientes."
+      ],
+      [
+       "O que entra no denominador?",
+       "Reagentes, elevados aos coeficientes."
+      ],
+      [
+       "Como Q difere de K?",
+       "Q descreve a composição atual; K a de equilíbrio."
+      ],
+      [
+       "Quando há avanço líquido?",
+       "Quando Q é menor que K na mesma temperatura."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

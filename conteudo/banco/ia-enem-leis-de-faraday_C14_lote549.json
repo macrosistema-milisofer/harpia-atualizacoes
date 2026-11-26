@@ -1,0 +1,253 @@
+{
+ "assunto": "Leis de Faraday e quantidade depositada",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-leis-de-faraday-c14",
+   "titulo": "Leis de Faraday e quantidade depositada",
+   "microconteudo": "RAIO-X DA PROVA: Assunto do edital de Ciências da Natureza. A interpretação de dados ajuda a resolver situações-problema sobre esse conteúdo.\n\nPOR QUE IMPORTA:\nLeis de Faraday e quantidade depositada ajuda a traduzir observações e símbolos em explicações que você pode conferir. Nesta lição, você vai praticar a leitura de dados e justificar o resultado.\n\nO QUE A BANCA COBRA:\nIdentifique o que o problema descreve e escolha a conclusão explicada pelos dados. Revise a unidade, a entidade representada e as condições de aplicação quando elas fizerem parte do problema.\n\nENTENDA:\nNa eletrólise com corrente constante, a carga é Q = It. Dividir Q pela constante de Faraday, aproximadamente 96 485 C por mol de elétrons, fornece os mols de elétrons transferidos. A semirreação informa quantos elétrons correspondem a cada entidade produzida. A massa resulta da multiplicação da quantidade de produto por sua massa molar.\n\nNa redução Cu²⁺ + 2 e⁻ → Cu, 1 mol de elétrons pode depositar 0,50 mol de cobre com eficiência de corrente de 100%. Se a massa molar adotada é 63,5 g/mol, a massa ideal é 31,75 g. Em um processo real, parte da corrente pode alimentar reações paralelas.\n\nUm ampère equivale a um coulomb por segundo. Se o tempo constar em minutos, multiplique por sessenta antes de usar a corrente em ampères. A quantidade de material depositado não escala diretamente com a massa molar quando o número de elétrons por partícula também muda. Para comparar dois metais sob a mesma carga e eficiência, calcule a razão entre a massa molar e o número de elétrons exigido por átomo na semirreação. Essa razão informa a massa obtida por mol de elétrons. Em correntes variáveis, a carga corresponde à área sob o gráfico de corrente versus tempo; a fórmula com produto direto vale para corrente constante.\n\nPrimeiro caso: ligue os dados à regra\nUma célula recebe 1,5 A durante 20 s. Qual carga passa pelo circuito?\n\nComece lendo o enunciado como um pequeno relatório. Anote em uma linha o material ou sistema descrito e, em outra, o que se quer descobrir. Essa divisão evita misturar um dado já fornecido com o resultado pedido. Escolha a regra depois de localizar o que, no texto, autoriza sua aplicação. Ao terminar, teste se a resposta ainda faz sentido ao substituir os valores ou reler a observação.\n\nResultado: 30 C 1,5 × 20 = 30.\n\nCompare as hipóteses e os cálculos alternativos:\n• 13,3 C Resulta de dividir tempo pela corrente.\n• 1,5 C 1,5 é a corrente em A.\n• 20 C 20 é o tempo em segundos.\n• 300 C Dez vezes o produto correto.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nSegundo caso: cuide da condição que permite a conclusão\nUma célula usa Ag⁺ + e⁻ → Ag e transfere 0,20 mol de elétrons com eficiência ideal. Qual quantidade de Ag é depositada?\n\nCompare as interpretações antes de escolher. Duas respostas podem usar os mesmos termos ou números e ainda se referir a grandezas diferentes. Se houver unidades, escreva a unidade junto a cada valor. Se houver contagens, diga o que está sendo contado. Se a questão for explicativa, procure a relação de causa e efeito que é compatível com as condições fornecidas. Só então feche a resposta.\n\nResultado: 0,20 mol A razão é 1:1.\n\nCompare as hipóteses e os cálculos alternativos:\n• 0,10 mol Exigiria dois elétrons por Ag.\n• 0,40 mol Duplica sem base.\n• 1,0 mol Exigiria 1 mol de elétrons.\n• 0 mol A semirreação prevê depósito.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nTerceiro caso: confira o que a pergunta está medindo\nUma segunda corrida dobra a corrente e reduz o tempo à metade, com as outras condições e eficiência mantidas. Que acontece com a massa depositada?\n\nFaça uma primeira previsão usando palavras. Pergunte se o resultado esperado é uma contagem, uma propriedade, uma comparação ou um mecanismo. Escrever a previsão antes de olhar as alternativas ajuda a perceber quando dois valores semelhantes têm sentidos diferentes. Em seguida, explique em uma frase como o primeiro dado se conecta ao resultado. A resposta fica mais forte quando essa ligação pode ser checada no próprio enunciado.\n\nResultado: Permanece igual. O produto It permanece igual.\n\nCompare as hipóteses e os cálculos alternativos:\n• Dobra. O tempo compensa a corrente.\n• Cai à metade. A corrente compensa o tempo.\n• Quadruplica. A carga não cresce por esse fator.\n• Cai a zero. Há carga transferida.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nQuarto caso: escolha a conclusão sustentada\nUm banho tem eficiência de corrente de 80% para o depósito desejado. Que fração da massa prevista com toda a carga será obtida?\n\nTente justificar a escolha para alguém que observou apenas o resultado final. Comece pelos fatos que o problema realmente fornece e mostre como a regra interpreta esses fatos. Se a conclusão depender de uma condição, mantenha essa condição na justificativa. Depois procure uma alteração pequena nos dados que exigiria outra resposta. Esse último passo ajuda a reconhecer onde termina a aplicação do raciocínio.\n\nResultado: 80%. A fração de carga útil escala a massa do produto desejado.\n\nCompare as hipóteses e os cálculos alternativos:\n• 20%. É a fração empregada em outros processos.\n• 100%. Ignora a eficiência.\n• 125%. Divide pela fração em vez de multiplicar.\n• 0%. Há corrente útil.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nLeitura crítica 1\nUma corrente constante de 2 A passa por 30 s. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “A carga é 60 C.” Q = It, com tempo em segundos. A segunda é “A carga é 15 C.” O tempo multiplica a corrente.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nLeitura crítica 2\nUma redução exige três elétrons por átomo depositado. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “3 mol de elétrons podem produzir 1 mol de átomos nesse processo ideal.” A proporção vem da semirreação. A segunda é “Produzem 9 mol de átomos.” A quantidade de elétrons é dividida por três.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nCheque o alcance da conclusão\nNa eletrólise com corrente constante, a carga é Q = It. Dividir Q pela constante de Faraday, aproximadamente 96 485 C por mol de elétrons, fornece os mols de elétrons transferidos. A semirreação informa quantos elétrons correspondem a cada entidade produzida. A massa resulta da multiplicação da quantidade de produto por sua massa molar.\n\nAo estudar, escolha uma das situações acima e altere só um dado. Explique quais partes da solução continuam iguais e quais precisam ser refeitas. Num problema numérico, experimente multiplicar o dado alterado por dois e veja se a resposta dobra, diminui ou continua igual. Num problema de classificação, tente retirar a observação decisiva e veja quais hipóteses continuam compatíveis. Isso separa a regra geral da informação específica fornecida por uma questão.\n\nTROCANDO EM MIÚDOS:\nComece por uma pergunta que você conseguiria fazer a um colega: o que mudou, o que ficou igual e qual informação me permite dizer isso? Em questões de Química, dá para errar mesmo lembrando a regra certa quando se usa a regra para o dado errado. Separe a situação da pergunta. Leia os símbolos em voz baixa. Se houver dois materiais ou dois momentos, dê um nome curto para cada um. Assim você consegue comparar as coisas na ordem que o texto pediu.\n\nNa redução Cu²⁺ + 2 e⁻ → Cu, 1 mol de elétrons pode depositar 0,50 mol de cobre com eficiência de corrente de 100%. Se a massa molar adotada é 63,5 g/mol, a massa ideal é 31,75 g. Em um processo real, parte da corrente pode alimentar reações paralelas.\n\nExperimente com este caso. Uma célula recebe 1,5 A durante 20 s. Qual carga passa pelo circuito? A resposta é 30 C 1,5 × 20 = 30. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nExperimente com este caso. Um banho tem eficiência de corrente de 80% para o depósito desejado. Que fração da massa prevista com toda a carga será obtida? A resposta é 80%. A fração de carga útil escala a massa do produto desejado. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nFaça uma checagem que cabe no rascunho: escreva o dado, desenhe uma seta e escreva o que ele permite concluir. Se precisar de uma segunda seta, diga qual regra leva desse resultado intermediário até a resposta. Uma explicação em duas frases pode ser suficiente. A primeira conta o que o problema mostrou. A segunda diz por que esse dado leva à sua escolha. Esse caminho ajuda em problemas com tabelas, desenhos e comparações.\n\nESQUEMA:\nLeia o cenário → destaque o dado decisivo → aplique a relação → confira o que foi pedido.\n\nPEGADINHAS:\n• 13,3 C Resulta de dividir tempo pela corrente.\n• 0,10 mol Exigiria dois elétrons por Ag.\n• Dobra. O tempo compensa a corrente.\n• 20%. É a fração empregada em outros processos.\n\nNA PRÁTICA:\nNa redução Cu²⁺ + 2 e⁻ → Cu, 1 mol de elétrons pode depositar 0,50 mol de cobre com eficiência de corrente de 100%. Se a massa molar adotada é 63,5 g/mol, a massa ideal é 31,75 g. Em um processo real, parte da corrente pode alimentar reações paralelas.",
+   "flashcards": [
+    {
+     "frente": "Uma corrente constante de 2 A passa por 30 s. A carga é 60 C. Certo ou errado?",
+     "verso": "Certo. Q = It, com tempo em segundos.",
+     "dispositivo": "Transformações químicas e energia — Leis de Faraday"
+    },
+    {
+     "frente": "Uma redução exige três elétrons por átomo depositado. 3 mol de elétrons podem produzir 1 mol de átomos nesse processo ideal. Certo ou errado?",
+     "verso": "Certo. A proporção vem da semirreação.",
+     "dispositivo": "Transformações químicas e energia — Leis de Faraday"
+    },
+    {
+     "frente": "Uma célula recebe 1,5 A durante 20 s. Qual carga passa pelo circuito?",
+     "verso": "30 C 1,5 × 20 = 30.",
+     "dispositivo": "Transformações químicas e energia — Leis de Faraday"
+    },
+    {
+     "frente": "Uma célula usa Ag⁺ + e⁻ → Ag e transfere 0,20 mol de elétrons com eficiência ideal. Qual quantidade de Ag é depositada?",
+     "verso": "0,20 mol A razão é 1:1.",
+     "dispositivo": "Transformações químicas e energia — Leis de Faraday"
+    },
+    {
+     "frente": "Uma segunda corrida dobra a corrente e reduz o tempo à metade, com as outras condições e eficiência mantidas. Que acontece com a massa depositada?",
+     "verso": "Permanece igual. O produto It permanece igual.",
+     "dispositivo": "Transformações químicas e energia — Leis de Faraday"
+    },
+    {
+     "frente": "Um banho tem eficiência de corrente de 80% para o depósito desejado. Que fração da massa prevista com toda a carga será obtida?",
+     "verso": "80%. A fração de carga útil escala a massa do produto desejado.",
+     "dispositivo": "Transformações químicas e energia — Leis de Faraday"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Uma corrente constante de 2 A passa por 30 s.",
+     "enunciado": "A carga é 60 C.",
+     "gabarito": "C",
+     "comentario": "Certo. Q = It, com tempo em segundos.",
+     "id": "enem-leis-de-faraday-c14-q01",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Leis de Faraday",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma corrente constante de 2 A passa por 30 s.",
+     "enunciado": "A carga é 15 C.",
+     "gabarito": "E",
+     "comentario": "Errado. O tempo multiplica a corrente.",
+     "id": "enem-leis-de-faraday-c14-q02",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Leis de Faraday",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma redução exige três elétrons por átomo depositado.",
+     "enunciado": "3 mol de elétrons podem produzir 1 mol de átomos nesse processo ideal.",
+     "gabarito": "C",
+     "comentario": "Certo. A proporção vem da semirreação.",
+     "id": "enem-leis-de-faraday-c14-q03",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Leis de Faraday",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma redução exige três elétrons por átomo depositado.",
+     "enunciado": "Produzem 9 mol de átomos.",
+     "gabarito": "E",
+     "comentario": "Errado. A quantidade de elétrons é dividida por três.",
+     "id": "enem-leis-de-faraday-c14-q04",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Leis de Faraday",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma célula recebe 1,5 A durante 20 s.",
+     "enunciado": "Qual carga passa pelo circuito?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "13,3 C",
+      "B": "1,5 C",
+      "C": "20 C",
+      "D": "30 C",
+      "E": "300 C"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Resulta de dividir tempo pela corrente.",
+      "B": "1,5 é a corrente em A.",
+      "C": "20 é o tempo em segundos.",
+      "D": "1,5 × 20 = 30.",
+      "E": "Dez vezes o produto correto."
+     },
+     "comentario": "A) Resulta de dividir tempo pela corrente.\nB) 1,5 é a corrente em A.\nC) 20 é o tempo em segundos.\nD) 1,5 × 20 = 30.\nE) Dez vezes o produto correto.",
+     "id": "enem-leis-de-faraday-c14-q05",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Leis de Faraday",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma célula usa Ag⁺ + e⁻ → Ag e transfere 0,20 mol de elétrons com eficiência ideal.",
+     "enunciado": "Qual quantidade de Ag é depositada?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "0,20 mol",
+      "B": "0,10 mol",
+      "C": "0,40 mol",
+      "D": "1,0 mol",
+      "E": "0 mol"
+     },
+     "comentarios_por_alternativa": {
+      "A": "A razão é 1:1.",
+      "B": "Exigiria dois elétrons por Ag.",
+      "C": "Duplica sem base.",
+      "D": "Exigiria 1 mol de elétrons.",
+      "E": "A semirreação prevê depósito."
+     },
+     "comentario": "A) A razão é 1:1.\nB) Exigiria dois elétrons por Ag.\nC) Duplica sem base.\nD) Exigiria 1 mol de elétrons.\nE) A semirreação prevê depósito.",
+     "id": "enem-leis-de-faraday-c14-q06",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Leis de Faraday",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma segunda corrida dobra a corrente e reduz o tempo à metade, com as outras condições e eficiência mantidas.",
+     "enunciado": "Que acontece com a massa depositada?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Dobra.",
+      "B": "Cai à metade.",
+      "C": "Quadruplica.",
+      "D": "Cai a zero.",
+      "E": "Permanece igual."
+     },
+     "comentarios_por_alternativa": {
+      "A": "O tempo compensa a corrente.",
+      "B": "A corrente compensa o tempo.",
+      "C": "A carga não cresce por esse fator.",
+      "D": "Há carga transferida.",
+      "E": "O produto It permanece igual."
+     },
+     "comentario": "A) O tempo compensa a corrente.\nB) A corrente compensa o tempo.\nC) A carga não cresce por esse fator.\nD) Há carga transferida.\nE) O produto It permanece igual.",
+     "id": "enem-leis-de-faraday-c14-q07",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Leis de Faraday",
+     "dificuldade": "dificil"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um banho tem eficiência de corrente de 80% para o depósito desejado.",
+     "enunciado": "Que fração da massa prevista com toda a carga será obtida?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "20%.",
+      "B": "80%.",
+      "C": "100%.",
+      "D": "125%.",
+      "E": "0%."
+     },
+     "comentarios_por_alternativa": {
+      "A": "É a fração empregada em outros processos.",
+      "B": "A fração de carga útil escala a massa do produto desejado.",
+      "C": "Ignora a eficiência.",
+      "D": "Divide pela fração em vez de multiplicar.",
+      "E": "Há corrente útil."
+     },
+     "comentario": "A) É a fração empregada em outros processos.\nB) A fração de carga útil escala a massa do produto desejado.\nC) Ignora a eficiência.\nD) Divide pela fração em vez de multiplicar.\nE) Há corrente útil.",
+     "id": "enem-leis-de-faraday-c14-q08",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Leis de Faraday",
+     "dificuldade": "dificil"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Uma célula usa Ag⁺ + e⁻ → Ag e transfere 0,20 mol de elétrons com eficiência ideal. Qual quantidade de Ag é depositada? ___",
+     "opcoes": [
+      "0,10 mol",
+      "0,20 mol",
+      "0,40 mol",
+      "1,0 mol"
+     ],
+     "respostas": [
+      "0,20 mol"
+     ],
+     "explicacao": "A razão é 1:1."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Uma segunda corrida dobra a corrente e reduz o tempo à metade, com as outras condições e eficiência mantidas. Que acontece com a massa depositada? ___",
+     "opcoes": [
+      "Dobra.",
+      "Permanece igual.",
+      "Cai à metade.",
+      "Quadruplica."
+     ],
+     "respostas": [
+      "Permanece igual."
+     ],
+     "explicacao": "O produto It permanece igual."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise do caso: Uma célula recebe 1,5 A durante 20 s.",
+     "itens": [
+      "Localizar o que se quer descobrir: Qual carga passa pelo circuito?",
+      "Separar as informações dadas no enunciado.",
+      "Aplicar a relação adequada aos dados.",
+      "Conferir se a conclusão responde à pergunta."
+     ],
+     "explicacao": "1,5 × 20 = 30."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Uma célula recebe 1,5 A durante 20 s. Qual carga passa pelo circuito?",
+       "30 C"
+      ],
+      [
+       "Uma célula usa Ag⁺ + e⁻ → Ag e transfere 0,20 mol de elétrons com eficiência ideal. Qual quantidade de Ag é depositada?",
+       "0,20 mol"
+      ],
+      [
+       "Uma segunda corrida dobra a corrente e reduz o tempo à metade, com as outras condições e eficiência mantidas. Que acontece com a massa depositada?",
+       "Permanece igual."
+      ],
+      [
+       "Um banho tem eficiência de corrente de 80% para o depósito desejado. Que fração da massa prevista com toda a carga será obtida?",
+       "80%."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

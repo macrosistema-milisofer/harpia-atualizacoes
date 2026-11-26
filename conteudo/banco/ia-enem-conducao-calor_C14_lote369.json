@@ -1,0 +1,253 @@
+{
+ "assunto": "Condução do calor em barras e paredes",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-conducao-calor-c14",
+   "titulo": "Condução do calor em barras e paredes",
+   "microconteudo": "RAIO-X DA PROVA: Use a relação física indicada e confira as condições em que ela se aplica. Em regime estacionário, numa placa uniforme, a potência conduzida é kAΔT/L. A energia flui do lado quente para o frio.\n\nPOR QUE IMPORTA:\nA alça de uma panela e uma parede isolante mostram como o material e a geometria afetam a taxa de transferência térmica por contato.\n\nO QUE A BANCA COBRA:\nUse a relação física indicada e confira as condições em que ela se aplica. Em regime estacionário, numa placa uniforme, a potência conduzida é kAΔT/L. A energia flui do lado quente para o frio.\n\nENTENDA:\nA alça de uma panela e uma parede isolante mostram como o material e a geometria afetam a taxa de transferência térmica por contato.\n\nEm regime estacionário, numa placa uniforme, a potência conduzida é kAΔT/L. A energia flui do lado quente para o frio.\n\nExemplo resolvido. Uma placa possui k = 0,4 W/(m·K), área de 3 m², espessura de 0,12 m e diferença térmica de 8 K. A taxa vale 80 W. Em 10 s, são transferidos 800 J sob regime constante.\n\nOutro exemplo. Duas placas idênticas são colocadas em série térmica, uma atrás da outra, sem resistência de contato. A espessura efetiva dobra e, para a mesma diferença entre as faces externas, a potência cai à metade.\n\nMateriais de construção podem formar caminhos paralelos de calor. Uma pequena peça metálica atravessando uma camada isolante pode criar uma ponte térmica, porque oferece caminho de baixa resistência. Camadas em série e caminhos em paralelo devem ser distinguidos antes de estimar perdas.\n\nPara explicar o resultado, use o vocabulário da situação. O que é condutividade térmica? Propriedade que mede a facilidade de conduzir calor. Que unidade tem k no SI? Watt por metro kelvin. Como entra a área? A taxa é proporcional à área de passagem. Como entra a espessura? A taxa é inversamente proporcional à espessura. Por que metal parece frio ao toque? Pode retirar energia da mão mais rapidamente que um isolante à mesma temperatura. O que significa regime estacionário? O perfil de temperatura não varia no tempo.\n\nNa hora de resolver no papel, siga a sequência abaixo. Identificar o caminho térmico. Ler k, A, L e ΔT. Calcular a potência. Multiplicar pelo tempo se pedirem energia. Depois, escreva o resultado em uma frase completa. Um número isolado pode estar correto e, ainda assim, deixar ambíguo o que você calculou. Informe a unidade quando houver medida e identifique o objeto, a região ou o intervalo a que o resultado se refere.\n\nBom condutor e isolante descrevem taxas, não temperaturas necessariamente diferentes. A expressão pressupõe fluxo aproximadamente unidimensional e condições estacionárias.\n\nReleia os dois exemplos resolvidos e tente antecipar o desfecho sem consultar o cálculo. No primeiro exemplo, identifique qual dado determina diretamente a resposta. No segundo, diga qual condição deve permanecer válida para que a conclusão se mantenha. Compare depois o papel das unidades e do sentido das grandezas. Se o resultado for qualitativo, procure enunciar a previsão em termos observáveis. Se for quantitativo, estime a escala antes de efetuar a última operação.\n\nVocê pode adaptar a análise a uma situação do cotidiano. Comece com esta ideia: A alça de uma panela e uma parede isolante mostram como o material e a geometria afetam a taxa de transferência térmica por contato. Em seguida, desenhe o cenário, indique o que está sendo comparado e escreva que dado precisaria medir para testar a previsão. Diferencie a regra do modelo das informações que servem apenas para situar a história. Isso ajuda a decidir o que aproveitar quando uma questão apresenta mais dados do que a resolução exige.\n\nTrês conferências úteis: a definição corresponde ao objeto descrito? As condições indicadas no enunciado permitem aplicar a regra? A resposta continua coerente ao voltar ao desenho? Faça a última conferência lendo esta relação no contexto: Em regime estacionário, numa placa uniforme, a potência conduzida é kAΔT/L. A energia flui do lado quente para o frio. Uma hipótese deve ser usada dentro de sua faixa de validade; quando o contexto mudar, justifique a adaptação antes de transportar o resultado.\n\nAo treinar, explique a diferença entre o mecanismo e seu efeito. Bom condutor e isolante descrevem taxas, não temperaturas necessariamente diferentes. A expressão pressupõe fluxo aproximadamente unidimensional e condições estacionárias. Em um texto de prova, essa distinção pode aparecer escondida em uma frase sobre o resultado de uma medida. Identifique primeiro a causa física e depois a grandeza observada. Se for necessário comparar cenários, mude uma condição por vez para descobrir qual mudança explica a diferença.\n\nPergunte o que aconteceria se você aplicasse a regra a um desenho mais simples. Comece separando estas tarefas: Identificar o caminho térmico. Ler k, A, L e ΔT. Calcular a potência. Multiplicar pelo tempo se pedirem energia. Refaça o primeiro exemplo apenas com setas ou um esquema, deixando os números para o final. Em seguida, recolha do enunciado as unidades e os sentidos. Uma seta no desenho pode indicar a direção de uma interação, a mudança de uma medida ou apenas uma referência. É importante dizer qual papel ela desempenha antes de usar a relação do começo da lição.\n\nPara consolidar, use três perguntas de revisão. Que unidade tem k no SI? Watt por metro kelvin. Como entra a espessura? A taxa é inversamente proporcional à espessura. O que significa regime estacionário? O perfil de temperatura não varia no tempo. A ideia é explicar essas respostas sem depender da ordem em que apareceram. Em um problema de comparação, preste atenção às palavras que mantêm algo igual entre os cenários. Em um problema de cálculo, confira a operação inversa quando possível. Por exemplo, reintroduza o resultado na relação inicial e verifique se os dados do problema são recuperados. Em uma questão qualitativa, faça o equivalente testando se a conclusão explica as condições observadas.\n\nNo fim da leitura, diga qual grandeza a pergunta solicitou e qual grandeza você usou para chegar a ela. Faça essa distinção também quando a resposta for uma direção, uma comparação ou uma interpretação histórica. Um resultado bem explicado deve poder ser lido sem adivinhar de onde ele veio.\n\nEm uma atividade de estudo, escreva primeiro uma estimativa ou previsão. Depois escolha o dado específico que vai confirmar ou contrariar essa previsão. Se duas respostas parecerem possíveis, indique qual condição extra permitiria escolher entre elas. A ideia é explicar o raciocínio, deixando claro por que a relação física é apropriada naquele contexto.\n\nTROCANDO EM MIÚDOS:\nA alça de uma panela e uma parede isolante mostram como o material e a geometria afetam a taxa de transferência térmica por contato.\n\nEm regime estacionário, numa placa uniforme, a potência conduzida é kAΔT/L. A energia flui do lado quente para o frio.\n\nExemplo resolvido. Uma placa possui k = 0,4 W/(m·K), área de 3 m², espessura de 0,12 m e diferença térmica de 8 K. A taxa vale 80 W. Em 10 s, são transferidos 800 J sob regime constante.\n\nOutro exemplo. Duas placas idênticas são colocadas em série térmica, uma atrás da outra, sem resistência de contato. A espessura efetiva dobra e, para a mesma diferença entre as faces externas, a potência cai à metade.\n\nBom condutor e isolante descrevem taxas, não temperaturas necessariamente diferentes. A expressão pressupõe fluxo aproximadamente unidimensional e condições estacionárias.\n\nO que é condutividade térmica? Propriedade que mede a facilidade de conduzir calor. Que unidade tem k no SI? Watt por metro kelvin. Como entra a área? A taxa é proporcional à área de passagem. Como entra a espessura? A taxa é inversamente proporcional à espessura. Por que metal parece frio ao toque? Pode retirar energia da mão mais rapidamente que um isolante à mesma temperatura. O que significa regime estacionário? O perfil de temperatura não varia no tempo.\n\nPara montar seu rascunho: Identificar o caminho térmico. Ler k, A, L e ΔT. Calcular a potência. Multiplicar pelo tempo se pedirem energia. Na leitura final, escolha a parte do desenho que corresponde ao resultado. Se encontrar uma unidade diferente da pedida, volte ao cálculo e confira os fatores de conversão. Quando a pergunta for conceitual, confira se a explicação indica o mecanismo que liga o dado à conclusão. Você pode comparar os dois exemplos da lição antes de tentar os exercícios e explicar de memória por que cada resultado faz sentido.\n\nLEI SECA:\nEm regime estacionário, numa placa uniforme, a potência conduzida é kAΔT/L. A energia flui do lado quente para o frio.\n\nSÚMULAS E TESES:\nOutro exemplo. Duas placas idênticas são colocadas em série térmica, uma atrás da outra, sem resistência de contato. A espessura efetiva dobra e, para a mesma diferença entre as faces externas, a potência cai à metade.\n\nESQUEMA:\nIdentificar o caminho térmico. → Ler k, A, L e ΔT. → Calcular a potência. → Multiplicar pelo tempo se pedirem energia.\n\nPEGADINHAS:\nBom condutor e isolante descrevem taxas, não temperaturas necessariamente diferentes. A expressão pressupõe fluxo aproximadamente unidimensional e condições estacionárias.\n\nDOUTRINA:\nConduction\n\nNA PRÁTICA:\nExemplo resolvido. Uma placa possui k = 0,4 W/(m·K), área de 3 m², espessura de 0,12 m e diferença térmica de 8 K. A taxa vale 80 W. Em 10 s, são transferidos 800 J sob regime constante.",
+   "flashcards": [
+    {
+     "frente": "O que é condutividade térmica?",
+     "verso": "Propriedade que mede a facilidade de conduzir calor.",
+     "dispositivo": "O calor e os fenômenos térmicos — Condução do calor"
+    },
+    {
+     "frente": "Que unidade tem k no SI?",
+     "verso": "Watt por metro kelvin.",
+     "dispositivo": "O calor e os fenômenos térmicos — Condução do calor"
+    },
+    {
+     "frente": "Como entra a área?",
+     "verso": "A taxa é proporcional à área de passagem.",
+     "dispositivo": "O calor e os fenômenos térmicos — Condução do calor"
+    },
+    {
+     "frente": "Como entra a espessura?",
+     "verso": "A taxa é inversamente proporcional à espessura.",
+     "dispositivo": "O calor e os fenômenos térmicos — Condução do calor"
+    },
+    {
+     "frente": "Por que metal parece frio ao toque?",
+     "verso": "Pode retirar energia da mão mais rapidamente que um isolante à mesma temperatura.",
+     "dispositivo": "O calor e os fenômenos térmicos — Condução do calor"
+    },
+    {
+     "frente": "O que significa regime estacionário?",
+     "verso": "O perfil de temperatura não varia no tempo.",
+     "dispositivo": "O calor e os fenômenos térmicos — Condução do calor"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-conducao-calor-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Uma placa tem área maior, com demais parâmetros fixos.",
+     "enunciado": "A potência conduzida aumenta.",
+     "gabarito": "C",
+     "comentario": "Certo. A área aparece no numerador.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Condução do calor"
+    },
+    {
+     "id": "enem-fisica-conducao-calor-c14-q02",
+     "tipo": "ce",
+     "texto_base": "A espessura dobra com mesma área e mesma diferença térmica.",
+     "enunciado": "A taxa dobra.",
+     "gabarito": "E",
+     "comentario": "Errado. Cai à metade.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Condução do calor"
+    },
+    {
+     "id": "enem-fisica-conducao-calor-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Uma parede conduz 30 W em regime constante.",
+     "enunciado": "Em 2 s transfere 60 J.",
+     "gabarito": "C",
+     "comentario": "Certo. Potência vezes tempo dá energia.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Condução do calor"
+    },
+    {
+     "id": "enem-fisica-conducao-calor-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Uma placa em equilíbrio tem as duas faces à mesma temperatura.",
+     "enunciado": "Ela conduz fluxo líquido contínuo por diferença entre as faces.",
+     "gabarito": "E",
+     "comentario": "Errado. A diferença é nula.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Condução do calor"
+    },
+    {
+     "id": "enem-fisica-conducao-calor-c14-q05",
+     "tipo": "me",
+     "texto_base": "Uma placa conduz 60 W. A espessura triplica, sem outras mudanças.",
+     "enunciado": "Qual a nova taxa?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "180 W",
+      "B": "20 W",
+      "C": "60 W",
+      "D": "30 W",
+      "E": "6 W"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve 180 w, enquanto a situação pede 20 w. A espessura está no denominador.",
+      "B": "Correta. A espessura está no denominador.",
+      "C": "Esta opção descreve 60 w, enquanto a situação pede 20 w. A espessura está no denominador.",
+      "D": "Esta opção descreve 30 w, enquanto a situação pede 20 w. A espessura está no denominador.",
+      "E": "Esta opção descreve 6 w, enquanto a situação pede 20 w. A espessura está no denominador."
+     },
+     "comentario": "A) Esta opção descreve 180 w, enquanto a situação pede 20 w. A espessura está no denominador.\nB) Correta. A espessura está no denominador.\nC) Esta opção descreve 60 w, enquanto a situação pede 20 w. A espessura está no denominador.\nD) Esta opção descreve 30 w, enquanto a situação pede 20 w. A espessura está no denominador.\nE) Esta opção descreve 6 w, enquanto a situação pede 20 w. A espessura está no denominador.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Condução do calor"
+    },
+    {
+     "id": "enem-fisica-conducao-calor-c14-q06",
+     "tipo": "me",
+     "texto_base": "Uma placa tem k = 0,5 W/(m·K), A = 2 m², ΔT = 10 K e L = 0,1 m.",
+     "enunciado": "Qual a potência conduzida?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "10 W",
+      "B": "1 W",
+      "C": "20 W",
+      "D": "100 W",
+      "E": "200 W"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve 10 w, enquanto a situação pede 100 w. Substitua em kAΔT/L.",
+      "B": "Esta opção descreve 1 w, enquanto a situação pede 100 w. Substitua em kAΔT/L.",
+      "C": "Esta opção descreve 20 w, enquanto a situação pede 100 w. Substitua em kAΔT/L.",
+      "D": "Correta. Substitua em kAΔT/L.",
+      "E": "Esta opção descreve 200 w, enquanto a situação pede 100 w. Substitua em kAΔT/L."
+     },
+     "comentario": "A) Esta opção descreve 10 w, enquanto a situação pede 100 w. Substitua em kAΔT/L.\nB) Esta opção descreve 1 w, enquanto a situação pede 100 w. Substitua em kAΔT/L.\nC) Esta opção descreve 20 w, enquanto a situação pede 100 w. Substitua em kAΔT/L.\nD) Correta. Substitua em kAΔT/L.\nE) Esta opção descreve 200 w, enquanto a situação pede 100 w. Substitua em kAΔT/L.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Condução do calor"
+    },
+    {
+     "id": "enem-fisica-conducao-calor-c14-q07",
+     "tipo": "me",
+     "texto_base": "Uma parede mantém fluxo de 12 W durante 5 s.",
+     "enunciado": "Quanto de energia é transferido?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "60 J",
+      "B": "2,4 J",
+      "C": "17 J",
+      "D": "12 J",
+      "E": "5 J"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Multiplique 12 por 5.",
+      "B": "Esta opção descreve 2,4 j, enquanto a situação pede 60 j. Multiplique 12 por 5.",
+      "C": "Esta opção descreve 17 j, enquanto a situação pede 60 j. Multiplique 12 por 5.",
+      "D": "Esta opção descreve 12 j, enquanto a situação pede 60 j. Multiplique 12 por 5.",
+      "E": "Esta opção descreve 5 j, enquanto a situação pede 60 j. Multiplique 12 por 5."
+     },
+     "comentario": "A) Correta. Multiplique 12 por 5.\nB) Esta opção descreve 2,4 j, enquanto a situação pede 60 j. Multiplique 12 por 5.\nC) Esta opção descreve 17 j, enquanto a situação pede 60 j. Multiplique 12 por 5.\nD) Esta opção descreve 12 j, enquanto a situação pede 60 j. Multiplique 12 por 5.\nE) Esta opção descreve 5 j, enquanto a situação pede 60 j. Multiplique 12 por 5.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Condução do calor"
+    },
+    {
+     "id": "enem-fisica-conducao-calor-c14-q08",
+     "tipo": "me",
+     "texto_base": "Uma parede separa dois recintos com temperaturas fixas.",
+     "enunciado": "Qual medida favorece o isolamento por condução?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Fazer o isolante mais fino",
+      "B": "Escolher maior condutividade",
+      "C": "Remover a camada",
+      "D": "Criar ponte metálica",
+      "E": "Aumentar a espessura do isolante"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve fazer o isolante mais fino, enquanto a situação pede aumentar a espessura do isolante. A resistência térmica cresce com a espessura.",
+      "B": "Esta opção descreve escolher maior condutividade, enquanto a situação pede aumentar a espessura do isolante. A resistência térmica cresce com a espessura.",
+      "C": "Esta opção descreve remover a camada, enquanto a situação pede aumentar a espessura do isolante. A resistência térmica cresce com a espessura.",
+      "D": "Esta opção descreve criar ponte metálica, enquanto a situação pede aumentar a espessura do isolante. A resistência térmica cresce com a espessura.",
+      "E": "Correta. A resistência térmica cresce com a espessura."
+     },
+     "comentario": "A) Esta opção descreve fazer o isolante mais fino, enquanto a situação pede aumentar a espessura do isolante. A resistência térmica cresce com a espessura.\nB) Esta opção descreve escolher maior condutividade, enquanto a situação pede aumentar a espessura do isolante. A resistência térmica cresce com a espessura.\nC) Esta opção descreve remover a camada, enquanto a situação pede aumentar a espessura do isolante. A resistência térmica cresce com a espessura.\nD) Esta opção descreve criar ponte metálica, enquanto a situação pede aumentar a espessura do isolante. A resistência térmica cresce com a espessura.\nE) Correta. A resistência térmica cresce com a espessura.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Condução do calor"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O que é condutividade térmica? ___",
+     "opcoes": [
+      "Propriedade que mede a facilidade de conduzir calor.",
+      "Watt por metro kelvin.",
+      "A taxa é proporcional à área de passagem.",
+      "A taxa é inversamente proporcional à espessura."
+     ],
+     "respostas": [
+      "Propriedade que mede a facilidade de conduzir calor."
+     ],
+     "explicacao": "Propriedade que mede a facilidade de conduzir calor."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Como entra a área? ___",
+     "opcoes": [
+      "A taxa é proporcional à área de passagem.",
+      "A taxa é inversamente proporcional à espessura.",
+      "Pode retirar energia da mão mais rapidamente que um isolante à mesma temperatura.",
+      "O perfil de temperatura não varia no tempo."
+     ],
+     "respostas": [
+      "A taxa é proporcional à área de passagem."
+     ],
+     "explicacao": "A taxa é proporcional à área de passagem."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise de condução do calor em barras e paredes.",
+     "itens": [
+      "Identificar o caminho térmico.",
+      "Ler k, A, L e ΔT.",
+      "Calcular a potência.",
+      "Multiplicar pelo tempo se pedirem energia."
+     ],
+     "explicacao": "Em regime estacionário, numa placa uniforme, a potência conduzida é kAΔT/L. A energia flui do lado quente para o frio."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O que é condutividade térmica?",
+       "Propriedade que mede a facilidade de conduzir calor."
+      ],
+      [
+       "Que unidade tem k no SI?",
+       "Watt por metro kelvin."
+      ],
+      [
+       "Como entra a área?",
+       "A taxa é proporcional à área de passagem."
+      ],
+      [
+       "Como entra a espessura?",
+       "A taxa é inversamente proporcional à espessura."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

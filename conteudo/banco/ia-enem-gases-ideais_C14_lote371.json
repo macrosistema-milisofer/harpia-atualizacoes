@@ -1,0 +1,253 @@
+{
+ "assunto": "Gases ideais: pressão, volume e temperatura",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-gases-ideais-c14",
+   "titulo": "Gases ideais: pressão, volume e temperatura",
+   "microconteudo": "RAIO-X DA PROVA: Use a relação física indicada e confira as condições em que ela se aplica. A equação pV = nRT descreve o gás ideal. Com quantidade fixa, pV/T é constante entre estados de equilíbrio.\n\nPOR QUE IMPORTA:\nUma seringa tampada e um balão mostram que pressão e volume mudam conforme a temperatura e a forma como o gás é confinado.\n\nO QUE A BANCA COBRA:\nUse a relação física indicada e confira as condições em que ela se aplica. A equação pV = nRT descreve o gás ideal. Com quantidade fixa, pV/T é constante entre estados de equilíbrio.\n\nENTENDA:\nUma seringa tampada e um balão mostram que pressão e volume mudam conforme a temperatura e a forma como o gás é confinado.\n\nA equação pV = nRT descreve o gás ideal. Com quantidade fixa, pV/T é constante entre estados de equilíbrio.\n\nExemplo resolvido. Um gás ocupa 3 L a 300 K e 150 kPa. Se o volume permanece fixo e a temperatura chega a 450 K, a pressão sobe a 225 kPa. Mantidos n e V, a razão p/T é constante.\n\nOutro exemplo. Um gás é comprimido lentamente a temperatura constante de 6 L para 2 L. A pressão inicial de 85 kPa passa a 255 kPa. O produto pV permanece igual.\n\nO modelo ideal aproxima bem gases pouco densos em condições adequadas. Em alta pressão ou perto de condensar, o volume das moléculas e as interações podem ganhar importância. A equação deve ser aplicada nos estados de equilíbrio fornecidos e com unidades consistentes. Em proporções com litros, conserve essa unidade nos dois estados.\n\nPara explicar o resultado, use o vocabulário da situação. Qual equação descreve gás ideal? pV = nRT. O que é n? Quantidade de matéria em mol. Como se chama transformação a T constante? Isotérmica. Como se chama transformação a p constante? Isobárica. Como se chama transformação a V constante? Isocórica. Qual escala entra na equação? Kelvin.\n\nNa hora de resolver no papel, siga a sequência abaixo. Verificar se há saída de gás. Identificar a variável fixa. Converter temperatura para kelvin. Comparar os dois estados. Depois, escreva o resultado em uma frase completa. Um número isolado pode estar correto e, ainda assim, deixar ambíguo o que você calculou. Informe a unidade quando houver medida e identifique o objeto, a região ou o intervalo a que o resultado se refere.\n\nUse temperatura absoluta em kelvin para razões. A pergunta deve informar ou permitir inferir se pressão, volume ou temperatura ficou constante. Se o gás vazar, n pode variar.\n\nReleia os dois exemplos resolvidos e tente antecipar o desfecho sem consultar o cálculo. No primeiro exemplo, identifique qual dado determina diretamente a resposta. No segundo, diga qual condição deve permanecer válida para que a conclusão se mantenha. Compare depois o papel das unidades e do sentido das grandezas. Se o resultado for qualitativo, procure enunciar a previsão em termos observáveis. Se for quantitativo, estime a escala antes de efetuar a última operação.\n\nVocê pode adaptar a análise a uma situação do cotidiano. Comece com esta ideia: Uma seringa tampada e um balão mostram que pressão e volume mudam conforme a temperatura e a forma como o gás é confinado. Em seguida, desenhe o cenário, indique o que está sendo comparado e escreva que dado precisaria medir para testar a previsão. Diferencie a regra do modelo das informações que servem apenas para situar a história. Isso ajuda a decidir o que aproveitar quando uma questão apresenta mais dados do que a resolução exige.\n\nTrês conferências úteis: a definição corresponde ao objeto descrito? As condições indicadas no enunciado permitem aplicar a regra? A resposta continua coerente ao voltar ao desenho? Faça a última conferência lendo esta relação no contexto: A equação pV = nRT descreve o gás ideal. Com quantidade fixa, pV/T é constante entre estados de equilíbrio. Uma hipótese deve ser usada dentro de sua faixa de validade; quando o contexto mudar, justifique a adaptação antes de transportar o resultado.\n\nAo treinar, explique a diferença entre o mecanismo e seu efeito. Use temperatura absoluta em kelvin para razões. A pergunta deve informar ou permitir inferir se pressão, volume ou temperatura ficou constante. Se o gás vazar, n pode variar. Em um texto de prova, essa distinção pode aparecer escondida em uma frase sobre o resultado de uma medida. Identifique primeiro a causa física e depois a grandeza observada. Se for necessário comparar cenários, mude uma condição por vez para descobrir qual mudança explica a diferença.\n\nPergunte o que aconteceria se você aplicasse a regra a um desenho mais simples. Comece separando estas tarefas: Verificar se há saída de gás. Identificar a variável fixa. Converter temperatura para kelvin. Comparar os dois estados. Refaça o primeiro exemplo apenas com setas ou um esquema, deixando os números para o final. Em seguida, recolha do enunciado as unidades e os sentidos. Uma seta no desenho pode indicar a direção de uma interação, a mudança de uma medida ou apenas uma referência. É importante dizer qual papel ela desempenha antes de usar a relação do começo da lição.\n\nPara consolidar, use três perguntas de revisão. O que é n? Quantidade de matéria em mol. Como se chama transformação a p constante? Isobárica. Qual escala entra na equação? Kelvin. A ideia é explicar essas respostas sem depender da ordem em que apareceram. Em um problema de comparação, preste atenção às palavras que mantêm algo igual entre os cenários. Em um problema de cálculo, confira a operação inversa quando possível. Por exemplo, reintroduza o resultado na relação inicial e verifique se os dados do problema são recuperados. Em uma questão qualitativa, faça o equivalente testando se a conclusão explica as condições observadas.\n\nNo fim da leitura, diga qual grandeza a pergunta solicitou e qual grandeza você usou para chegar a ela. Faça essa distinção também quando a resposta for uma direção, uma comparação ou uma interpretação histórica. Um resultado bem explicado deve poder ser lido sem adivinhar de onde ele veio.\n\nEm uma atividade de estudo, escreva primeiro uma estimativa ou previsão. Depois escolha o dado específico que vai confirmar ou contrariar essa previsão. Se duas respostas parecerem possíveis, indique qual condição extra permitiria escolher entre elas. A ideia é explicar o raciocínio, deixando claro por que a relação física é apropriada naquele contexto.\n\nTROCANDO EM MIÚDOS:\nUma seringa tampada e um balão mostram que pressão e volume mudam conforme a temperatura e a forma como o gás é confinado.\n\nA equação pV = nRT descreve o gás ideal. Com quantidade fixa, pV/T é constante entre estados de equilíbrio.\n\nExemplo resolvido. Um gás ocupa 3 L a 300 K e 150 kPa. Se o volume permanece fixo e a temperatura chega a 450 K, a pressão sobe a 225 kPa. Mantidos n e V, a razão p/T é constante.\n\nOutro exemplo. Um gás é comprimido lentamente a temperatura constante de 6 L para 2 L. A pressão inicial de 85 kPa passa a 255 kPa. O produto pV permanece igual.\n\nUse temperatura absoluta em kelvin para razões. A pergunta deve informar ou permitir inferir se pressão, volume ou temperatura ficou constante. Se o gás vazar, n pode variar.\n\nQual equação descreve gás ideal? pV = nRT. O que é n? Quantidade de matéria em mol. Como se chama transformação a T constante? Isotérmica. Como se chama transformação a p constante? Isobárica. Como se chama transformação a V constante? Isocórica. Qual escala entra na equação? Kelvin.\n\nPara montar seu rascunho: Verificar se há saída de gás. Identificar a variável fixa. Converter temperatura para kelvin. Comparar os dois estados. Na leitura final, escolha a parte do desenho que corresponde ao resultado. Se encontrar uma unidade diferente da pedida, volte ao cálculo e confira os fatores de conversão. Quando a pergunta for conceitual, confira se a explicação indica o mecanismo que liga o dado à conclusão. Você pode comparar os dois exemplos da lição antes de tentar os exercícios e explicar de memória por que cada resultado faz sentido.\n\nLEI SECA:\nA equação pV = nRT descreve o gás ideal. Com quantidade fixa, pV/T é constante entre estados de equilíbrio.\n\nSÚMULAS E TESES:\nOutro exemplo. Um gás é comprimido lentamente a temperatura constante de 6 L para 2 L. A pressão inicial de 85 kPa passa a 255 kPa. O produto pV permanece igual.\n\nESQUEMA:\nVerificar se há saída de gás. → Identificar a variável fixa. → Converter temperatura para kelvin. → Comparar os dois estados.\n\nPEGADINHAS:\nUse temperatura absoluta em kelvin para razões. A pergunta deve informar ou permitir inferir se pressão, volume ou temperatura ficou constante. Se o gás vazar, n pode variar.\n\nDOUTRINA:\nThe Ideal Gas Law\n\nNA PRÁTICA:\nExemplo resolvido. Um gás ocupa 3 L a 300 K e 150 kPa. Se o volume permanece fixo e a temperatura chega a 450 K, a pressão sobe a 225 kPa. Mantidos n e V, a razão p/T é constante.",
+   "flashcards": [
+    {
+     "frente": "Qual equação descreve gás ideal?",
+     "verso": "pV = nRT.",
+     "dispositivo": "O calor e os fenômenos térmicos — Comportamento de gases ideais"
+    },
+    {
+     "frente": "O que é n?",
+     "verso": "Quantidade de matéria em mol.",
+     "dispositivo": "O calor e os fenômenos térmicos — Comportamento de gases ideais"
+    },
+    {
+     "frente": "Como se chama transformação a T constante?",
+     "verso": "Isotérmica.",
+     "dispositivo": "O calor e os fenômenos térmicos — Comportamento de gases ideais"
+    },
+    {
+     "frente": "Como se chama transformação a p constante?",
+     "verso": "Isobárica.",
+     "dispositivo": "O calor e os fenômenos térmicos — Comportamento de gases ideais"
+    },
+    {
+     "frente": "Como se chama transformação a V constante?",
+     "verso": "Isocórica.",
+     "dispositivo": "O calor e os fenômenos térmicos — Comportamento de gases ideais"
+    },
+    {
+     "frente": "Qual escala entra na equação?",
+     "verso": "Kelvin.",
+     "dispositivo": "O calor e os fenômenos térmicos — Comportamento de gases ideais"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-gases-ideais-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Um gás ideal é aquecido em recipiente rígido e fechado.",
+     "enunciado": "A pressão aumenta.",
+     "gabarito": "C",
+     "comentario": "Certo. A pressão é proporcional à temperatura absoluta.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Comportamento de gases ideais"
+    },
+    {
+     "id": "enem-fisica-gases-ideais-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Um gás a 20 °C é aquecido a 40 °C.",
+     "enunciado": "A temperatura absoluta dobra.",
+     "gabarito": "E",
+     "comentario": "Errado. As leituras devem ser convertidas para kelvin.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Comportamento de gases ideais"
+    },
+    {
+     "id": "enem-fisica-gases-ideais-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Uma compressão isotérmica mantém n fixo.",
+     "enunciado": "A pressão cresce quando V diminui.",
+     "gabarito": "C",
+     "comentario": "Certo. pV é constante.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Comportamento de gases ideais"
+    },
+    {
+     "id": "enem-fisica-gases-ideais-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Uma transformação é isobárica.",
+     "enunciado": "O volume também precisa permanecer constante.",
+     "gabarito": "E",
+     "comentario": "Errado. Ele pode variar com T.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Comportamento de gases ideais"
+    },
+    {
+     "id": "enem-fisica-gases-ideais-c14-q05",
+     "tipo": "me",
+     "texto_base": "Um gás ocupa 10 L a 120 kPa e é comprimido isotermicamente a 5 L.",
+     "enunciado": "Qual a pressão final?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "60 kPa",
+      "B": "240 kPa",
+      "C": "120 kPa",
+      "D": "125 kPa",
+      "E": "600 kPa"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve 60 kpa, enquanto a situação pede 240 kpa. O volume cai à metade e a pressão dobra.",
+      "B": "Correta. O volume cai à metade e a pressão dobra.",
+      "C": "Esta opção descreve 120 kpa, enquanto a situação pede 240 kpa. O volume cai à metade e a pressão dobra.",
+      "D": "Esta opção descreve 125 kpa, enquanto a situação pede 240 kpa. O volume cai à metade e a pressão dobra.",
+      "E": "Esta opção descreve 600 kpa, enquanto a situação pede 240 kpa. O volume cai à metade e a pressão dobra."
+     },
+     "comentario": "A) Esta opção descreve 60 kpa, enquanto a situação pede 240 kpa. O volume cai à metade e a pressão dobra.\nB) Correta. O volume cai à metade e a pressão dobra.\nC) Esta opção descreve 120 kpa, enquanto a situação pede 240 kpa. O volume cai à metade e a pressão dobra.\nD) Esta opção descreve 125 kpa, enquanto a situação pede 240 kpa. O volume cai à metade e a pressão dobra.\nE) Esta opção descreve 600 kpa, enquanto a situação pede 240 kpa. O volume cai à metade e a pressão dobra.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Comportamento de gases ideais"
+    },
+    {
+     "id": "enem-fisica-gases-ideais-c14-q06",
+     "tipo": "me",
+     "texto_base": "Um gás rígido passa de 200 K para 300 K; p inicial vale 80 kPa.",
+     "enunciado": "Qual a pressão final?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "53,3 kPa",
+      "B": "80 kPa",
+      "C": "100 kPa",
+      "D": "120 kPa",
+      "E": "240 kPa"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve 53,3 kpa, enquanto a situação pede 120 kpa. Multiplique 80 por 300/200.",
+      "B": "Esta opção descreve 80 kpa, enquanto a situação pede 120 kpa. Multiplique 80 por 300/200.",
+      "C": "Esta opção descreve 100 kpa, enquanto a situação pede 120 kpa. Multiplique 80 por 300/200.",
+      "D": "Correta. Multiplique 80 por 300/200.",
+      "E": "Esta opção descreve 240 kpa, enquanto a situação pede 120 kpa. Multiplique 80 por 300/200."
+     },
+     "comentario": "A) Esta opção descreve 53,3 kpa, enquanto a situação pede 120 kpa. Multiplique 80 por 300/200.\nB) Esta opção descreve 80 kpa, enquanto a situação pede 120 kpa. Multiplique 80 por 300/200.\nC) Esta opção descreve 100 kpa, enquanto a situação pede 120 kpa. Multiplique 80 por 300/200.\nD) Correta. Multiplique 80 por 300/200.\nE) Esta opção descreve 240 kpa, enquanto a situação pede 120 kpa. Multiplique 80 por 300/200.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Comportamento de gases ideais"
+    },
+    {
+     "id": "enem-fisica-gases-ideais-c14-q07",
+     "tipo": "me",
+     "texto_base": "Um gás ideal a pressão fixa ocupa 4 L a 300 K. Aquece a 600 K.",
+     "enunciado": "Qual o volume final?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "8 L",
+      "B": "2 L",
+      "C": "4 L",
+      "D": "12 L",
+      "E": "24 L"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. A temperatura absoluta dobra e V acompanha.",
+      "B": "Esta opção descreve 2 l, enquanto a situação pede 8 l. A temperatura absoluta dobra e V acompanha.",
+      "C": "Esta opção descreve 4 l, enquanto a situação pede 8 l. A temperatura absoluta dobra e V acompanha.",
+      "D": "Esta opção descreve 12 l, enquanto a situação pede 8 l. A temperatura absoluta dobra e V acompanha.",
+      "E": "Esta opção descreve 24 l, enquanto a situação pede 8 l. A temperatura absoluta dobra e V acompanha."
+     },
+     "comentario": "A) Correta. A temperatura absoluta dobra e V acompanha.\nB) Esta opção descreve 2 l, enquanto a situação pede 8 l. A temperatura absoluta dobra e V acompanha.\nC) Esta opção descreve 4 l, enquanto a situação pede 8 l. A temperatura absoluta dobra e V acompanha.\nD) Esta opção descreve 12 l, enquanto a situação pede 8 l. A temperatura absoluta dobra e V acompanha.\nE) Esta opção descreve 24 l, enquanto a situação pede 8 l. A temperatura absoluta dobra e V acompanha.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Comportamento de gases ideais"
+    },
+    {
+     "id": "enem-fisica-gases-ideais-c14-q08",
+     "tipo": "me",
+     "texto_base": "O cálculo usa p em Pa e R em J/(mol·K).",
+     "enunciado": "Qual unidade deve usar para V?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Litro sem conversão",
+      "B": "cm³ sem conversão",
+      "C": "Quilograma",
+      "D": "Kelvin",
+      "E": "m³"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve litro sem conversão, enquanto a situação pede m³. Pa multiplicado por m³ equivale a joule.",
+      "B": "Esta opção descreve cm³ sem conversão, enquanto a situação pede m³. Pa multiplicado por m³ equivale a joule.",
+      "C": "Esta opção descreve quilograma, enquanto a situação pede m³. Pa multiplicado por m³ equivale a joule.",
+      "D": "Esta opção descreve kelvin, enquanto a situação pede m³. Pa multiplicado por m³ equivale a joule.",
+      "E": "Correta. Pa multiplicado por m³ equivale a joule."
+     },
+     "comentario": "A) Esta opção descreve litro sem conversão, enquanto a situação pede m³. Pa multiplicado por m³ equivale a joule.\nB) Esta opção descreve cm³ sem conversão, enquanto a situação pede m³. Pa multiplicado por m³ equivale a joule.\nC) Esta opção descreve quilograma, enquanto a situação pede m³. Pa multiplicado por m³ equivale a joule.\nD) Esta opção descreve kelvin, enquanto a situação pede m³. Pa multiplicado por m³ equivale a joule.\nE) Correta. Pa multiplicado por m³ equivale a joule.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Comportamento de gases ideais"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Qual equação descreve gás ideal? ___",
+     "opcoes": [
+      "pV = nRT.",
+      "Quantidade de matéria em mol.",
+      "Isotérmica.",
+      "Isobárica."
+     ],
+     "respostas": [
+      "pV = nRT."
+     ],
+     "explicacao": "pV = nRT."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Como se chama transformação a T constante? ___",
+     "opcoes": [
+      "Isotérmica.",
+      "Isobárica.",
+      "Isocórica.",
+      "Kelvin."
+     ],
+     "respostas": [
+      "Isotérmica."
+     ],
+     "explicacao": "Isotérmica."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise de gases ideais: pressão, volume e temperatura.",
+     "itens": [
+      "Verificar se há saída de gás.",
+      "Identificar a variável fixa.",
+      "Converter temperatura para kelvin.",
+      "Comparar os dois estados."
+     ],
+     "explicacao": "A equação pV = nRT descreve o gás ideal. Com quantidade fixa, pV/T é constante entre estados de equilíbrio."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Qual equação descreve gás ideal?",
+       "pV = nRT."
+      ],
+      [
+       "O que é n?",
+       "Quantidade de matéria em mol."
+      ],
+      [
+       "Como se chama transformação a T constante?",
+       "Isotérmica."
+      ],
+      [
+       "Como se chama transformação a p constante?",
+       "Isobárica."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,253 @@
+{
+ "assunto": "Dilatação térmica de sólidos e líquidos",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-dilatacao-termica-c14",
+   "titulo": "Dilatação térmica de sólidos e líquidos",
+   "microconteudo": "RAIO-X DA PROVA: Use a relação física indicada e confira as condições em que ela se aplica. Para pequenas variações, ΔL = αL₀ΔT. Em sólidos isotrópicos, β aproximadamente 2α e γ aproximadamente 3α para área e volume.\n\nPOR QUE IMPORTA:\nJuntas de pontes e folgas de montagem permitem que peças mudem de tamanho ao aquecer sem ficar comprimidas entre apoios.\n\nO QUE A BANCA COBRA:\nUse a relação física indicada e confira as condições em que ela se aplica. Para pequenas variações, ΔL = αL₀ΔT. Em sólidos isotrópicos, β aproximadamente 2α e γ aproximadamente 3α para área e volume.\n\nENTENDA:\nJuntas de pontes e folgas de montagem permitem que peças mudem de tamanho ao aquecer sem ficar comprimidas entre apoios.\n\nPara pequenas variações, ΔL = αL₀ΔT. Em sólidos isotrópicos, β aproximadamente 2α e γ aproximadamente 3α para área e volume.\n\nExemplo resolvido. Uma barra de 8 m tem α = 1,5 × 10⁻⁵ K⁻¹. Em aquecimento de 40 K, alonga 8 × 1,5 × 10⁻⁵ × 40 = 0,0048 m, isto é, 4,8 mm.\n\nOutro exemplo. Uma placa circular tem abertura de 20 mm de diâmetro e α = 2 × 10⁻⁵ K⁻¹. Aquecida uniformemente em 50 K, a abertura cresce 0,020 mm: acompanha a dilatação do sólido.\n\nUm objeto aquecido de modo desigual pode deformar de forma diferente da prevista para temperatura uniforme. Numa lâmina bimetálica, os materiais ligados tentam dilatar em proporções diferentes e o conjunto se curva. Essa resposta pode ser usada para perceber mudanças de temperatura.\n\nPara explicar o resultado, use o vocabulário da situação. Qual é a expressão para variação de comprimento? ΔL = αL₀ΔT. Qual a unidade de α? Kelvin inverso. O comprimento inicial entra no cálculo? Sim, o alongamento é proporcional a ele. O que ocorre com um furo no aquecimento uniforme? Dilata-se junto com a peça. Qual o coeficiente volumétrico aproximado de sólido isotrópico? Três vezes o linear. O que é dilatação aparente de líquido? Mudança observada relativa à expansão do recipiente.\n\nNa hora de resolver no papel, siga a sequência abaixo. Distinguir comprimento, área e volume. Ler o coeficiente adequado. Calcular a diferença térmica. Converter o resultado para a unidade pedida. Depois, escreva o resultado em uma frase completa. Um número isolado pode estar correto e, ainda assim, deixar ambíguo o que você calculou. Informe a unidade quando houver medida e identifique o objeto, a região ou o intervalo a que o resultado se refere.\n\nUm furo aumenta sob aquecimento uniforme de material com α positivo. O transbordamento num recipiente depende da expansão relativa de líquido e recipiente.\n\nReleia os dois exemplos resolvidos e tente antecipar o desfecho sem consultar o cálculo. No primeiro exemplo, identifique qual dado determina diretamente a resposta. No segundo, diga qual condição deve permanecer válida para que a conclusão se mantenha. Compare depois o papel das unidades e do sentido das grandezas. Se o resultado for qualitativo, procure enunciar a previsão em termos observáveis. Se for quantitativo, estime a escala antes de efetuar a última operação.\n\nVocê pode adaptar a análise a uma situação do cotidiano. Comece com esta ideia: Juntas de pontes e folgas de montagem permitem que peças mudem de tamanho ao aquecer sem ficar comprimidas entre apoios. Em seguida, desenhe o cenário, indique o que está sendo comparado e escreva que dado precisaria medir para testar a previsão. Diferencie a regra do modelo das informações que servem apenas para situar a história. Isso ajuda a decidir o que aproveitar quando uma questão apresenta mais dados do que a resolução exige.\n\nTrês conferências úteis: a definição corresponde ao objeto descrito? As condições indicadas no enunciado permitem aplicar a regra? A resposta continua coerente ao voltar ao desenho? Faça a última conferência lendo esta relação no contexto: Para pequenas variações, ΔL = αL₀ΔT. Em sólidos isotrópicos, β aproximadamente 2α e γ aproximadamente 3α para área e volume. Uma hipótese deve ser usada dentro de sua faixa de validade; quando o contexto mudar, justifique a adaptação antes de transportar o resultado.\n\nAo treinar, explique a diferença entre o mecanismo e seu efeito. Um furo aumenta sob aquecimento uniforme de material com α positivo. O transbordamento num recipiente depende da expansão relativa de líquido e recipiente. Em um texto de prova, essa distinção pode aparecer escondida em uma frase sobre o resultado de uma medida. Identifique primeiro a causa física e depois a grandeza observada. Se for necessário comparar cenários, mude uma condição por vez para descobrir qual mudança explica a diferença.\n\nPergunte o que aconteceria se você aplicasse a regra a um desenho mais simples. Comece separando estas tarefas: Distinguir comprimento, área e volume. Ler o coeficiente adequado. Calcular a diferença térmica. Converter o resultado para a unidade pedida. Refaça o primeiro exemplo apenas com setas ou um esquema, deixando os números para o final. Em seguida, recolha do enunciado as unidades e os sentidos. Uma seta no desenho pode indicar a direção de uma interação, a mudança de uma medida ou apenas uma referência. É importante dizer qual papel ela desempenha antes de usar a relação do começo da lição.\n\nPara consolidar, use três perguntas de revisão. Qual a unidade de α? Kelvin inverso. O que ocorre com um furo no aquecimento uniforme? Dilata-se junto com a peça. O que é dilatação aparente de líquido? Mudança observada relativa à expansão do recipiente. A ideia é explicar essas respostas sem depender da ordem em que apareceram. Em um problema de comparação, preste atenção às palavras que mantêm algo igual entre os cenários. Em um problema de cálculo, confira a operação inversa quando possível. Por exemplo, reintroduza o resultado na relação inicial e verifique se os dados do problema são recuperados. Em uma questão qualitativa, faça o equivalente testando se a conclusão explica as condições observadas.\n\nNo fim da leitura, diga qual grandeza a pergunta solicitou e qual grandeza você usou para chegar a ela. Faça essa distinção também quando a resposta for uma direção, uma comparação ou uma interpretação histórica. Um resultado bem explicado deve poder ser lido sem adivinhar de onde ele veio.\n\nEm uma atividade de estudo, escreva primeiro uma estimativa ou previsão. Depois escolha o dado específico que vai confirmar ou contrariar essa previsão. Se duas respostas parecerem possíveis, indique qual condição extra permitiria escolher entre elas. A ideia é explicar o raciocínio, deixando claro por que a relação física é apropriada naquele contexto.\n\nTROCANDO EM MIÚDOS:\nJuntas de pontes e folgas de montagem permitem que peças mudem de tamanho ao aquecer sem ficar comprimidas entre apoios.\n\nPara pequenas variações, ΔL = αL₀ΔT. Em sólidos isotrópicos, β aproximadamente 2α e γ aproximadamente 3α para área e volume.\n\nExemplo resolvido. Uma barra de 8 m tem α = 1,5 × 10⁻⁵ K⁻¹. Em aquecimento de 40 K, alonga 8 × 1,5 × 10⁻⁵ × 40 = 0,0048 m, isto é, 4,8 mm.\n\nOutro exemplo. Uma placa circular tem abertura de 20 mm de diâmetro e α = 2 × 10⁻⁵ K⁻¹. Aquecida uniformemente em 50 K, a abertura cresce 0,020 mm: acompanha a dilatação do sólido.\n\nUm furo aumenta sob aquecimento uniforme de material com α positivo. O transbordamento num recipiente depende da expansão relativa de líquido e recipiente.\n\nQual é a expressão para variação de comprimento? ΔL = αL₀ΔT. Qual a unidade de α? Kelvin inverso. O comprimento inicial entra no cálculo? Sim, o alongamento é proporcional a ele. O que ocorre com um furo no aquecimento uniforme? Dilata-se junto com a peça. Qual o coeficiente volumétrico aproximado de sólido isotrópico? Três vezes o linear. O que é dilatação aparente de líquido? Mudança observada relativa à expansão do recipiente.\n\nPara montar seu rascunho: Distinguir comprimento, área e volume. Ler o coeficiente adequado. Calcular a diferença térmica. Converter o resultado para a unidade pedida. Na leitura final, escolha a parte do desenho que corresponde ao resultado. Se encontrar uma unidade diferente da pedida, volte ao cálculo e confira os fatores de conversão. Quando a pergunta for conceitual, confira se a explicação indica o mecanismo que liga o dado à conclusão. Você pode comparar os dois exemplos da lição antes de tentar os exercícios e explicar de memória por que cada resultado faz sentido.\n\nLEI SECA:\nPara pequenas variações, ΔL = αL₀ΔT. Em sólidos isotrópicos, β aproximadamente 2α e γ aproximadamente 3α para área e volume.\n\nSÚMULAS E TESES:\nOutro exemplo. Uma placa circular tem abertura de 20 mm de diâmetro e α = 2 × 10⁻⁵ K⁻¹. Aquecida uniformemente em 50 K, a abertura cresce 0,020 mm: acompanha a dilatação do sólido.\n\nESQUEMA:\nDistinguir comprimento, área e volume. → Ler o coeficiente adequado. → Calcular a diferença térmica. → Converter o resultado para a unidade pedida.\n\nPEGADINHAS:\nUm furo aumenta sob aquecimento uniforme de material com α positivo. O transbordamento num recipiente depende da expansão relativa de líquido e recipiente.\n\nDOUTRINA:\nThermal Expansion\n\nNA PRÁTICA:\nExemplo resolvido. Uma barra de 8 m tem α = 1,5 × 10⁻⁵ K⁻¹. Em aquecimento de 40 K, alonga 8 × 1,5 × 10⁻⁵ × 40 = 0,0048 m, isto é, 4,8 mm.",
+   "flashcards": [
+    {
+     "frente": "Qual é a expressão para variação de comprimento?",
+     "verso": "ΔL = αL₀ΔT.",
+     "dispositivo": "O calor e os fenômenos térmicos — Dilatação térmica"
+    },
+    {
+     "frente": "Qual a unidade de α?",
+     "verso": "Kelvin inverso.",
+     "dispositivo": "O calor e os fenômenos térmicos — Dilatação térmica"
+    },
+    {
+     "frente": "O comprimento inicial entra no cálculo?",
+     "verso": "Sim, o alongamento é proporcional a ele.",
+     "dispositivo": "O calor e os fenômenos térmicos — Dilatação térmica"
+    },
+    {
+     "frente": "O que ocorre com um furo no aquecimento uniforme?",
+     "verso": "Dilata-se junto com a peça.",
+     "dispositivo": "O calor e os fenômenos térmicos — Dilatação térmica"
+    },
+    {
+     "frente": "Qual o coeficiente volumétrico aproximado de sólido isotrópico?",
+     "verso": "Três vezes o linear.",
+     "dispositivo": "O calor e os fenômenos térmicos — Dilatação térmica"
+    },
+    {
+     "frente": "O que é dilatação aparente de líquido?",
+     "verso": "Mudança observada relativa à expansão do recipiente.",
+     "dispositivo": "O calor e os fenômenos térmicos — Dilatação térmica"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-dilatacao-termica-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Uma barra de coeficiente positivo é aquecida livremente.",
+     "enunciado": "Seu comprimento aumenta.",
+     "gabarito": "C",
+     "comentario": "Certo. ΔT e α são positivos.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Dilatação térmica"
+    },
+    {
+     "id": "enem-fisica-dilatacao-termica-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Uma chapa com furo é aquecida uniformemente.",
+     "enunciado": "O furo sempre encolhe.",
+     "gabarito": "E",
+     "comentario": "Errado. Para α positivo, o furo aumenta.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Dilatação térmica"
+    },
+    {
+     "id": "enem-fisica-dilatacao-termica-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Duas barras idênticas variam temperatura por 10 K e 20 K.",
+     "enunciado": "A segunda dilata o dobro no modelo linear.",
+     "gabarito": "C",
+     "comentario": "Certo. ΔL é proporcional a ΔT.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Dilatação térmica"
+    },
+    {
+     "id": "enem-fisica-dilatacao-termica-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Uma barra é impedida de dilatar.",
+     "enunciado": "Ela fica isenta de esforço por não mudar de comprimento.",
+     "gabarito": "E",
+     "comentario": "Errado. A restrição pode gerar tensão mecânica.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Dilatação térmica"
+    },
+    {
+     "id": "enem-fisica-dilatacao-termica-c14-q05",
+     "tipo": "me",
+     "texto_base": "Uma barra de 2 m tem α = 10⁻⁵ K⁻¹ e ΔT = 50 K.",
+     "enunciado": "Quanto se alonga?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "0,1 mm",
+      "B": "1 mm",
+      "C": "10 mm",
+      "D": "5 mm",
+      "E": "100 mm"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve 0,1 mm, enquanto a situação pede 1 mm. 2 × 10⁻⁵ × 50 = 0,001 m.",
+      "B": "Correta. 2 × 10⁻⁵ × 50 = 0,001 m.",
+      "C": "Esta opção descreve 10 mm, enquanto a situação pede 1 mm. 2 × 10⁻⁵ × 50 = 0,001 m.",
+      "D": "Esta opção descreve 5 mm, enquanto a situação pede 1 mm. 2 × 10⁻⁵ × 50 = 0,001 m.",
+      "E": "Esta opção descreve 100 mm, enquanto a situação pede 1 mm. 2 × 10⁻⁵ × 50 = 0,001 m."
+     },
+     "comentario": "A) Esta opção descreve 0,1 mm, enquanto a situação pede 1 mm. 2 × 10⁻⁵ × 50 = 0,001 m.\nB) Correta. 2 × 10⁻⁵ × 50 = 0,001 m.\nC) Esta opção descreve 10 mm, enquanto a situação pede 1 mm. 2 × 10⁻⁵ × 50 = 0,001 m.\nD) Esta opção descreve 5 mm, enquanto a situação pede 1 mm. 2 × 10⁻⁵ × 50 = 0,001 m.\nE) Esta opção descreve 100 mm, enquanto a situação pede 1 mm. 2 × 10⁻⁵ × 50 = 0,001 m.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Dilatação térmica"
+    },
+    {
+     "id": "enem-fisica-dilatacao-termica-c14-q06",
+     "tipo": "me",
+     "texto_base": "Um sólido isotrópico tem α = 2 × 10⁻⁵ K⁻¹.",
+     "enunciado": "Qual a aproximação para γ?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "4 × 10⁻⁵ K⁻¹",
+      "B": "2 × 10⁻⁵ K⁻¹",
+      "C": "1 × 10⁻⁵ K⁻¹",
+      "D": "6 × 10⁻⁵ K⁻¹",
+      "E": "8 × 10⁻⁵ K⁻¹"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve 4 × 10⁻⁵ k⁻¹, enquanto a situação pede 6 × 10⁻⁵ k⁻¹. O coeficiente volumétrico vale aproximadamente 3α.",
+      "B": "Esta opção descreve 2 × 10⁻⁵ k⁻¹, enquanto a situação pede 6 × 10⁻⁵ k⁻¹. O coeficiente volumétrico vale aproximadamente 3α.",
+      "C": "Esta opção descreve 1 × 10⁻⁵ k⁻¹, enquanto a situação pede 6 × 10⁻⁵ k⁻¹. O coeficiente volumétrico vale aproximadamente 3α.",
+      "D": "Correta. O coeficiente volumétrico vale aproximadamente 3α.",
+      "E": "Esta opção descreve 8 × 10⁻⁵ k⁻¹, enquanto a situação pede 6 × 10⁻⁵ k⁻¹. O coeficiente volumétrico vale aproximadamente 3α."
+     },
+     "comentario": "A) Esta opção descreve 4 × 10⁻⁵ k⁻¹, enquanto a situação pede 6 × 10⁻⁵ k⁻¹. O coeficiente volumétrico vale aproximadamente 3α.\nB) Esta opção descreve 2 × 10⁻⁵ k⁻¹, enquanto a situação pede 6 × 10⁻⁵ k⁻¹. O coeficiente volumétrico vale aproximadamente 3α.\nC) Esta opção descreve 1 × 10⁻⁵ k⁻¹, enquanto a situação pede 6 × 10⁻⁵ k⁻¹. O coeficiente volumétrico vale aproximadamente 3α.\nD) Correta. O coeficiente volumétrico vale aproximadamente 3α.\nE) Esta opção descreve 8 × 10⁻⁵ k⁻¹, enquanto a situação pede 6 × 10⁻⁵ k⁻¹. O coeficiente volumétrico vale aproximadamente 3α.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Dilatação térmica"
+    },
+    {
+     "id": "enem-fisica-dilatacao-termica-c14-q07",
+     "tipo": "me",
+     "texto_base": "Duas barras do mesmo material têm comprimentos de 4 m e 12 m, com mesmo aquecimento.",
+     "enunciado": "Qual a razão entre os alongamentos da maior e da menor?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "3",
+      "B": "9",
+      "C": "1",
+      "D": "0,33",
+      "E": "2"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. A variação é proporcional ao comprimento inicial.",
+      "B": "Esta opção descreve 9, enquanto a situação pede 3. A variação é proporcional ao comprimento inicial.",
+      "C": "Esta opção descreve 1, enquanto a situação pede 3. A variação é proporcional ao comprimento inicial.",
+      "D": "Esta opção descreve 0,33, enquanto a situação pede 3. A variação é proporcional ao comprimento inicial.",
+      "E": "Esta opção descreve 2, enquanto a situação pede 3. A variação é proporcional ao comprimento inicial."
+     },
+     "comentario": "A) Correta. A variação é proporcional ao comprimento inicial.\nB) Esta opção descreve 9, enquanto a situação pede 3. A variação é proporcional ao comprimento inicial.\nC) Esta opção descreve 1, enquanto a situação pede 3. A variação é proporcional ao comprimento inicial.\nD) Esta opção descreve 0,33, enquanto a situação pede 3. A variação é proporcional ao comprimento inicial.\nE) Esta opção descreve 2, enquanto a situação pede 3. A variação é proporcional ao comprimento inicial.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Dilatação térmica"
+    },
+    {
+     "id": "enem-fisica-dilatacao-termica-c14-q08",
+     "tipo": "me",
+     "texto_base": "Uma lâmina livre de 4 m com α positivo esfria.",
+     "enunciado": "Qual o sinal de ΔL se ΔT for negativo?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Positivo",
+      "B": "Sempre nulo",
+      "C": "Igual ao de α",
+      "D": "Indeterminado mesmo conhecendo α positivo",
+      "E": "Negativo"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve positivo, enquanto a situação pede negativo. ΔL acompanha o sinal de ΔT.",
+      "B": "Esta opção descreve sempre nulo, enquanto a situação pede negativo. ΔL acompanha o sinal de ΔT.",
+      "C": "Esta opção descreve igual ao de α, enquanto a situação pede negativo. ΔL acompanha o sinal de ΔT.",
+      "D": "Esta opção descreve indeterminado mesmo conhecendo α positivo, enquanto a situação pede negativo. ΔL acompanha o sinal de ΔT.",
+      "E": "Correta. ΔL acompanha o sinal de ΔT."
+     },
+     "comentario": "A) Esta opção descreve positivo, enquanto a situação pede negativo. ΔL acompanha o sinal de ΔT.\nB) Esta opção descreve sempre nulo, enquanto a situação pede negativo. ΔL acompanha o sinal de ΔT.\nC) Esta opção descreve igual ao de α, enquanto a situação pede negativo. ΔL acompanha o sinal de ΔT.\nD) Esta opção descreve indeterminado mesmo conhecendo α positivo, enquanto a situação pede negativo. ΔL acompanha o sinal de ΔT.\nE) Correta. ΔL acompanha o sinal de ΔT.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Dilatação térmica"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Qual é a expressão para variação de comprimento? ___",
+     "opcoes": [
+      "ΔL = αL₀ΔT.",
+      "Kelvin inverso.",
+      "Sim, o alongamento é proporcional a ele.",
+      "Dilata-se junto com a peça."
+     ],
+     "respostas": [
+      "ΔL = αL₀ΔT."
+     ],
+     "explicacao": "ΔL = αL₀ΔT."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "O comprimento inicial entra no cálculo? ___",
+     "opcoes": [
+      "Sim, o alongamento é proporcional a ele.",
+      "Dilata-se junto com a peça.",
+      "Três vezes o linear.",
+      "Mudança observada relativa à expansão do recipiente."
+     ],
+     "respostas": [
+      "Sim, o alongamento é proporcional a ele."
+     ],
+     "explicacao": "Sim, o alongamento é proporcional a ele."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise de dilatação térmica de sólidos e líquidos.",
+     "itens": [
+      "Distinguir comprimento, área e volume.",
+      "Ler o coeficiente adequado.",
+      "Calcular a diferença térmica.",
+      "Converter o resultado para a unidade pedida."
+     ],
+     "explicacao": "Para pequenas variações, ΔL = αL₀ΔT. Em sólidos isotrópicos, β aproximadamente 2α e γ aproximadamente 3α para área e volume."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Qual é a expressão para variação de comprimento?",
+       "ΔL = αL₀ΔT."
+      ],
+      [
+       "Qual a unidade de α?",
+       "Kelvin inverso."
+      ],
+      [
+       "O comprimento inicial entra no cálculo?",
+       "Sim, o alongamento é proporcional a ele."
+      ],
+      [
+       "O que ocorre com um furo no aquecimento uniforme?",
+       "Dilata-se junto com a peça."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

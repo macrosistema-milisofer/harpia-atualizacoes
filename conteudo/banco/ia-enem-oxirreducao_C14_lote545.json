@@ -1,0 +1,253 @@
+{
+ "assunto": "Reações de oxirredução e número de oxidação",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-oxirreducao-c14",
+   "titulo": "Reações de oxirredução e número de oxidação",
+   "microconteudo": "RAIO-X DA PROVA: Assunto do edital de Ciências da Natureza. A interpretação de dados ajuda a resolver situações-problema sobre esse conteúdo.\n\nPOR QUE IMPORTA:\nReações de oxirredução e número de oxidação ajuda a traduzir observações e símbolos em explicações que você pode conferir. Nesta lição, você vai praticar a leitura de dados e justificar o resultado.\n\nO QUE A BANCA COBRA:\nIdentifique o que o problema descreve e escolha a conclusão explicada pelos dados. Revise a unidade, a entidade representada e as condições de aplicação quando elas fizerem parte do problema.\n\nENTENDA:\nOxidação é perda de elétrons e redução é ganho. O número de oxidação permite registrar mudanças formais. Um agente oxidante aceita elétrons e se reduz. Um agente redutor cede elétrons e se oxida. O balanço global conserva matéria e carga.\n\nEm Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s), Zn vai de 0 a +2 e fornece dois elétrons. O cobre vai de +2 a 0 e recebe esses elétrons. Zn é o agente redutor e Cu²⁺ é o agente oxidante.\n\nPara atribuir NOX numa espécie neutra, a soma algébrica dos números ponderados pela contagem de cada elemento é zero. Em um íon, a soma é a carga indicada. Quando o mesmo elemento aparece em ambos os lados da equação, faça a comparação na espécie correspondente e verifique se o aumento total compensa a diminuição. Uma tabela simples com elemento, NOX inicial e NOX final ajuda a separar a espécie que muda daquelas que apenas acompanham o processo em solução. O agente recebe o nome pela ação que provoca na outra espécie. Assim, o agente oxidante promove a oxidação do parceiro justamente porque recebe os elétrons que o parceiro perde.\n\nPrimeiro caso: ligue os dados à regra\nNa reação Mg + 2 Ag⁺ → Mg²⁺ + 2 Ag, quem se oxida? Qual espécie inicial?\n\nComece lendo o enunciado como um pequeno relatório. Anote em uma linha o material ou sistema descrito e, em outra, o que se quer descobrir. Essa divisão evita misturar um dado já fornecido com o resultado pedido. Escolha a regra depois de localizar o que, no texto, autoriza sua aplicação. Ao terminar, teste se a resposta ainda faz sentido ao substituir os valores ou reler a observação.\n\nResultado: Mg. Seu NOX sobe de 0 a +2.\n\nCompare as hipóteses e os cálculos alternativos:\n• Ag⁺. Seu NOX cai.\n• Ag metálica. É produto da redução.\n• Mg²⁺. É produto da oxidação, não espécie inicial.\n• Todos os íons. O papel depende da mudança.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nSegundo caso: cuide da condição que permite a conclusão\nA semirreação tem Cl₂ + 2 e⁻ → 2 Cl⁻. Qual descrição corresponde?\n\nCompare as interpretações antes de escolher. Duas respostas podem usar os mesmos termos ou números e ainda se referir a grandezas diferentes. Se houver unidades, escreva a unidade junto a cada valor. Se houver contagens, diga o que está sendo contado. Se a questão for explicativa, procure a relação de causa e efeito que é compatível com as condições fornecidas. Só então feche a resposta.\n\nResultado: Redução do cloro. Elétrons estão entre os reagentes.\n\nCompare as hipóteses e os cálculos alternativos:\n• Oxidação do cloro. A semirreação recebe elétrons.\n• Neutralização ácido-base sem elétrons. Há elétrons explícitos.\n• Mudança nuclear. Não há alteração do núcleo.\n• Formação de íons positivos. Cl⁻ tem carga negativa.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nTerceiro caso: confira o que a pergunta está medindo\nO NOX de O em H₂O é −2 e a molécula é neutra. Qual o NOX de cada H?\n\nFaça uma primeira previsão usando palavras. Pergunte se o resultado esperado é uma contagem, uma propriedade, uma comparação ou um mecanismo. Escrever a previsão antes de olhar as alternativas ajuda a perceber quando dois valores semelhantes têm sentidos diferentes. Em seguida, explique em uma frase como o primeiro dado se conecta ao resultado. A resposta fica mais forte quando essa ligação pode ser checada no próprio enunciado.\n\nResultado: +1 Dois H compensam −2.\n\nCompare as hipóteses e os cálculos alternativos:\n• +2 Somaria +2 líquido.\n• −1 Não compensa O.\n• 0 A soma ficaria −2.\n• −2 Repetir o valor de O não satisfaz a soma.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nQuarto caso: escolha a conclusão sustentada\nUma reação conserva o NOX de todos os elementos. Qual conclusão no critério escolar?\n\nTente justificar a escolha para alguém que observou apenas o resultado final. Comece pelos fatos que o problema realmente fornece e mostre como a regra interpreta esses fatos. Se a conclusão depender de uma condição, mantenha essa condição na justificativa. Depois procure uma alteração pequena nos dados que exigiria outra resposta. Esse último passo ajuda a reconhecer onde termina a aplicação do raciocínio.\n\nResultado: Não há oxirredução identificada pela mudança de NOX. O critério pede aumento e redução formais.\n\nCompare as hipóteses e os cálculos alternativos:\n• Todos os átomos se oxidaram. O NOX não subiu.\n• Todos os íons se reduziram. O NOX não caiu.\n• A transformação tem de ser nuclear. Pode ser ácido-base ou precipitação.\n• A reação é necessariamente impossível. Há reações sem mudança de NOX.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nLeitura crítica 1\nFe²⁺ passa a Fe³⁺. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “O Fe sofre oxidação.” Perde um elétron e seu NOX aumenta. A segunda é “O Fe é reduzido.” Redução faria diminuir o NOX.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nLeitura crítica 2\nCu²⁺ passa a Cu metálico. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “O íon sofre redução.” Ganha dois elétrons. A segunda é “O íon perde dois elétrons.” A passagem de +2 a zero corresponde a ganho.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nCheque o alcance da conclusão\nOxidação é perda de elétrons e redução é ganho. O número de oxidação permite registrar mudanças formais. Um agente oxidante aceita elétrons e se reduz. Um agente redutor cede elétrons e se oxida. O balanço global conserva matéria e carga.\n\nAo estudar, escolha uma das situações acima e altere só um dado. Explique quais partes da solução continuam iguais e quais precisam ser refeitas. Num problema numérico, experimente multiplicar o dado alterado por dois e veja se a resposta dobra, diminui ou continua igual. Num problema de classificação, tente retirar a observação decisiva e veja quais hipóteses continuam compatíveis. Isso separa a regra geral da informação específica fornecida por uma questão.\n\nTROCANDO EM MIÚDOS:\nComece por uma pergunta que você conseguiria fazer a um colega: o que mudou, o que ficou igual e qual informação me permite dizer isso? Em questões de Química, dá para errar mesmo lembrando a regra certa quando se usa a regra para o dado errado. Separe a situação da pergunta. Leia os símbolos em voz baixa. Se houver dois materiais ou dois momentos, dê um nome curto para cada um. Assim você consegue comparar as coisas na ordem que o texto pediu.\n\nEm Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s), Zn vai de 0 a +2 e fornece dois elétrons. O cobre vai de +2 a 0 e recebe esses elétrons. Zn é o agente redutor e Cu²⁺ é o agente oxidante.\n\nExperimente com este caso. Na reação Mg + 2 Ag⁺ → Mg²⁺ + 2 Ag, quem se oxida? Qual espécie inicial? A resposta é Mg. Seu NOX sobe de 0 a +2. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nExperimente com este caso. Uma reação conserva o NOX de todos os elementos. Qual conclusão no critério escolar? A resposta é Não há oxirredução identificada pela mudança de NOX. O critério pede aumento e redução formais. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nFaça uma checagem que cabe no rascunho: escreva o dado, desenhe uma seta e escreva o que ele permite concluir. Se precisar de uma segunda seta, diga qual regra leva desse resultado intermediário até a resposta. Uma explicação em duas frases pode ser suficiente. A primeira conta o que o problema mostrou. A segunda diz por que esse dado leva à sua escolha. Esse caminho ajuda em problemas com tabelas, desenhos e comparações.\n\nESQUEMA:\nLeia o cenário → destaque o dado decisivo → aplique a relação → confira o que foi pedido.\n\nPEGADINHAS:\n• Ag⁺. Seu NOX cai.\n• Oxidação do cloro. A semirreação recebe elétrons.\n• +2 Somaria +2 líquido.\n• Todos os átomos se oxidaram. O NOX não subiu.\n\nNA PRÁTICA:\nEm Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s), Zn vai de 0 a +2 e fornece dois elétrons. O cobre vai de +2 a 0 e recebe esses elétrons. Zn é o agente redutor e Cu²⁺ é o agente oxidante.",
+   "flashcards": [
+    {
+     "frente": "Fe²⁺ passa a Fe³⁺. O Fe sofre oxidação. Certo ou errado?",
+     "verso": "Certo. Perde um elétron e seu NOX aumenta.",
+     "dispositivo": "Transformações químicas e energia — Reação de oxirredução"
+    },
+    {
+     "frente": "Cu²⁺ passa a Cu metálico. O íon sofre redução. Certo ou errado?",
+     "verso": "Certo. Ganha dois elétrons.",
+     "dispositivo": "Transformações químicas e energia — Reação de oxirredução"
+    },
+    {
+     "frente": "Na reação Mg + 2 Ag⁺ → Mg²⁺ + 2 Ag, quem se oxida? Qual espécie inicial?",
+     "verso": "Mg. Seu NOX sobe de 0 a +2.",
+     "dispositivo": "Transformações químicas e energia — Reação de oxirredução"
+    },
+    {
+     "frente": "A semirreação tem Cl₂ + 2 e⁻ → 2 Cl⁻. Qual descrição corresponde?",
+     "verso": "Redução do cloro. Elétrons estão entre os reagentes.",
+     "dispositivo": "Transformações químicas e energia — Reação de oxirredução"
+    },
+    {
+     "frente": "O NOX de O em H₂O é −2 e a molécula é neutra. Qual o NOX de cada H?",
+     "verso": "+1 Dois H compensam −2.",
+     "dispositivo": "Transformações químicas e energia — Reação de oxirredução"
+    },
+    {
+     "frente": "Uma reação conserva o NOX de todos os elementos. Qual conclusão no critério escolar?",
+     "verso": "Não há oxirredução identificada pela mudança de NOX. O critério pede aumento e redução formais.",
+     "dispositivo": "Transformações químicas e energia — Reação de oxirredução"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Fe²⁺ passa a Fe³⁺.",
+     "enunciado": "O Fe sofre oxidação.",
+     "gabarito": "C",
+     "comentario": "Certo. Perde um elétron e seu NOX aumenta.",
+     "id": "enem-oxirreducao-c14-q01",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Reação de oxirredução",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Fe²⁺ passa a Fe³⁺.",
+     "enunciado": "O Fe é reduzido.",
+     "gabarito": "E",
+     "comentario": "Errado. Redução faria diminuir o NOX.",
+     "id": "enem-oxirreducao-c14-q02",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Reação de oxirredução",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Cu²⁺ passa a Cu metálico.",
+     "enunciado": "O íon sofre redução.",
+     "gabarito": "C",
+     "comentario": "Certo. Ganha dois elétrons.",
+     "id": "enem-oxirreducao-c14-q03",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Reação de oxirredução",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Cu²⁺ passa a Cu metálico.",
+     "enunciado": "O íon perde dois elétrons.",
+     "gabarito": "E",
+     "comentario": "Errado. A passagem de +2 a zero corresponde a ganho.",
+     "id": "enem-oxirreducao-c14-q04",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Reação de oxirredução",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Na reação Mg + 2 Ag⁺ → Mg²⁺ + 2 Ag, quem se oxida?",
+     "enunciado": "Qual espécie inicial?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "Ag⁺.",
+      "B": "Ag metálica.",
+      "C": "Mg²⁺.",
+      "D": "Mg.",
+      "E": "Todos os íons."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Seu NOX cai.",
+      "B": "É produto da redução.",
+      "C": "É produto da oxidação, não espécie inicial.",
+      "D": "Seu NOX sobe de 0 a +2.",
+      "E": "O papel depende da mudança."
+     },
+     "comentario": "A) Seu NOX cai.\nB) É produto da redução.\nC) É produto da oxidação, não espécie inicial.\nD) Seu NOX sobe de 0 a +2.\nE) O papel depende da mudança.",
+     "id": "enem-oxirreducao-c14-q05",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Reação de oxirredução",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "A semirreação tem Cl₂ + 2 e⁻ → 2 Cl⁻.",
+     "enunciado": "Qual descrição corresponde?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "Redução do cloro.",
+      "B": "Oxidação do cloro.",
+      "C": "Neutralização ácido-base sem elétrons.",
+      "D": "Mudança nuclear.",
+      "E": "Formação de íons positivos."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Elétrons estão entre os reagentes.",
+      "B": "A semirreação recebe elétrons.",
+      "C": "Há elétrons explícitos.",
+      "D": "Não há alteração do núcleo.",
+      "E": "Cl⁻ tem carga negativa."
+     },
+     "comentario": "A) Elétrons estão entre os reagentes.\nB) A semirreação recebe elétrons.\nC) Há elétrons explícitos.\nD) Não há alteração do núcleo.\nE) Cl⁻ tem carga negativa.",
+     "id": "enem-oxirreducao-c14-q06",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Reação de oxirredução",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "O NOX de O em H₂O é −2 e a molécula é neutra.",
+     "enunciado": "Qual o NOX de cada H?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "+2",
+      "B": "−1",
+      "C": "0",
+      "D": "−2",
+      "E": "+1"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Somaria +2 líquido.",
+      "B": "Não compensa O.",
+      "C": "A soma ficaria −2.",
+      "D": "Repetir o valor de O não satisfaz a soma.",
+      "E": "Dois H compensam −2."
+     },
+     "comentario": "A) Somaria +2 líquido.\nB) Não compensa O.\nC) A soma ficaria −2.\nD) Repetir o valor de O não satisfaz a soma.\nE) Dois H compensam −2.",
+     "id": "enem-oxirreducao-c14-q07",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Reação de oxirredução",
+     "dificuldade": "dificil"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma reação conserva o NOX de todos os elementos.",
+     "enunciado": "Qual conclusão no critério escolar?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "Todos os átomos se oxidaram.",
+      "B": "Não há oxirredução identificada pela mudança de NOX.",
+      "C": "Todos os íons se reduziram.",
+      "D": "A transformação tem de ser nuclear.",
+      "E": "A reação é necessariamente impossível."
+     },
+     "comentarios_por_alternativa": {
+      "A": "O NOX não subiu.",
+      "B": "O critério pede aumento e redução formais.",
+      "C": "O NOX não caiu.",
+      "D": "Pode ser ácido-base ou precipitação.",
+      "E": "Há reações sem mudança de NOX."
+     },
+     "comentario": "A) O NOX não subiu.\nB) O critério pede aumento e redução formais.\nC) O NOX não caiu.\nD) Pode ser ácido-base ou precipitação.\nE) Há reações sem mudança de NOX.",
+     "id": "enem-oxirreducao-c14-q08",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Reação de oxirredução",
+     "dificuldade": "dificil"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "A semirreação tem Cl₂ + 2 e⁻ → 2 Cl⁻. Qual descrição corresponde? ___",
+     "opcoes": [
+      "Oxidação do cloro.",
+      "Redução do cloro.",
+      "Neutralização ácido-base sem elétrons.",
+      "Mudança nuclear."
+     ],
+     "respostas": [
+      "Redução do cloro."
+     ],
+     "explicacao": "Elétrons estão entre os reagentes."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "O NOX de O em H₂O é −2 e a molécula é neutra. Qual o NOX de cada H? ___",
+     "opcoes": [
+      "+2",
+      "+1",
+      "−1",
+      "0"
+     ],
+     "respostas": [
+      "+1"
+     ],
+     "explicacao": "Dois H compensam −2."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise do caso: Na reação Mg + 2 Ag⁺ → Mg²⁺ + 2 Ag, quem se oxida?",
+     "itens": [
+      "Localizar o que se quer descobrir: Qual espécie inicial?",
+      "Separar as informações dadas no enunciado.",
+      "Aplicar a relação adequada aos dados.",
+      "Conferir se a conclusão responde à pergunta."
+     ],
+     "explicacao": "Seu NOX sobe de 0 a +2."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Na reação Mg + 2 Ag⁺ → Mg²⁺ + 2 Ag, quem se oxida? Qual espécie inicial?",
+       "Mg."
+      ],
+      [
+       "A semirreação tem Cl₂ + 2 e⁻ → 2 Cl⁻. Qual descrição corresponde?",
+       "Redução do cloro."
+      ],
+      [
+       "O NOX de O em H₂O é −2 e a molécula é neutra. Qual o NOX de cada H?",
+       "+1"
+      ],
+      [
+       "Uma reação conserva o NOX de todos os elementos. Qual conclusão no critério escolar?",
+       "Não há oxirredução identificada pela mudança de NOX."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

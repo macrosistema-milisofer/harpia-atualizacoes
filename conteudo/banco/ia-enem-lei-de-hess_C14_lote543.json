@@ -1,0 +1,253 @@
+{
+ "assunto": "Lei de Hess e soma de equações",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-lei-de-hess-c14",
+   "titulo": "Lei de Hess e soma de equações",
+   "microconteudo": "RAIO-X DA PROVA: Assunto do edital de Ciências da Natureza. A interpretação de dados ajuda a resolver situações-problema sobre esse conteúdo.\n\nPOR QUE IMPORTA:\nLei de Hess e soma de equações ajuda a traduzir observações e símbolos em explicações que você pode conferir. Nesta lição, você vai praticar a leitura de dados e justificar o resultado.\n\nO QUE A BANCA COBRA:\nIdentifique o que o problema descreve e escolha a conclusão explicada pelos dados. Revise a unidade, a entidade representada e as condições de aplicação quando elas fizerem parte do problema.\n\nENTENDA:\nEntalpia é função de estado. A variação total resulta da diferença entre estados inicial e final, independentemente do caminho. Equações auxiliares podem ser invertidas, escaladas e somadas. As espécies se cancelam quando aparecem nos dois membros em mesma quantidade e mesmo estado.\n\nDados A → B com +20 kJ e B → C com −55 kJ, a soma resulta em A → C com −35 kJ. Se a pergunta fosse C → A, o valor seria +35 kJ. O intermediário B não aparece na equação final, mas sua etapa continua contribuindo para o balanço.\n\nResolva por alinhamento com a equação-alvo. Comece procurando uma espécie que só apareça em uma equação auxiliar. Se ela deve aparecer nos produtos mas está nos reagentes, inverta a etapa e o sinal de sua entalpia. Ajuste os coeficientes para reproduzir o alvo. Depois, coloque as etapas uma sob a outra e confira quais constituintes aparecem dos dois lados. Um intermediário que ficou na conta pode revelar erro de escala ou diferença de estado físico. Na soma dos valores, mantenha os sinais até o fim. Um caminho com uma etapa endotérmica ainda pode ter total exotérmico se as demais etapas liberarem mais energia do que aquela etapa absorve. O resultado depende da transformação líquida.\n\nPrimeiro caso: ligue os dados à regra\nA → B tem −10 kJ e B → C tem +25 kJ. Quanto vale A → C?\n\nComece lendo o enunciado como um pequeno relatório. Anote em uma linha o material ou sistema descrito e, em outra, o que se quer descobrir. Essa divisão evita misturar um dado já fornecido com o resultado pedido. Escolha a regra depois de localizar o que, no texto, autoriza sua aplicação. Ao terminar, teste se a resposta ainda faz sentido ao substituir os valores ou reler a observação.\n\nResultado: +15 kJ Some −10 e +25.\n\nCompare as hipóteses e os cálculos alternativos:\n• −35 kJ Troca indevidamente o sinal da segunda etapa.\n• +35 kJ Soma módulos.\n• −15 kJ Seria C → A.\n• +25 kJ Ignora a primeira etapa.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nSegundo caso: cuide da condição que permite a conclusão\nA → B tem +12 kJ. Quanto vale 2 B → 2 A?\n\nCompare as interpretações antes de escolher. Duas respostas podem usar os mesmos termos ou números e ainda se referir a grandezas diferentes. Se houver unidades, escreva a unidade junto a cada valor. Se houver contagens, diga o que está sendo contado. Se a questão for explicativa, procure a relação de causa e efeito que é compatível com as condições fornecidas. Só então feche a resposta.\n\nResultado: −24 kJ Inverta e multiplique por dois.\n\nCompare as hipóteses e os cálculos alternativos:\n• +24 kJ Falta inverter.\n• −12 kJ Falta dobrar.\n• +6 kJ Escala e sinal estão incorretos.\n• 0 kJ A variação não se anula.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nTerceiro caso: confira o que a pergunta está medindo\nA equipe usa entalpias padrão de formação para uma equação balanceada. Qual expressão emprega?\n\nFaça uma primeira previsão usando palavras. Pergunte se o resultado esperado é uma contagem, uma propriedade, uma comparação ou um mecanismo. Escrever a previsão antes de olhar as alternativas ajuda a perceber quando dois valores semelhantes têm sentidos diferentes. Em seguida, explique em uma frase como o primeiro dado se conecta ao resultado. A resposta fica mais forte quando essa ligação pode ser checada no próprio enunciado.\n\nResultado: Soma ponderada dos produtos menos a dos reagentes. Coeficientes multiplicam os valores de formação.\n\nCompare as hipóteses e os cálculos alternativos:\n• Reagentes menos produtos. Inverteria o sinal.\n• Soma sem coeficientes. A quantidade importa.\n• Média de todos os valores. O balanço é algébrico.\n• Maior valor isolado. O alvo combina todos os termos.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nQuarto caso: escolha a conclusão sustentada\nDois caminhos ligam os mesmos estados, com diferentes etapas intermediárias. Que grandeza permanece igual entre os caminhos?\n\nTente justificar a escolha para alguém que observou apenas o resultado final. Comece pelos fatos que o problema realmente fornece e mostre como a regra interpreta esses fatos. Se a conclusão depender de uma condição, mantenha essa condição na justificativa. Depois procure uma alteração pequena nos dados que exigiria outra resposta. Esse último passo ajuda a reconhecer onde termina a aplicação do raciocínio.\n\nResultado: ΔH total. É função de estado.\n\nCompare as hipóteses e os cálculos alternativos:\n• Toda energia de ativação. A barreira depende do caminho.\n• Tempo total necessariamente. A cinética pode mudar.\n• Número de etapas. Os percursos podem ter comprimentos diferentes.\n• Temperatura de cada etapa necessariamente. A lei compara estados finais e iniciais.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nLeitura crítica 1\nUm intermediário aparece igualmente em lados opostos. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “Pode ser cancelado se as fases também coincidirem.” A soma elimina a mesma espécie no mesmo estado. A segunda é “Pode ser cancelado mesmo como líquido num lado e vapor no outro.” São estados diferentes.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nLeitura crítica 2\nUma etapa auxiliar é invertida para montar a reação-alvo. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “Seu ΔH troca de sinal.” O estado final passa a ser inicial. A segunda é “Seu ΔH fica igual em qualquer caso.” A inversão muda o sinal.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nCheque o alcance da conclusão\nEntalpia é função de estado. A variação total resulta da diferença entre estados inicial e final, independentemente do caminho. Equações auxiliares podem ser invertidas, escaladas e somadas. As espécies se cancelam quando aparecem nos dois membros em mesma quantidade e mesmo estado.\n\nAo estudar, escolha uma das situações acima e altere só um dado. Explique quais partes da solução continuam iguais e quais precisam ser refeitas. Num problema numérico, experimente multiplicar o dado alterado por dois e veja se a resposta dobra, diminui ou continua igual. Num problema de classificação, tente retirar a observação decisiva e veja quais hipóteses continuam compatíveis. Isso separa a regra geral da informação específica fornecida por uma questão.\n\nTROCANDO EM MIÚDOS:\nComece por uma pergunta que você conseguiria fazer a um colega: o que mudou, o que ficou igual e qual informação me permite dizer isso? Em questões de Química, dá para errar mesmo lembrando a regra certa quando se usa a regra para o dado errado. Separe a situação da pergunta. Leia os símbolos em voz baixa. Se houver dois materiais ou dois momentos, dê um nome curto para cada um. Assim você consegue comparar as coisas na ordem que o texto pediu.\n\nDados A → B com +20 kJ e B → C com −55 kJ, a soma resulta em A → C com −35 kJ. Se a pergunta fosse C → A, o valor seria +35 kJ. O intermediário B não aparece na equação final, mas sua etapa continua contribuindo para o balanço.\n\nExperimente com este caso. A → B tem −10 kJ e B → C tem +25 kJ. Quanto vale A → C? A resposta é +15 kJ Some −10 e +25. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nExperimente com este caso. Dois caminhos ligam os mesmos estados, com diferentes etapas intermediárias. Que grandeza permanece igual entre os caminhos? A resposta é ΔH total. É função de estado. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nFaça uma checagem que cabe no rascunho: escreva o dado, desenhe uma seta e escreva o que ele permite concluir. Se precisar de uma segunda seta, diga qual regra leva desse resultado intermediário até a resposta. Uma explicação em duas frases pode ser suficiente. A primeira conta o que o problema mostrou. A segunda diz por que esse dado leva à sua escolha. Esse caminho ajuda em problemas com tabelas, desenhos e comparações.\n\nESQUEMA:\nLeia o cenário → destaque o dado decisivo → aplique a relação → confira o que foi pedido.\n\nPEGADINHAS:\n• −35 kJ Troca indevidamente o sinal da segunda etapa.\n• +24 kJ Falta inverter.\n• Reagentes menos produtos. Inverteria o sinal.\n• Toda energia de ativação. A barreira depende do caminho.\n\nNA PRÁTICA:\nDados A → B com +20 kJ e B → C com −55 kJ, a soma resulta em A → C com −35 kJ. Se a pergunta fosse C → A, o valor seria +35 kJ. O intermediário B não aparece na equação final, mas sua etapa continua contribuindo para o balanço.",
+   "flashcards": [
+    {
+     "frente": "Um intermediário aparece igualmente em lados opostos. Pode ser cancelado se as fases também coincidirem. Certo ou errado?",
+     "verso": "Certo. A soma elimina a mesma espécie no mesmo estado.",
+     "dispositivo": "Transformações químicas e energia — Lei de Hess"
+    },
+    {
+     "frente": "Uma etapa auxiliar é invertida para montar a reação-alvo. Seu ΔH troca de sinal. Certo ou errado?",
+     "verso": "Certo. O estado final passa a ser inicial.",
+     "dispositivo": "Transformações químicas e energia — Lei de Hess"
+    },
+    {
+     "frente": "A → B tem −10 kJ e B → C tem +25 kJ. Quanto vale A → C?",
+     "verso": "+15 kJ Some −10 e +25.",
+     "dispositivo": "Transformações químicas e energia — Lei de Hess"
+    },
+    {
+     "frente": "A → B tem +12 kJ. Quanto vale 2 B → 2 A?",
+     "verso": "−24 kJ Inverta e multiplique por dois.",
+     "dispositivo": "Transformações químicas e energia — Lei de Hess"
+    },
+    {
+     "frente": "A equipe usa entalpias padrão de formação para uma equação balanceada. Qual expressão emprega?",
+     "verso": "Soma ponderada dos produtos menos a dos reagentes. Coeficientes multiplicam os valores de formação.",
+     "dispositivo": "Transformações químicas e energia — Lei de Hess"
+    },
+    {
+     "frente": "Dois caminhos ligam os mesmos estados, com diferentes etapas intermediárias. Que grandeza permanece igual entre os caminhos?",
+     "verso": "ΔH total. É função de estado.",
+     "dispositivo": "Transformações químicas e energia — Lei de Hess"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Um intermediário aparece igualmente em lados opostos.",
+     "enunciado": "Pode ser cancelado se as fases também coincidirem.",
+     "gabarito": "C",
+     "comentario": "Certo. A soma elimina a mesma espécie no mesmo estado.",
+     "id": "enem-lei-de-hess-c14-q01",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Lei de Hess",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um intermediário aparece igualmente em lados opostos.",
+     "enunciado": "Pode ser cancelado mesmo como líquido num lado e vapor no outro.",
+     "gabarito": "E",
+     "comentario": "Errado. São estados diferentes.",
+     "id": "enem-lei-de-hess-c14-q02",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Lei de Hess",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma etapa auxiliar é invertida para montar a reação-alvo.",
+     "enunciado": "Seu ΔH troca de sinal.",
+     "gabarito": "C",
+     "comentario": "Certo. O estado final passa a ser inicial.",
+     "id": "enem-lei-de-hess-c14-q03",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Lei de Hess",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma etapa auxiliar é invertida para montar a reação-alvo.",
+     "enunciado": "Seu ΔH fica igual em qualquer caso.",
+     "gabarito": "E",
+     "comentario": "Errado. A inversão muda o sinal.",
+     "id": "enem-lei-de-hess-c14-q04",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Lei de Hess",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "A → B tem −10 kJ e B → C tem +25 kJ.",
+     "enunciado": "Quanto vale A → C?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "−35 kJ",
+      "B": "+35 kJ",
+      "C": "−15 kJ",
+      "D": "+25 kJ",
+      "E": "+15 kJ"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Troca indevidamente o sinal da segunda etapa.",
+      "B": "Soma módulos.",
+      "C": "Seria C → A.",
+      "D": "Ignora a primeira etapa.",
+      "E": "Some −10 e +25."
+     },
+     "comentario": "A) Troca indevidamente o sinal da segunda etapa.\nB) Soma módulos.\nC) Seria C → A.\nD) Ignora a primeira etapa.\nE) Some −10 e +25.",
+     "id": "enem-lei-de-hess-c14-q05",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Lei de Hess",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "A → B tem +12 kJ.",
+     "enunciado": "Quanto vale 2 B → 2 A?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "+24 kJ",
+      "B": "−24 kJ",
+      "C": "−12 kJ",
+      "D": "+6 kJ",
+      "E": "0 kJ"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Falta inverter.",
+      "B": "Inverta e multiplique por dois.",
+      "C": "Falta dobrar.",
+      "D": "Escala e sinal estão incorretos.",
+      "E": "A variação não se anula."
+     },
+     "comentario": "A) Falta inverter.\nB) Inverta e multiplique por dois.\nC) Falta dobrar.\nD) Escala e sinal estão incorretos.\nE) A variação não se anula.",
+     "id": "enem-lei-de-hess-c14-q06",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Lei de Hess",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "A equipe usa entalpias padrão de formação para uma equação balanceada.",
+     "enunciado": "Qual expressão emprega?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "Reagentes menos produtos.",
+      "B": "Soma sem coeficientes.",
+      "C": "Média de todos os valores.",
+      "D": "Soma ponderada dos produtos menos a dos reagentes.",
+      "E": "Maior valor isolado."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Inverteria o sinal.",
+      "B": "A quantidade importa.",
+      "C": "O balanço é algébrico.",
+      "D": "Coeficientes multiplicam os valores de formação.",
+      "E": "O alvo combina todos os termos."
+     },
+     "comentario": "A) Inverteria o sinal.\nB) A quantidade importa.\nC) O balanço é algébrico.\nD) Coeficientes multiplicam os valores de formação.\nE) O alvo combina todos os termos.",
+     "id": "enem-lei-de-hess-c14-q07",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Lei de Hess",
+     "dificuldade": "dificil"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Dois caminhos ligam os mesmos estados, com diferentes etapas intermediárias.",
+     "enunciado": "Que grandeza permanece igual entre os caminhos?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "ΔH total.",
+      "B": "Toda energia de ativação.",
+      "C": "Tempo total necessariamente.",
+      "D": "Número de etapas.",
+      "E": "Temperatura de cada etapa necessariamente."
+     },
+     "comentarios_por_alternativa": {
+      "A": "É função de estado.",
+      "B": "A barreira depende do caminho.",
+      "C": "A cinética pode mudar.",
+      "D": "Os percursos podem ter comprimentos diferentes.",
+      "E": "A lei compara estados finais e iniciais."
+     },
+     "comentario": "A) É função de estado.\nB) A barreira depende do caminho.\nC) A cinética pode mudar.\nD) Os percursos podem ter comprimentos diferentes.\nE) A lei compara estados finais e iniciais.",
+     "id": "enem-lei-de-hess-c14-q08",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Lei de Hess",
+     "dificuldade": "dificil"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "A → B tem +12 kJ. Quanto vale 2 B → 2 A? ___",
+     "opcoes": [
+      "+24 kJ",
+      "−24 kJ",
+      "−12 kJ",
+      "+6 kJ"
+     ],
+     "respostas": [
+      "−24 kJ"
+     ],
+     "explicacao": "Inverta e multiplique por dois."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "A equipe usa entalpias padrão de formação para uma equação balanceada. Qual expressão emprega? ___",
+     "opcoes": [
+      "Reagentes menos produtos.",
+      "Soma ponderada dos produtos menos a dos reagentes.",
+      "Soma sem coeficientes.",
+      "Média de todos os valores."
+     ],
+     "respostas": [
+      "Soma ponderada dos produtos menos a dos reagentes."
+     ],
+     "explicacao": "Coeficientes multiplicam os valores de formação."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise do caso: A → B tem −10 kJ e B → C tem +25 kJ.",
+     "itens": [
+      "Localizar o que se quer descobrir: Quanto vale A → C?",
+      "Separar as informações dadas no enunciado.",
+      "Aplicar a relação adequada aos dados.",
+      "Conferir se a conclusão responde à pergunta."
+     ],
+     "explicacao": "Some −10 e +25."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "A → B tem −10 kJ e B → C tem +25 kJ. Quanto vale A → C?",
+       "+15 kJ"
+      ],
+      [
+       "A → B tem +12 kJ. Quanto vale 2 B → 2 A?",
+       "−24 kJ"
+      ],
+      [
+       "A equipe usa entalpias padrão de formação para uma equação balanceada. Qual expressão emprega?",
+       "Soma ponderada dos produtos menos a dos reagentes."
+      ],
+      [
+       "Dois caminhos ligam os mesmos estados, com diferentes etapas intermediárias. Que grandeza permanece igual entre os caminhos?",
+       "ΔH total."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,253 @@
+{
+ "assunto": "Máquinas térmicas e rendimento",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-fisica-maquinas-termicas-c14",
+   "titulo": "Máquinas térmicas e rendimento",
+   "microconteudo": "RAIO-X DA PROVA: Use a relação física indicada e confira as condições em que ela se aplica. Em ciclo, W = Qq − Qf, usando módulos de calor. O rendimento é η = W/Qq.\n\nPOR QUE IMPORTA:\nUm motor térmico transforma parte da energia recebida de uma fonte quente em trabalho e rejeita energia para uma fonte fria.\n\nO QUE A BANCA COBRA:\nUse a relação física indicada e confira as condições em que ela se aplica. Em ciclo, W = Qq − Qf, usando módulos de calor. O rendimento é η = W/Qq.\n\nENTENDA:\nUm motor térmico transforma parte da energia recebida de uma fonte quente em trabalho e rejeita energia para uma fonte fria.\n\nEm ciclo, W = Qq − Qf, usando módulos de calor. O rendimento é η = W/Qq.\n\nExemplo resolvido. Uma máquina recebe 1.800 J por ciclo e rejeita 1.260 J. Ela fornece 540 J de trabalho, com rendimento de 30%.\n\nOutro exemplo. Um motor opera a cinco ciclos por segundo e entrega 120 J de trabalho por ciclo. A potência útil é 600 W. Se recebe 500 J por ciclo, a potência de entrada é 2.500 W e o rendimento é 24%.\n\nEm um motor real, outras perdas podem existir além das transferências modeladas entre dois reservatórios. O quadro idealizado serve para separar entrada, saída de trabalho e rejeição. Para comparar equipamentos, confirme que os rendimentos usam a mesma definição de energia útil e que os dados correspondem ao mesmo intervalo.\n\nPara explicar o resultado, use o vocabulário da situação. O que é fonte quente? Reservatório que fornece calor à máquina. O que é fonte fria? Reservatório que recebe calor rejeitado. Como obter W por ciclo? Subtraia o calor rejeitado do recebido. Como obter rendimento? Divida o trabalho pelo calor recebido. Como obter potência útil? Divida trabalho pelo tempo correspondente. Qual a variação de energia interna em ciclo completo? Zero, pois o sistema retorna ao estado inicial.\n\nNa hora de resolver no papel, siga a sequência abaixo. Ler as trocas por ciclo. Calcular a diferença entre entrada e saída. Dividir pelo calor recebido se pedirem rendimento. Converter para potência apenas se houver tempo. Depois, escreva o resultado em uma frase completa. Um número isolado pode estar correto e, ainda assim, deixar ambíguo o que você calculou. Informe a unidade quando houver medida e identifique o objeto, a região ou o intervalo a que o resultado se refere.\n\nRendimento é razão sem unidade. Uma máquina cíclica térmica não converte integralmente em trabalho o calor recebido de uma única fonte. Potência e trabalho por ciclo são grandezas diferentes.\n\nReleia os dois exemplos resolvidos e tente antecipar o desfecho sem consultar o cálculo. No primeiro exemplo, identifique qual dado determina diretamente a resposta. No segundo, diga qual condição deve permanecer válida para que a conclusão se mantenha. Compare depois o papel das unidades e do sentido das grandezas. Se o resultado for qualitativo, procure enunciar a previsão em termos observáveis. Se for quantitativo, estime a escala antes de efetuar a última operação.\n\nVocê pode adaptar a análise a uma situação do cotidiano. Comece com esta ideia: Um motor térmico transforma parte da energia recebida de uma fonte quente em trabalho e rejeita energia para uma fonte fria. Em seguida, desenhe o cenário, indique o que está sendo comparado e escreva que dado precisaria medir para testar a previsão. Diferencie a regra do modelo das informações que servem apenas para situar a história. Isso ajuda a decidir o que aproveitar quando uma questão apresenta mais dados do que a resolução exige.\n\nTrês conferências úteis: a definição corresponde ao objeto descrito? As condições indicadas no enunciado permitem aplicar a regra? A resposta continua coerente ao voltar ao desenho? Faça a última conferência lendo esta relação no contexto: Em ciclo, W = Qq − Qf, usando módulos de calor. O rendimento é η = W/Qq. Uma hipótese deve ser usada dentro de sua faixa de validade; quando o contexto mudar, justifique a adaptação antes de transportar o resultado.\n\nAo treinar, explique a diferença entre o mecanismo e seu efeito. Rendimento é razão sem unidade. Uma máquina cíclica térmica não converte integralmente em trabalho o calor recebido de uma única fonte. Potência e trabalho por ciclo são grandezas diferentes. Em um texto de prova, essa distinção pode aparecer escondida em uma frase sobre o resultado de uma medida. Identifique primeiro a causa física e depois a grandeza observada. Se for necessário comparar cenários, mude uma condição por vez para descobrir qual mudança explica a diferença.\n\nPergunte o que aconteceria se você aplicasse a regra a um desenho mais simples. Comece separando estas tarefas: Ler as trocas por ciclo. Calcular a diferença entre entrada e saída. Dividir pelo calor recebido se pedirem rendimento. Converter para potência apenas se houver tempo. Refaça o primeiro exemplo apenas com setas ou um esquema, deixando os números para o final. Em seguida, recolha do enunciado as unidades e os sentidos. Uma seta no desenho pode indicar a direção de uma interação, a mudança de uma medida ou apenas uma referência. É importante dizer qual papel ela desempenha antes de usar a relação do começo da lição.\n\nPara consolidar, use três perguntas de revisão. O que é fonte fria? Reservatório que recebe calor rejeitado. Como obter rendimento? Divida o trabalho pelo calor recebido. Qual a variação de energia interna em ciclo completo? Zero, pois o sistema retorna ao estado inicial. A ideia é explicar essas respostas sem depender da ordem em que apareceram. Em um problema de comparação, preste atenção às palavras que mantêm algo igual entre os cenários. Em um problema de cálculo, confira a operação inversa quando possível. Por exemplo, reintroduza o resultado na relação inicial e verifique se os dados do problema são recuperados. Em uma questão qualitativa, faça o equivalente testando se a conclusão explica as condições observadas.\n\nNo fim da leitura, diga qual grandeza a pergunta solicitou e qual grandeza você usou para chegar a ela. Faça essa distinção também quando a resposta for uma direção, uma comparação ou uma interpretação histórica. Um resultado bem explicado deve poder ser lido sem adivinhar de onde ele veio.\n\nEm uma atividade de estudo, escreva primeiro uma estimativa ou previsão. Depois escolha o dado específico que vai confirmar ou contrariar essa previsão. Se duas respostas parecerem possíveis, indique qual condição extra permitiria escolher entre elas. A ideia é explicar o raciocínio, deixando claro por que a relação física é apropriada naquele contexto.\n\nTROCANDO EM MIÚDOS:\nUm motor térmico transforma parte da energia recebida de uma fonte quente em trabalho e rejeita energia para uma fonte fria.\n\nEm ciclo, W = Qq − Qf, usando módulos de calor. O rendimento é η = W/Qq.\n\nExemplo resolvido. Uma máquina recebe 1.800 J por ciclo e rejeita 1.260 J. Ela fornece 540 J de trabalho, com rendimento de 30%.\n\nOutro exemplo. Um motor opera a cinco ciclos por segundo e entrega 120 J de trabalho por ciclo. A potência útil é 600 W. Se recebe 500 J por ciclo, a potência de entrada é 2.500 W e o rendimento é 24%.\n\nRendimento é razão sem unidade. Uma máquina cíclica térmica não converte integralmente em trabalho o calor recebido de uma única fonte. Potência e trabalho por ciclo são grandezas diferentes.\n\nO que é fonte quente? Reservatório que fornece calor à máquina. O que é fonte fria? Reservatório que recebe calor rejeitado. Como obter W por ciclo? Subtraia o calor rejeitado do recebido. Como obter rendimento? Divida o trabalho pelo calor recebido. Como obter potência útil? Divida trabalho pelo tempo correspondente. Qual a variação de energia interna em ciclo completo? Zero, pois o sistema retorna ao estado inicial.\n\nPara montar seu rascunho: Ler as trocas por ciclo. Calcular a diferença entre entrada e saída. Dividir pelo calor recebido se pedirem rendimento. Converter para potência apenas se houver tempo. Na leitura final, escolha a parte do desenho que corresponde ao resultado. Se encontrar uma unidade diferente da pedida, volte ao cálculo e confira os fatores de conversão. Quando a pergunta for conceitual, confira se a explicação indica o mecanismo que liga o dado à conclusão. Você pode comparar os dois exemplos da lição antes de tentar os exercícios e explicar de memória por que cada resultado faz sentido.\n\nLEI SECA:\nEm ciclo, W = Qq − Qf, usando módulos de calor. O rendimento é η = W/Qq.\n\nSÚMULAS E TESES:\nOutro exemplo. Um motor opera a cinco ciclos por segundo e entrega 120 J de trabalho por ciclo. A potência útil é 600 W. Se recebe 500 J por ciclo, a potência de entrada é 2.500 W e o rendimento é 24%.\n\nESQUEMA:\nLer as trocas por ciclo. → Calcular a diferença entre entrada e saída. → Dividir pelo calor recebido se pedirem rendimento. → Converter para potência apenas se houver tempo.\n\nPEGADINHAS:\nRendimento é razão sem unidade. Uma máquina cíclica térmica não converte integralmente em trabalho o calor recebido de uma única fonte. Potência e trabalho por ciclo são grandezas diferentes.\n\nDOUTRINA:\nIntroduction to the Second Law of Thermodynamics\n\nNA PRÁTICA:\nExemplo resolvido. Uma máquina recebe 1.800 J por ciclo e rejeita 1.260 J. Ela fornece 540 J de trabalho, com rendimento de 30%.",
+   "flashcards": [
+    {
+     "frente": "O que é fonte quente?",
+     "verso": "Reservatório que fornece calor à máquina.",
+     "dispositivo": "O calor e os fenômenos térmicos — Máquinas térmicas"
+    },
+    {
+     "frente": "O que é fonte fria?",
+     "verso": "Reservatório que recebe calor rejeitado.",
+     "dispositivo": "O calor e os fenômenos térmicos — Máquinas térmicas"
+    },
+    {
+     "frente": "Como obter W por ciclo?",
+     "verso": "Subtraia o calor rejeitado do recebido.",
+     "dispositivo": "O calor e os fenômenos térmicos — Máquinas térmicas"
+    },
+    {
+     "frente": "Como obter rendimento?",
+     "verso": "Divida o trabalho pelo calor recebido.",
+     "dispositivo": "O calor e os fenômenos térmicos — Máquinas térmicas"
+    },
+    {
+     "frente": "Como obter potência útil?",
+     "verso": "Divida trabalho pelo tempo correspondente.",
+     "dispositivo": "O calor e os fenômenos térmicos — Máquinas térmicas"
+    },
+    {
+     "frente": "Qual a variação de energia interna em ciclo completo?",
+     "verso": "Zero, pois o sistema retorna ao estado inicial.",
+     "dispositivo": "O calor e os fenômenos térmicos — Máquinas térmicas"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-fisica-maquinas-termicas-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Uma máquina recebe 100 J e rejeita 70 J por ciclo.",
+     "enunciado": "Entrega 30 J de trabalho.",
+     "gabarito": "C",
+     "comentario": "Certo. O balanço dá 100 − 70.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Máquinas térmicas"
+    },
+    {
+     "id": "enem-fisica-maquinas-termicas-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Uma máquina tem rendimento de 40%.",
+     "enunciado": "Desperdiça necessariamente 40% da energia recebida.",
+     "gabarito": "E",
+     "comentario": "Errado. O trabalho é 40% e a rejeição é 60% no modelo.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Máquinas térmicas"
+    },
+    {
+     "id": "enem-fisica-maquinas-termicas-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Um sistema retorna ao estado inicial.",
+     "enunciado": "Sua energia interna volta ao valor inicial.",
+     "gabarito": "C",
+     "comentario": "Certo. Energia interna é função de estado.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Máquinas térmicas"
+    },
+    {
+     "id": "enem-fisica-maquinas-termicas-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Um motor entrega 200 J por ciclo.",
+     "enunciado": "Sua potência é necessariamente 200 W.",
+     "gabarito": "E",
+     "comentario": "Errado. Falta saber a frequência de funcionamento.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Máquinas térmicas"
+    },
+    {
+     "id": "enem-fisica-maquinas-termicas-c14-q05",
+     "tipo": "me",
+     "texto_base": "Uma máquina recebe 900 J e rejeita 600 J.",
+     "enunciado": "Qual trabalho útil?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "1500 J",
+      "B": "300 J",
+      "C": "600 J",
+      "D": "900 J",
+      "E": "0 J"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve 1500 j, enquanto a situação pede 300 j. Subtraia a rejeição da entrada.",
+      "B": "Correta. Subtraia a rejeição da entrada.",
+      "C": "Esta opção descreve 600 j, enquanto a situação pede 300 j. Subtraia a rejeição da entrada.",
+      "D": "Esta opção descreve 900 j, enquanto a situação pede 300 j. Subtraia a rejeição da entrada.",
+      "E": "Esta opção descreve 0 j, enquanto a situação pede 300 j. Subtraia a rejeição da entrada."
+     },
+     "comentario": "A) Esta opção descreve 1500 j, enquanto a situação pede 300 j. Subtraia a rejeição da entrada.\nB) Correta. Subtraia a rejeição da entrada.\nC) Esta opção descreve 600 j, enquanto a situação pede 300 j. Subtraia a rejeição da entrada.\nD) Esta opção descreve 900 j, enquanto a situação pede 300 j. Subtraia a rejeição da entrada.\nE) Esta opção descreve 0 j, enquanto a situação pede 300 j. Subtraia a rejeição da entrada.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Máquinas térmicas"
+    },
+    {
+     "id": "enem-fisica-maquinas-termicas-c14-q06",
+     "tipo": "me",
+     "texto_base": "Uma máquina recebe 400 J e produz 100 J de trabalho.",
+     "enunciado": "Qual rendimento?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "75%",
+      "B": "40%",
+      "C": "10%",
+      "D": "25%",
+      "E": "4%"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve 75%, enquanto a situação pede 25%. 100/400 = 0,25.",
+      "B": "Esta opção descreve 40%, enquanto a situação pede 25%. 100/400 = 0,25.",
+      "C": "Esta opção descreve 10%, enquanto a situação pede 25%. 100/400 = 0,25.",
+      "D": "Correta. 100/400 = 0,25.",
+      "E": "Esta opção descreve 4%, enquanto a situação pede 25%. 100/400 = 0,25."
+     },
+     "comentario": "A) Esta opção descreve 75%, enquanto a situação pede 25%. 100/400 = 0,25.\nB) Esta opção descreve 40%, enquanto a situação pede 25%. 100/400 = 0,25.\nC) Esta opção descreve 10%, enquanto a situação pede 25%. 100/400 = 0,25.\nD) Correta. 100/400 = 0,25.\nE) Esta opção descreve 4%, enquanto a situação pede 25%. 100/400 = 0,25.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Máquinas térmicas"
+    },
+    {
+     "id": "enem-fisica-maquinas-termicas-c14-q07",
+     "tipo": "me",
+     "texto_base": "Um motor entrega 80 J por ciclo a 10 ciclos por segundo.",
+     "enunciado": "Qual potência útil?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "800 W",
+      "B": "8 W",
+      "C": "80 W",
+      "D": "10 W",
+      "E": "90 W"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Multiplique trabalho por ciclo pela frequência.",
+      "B": "Esta opção descreve 8 w, enquanto a situação pede 800 w. Multiplique trabalho por ciclo pela frequência.",
+      "C": "Esta opção descreve 80 w, enquanto a situação pede 800 w. Multiplique trabalho por ciclo pela frequência.",
+      "D": "Esta opção descreve 10 w, enquanto a situação pede 800 w. Multiplique trabalho por ciclo pela frequência.",
+      "E": "Esta opção descreve 90 w, enquanto a situação pede 800 w. Multiplique trabalho por ciclo pela frequência."
+     },
+     "comentario": "A) Correta. Multiplique trabalho por ciclo pela frequência.\nB) Esta opção descreve 8 w, enquanto a situação pede 800 w. Multiplique trabalho por ciclo pela frequência.\nC) Esta opção descreve 80 w, enquanto a situação pede 800 w. Multiplique trabalho por ciclo pela frequência.\nD) Esta opção descreve 10 w, enquanto a situação pede 800 w. Multiplique trabalho por ciclo pela frequência.\nE) Esta opção descreve 90 w, enquanto a situação pede 800 w. Multiplique trabalho por ciclo pela frequência.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Máquinas térmicas"
+    },
+    {
+     "id": "enem-fisica-maquinas-termicas-c14-q08",
+     "tipo": "me",
+     "texto_base": "Uma máquina trabalha entre duas fontes em ciclo.",
+     "enunciado": "Para onde vai a energia recebida que não vira trabalho no modelo idealizado?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Desaparece do balanço",
+      "B": "Fica toda armazenada em cada ciclo",
+      "C": "Retorna obrigatoriamente como trabalho útil",
+      "D": "Aumenta a massa do motor",
+      "E": "Fonte fria"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve desaparece do balanço, enquanto a situação pede fonte fria. Ela recebe o calor rejeitado.",
+      "B": "Esta opção descreve fica toda armazenada em cada ciclo, enquanto a situação pede fonte fria. Ela recebe o calor rejeitado.",
+      "C": "Esta opção descreve retorna obrigatoriamente como trabalho útil, enquanto a situação pede fonte fria. Ela recebe o calor rejeitado.",
+      "D": "Esta opção descreve aumenta a massa do motor, enquanto a situação pede fonte fria. Ela recebe o calor rejeitado.",
+      "E": "Correta. Ela recebe o calor rejeitado."
+     },
+     "comentario": "A) Esta opção descreve desaparece do balanço, enquanto a situação pede fonte fria. Ela recebe o calor rejeitado.\nB) Esta opção descreve fica toda armazenada em cada ciclo, enquanto a situação pede fonte fria. Ela recebe o calor rejeitado.\nC) Esta opção descreve retorna obrigatoriamente como trabalho útil, enquanto a situação pede fonte fria. Ela recebe o calor rejeitado.\nD) Esta opção descreve aumenta a massa do motor, enquanto a situação pede fonte fria. Ela recebe o calor rejeitado.\nE) Correta. Ela recebe o calor rejeitado.",
+     "habilidade": "H17",
+     "dificuldade": "media",
+     "dispositivo": "O calor e os fenômenos térmicos — Máquinas térmicas"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O que é fonte quente? ___",
+     "opcoes": [
+      "Reservatório que fornece calor à máquina.",
+      "Reservatório que recebe calor rejeitado.",
+      "Subtraia o calor rejeitado do recebido.",
+      "Divida o trabalho pelo calor recebido."
+     ],
+     "respostas": [
+      "Reservatório que fornece calor à máquina."
+     ],
+     "explicacao": "Reservatório que fornece calor à máquina."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Como obter W por ciclo? ___",
+     "opcoes": [
+      "Subtraia o calor rejeitado do recebido.",
+      "Divida o trabalho pelo calor recebido.",
+      "Divida trabalho pelo tempo correspondente.",
+      "Zero, pois o sistema retorna ao estado inicial."
+     ],
+     "respostas": [
+      "Subtraia o calor rejeitado do recebido."
+     ],
+     "explicacao": "Subtraia o calor rejeitado do recebido."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise de máquinas térmicas e rendimento.",
+     "itens": [
+      "Ler as trocas por ciclo.",
+      "Calcular a diferença entre entrada e saída.",
+      "Dividir pelo calor recebido se pedirem rendimento.",
+      "Converter para potência apenas se houver tempo."
+     ],
+     "explicacao": "Em ciclo, W = Qq − Qf, usando módulos de calor. O rendimento é η = W/Qq."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "O que é fonte quente?",
+       "Reservatório que fornece calor à máquina."
+      ],
+      [
+       "O que é fonte fria?",
+       "Reservatório que recebe calor rejeitado."
+      ],
+      [
+       "Como obter W por ciclo?",
+       "Subtraia o calor rejeitado do recebido."
+      ],
+      [
+       "Como obter rendimento?",
+       "Divida o trabalho pelo calor recebido."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

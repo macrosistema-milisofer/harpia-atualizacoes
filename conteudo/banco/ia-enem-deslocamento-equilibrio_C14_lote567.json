@@ -1,0 +1,253 @@
+{
+ "assunto": "Fatores que deslocam o equilíbrio químico",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-quimica-deslocamento-equilibrio-c14",
+   "titulo": "Fatores que deslocam o equilíbrio químico",
+   "microconteudo": "RAIO-X DA PROVA: Use a relação física indicada e confira as condições em que ela se aplica. Alterações de composição podem mudar Q sem mudar K a temperatura fixa. Mudanças de temperatura podem mudar K; catalisador não muda K nas mesmas condições.\n\nPOR QUE IMPORTA:\nUma reação reversível pode responder à adição de reagentes, à compressão de gases ou a mudanças de temperatura.\n\nO QUE A BANCA COBRA:\nUse a relação física indicada e confira as condições em que ela se aplica. Alterações de composição podem mudar Q sem mudar K a temperatura fixa. Mudanças de temperatura podem mudar K; catalisador não muda K nas mesmas condições.\n\nENTENDA:\nUma reação reversível pode responder à adição de reagentes, à compressão de gases ou a mudanças de temperatura.\n\nAlterações de composição podem mudar Q sem mudar K a temperatura fixa. Mudanças de temperatura podem mudar K; catalisador não muda K nas mesmas condições.\n\nExemplo resolvido. Em A(g) ⇌ 2B(g), o volume cai à metade a temperatura constante. As concentrações dobram instantaneamente. O numerador de Qc quadruplica e o denominador dobra, logo Qc duplica e a reação líquida volta para A.\n\nOutro exemplo. Numa reação direta exotérmica, aquecer o sistema favorece termodinamicamente o sentido inverso. A constante do sentido direto diminui, mesmo que as velocidades microscópicas possam aumentar.\n\nEm fase gasosa ideal, adicionar gás inerte a volume fixo não altera as pressões parciais dos reagentes. A pressão total pode subir sem mudar Q. Se a adição ocorrer a pressão total fixa e permitir mudança de volume, a consequência pode ser diferente. Sempre leia qual grandeza experimental foi mantida.\n\nPara explicar o resultado, use o vocabulário da situação. Que grandeza muda imediatamente ao adicionar reagente? O quociente Q. Que variável pode mudar K? Temperatura. Qual sentido uma compressão tende a favorecer? O lado de menor quantidade estequiométrica de gás, se houver diferença. Como catalisador afeta equilíbrio? Acelera a aproximação sem mudar K. Aquecer uma reação direta endotérmica altera K como? A constante do sentido direto aumenta no modelo usual. Que gás conta no balanço de pressão parcial? A espécie gasosa presente na expressão pertinente.\n\nNa hora de resolver no papel, siga a sequência abaixo. Ler a equação balanceada. Identificar a perturbação. Verificar se muda Q ou K. Prever o sentido líquido até o equilíbrio. Depois, escreva o resultado em uma frase completa. Um número isolado pode estar correto e, ainda assim, deixar ambíguo o que você calculou. Informe a unidade quando houver medida e identifique o objeto, a região ou o intervalo a que o resultado se refere.\n\nPressão total e pressão parcial não são conceitos equivalentes. A regra de menor número de mols gasosos se aplica à compressão no modelo indicado, sem contar sólidos e líquidos puros como mols de gás.\n\nReleia os dois exemplos resolvidos e tente antecipar o desfecho sem consultar o cálculo. No primeiro exemplo, identifique qual dado determina diretamente a resposta. No segundo, diga qual condição deve permanecer válida para que a conclusão se mantenha. Compare depois o papel das unidades e do sentido das grandezas. Se o resultado for qualitativo, procure enunciar a previsão em termos observáveis. Se for quantitativo, estime a escala antes de efetuar a última operação.\n\nVocê pode adaptar a análise a uma situação do cotidiano. Comece com esta ideia: Uma reação reversível pode responder à adição de reagentes, à compressão de gases ou a mudanças de temperatura. Em seguida, desenhe o cenário, indique o que está sendo comparado e escreva que dado precisaria medir para testar a previsão. Diferencie a regra do modelo das informações que servem apenas para situar a história. Isso ajuda a decidir o que aproveitar quando uma questão apresenta mais dados do que a resolução exige.\n\nTrês conferências úteis: a definição corresponde ao objeto descrito? As condições indicadas no enunciado permitem aplicar a regra? A resposta continua coerente ao voltar ao desenho? Faça a última conferência lendo esta relação no contexto: Alterações de composição podem mudar Q sem mudar K a temperatura fixa. Mudanças de temperatura podem mudar K; catalisador não muda K nas mesmas condições. Uma hipótese deve ser usada dentro de sua faixa de validade; quando o contexto mudar, justifique a adaptação antes de transportar o resultado.\n\nAo treinar, explique a diferença entre o mecanismo e seu efeito. Pressão total e pressão parcial não são conceitos equivalentes. A regra de menor número de mols gasosos se aplica à compressão no modelo indicado, sem contar sólidos e líquidos puros como mols de gás. Em um texto de prova, essa distinção pode aparecer escondida em uma frase sobre o resultado de uma medida. Identifique primeiro a causa física e depois a grandeza observada. Se for necessário comparar cenários, mude uma condição por vez para descobrir qual mudança explica a diferença.\n\nPergunte o que aconteceria se você aplicasse a regra a um desenho mais simples. Comece separando estas tarefas: Ler a equação balanceada. Identificar a perturbação. Verificar se muda Q ou K. Prever o sentido líquido até o equilíbrio. Refaça o primeiro exemplo apenas com setas ou um esquema, deixando os números para o final. Em seguida, recolha do enunciado as unidades e os sentidos. Uma seta no desenho pode indicar a direção de uma interação, a mudança de uma medida ou apenas uma referência. É importante dizer qual papel ela desempenha antes de usar a relação do começo da lição.\n\nPara consolidar, use três perguntas de revisão. Que variável pode mudar K? Temperatura. Como catalisador afeta equilíbrio? Acelera a aproximação sem mudar K. Que gás conta no balanço de pressão parcial? A espécie gasosa presente na expressão pertinente. A ideia é explicar essas respostas sem depender da ordem em que apareceram. Em um problema de comparação, preste atenção às palavras que mantêm algo igual entre os cenários. Em um problema de cálculo, confira a operação inversa quando possível. Por exemplo, reintroduza o resultado na relação inicial e verifique se os dados do problema são recuperados. Em uma questão qualitativa, faça o equivalente testando se a conclusão explica as condições observadas.\n\nNo fim da leitura, diga qual grandeza a pergunta solicitou e qual grandeza você usou para chegar a ela. Faça essa distinção também quando a resposta for uma direção, uma comparação ou uma interpretação histórica. Um resultado bem explicado deve poder ser lido sem adivinhar de onde ele veio.\n\nEm uma atividade de estudo, escreva primeiro uma estimativa ou previsão. Depois escolha o dado específico que vai confirmar ou contrariar essa previsão. Se duas respostas parecerem possíveis, indique qual condição extra permitiria escolher entre elas. A ideia é explicar o raciocínio, deixando claro por que a relação física é apropriada naquele contexto.\n\nTROCANDO EM MIÚDOS:\nUma reação reversível pode responder à adição de reagentes, à compressão de gases ou a mudanças de temperatura.\n\nAlterações de composição podem mudar Q sem mudar K a temperatura fixa. Mudanças de temperatura podem mudar K; catalisador não muda K nas mesmas condições.\n\nExemplo resolvido. Em A(g) ⇌ 2B(g), o volume cai à metade a temperatura constante. As concentrações dobram instantaneamente. O numerador de Qc quadruplica e o denominador dobra, logo Qc duplica e a reação líquida volta para A.\n\nOutro exemplo. Numa reação direta exotérmica, aquecer o sistema favorece termodinamicamente o sentido inverso. A constante do sentido direto diminui, mesmo que as velocidades microscópicas possam aumentar.\n\nPressão total e pressão parcial não são conceitos equivalentes. A regra de menor número de mols gasosos se aplica à compressão no modelo indicado, sem contar sólidos e líquidos puros como mols de gás.\n\nQue grandeza muda imediatamente ao adicionar reagente? O quociente Q. Que variável pode mudar K? Temperatura. Qual sentido uma compressão tende a favorecer? O lado de menor quantidade estequiométrica de gás, se houver diferença. Como catalisador afeta equilíbrio? Acelera a aproximação sem mudar K. Aquecer uma reação direta endotérmica altera K como? A constante do sentido direto aumenta no modelo usual. Que gás conta no balanço de pressão parcial? A espécie gasosa presente na expressão pertinente.\n\nPara montar seu rascunho: Ler a equação balanceada. Identificar a perturbação. Verificar se muda Q ou K. Prever o sentido líquido até o equilíbrio. Na leitura final, escolha a parte do desenho que corresponde ao resultado. Se encontrar uma unidade diferente da pedida, volte ao cálculo e confira os fatores de conversão. Quando a pergunta for conceitual, confira se a explicação indica o mecanismo que liga o dado à conclusão. Você pode comparar os dois exemplos da lição antes de tentar os exercícios e explicar de memória por que cada resultado faz sentido.\n\nLEI SECA:\nAlterações de composição podem mudar Q sem mudar K a temperatura fixa. Mudanças de temperatura podem mudar K; catalisador não muda K nas mesmas condições.\n\nSÚMULAS E TESES:\nOutro exemplo. Numa reação direta exotérmica, aquecer o sistema favorece termodinamicamente o sentido inverso. A constante do sentido direto diminui, mesmo que as velocidades microscópicas possam aumentar.\n\nESQUEMA:\nLer a equação balanceada. → Identificar a perturbação. → Verificar se muda Q ou K. → Prever o sentido líquido até o equilíbrio.\n\nPEGADINHAS:\nPressão total e pressão parcial não são conceitos equivalentes. A regra de menor número de mols gasosos se aplica à compressão no modelo indicado, sem contar sólidos e líquidos puros como mols de gás.\n\nDOUTRINA:\nLe Châtelier’s Principle\n\nNA PRÁTICA:\nExemplo resolvido. Em A(g) ⇌ 2B(g), o volume cai à metade a temperatura constante. As concentrações dobram instantaneamente. O numerador de Qc quadruplica e o denominador dobra, logo Qc duplica e a reação líquida volta para A.",
+   "flashcards": [
+    {
+     "frente": "Que grandeza muda imediatamente ao adicionar reagente?",
+     "verso": "O quociente Q.",
+     "dispositivo": "Transformação Química e Equilíbrio — Fatores que alteram o sistema em equilíbrio"
+    },
+    {
+     "frente": "Que variável pode mudar K?",
+     "verso": "Temperatura.",
+     "dispositivo": "Transformação Química e Equilíbrio — Fatores que alteram o sistema em equilíbrio"
+    },
+    {
+     "frente": "Qual sentido uma compressão tende a favorecer?",
+     "verso": "O lado de menor quantidade estequiométrica de gás, se houver diferença.",
+     "dispositivo": "Transformação Química e Equilíbrio — Fatores que alteram o sistema em equilíbrio"
+    },
+    {
+     "frente": "Como catalisador afeta equilíbrio?",
+     "verso": "Acelera a aproximação sem mudar K.",
+     "dispositivo": "Transformação Química e Equilíbrio — Fatores que alteram o sistema em equilíbrio"
+    },
+    {
+     "frente": "Aquecer uma reação direta endotérmica altera K como?",
+     "verso": "A constante do sentido direto aumenta no modelo usual.",
+     "dispositivo": "Transformação Química e Equilíbrio — Fatores que alteram o sistema em equilíbrio"
+    },
+    {
+     "frente": "Que gás conta no balanço de pressão parcial?",
+     "verso": "A espécie gasosa presente na expressão pertinente.",
+     "dispositivo": "Transformação Química e Equilíbrio — Fatores que alteram o sistema em equilíbrio"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "enem-quimica-deslocamento-equilibrio-c14-q01",
+     "tipo": "ce",
+     "texto_base": "Uma reação gasosa tem mais mols de gás nos produtos.",
+     "enunciado": "Comprimir pode favorecer os reagentes.",
+     "gabarito": "C",
+     "comentario": "Certo. Favorece o lado com menor quantidade gasosa.",
+     "habilidade": "H18",
+     "dificuldade": "media",
+     "dispositivo": "Transformação Química e Equilíbrio — Fatores que alteram o sistema em equilíbrio"
+    },
+    {
+     "id": "enem-quimica-deslocamento-equilibrio-c14-q02",
+     "tipo": "ce",
+     "texto_base": "Um catalisador é adicionado.",
+     "enunciado": "O valor de K muda por causa da barreira menor.",
+     "gabarito": "E",
+     "comentario": "Errado. A constante de equilíbrio não depende da rota cinética.",
+     "habilidade": "H18",
+     "dificuldade": "media",
+     "dispositivo": "Transformação Química e Equilíbrio — Fatores que alteram o sistema em equilíbrio"
+    },
+    {
+     "id": "enem-quimica-deslocamento-equilibrio-c14-q03",
+     "tipo": "ce",
+     "texto_base": "Uma reação direta é endotérmica.",
+     "enunciado": "Elevar a temperatura pode favorecer produtos.",
+     "gabarito": "C",
+     "comentario": "Certo. Aumenta a constante do sentido endotérmico.",
+     "habilidade": "H18",
+     "dificuldade": "media",
+     "dispositivo": "Transformação Química e Equilíbrio — Fatores que alteram o sistema em equilíbrio"
+    },
+    {
+     "id": "enem-quimica-deslocamento-equilibrio-c14-q04",
+     "tipo": "ce",
+     "texto_base": "Acrescentar sólido puro sem mudar outras condições.",
+     "enunciado": "Isso necessariamente desloca um equilíbrio que já tem essa fase presente.",
+     "gabarito": "E",
+     "comentario": "Errado. Sua atividade permanece unitária.",
+     "habilidade": "H18",
+     "dificuldade": "media",
+     "dispositivo": "Transformação Química e Equilíbrio — Fatores que alteram o sistema em equilíbrio"
+    },
+    {
+     "id": "enem-quimica-deslocamento-equilibrio-c14-q05",
+     "tipo": "me",
+     "texto_base": "Em A(g) + B(g) ⇌ C(g), reduza V a T constante.",
+     "enunciado": "Qual sentido tende a ser favorecido?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "Formação de A e B",
+      "B": "Formação de C",
+      "C": "Nenhum em qualquer condição",
+      "D": "Formação preferencial de A sem B",
+      "E": "Mudança da constante por pressão"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta opção descreve formação de a e b, enquanto a situação pede formação de c. O lado de C tem menor número de mols gasosos na equação.",
+      "B": "Correta. O lado de C tem menor número de mols gasosos na equação.",
+      "C": "Esta opção descreve nenhum em qualquer condição, enquanto a situação pede formação de c. O lado de C tem menor número de mols gasosos na equação.",
+      "D": "Esta opção descreve formação preferencial de a sem b, enquanto a situação pede formação de c. O lado de C tem menor número de mols gasosos na equação.",
+      "E": "Esta opção descreve mudança da constante por pressão, enquanto a situação pede formação de c. O lado de C tem menor número de mols gasosos na equação."
+     },
+     "comentario": "A) Esta opção descreve formação de a e b, enquanto a situação pede formação de c. O lado de C tem menor número de mols gasosos na equação.\nB) Correta. O lado de C tem menor número de mols gasosos na equação.\nC) Esta opção descreve nenhum em qualquer condição, enquanto a situação pede formação de c. O lado de C tem menor número de mols gasosos na equação.\nD) Esta opção descreve formação preferencial de a sem b, enquanto a situação pede formação de c. O lado de C tem menor número de mols gasosos na equação.\nE) Esta opção descreve mudança da constante por pressão, enquanto a situação pede formação de c. O lado de C tem menor número de mols gasosos na equação.",
+     "habilidade": "H18",
+     "dificuldade": "media",
+     "dispositivo": "Transformação Química e Equilíbrio — Fatores que alteram o sistema em equilíbrio"
+    },
+    {
+     "id": "enem-quimica-deslocamento-equilibrio-c14-q06",
+     "tipo": "me",
+     "texto_base": "Uma turma compara duas explicações para o mesmo experimento.",
+     "enunciado": "Que variável pode mudar K?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "O quociente Q.",
+      "B": "O lado de menor quantidade estequiométrica de gás, se houver diferença.",
+      "C": "Acelera a aproximação sem mudar K.",
+      "D": "Temperatura.",
+      "E": "A constante do sentido direto aumenta no modelo usual."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta alternativa se refere à seguinte pergunta: Que grandeza muda imediatamente ao adicionar reagente?",
+      "B": "Esta alternativa se refere à seguinte pergunta: Qual sentido uma compressão tende a favorecer?",
+      "C": "Esta alternativa se refere à seguinte pergunta: Como catalisador afeta equilíbrio?",
+      "D": "Correta. Temperatura.",
+      "E": "Esta alternativa se refere à seguinte pergunta: Aquecer uma reação direta endotérmica altera K como?"
+     },
+     "comentario": "A) Esta alternativa se refere à seguinte pergunta: Que grandeza muda imediatamente ao adicionar reagente?\nB) Esta alternativa se refere à seguinte pergunta: Qual sentido uma compressão tende a favorecer?\nC) Esta alternativa se refere à seguinte pergunta: Como catalisador afeta equilíbrio?\nD) Correta. Temperatura.\nE) Esta alternativa se refere à seguinte pergunta: Aquecer uma reação direta endotérmica altera K como?",
+     "habilidade": "H18",
+     "dificuldade": "media",
+     "dispositivo": "Transformação Química e Equilíbrio — Fatores que alteram o sistema em equilíbrio"
+    },
+    {
+     "id": "enem-quimica-deslocamento-equilibrio-c14-q07",
+     "tipo": "me",
+     "texto_base": "Ao revisar a interpretação de um esquema, uma estudante consulta suas anotações.",
+     "enunciado": "Como catalisador afeta equilíbrio?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "Acelera a aproximação sem mudar K.",
+      "B": "O quociente Q.",
+      "C": "Temperatura.",
+      "D": "O lado de menor quantidade estequiométrica de gás, se houver diferença.",
+      "E": "A constante do sentido direto aumenta no modelo usual."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta. Acelera a aproximação sem mudar K.",
+      "B": "Esta alternativa se refere à seguinte pergunta: Que grandeza muda imediatamente ao adicionar reagente?",
+      "C": "Esta alternativa se refere à seguinte pergunta: Que variável pode mudar K?",
+      "D": "Esta alternativa se refere à seguinte pergunta: Qual sentido uma compressão tende a favorecer?",
+      "E": "Esta alternativa se refere à seguinte pergunta: Aquecer uma reação direta endotérmica altera K como?"
+     },
+     "comentario": "A) Correta. Acelera a aproximação sem mudar K.\nB) Esta alternativa se refere à seguinte pergunta: Que grandeza muda imediatamente ao adicionar reagente?\nC) Esta alternativa se refere à seguinte pergunta: Que variável pode mudar K?\nD) Esta alternativa se refere à seguinte pergunta: Qual sentido uma compressão tende a favorecer?\nE) Esta alternativa se refere à seguinte pergunta: Aquecer uma reação direta endotérmica altera K como?",
+     "habilidade": "H18",
+     "dificuldade": "media",
+     "dispositivo": "Transformação Química e Equilíbrio — Fatores que alteram o sistema em equilíbrio"
+    },
+    {
+     "id": "enem-quimica-deslocamento-equilibrio-c14-q08",
+     "tipo": "me",
+     "texto_base": "Antes de justificar o resultado no relatório, um grupo revisa o conceito.",
+     "enunciado": "Que gás conta no balanço de pressão parcial?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "O quociente Q.",
+      "B": "Temperatura.",
+      "C": "O lado de menor quantidade estequiométrica de gás, se houver diferença.",
+      "D": "Acelera a aproximação sem mudar K.",
+      "E": "A espécie gasosa presente na expressão pertinente."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esta alternativa se refere à seguinte pergunta: Que grandeza muda imediatamente ao adicionar reagente?",
+      "B": "Esta alternativa se refere à seguinte pergunta: Que variável pode mudar K?",
+      "C": "Esta alternativa se refere à seguinte pergunta: Qual sentido uma compressão tende a favorecer?",
+      "D": "Esta alternativa se refere à seguinte pergunta: Como catalisador afeta equilíbrio?",
+      "E": "Correta. A espécie gasosa presente na expressão pertinente."
+     },
+     "comentario": "A) Esta alternativa se refere à seguinte pergunta: Que grandeza muda imediatamente ao adicionar reagente?\nB) Esta alternativa se refere à seguinte pergunta: Que variável pode mudar K?\nC) Esta alternativa se refere à seguinte pergunta: Qual sentido uma compressão tende a favorecer?\nD) Esta alternativa se refere à seguinte pergunta: Como catalisador afeta equilíbrio?\nE) Correta. A espécie gasosa presente na expressão pertinente.",
+     "habilidade": "H18",
+     "dificuldade": "media",
+     "dispositivo": "Transformação Química e Equilíbrio — Fatores que alteram o sistema em equilíbrio"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Que grandeza muda imediatamente ao adicionar reagente? ___",
+     "opcoes": [
+      "O quociente Q.",
+      "Temperatura.",
+      "O lado de menor quantidade estequiométrica de gás, se houver diferença.",
+      "Acelera a aproximação sem mudar K."
+     ],
+     "respostas": [
+      "O quociente Q."
+     ],
+     "explicacao": "O quociente Q."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Qual sentido uma compressão tende a favorecer? ___",
+     "opcoes": [
+      "O lado de menor quantidade estequiométrica de gás, se houver diferença.",
+      "Acelera a aproximação sem mudar K.",
+      "A constante do sentido direto aumenta no modelo usual.",
+      "A espécie gasosa presente na expressão pertinente."
+     ],
+     "respostas": [
+      "O lado de menor quantidade estequiométrica de gás, se houver diferença."
+     ],
+     "explicacao": "O lado de menor quantidade estequiométrica de gás, se houver diferença."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise de fatores que deslocam o equilíbrio químico.",
+     "itens": [
+      "Ler a equação balanceada.",
+      "Identificar a perturbação.",
+      "Verificar se muda Q ou K.",
+      "Prever o sentido líquido até o equilíbrio."
+     ],
+     "explicacao": "Alterações de composição podem mudar Q sem mudar K a temperatura fixa. Mudanças de temperatura podem mudar K; catalisador não muda K nas mesmas condições."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Que grandeza muda imediatamente ao adicionar reagente?",
+       "O quociente Q."
+      ],
+      [
+       "Que variável pode mudar K?",
+       "Temperatura."
+      ],
+      [
+       "Qual sentido uma compressão tende a favorecer?",
+       "O lado de menor quantidade estequiométrica de gás, se houver diferença."
+      ],
+      [
+       "Como catalisador afeta equilíbrio?",
+       "Acelera a aproximação sem mudar K."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

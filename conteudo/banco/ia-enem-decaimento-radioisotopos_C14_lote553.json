@@ -1,0 +1,253 @@
+{
+ "assunto": "Desintegração radioativa e radioisótopos",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-decaimento-radioisotopos-c14",
+   "titulo": "Desintegração radioativa e radioisótopos",
+   "microconteudo": "RAIO-X DA PROVA: Assunto do edital de Ciências da Natureza. A interpretação de dados ajuda a resolver situações-problema sobre esse conteúdo.\n\nPOR QUE IMPORTA:\nDesintegração radioativa e radioisótopos ajuda a traduzir observações e símbolos em explicações que você pode conferir. Nesta lição, você vai praticar a leitura de dados e justificar o resultado.\n\nO QUE A BANCA COBRA:\nIdentifique o que o problema descreve e escolha a conclusão explicada pelos dados. Revise a unidade, a entidade representada e as condições de aplicação quando elas fizerem parte do problema.\n\nENTENDA:\nRadioisótopos têm núcleos instáveis. Decaimento alfa reduz A em quatro e Z em dois. Beta menos mantém A e eleva Z em um. Emissão gama reduz a energia de um estado nuclear excitado e mantém A e Z. A meia-vida descreve a queda esperada da população de núcleos pais.\n\nUma amostra de radioisótopo hipotético começa com 960 unidades de atividade dos núcleos pais. Depois de três meias-vidas, mantém 960/8 = 120 nas mesmas unidades, sem reposição. A previsão é baseada na redução pela metade a cada período.\n\nUm gráfico de decaimento ideal começa na quantidade inicial e cai cada vez menos em unidades absolutas por intervalo igual. A porcentagem removida em cada meia-vida permanece a mesma, mas ela incide sobre uma população menor. Se o experimento conta produtos filhos além dos núcleos pais, a interpretação muda. O produto pode se acumular ou desintegrar, e sua curva depende do que se mede. Leia a legenda do gráfico antes de aplicar diretamente a relação de meias-vidas. A atividade expressa decaimentos por tempo e, para um único radioisótopo em condições de modelo, é proporcional à quantidade de núcleos pais. Atividades iguais em duas amostras distintas não provam que ambas tenham a mesma quantidade de núcleos, pois as constantes de decaimento podem diferir.\n\nPrimeiro caso: ligue os dados à regra\nUma amostra tem 800 núcleos pais em média e passa por duas meias-vidas. Quantos restam em média?\n\nComece lendo o enunciado como um pequeno relatório. Anote em uma linha o material ou sistema descrito e, em outra, o que se quer descobrir. Essa divisão evita misturar um dado já fornecido com o resultado pedido. Escolha a regra depois de localizar o que, no texto, autoriza sua aplicação. Ao terminar, teste se a resposta ainda faz sentido ao substituir os valores ou reler a observação.\n\nResultado: 200 800/2/2 = 200.\n\nCompare as hipóteses e os cálculos alternativos:\n• 400 Seria uma meia-vida.\n• 600 A perda não é linear.\n• 0 O modelo não zera em dois períodos.\n• 1600 Não há crescimento sem reposição.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nSegundo caso: cuide da condição que permite a conclusão\nO núcleo filho tem o mesmo A e Z uma unidade acima do pai. Qual emissão é compatível?\n\nCompare as interpretações antes de escolher. Duas respostas podem usar os mesmos termos ou números e ainda se referir a grandezas diferentes. Se houver unidades, escreva a unidade junto a cada valor. Se houver contagens, diga o que está sendo contado. Se a questão for explicativa, procure a relação de causa e efeito que é compatível com as condições fornecidas. Só então feche a resposta.\n\nResultado: Beta menos. Ocorre conversão de nêutron em próton.\n\nCompare as hipóteses e os cálculos alternativos:\n• Alfa. A cairia quatro.\n• Gama. Z não mudaria.\n• Próton. Z diminuiria.\n• Nêutron. A diminuiria.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nTerceiro caso: confira o que a pergunta está medindo\nRestam 12,5% dos núcleos pais de uma amostra. Quantas meias-vidas transcorreram?\n\nFaça uma primeira previsão usando palavras. Pergunte se o resultado esperado é uma contagem, uma propriedade, uma comparação ou um mecanismo. Escrever a previsão antes de olhar as alternativas ajuda a perceber quando dois valores semelhantes têm sentidos diferentes. Em seguida, explique em uma frase como o primeiro dado se conecta ao resultado. A resposta fica mais forte quando essa ligação pode ser checada no próprio enunciado.\n\nResultado: Três. A fração é 1/8.\n\nCompare as hipóteses e os cálculos alternativos:\n• Uma. Restaria 1/2.\n• Duas. Restaria 1/4.\n• Quatro. Restaria 1/16.\n• Oito. O denominador cresce por fatores de dois.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nQuarto caso: escolha a conclusão sustentada\nUm estudo usa um radioisótopo como marcador e mede atividade em instantes diferentes. Que fator físico precisa considerar?\n\nTente justificar a escolha para alguém que observou apenas o resultado final. Comece pelos fatos que o problema realmente fornece e mostre como a regra interpreta esses fatos. Se a conclusão depender de uma condição, mantenha essa condição na justificativa. Depois procure uma alteração pequena nos dados que exigiria outra resposta. Esse último passo ajuda a reconhecer onde termina a aplicação do raciocínio.\n\nResultado: A atividade do marcador pode diminuir por decaimento mesmo sem perda de amostra. O sinal depende da população nuclear.\n\nCompare as hipóteses e os cálculos alternativos:\n• A atividade sempre é constante. A meia-vida importa.\n• O recipiente aumenta Z em cada medição. Medir não altera os núcleos dessa maneira.\n• O detector mede apenas cor. Ele responde ao sinal radiativo pertinente.\n• Todo decréscimo significa vazamento. O decaimento pode explicar parte da queda.\n\nAntes de passar ao caso seguinte, cubra o resultado e reconstrua a justificativa com seus próprios termos. Se o caso traz números, confira a operação e a unidade. Se pede uma explicação, identifique o dado que permite aceitar uma hipótese e afastar pelo menos uma das explicações concorrentes.\n\nLeitura crítica 1\nUm núcleo emite alfa. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “Seu Z cai duas unidades.” A partícula emitida inclui dois prótons. A segunda é “Seu Z aumenta duas unidades.” O núcleo perdeu prótons.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nLeitura crítica 2\nUm estado nuclear excitado emite gama. Analise separadamente o que as duas afirmações dizem. A primeira afirmação é “A e Z permanecem constantes.” O fóton retira energia sem levar núcleons. A segunda é “A cai quatro unidades.” Isso ocorre na emissão alfa.\n\nEm itens de julgamento, observe a extensão exata da frase. Uma palavra pode trocar o objeto que está sendo comparado, atribuir o efeito a uma causa diferente ou generalizar além dos dados. Releia a primeira afirmação e localize a condição que sustenta sua resposta. Depois reescreva a segunda de modo que o leitor consiga explicar o mesmo cenário sem repetir o erro.\n\nCheque o alcance da conclusão\nRadioisótopos têm núcleos instáveis. Decaimento alfa reduz A em quatro e Z em dois. Beta menos mantém A e eleva Z em um. Emissão gama reduz a energia de um estado nuclear excitado e mantém A e Z. A meia-vida descreve a queda esperada da população de núcleos pais.\n\nAo estudar, escolha uma das situações acima e altere só um dado. Explique quais partes da solução continuam iguais e quais precisam ser refeitas. Num problema numérico, experimente multiplicar o dado alterado por dois e veja se a resposta dobra, diminui ou continua igual. Num problema de classificação, tente retirar a observação decisiva e veja quais hipóteses continuam compatíveis. Isso separa a regra geral da informação específica fornecida por uma questão.\n\nTROCANDO EM MIÚDOS:\nComece por uma pergunta que você conseguiria fazer a um colega: o que mudou, o que ficou igual e qual informação me permite dizer isso? Em questões de Química, dá para errar mesmo lembrando a regra certa quando se usa a regra para o dado errado. Separe a situação da pergunta. Leia os símbolos em voz baixa. Se houver dois materiais ou dois momentos, dê um nome curto para cada um. Assim você consegue comparar as coisas na ordem que o texto pediu.\n\nUma amostra de radioisótopo hipotético começa com 960 unidades de atividade dos núcleos pais. Depois de três meias-vidas, mantém 960/8 = 120 nas mesmas unidades, sem reposição. A previsão é baseada na redução pela metade a cada período.\n\nExperimente com este caso. Uma amostra tem 800 núcleos pais em média e passa por duas meias-vidas. Quantos restam em média? A resposta é 200 800/2/2 = 200. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nExperimente com este caso. Um estudo usa um radioisótopo como marcador e mede atividade em instantes diferentes. Que fator físico precisa considerar? A resposta é A atividade do marcador pode diminuir por decaimento mesmo sem perda de amostra. O sinal depende da população nuclear. Para conferir, volte ao começo e aponte o dado que você usou. Se aparecer um número parecido em outra opção, leia a unidade e veja a que objeto cada número se refere.\n\nFaça uma checagem que cabe no rascunho: escreva o dado, desenhe uma seta e escreva o que ele permite concluir. Se precisar de uma segunda seta, diga qual regra leva desse resultado intermediário até a resposta. Uma explicação em duas frases pode ser suficiente. A primeira conta o que o problema mostrou. A segunda diz por que esse dado leva à sua escolha. Esse caminho ajuda em problemas com tabelas, desenhos e comparações.\n\nESQUEMA:\nLeia o cenário → destaque o dado decisivo → aplique a relação → confira o que foi pedido.\n\nPEGADINHAS:\n• 400 Seria uma meia-vida.\n• Alfa. A cairia quatro.\n• Uma. Restaria 1/2.\n• A atividade sempre é constante. A meia-vida importa.\n\nNA PRÁTICA:\nUma amostra de radioisótopo hipotético começa com 960 unidades de atividade dos núcleos pais. Depois de três meias-vidas, mantém 960/8 = 120 nas mesmas unidades, sem reposição. A previsão é baseada na redução pela metade a cada período.",
+   "flashcards": [
+    {
+     "frente": "Um núcleo emite alfa. Seu Z cai duas unidades. Certo ou errado?",
+     "verso": "Certo. A partícula emitida inclui dois prótons.",
+     "dispositivo": "Transformações químicas e energia — Desintegração radioativa e radioisótopos"
+    },
+    {
+     "frente": "Um estado nuclear excitado emite gama. A e Z permanecem constantes. Certo ou errado?",
+     "verso": "Certo. O fóton retira energia sem levar núcleons.",
+     "dispositivo": "Transformações químicas e energia — Desintegração radioativa e radioisótopos"
+    },
+    {
+     "frente": "Uma amostra tem 800 núcleos pais em média e passa por duas meias-vidas. Quantos restam em média?",
+     "verso": "200 800/2/2 = 200.",
+     "dispositivo": "Transformações químicas e energia — Desintegração radioativa e radioisótopos"
+    },
+    {
+     "frente": "O núcleo filho tem o mesmo A e Z uma unidade acima do pai. Qual emissão é compatível?",
+     "verso": "Beta menos. Ocorre conversão de nêutron em próton.",
+     "dispositivo": "Transformações químicas e energia — Desintegração radioativa e radioisótopos"
+    },
+    {
+     "frente": "Restam 12,5% dos núcleos pais de uma amostra. Quantas meias-vidas transcorreram?",
+     "verso": "Três. A fração é 1/8.",
+     "dispositivo": "Transformações químicas e energia — Desintegração radioativa e radioisótopos"
+    },
+    {
+     "frente": "Um estudo usa um radioisótopo como marcador e mede atividade em instantes diferentes. Que fator físico precisa considerar?",
+     "verso": "A atividade do marcador pode diminuir por decaimento mesmo sem perda de amostra. O sinal depende da população nuclear.",
+     "dispositivo": "Transformações químicas e energia — Desintegração radioativa e radioisótopos"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Um núcleo emite alfa.",
+     "enunciado": "Seu Z cai duas unidades.",
+     "gabarito": "C",
+     "comentario": "Certo. A partícula emitida inclui dois prótons.",
+     "id": "enem-decaimento-radioisotopos-c14-q01",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Desintegração radioativa e radioisótopos",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um núcleo emite alfa.",
+     "enunciado": "Seu Z aumenta duas unidades.",
+     "gabarito": "E",
+     "comentario": "Errado. O núcleo perdeu prótons.",
+     "id": "enem-decaimento-radioisotopos-c14-q02",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Desintegração radioativa e radioisótopos",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um estado nuclear excitado emite gama.",
+     "enunciado": "A e Z permanecem constantes.",
+     "gabarito": "C",
+     "comentario": "Certo. O fóton retira energia sem levar núcleons.",
+     "id": "enem-decaimento-radioisotopos-c14-q03",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Desintegração radioativa e radioisótopos",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um estado nuclear excitado emite gama.",
+     "enunciado": "A cai quatro unidades.",
+     "gabarito": "E",
+     "comentario": "Errado. Isso ocorre na emissão alfa.",
+     "id": "enem-decaimento-radioisotopos-c14-q04",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Desintegração radioativa e radioisótopos",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Uma amostra tem 800 núcleos pais em média e passa por duas meias-vidas.",
+     "enunciado": "Quantos restam em média?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "400",
+      "B": "600",
+      "C": "0",
+      "D": "200",
+      "E": "1600"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Seria uma meia-vida.",
+      "B": "A perda não é linear.",
+      "C": "O modelo não zera em dois períodos.",
+      "D": "800/2/2 = 200.",
+      "E": "Não há crescimento sem reposição."
+     },
+     "comentario": "A) Seria uma meia-vida.\nB) A perda não é linear.\nC) O modelo não zera em dois períodos.\nD) 800/2/2 = 200.\nE) Não há crescimento sem reposição.",
+     "id": "enem-decaimento-radioisotopos-c14-q05",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Desintegração radioativa e radioisótopos",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "O núcleo filho tem o mesmo A e Z uma unidade acima do pai.",
+     "enunciado": "Qual emissão é compatível?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "Beta menos.",
+      "B": "Alfa.",
+      "C": "Gama.",
+      "D": "Próton.",
+      "E": "Nêutron."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Ocorre conversão de nêutron em próton.",
+      "B": "A cairia quatro.",
+      "C": "Z não mudaria.",
+      "D": "Z diminuiria.",
+      "E": "A diminuiria."
+     },
+     "comentario": "A) Ocorre conversão de nêutron em próton.\nB) A cairia quatro.\nC) Z não mudaria.\nD) Z diminuiria.\nE) A diminuiria.",
+     "id": "enem-decaimento-radioisotopos-c14-q06",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Desintegração radioativa e radioisótopos",
+     "dificuldade": "media"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Restam 12,5% dos núcleos pais de uma amostra.",
+     "enunciado": "Quantas meias-vidas transcorreram?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Uma.",
+      "B": "Duas.",
+      "C": "Quatro.",
+      "D": "Oito.",
+      "E": "Três."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Restaria 1/2.",
+      "B": "Restaria 1/4.",
+      "C": "Restaria 1/16.",
+      "D": "O denominador cresce por fatores de dois.",
+      "E": "A fração é 1/8."
+     },
+     "comentario": "A) Restaria 1/2.\nB) Restaria 1/4.\nC) Restaria 1/16.\nD) O denominador cresce por fatores de dois.\nE) A fração é 1/8.",
+     "id": "enem-decaimento-radioisotopos-c14-q07",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Desintegração radioativa e radioisótopos",
+     "dificuldade": "dificil"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Um estudo usa um radioisótopo como marcador e mede atividade em instantes diferentes.",
+     "enunciado": "Que fator físico precisa considerar?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "A atividade sempre é constante.",
+      "B": "A atividade do marcador pode diminuir por decaimento mesmo sem perda de amostra.",
+      "C": "O recipiente aumenta Z em cada medição.",
+      "D": "O detector mede apenas cor.",
+      "E": "Todo decréscimo significa vazamento."
+     },
+     "comentarios_por_alternativa": {
+      "A": "A meia-vida importa.",
+      "B": "O sinal depende da população nuclear.",
+      "C": "Medir não altera os núcleos dessa maneira.",
+      "D": "Ele responde ao sinal radiativo pertinente.",
+      "E": "O decaimento pode explicar parte da queda."
+     },
+     "comentario": "A) A meia-vida importa.\nB) O sinal depende da população nuclear.\nC) Medir não altera os núcleos dessa maneira.\nD) Ele responde ao sinal radiativo pertinente.\nE) O decaimento pode explicar parte da queda.",
+     "id": "enem-decaimento-radioisotopos-c14-q08",
+     "habilidade": "H24",
+     "dispositivo": "Transformações químicas e energia — Desintegração radioativa e radioisótopos",
+     "dificuldade": "dificil"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O núcleo filho tem o mesmo A e Z uma unidade acima do pai. Qual emissão é compatível? ___",
+     "opcoes": [
+      "Alfa.",
+      "Beta menos.",
+      "Gama.",
+      "Próton."
+     ],
+     "respostas": [
+      "Beta menos."
+     ],
+     "explicacao": "Ocorre conversão de nêutron em próton."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Restam 12,5% dos núcleos pais de uma amostra. Quantas meias-vidas transcorreram? ___",
+     "opcoes": [
+      "Uma.",
+      "Três.",
+      "Duas.",
+      "Quatro."
+     ],
+     "respostas": [
+      "Três."
+     ],
+     "explicacao": "A fração é 1/8."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Organize a análise do caso: Uma amostra tem 800 núcleos pais em média e passa por duas meias-vidas.",
+     "itens": [
+      "Localizar o que se quer descobrir: Quantos restam em média?",
+      "Separar as informações dadas no enunciado.",
+      "Aplicar a relação adequada aos dados.",
+      "Conferir se a conclusão responde à pergunta."
+     ],
+     "explicacao": "800/2/2 = 200."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Uma amostra tem 800 núcleos pais em média e passa por duas meias-vidas. Quantos restam em média?",
+       "200"
+      ],
+      [
+       "O núcleo filho tem o mesmo A e Z uma unidade acima do pai. Qual emissão é compatível?",
+       "Beta menos."
+      ],
+      [
+       "Restam 12,5% dos núcleos pais de uma amostra. Quantas meias-vidas transcorreram?",
+       "Três."
+      ],
+      [
+       "Um estudo usa um radioisótopo como marcador e mede atividade em instantes diferentes. Que fator físico precisa considerar?",
+       "A atividade do marcador pode diminuir por decaimento mesmo sem perda de amostra."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
