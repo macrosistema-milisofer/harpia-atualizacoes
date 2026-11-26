@@ -1,0 +1,251 @@
+{
+ "assunto": "Dinâmica de populações",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-26",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "enem-dinamica-populacoes-c14",
+   "titulo": "Dinâmica de populações",
+   "microconteudo": "RAIO-X DA PROVA: Assunto prioritário do edital.\n\nPOR QUE IMPORTA:\nUma população começa com 100 indivíduos. No intervalo nascem 24, entram 6, morrem 15 e saem 5. Esse tipo de comparação aparece em questões que ligam um conceito biológico a uma observação.\n\nO QUE A BANCA COBRA:\nIdentifique as entradas e saídas, confira o intervalo e interprete as condições de crescimento.\n\nENTENDA:\nUma população começa com 100 indivíduos. No intervalo nascem 24, entram 6, morrem 15 e saem 5. O balanço é 24 mais 6 menos 15 menos 5, totalizando crescimento de 10 indivíduos. A população termina com 110 no recorte adotado. Identifique as entradas e saídas, confira o intervalo e interprete as condições de crescimento. Ao retomar esse cenário, procure distinguir o que o enunciado fornece como observação e o que você precisa inferir. Em muitos exercícios, uma tabela, um gráfico e um trecho de texto trazem partes diferentes da informação. Leia cada elemento antes de combinar as pistas.\n\nNatalidade — entrada de novos indivíduos por nascimento. Doze indivíduos nascem dentro da área observada durante uma estação. O total entra com sinal positivo no balanço da população. Para comparar taxas entre grupos diferentes, observe também o tamanho populacional. Comece pela unidade observada. Escreva o nome da unidade ao lado do dado antes de interpretar o resultado. Se o exercício mudar o nível de observação, verifique também se o mesmo nome continua adequado à nova evidência.\n\nMortalidade — saída da contagem populacional por morte. Um grupo apresenta mais mortes durante o mesmo intervalo de observação. O efeito no total depende de todas as entradas e saídas. Mais mortes podem coexistir com crescimento quando as entradas continuam maiores. Uma comparação é útil quando as duas situações podem ser lidas na mesma base. Em uma figura, confira a legenda de cada elemento. Em uma tabela, veja as unidades e compare a coluna correspondente, mesmo que a ordem das linhas tenha mudado.\n\nImigração — entrada de indivíduos vindos de fora da área. Indivíduos de um grupo vizinho passam a ocupar a área incluída na amostra. O movimento só é classificado como entrada depois de estabelecer a fronteira espacial. Em outro recorte, o mesmo deslocamento pode ser interno. Transforme a observação em uma previsão que possa ser conferida. Pergunte que resultado você esperaria se a explicação estivesse correta. Caso um resultado diferente também seja compatível com os dados, escreva a condição que permitiria escolher entre as duas interpretações.\n\nEmigração — saída de indivíduos da área de estudo. Parte de uma população muda para um fragmento situado fora do levantamento. A saída reduz a contagem local sem implicar morte. Para avaliar o grupo regional, pode ser necessário incluir o fragmento de destino. Faça um rascunho indicando o que permaneceu e o que mudou. Essa separação ajuda quando a prova descreve dois processos com resultados visualmente parecidos. Uma diferença numa medida pode alterar a classificação, enquanto outra diferença pode ser irrelevante para o critério pedido.\n\nCrescimento exponencial — aumento em que o incremento esperado cresce com o tamanho sob taxa per capita constante. Uma curva em J representa crescimento ideal sob recursos abundantes. A taxa por indivíduo pode permanecer estável enquanto aumentam os indivíduos adicionados por intervalo. As premissas podem deixar de valer com o tempo. Acompanhe o sentido da mudança. Registre de onde partiu a comparação e qual situação foi observada depois. Se a questão trocar a ordem em que os dados aparecem, recupere a sequência do fenômeno antes de atribuir o resultado a um processo.\n\nCapacidade de suporte — tamanho aproximado que o ambiente sustenta sob condições dadas. O crescimento diminui quando a população se aproxima de um patamar no modelo logístico. O patamar depende de recursos e condições ambientais. Uma estação de seca pode alterar a quantidade que o ambiente sustenta. Uma questão pode fornecer o resultado de uma etapa e perguntar por outra. Veja se existe uma ligação explícita entre as duas no enunciado. Quando a ligação depender de uma condição, inclua essa condição na resposta e avalie se ela foi atendida no cenário.\n\nDensidade populacional — número de indivíduos por unidade de área ou volume. Uma lagoa contém 60 indivíduos em 30 metros quadrados. A densidade média é dois indivíduos por metro quadrado. A média não especifica se os indivíduos estão agrupados em determinadas regiões. Se houver mais de uma explicação, procure a que usa as informações específicas do caso. Uma alternativa muito ampla pode citar um conceito verdadeiro e ainda deixar de explicar o resultado observado. Justifique a escolha usando um detalhe que a distinga das demais.\n\nFator dependente da densidade — efeito que muda com a densidade de indivíduos. A competição por alimento aumenta à medida que mais indivíduos usam a mesma área. O mecanismo depende da demanda sobre o recurso. Se a quantidade de alimento também mudar, avalie o efeito das duas variáveis. Termine com uma frase que descreva a observação e outra que apresente a interpretação. Pergunte se a segunda frase exige algum dado que ainda não apareceu. Esse procedimento ajuda quando a alternativa acrescenta uma conclusão sobre outro grupo, outro momento ou outra escala.\n\nPara comparar dois conceitos, volte ao exemplo inicial. Identifique as entradas e saídas, confira o intervalo e interprete as condições de crescimento. Considere em particular natalidade e fator dependente da densidade. Antes de usar um termo, aponte qual dado da situação é explicado por ele. Se puder trocar os dois termos sem mudar sua frase, torne a explicação mais específica. Nomeie o objeto observado, a mudança ou relação descrita e o critério que sustenta sua escolha.\n\nCompare estes dois registros: “Um grupo apresenta mais mortes durante o mesmo intervalo de observação” e “O crescimento diminui quando a população se aproxima de um patamar no modelo logístico”. No primeiro, a leitura envolve mortalidade. No outro, envolve capacidade de suporte. Se você precisar justificar a diferença a um colega, explique primeiro qual evidência está disponível em cada situação e depois recupere a definição que corresponde ao caso. Uma descrição pode destacar o resultado imediato, enquanto a outra só é compreendida quando você considera a relação com etapas anteriores ou posteriores. Esse contraste é útil para identificar alternativas que usam o termo correto no exemplo errado.\n\nTROCANDO EM MIÚDOS:\nUma população começa com 100 indivíduos. No intervalo nascem 24, entram 6, morrem 15 e saem 5. Pense no que você consegue apontar com o dedo no desenho ou na tabela. O balanço é 24 mais 6 menos 15 menos 5, totalizando crescimento de 10 indivíduos. A população termina com 110 no recorte adotado. Identifique as entradas e saídas, confira o intervalo e interprete as condições de crescimento. Se alguém disser apenas que “algo mudou”, pergunte o que mudou, em comparação com quê e qual parte da observação permite dizer isso. Colocar essas três coisas em palavras costuma resolver boa parte do exercício.\n\nVeja outro exemplo: doze indivíduos nascem dentro da área observada durante uma estação. A ideia aqui é natalidade: entrada de novos indivíduos por nascimento. O total entra com sinal positivo no balanço da população. Para comparar taxas entre grupos diferentes, observe também o tamanho populacional. Faça uma pausa e tente explicar o exemplo com uma frase sua. Use a evidência descrita antes de procurar a palavra no quadro de conceitos.\n\nVeja outro exemplo: indivíduos de um grupo vizinho passam a ocupar a área incluída na amostra. A ideia aqui é imigração: entrada de indivíduos vindos de fora da área. O movimento só é classificado como entrada depois de estabelecer a fronteira espacial. Em outro recorte, o mesmo deslocamento pode ser interno. Faça uma pausa e tente explicar o exemplo com uma frase sua. Use a evidência descrita antes de procurar a palavra no quadro de conceitos.\n\nVeja outro exemplo: uma curva em J representa crescimento ideal sob recursos abundantes. A ideia aqui é crescimento exponencial: aumento em que o incremento esperado cresce com o tamanho sob taxa per capita constante. A taxa por indivíduo pode permanecer estável enquanto aumentam os indivíduos adicionados por intervalo. As premissas podem deixar de valer com o tempo. Faça uma pausa e tente explicar o exemplo com uma frase sua. Use a evidência descrita antes de procurar a palavra no quadro de conceitos.\n\nVeja outro exemplo: uma lagoa contém 60 indivíduos em 30 metros quadrados. A ideia aqui é densidade populacional: número de indivíduos por unidade de área ou volume. A densidade média é dois indivíduos por metro quadrado. A média não especifica se os indivíduos estão agrupados em determinadas regiões. Faça uma pausa e tente explicar o exemplo com uma frase sua. Use a evidência descrita antes de procurar a palavra no quadro de conceitos.\n\nNa prova, sublinhe o que a pergunta quer e circule os dados que têm relação com ela. Alguns detalhes ajudam a imaginar a cena e outros são necessários para justificar a resposta. Se você conseguir ligar o dado principal ao conceito com uma seta e uma frase curta, consegue também explicar por que uma opção parecida trata de outra situação. Volte ao primeiro caso e confira se sua conclusão ainda vale quando você lê os números ou os nomes na ordem correta.\n\nESQUEMA:\n• Natalidade → entrada de novos indivíduos por nascimento.\n• Mortalidade → saída da contagem populacional por morte.\n• Imigração → entrada de indivíduos vindos de fora da área.\n• Emigração → saída de indivíduos da área de estudo.\n• Crescimento exponencial → aumento em que o incremento esperado cresce com o tamanho sob taxa per capita constante.\n• Capacidade de suporte → tamanho aproximado que o ambiente sustenta sob condições dadas.\n• Densidade populacional → número de indivíduos por unidade de área ou volume.\n• Fator dependente da densidade → efeito que muda com a densidade de indivíduos.\n\nPEGADINHAS:\n• Associar natalidade a mortalidade sem conferir o que foi observado.\n• Associar imigração a emigração sem conferir o que foi observado.\n• Associar crescimento exponencial a capacidade de suporte sem conferir o que foi observado.\n• Associar densidade populacional a fator dependente da densidade sem conferir o que foi observado.\n\nNA PRÁTICA:\nUma população começa com 100 indivíduos. No intervalo nascem 24, entram 6, morrem 15 e saem 5. O balanço é 24 mais 6 menos 15 menos 5, totalizando crescimento de 10 indivíduos. A população termina com 110 no recorte adotado.",
+   "flashcards": [
+    {
+     "frente": "O que significa natalidade?",
+     "verso": "Entrada de novos indivíduos por nascimento.",
+     "dispositivo": "Ecologia e ciências ambientais — Dinâmica de populações"
+    },
+    {
+     "frente": "O que significa mortalidade?",
+     "verso": "Saída da contagem populacional por morte.",
+     "dispositivo": "Ecologia e ciências ambientais — Dinâmica de populações"
+    },
+    {
+     "frente": "O que significa imigração?",
+     "verso": "Entrada de indivíduos vindos de fora da área.",
+     "dispositivo": "Ecologia e ciências ambientais — Dinâmica de populações"
+    },
+    {
+     "frente": "O que significa emigração?",
+     "verso": "Saída de indivíduos da área de estudo.",
+     "dispositivo": "Ecologia e ciências ambientais — Dinâmica de populações"
+    },
+    {
+     "frente": "O que significa crescimento exponencial?",
+     "verso": "Aumento em que o incremento esperado cresce com o tamanho sob taxa per capita constante.",
+     "dispositivo": "Ecologia e ciências ambientais — Dinâmica de populações"
+    },
+    {
+     "frente": "O que significa capacidade de suporte?",
+     "verso": "Tamanho aproximado que o ambiente sustenta sob condições dadas.",
+     "dispositivo": "Ecologia e ciências ambientais — Dinâmica de populações"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "texto_base": "Doze indivíduos nascem dentro da área observada durante uma estação.",
+     "enunciado": "O conceito em destaque é natalidade.",
+     "gabarito": "C",
+     "comentario": "Certo. O total entra com sinal positivo no balanço da população. Para comparar taxas entre grupos diferentes, observe também o tamanho populacional.",
+     "id": "enem-dinamica-populacoes-c14-q01",
+     "habilidade": "H15",
+     "dificuldade": "facil",
+     "dispositivo": "Ecologia e ciências ambientais — Dinâmica de populações, H15"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Um grupo apresenta mais mortes durante o mesmo intervalo de observação.",
+     "enunciado": "O conceito em destaque é crescimento exponencial.",
+     "gabarito": "E",
+     "comentario": "Errado. Crescimento exponencial significa aumento em que o incremento esperado cresce com o tamanho sob taxa per capita constante. O caso destaca mortalidade. O efeito no total depende de todas as entradas e saídas. Mais mortes podem coexistir com crescimento quando as entradas continuam maiores.",
+     "id": "enem-dinamica-populacoes-c14-q02",
+     "habilidade": "H15",
+     "dificuldade": "facil",
+     "dispositivo": "Ecologia e ciências ambientais — Dinâmica de populações, H15"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma curva em J representa crescimento ideal sob recursos abundantes.",
+     "enunciado": "O conceito em destaque é crescimento exponencial.",
+     "gabarito": "C",
+     "comentario": "Certo. A taxa por indivíduo pode permanecer estável enquanto aumentam os indivíduos adicionados por intervalo. As premissas podem deixar de valer com o tempo.",
+     "id": "enem-dinamica-populacoes-c14-q03",
+     "habilidade": "H15",
+     "dificuldade": "media",
+     "dispositivo": "Ecologia e ciências ambientais — Dinâmica de populações, H15"
+    },
+    {
+     "tipo": "ce",
+     "texto_base": "Uma lagoa contém 60 indivíduos em 30 metros quadrados.",
+     "enunciado": "O conceito em destaque é mortalidade.",
+     "gabarito": "E",
+     "comentario": "Errado. Mortalidade significa saída da contagem populacional por morte. O caso destaca densidade populacional. A densidade média é dois indivíduos por metro quadrado. A média não especifica se os indivíduos estão agrupados em determinadas regiões.",
+     "id": "enem-dinamica-populacoes-c14-q04",
+     "habilidade": "H15",
+     "dificuldade": "media",
+     "dispositivo": "Ecologia e ciências ambientais — Dinâmica de populações, H15"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Indivíduos de um grupo vizinho passam a ocupar a área incluída na amostra.",
+     "enunciado": "Qual conceito corresponde mais diretamente à situação descrita?",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "Emigração",
+      "B": "Imigração",
+      "C": "Capacidade de suporte",
+      "D": "Densidade populacional",
+      "E": "Natalidade"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esse conceito descreve saída de indivíduos da área de estudo. Aqui, a pista corresponde a imigração.",
+      "B": "O movimento só é classificado como entrada depois de estabelecer a fronteira espacial. Em outro recorte, o mesmo deslocamento pode ser interno.",
+      "C": "Esse conceito descreve tamanho aproximado que o ambiente sustenta sob condições dadas. Aqui, a pista corresponde a imigração.",
+      "D": "Esse conceito descreve número de indivíduos por unidade de área ou volume. Aqui, a pista corresponde a imigração.",
+      "E": "Esse conceito descreve entrada de novos indivíduos por nascimento. Aqui, a pista corresponde a imigração."
+     },
+     "comentario": "A) Esse conceito descreve saída de indivíduos da área de estudo. Aqui, a pista corresponde a imigração.\nB) O movimento só é classificado como entrada depois de estabelecer a fronteira espacial. Em outro recorte, o mesmo deslocamento pode ser interno.\nC) Esse conceito descreve tamanho aproximado que o ambiente sustenta sob condições dadas. Aqui, a pista corresponde a imigração.\nD) Esse conceito descreve número de indivíduos por unidade de área ou volume. Aqui, a pista corresponde a imigração.\nE) Esse conceito descreve entrada de novos indivíduos por nascimento. Aqui, a pista corresponde a imigração.",
+     "id": "enem-dinamica-populacoes-c14-q05",
+     "habilidade": "H15",
+     "dificuldade": "media",
+     "dispositivo": "Ecologia e ciências ambientais — Dinâmica de populações, H15"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "Parte de uma população muda para um fragmento situado fora do levantamento.",
+     "enunciado": "Qual conceito corresponde mais diretamente à situação descrita?",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "Crescimento exponencial",
+      "B": "Densidade populacional",
+      "C": "Fator dependente da densidade",
+      "D": "Emigração",
+      "E": "Mortalidade"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esse conceito descreve aumento em que o incremento esperado cresce com o tamanho sob taxa per capita constante. Aqui, a pista corresponde a emigração.",
+      "B": "Esse conceito descreve número de indivíduos por unidade de área ou volume. Aqui, a pista corresponde a emigração.",
+      "C": "Esse conceito descreve efeito que muda com a densidade de indivíduos. Aqui, a pista corresponde a emigração.",
+      "D": "A saída reduz a contagem local sem implicar morte. Para avaliar o grupo regional, pode ser necessário incluir o fragmento de destino.",
+      "E": "Esse conceito descreve saída da contagem populacional por morte. Aqui, a pista corresponde a emigração."
+     },
+     "comentario": "A) Esse conceito descreve aumento em que o incremento esperado cresce com o tamanho sob taxa per capita constante. Aqui, a pista corresponde a emigração.\nB) Esse conceito descreve número de indivíduos por unidade de área ou volume. Aqui, a pista corresponde a emigração.\nC) Esse conceito descreve efeito que muda com a densidade de indivíduos. Aqui, a pista corresponde a emigração.\nD) A saída reduz a contagem local sem implicar morte. Para avaliar o grupo regional, pode ser necessário incluir o fragmento de destino.\nE) Esse conceito descreve saída da contagem populacional por morte. Aqui, a pista corresponde a emigração.",
+     "id": "enem-dinamica-populacoes-c14-q06",
+     "habilidade": "H15",
+     "dificuldade": "media",
+     "dispositivo": "Ecologia e ciências ambientais — Dinâmica de populações, H15"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "O crescimento diminui quando a população se aproxima de um patamar no modelo logístico.",
+     "enunciado": "Qual conceito corresponde mais diretamente à situação descrita?",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "Capacidade de suporte",
+      "B": "Densidade populacional",
+      "C": "Natalidade",
+      "D": "Mortalidade",
+      "E": "Emigração"
+     },
+     "comentarios_por_alternativa": {
+      "A": "O patamar depende de recursos e condições ambientais. Uma estação de seca pode alterar a quantidade que o ambiente sustenta.",
+      "B": "Esse conceito descreve número de indivíduos por unidade de área ou volume. Aqui, a pista corresponde a capacidade de suporte.",
+      "C": "Esse conceito descreve entrada de novos indivíduos por nascimento. Aqui, a pista corresponde a capacidade de suporte.",
+      "D": "Esse conceito descreve saída da contagem populacional por morte. Aqui, a pista corresponde a capacidade de suporte.",
+      "E": "Esse conceito descreve saída de indivíduos da área de estudo. Aqui, a pista corresponde a capacidade de suporte."
+     },
+     "comentario": "A) O patamar depende de recursos e condições ambientais. Uma estação de seca pode alterar a quantidade que o ambiente sustenta.\nB) Esse conceito descreve número de indivíduos por unidade de área ou volume. Aqui, a pista corresponde a capacidade de suporte.\nC) Esse conceito descreve entrada de novos indivíduos por nascimento. Aqui, a pista corresponde a capacidade de suporte.\nD) Esse conceito descreve saída da contagem populacional por morte. Aqui, a pista corresponde a capacidade de suporte.\nE) Esse conceito descreve saída de indivíduos da área de estudo. Aqui, a pista corresponde a capacidade de suporte.",
+     "id": "enem-dinamica-populacoes-c14-q07",
+     "habilidade": "H15",
+     "dificuldade": "media",
+     "dispositivo": "Ecologia e ciências ambientais — Dinâmica de populações, H15"
+    },
+    {
+     "tipo": "me",
+     "texto_base": "A competição por alimento aumenta à medida que mais indivíduos usam a mesma área.",
+     "enunciado": "Qual conceito corresponde mais diretamente à situação descrita?",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Natalidade",
+      "B": "Imigração",
+      "C": "Emigração",
+      "D": "Capacidade de suporte",
+      "E": "Fator dependente da densidade"
+     },
+     "comentarios_por_alternativa": {
+      "A": "Esse conceito descreve entrada de novos indivíduos por nascimento. Aqui, a pista corresponde a fator dependente da densidade.",
+      "B": "Esse conceito descreve entrada de indivíduos vindos de fora da área. Aqui, a pista corresponde a fator dependente da densidade.",
+      "C": "Esse conceito descreve saída de indivíduos da área de estudo. Aqui, a pista corresponde a fator dependente da densidade.",
+      "D": "Esse conceito descreve tamanho aproximado que o ambiente sustenta sob condições dadas. Aqui, a pista corresponde a fator dependente da densidade.",
+      "E": "O mecanismo depende da demanda sobre o recurso. Se a quantidade de alimento também mudar, avalie o efeito das duas variáveis."
+     },
+     "comentario": "A) Esse conceito descreve entrada de novos indivíduos por nascimento. Aqui, a pista corresponde a fator dependente da densidade.\nB) Esse conceito descreve entrada de indivíduos vindos de fora da área. Aqui, a pista corresponde a fator dependente da densidade.\nC) Esse conceito descreve saída de indivíduos da área de estudo. Aqui, a pista corresponde a fator dependente da densidade.\nD) Esse conceito descreve tamanho aproximado que o ambiente sustenta sob condições dadas. Aqui, a pista corresponde a fator dependente da densidade.\nE) O mecanismo depende da demanda sobre o recurso. Se a quantidade de alimento também mudar, avalie o efeito das duas variáveis.",
+     "id": "enem-dinamica-populacoes-c14-q08",
+     "habilidade": "H15",
+     "dificuldade": "media",
+     "dispositivo": "Ecologia e ciências ambientais — Dinâmica de populações, H15"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "No exemplo a seguir, o conceito em destaque é ___. Uma lagoa contém 60 indivíduos em 30 metros quadrados.",
+     "opcoes": [
+      "Densidade populacional",
+      "Capacidade de suporte",
+      "Crescimento exponencial"
+     ],
+     "respostas": [
+      "Densidade populacional"
+     ],
+     "explicacao": "A densidade média é dois indivíduos por metro quadrado. A média não especifica se os indivíduos estão agrupados em determinadas regiões."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "No exemplo a seguir, o conceito em destaque é ___. A competição por alimento aumenta à medida que mais indivíduos usam a mesma área.",
+     "opcoes": [
+      "Fator dependente da densidade",
+      "Densidade populacional",
+      "Capacidade de suporte"
+     ],
+     "respostas": [
+      "Fator dependente da densidade"
+     ],
+     "explicacao": "O mecanismo depende da demanda sobre o recurso. Se a quantidade de alimento também mudar, avalie o efeito das duas variáveis."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a análise de uma situação sobre dinâmica de populações.",
+     "itens": [
+      "Ler a pergunta e localizar a unidade observada.",
+      "Identificar a mudança ou relação descrita.",
+      "Selecionar o conceito que corresponde às evidências.",
+      "Justificar a conclusão com a informação do caso."
+     ],
+     "explicacao": "A conclusão deve decorrer das evidências e da definição usada."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Crescimento exponencial",
+       "Aumento em que o incremento esperado cresce com o tamanho sob taxa per capita constante"
+      ],
+      [
+       "Capacidade de suporte",
+       "Tamanho aproximado que o ambiente sustenta sob condições dadas"
+      ],
+      [
+       "Densidade populacional",
+       "Número de indivíduos por unidade de área ou volume"
+      ],
+      [
+       "Fator dependente da densidade",
+       "Efeito que muda com a densidade de indivíduos"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
