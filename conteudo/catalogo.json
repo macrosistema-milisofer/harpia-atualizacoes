@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-23",
+ "atualizado_em": "2026-11-26",
  "itens": [
   {
    "id": "rpps-dirig-1",
@@ -368,12 +368,22 @@
    "obs": "facultativo; em verticalização"
   },
   {
+   "id": "tce-ac-conselheiro-2026",
+   "nome": "TCE/AC 2026 — Auditor (Conselheiro Substituto)",
+   "categoria": "Controle externo — Tribunais de Contas",
+   "tipo": "concurso",
+   "edital": "tce-ac-conselheiro-2026",
+   "orgao": "Tribunal de Contas do Estado do Acre (TCE-AC) — Cebraspe",
+   "obs": "provas previstas para 17/01/2027"
+  },
+  {
    "id": "tc-conselheiro-substituto",
    "nome": "Tribunal de Contas — Conselheiro Substituto (Auditor)",
    "categoria": "Controle externo — Tribunais de Contas",
    "tipo": "concurso",
    "orgao": "TCU, TCEs e TCMs",
-   "obs": "edital mais recente em verticalização (M-08)"
+   "obs": "o mais recente com conteúdo no app: TCE/AC 2026",
+   "edital": "tce-ac-conselheiro-2026"
   },
   {
    "id": "tc-auditor-controle-externo",
