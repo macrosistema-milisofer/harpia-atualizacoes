@@ -1,0 +1,217 @@
+{
+ "assunto": "Contabilidade Pública – NBC TSP 23: políticas contábeis, estimativas e erros",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-27",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-nuvem-nbc-tsp-23",
+   "titulo": "Política, estimativa ou erro? A NBC TSP 23 sem tropeços",
+   "microconteudo": "RAIO-X DA PROVA: O Cebraspe costuma cobrar as definições do item 7, a hierarquia de fontes na ausência de norma e o tratamento de cada caso: retrospectivo para política e erro, prospectivo para estimativa. A pegadinha típica é trocar esses tratamentos, dizer que na dúvida se aplica a regra da política ou lançar a correção de erro antigo no resultado do exercício corrente.\n\nPOR QUE IMPORTA:\nAs demonstrações contábeis de um ente público só servem para julgar contas se forem comparáveis de um ano para o outro. A NBC TSP 23 (R1) é a norma que protege essa comparabilidade: diz como escolher a política contábil, quando ela pode mudar, como tratar a revisão de uma estimativa e o que fazer quando se descobre um erro de exercício anterior. Para quem vai relatar contas de governo e de gestão no Tribunal, saber se um ajuste no patrimônio líquido é correção legítima de erro ou maquiagem do resultado é questão de mérito, não de detalhe.\n\nO QUE A BANCA COBRA:\n• Definições do item 7: política contábil, mudança de estimativa, erro de período anterior, aplicação retrospectiva, reapresentação retrospectiva e impraticabilidade.\n• Hierarquia na ausência de NBC TSP específica (itens 12, 14 e 15) e o que a administração \"deve\" e o que ela \"pode\" considerar.\n• Quando a política pode mudar (item 17): exigência de NBC TSP ou informação confiável e mais relevante; e o que não é mudança (itens 21 e 22).\n• Mudança de política: aplicação retrospectiva (itens 24 e 27) e seus limites por impraticabilidade (itens 28 a 32).\n• Mudança de estimativa: tratamento prospectivo (itens 41 a 43) e a regra de desempate do item 40.\n• Erro material de período anterior: reapresentação retrospectiva, fora do resultado do período da descoberta (itens 47 a 51).\n• Divulgações exigidas em cada caso (itens 33 a 36, 44, 45 e 54).\n\nENTENDA:\n1) Políticas contábeis e sua seleção. Políticas contábeis são os princípios, bases, convenções, regras e práticas específicas aplicadas pela entidade na elaboração e na apresentação das demonstrações contábeis (item 7). Se existe NBC TSP que se aplica especificamente à transação, a política é a dessa norma (item 9). As políticas das NBCs TSP podem deixar de ser aplicadas quando o efeito for irrelevante, mas é inadequado invocar a imaterialidade para obter apresentação enviesada (item 10). A materialidade se mede pelo usuário que tem conhecimento razoável do setor público e analisa a informação com diligência razoável (item 8).\n\n2) Hierarquia na ausência de norma. Sem NBC TSP específica, a administração exerce julgamento para desenvolver política que gere informação relevante e confiável: representação fidedigna, essência sobre a forma, neutralidade, prudência e completude (item 12). Nesse julgamento ela DEVE consultar, em ordem decrescente: (a) as exigências de NBCs TSP que tratem de assuntos semelhantes e relacionados; (b) as definições e os critérios de reconhecimento e mensuração de ativos, passivos, receitas e despesas de outras NBCs TSP (item 14). Ela também PODE considerar os pronunciamentos mais recentes de órgãos normatizadores e as definições e critérios da Estrutura Conceitual do setor público (item 15, na redação da R1). Exemplo: um município recebe, por doação, um tipo de bem sem norma específica; antes de buscar solução em outro normatizador, deve olhar as NBCs TSP sobre itens parecidos.\n\n3) Consistência e quando mudar. Transações semelhantes recebem a mesma política, salvo quando uma NBC TSP permitir classes distintas, caso em que cada classe é tratada de forma consistente (item 16). A política só muda se a mudança (a) for exigida por NBC TSP ou (b) resultar em informação confiável e mais relevante (item 17). Não basta conveniência do gestor. Mudar o regime contábil é mudança de política (item 19), assim como mudar o tratamento, o reconhecimento ou a mensuração de uma transação dentro de um regime (item 20). Não são mudanças de política: adotar política para transações diferentes em essência das anteriores, ou para transações novas ou antes imateriais (item 21). A aplicação inicial de reavaliação de ativos segue a NBC TSP 08 (intangível) ou a NBC TSP 37 (imobilizado), e não a NBC TSP 23 (itens 22 e 23).\n\n4) Como aplicar a mudança de política. Na adoção inicial de NBC TSP, seguem-se as disposições transitórias da própria norma; se não houver, ou se a mudança for voluntária, aplica-se retrospectivamente (item 24). Adoção antecipada de norma não é mudança voluntária (item 25). Aplicar retrospectivamente é agir como se a nova política sempre tivesse existido: ajusta-se o saldo de abertura de cada componente afetado do patrimônio líquido do período anterior mais antigo apresentado e os demais comparativos (item 27), em regra em superávits ou déficits acumulados (item 31).\n\n5) Limites por impraticabilidade. Impraticável é o que não se consegue fazer depois de todos os esforços razoáveis: efeitos não determináveis, necessidade de presumir a intenção da administração à época ou de estimativas significativas sem informação objetiva daquele tempo (item 7). Se não der para medir o efeito de um período específico, aplica-se a política aos saldos de abertura do período mais antigo praticável, que pode ser o corrente (item 29). Se não der para medir o efeito cumulativo, aplica-se prospectivamente desde a data mais antiga possível (itens 30 e 32). É vedado usar a visão de hoje para reconstruir o passado (item 58).\n\n6) Mudança de estimativa: sempre prospectiva. Muitos valores são estimados: perdas com tributos não recebidos, obsolescência de estoques, vida útil de bens, obrigações de garantias (item 37). Estimar bem não reduz a confiabilidade (item 38), e revisar a estimativa por nova informação ou maior experiência não é erro nem se relaciona a períodos anteriores (item 39). O efeito vai para o resultado do período da mudança e, se for o caso, dos futuros (item 41), ajustando-se o ativo, o passivo ou o patrimônio líquido correspondente (item 42). Exemplo: ambulância de R$ 300.000, vida útil de 10 anos, depreciação linear de R$ 30.000 por ano. Ao fim do 4º ano, valor contábil de R$ 180.000; a frota revê a vida útil remanescente para 3 anos. Daí em diante, a depreciação passa a R$ 60.000 por ano, sem mexer nos anos já encerrados. Cuidado: mudar a base de mensuração é política, não estimativa; havendo dúvida entre as duas, trata-se como estimativa (item 40).\n\n7) Erro de período anterior: reapresentação retrospectiva. Erro é omissão ou incorreção causada pela falta de uso ou uso incorreto de informação confiável que estava disponível e poderia ter sido obtida à época, incluindo incorreções matemáticas, aplicação errada de política, descuidos, interpretações incorretas e fraudes (item 7). Erros do próprio período são corrigidos antes da publicação; os materiais descobertos depois são corrigidos no primeiro conjunto de demonstrações autorizado após a descoberta, reapresentando os comparativos do período em que ocorreram ou, se anteriores ao período mais antigo apresentado, os saldos de abertura de ativos, passivos e patrimônio líquido desse período (itens 46 e 47). A correção fica fora do superávit ou déficit do período da descoberta (item 51). Exemplo: em 2026, o estado descobre que deixou de registrar R$ 200.000 de depreciação em 2025; nas demonstrações de 2026, reapresenta o comparativo de 2025, sem lançar a despesa no resultado de 2026. Os mesmos limites de impraticabilidade valem para erros (itens 48 a 50). Atenção: o ganho ou a perda no desfecho de contingência que não podia ser estimada com precisão não é erro (item 53).\n\n8) Divulgações. Na adoção inicial de NBC TSP: título da norma, natureza da mudança, disposições transitórias e valores ajustados (item 33). Na mudança voluntária: natureza, razões pelas quais a nova política é confiável e mais relevante e valores ajustados (item 34). Norma emitida e ainda não vigente: o fato e o impacto esperado (itens 35 e 36). Estimativa: natureza e montante do efeito, ou o fato de ser impraticável estimar o efeito futuro (itens 44 e 45). Erro: natureza, montantes corrigidos por período e no início do período mais antigo apresentado (item 54). Períodos seguintes não precisam repetir essas divulgações. A R1, aprovada em 13/11/2025, aplica-se aos exercícios iniciados a partir de 1º/1/2027.",
+   "flashcards": [
+    {
+     "frente": "Quando a entidade pode mudar uma política contábil?",
+     "verso": "Só se (a) a mudança for exigida por NBC TSP ou (b) resultar em informação confiável e mais relevante.",
+     "dispositivo": "NBC TSP 23 (R1), item 17"
+    },
+    {
+     "frente": "Ausência de NBC TSP específica: o que a administração DEVE consultar, em ordem?",
+     "verso": "1º exigências de NBCs TSP sobre assuntos semelhantes e relacionados; 2º definições e critérios de reconhecimento e mensuração de outras NBCs TSP.",
+     "dispositivo": "NBC TSP 23 (R1), item 14"
+    },
+    {
+     "frente": "Mudança de estimativa contábil: como se reconhece?",
+     "verso": "Prospectivamente, no resultado do período da mudança e, se for o caso, dos períodos futuros.",
+     "dispositivo": "NBC TSP 23 (R1), item 41"
+    },
+    {
+     "frente": "Dúvida entre mudança de política e de estimativa",
+     "verso": "Trata-se como mudança de estimativa. Mudar a base de mensuração, porém, é mudança de política.",
+     "dispositivo": "NBC TSP 23 (R1), item 40"
+    },
+    {
+     "frente": "Erro material de período anterior: onde se corrige?",
+     "verso": "Por reapresentação retrospectiva no primeiro conjunto de demonstrações autorizado após a descoberta, fora do superávit ou déficit do período corrente.",
+     "dispositivo": "NBC TSP 23 (R1), itens 47 e 51"
+    },
+    {
+     "frente": "Aplicação retrospectiva x reapresentação retrospectiva",
+     "verso": "Aplicação: nova política como se sempre tivesse sido aplicada. Reapresentação: corrige valores como se o erro nunca tivesse ocorrido.",
+     "dispositivo": "NBC TSP 23 (R1), item 7"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "tceac-nuvem-nbc-tsp-23-q01",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Segundo a NBC TSP 23 (R1), na ausência de norma que se aplique especificamente a uma transação, a administração, ao exercer seu julgamento, deve consultar, em ordem decrescente, primeiro as exigências das NBCs TSP que tratem de assuntos semelhantes e relacionados e, depois, as definições e os critérios de reconhecimento e mensuração de ativos, passivos, receitas e despesas contidos em outras NBCs TSP.",
+     "gabarito": "C",
+     "comentario": "Certo. É a ordem obrigatória do item 14. Os pronunciamentos recentes de outros normatizadores e a Estrutura Conceitual aparecem no item 15 como fontes que a administração PODE considerar, e não no rol do que DEVE consultar.",
+     "dispositivo": "NBC TSP 23 (R1), itens 12, 14 e 15"
+    },
+    {
+     "id": "tceac-nuvem-nbc-tsp-23-q02",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "A entidade do setor público pode alterar voluntariamente sua política contábil sempre que a administração julgar conveniente, bastando divulgar a natureza da alteração em notas explicativas.",
+     "gabarito": "E",
+     "comentario": "Errado. A mudança só é admitida se for exigida por NBC TSP ou se resultar em informação confiável e mais relevante sobre a situação patrimonial, o desempenho e os fluxos de caixa (item 17). Na mudança voluntária, além da natureza, devem ser divulgadas as razões pelas quais a nova política é mais relevante e os valores ajustados (item 34).",
+     "dispositivo": "NBC TSP 23 (R1), itens 17 e 34"
+    },
+    {
+     "id": "tceac-nuvem-nbc-tsp-23-q03",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "Uma secretaria de saúde depreciava suas ambulâncias pelo método linear em 10 anos. Com base em relatórios de manutenção do exercício, concluiu que os veículos terão vida útil remanescente menor que a prevista.",
+     "enunciado": "Nessa situação, a revisão da vida útil é mudança de estimativa contábil, e seu efeito deve ser reconhecido na despesa de depreciação do período corrente e dos períodos futuros, sem reapresentação das demonstrações de exercícios anteriores.",
+     "gabarito": "C",
+     "comentario": "Certo. A revisão decorre de nova informação e maior experiência, logo é estimativa (itens 7 e 39). O reconhecimento é prospectivo, afetando o período da mudança e os futuros (item 41); o item 43 traz justamente o exemplo da vida útil de ativo depreciável.",
+     "dispositivo": "NBC TSP 23 (R1), itens 39, 41 e 43"
+    },
+    {
+     "id": "tceac-nuvem-nbc-tsp-23-q04",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Quando for difícil distinguir se determinada alteração constitui mudança de política contábil ou mudança de estimativa contábil, a NBC TSP 23 (R1) determina que ela seja tratada como mudança de política, com aplicação retrospectiva.",
+     "gabarito": "E",
+     "comentario": "Errado. Na dúvida, a alteração deve ser tratada como mudança de ESTIMATIVA, portanto prospectivamente (item 40). O mesmo item lembra que a mudança na base de mensuração é mudança de política.",
+     "dispositivo": "NBC TSP 23 (R1), item 40"
+    },
+    {
+     "id": "tceac-nuvem-nbc-tsp-23-q05",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "A correção de erro material de período anterior, descoberto no exercício corrente, deve ser reconhecida no superávit ou no déficit do exercício em que o erro foi descoberto, para que o resultado reflita todos os fatos conhecidos pela administração.",
+     "gabarito": "E",
+     "comentario": "Errado. A correção de erro de período anterior deve ser EXCLUÍDA do superávit ou do déficit do período da descoberta (item 51). Corrige-se por reapresentação retrospectiva: comparativos do período em que o erro ocorreu ou saldos de abertura do período anterior mais antigo apresentado (item 47).",
+     "dispositivo": "NBC TSP 23 (R1), itens 47 e 51"
+    },
+    {
+     "id": "tceac-nuvem-nbc-tsp-23-q06",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "A perda reconhecida no desfecho de uma ação judicial cujo valor, anteriormente, não podia ser estimado com precisão não constitui retificação de erro.",
+     "gabarito": "C",
+     "comentario": "Certo. O item 53 distingue correção de erro e mudança de estimativa e usa exatamente o exemplo do ganho ou da perda no desfecho de contingência que antes não podia ser estimada com precisão.",
+     "dispositivo": "NBC TSP 23 (R1), item 53"
+    },
+    {
+     "id": "tceac-nuvem-nbc-tsp-23-q07",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "texto_base": "Em 2026, um município elabora suas demonstrações contábeis apresentando o exercício de 2026 e, como comparativo, o de 2025. Durante o fechamento, a contabilidade descobre um erro material: em 2023, um imóvel recebido em doação deixou de ser registrado no ativo, embora a documentação estivesse disponível à época. É praticável determinar o efeito do erro.",
+     "enunciado": "De acordo com a NBC TSP 23 (R1), o município deve:",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "reconhecer o valor do imóvel como receita do exercício de 2026, período em que o erro foi descoberto.",
+      "B": "registrar o imóvel apenas a partir de 2026, de forma prospectiva, porque o erro ocorreu antes do período comparativo.",
+      "C": "republicar as demonstrações de 2023, sem qualquer ajuste nas demonstrações de 2026.",
+      "D": "reapresentar os saldos de abertura de ativos, passivos e patrimônio líquido de 2025, período anterior mais antigo apresentado.",
+      "E": "tratar o fato como mudança de estimativa contábil e divulgar apenas sua natureza em notas explicativas."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Errada: a correção de erro de período anterior fica fora do superávit ou déficit do período da descoberta (item 51).",
+      "B": "Errada: a correção prospectiva só cabe quando for impraticável determinar o efeito cumulativo (item 50); o caso diz que é praticável.",
+      "C": "Errada: a correção é feita no primeiro conjunto de demonstrações autorizado após a descoberta, ou seja, nas de 2026 (item 47).",
+      "D": "Correta: se o erro ocorreu antes do período anterior mais antigo apresentado, reapresentam-se os saldos de abertura desse período (item 47, b).",
+      "E": "Errada: houve falta de uso de informação confiável disponível à época, o que configura erro (item 7), e não revisão de estimativa."
+     },
+     "comentario": "A) Errada: a correção de erro de período anterior fica fora do superávit ou déficit do período da descoberta (item 51).\nB) Errada: a correção prospectiva só cabe quando for impraticável determinar o efeito cumulativo (item 50); o caso diz que é praticável.\nC) Errada: a correção é feita no primeiro conjunto de demonstrações autorizado após a descoberta, ou seja, nas de 2026 (item 47).\nD) Correta: se o erro ocorreu antes do período anterior mais antigo apresentado, reapresentam-se os saldos de abertura desse período (item 47, b).\nE) Errada: houve falta de uso de informação confiável disponível à época, o que configura erro (item 7), e não revisão de estimativa.",
+     "dispositivo": "NBC TSP 23 (R1), itens 7, 47, 50 e 51"
+    },
+    {
+     "id": "tceac-nuvem-nbc-tsp-23-q08",
+     "tipo": "me",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Segundo a NBC TSP 23 (R1), constitui mudança de política contábil:",
+     "gabarito": "C",
+     "alternativas": {
+      "A": "a revisão do percentual estimado de perdas com créditos tributários inscritos em dívida ativa.",
+      "B": "a redução da vida útil estimada de equipamentos de informática em razão de nova informação técnica.",
+      "C": "a alteração da base de mensuração aplicada a determinada classe de itens.",
+      "D": "a adoção de política para um tipo de transação que a entidade não realizava anteriormente.",
+      "E": "o reconhecimento de ganho no desfecho de contingência que antes não podia ser estimada com precisão."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Errada: inadimplência de tributos não recebidos é exemplo de estimativa (item 37, b).",
+      "B": "Errada: revisão de vida útil é mudança de estimativa, reconhecida prospectivamente (item 43).",
+      "C": "Correta: a mudança na base de mensuração é mudança na política contábil, e não na estimativa (item 40).",
+      "D": "Errada: o item 21, b, diz que isso não constitui mudança de política.",
+      "E": "Errada: não é erro nem mudança de política; o item 53 o trata como estimativa que se resolveu."
+     },
+     "comentario": "A) Errada: inadimplência de tributos não recebidos é exemplo de estimativa (item 37, b).\nB) Errada: revisão de vida útil é mudança de estimativa, reconhecida prospectivamente (item 43).\nC) Correta: a mudança na base de mensuração é mudança na política contábil, e não na estimativa (item 40).\nD) Errada: o item 21, b, diz que isso não constitui mudança de política.\nE) Errada: não é erro nem mudança de política; o item 53 o trata como estimativa que se resolveu.",
+     "dispositivo": "NBC TSP 23 (R1), itens 21, 37, 40, 43 e 53"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O efeito de mudança na estimativa contábil deve ser reconhecido ___, no resultado do período da mudança e, se for o caso, dos períodos futuros.",
+     "opcoes": [
+      "prospectivamente",
+      "retrospectivamente",
+      "no patrimônio líquido de abertura",
+      "em notas explicativas apenas"
+     ],
+     "respostas": [
+      "prospectivamente"
+     ],
+     "explicacao": "NBC TSP 23 (R1), itens 41 e 43."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "A mudança na base de mensuração é mudança de ___, e não de estimativa contábil.",
+     "opcoes": [
+      "política contábil",
+      "estimativa contábil",
+      "erro de período anterior",
+      "regime orçamentário"
+     ],
+     "respostas": [
+      "política contábil"
+     ],
+     "explicacao": "NBC TSP 23 (R1), item 40."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o caminho para definir a política contábil de uma transação, do primeiro ao último passo.",
+     "itens": [
+      "Verificar se há NBC TSP que se aplique especificamente à transação",
+      "Na falta dela, consultar as exigências de NBCs TSP que tratem de assuntos semelhantes e relacionados",
+      "Em seguida, consultar as definições e os critérios de reconhecimento e mensuração de outras NBCs TSP",
+      "Também é possível considerar pronunciamentos recentes de órgãos normatizadores e a Estrutura Conceitual"
+     ],
+     "explicacao": "NBC TSP 23 (R1), itens 9, 12, 14 e 15."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Revisão da vida útil de veículo",
+       "Mudança de estimativa, efeito prospectivo"
+      ],
+      [
+       "Mudança voluntária de política",
+       "Aplicação retrospectiva"
+      ],
+      [
+       "Omissão de registro de bem em exercício anterior",
+       "Reapresentação retrospectiva"
+      ],
+      [
+       "Aplicação inicial de reavaliação de imobilizado",
+       "Tratada como reavaliação pela NBC TSP 37"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

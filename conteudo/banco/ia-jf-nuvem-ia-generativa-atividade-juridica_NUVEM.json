@@ -1,0 +1,218 @@
+{
+ "assunto": "Direito Digital – IA generativa na atividade jurídica",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-27",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "jf-nuvem-ia-generativa-atividade-juridica",
+   "titulo": "IA generativa no gabinete: apoio, nunca decisão",
+   "microconteudo": "RAIO-X DA PROVA: A banca cobra as regras da Resolução CNJ nº 615/2025 sobre uso auxiliar da IA generativa, vedação de dados sigilosos em ferramentas externas e classificação de risco, ligadas ao dever de fundamentação e à LGPD. A pegadinha típica é afirmar que a capacitação ou o baixo risco autorizam decisão autônoma por IA, ou que a menção ao uso da IA na sentença é obrigatória.\n\nPOR QUE IMPORTA:\nFerramentas de inteligência artificial generativa já redigem minutas, resumem autos e sugerem pesquisas em gabinetes, escritórios e procuradorias. Para o futuro juiz federal, a questão não é se a ferramenta será usada, mas em que condições: quem responde pelo texto, que dados podem ser inseridos no prompt, como evitar o precedente inventado e por que a decisão continua sendo, por inteiro, um ato humano fundamentado. A Resolução CNJ nº 615/2025 é a resposta normativa do Judiciário a essas perguntas e tende a aparecer em provas de formação humanística e de Direito Digital.\n\nO QUE A BANCA COBRA:\n• A Resolução CNJ nº 615, de 11/03/2025, revogou a Resolução CNJ nº 332/2020 e disciplina desenvolvimento, uso e governança de IA no Judiciário.\n• Uso de IA generativa por magistrados e servidores: caráter auxiliar e complementar, vedado como instrumento autônomo de decisão (art. 19, § 3º, II).\n• Vedação de ferramentas privadas ou externas para dados sigilosos ou em segredo de justiça, salvo anonimização na origem, e para finalidades de alto risco ou risco excessivo.\n• Categorias de risco: risco excessivo (soluções vedadas, art. 10), alto risco e baixo risco (art. 11 e Anexo).\n• Supervisão humana e autoridade final do usuário interno (arts. 32 e 34).\n• Alucinações, vieses e opacidade como riscos que exigem verificação humana; dever de fundamentação (CF, art. 93, IX; CPC, art. 11).\n• LGPD: princípios, base legal para dados em processo judicial e segurança da informação.\n\nENTENDA:\n1) O que é IA generativa e onde ela entra no trabalho jurídico\nA Resolução CNJ nº 615/2025 define IA generativa como o sistema de IA especificamente destinado a gerar ou modificar significativamente conteúdo, como texto, imagem, áudio, vídeo ou código (art. 4º, IX). Na prática jurídica, ela aparece em três frentes: geração de textos (minutas de despacho, ofícios, relatórios de sentença), revisão de textos (correção, padronização, síntese de peças) e pesquisa jurídica (localizar normas, teses e precedentes). Os modelos de linguagem de larga escala (LLMs) produzem a sequência de palavras mais provável, e não a resposta comprovadamente verdadeira. Daí decorre quase tudo o que a norma exige.\n\n2) A Resolução 615/2025 e a 332/2020\nA Resolução CNJ nº 332/2020 foi o primeiro marco do CNJ sobre ética, transparência e governança de IA no Judiciário. A Resolução nº 615, de 11 de março de 2025, revogou-a expressamente (art. 46) e entrou em vigor 120 dias após a publicação (art. 47), dando aos projetos já existentes prazo de adequação (art. 45). A nova norma trata expressamente de IA generativa, algo que a anterior não detalhava. Entre seus princípios estão a não discriminação abusiva ou ilícita, a transparência, a segurança jurídica e da informação e a supervisão humana efetiva, periódica e adequada no ciclo de vida da IA (art. 3º).\n\n3) Classificação de risco e governança\nA norma adota abordagem baseada em risco. São vedadas, por risco excessivo, soluções que não permitam a revisão humana dos resultados ou gerem dependência absoluta do usuário, que avaliem traços de personalidade para prever crimes ou reincidência, que ranqueiem pessoas por comportamento ou situação social e que reconheçam emoções por biometria (art. 10). As demais são classificadas em alto ou baixo risco segundo o Anexo (art. 11). Exemplos de baixo risco: tarefas de apoio, sumarização sob supervisão, produção de textos de apoio à confecção de atos judiciais sob controle do magistrado, transcrição com revisão humana e anonimização. Exemplos de alto risco: valoração de provas, tipificação de fatos e formulação de juízos conclusivos sobre aplicação de normas ou precedentes. Soluções de alto risco exigem avaliação de impacto algorítmico (art. 14), auditoria e monitoramento contínuos. O Comitê Nacional de Inteligência Artificial do Judiciário atualiza as categorias e pode reclassificar soluções; a plataforma Sinapses registra os modelos. Eventos adversos devem ser comunicados em até 72 horas (art. 42).\nExemplo: um tribunal que use IA apenas para resumir petições está, em regra, no baixo risco; se o sistema passar a sugerir qual prova deve prevalecer, entra no alto risco.\n\n4) Geração e revisão de textos pelo magistrado\nO art. 19 autoriza magistrados e servidores a usar LLMs e IA generativa como apoio à gestão ou à decisão, preferencialmente por acesso habilitado e monitorado pelo tribunal. Na falta de solução corporativa, admite-se contratação privada, com condições: capacitação prévia sobre limites e riscos; uso auxiliar e complementar, vedada a utilização como instrumento autônomo de tomada de decisões judiciais, com responsabilidade integral do magistrado; vedação de uso, pelo fornecedor, dos dados inseridos (inclusive para treinamento); vedação de inserir dados sigilosos ou em segredo de justiça em ferramenta privada ou externa, salvo anonimização na origem; e proibição de usar essas ferramentas para finalidades de alto risco ou risco excessivo (art. 19, § 3º). A menção ao uso de IA na decisão fica a critério do magistrado, mas o registro automático no sistema é obrigatório (art. 19, § 6º).\nExemplo: pedir à ferramenta que reorganize o relatório de uma sentença é admissível; pedir que ela diga se o autor tem razão e copiar a conclusão viola a norma.\n\n5) Alucinações, vieses, opacidade e uso indevido de dados\nAlucinação é a resposta plausível e falsa: artigo de lei inexistente, ementa inventada, número de recurso trocado. Viés é a reprodução de padrões discriminatórios presentes nos dados de treinamento. Opacidade é a dificuldade de explicar por que o modelo chegou ao resultado. Por isso a norma exige mitigação de vieses, documentação, explicabilidade quando tecnicamente possível e contestabilidade. Uso indevido de dados ocorre quando informações das partes alimentam ferramentas sem base legal, sem segurança ou com reaproveitamento pelo fornecedor.\nExemplo: um advogado cita três acórdãos sugeridos pelo chatbot; um deles não existe. A responsabilidade é do subscritor, não da ferramenta.\n\n6) Dever de verificação e supervisão humana\nO sistema de IA não pode, em nenhum momento, restringir ou substituir a autoridade final dos usuários internos (art. 32, parágrafo único), e os sistemas devem exigir supervisão humana e permitir modificação pelo magistrado (art. 34). Verificar significa conferir cada norma e precedente na fonte oficial, checar fatos contra os autos e reler o raciocínio. A decisão continua sujeita ao dever de fundamentação: todas as decisões do Judiciário devem ser fundamentadas, sob pena de nulidade (CF, art. 93, IX; CPC, art. 11). Texto gerado sem conferência pode produzir fundamentação genérica ou baseada em fonte inexistente.\n\n7) Confidencialidade, dados processuais e pessoais\nOs atos processuais são públicos, mas tramitam em segredo de justiça, entre outros, processos de família, os que envolvem interesse público ou social, dados protegidos pela intimidade e arbitragem com confidencialidade comprovada (CPC, art. 189). A LGPD (Lei 13.709/2018) se aplica: dados sensíveis incluem saúde, origem racial, convicção religiosa e biometria (art. 5º, II); o tratamento deve observar finalidade, necessidade, segurança, prevenção, não discriminação e responsabilização (art. 6º); o exercício regular de direitos em processo judicial é base legal (arts. 7º, VI, e 11, II, d), o que não autoriza enviar autos a qualquer plataforma; os agentes devem adotar medidas de segurança (art. 46); e o titular pode pedir revisão de decisões tomadas unicamente com base em tratamento automatizado (art. 20).\n\n8) Responsabilidade profissional e institucional\nO magistrado responde integralmente pelo ato que assina. O tribunal responde pela governança: classificar riscos, capacitar usuários, contratar com cláusulas de proteção de dados, registrar soluções, prestar contas e comunicar incidentes. O advogado responde perante o cliente e a OAB; o Conselho Federal da OAB aprovou, em novembro de 2024, recomendações para o uso de IA na prática jurídica, com eixos como confidencialidade e privacidade, prática ética e comunicação sobre o uso de IA generativa, remetendo ao Código de Ética e Disciplina. No plano legislativo, o PL 2.338/2023, que propõe um marco geral para a IA, foi aprovado no Senado e remetido à Câmara, onde segue em tramitação.",
+   "flashcards": [
+    {
+     "frente": "Norma do CNJ vigente sobre IA no Judiciário",
+     "verso": "Resolução CNJ nº 615, de 11/03/2025, que revogou a Resolução CNJ nº 332/2020.",
+     "dispositivo": "Resolução CNJ nº 615, de 11/03/2025, art. 46"
+    },
+    {
+     "frente": "Natureza do uso de IA generativa pelo magistrado",
+     "verso": "Auxiliar e complementar, de apoio à decisão; vedado como instrumento autônomo de decisão; responsabilidade integral do magistrado.",
+     "dispositivo": "Resolução CNJ nº 615, de 11/03/2025, art. 19, § 3º, II"
+    },
+    {
+     "frente": "Dados sigilosos em ferramenta privada ou externa",
+     "verso": "Vedado, salvo anonimização na origem.",
+     "dispositivo": "Resolução CNJ nº 615, de 11/03/2025, art. 19, § 3º, IV"
+    },
+    {
+     "frente": "Três níveis de risco na Resolução 615/2025",
+     "verso": "Risco excessivo (vedado), alto risco e baixo risco, conforme o Anexo.",
+     "dispositivo": "Resolução CNJ nº 615, de 11/03/2025, arts. 10 e 11 e Anexo"
+    },
+    {
+     "frente": "Autoridade final na decisão com apoio de IA",
+     "verso": "Sempre do usuário interno; o sistema nunca pode restringi-la ou substituí-la.",
+     "dispositivo": "Resolução CNJ nº 615, de 11/03/2025, art. 32, parágrafo único"
+    },
+    {
+     "frente": "Revisão de decisão totalmente automatizada",
+     "verso": "O titular dos dados pode solicitar revisão de decisões tomadas unicamente com base em tratamento automatizado.",
+     "dispositivo": "Lei 13.709/2018 (LGPD), art. 20"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "jf-nuvem-ia-generativa-atividade-juridica-q01",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "A Resolução CNJ nº 615/2025 revogou a Resolução CNJ nº 332/2020, passando a disciplinar o desenvolvimento, a utilização e a governança de soluções de inteligência artificial no Poder Judiciário.",
+     "gabarito": "C",
+     "comentario": "Certo. O art. 46 da Resolução 615/2025 revoga expressamente a Resolução 332/2020; a ementa fala em desenvolvimento, utilização e governança.",
+     "dispositivo": "Resolução CNJ nº 615, de 11/03/2025, ementa e art. 46"
+    },
+    {
+     "id": "jf-nuvem-ia-generativa-atividade-juridica-q02",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Nos termos da Resolução CNJ nº 615/2025, desde que o magistrado tenha realizado capacitação específica, é admitido o uso de ferramenta de IA generativa contratada privadamente como instrumento autônomo de tomada de decisões judiciais em processos de baixa complexidade.",
+     "gabarito": "E",
+     "comentario": "Errado. O uso é auxiliar e complementar, sendo vedada a utilização como instrumento autônomo de tomada de decisões judiciais, com responsabilidade integral do magistrado. A capacitação é requisito adicional, não autorização para decidir por máquina.",
+     "dispositivo": "Resolução CNJ nº 615, de 11/03/2025, art. 19, § 3º, I e II"
+    },
+    {
+     "id": "jf-nuvem-ia-generativa-atividade-juridica-q03",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Segundo a Resolução CNJ nº 615/2025, é vedado inserir em ferramenta de IA generativa privada ou externa ao Judiciário dados de processo que tramite em segredo de justiça, salvo se anonimizados na origem.",
+     "gabarito": "C",
+     "comentario": "Certo. É a regra do art. 19, § 3º, IV. Combine com o art. 189 do CPC, que lista os processos em segredo de justiça.",
+     "dispositivo": "Resolução CNJ nº 615, de 11/03/2025, art. 19, § 3º, IV; CPC, art. 189"
+    },
+    {
+     "id": "jf-nuvem-ia-generativa-atividade-juridica-q04",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "A Resolução CNJ nº 615/2025 classifica como de baixo risco as soluções que formulam juízos conclusivos sobre a aplicação de norma jurídica ou de precedentes a um conjunto determinado de fatos, desde que o magistrado revise o resultado.",
+     "gabarito": "E",
+     "comentario": "Errado. A formulação de juízos conclusivos sobre aplicação de normas ou precedentes está no rol de alto risco do Anexo. No baixo risco está a produção de textos de apoio à confecção de atos judiciais, sob supervisão e aprovação final do magistrado.",
+     "dispositivo": "Resolução CNJ nº 615, de 11/03/2025, art. 11 e Anexo (alto risco e baixo risco)"
+    },
+    {
+     "id": "jf-nuvem-ia-generativa-atividade-juridica-q05",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Um juiz utilizou ferramenta de IA generativa para revisar a redação de uma sentença. De acordo com a Resolução CNJ nº 615/2025, a menção expressa ao uso da ferramenta no corpo da decisão é obrigatória, sob pena de nulidade.",
+     "gabarito": "E",
+     "comentario": "Errado. A menção ao uso de IA na decisão fica a critério do magistrado; o que é obrigatório é o registro automático no sistema interno do tribunal. A norma não comina nulidade.",
+     "dispositivo": "Resolução CNJ nº 615, de 11/03/2025, art. 19, § 6º"
+    },
+    {
+     "id": "jf-nuvem-ia-generativa-atividade-juridica-q06",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "Advogado que cita em petição precedente inexistente, sugerido por ferramenta de IA generativa, não se exime de responsabilidade alegando falha da ferramenta, pois a verificação das fontes integra seu dever profissional.",
+     "gabarito": "C",
+     "comentario": "Certo. A ferramenta não é sujeito de responsabilidade; quem subscreve a peça responde por ela. As recomendações do Conselho Federal da OAB sobre IA remetem ao Código de Ética e Disciplina, e a alucinação de precedentes é o risco clássico que a verificação humana deve evitar.",
+     "dispositivo": "Recomendações do Conselho Federal da OAB sobre uso de IA na prática jurídica (nov. 2024)"
+    },
+    {
+     "id": "jf-nuvem-ia-generativa-atividade-juridica-q07",
+     "tipo": "me",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "À luz da Resolução CNJ nº 615/2025, é vedada ao Poder Judiciário, por acarretar risco excessivo, a solução de IA que:",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "produza textos de apoio para facilitar a confecção de atos judiciais, sob supervisão do magistrado.",
+      "B": "não possibilite a revisão humana dos resultados propostos ou gere dependência absoluta do usuário em relação ao resultado.",
+      "C": "realize anonimização de documentos judiciais.",
+      "D": "transcreva áudios de audiências, com revisão humana final.",
+      "E": "identifique padrões decisórios como complemento à análise humana."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Errada: é hipótese de baixo risco prevista no Anexo.",
+      "B": "Correta: é a primeira hipótese de risco excessivo do art. 10.",
+      "C": "Errada: anonimização é atividade de baixo risco.",
+      "D": "Errada: transcrição com revisão humana final é de baixo risco.",
+      "E": "Errada: detecção de padrões decisórios, como complemento, é de baixo risco."
+     },
+     "comentario": "A) Errada: é hipótese de baixo risco prevista no Anexo.\nB) Correta: é a primeira hipótese de risco excessivo do art. 10.\nC) Errada: anonimização é atividade de baixo risco.\nD) Errada: transcrição com revisão humana final é de baixo risco.\nE) Errada: detecção de padrões decisórios, como complemento, é de baixo risco.",
+     "dispositivo": "Resolução CNJ nº 615, de 11/03/2025, art. 10, I, e Anexo"
+    },
+    {
+     "id": "jf-nuvem-ia-generativa-atividade-juridica-q08",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "texto_base": "Na fase de planejamento, a equipe técnica discute limites de uso, proteção de dados e responsabilidade pelas minutas geradas.",
+     "enunciado": "Um tribunal regional federal pretende contratar ferramenta de IA generativa para apoio aos gabinetes. Considerando a Resolução CNJ nº 615/2025, a LGPD e a Constituição, assinale a opção correta.",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "Como o exercício regular de direitos em processo judicial é base legal da LGPD, o tribunal pode enviar os autos integrais a qualquer plataforma, sem outras cautelas.",
+      "B": "A responsabilidade pela fundamentação da decisão é transferida ao fornecedor da ferramenta quando o texto for gerado automaticamente.",
+      "C": "A Resolução 615/2025 dispensa supervisão humana para soluções classificadas como de baixo risco.",
+      "D": "O sistema de IA não pode restringir nem substituir a autoridade final dos usuários internos, e a decisão continua sujeita ao dever constitucional de fundamentação.",
+      "E": "O titular de dados não tem direito a pedir revisão de decisão tomada unicamente com base em tratamento automatizado, pois a LGPD não se aplica ao Judiciário."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Errada: a base legal não afasta os princípios de necessidade e segurança (LGPD, arts. 6º e 46), nem as vedações de compartilhamento da Resolução.",
+      "B": "Errada: o magistrado responde integralmente; o uso é apenas auxiliar (art. 19, § 3º, II).",
+      "C": "Errada: a supervisão humana é princípio geral (art. 3º) e exigência dos sistemas (art. 34); o baixo risco apenas reduz a intensidade do monitoramento.",
+      "D": "Correta: art. 32, parágrafo único, da Resolução e art. 93, IX, da CF.",
+      "E": "Errada: o art. 20 da LGPD garante a revisão de decisões exclusivamente automatizadas."
+     },
+     "comentario": "A) Errada: a base legal não afasta os princípios de necessidade e segurança (LGPD, arts. 6º e 46), nem as vedações de compartilhamento da Resolução.\nB) Errada: o magistrado responde integralmente; o uso é apenas auxiliar (art. 19, § 3º, II).\nC) Errada: a supervisão humana é princípio geral (art. 3º) e exigência dos sistemas (art. 34); o baixo risco apenas reduz a intensidade do monitoramento.\nD) Correta: art. 32, parágrafo único, da Resolução e art. 93, IX, da CF.\nE) Errada: o art. 20 da LGPD garante a revisão de decisões exclusivamente automatizadas.",
+     "dispositivo": "Resolução CNJ nº 615, de 11/03/2025, arts. 19, 32 e 34; CF, art. 93, IX; Lei 13.709/2018, arts. 6º, 20 e 46"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Quando houver emprego de IA generativa na redação de ato judicial, a menção na decisão fica a critério do magistrado, mas é obrigatório o ___ automático no sistema interno.",
+     "opcoes": [
+      "registro",
+      "parecer",
+      "referendo",
+      "sorteio"
+     ],
+     "respostas": [
+      "registro"
+     ],
+     "explicacao": "Resolução CNJ nº 615/2025, art. 19, § 6º."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Eventos adversos com soluções de IA devem ser comunicados em até ___ horas após a identificação.",
+     "opcoes": [
+      "72",
+      "24",
+      "48",
+      "120"
+     ],
+     "respostas": [
+      "72"
+     ],
+     "explicacao": "Resolução CNJ nº 615/2025, art. 42."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene as etapas de uso responsável de IA generativa para elaborar uma minuta.",
+     "itens": [
+      "Concluir a capacitação sobre limites, riscos e uso ético",
+      "Anonimizar dados sigilosos ou usar a ferramenta corporativa do tribunal",
+      "Solicitar à ferramenta o texto de apoio",
+      "Conferir normas e precedentes na fonte oficial e os fatos nos autos",
+      "Revisar, assinar e assumir a responsabilidade pela decisão fundamentada"
+     ],
+     "explicacao": "Resolução CNJ nº 615/2025, art. 19, § 3º, e art. 32; CF, art. 93, IX."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Art. 10 da Res. CNJ 615/2025",
+       "Soluções vedadas por risco excessivo"
+      ],
+      [
+       "Art. 14 da Res. CNJ 615/2025",
+       "Avaliação de impacto algorítmico"
+      ],
+      [
+       "Art. 189 do CPC",
+       "Segredo de justiça"
+      ],
+      [
+       "Art. 20 da LGPD",
+       "Revisão de decisão automatizada"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

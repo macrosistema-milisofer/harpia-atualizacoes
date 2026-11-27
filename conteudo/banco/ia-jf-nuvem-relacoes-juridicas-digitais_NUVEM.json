@@ -1,0 +1,217 @@
+{
+ "assunto": "Direito Digital – Relações jurídicas digitais",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-27",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "jf-nuvem-relacoes-juridicas-digitais",
+   "titulo": "Contratos, assinaturas e criptoativos: o Direito no mundo digital",
+   "microconteudo": "RAIO-X DA PROVA: A banca de magistratura federal cobra a formação do contrato eletrônico pelo Código Civil, a força probante da assinatura ICP-Brasil, a executividade do contrato eletrônico sem testemunhas, o marco dos ativos virtuais e o art. 20 da LGPD. A pegadinha típica é afirmar que só a assinatura ICP-Brasil tem validade jurídica ou que a LGPD exige revisão humana de toda decisão automatizada.\n\nPOR QUE IMPORTA:\nBoa parte dos litígios que chegam à Justiça Federal já nasce digital: empréstimos consignados assinados no celular, execuções de contratos firmados em plataformas, fraudes com criptoativos, benefícios negados por sistemas automatizados. O juiz precisa saber quando a assinatura eletrônica faz prova, quando o contrato eletrônico vale como título executivo, quem regula as corretoras de criptoativos e que direitos o cidadão tem diante de uma decisão tomada por algoritmo. A tecnologia muda o meio; o raciocínio jurídico continua partindo do Código Civil, do CDC e das leis especiais.\n\nO QUE A BANCA COBRA:\n• Formação do contrato eletrônico pelas regras do Código Civil (arts. 427 a 435): presentes x ausentes, teoria da expedição e lugar da celebração.\n• Direito de arrependimento (art. 49 do CDC) e deveres do Decreto 7.962/2013 no comércio eletrônico.\n• Presunção de veracidade dos documentos com certificado ICP-Brasil (MP 2.200-2/2001, art. 10) e validade de outros meios (§ 2º).\n• Assinaturas simples, avançada e qualificada da Lei 14.063/2020 e casos em que a qualificada é obrigatória.\n• Contrato eletrônico como título executivo: REsp 1.495.920/DF e o § 4º do art. 784 do CPC (Lei 14.620/2023).\n• Lei 14.478/2022: conceito de ativo virtual, prestadora como pessoa jurídica, autorização prévia e Banco Central como regulador.\n• Art. 20 da LGPD: revisão de decisões unicamente automatizadas e limites do segredo comercial.\n\nENTENDA:\n1) Contrato eletrônico não é um novo tipo contratual. É contrato comum celebrado por meio eletrônico, e sua formação segue o Código Civil. A proposta obriga o proponente (art. 427). O art. 428, I, considera presente quem contrata \"por telefone ou por meio de comunicação semelhante\"; por isso, conversas em tempo real (chat, videochamada) costumam ser tratadas pela doutrina como contratação entre presentes. Já a troca de e-mails é o exemplo clássico de contratação entre ausentes: o contrato se torna perfeito \"desde que a aceitação é expedida\" (art. 434, teoria da expedição), salvo se houver retratação que chegue antes ou junto com a aceitação (art. 433), se o proponente se comprometeu a esperar a resposta ou se ela não chegar no prazo convencionado. O contrato reputa-se celebrado no lugar em que foi proposto (art. 435). Exemplo: uma empresa de Recife envia proposta por e-mail a um cliente de Natal; o cliente responde aceitando. Em regra, o contrato se forma com o envio da resposta, e o lugar da celebração é Recife.\n\n2) Quando há consumidor, o CDC se soma ao Código Civil. Nas contratações fora do estabelecimento comercial, o consumidor pode desistir em 7 dias, contados da assinatura ou do recebimento do produto ou serviço, com devolução imediata e atualizada dos valores pagos (art. 49). O Decreto 7.962/2013 detalha o comércio eletrônico: o site deve informar em destaque nome, inscrição e endereço do fornecedor (art. 2º); o fornecedor deve confirmar de imediato o recebimento da aceitação e disponibilizar o contrato em meio que permita conservação e reprodução (art. 4º); o arrependimento pode ser exercido pela mesma ferramenta usada na compra, rescinde os contratos acessórios sem ônus e obriga o fornecedor a comunicar a administradora do cartão para impedir o lançamento ou estornar o valor (art. 5º). Exemplo: o consumidor compra um curso pelo aplicativo e desiste no quinto dia; basta clicar na opção de cancelamento do próprio aplicativo.\n\n3) Documento e assinatura eletrônicos. A MP 2.200-2/2001 instituiu a ICP-Brasil para garantir autenticidade, integridade e validade jurídica de documentos eletrônicos, tendo o ITI, autarquia federal, como Autoridade Certificadora Raiz. O art. 10 considera documentos públicos ou particulares os documentos eletrônicos, e o § 1º diz que as declarações feitas com certificado ICP-Brasil \"presumem-se verdadeiros em relação aos signatários\". O § 2º não exclui outros meios de comprovar autoria e integridade, inclusive certificados fora da ICP-Brasil, desde que admitidos pelas partes ou aceitos por quem recebe o documento. A Lei 14.063/2020, voltada às interações com entes públicos (não se aplica aos processos judiciais), classifica a assinatura em simples (identifica o signatário), avançada (vinculada de forma unívoca ao signatário, sob seu controle exclusivo, e capaz de revelar alterações) e qualificada (certificado ICP-Brasil, maior confiabilidade). A qualificada é obrigatória, entre outros casos, nos atos de transferência e registro de imóveis, ressalvadas as juntas comerciais, e prevalece em caso de conflito de normas (art. 5º, §§ 2º e 5º). No processo, o CPC admite documentos eletrônicos produzidos e conservados conforme a legislação específica (art. 441), e o juiz aprecia o valor probante do documento não convertido (art. 440).\n\n4) Título executivo. O art. 784, III, do CPC exige documento particular assinado pelo devedor e por duas testemunhas. No REsp 1.495.920/DF (Terceira Turma, julgado em 15/5/2018), o STJ admitiu, excepcionalmente, a executividade de contrato eletrônico de mútuo com assinatura digital mesmo sem testemunhas, porque a autoridade certificadora atesta a autoria e a integridade do documento. Depois, a Lei 14.620/2023 incluiu o § 4º no art. 784: nos títulos constituídos ou atestados por meio eletrônico, admite-se qualquer modalidade de assinatura eletrônica prevista em lei, dispensadas as testemunhas quando a integridade for conferida por provedor de assinatura.\n\n5) Blockchain e tecnologias de registro distribuído (DLT). Imagine um livro-razão copiado em milhares de computadores. Cada nova página desse livro (o block, em inglês) traz um resumo matemático (hash) da página anterior; alterar um registro antigo mudaria todos os resumos seguintes e seria rejeitado pelas demais cópias. Não há um cartório central: um mecanismo de consenso decide qual versão vale. O resultado é um registro muito difícil de adulterar, auditável e, em geral, pseudônimo, não anônimo.\n\n6) Smart contracts. São programas gravados na blockchain que executam automaticamente uma consequência quando ocorre uma condição (\"se o pagamento chegar, transfira o token\"). Juridicamente, não formam categoria contratual autônoma: são forma de celebrar ou, mais frequentemente, de executar um contrato, que continua sujeito ao Código Civil (capacidade, objeto lícito, vícios de consentimento) e, havendo consumidor, ao CDC. Limites: o código não interpreta boa-fé nem onerosidade excessiva; depende de oráculos (fontes externas de dados) que podem errar; e a imutabilidade técnica não impede que o Judiciário declare nulidade ou determine restituição, cumprida fora da cadeia.\n\n7) Plataformas digitais e identidade digital. Marketplaces, aplicativos de transporte e redes aproximam fornecedores e usuários; quando a plataforma integra a cadeia de fornecimento, o CDC impõe deveres de informação e transparência, e a responsabilidade é examinada no caso concreto. Na identidade, a Lei 14.534/2023 adotou o CPF como número único e suficiente de identificação nos cadastros públicos, e o Decreto 10.977/2022 regulamenta a Carteira de Identidade Nacional, com o CPF como registro geral, código QR e versão digital.\n\n8) Ativos virtuais. A Lei 14.478/2022 define ativo virtual como representação digital de valor negociável ou transferível eletronicamente, usada para pagamento ou investimento, excluídas moeda nacional e estrangeira, moeda eletrônica, pontos de fidelidade e valores mobiliários (art. 3º). Prestadora é a pessoa jurídica que executa, em nome de terceiros, serviços como troca, transferência e custódia (art. 5º), e só funciona com autorização prévia (art. 2º). O Decreto 11.563/2023 designou o Banco Central como regulador e supervisor, preservada a competência da CVM sobre valores mobiliários. A lei também criou a fraude com ativos virtuais (art. 171-A do Código Penal, reclusão de 4 a 8 anos e multa).\n\n9) Algoritmos. O art. 20 da LGPD dá ao titular o direito de pedir revisão de decisões tomadas unicamente com base em tratamento automatizado que afetem seus interesses, como perfis de crédito e de consumo. O controlador deve informar critérios e procedimentos, observados os segredos comercial e industrial; se recusar com base nesse segredo, a ANPD pode auditar aspectos discriminatórios. O texto vigente não exige expressamente que a revisão seja feita por pessoa natural.",
+   "flashcards": [
+    {
+     "frente": "Momento de formação do contrato entre ausentes (ex.: e-mail)",
+     "verso": "Regra: com a expedição da aceitação (teoria da expedição), salvo retratação que chegue antes ou junto, compromisso de esperar resposta ou resposta fora do prazo.",
+     "dispositivo": "Código Civil, arts. 433 e 434"
+    },
+    {
+     "frente": "Efeito do certificado ICP-Brasil",
+     "verso": "As declarações em documento eletrônico produzido com certificação ICP-Brasil presumem-se verdadeiras em relação aos signatários; outros meios valem se admitidos pelas partes ou aceitos por quem recebe.",
+     "dispositivo": "MP 2.200-2/2001, art. 10, §§ 1º e 2º"
+    },
+    {
+     "frente": "Três níveis de assinatura eletrônica da Lei 14.063/2020",
+     "verso": "Simples (identifica o signatário), avançada (vínculo unívoco, controle exclusivo, detecta alterações) e qualificada (certificado ICP-Brasil, maior confiabilidade).",
+     "dispositivo": "Lei 14.063/2020, art. 4º"
+    },
+    {
+     "frente": "Título executivo eletrônico sem testemunhas",
+     "verso": "Admite qualquer assinatura eletrônica prevista em lei, dispensadas testemunhas quando a integridade é conferida por provedor de assinatura.",
+     "dispositivo": "CPC, art. 784, § 4º (Lei 14.620/2023); STJ, REsp 1.495.920/DF"
+    },
+    {
+     "frente": "Quem regula as prestadoras de serviços de ativos virtuais?",
+     "verso": "O Banco Central do Brasil, designado pelo Decreto 11.563/2023; a CVM mantém competência sobre ativos que sejam valores mobiliários.",
+     "dispositivo": "Lei 14.478/2022, arts. 1º, 2º e 6º; Decreto 11.563/2023"
+    },
+    {
+     "frente": "Direito do titular diante de decisão automatizada",
+     "verso": "Pedir revisão de decisão tomada unicamente por tratamento automatizado e receber informações sobre critérios e procedimentos, observado o segredo comercial; recusa permite auditoria da ANPD.",
+     "dispositivo": "LGPD, art. 20"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "jf-nuvem-relacoes-juridicas-digitais-q01",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "Uma empresa sediada em Recife envia proposta por e-mail a um cliente de Natal, que responde aceitando no dia seguinte.",
+     "enunciado": "Em contrato celebrado por troca de e-mails, sem que o proponente tenha se comprometido a esperar resposta e sem retratação do aceitante, o contrato torna-se perfeito, em regra, no momento em que a aceitação é expedida.",
+     "gabarito": "C",
+     "comentario": "Certo. A troca de e-mails é contratação entre ausentes, e o art. 434 do Código Civil adota a teoria da expedição, ressalvadas as exceções dos incisos I a III (retratação, compromisso de esperar a resposta e resposta fora do prazo convencionado).",
+     "dispositivo": "Código Civil, arts. 433 e 434"
+    },
+    {
+     "id": "jf-nuvem-relacoes-juridicas-digitais-q02",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "A MP 2.200-2/2001 veda a utilização de certificados digitais não emitidos pela ICP-Brasil para comprovar a autoria e a integridade de documentos eletrônicos.",
+     "gabarito": "E",
+     "comentario": "Errado. O § 2º do art. 10 permite outros meios de comprovação, inclusive certificados fora da ICP-Brasil, desde que admitidos pelas partes como válidos ou aceitos pela pessoa a quem o documento for oposto. O que a ICP-Brasil confere é a presunção de veracidade do § 1º.",
+     "dispositivo": "MP 2.200-2/2001, art. 10, §§ 1º e 2º"
+    },
+    {
+     "id": "jf-nuvem-relacoes-juridicas-digitais-q03",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Segundo a Lei 14.063/2020, a assinatura eletrônica qualificada é obrigatória nos atos de transferência e de registro de bens imóveis, ressalvada a hipótese relativa às juntas comerciais.",
+     "gabarito": "C",
+     "comentario": "Certo. O art. 5º, § 2º, IV, exige a qualificada nesses atos, com a ressalva das juntas comerciais, que admitem a avançada. Além disso, havendo conflito de normas sobre o nível exigido, prevalece a qualificada (§ 5º).",
+     "dispositivo": "Lei 14.063/2020, art. 5º, §§ 1º, 2º e 5º"
+    },
+    {
+     "id": "jf-nuvem-relacoes-juridicas-digitais-q04",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Nos termos do art. 20 da LGPD, o titular tem direito à revisão, obrigatoriamente realizada por pessoa natural, de decisões tomadas unicamente com base em tratamento automatizado de dados pessoais que afetem seus interesses.",
+     "gabarito": "E",
+     "comentario": "Errado. O art. 20 garante o direito de solicitar a revisão e de obter informações claras sobre critérios e procedimentos, mas o texto vigente não exige que a revisão seja feita por pessoa natural. A pegadinha está no acréscimo \"obrigatoriamente realizada por pessoa natural\".",
+     "dispositivo": "Lei 13.709/2018 (LGPD), art. 20, caput e §§ 1º e 2º"
+    },
+    {
+     "id": "jf-nuvem-relacoes-juridicas-digitais-q05",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "De acordo com a Lei 14.478/2022, prestadora de serviços de ativos virtuais pode ser pessoa física ou jurídica que execute, em nome de terceiros, serviços como custódia ou troca de ativos virtuais.",
+     "gabarito": "E",
+     "comentario": "Errado. O art. 5º define a prestadora como pessoa jurídica. Ela também depende de prévia autorização de órgão da Administração Pública federal para funcionar (art. 2º), papel atribuído ao Banco Central pelo Decreto 11.563/2023.",
+     "dispositivo": "Lei 14.478/2022, arts. 2º e 5º; Decreto 11.563/2023"
+    },
+    {
+     "id": "jf-nuvem-relacoes-juridicas-digitais-q06",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Nos títulos executivos constituídos ou atestados por meio eletrônico, admite-se qualquer modalidade de assinatura eletrônica prevista em lei, dispensadas as testemunhas quando a integridade for conferida por provedor de assinatura.",
+     "gabarito": "C",
+     "comentario": "Certo. É o § 4º do art. 784 do CPC, incluído pela Lei 14.620/2023. Antes dele, o STJ já havia admitido, em caráter excepcional, a executividade de contrato eletrônico de mútuo com assinatura digital sem testemunhas (REsp 1.495.920/DF).",
+     "dispositivo": "CPC, art. 784, III e § 4º (Lei 14.620/2023); STJ, REsp 1.495.920/DF"
+    },
+    {
+     "id": "jf-nuvem-relacoes-juridicas-digitais-q07",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Uma plataforma oferece empréstimos com garantia em criptoativos por meio de smart contract que liquida automaticamente a garantia quando o preço informado por um oráculo cai abaixo de certo patamar. Um consumidor alega que o oráculo informou preço errado e que perdeu a garantia indevidamente. Sobre o caso, assinale a opção correta.",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "Por ser executado automaticamente e registrado de forma imutável, o smart contract não pode ser revisto pelo Poder Judiciário.",
+      "B": "O smart contract é categoria contratual autônoma, regida exclusivamente pelo seu código-fonte, que substitui as regras do Código Civil.",
+      "C": "A relação não se submete ao CDC, porque a operação foi executada por programa de computador, e não por pessoa.",
+      "D": "O smart contract funciona como instrumento de celebração ou execução de um contrato que continua sujeito ao Código Civil e, havendo consumidor, ao CDC, e eventual restituição pode ser determinada judicialmente e cumprida fora da cadeia.",
+      "E": "Como a blockchain é anônima por natureza, é juridicamente impossível identificar as partes, o que inviabiliza qualquer responsabilização."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Errada: a imutabilidade é técnica, não jurídica; o Judiciário pode declarar nulidade ou determinar restituição.",
+      "B": "Errada: o código é meio de expressão ou execução da vontade; validade, vícios e interpretação seguem o direito comum.",
+      "C": "Errada: a automação não afasta a relação de consumo entre a plataforma fornecedora e o consumidor.",
+      "D": "Correta: é a leitura predominante sobre a natureza instrumental do smart contract e seus limites, como a dependência de oráculos.",
+      "E": "Errada: as blockchains públicas são, em regra, pseudônimas, e as prestadoras autorizadas identificam seus clientes."
+     },
+     "comentario": "A) Errada: a imutabilidade é técnica, não jurídica; o Judiciário pode declarar nulidade ou determinar restituição.\nB) Errada: o código é meio de expressão ou execução da vontade; validade, vícios e interpretação seguem o direito comum.\nC) Errada: a automação não afasta a relação de consumo entre a plataforma fornecedora e o consumidor.\nD) Correta: é a leitura predominante sobre a natureza instrumental do smart contract e seus limites, como a dependência de oráculos.\nE) Errada: as blockchains públicas são, em regra, pseudônimas, e as prestadoras autorizadas identificam seus clientes.",
+     "dispositivo": "Código Civil (formação e validade dos negócios jurídicos e contratos); CDC (Lei 8.078/1990); doutrina sobre smart contracts"
+    },
+    {
+     "id": "jf-nuvem-relacoes-juridicas-digitais-q08",
+     "tipo": "me",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Sobre o marco legal dos ativos virtuais (Lei 14.478/2022) e sua regulamentação, assinale a opção correta.",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "Pontos de programas de fidelidade enquadram-se no conceito legal de ativo virtual.",
+      "B": "O Decreto 11.563/2023 atribuiu ao Banco Central a regulação, a autorização e a supervisão das prestadoras de serviços de ativos virtuais, preservadas as competências da CVM.",
+      "C": "Ativos representativos de valores mobiliários sujeitos à Lei 6.385/1976 são regidos integralmente pela Lei 14.478/2022, e não pela legislação do mercado de capitais.",
+      "D": "A lei entrou em vigor na data de sua publicação e não previu prazo de adequação para as prestadoras já em atividade.",
+      "E": "A lei não trouxe nenhuma repercussão penal, limitando-se a normas administrativas."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Errada: o art. 3º, III, exclui expressamente os instrumentos que dão acesso a produtos ou serviços, como pontos de fidelidade.",
+      "B": "Correta: arts. 1º a 3º do Decreto 11.563/2023.",
+      "C": "Errada: o parágrafo único do art. 1º da lei exclui esses ativos e mantém a competência da CVM.",
+      "D": "Errada: a vacatio legis foi de 180 dias (art. 14), e o art. 9º prevê prazo de adequação não inferior a 6 meses.",
+      "E": "Errada: a lei incluiu o art. 171-A no Código Penal (fraude com ativos virtuais) e alterou as Leis 7.492/1986 e 9.613/1998."
+     },
+     "comentario": "A) Errada: o art. 3º, III, exclui expressamente os instrumentos que dão acesso a produtos ou serviços, como pontos de fidelidade.\nB) Correta: arts. 1º a 3º do Decreto 11.563/2023.\nC) Errada: o parágrafo único do art. 1º da lei exclui esses ativos e mantém a competência da CVM.\nD) Errada: a vacatio legis foi de 180 dias (art. 14), e o art. 9º prevê prazo de adequação não inferior a 6 meses.\nE) Errada: a lei incluiu o art. 171-A no Código Penal (fraude com ativos virtuais) e alterou as Leis 7.492/1986 e 9.613/1998.",
+     "dispositivo": "Lei 14.478/2022, arts. 1º, 3º, 9º e 14; Decreto 11.563/2023, arts. 1º a 3º"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "No comércio eletrônico, o consumidor pode exercer o direito de arrependimento pela ___ utilizada para a contratação, sem prejuízo de outros meios.",
+     "opcoes": [
+      "mesma ferramenta",
+      "via postal",
+      "loja física",
+      "central telefônica"
+     ],
+     "respostas": [
+      "mesma ferramenta"
+     ],
+     "explicacao": "Decreto 7.962/2013, art. 5º, § 1º; o prazo de 7 dias vem do art. 49 do CDC."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Segundo o Código Civil, reputa-se celebrado o contrato no lugar em que foi ___.",
+     "opcoes": [
+      "proposto",
+      "aceito",
+      "executado",
+      "registrado"
+     ],
+     "respostas": [
+      "proposto"
+     ],
+     "explicacao": "Código Civil, art. 435."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o funcionamento básico de um registro em blockchain, do início ao fim.",
+     "itens": [
+      "O usuário assina digitalmente e transmite a transação à rede",
+      "A transação é agrupada com outras em uma nova página do registro",
+      "A rede valida essa nova página por um mecanismo de consenso",
+      "A página é encadeada à anterior pelo hash e replicado em todas as cópias do livro-razão"
+     ],
+     "explicacao": "Sequência conceitual de uma tecnologia de registro distribuído: assinatura, agrupamento, consenso e encadeamento por hash."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "MP 2.200-2/2001, art. 10, § 1º",
+       "Presunção de veracidade com certificado ICP-Brasil"
+      ],
+      [
+       "Lei 14.063/2020, art. 4º",
+       "Assinaturas simples, avançada e qualificada"
+      ],
+      [
+       "Lei 14.478/2022, art. 3º",
+       "Conceito de ativo virtual"
+      ],
+      [
+       "LGPD, art. 20",
+       "Revisão de decisões automatizadas"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

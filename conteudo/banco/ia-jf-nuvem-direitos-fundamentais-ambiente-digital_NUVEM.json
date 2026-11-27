@@ -1,0 +1,219 @@
+{
+ "assunto": "Direito Digital – Direitos fundamentais no ambiente digital",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-27",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "jf-nuvem-direitos-fundamentais-ambiente-digital",
+   "titulo": "Direitos fundamentais na rede: da expressão à moderação",
+   "microconteudo": "RAIO-X DA PROVA: A banca de magistratura federal cobra a diferença entre provedor de conexão e de aplicação, a nova tese do STF sobre o art. 19 do Marco Civil e a ponderação entre expressão, privacidade e informação (Tema 786, EC 115/2022). A pegadinha típica é afirmar que o art. 19 caiu por inteiro, que a responsabilidade virou objetiva ou que os crimes contra a honra passaram ao regime da simples notificação.\n\nPOR QUE IMPORTA:\nO juiz federal julga, todos os dias, pedidos de remoção de conteúdo, indenizações contra plataformas, tratamento de dados por órgãos públicos e conflitos entre imprensa e personalidade. Desde 2025 o cenário mudou: o STF releu o art. 19 do Marco Civil da Internet e o Estatuto Digital da Criança e do Adolescente entrou em vigor. Quem decide precisa saber ponderar direitos fundamentais em colisão e aplicar o regime de responsabilidade correto a cada tipo de provedor.\n\nO QUE A BANCA COBRA:\n• Liberdade de expressão (CF, art. 5º, IV e IX; art. 220) e seus limites: vedação do anonimato, direito de resposta e indenização (art. 5º, V e X).\n• Proteção de dados como direito fundamental expresso (art. 5º, LXXIX, EC 115/2022) e o precedente da MP 954/2020 (ADI 6387 e conexas).\n• Direito ao esquecimento: incompatível com a Constituição (Tema 786), com controle de abusos caso a caso.\n• Provedor de conexão (art. 18 do MCI) x provedor de aplicação (arts. 19 e 21).\n• A tese dos Temas 987 e 533 (26/6/2025): inconstitucionalidade parcial do art. 19, regra do art. 21, exceções, falha sistêmica e presunção para anúncios pagos e robôs.\n• LGPD, art. 14, e Lei 15.211/2025 (ECA Digital): melhor interesse, consentimento parental, verificação de idade e remoção sem ordem judicial.\n\nENTENDA:\n1) Liberdade de expressão: ampla, mas não absoluta\nA Constituição assegura que \"é livre a manifestação do pensamento, sendo vedado o anonimato\" (art. 5º, IV), protege a expressão da atividade intelectual, artística, científica e de comunicação, independentemente de censura ou licença (art. 5º, IX), e o art. 220 veda qualquer restrição à manifestação do pensamento e à informação, \"observado o disposto nesta Constituição\", além de proibir toda censura de natureza política, ideológica e artística (§ 2º). O próprio texto já traz os contrapesos: direito de resposta proporcional ao agravo, indenização por dano material, moral ou à imagem (art. 5º, V) e inviolabilidade da intimidade, da vida privada, da honra e da imagem (art. 5º, X). A lógica é de responsabilização posterior, e não de censura prévia. O Marco Civil da Internet (Lei 12.965/2014) adota a mesma premissa: a disciplina do uso da internet tem como fundamento o respeito à liberdade de expressão (art. 2º), ao lado da proteção da privacidade e dos dados pessoais (art. 3º, I a III).\nExemplo: um perfil anônimo acusa falsamente um servidor de corrupção. A vedação do anonimato permite buscar a identificação do autor, e o ofendido pode pedir resposta, remoção e indenização.\n\n2) Privacidade, proteção de dados, honra, imagem e identidade\nA EC 115/2022 inseriu o inciso LXXIX no art. 5º: \"é assegurado, nos termos da lei, o direito à proteção dos dados pessoais, inclusive nos meios digitais\", e atribuiu à União a competência para organizar e fiscalizar a proteção e o tratamento de dados (art. 21, XXVI) e a competência privativa para legislar sobre o tema (art. 22, XXX). Antes disso, em maio de 2020, o Plenário do STF referendou, por 10 votos a 1, as cautelares da relatora Rosa Weber nas ADIs 6387, 6388, 6389, 6390 e 6393, suspendendo a MP 954/2020, que obrigava as operadoras de telefonia a entregar ao IBGE nomes, telefones e endereços de seus consumidores. O fundamento foi a violação da intimidade, da vida privada e do sigilo de dados, e o informativo do caso registra a autodeterminação informativa e afirma que os dados pessoais integram o âmbito de proteção das cláusulas que asseguram a liberdade individual. Lição prática: mesmo dado \"banal\" (nome, telefone) merece proteção, e o compartilhamento estatal exige finalidade, necessidade e salvaguardas. O sigilo de dados e das comunicações (art. 5º, XII) e os direitos da personalidade completam o quadro; a identidade digital também é protegida, e a tese do STF aplica o regime de remoção a contas denunciadas como inautênticas.\n\n3) Direito à informação e o \"esquecimento\"\nO art. 5º, XIV, assegura a todos o acesso à informação e resguarda o sigilo da fonte quando necessário ao exercício profissional. No RE 1010606 (Tema 786, julgado em 11/2/2021), o STF fixou que é incompatível com a Constituição a ideia de um direito ao esquecimento que impeça, pela passagem do tempo, a divulgação de fatos ou dados verídicos e licitamente obtidos. Eventuais excessos são analisados caso a caso, com base na honra, na imagem, na privacidade e na personalidade e nas regras penais e civis.\nExemplo: um programa relembra crime antigo com dados verdadeiros. Não há veto pelo simples decurso do tempo; mas se a reportagem distorcer os fatos ou expuser a vítima de forma abusiva, cabe indenização.\n\n4) Provedor de conexão x provedor de aplicação\nProvedor de conexão habilita o terminal a enviar e receber dados, atribuindo endereço IP (MCI, art. 5º, V); provedor de aplicação oferece funcionalidades acessadas pela internet, como redes sociais, buscadores e marketplaces (art. 5º, VII). O de conexão \"não será responsabilizado civilmente por danos decorrentes de conteúdo gerado por terceiros\" (art. 18). O de aplicação, no texto original do art. 19, só respondia se, após ordem judicial específica, não tornasse o conteúdo indisponível. O art. 21 já trazia exceção: na divulgação não autorizada de nudez ou atos sexuais de caráter privado, o provedor responde subsidiariamente se, notificado pelo participante, não remover o material de forma diligente.\n\n5) Moderação de conteúdo e a tese do STF (Temas 987 e 533)\nEm 26/6/2025, no julgamento dos REs 1037396 (Tema 987) e 1057258 (Tema 533), o STF declarou o art. 19 parcialmente inconstitucional, por proteção insuficiente a direitos fundamentais e à democracia. Até nova lei, valem estes pontos:\n• Regra geral: crime ou ato ilícito gera responsabilidade nos termos do art. 21, isto é, se o provedor não remover após notificação (notice and takedown), inclusive para contas inautênticas.\n• Crimes contra a honra: continua o art. 19 (ordem judicial), mas a remoção por notificação extrajudicial é possível; replicações de ofensa já reconhecida judicialmente devem ser removidas a partir de notificação, sem nova decisão.\n• Presunção de responsabilidade em anúncios e impulsionamentos pagos e em redes artificiais de distribuição (robôs), independentemente de notificação, salvo prova de atuação diligente e em tempo razoável.\n• Dever de cuidado: rol taxativo de conteúdos graves (atos antidemocráticos, terrorismo, incentivo ao suicídio ou à automutilação, discriminação, crimes contra a mulher, crimes sexuais contra vulneráveis e contra crianças, tráfico de pessoas). Exige-se falha sistêmica; conteúdo isolado segue o art. 21.\n• O art. 19 continua para e-mail, reuniões fechadas por vídeo ou voz e mensageria quanto às comunicações interpessoais. Marketplaces respondem pelo CDC.\n• Deveres de autorregulação (notificações, devido processo, relatórios anuais de transparência), canais de atendimento e sede com representante no Brasil.\n• Não há responsabilidade objetiva; a tese tem efeitos prospectivos e ressalva a legislação eleitoral.\n\n6) Desinformação\nNão há tipo civil único de \"fake news\". O combate à desinformação passa pelos instrumentos acima: responsabilidade por conteúdo ilícito após notificação, presunção para impulsionamento pago e robôs, remoção de contas inautênticas e transparência. O juiz deve preservar a crítica e a opinião, inclusive errada, e reagir ao ilícito, sem se tornar árbitro da verdade.\n\n7) Crianças e adolescentes\nA LGPD manda tratar dados de crianças e adolescentes em seu melhor interesse (art. 14); para crianças, exige consentimento específico e em destaque de ao menos um dos pais ou responsável (§ 1º), proíbe condicionar jogos e aplicações a dados além do necessário (§ 4º) e impõe esforços razoáveis para verificar o consentimento (§ 5º). A Lei 15.211/2025 (ECA Digital), em vigor desde 17/3/2026, alcança produtos e serviços direcionados a esse público ou de acesso provável por ele (art. 1º). Destaques: configuração padrão mais protetiva (art. 7º); verificação de idade confiável, vedada a autodeclaração, para conteúdo impróprio (art. 9º, § 1º); contas de até 16 anos vinculadas a responsável (art. 24); vedação de caixas de recompensa (art. 20) e de perfilamento para publicidade (art. 22); retirada de conteúdo violador após comunicação da vítima, representantes, Ministério Público ou entidades, independentemente de ordem judicial, vedada a denúncia anônima (art. 29); multa de até 10% do faturamento no Brasil, limitada a R$ 50 milhões por infração (art. 35).",
+   "flashcards": [
+    {
+     "frente": "Provedor de conexão responde por conteúdo de terceiros?",
+     "verso": "Não. O provedor de conexão não é responsabilizado civilmente por danos decorrentes de conteúdo gerado por terceiros.",
+     "dispositivo": "Lei 12.965/2014, art. 18"
+    },
+    {
+     "frente": "Regra geral após a tese dos Temas 987 e 533 (crime ou ato ilícito)",
+     "verso": "Responsabilidade nos termos do art. 21: o provedor de aplicação responde se, notificado, não remover o conteúdo. Vale também para contas inautênticas.",
+     "dispositivo": "STF, Temas 987 e 533, tese de 26/6/2025, item 3"
+    },
+    {
+     "frente": "Crimes contra a honra após a tese do STF",
+     "verso": "Continua o art. 19 (ordem judicial), mas cabe remoção por notificação extrajudicial; replicações de ofensa já reconhecida em juízo saem por notificação.",
+     "dispositivo": "STF, Temas 987 e 533, tese de 26/6/2025, itens 3.1 e 3.2"
+    },
+    {
+     "frente": "Tema 786 do STF",
+     "verso": "Direito ao esquecimento é incompatível com a Constituição; abusos na divulgação de fatos verídicos são analisados caso a caso.",
+     "dispositivo": "STF, RE 1010606 (Tema 786)"
+    },
+    {
+     "frente": "O que a EC 115/2022 acrescentou à Constituição?",
+     "verso": "Art. 5º, LXXIX (direito à proteção de dados, inclusive nos meios digitais); art. 21, XXVI; art. 22, XXX.",
+     "dispositivo": "EC 115/2022"
+    },
+    {
+     "frente": "ECA Digital: contas de até 16 anos",
+     "verso": "Devem estar vinculadas à conta de um responsável legal.",
+     "dispositivo": "Lei 15.211/2025, art. 24"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "jf-nuvem-direitos-fundamentais-ambiente-digital-q01",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "Segundo o Marco Civil da Internet, o provedor de conexão à internet não será responsabilizado civilmente por danos decorrentes de conteúdo gerado por terceiros.",
+     "gabarito": "C",
+     "comentario": "Certo. É o texto do art. 18 da Lei 12.965/2014. A tese dos Temas 987 e 533 tratou dos provedores de aplicação, não do de conexão.",
+     "dispositivo": "Lei 12.965/2014, art. 18"
+    },
+    {
+     "id": "jf-nuvem-direitos-fundamentais-ambiente-digital-q02",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Ao julgar o Tema 786, o STF reconheceu o direito ao esquecimento como projeção da dignidade humana, autorizando que a passagem do tempo impeça a divulgação de fatos verídicos licitamente obtidos.",
+     "gabarito": "E",
+     "comentario": "Errado. O STF afirmou o oposto: é incompatível com a Constituição a ideia de um direito ao esquecimento com esse alcance. Excessos são analisados caso a caso, à luz da honra, imagem, privacidade e personalidade.",
+     "dispositivo": "STF, RE 1010606 (Tema 786), julgado em 11/2/2021"
+    },
+    {
+     "id": "jf-nuvem-direitos-fundamentais-ambiente-digital-q03",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "A proteção dos dados pessoais, inclusive nos meios digitais, foi inserida no rol do art. 5º da Constituição pela Emenda Constitucional 115/2022, que também atribuiu à União a competência privativa para legislar sobre proteção e tratamento de dados pessoais.",
+     "gabarito": "C",
+     "comentario": "Certo. A EC 115/2022 incluiu o art. 5º, LXXIX, o art. 21, XXVI (organizar e fiscalizar) e o art. 22, XXX (competência legislativa privativa).",
+     "dispositivo": "CF, art. 5º, LXXIX; art. 21, XXVI; art. 22, XXX (EC 115/2022)"
+    },
+    {
+     "id": "jf-nuvem-direitos-fundamentais-ambiente-digital-q04",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "Usuária descobre que um ex-companheiro publicou em rede social, sem autorização, vídeo íntimo em que ela aparece. Ela notifica a plataforma, identificando o material de forma específica, mas o vídeo permanece no ar por dias.",
+     "enunciado": "Nessa situação, a responsabilização da plataforma depende de prévia ordem judicial específica que determine a remoção do vídeo.",
+     "gabarito": "E",
+     "comentario": "Errado. Para nudez ou atos sexuais de caráter privado divulgados sem autorização, o art. 21 do Marco Civil já previa responsabilidade subsidiária do provedor de aplicação que, notificado pela participante, não remove o conteúdo de forma diligente. Basta a notificação com identificação específica do material.",
+     "dispositivo": "Lei 12.965/2014, art. 21 e parágrafo único"
+    },
+    {
+     "id": "jf-nuvem-direitos-fundamentais-ambiente-digital-q05",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Conforme a tese fixada pelo STF nos Temas 987 e 533, a mera existência de um conteúdo ilícito isolado, ainda que incluído no rol de crimes graves, basta para caracterizar falha sistêmica e responsabilizar o provedor de aplicação independentemente de notificação.",
+     "gabarito": "E",
+     "comentario": "Errado. O dever de cuidado exige falha sistêmica, isto é, deixar de adotar medidas adequadas de prevenção ou remoção. Conteúdo ilícito atomizado não basta; aplica-se então o regime do art. 21 (responsabilidade após notificação).",
+     "dispositivo": "STF, REs 1037396 e 1057258 (Temas 987 e 533), tese de 26/6/2025, itens 5 a 5.4"
+    },
+    {
+     "id": "jf-nuvem-direitos-fundamentais-ambiente-digital-q06",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Pela Lei 15.211/2025 (ECA Digital), o fornecedor deve retirar conteúdo que viole direitos de crianças e adolescentes após comunicação da vítima, de seus representantes, do Ministério Público ou de entidades de defesa, independentemente de ordem judicial, sendo vedada a denúncia anônima.",
+     "gabarito": "C",
+     "comentario": "Certo. É a regra do art. 29 do ECA Digital; a notificação deve permitir a identificação técnica do conteúdo, sob pena de nulidade, e conteúdos jornalísticos com controle editorial ficam fora desse procedimento.",
+     "dispositivo": "Lei 15.211/2025, art. 29, caput e §§ 2º e 4º"
+    },
+    {
+     "id": "jf-nuvem-direitos-fundamentais-ambiente-digital-q07",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Assinale a opção correta acerca da tese fixada pelo STF em 26/6/2025 sobre o art. 19 do Marco Civil da Internet.",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "O art. 19 foi declarado integralmente inconstitucional, e os provedores de aplicação passaram a responder objetivamente por todo conteúdo de terceiros.",
+      "B": "Em anúncios e impulsionamentos pagos, presume-se a responsabilidade do provedor, que pode afastá-la provando atuação diligente e em tempo razoável para tornar o conteúdo indisponível.",
+      "C": "Nos crimes contra a honra, a remoção só pode ocorrer após ordem judicial, vedada a remoção por notificação extrajudicial.",
+      "D": "Os provedores de mensageria instantânea passaram a responder após simples notificação por qualquer mensagem interpessoal sigilosa.",
+      "E": "Marketplaces seguem exclusivamente o regime do art. 19, afastado o Código de Defesa do Consumidor."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Errada: a inconstitucionalidade é parcial e a tese afirma que não há responsabilidade objetiva.",
+      "B": "Correta: há presunção de responsabilidade para anúncios e impulsionamentos pagos e redes artificiais de distribuição, afastável por prova de diligência.",
+      "C": "Errada: aplica-se o art. 19, mas a remoção por notificação extrajudicial continua possível.",
+      "D": "Errada: para mensageria, quanto às comunicações interpessoais, continua o art. 19.",
+      "E": "Errada: marketplaces respondem civilmente conforme o CDC."
+     },
+     "comentario": "A) Errada: a inconstitucionalidade é parcial e a tese afirma que não há responsabilidade objetiva.\nB) Correta: há presunção de responsabilidade para anúncios e impulsionamentos pagos e redes artificiais de distribuição, afastável por prova de diligência.\nC) Errada: aplica-se o art. 19, mas a remoção por notificação extrajudicial continua possível.\nD) Errada: para mensageria, quanto às comunicações interpessoais, continua o art. 19.\nE) Errada: marketplaces respondem civilmente conforme o CDC.",
+     "dispositivo": "STF, REs 1037396 e 1057258 (Temas 987 e 533), tese de 26/6/2025, itens 1, 3.1, 4, 6, 7 e 12"
+    },
+    {
+     "id": "jf-nuvem-direitos-fundamentais-ambiente-digital-q08",
+     "tipo": "me",
+     "dificuldade": "media",
+     "texto_base": "Uma plataforma de jogos online, muito usada por crianças, quer lançar novas funcionalidades no Brasil em 2026.",
+     "enunciado": "À luz da LGPD e da Lei 15.211/2025, assinale a opção compatível com a legislação.",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "Exigir, como condição para jogar, que a criança informe dados pessoais além dos estritamente necessários, desde que haja aviso de privacidade.",
+      "B": "Oferecer caixas de recompensa (loot boxes) pagas em jogo direcionado a crianças, desde que com preço informado.",
+      "C": "Usar perfilamento do comportamento da criança para direcionar publicidade comercial, se houver consentimento genérico no cadastro.",
+      "D": "Tratar dados de criança com consentimento específico e em destaque de ao menos um dos pais ou responsável, envidando esforços razoáveis para verificar esse consentimento.",
+      "E": "Aceitar a autodeclaração de idade como mecanismo suficiente para liberar conteúdo impróprio para menores de 18 anos."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Errada: a LGPD proíbe condicionar a participação em jogos ao fornecimento de dados além do necessário (art. 14, § 4º).",
+      "B": "Errada: o ECA Digital veda caixas de recompensa em jogos direcionados a crianças e adolescentes ou de acesso provável por eles (art. 20).",
+      "C": "Errada: é vedado o perfilamento para direcionar publicidade comercial a crianças e adolescentes (Lei 15.211/2025, art. 22).",
+      "D": "Correta: LGPD, art. 14, §§ 1º e 5º.",
+      "E": "Errada: a autodeclaração é expressamente vedada como mecanismo de verificação de idade (Lei 15.211/2025, art. 9º, § 1º)."
+     },
+     "comentario": "A) Errada: a LGPD proíbe condicionar a participação em jogos ao fornecimento de dados além do necessário (art. 14, § 4º).\nB) Errada: o ECA Digital veda caixas de recompensa em jogos direcionados a crianças e adolescentes ou de acesso provável por eles (art. 20).\nC) Errada: é vedado o perfilamento para direcionar publicidade comercial a crianças e adolescentes (Lei 15.211/2025, art. 22).\nD) Correta: LGPD, art. 14, §§ 1º e 5º.\nE) Errada: a autodeclaração é expressamente vedada como mecanismo de verificação de idade (Lei 15.211/2025, art. 9º, § 1º).",
+     "dispositivo": "Lei 13.709/2018, art. 14, §§ 1º, 4º e 5º; Lei 15.211/2025, arts. 9º, 20 e 22"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Na divulgação não autorizada de cenas de nudez de caráter privado, o provedor de aplicação responde ___ se, notificado pelo participante, não remover o conteúdo de forma diligente.",
+     "opcoes": [
+      "subsidiariamente",
+      "solidariamente",
+      "objetivamente",
+      "exclusivamente"
+     ],
+     "respostas": [
+      "subsidiariamente"
+     ],
+     "explicacao": "Lei 12.965/2014, art. 21."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Pela LGPD, o tratamento de dados pessoais de crianças exige consentimento específico e em destaque dado por pelo menos ___ ou pelo responsável legal.",
+     "opcoes": [
+      "um dos pais",
+      "ambos os pais",
+      "o Ministério Público",
+      "o Conselho Tutelar"
+     ],
+     "respostas": [
+      "um dos pais"
+     ],
+     "explicacao": "Lei 13.709/2018, art. 14, § 1º."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene cronologicamente os marcos normativos e jurisprudenciais.",
+     "itens": [
+      "Marco Civil da Internet (Lei 12.965/2014)",
+      "Referendo das cautelares na ADI 6387 sobre a MP 954/2020 (maio de 2020)",
+      "Tema 786: direito ao esquecimento (fevereiro de 2021)",
+      "EC 115/2022: proteção de dados no art. 5º",
+      "Tese dos Temas 987 e 533 sobre o art. 19 (junho de 2025)",
+      "Início da vigência do ECA Digital (17/3/2026)"
+     ],
+     "explicacao": "2014, 2020, 2021, 2022, 2025 e 2026."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Art. 5º, IV, da CF",
+       "Livre manifestação do pensamento, vedado o anonimato"
+      ],
+      [
+       "Art. 5º, LXXIX, da CF",
+       "Direito à proteção dos dados pessoais"
+      ],
+      [
+       "Art. 18 do Marco Civil",
+       "Provedor de conexão não responde por conteúdo de terceiros"
+      ],
+      [
+       "Art. 29 do ECA Digital",
+       "Retirada de conteúdo violador sem ordem judicial"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

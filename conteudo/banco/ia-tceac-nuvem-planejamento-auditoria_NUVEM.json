@@ -1,0 +1,217 @@
+{
+ "assunto": "Auditoria Governamental – Planejamento de auditoria",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-27",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-nuvem-planejamento-auditoria",
+   "titulo": "Planejar pelo risco: da visão geral à amostra",
+   "microconteudo": "RAIO-X DA PROVA: O Cebraspe cobra os conceitos de risco inerente, de controle e de detecção, a relação inversa entre risco de detecção e riscos avaliados, as colunas da matriz de planejamento e as características da amostragem estatística. A pegadinha típica é dizer que controle interno confiável dispensa procedimentos substantivos ou que o risco inerente já considera os controles.\n\nPOR QUE IMPORTA:\nO planejamento decide onde a equipe vai gastar tempo e dinheiro públicos e quanto de segurança a conclusão terá. Um planejamento fraco produz relatórios frágeis, achados mal sustentados e deliberações que não resistem ao contraditório. Para quem vai relatar processos de fiscalização, entender risco, materialidade, matriz de planejamento e amostragem é condição para avaliar se o trabalho da equipe técnica merece confiança.\n\nO QUE A BANCA COBRA:\n• Planejamento orientado pelo risco, com visão geral do objeto antes da definição do escopo.\n• Critérios de seleção e de significância: materialidade (valor, natureza e contexto), relevância e risco.\n• Componentes do risco: inerente e de controle (riscos da entidade) e de detecção (risco do auditor).\n• Relação inversa entre o risco de detecção aceitável e os riscos avaliados de distorção relevante.\n• Colunas da matriz de planejamento e sua função de programa de auditoria no TCU.\n• Papéis de trabalho: finalidade, completude, revisão e sigilo.\n• Testes de controle x procedimentos substantivos e o que torna uma amostra estatística.\n\nENTENDA:\n1) Plano baseado no risco\nO planejamento tem duas camadas. Na estratégica, a NBASP 100 manda definir escopo, objetivos e abordagem; na operacional, cronograma, recursos e a natureza e extensão dos procedimentos. A NBC TA 300 faz a mesma distinção entre estratégia global (alcance, época e direção) e plano de auditoria, mais detalhado. No TCU, a NAT exige que cada auditoria tenha plano documentado com objetivo, escopo, prazo e recursos, e que o planejamento geral justifique as seleções com base em relevância, materialidade, risco e oportunidade (itens 65 e 94). Plano baseado no risco significa concentrar esforço onde a chance de erro, fraude ou baixo desempenho e o impacto são maiores. Exemplo: entre fiscalizar a folha de uma autarquia pequena e os contratos emergenciais da saúde, o risco aponta para os contratos.\n\n2) Atividades preliminares: visão geral do objeto\nAntes de escrever qualquer questão, a equipe constrói uma visão geral preliminar do objeto e do ambiente (NAT, item 89): descrição do objeto, legislação aplicável, objetivos institucionais, unidades responsáveis, riscos e deficiências de controle (item 91). Os Padrões de Auditoria de Conformidade do TCU (itens 11 e 12) listam as fontes e o conteúdo dessa visão geral, incluindo riscos e fragilidades de controle. O Manual de Auditoria Operacional chama essa etapa de análise preliminar, que busca conhecimento substantivo do objeto, com revisão documental, entrevistas, especialistas, técnicas como SWOT e análise de stakeholders e visitas exploratórias.\n\n3) Determinação de escopo\nEscopo é a delimitação do trabalho. Pela NAT (item 92), envolve as questões de auditoria, a profundidade dos procedimentos, o universo auditável, a configuração da amostra e a época. O Manual de Auditoria Operacional resume em quatro perguntas: o quê, quem, onde e quando, e recomenda explicitar o não escopo. Se surgir matéria fora do escopo, a equipe pode alterar o plano com aprovação do supervisor, ampliar o exame ou propor outra fiscalização (item 93).\n\n4) Materialidade, relevância e risco\nMaterialidade não é só valor. Pela NBASP 100, uma questão é material se seu conhecimento puder influenciar as decisões dos usuários, e isso se mede por valor, natureza e contexto. Desvio pequeno em verba de merenda escolar ou envolvendo o próprio dirigente pode ser material pela natureza. Relevância liga-se ao interesse público e à importância do tema para a sociedade e o Parlamento. Risco é o evento que pode afetar adversamente os objetivos. Os Padrões de Conformidade reúnem os três atributos sob a ideia de significância.\n\n5) Exame e avaliação do controle interno\nA NAT (item 72) manda avaliar se os controles asseguram, com razoável segurança, eficiência e eficácia das operações, informação confiável, conformidade e salvaguarda dos bens públicos contra desperdício, perda e mau uso. A avaliação define o quanto o auditor pode confiar no controle: controle forte permite reduzir testes substantivos; controle fraco exige ampliar o exame direto.\n\n6) Risco inerente, de controle e de detecção\nPela NBC TA 200 (item 13), risco inerente é a suscetibilidade de uma afirmação a distorção relevante antes de considerar qualquer controle; risco de controle é o de que o controle interno não previna, detecte ou corrija a tempo essa distorção; risco de detecção é o de que os procedimentos do auditor não a detectem. Os dois primeiros são riscos da entidade e existem independentemente da auditoria; algum risco de controle sempre existe (itens A37 e A39). Só o risco de detecção é controlado pelo auditor, por natureza, época e extensão dos procedimentos.\n\n7) Risco de auditoria\nNa NBASP 100, risco de auditoria é o risco de que o relatório seja inapropriado, a ser reduzido a nível aceitavelmente baixo. O modelo didático é RA = RI x RC x RD. Fixado o risco de auditoria, quanto maiores os riscos inerente e de controle, menor o risco de detecção aceitável e, portanto, mais e melhores testes; a NBC TA 200 descreve essa relação inversa (item A42) e lembra que o risco de detecção só pode ser reduzido, nunca eliminado (item A44). Exemplo: RA alvo de 5%, RI de 100% e RC de 50% exigem RD de 10%.\n\n8) Matriz de planejamento\nA NAT (item 94) determina que os programas de auditoria sejam documentados em matrizes de planejamento e aprovados antes da execução. Na conformidade, as colunas típicas são: questões de auditoria, informações requeridas, fontes de informação, procedimentos e seu detalhamento, objetos, membro responsável, período e possíveis achados. Na auditoria operacional, o Manual traz: questões e subquestões, critérios, informações requeridas, fontes, procedimentos de coleta, procedimentos de análise, limitações e o que a análise vai permitir dizer. Causa e efeito pertencem à matriz de achados, da execução.\n\n9) Programa de auditoria\nO programa, feito a partir da visão geral, descreve objetivo e escopo, universo e amostra, procedimentos, técnicas, critérios, informações e fontes, cronograma e recursos (NAT, item 97). Na conformidade do TCU, ele é a própria matriz de planejamento. O Manual de Auditoria Operacional recomenda testar os instrumentos de coleta em teste-piloto.\n\n10) Papéis de trabalho\nSão a documentação que evidencia todo o trabalho do auditor (NAT, item 110), preparados por ele, pelo auditado ou por terceiros (item 112). Devem ser completos e detalhados a ponto de um auditor experiente, sem envolvimento prévio, entender o que foi feito e as conclusões (item 115). Não há forma rígida, mas exigem clareza, objetividade e revisão, a primeira pelo próprio autor (item 116), além de cautela contra acesso não autorizado (item 114).\n\n11) Testes de auditoria\nA NBC TA 330 (item 4) separa: teste de controle avalia a efetividade operacional dos controles; procedimento substantivo busca detectar distorções relevantes e inclui testes de detalhes e procedimentos analíticos substantivos. Testar controles é obrigatório quando o auditor pretende confiar neles ou quando os substantivos sozinhos não bastam (item 8). Mesmo com controles bons, há procedimentos substantivos para cada classe significativa de transações, saldos e divulgações (item 18). Exemplo: verificar se todo empenho tem aprovação do ordenador é teste de controle; conferir a nota fiscal e a entrega do bem é substantivo.\n\n12) Amostragem estatística\nAmostragem é aplicar procedimentos a menos de 100% da população para concluir sobre o todo (NBC TA 530, item 5). É estatística quando há seleção aleatória e uso da teoria das probabilidades para avaliar resultados, incluindo a mensuração do risco de amostragem. Sua importância está em permitir generalizar e quantificar o erro possível; amostras não probabilísticas, escolhidas pela experiência da equipe, não autorizam generalização (NAT, item 159). O risco de amostragem pode afetar a eficácia, quando o auditor conclui que está tudo bem e não está, ou a eficiência, quando aponta problema inexistente.",
+   "flashcards": [
+    {
+     "frente": "Risco inerente, de controle e de detecção",
+     "verso": "Inerente: suscetibilidade a distorção antes dos controles. Controle: o controle não previne nem detecta a tempo. Detecção: os procedimentos do auditor não detectam.",
+     "dispositivo": "NBC TA 200, item 13"
+    },
+    {
+     "frente": "Relação entre risco de detecção e riscos de distorção relevante",
+     "verso": "Inversa: quanto maiores os riscos inerente e de controle, menor o risco de detecção aceitável e mais extensos os testes.",
+     "dispositivo": "NBC TA 200, item A42"
+    },
+    {
+     "frente": "Risco de auditoria na NBASP 100",
+     "verso": "Risco de que o relatório de auditoria seja inapropriado; deve ser reduzido a nível aceitavelmente baixo.",
+     "dispositivo": "NBASP 100 (IRB)"
+    },
+    {
+     "frente": "Três dimensões da materialidade",
+     "verso": "Valor, natureza e contexto. É material o que pode influenciar as decisões dos usuários.",
+     "dispositivo": "NBASP 100 (IRB)"
+    },
+    {
+     "frente": "Teste de controle x procedimento substantivo",
+     "verso": "Teste de controle: efetividade operacional dos controles. Substantivo: detectar distorções relevantes (testes de detalhes e analíticos substantivos).",
+     "dispositivo": "NBC TA 330, item 4"
+    },
+    {
+     "frente": "Duas marcas da amostragem estatística",
+     "verso": "Seleção aleatória e teoria das probabilidades para avaliar resultados, com mensuração do risco de amostragem.",
+     "dispositivo": "NBC TA 530, item 5"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "tceac-nuvem-planejamento-auditoria-q01",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "Segundo as Normas de Auditoria do TCU, os programas de auditoria devem ser documentados em matrizes de planejamento e aprovados antes do início da execução.",
+     "gabarito": "C",
+     "comentario": "Certo. A NAT (item 94) exige plano documentado para cada auditoria e determina que os programas sejam registrados em matrizes de planejamento e aprovados antes da execução.",
+     "dispositivo": "Normas de Auditoria do TCU (NAT, Portaria-TCU 280/2010, alterada pela Portaria-TCU 168/2011), item 94"
+    },
+    {
+     "id": "tceac-nuvem-planejamento-auditoria-q02",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Mantido constante o risco de auditoria, quanto mais elevados forem os riscos inerente e de controle avaliados, maior poderá ser o risco de detecção aceito pelo auditor.",
+     "gabarito": "E",
+     "comentario": "Errado. A relação é inversa: riscos de distorção relevante maiores exigem risco de detecção menor, isto é, procedimentos mais extensos e persuasivos (NBC TA 200, item A42).",
+     "dispositivo": "NBC TA 200, itens 13 e A42"
+    },
+    {
+     "id": "tceac-nuvem-planejamento-auditoria-q03",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "O risco inerente corresponde à suscetibilidade de uma afirmação a distorção relevante, avaliada já considerando o efeito dos controles internos implantados pela entidade.",
+     "gabarito": "E",
+     "comentario": "Errado. O risco inerente é avaliado antes de considerar qualquer controle relacionado. O efeito dos controles é medido no risco de controle (NBC TA 200, item 13).",
+     "dispositivo": "NBC TA 200, item 13"
+    },
+    {
+     "id": "tceac-nuvem-planejamento-auditoria-q04",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "A amostragem é considerada estatística quando reúne seleção aleatória dos itens e uso da teoria das probabilidades para avaliar os resultados, inclusive para mensurar o risco de amostragem.",
+     "gabarito": "C",
+     "comentario": "Certo. São as duas características exigidas pela NBC TA 530 (item 5). Sem elas, a amostragem é não estatística e não permite projetar o resultado com erro mensurável.",
+     "dispositivo": "NBC TA 530, item 5"
+    },
+    {
+     "id": "tceac-nuvem-planejamento-auditoria-q05",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "Ao avaliar o controle interno de um fundo estadual, a equipe concluiu que os controles sobre pagamentos eram altamente confiáveis e operavam de forma efetiva.",
+     "enunciado": "Nessa situação, a equipe pode dispensar integralmente os procedimentos substantivos sobre a classe de pagamentos, ainda que ela seja significativa.",
+     "gabarito": "E",
+     "comentario": "Errado. Controles efetivos permitem reduzir a natureza, a época e a extensão dos substantivos, não eliminá-los. Independentemente dos riscos avaliados, devem ser executados procedimentos substantivos para cada classe significativa de transações, saldos e divulgações (NBC TA 330, item 18), porque algum risco de controle sempre existe.",
+     "dispositivo": "NBC TA 330, item 18; NBC TA 200, item A39"
+    },
+    {
+     "id": "tceac-nuvem-planejamento-auditoria-q06",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "Durante a auditoria de um município, a equipe identifica pagamento indevido de valor baixo, em relação ao orçamento, feito com recursos da merenda escolar a empresa ligada ao secretário responsável.",
+     "enunciado": "O fato pode ser considerado material ainda que de pequeno valor, em razão de sua natureza e do contexto em que ocorreu.",
+     "gabarito": "C",
+     "comentario": "Certo. Pela NBASP 100, materialidade envolve valor, natureza e contexto: uma questão é material se seu conhecimento puder influenciar as decisões dos usuários. Conflito de interesse e desvio em política sensível tornam o fato material pela natureza.",
+     "dispositivo": "NBASP 100 (IRB), princípio sobre materialidade"
+    },
+    {
+     "id": "tceac-nuvem-planejamento-auditoria-q07",
+     "tipo": "me",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Na auditoria de conformidade do TCU, NÃO constitui coluna típica da matriz de planejamento:",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "questões de auditoria.",
+      "B": "informações requeridas.",
+      "C": "fontes de informação.",
+      "D": "causa e efeito.",
+      "E": "procedimentos e seu detalhamento."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Errada: as questões são o ponto de partida da matriz de planejamento.",
+      "B": "Errada: indica que dados serão necessários para responder a cada questão.",
+      "C": "Errada: aponta onde obter as informações (sistemas, documentos, pessoas).",
+      "D": "Correta: causa e efeito são atributos do achado (NAT, item 99) e compõem a matriz de achados, elaborada na execução.",
+      "E": "Errada: os procedimentos e seu detalhamento são colunas da matriz de planejamento da conformidade."
+     },
+     "comentario": "A) Errada: as questões são o ponto de partida da matriz de planejamento.\nB) Errada: indica que dados serão necessários para responder a cada questão.\nC) Errada: aponta onde obter as informações (sistemas, documentos, pessoas).\nD) Correta: causa e efeito são atributos do achado (NAT, item 99) e compõem a matriz de achados, elaborada na execução.\nE) Errada: os procedimentos e seu detalhamento são colunas da matriz de planejamento da conformidade.",
+     "dispositivo": "Padrões de Auditoria de Conformidade do TCU (Portaria-Segecex 26/2009), Anexo I; Normas de Auditoria do TCU (NAT, Portaria-TCU 280/2010, alterada pela Portaria-TCU 168/2011), itens 94 e 99"
+    },
+    {
+     "id": "tceac-nuvem-planejamento-auditoria-q08",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Acerca dos papéis de trabalho, assinale a opção correta à luz das Normas de Auditoria do TCU.",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "Consideram-se papéis de trabalho apenas os documentos elaborados pelo próprio auditor.",
+      "B": "Devem ser completos e detalhados o bastante para que um auditor experiente, sem envolvimento prévio, entenda o trabalho e as conclusões.",
+      "C": "Seguem forma rígida e padronizada, sem margem para adaptação à natureza da auditoria.",
+      "D": "A primeira revisão deve ser feita pelo supervisor, vedada a autorrevisão pelo auditor que os elaborou.",
+      "E": "Amostras selecionadas pela experiência da equipe, nelas documentadas, autorizam a generalização dos resultados para toda a população."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Errada: podem ser preparados pelo auditor, pelo auditado ou por terceiros (NAT, item 112).",
+      "B": "Correta: é o padrão de suficiência do item 115 da NAT.",
+      "C": "Errada: não há padrões rígidos de forma (item 116).",
+      "D": "Errada: a primeira revisão é feita pelo próprio auditor (item 116.6).",
+      "E": "Errada: amostras não probabilísticas não permitem generalizar (item 159.2)."
+     },
+     "comentario": "A) Errada: podem ser preparados pelo auditor, pelo auditado ou por terceiros (NAT, item 112).\nB) Correta: é o padrão de suficiência do item 115 da NAT.\nC) Errada: não há padrões rígidos de forma (item 116).\nD) Errada: a primeira revisão é feita pelo próprio auditor (item 116.6).\nE) Errada: amostras não probabilísticas não permitem generalizar (item 159.2).",
+     "dispositivo": "Normas de Auditoria do TCU (NAT, Portaria-TCU 280/2010, alterada pela Portaria-TCU 168/2011), itens 110 a 116 e 159"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Para ser estatística, a amostragem exige seleção ___ dos itens e avaliação dos resultados pela teoria das probabilidades.",
+     "opcoes": [
+      "aleatória",
+      "por julgamento",
+      "ao acaso",
+      "por conveniência"
+     ],
+     "respostas": [
+      "aleatória"
+     ],
+     "explicacao": "NBC TA 530, item 5."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "No TCU, os programas de auditoria são documentados em matrizes de ___ e aprovados antes da execução.",
+     "opcoes": [
+      "planejamento",
+      "achados",
+      "responsabilização",
+      "riscos"
+     ],
+     "respostas": [
+      "planejamento"
+     ],
+     "explicacao": "NAT, item 94."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene as etapas típicas do planejamento até a execução de uma auditoria.",
+     "itens": [
+      "Construir a visão geral preliminar do objeto",
+      "Definir objetivo, escopo e questões de auditoria com base no risco",
+      "Elaborar e aprovar a matriz de planejamento",
+      "Executar os testes e registrar tudo em papéis de trabalho"
+     ],
+     "explicacao": "NAT, itens 89, 92, 94, 98 e 109."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Risco inerente",
+       "Suscetibilidade a distorção antes dos controles"
+      ],
+      [
+       "Risco de controle",
+       "Controle interno não previne nem detecta a tempo"
+      ],
+      [
+       "Risco de detecção",
+       "Procedimentos do auditor não detectam a distorção"
+      ],
+      [
+       "Risco de auditoria",
+       "Relatório de auditoria inapropriado"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
