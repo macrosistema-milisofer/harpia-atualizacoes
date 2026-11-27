@@ -1,0 +1,218 @@
+{
+ "assunto": "Direito Digital – Cibersegurança, cibercriminalidade e prova digital",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-27",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "jf-nuvem-ciberseguranca-prova-digital",
+   "titulo": "Cibercrime e prova digital: do IP ao hash",
+   "microconteudo": "RAIO-X DA PROVA: O Cebraspe tende a cobrar os prazos de guarda do Marco Civil, as etapas da cadeia de custódia, as mudanças da Lei 14.155/2021 e o art. 171-A do CP. A pegadinha típica é trocar os prazos de 1 ano e 6 meses entre provedores ou exigir violação de mecanismo de segurança no art. 154-A.\n\nPOR QUE IMPORTA:\nGolpes por aplicativo de mensagem, invasão de contas bancárias, fraude com criptoativos e ataques de sequestro de dados (ransomware) contra órgãos públicos chegam todos os dias à Justiça Federal, seja porque atingem a União, a Caixa ou o INSS, seja porque têm caráter transnacional. Julgar esses casos exige entender a linguagem básica da segurança da informação, saber como a autoria é rastreada e, sobretudo, separar a prova digital confiável do simples print de tela sem lastro.\n\nO QUE A BANCA COBRA:\n• Pilares da segurança da informação (confidencialidade, integridade, disponibilidade e autenticidade) e a distinção entre ameaça, vulnerabilidade e incidente.\n• Deep web x dark web; anonimização e rastreabilidade por registros de conexão e de acesso.\n• Marco Civil da Internet: guarda de registros de conexão (1 ano) e de acesso a aplicações (6 meses) e reserva de jurisdição para o acesso.\n• Crimes informáticos: art. 154-A do CP (Lei 12.737/2012, alterada pela Lei 14.155/2021), furto mediante fraude eletrônica e fraude eletrônica (arts. 155, § 4º-B, e 171, § 2º-A).\n• Cadeia de custódia (CPP, arts. 158-A a 158-F) aplicada à prova digital e o papel do hash.\n• Lei 14.478/2022: art. 171-A do CP e a causa de aumento da lavagem por meio de ativo virtual.\n• Convenção de Budapeste (Decreto 11.491/2023) e Política Nacional de Cibersegurança (Decreto 11.856/2023).\n\nENTENDA:\n1) Vocabulário da segurança da informação\nA segurança da informação protege confidencialidade (só quem pode acessa), integridade (o dado não é alterado indevidamente), disponibilidade (o dado está acessível quando necessário) e autenticidade (a origem é verdadeira). Vulnerabilidade é a fraqueza do sistema (software desatualizado, senha fraca); ameaça é o agente ou evento capaz de explorá-la (um grupo criminoso, um malware); incidente é o evento que efetivamente compromete um dos pilares, como o vazamento ou o sequestro de dados. A Política Nacional de Cibersegurança (PNCiber), instituída pelo Decreto 11.856/2023, organiza a atuação federal nesse campo e criou o Comitê Nacional de Cibersegurança (CNCiber).\n\n2) Deep web, dark web e rastreabilidade\nDeep web é a parte da internet não indexada pelos buscadores comuns: caixas de e-mail, sistemas internos, bancos de dados protegidos por senha. Quase tudo é lícito. Dark web é uma porção dela acessível apenas por softwares específicos de anonimização, como o Tor, que encaminham a conexão por vários nós cifrados. O anonimato dificulta, mas não impede, a investigação: rastreia-se pelo endereço IP e pela porta lógica, pelos registros de acesso, por falhas operacionais do investigado e pelo caminho do dinheiro. O Marco Civil (Lei 12.965/2014) obriga o provedor de conexão a guardar os registros de conexão por 1 ano (art. 13) e o provedor de aplicação constituído como pessoa jurídica com fins econômicos a guardar os registros de acesso por 6 meses (art. 15). Polícia, autoridade administrativa e Ministério Público podem requerer cautelarmente a guarda por prazo maior, mas o acesso ao conteúdo desses registros depende de ordem judicial.\n\n3) Os crimes informáticos no Código Penal\nA Lei 12.737/2012 criou o art. 154-A do CP (invasão de dispositivo informático). A Lei 14.155/2021 endureceu o tipo: hoje basta invadir dispositivo de uso alheio, conectado ou não à rede, para obter, adulterar ou destruir dados sem autorização, ou instalar vulnerabilidades para obter vantagem ilícita, com pena de reclusão de 1 a 4 anos e multa; deixou de se exigir a violação de mecanismo de segurança. A mesma lei criou o furto mediante fraude por dispositivo eletrônico ou informático (art. 155, § 4º-B) e a fraude eletrônica (art. 171, § 2º-A), ambos com reclusão de 4 a 8 anos, além de causas de aumento quando se usa servidor mantido fora do território nacional ou a vítima é idosa ou vulnerável. No processo, o art. 70, § 4º, do CPP fixa a competência pelo domicílio da vítima no estelionato praticado mediante depósito, cheque sem fundos ou transferência de valores, com prevenção se houver várias vítimas. A competência será federal quando houver lesão a bens, serviços ou interesses da União e de suas entidades (CF, art. 109, IV) ou nas hipóteses de crime previsto em tratado com caráter transnacional (art. 109, V).\n\n4) Prova digital e cadeia de custódia\nProva digital é volátil, facilmente alterável e, muitas vezes, invisível ao olho humano. O CPP define cadeia de custódia como o conjunto de procedimentos para manter e documentar a história cronológica do vestígio, do reconhecimento ao descarte (art. 158-A), e enumera as etapas: reconhecimento, isolamento, fixação, coleta, acondicionamento, transporte, recebimento, processamento, armazenamento e descarte (art. 158-B). A coleta deve ser feita preferencialmente por perito oficial (art. 158-C), com acondicionamento lacrado (art. 158-D) e guarda em central de custódia (arts. 158-E e 158-F). No mundo digital, a ferramenta-chave é o hash: uma função que gera um \"resumo\" único do arquivo; qualquer alteração, mesmo de um bit, muda o valor. Registrar o hash na coleta e conferi-lo na perícia demonstra a integridade. O STJ, no RHC 143.169/RJ (Quinta Turma, 2023), considerou inadmissíveis provas digitais extraídas sem documentação dos procedimentos que assegurassem sua integridade. A quebra da cadeia de custódia não gera nulidade automática em todos os casos, mas transfere à acusação o ônus de demonstrar a confiabilidade do material.\n\n5) Criptografia, criptoativos e lavagem\nCriptografia transforma dados em formato ilegível sem a chave; na assimétrica, há uma chave pública e outra privada, base das assinaturas digitais e das carteiras de criptoativos. A Lei 14.478/2022 conceitua ativo virtual como representação digital de valor negociável ou transferível por meios eletrônicos e utilizável para pagamento ou investimento, excluídas, entre outras, a moeda nacional e as moedas estrangeiras. A lei criou o art. 171-A do CP (fraude com a utilização de ativos virtuais, valores mobiliários ou ativos financeiros), com reclusão de 4 a 8 anos e multa, e incluiu no art. 1º, § 4º, da Lei 9.613/1998 o aumento de 1/3 a 2/3 da pena da lavagem cometida por meio da utilização de ativo virtual. As prestadoras de serviços de ativos virtuais passaram a ter deveres de prevenção à lavagem (identificação de clientes, registros e comunicação de operações suspeitas ao Coaf). As técnicas típicas de ocultação incluem fracionamento de valores, uso de serviços de mistura (mixers), troca entre ativos e uso de contas de terceiros.\n\n6) Cooperação internacional\nA Convenção sobre o Crime Cibernético (Budapeste, 2001), promulgada no Brasil pelo Decreto 11.491/2023, harmoniza tipos penais, prevê medidas processuais como a preservação expedita de dados armazenados e cria a rede de contato 24/7 para cooperação urgente entre Estados. Para o juiz federal, ela é o fundamento convencional de pedidos de preservação e de obtenção de dados no exterior.\n\n7) Para não errar na prova\n• Deep web não é sinônimo de dark web.\n• Registro de conexão: 1 ano (provedor de conexão); registro de acesso a aplicação: 6 meses (provedor de aplicação).\n• O art. 154-A não exige mais violação de mecanismo de segurança.\n• Print sem lastro de integridade é prova frágil.\n• Lavagem por ativo virtual: aumento de 1/3 a 2/3.",
+   "flashcards": [
+    {
+     "frente": "Vulnerabilidade x ameaça x incidente",
+     "verso": "Fraqueza do sistema; agente ou evento capaz de explorá-la; evento que efetivamente compromete confidencialidade, integridade ou disponibilidade.",
+     "dispositivo": "Conceito técnico; Decreto 11.856/2023"
+    },
+    {
+     "frente": "Prazos de guarda do Marco Civil",
+     "verso": "Registros de conexão: 1 ano (provedor de conexão). Registros de acesso a aplicações: 6 meses (provedor de aplicação PJ com fins econômicos). Acesso só com ordem judicial.",
+     "dispositivo": "Lei 12.965/2014, arts. 13 e 15"
+    },
+    {
+     "frente": "Hash",
+     "verso": "Resumo matemático único de um arquivo; qualquer alteração muda o valor. Prova a integridade da evidência digital.",
+     "dispositivo": "CPP, arts. 158-A a 158-F"
+    },
+    {
+     "frente": "Art. 171-A do CP",
+     "verso": "Fraude com ativos virtuais, valores mobiliários ou ativos financeiros: reclusão de 4 a 8 anos e multa.",
+     "dispositivo": "Código Penal, art. 171-A (Lei 14.478/2022)"
+    },
+    {
+     "frente": "Fraude eletrônica e furto mediante fraude eletrônica",
+     "verso": "Art. 171, § 2º-A e art. 155, § 4º-B: reclusão de 4 a 8 anos; aumento se servidor fora do país ou vítima idosa/vulnerável.",
+     "dispositivo": "Código Penal (Lei 14.155/2021)"
+    },
+    {
+     "frente": "Convenção de Budapeste",
+     "verso": "Promulgada pelo Decreto 11.491/2023: tipos penais harmonizados, preservação expedita de dados e rede 24/7.",
+     "dispositivo": "Decreto 11.491/2023"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "jf-nuvem-ciberseguranca-prova-digital-q01",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "Na administração de provedor de conexão à internet, cabe ao respectivo administrador do sistema manter os registros de conexão, sob sigilo, em ambiente controlado e de segurança, pelo prazo de 6 meses.",
+     "gabarito": "E",
+     "comentario": "Errado. O prazo do provedor de conexão é de 1 ano (art. 13). O prazo de 6 meses é o do provedor de aplicação para os registros de acesso (art. 15).",
+     "dispositivo": "Lei 12.965/2014, arts. 13 e 15"
+    },
+    {
+     "id": "jf-nuvem-ciberseguranca-prova-digital-q02",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Após a Lei 14.155/2021, a configuração do crime de invasão de dispositivo informático deixou de exigir a violação indevida de mecanismo de segurança.",
+     "gabarito": "C",
+     "comentario": "Certo. A nova redação do art. 154-A suprimiu essa elementar e elevou a pena para reclusão de 1 a 4 anos e multa.",
+     "dispositivo": "Código Penal, art. 154-A, com redação da Lei 14.155/2021"
+    },
+    {
+     "id": "jf-nuvem-ciberseguranca-prova-digital-q03",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Deep web e dark web são expressões sinônimas que designam o ambiente da internet usado exclusivamente para atividades ilícitas.",
+     "gabarito": "E",
+     "comentario": "Errado. Deep web é o conteúdo não indexado por buscadores, em grande parte lícito (e-mails, sistemas internos). Dark web é uma porção dela acessível por softwares de anonimização.",
+     "dispositivo": "Conceito técnico"
+    },
+    {
+     "id": "jf-nuvem-ciberseguranca-prova-digital-q04",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Segundo o CPP, a cadeia de custódia compreende o rastreamento do vestígio desde o reconhecimento até o descarte, incluindo, entre outras etapas, isolamento, fixação, coleta, acondicionamento, transporte, processamento e armazenamento.",
+     "gabarito": "C",
+     "comentario": "Certo. Os arts. 158-A e 158-B definem o instituto e enumeram as dez etapas.",
+     "dispositivo": "CPP, arts. 158-A e 158-B (Lei 13.964/2019)"
+    },
+    {
+     "id": "jf-nuvem-ciberseguranca-prova-digital-q05",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "Em ação penal por fraude bancária eletrônica, a acusação juntou imagens de tela de conversas extraídas do celular do réu, sem registro do procedimento de extração e sem cálculo de hash.",
+     "enunciado": "A ausência de documentação dos procedimentos que assegurem a integridade da prova digital é irrelevante, pois a prova eletrônica goza de presunção de veracidade.",
+     "gabarito": "E",
+     "comentario": "Errado. Não há presunção de veracidade da prova digital. O STJ reconheceu a inadmissibilidade de provas digitais extraídas sem documentação que garantisse sua integridade (RHC 143.169/RJ). O hash é o meio técnico de demonstrar que o arquivo não foi alterado.",
+     "dispositivo": "CPP, arts. 158-A a 158-F; STJ, RHC 143.169/RJ, Quinta Turma, 2023"
+    },
+    {
+     "id": "jf-nuvem-ciberseguranca-prova-digital-q06",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "A Lei 9.613/1998 prevê aumento de pena de 1/3 a 2/3 quando a lavagem de dinheiro for cometida por meio da utilização de ativo virtual.",
+     "gabarito": "C",
+     "comentario": "Certo. A Lei 14.478/2022 incluiu a hipótese no § 4º do art. 1º, ao lado da reiteração e da organização criminosa.",
+     "dispositivo": "Lei 9.613/1998, art. 1º, § 4º, com redação da Lei 14.478/2022"
+    },
+    {
+     "id": "jf-nuvem-ciberseguranca-prova-digital-q07",
+     "tipo": "me",
+     "dificuldade": "media",
+     "texto_base": "Paulo, residente em Mossoró/RN, foi induzido por mensagem falsa a transferir valores via Pix para conta mantida em Curitiba/PR por um golpista que se apresentava como funcionário do banco.",
+     "enunciado": "Quanto à tipificação e à competência territorial, assinale a opção correta.",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "Trata-se, em tese, de fraude eletrônica, e a competência é do foro do domicílio da vítima.",
+      "B": "Trata-se de furto qualificado, com competência do local da agência destinatária.",
+      "C": "Trata-se de invasão de dispositivo informático, com competência do local do servidor do aplicativo.",
+      "D": "Trata-se de estelionato simples, com competência do local onde o golpista obteve a vantagem.",
+      "E": "A competência é sempre da Justiça Federal, por envolver transferência bancária."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta: a vítima foi induzida em erro por meio eletrônico (art. 171, § 2º-A) e, havendo transferência de valores, aplica-se o art. 70, § 4º, do CPP.",
+      "B": "Errada: a vítima entregou o valor enganada; no furto mediante fraude a fraude apenas reduz a vigilância, sem entrega voluntária.",
+      "C": "Errada: não houve invasão de dispositivo.",
+      "D": "Errada: há qualificadora da fraude eletrônica e regra especial de competência.",
+      "E": "Errada: fraude contra correntista de banco privado não atrai, por si, a competência federal (CF, art. 109, IV)."
+     },
+     "comentario": "A Lei 14.155/2021 criou a fraude eletrônica e a regra de competência pelo domicílio da vítima nas fraudes com transferência de valores.",
+     "dispositivo": "Código Penal, art. 171, § 2º-A; CPP, art. 70, § 4º"
+    },
+    {
+     "id": "jf-nuvem-ciberseguranca-prova-digital-q08",
+     "tipo": "me",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Sobre criptoativos e cooperação contra o cibercrime, assinale a opção correta.",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "Moeda estrangeira mantida em conta digital é considerada ativo virtual pela Lei 14.478/2022.",
+      "B": "O art. 171-A do CP pune apenas fraudes com criptoativos, não alcançando valores mobiliários.",
+      "C": "A Convenção de Budapeste ainda não foi internalizada no Brasil.",
+      "D": "A Convenção de Budapeste prevê preservação expedita de dados e rede de contato permanente (24/7) para cooperação.",
+      "E": "A Política Nacional de Cibersegurança foi instituída por lei ordinária."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Errada: moeda nacional e moedas estrangeiras estão expressamente excluídas do conceito.",
+      "B": "Errada: o tipo abrange ativos virtuais, valores mobiliários e quaisquer ativos financeiros.",
+      "C": "Errada: foi promulgada pelo Decreto 11.491/2023.",
+      "D": "Correta: são instrumentos centrais da Convenção.",
+      "E": "Errada: a PNCiber foi instituída pelo Decreto 11.856/2023."
+     },
+     "comentario": "Lei 14.478/2022 (conceito de ativo virtual e art. 171-A do CP), Decreto 11.491/2023 e Decreto 11.856/2023.",
+     "dispositivo": "Lei 14.478/2022, art. 3º; CP, art. 171-A; Decretos 11.491/2023 e 11.856/2023"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O provedor de aplicações de internet constituído como pessoa jurídica com fins econômicos deve guardar os registros de acesso pelo prazo de ___.",
+     "opcoes": [
+      "6 meses",
+      "1 ano",
+      "2 anos",
+      "3 meses"
+     ],
+     "respostas": [
+      "6 meses"
+     ],
+     "explicacao": "Lei 12.965/2014, art. 15."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Nas fraudes do art. 171 praticadas mediante transferência de valores, a competência é definida pelo domicílio da ___.",
+     "opcoes": [
+      "vítima",
+      "réu",
+      "instituição financeira",
+      "agência destinatária"
+     ],
+     "respostas": [
+      "vítima"
+     ],
+     "explicacao": "CPP, art. 70, § 4º, incluído pela Lei 14.155/2021."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene as primeiras etapas da cadeia de custódia previstas no CPP.",
+     "itens": [
+      "Reconhecimento",
+      "Isolamento",
+      "Fixação",
+      "Coleta",
+      "Acondicionamento"
+     ],
+     "explicacao": "CPP, art. 158-B, I a V; seguem transporte, recebimento, processamento, armazenamento e descarte."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Lei 12.737/2012",
+       "Criou a invasão de dispositivo informático (art. 154-A do CP)"
+      ],
+      [
+       "Lei 14.155/2021",
+       "Fraude eletrônica e competência pelo domicílio da vítima"
+      ],
+      [
+       "Lei 14.478/2022",
+       "Ativos virtuais e art. 171-A do CP"
+      ],
+      [
+       "Decreto 11.856/2023",
+       "Política Nacional de Cibersegurança"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

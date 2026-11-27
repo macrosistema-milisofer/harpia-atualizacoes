@@ -1,0 +1,217 @@
+{
+ "assunto": "Direito Digital – Inteligência artificial e Direito: governança, vieses e responsabilização",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-27",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "jf-nuvem-ia-e-direito-governanca",
+   "titulo": "IA e Direito: algoritmos, risco e responsabilidade",
+   "microconteudo": "RAIO-X DA PROVA: O Cebraspe tende a cobrar a diferença entre transparência, explicabilidade e auditabilidade, o alcance do art. 20 da LGPD e a lógica de classificação por risco. A pegadinha típica é afirmar que a LGPD exige revisão por pessoa natural ou que excluir a variável sensível elimina a discriminação algorítmica.\n\nPOR QUE IMPORTA:\nSistemas de inteligência artificial já triam petições, agrupam processos repetitivos, apontam fraudes em benefícios e sugerem quem deve ser fiscalizado. Na Justiça Federal, isso toca diretamente o INSS, a Receita, a Caixa e o próprio tribunal. O juiz federal precisa saber o que é um algoritmo de aprendizado de máquina, por que ele pode discriminar sem que ninguém tenha a intenção de discriminar e quais deveres de transparência, supervisão humana e responsabilização recaem sobre quem usa a ferramenta, seja a Administração, seja o Judiciário.\n\nO QUE A BANCA COBRA:\n• Conceitos: algoritmo, aprendizado de máquina (supervisionado, não supervisionado, por reforço), IA generativa e o problema da opacidade (\"caixa-preta\").\n• Governança baseada em risco: Resolução CNJ nº 615/2025 (risco excessivo vedado, alto e baixo risco) e a lógica do PL 2.338/2023.\n• Art. 20 da LGPD: revisão de decisões tomadas unicamente com base em tratamento automatizado, informações sobre critérios e auditoria pela ANPD.\n• Princípio da não discriminação (LGPD, art. 6º, IX) e as formas de discriminação algorítmica: dados enviesados, variáveis substitutas (proxies) e efeitos de retroalimentação.\n• Transparência x explicabilidade x auditabilidade; supervisão humana efetiva.\n• Responsabilização: a ferramenta não é sujeito de direito; responde quem a desenvolve, contrata ou usa, e o Estado responde objetivamente (CF, art. 37, § 6º).\n\nENTENDA:\n1) Do algoritmo ao modelo\nAlgoritmo é uma sequência finita de instruções para resolver um problema. Um sistema tradicional segue regras escritas por pessoas (\"se o segurado tem 65 anos e 180 contribuições, defira\"). No aprendizado de máquina, o programador não escreve todas as regras: o sistema recebe grande volume de dados e ajusta parâmetros até encontrar padrões que permitam prever ou classificar. No aprendizado supervisionado, os dados vêm rotulados (petições já classificadas por assunto); no não supervisionado, o sistema agrupa sem rótulos (clusters de processos semelhantes); no aprendizado por reforço, aprende por tentativa, recompensa e penalidade. As redes neurais profundas permitem desempenho alto, mas tornam difícil explicar por que um resultado específico foi produzido. A IA generativa é uma espécie desse gênero: em vez de classificar, produz conteúdo novo (texto, imagem, código) a partir de padrões estatísticos, o que explica a fluência e também o risco de afirmações falsas convincentes.\n\n2) Transparência, explicabilidade e auditabilidade\nOs três termos não são sinônimos. Transparência é saber que a IA está sendo usada, para quê e com quais limites. Explicabilidade é a possibilidade de compreender, em termos inteligíveis, os fatores que levaram a determinado resultado. Auditabilidade é a possibilidade de um terceiro independente verificar o sistema: dados de treinamento, métricas de desempenho, registros de uso (logs) e testes de viés. Uma ferramenta pode ser transparente (todos sabem que existe) e, ainda assim, inexplicável e não auditável. Para o Direito, a explicabilidade se conecta ao contraditório e ao dever de motivação: ninguém consegue impugnar critério que não conhece.\n\n3) LGPD, art. 20\nO titular tem direito de solicitar a revisão de decisões tomadas unicamente com base em tratamento automatizado de dados pessoais que afetem seus interesses, inclusive as que definem perfil pessoal, profissional, de consumo e de crédito ou aspectos de sua personalidade. O controlador deve fornecer, quando solicitado, informações claras e adequadas sobre critérios e procedimentos utilizados, observados os segredos comercial e industrial (§ 1º). Se não as fornecer com base nesse segredo, a ANPD poderá realizar auditoria para verificar aspectos discriminatórios (§ 2º). Atenção: a redação vigente não exige que a revisão seja feita por pessoa natural; a exigência constava de texto anterior e foi vetada. Somam-se os princípios da transparência (art. 6º, VI) e da não discriminação, que proíbe tratamento para fins discriminatórios ilícitos ou abusivos (art. 6º, IX).\n\n4) Discriminação algorítmica\nO viés raramente está numa linha de código que diga \"discrimine\". Ele nasce de três fontes principais. (a) Dados históricos enviesados: se o sistema aprende com fiscalizações passadas concentradas em certos bairros, tenderá a apontar de novo os mesmos bairros. (b) Variáveis substitutas (proxies): excluir a variável \"raça\" não basta se o CEP, a escola ou o tipo de celular reproduzem a mesma separação. (c) Retroalimentação: a previsão gera mais fiscalização onde já havia, o que gera mais dados confirmando a previsão. O resultado pode ser discriminação indireta, vedada mesmo sem intenção, à luz da igualdade material (CF, art. 3º, IV, e art. 5º, caput) e da Convenção Interamericana contra o Racismo, que tem status de emenda constitucional. Por isso as normas exigem testes de viés antes e durante o uso, e não só correção depois do dano.\n\n5) Governança baseada em risco\nA Resolução CNJ nº 615/2025 adota classificação por risco. Soluções de risco excessivo são vedadas no Judiciário (art. 10), como as que pretendam prever crimes a partir de traços de personalidade ou classificar pessoas por comportamento social. As demais são enquadradas como de alto ou baixo risco (art. 11 e Anexo), e as de alto risco exigem controles reforçados, como avaliação de impacto algorítmico, monitoramento contínuo e supervisão humana. O PL 2.338/2023, aprovado pelo Senado em dezembro de 2024, segue a mesma lógica (risco excessivo proibido, alto risco com obrigações adicionais, direitos de explicação, contestação e revisão humana) e propõe um sistema nacional de regulação e governança coordenado pela ANPD; na data desta consulta ainda tramitava na Câmara, sem conversão em lei. No Executivo federal, a Estratégia Brasileira de Inteligência Artificial (EBIA, Portaria MCTI nº 4.617/2021) é documento de política pública, sem força de lei para impor sanções.\n\n6) Uso pelo Poder Público e responsabilização\nQuando a Administração usa IA para decidir ou para preparar decisão, continuam valendo legalidade, impessoalidade, publicidade, motivação e devido processo. Um benefício negado por indicação automática precisa de motivação compreensível e de via de revisão. Supervisão humana efetiva significa que o servidor ou o juiz tem competência, informação e tempo para discordar do sistema; carimbar o resultado sem exame (\"viés de automação\") não é supervisão. A IA não é pessoa e não responde por nada: o Estado responde objetivamente pelos danos causados por seus agentes (CF, art. 37, § 6º), com regresso contra o responsável em caso de dolo ou culpa, e o fornecedor privado pode responder contratualmente e, perante o consumidor, nos termos do CDC.\n\n7) Para não errar na prova\n• IA generativa é espécie de IA; nem toda IA é generativa.\n• Explicabilidade não se confunde com divulgação do código-fonte.\n• O art. 20 da LGPD fala em decisão unicamente automatizada e admite limite pelo segredo comercial, com auditoria da ANPD.\n• Retirar a variável sensível não elimina a discriminação: proxies.\n• Supervisão humana formal, sem capacidade real de revisão, não atende às normas.",
+   "flashcards": [
+    {
+     "frente": "Transparência x explicabilidade x auditabilidade",
+     "verso": "Saber que a IA é usada e para quê; entender os fatores do resultado; permitir verificação independente de dados, métricas e registros.",
+     "dispositivo": "Resolução CNJ nº 615/2025"
+    },
+    {
+     "frente": "Art. 20 da LGPD",
+     "verso": "Direito de revisão de decisão unicamente automatizada; informações sobre critérios, ressalvado segredo comercial; auditoria da ANPD para aspectos discriminatórios.",
+     "dispositivo": "Lei 13.709/2018, art. 20"
+    },
+    {
+     "frente": "Proxy (variável substituta)",
+     "verso": "Dado aparentemente neutro (CEP, escola) que se correlaciona com característica protegida e reproduz discriminação.",
+     "dispositivo": "Lei 13.709/2018, art. 6º, IX"
+    },
+    {
+     "frente": "Risco excessivo no Judiciário",
+     "verso": "Soluções vedadas, como prever crimes por traços de personalidade ou classificar pessoas por comportamento social.",
+     "dispositivo": "Resolução CNJ nº 615/2025, art. 10"
+    },
+    {
+     "frente": "Viés de automação",
+     "verso": "Tendência de aceitar o resultado do sistema sem exame crítico; anula a supervisão humana efetiva.",
+     "dispositivo": "Resolução CNJ nº 615/2025 (supervisão humana)"
+    },
+    {
+     "frente": "Quem responde pelo dano da IA estatal",
+     "verso": "O Estado, objetivamente, com regresso contra o agente em caso de dolo ou culpa.",
+     "dispositivo": "CF, art. 37, § 6º"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "jf-nuvem-ia-e-direito-governanca-q01",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "No aprendizado de máquina supervisionado, o sistema é treinado com dados previamente rotulados, a partir dos quais ajusta seus parâmetros para classificar ou prever novos casos.",
+     "gabarito": "C",
+     "comentario": "Certo. O rótulo (a resposta conhecida) é o que caracteriza o aprendizado supervisionado; no não supervisionado o sistema apenas agrupa dados sem rótulo.",
+     "dispositivo": "Conceito técnico; Resolução CNJ nº 615/2025, art. 4º (definições)"
+    },
+    {
+     "id": "jf-nuvem-ia-e-direito-governanca-q02",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Segundo a LGPD, o titular pode solicitar a revisão de decisões tomadas unicamente com base em tratamento automatizado de dados pessoais que afetem seus interesses, revisão que deve, obrigatoriamente, ser realizada por pessoa natural.",
+     "gabarito": "E",
+     "comentario": "Errado. O direito de revisão está no art. 20, caput, mas a redação vigente não exige revisão por pessoa natural; essa exigência foi vetada.",
+     "dispositivo": "Lei 13.709/2018, art. 20, caput"
+    },
+    {
+     "id": "jf-nuvem-ia-e-direito-governanca-q03",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Se o controlador se recusar a fornecer informações sobre os critérios da decisão automatizada com fundamento em segredo comercial e industrial, a ANPD poderá realizar auditoria para verificar aspectos discriminatórios no tratamento.",
+     "gabarito": "C",
+     "comentario": "Certo. É o teor do § 2º do art. 20 da LGPD, que equilibra segredo de negócio e controle de discriminação.",
+     "dispositivo": "Lei 13.709/2018, art. 20, §§ 1º e 2º"
+    },
+    {
+     "id": "jf-nuvem-ia-e-direito-governanca-q04",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "Um órgão federal retirou a variável 'cor/raça' do sistema que indica contribuintes para fiscalização, mas manteve o CEP e a renda declarada, que se correlacionam fortemente com a composição racial dos bairros.",
+     "enunciado": "A exclusão da variável sensível afasta, por si só, a possibilidade de discriminação algorítmica, pois o sistema deixa de considerar a raça na classificação.",
+     "gabarito": "E",
+     "comentario": "Errado. Variáveis substitutas (proxies) podem reproduzir o mesmo efeito discriminatório. A discriminação indireta é vedada ainda que não haja intenção, e o princípio da não discriminação da LGPD alcança o resultado do tratamento.",
+     "dispositivo": "Lei 13.709/2018, art. 6º, IX; CF, art. 3º, IV"
+    },
+    {
+     "id": "jf-nuvem-ia-e-direito-governanca-q05",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Transparência, explicabilidade e auditabilidade são expressões equivalentes: um sistema de IA cujo uso foi publicamente divulgado é, por isso, explicável e auditável.",
+     "gabarito": "E",
+     "comentario": "Errado. Transparência é saber que a IA é usada e para quê; explicabilidade é compreender os fatores do resultado; auditabilidade é a possibilidade de verificação independente de dados, métricas e registros. São exigências distintas.",
+     "dispositivo": "Resolução CNJ nº 615/2025 (princípios de transparência, explicabilidade e auditabilidade)"
+    },
+    {
+     "id": "jf-nuvem-ia-e-direito-governanca-q06",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "Pelos danos causados a particulares por sistema de IA utilizado por autarquia federal na concessão de benefícios, responde objetivamente a autarquia, assegurado o direito de regresso contra o agente responsável nos casos de dolo ou culpa.",
+     "gabarito": "C",
+     "comentario": "Certo. A IA não é sujeito de direito. A responsabilidade estatal por atos de seus agentes é objetiva, com regresso em caso de dolo ou culpa.",
+     "dispositivo": "CF, art. 37, § 6º"
+    },
+    {
+     "id": "jf-nuvem-ia-e-direito-governanca-q07",
+     "tipo": "me",
+     "dificuldade": "media",
+     "texto_base": "Um tribunal pretende contratar ferramenta que atribua a cada réu uma pontuação de periculosidade com base em traços de personalidade e em histórico social, para orientar decisões sobre prisão preventiva.",
+     "enunciado": "À luz da Resolução CNJ nº 615/2025, assinale a opção correta.",
+     "gabarito": "C",
+     "alternativas": {
+      "A": "A ferramenta é permitida se classificada como de baixo risco pelo próprio fornecedor.",
+      "B": "A ferramenta é permitida se o juiz puder discordar da pontuação, pois isso basta como supervisão humana.",
+      "C": "Soluções desse tipo enquadram-se entre as de risco excessivo, vedadas no Judiciário.",
+      "D": "A ferramenta é permitida desde que o código-fonte seja publicado.",
+      "E": "A Resolução não trata de classificação de risco, matéria reservada ao PL 2.338/2023."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Errada: a classificação decorre da norma, não da autodeclaração do fornecedor.",
+      "B": "Errada: supervisão humana não legitima solução vedada.",
+      "C": "Correta: prever conduta ou valorar pessoas a partir de traços de personalidade ou comportamento social está entre as hipóteses de risco excessivo (art. 10).",
+      "D": "Errada: publicidade do código não afasta a vedação.",
+      "E": "Errada: a Resolução adota expressamente categorias de risco (arts. 10 e 11 e Anexo)."
+     },
+     "comentario": "A Resolução CNJ nº 615/2025 veda soluções de risco excessivo, entre elas as que valoram traços de personalidade ou comportamento social para prever condutas ou avaliar pessoas.",
+     "dispositivo": "Resolução CNJ nº 615/2025, arts. 10 e 11"
+    },
+    {
+     "id": "jf-nuvem-ia-e-direito-governanca-q08",
+     "tipo": "me",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Sobre a regulação da inteligência artificial no Brasil, assinale a opção correta.",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "O PL 2.338/2023 já foi convertido em lei e criou agência reguladora própria para a IA.",
+      "B": "O PL 2.338/2023, aprovado pelo Senado, adota abordagem baseada em risco e prevê direitos como explicação, contestação e revisão humana.",
+      "C": "A Estratégia Brasileira de Inteligência Artificial é lei federal que tipifica infrações e sanções administrativas.",
+      "D": "A LGPD não tem aplicação a sistemas de IA, que se regem apenas por resoluções setoriais.",
+      "E": "A Resolução CNJ nº 615/2025 aplica-se a toda a Administração Pública federal."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Errada: até a consulta (27/11/2026) o projeto tramitava na Câmara, sem conversão em lei.",
+      "B": "Correta: é a lógica do texto aprovado pelo Senado em dezembro de 2024.",
+      "C": "Errada: a EBIA foi instituída por portaria do MCTI e é documento de política pública.",
+      "D": "Errada: sempre que há tratamento de dados pessoais, a LGPD incide, inclusive o art. 20.",
+      "E": "Errada: a Resolução do CNJ alcança os órgãos do Poder Judiciário."
+     },
+     "comentario": "O marco legal da IA ainda não foi promulgado; hoje o tema é regido pela LGPD, por normas setoriais (como a Resolução CNJ nº 615/2025) e por princípios constitucionais.",
+     "dispositivo": "PL 2.338/2023 (Senado Federal); Portaria MCTI nº 4.617/2021; Lei 13.709/2018"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "No aprendizado ___, o sistema agrupa dados sem rótulos prévios, formando conjuntos de casos semelhantes.",
+     "opcoes": [
+      "não supervisionado",
+      "supervisionado",
+      "por reforço",
+      "simbólico"
+     ],
+     "respostas": [
+      "não supervisionado"
+     ],
+     "explicacao": "Sem rótulos, o modelo encontra padrões e agrupamentos por conta própria."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Se o controlador negar informações com base em segredo comercial, a ___ poderá realizar auditoria para verificar aspectos discriminatórios.",
+     "opcoes": [
+      "ANPD",
+      "CGU",
+      "CNJ",
+      "Receita Federal"
+     ],
+     "respostas": [
+      "ANPD"
+     ],
+     "explicacao": "Lei 13.709/2018, art. 20, § 2º."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o ciclo de retroalimentação que agrava um viés algorítmico.",
+     "itens": [
+      "Dados históricos concentram fiscalizações em certos grupos",
+      "O modelo aprende a apontar esses mesmos grupos",
+      "A fiscalização se intensifica onde o modelo aponta",
+      "Novos dados confirmam a previsão e reforçam o viés"
+     ],
+     "explicacao": "O viés se autoalimenta; por isso as normas exigem testes contínuos, não só correção posterior."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Art. 20 da LGPD",
+       "Revisão de decisão automatizada"
+      ],
+      [
+       "Art. 6º, IX, da LGPD",
+       "Não discriminação"
+      ],
+      [
+       "Art. 10 da Res. CNJ 615/2025",
+       "Soluções de risco excessivo vedadas"
+      ],
+      [
+       "Art. 37, § 6º, da CF",
+       "Responsabilidade objetiva do Estado"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

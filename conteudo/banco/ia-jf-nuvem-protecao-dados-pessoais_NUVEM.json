@@ -1,0 +1,218 @@
+{
+ "assunto": "Direito Digital – Proteção de dados pessoais (LGPD)",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-27",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "jf-nuvem-protecao-dados-pessoais",
+   "titulo": "LGPD na Justiça Federal: bases, direitos e responsabilidade",
+   "microconteudo": "RAIO-X DA PROVA: O Cebraspe cobra as bases legais (especialmente a diferença entre dados comuns e sensíveis), os direitos do titular, a responsabilidade solidária dos agentes e as teses da ADI 6387 e da ADI 6649. A pegadinha típica é tratar o consentimento como base obrigatória ou admitir legítimo interesse para dados sensíveis.\n\nPOR QUE IMPORTA:\nA Justiça Federal é, ao mesmo tempo, grande controladora de dados (processos, perícias médicas previdenciárias, dados fiscais e bancários) e o foro natural de ações contra a União, o INSS e a própria autoridade de proteção de dados. O juiz federal precisa saber quando um tratamento é lícito, quem responde por um vazamento e como o Estado pode compartilhar bases de cidadãos sem violar um direito que hoje é fundamental e expresso na Constituição.\n\nO QUE A BANCA COBRA:\n• Fundamentos e princípios (arts. 2º e 6º) e conceitos de dado pessoal, sensível, anonimizado, controlador, operador e encarregado (art. 5º).\n• As dez bases legais do art. 7º e as hipóteses mais estreitas para dados sensíveis (art. 11), além do regime de crianças e adolescentes (art. 14).\n• Direitos do titular (art. 18) e revisão de decisões automatizadas (art. 20).\n• Tratamento e uso compartilhado pelo Poder Público (arts. 23 a 30) e o julgamento da ADI 6649 e da ADPF 695.\n• Segurança, comunicação de incidentes (arts. 46 a 48), responsabilidade civil (arts. 42 a 45) e sanções administrativas (art. 52).\n• EC 115/2022, a ANPD como agência reguladora e a Resolução CNJ 363/2021.\n\nENTENDA:\n1) Fundamento constitucional e conceitos\nA EC 115/2022 inseriu no art. 5º o inciso LXXIX, que assegura o direito à proteção dos dados pessoais, inclusive nos meios digitais. Atribuiu à União a competência para organizar e fiscalizar a proteção e o tratamento de dados (art. 21, XXVI) e a competência privativa para legislar sobre o tema (art. 22, XXX). Antes disso, o STF já havia reconhecido a proteção de dados como direito autônomo ao suspender, em 2020, o compartilhamento de dados de usuários de telefonia com o IBGE (ADI 6387 e conexas).\nA LGPD define dado pessoal como a informação relacionada a pessoa natural identificada ou identificável. Dado sensível é o que trata de origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou organização religiosa, filosófica ou política, saúde ou vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural. Dado anonimizado, em regra, fica fora da lei, salvo se o processo de anonimização puder ser revertido com esforços razoáveis.\nOs agentes de tratamento são o controlador, a quem competem as decisões sobre o tratamento, e o operador, que trata em nome do controlador. O encarregado é o canal de comunicação entre controlador, titulares e a autoridade.\n\n2) Princípios\nAlém da boa-fé, o art. 6º lista: finalidade, adequação, necessidade, livre acesso, qualidade dos dados, transparência, segurança, prevenção, não discriminação e responsabilização e prestação de contas. Na prática, o mais cobrado é o trio finalidade, adequação e necessidade: só se coleta o mínimo indispensável para um propósito legítimo, específico e informado.\n\n3) Bases legais\nO art. 7º prevê dez bases: consentimento; cumprimento de obrigação legal ou regulatória; execução de políticas públicas pela administração; estudos por órgão de pesquisa; execução de contrato; exercício regular de direitos em processo judicial, administrativo ou arbitral; proteção da vida; tutela da saúde por profissionais ou serviços de saúde; legítimo interesse; e proteção do crédito. O consentimento não é a base principal nem obrigatória: é uma entre dez.\nPara dados sensíveis (art. 11), o consentimento deve ser específico e destacado, e as hipóteses sem consentimento são mais restritas. Não há legítimo interesse nem proteção do crédito, e aparece a garantia da prevenção à fraude e da segurança do titular em processos de identificação. Dados de crianças exigem consentimento específico de pelo menos um dos pais ou do responsável, sempre no melhor interesse (art. 14).\nExemplo: o INSS usa dados de saúde de segurado para perícia de benefício por incapacidade. A base é a execução de política pública ou o cumprimento de obrigação legal, não o consentimento.\n\n4) Direitos do titular\nO titular pode obter do controlador confirmação da existência de tratamento, acesso, correção, anonimização, bloqueio ou eliminação de dados desnecessários, portabilidade, eliminação dos dados tratados com consentimento, informação sobre compartilhamentos, informação sobre a possibilidade de não consentir e revogação do consentimento (art. 18). Pode, ainda, pedir a revisão de decisões tomadas unicamente com base em tratamento automatizado que afetem seus interesses (art. 20).\n\n5) Poder Público e compartilhamento\nO Poder Público trata dados para atender a sua finalidade pública, na persecução do interesse público, para executar competências legais, informando as hipóteses de tratamento e indicando encarregado (art. 23). O uso compartilhado deve atender a finalidades específicas de execução de políticas públicas e atribuição legal, respeitados os princípios (art. 26).\nNo julgamento da ADI 6649 e da ADPF 695 (2022), o STF validou o compartilhamento de dados entre órgãos federais previsto no Decreto 10.046/2019, mas mediante requisitos: propósito legítimo, específico e explícito; compatibilidade com a finalidade; limitação ao mínimo necessário; transparência; e observância da LGPD. Também afirmou a responsabilidade civil do Estado por danos decorrentes de tratamento indevido e determinou ajustes na governança do comitê central de dados.\n\n6) Poder Judiciário\nA LGPD se aplica aos tribunais, que tratam dados para exercer a jurisdição. A Resolução CNJ 363/2021 estabeleceu medidas de adequação para os tribunais, como comitê gestor de proteção de dados, encarregado, política de privacidade, mapeamento de dados e plano de resposta a incidentes. A publicidade dos atos processuais convive com a proteção de dados: o segredo de justiça e a minimização em consultas públicas são instrumentos dessa conciliação.\n\n7) Segurança, incidentes e responsabilidade\nOs agentes devem adotar medidas de segurança técnicas e administrativas (art. 46). O controlador deve comunicar à autoridade e ao titular o incidente que possa acarretar risco ou dano relevante (art. 48); o regulamento da autoridade (Resolução CD/ANPD 15/2024) disciplina prazo e conteúdo dessa comunicação.\nNa responsabilidade civil, o controlador ou o operador que causar dano em violação à lei deve repará-lo. O operador responde solidariamente quando descumpre a lei ou as instruções lícitas do controlador, e os controladores diretamente envolvidos respondem solidariamente (art. 42). Excluem a responsabilidade: não ter realizado o tratamento, não ter havido violação à lei ou culpa exclusiva do titular ou de terceiro (art. 43). Cabe inversão do ônus da prova a favor do titular.\n\n8) Fiscalização e sanções\nA autoridade foi criada como órgão da Presidência, virou autarquia de natureza especial e, com a Lei 15.352/2026, passou a ser a Agência Nacional de Proteção de Dados, agência reguladora. As sanções do art. 52 vão de advertência a multa simples de até 2% do faturamento no Brasil, limitada a R$ 50 milhões por infração, multa diária, publicização, bloqueio, eliminação, suspensão do banco de dados ou da atividade e proibição do tratamento. Órgãos e entidades públicas não sofrem multa, mas estão sujeitos às demais sanções compatíveis.",
+   "flashcards": [
+    {
+     "frente": "Dado sensível",
+     "verso": "Origem racial ou étnica, religião, opinião política, filiação sindical ou a organização religiosa, filosófica ou política, saúde, vida sexual, dado genético ou biométrico.",
+     "dispositivo": "Lei 13.709/2018 (LGPD), art. 5º, II"
+    },
+    {
+     "frente": "Controlador x operador",
+     "verso": "Controlador decide sobre o tratamento; operador trata em nome dele. Encarregado é o canal com titulares e autoridade.",
+     "dispositivo": "Lei 13.709/2018 (LGPD), art. 5º, VI a VIII"
+    },
+    {
+     "frente": "Bases ausentes para dados sensíveis",
+     "verso": "Legítimo interesse e proteção do crédito. Entra a prevenção à fraude e segurança do titular.",
+     "dispositivo": "Lei 13.709/2018 (LGPD), arts. 7º e 11"
+    },
+    {
+     "frente": "Compartilhamento entre órgãos públicos",
+     "verso": "Válido com propósito legítimo, específico e explícito, mínimo necessário, transparência e respeito à LGPD (ADI 6649/ADPF 695).",
+     "dispositivo": "Lei 13.709/2018 (LGPD), art. 26; STF, ADI 6649"
+    },
+    {
+     "frente": "Teto da multa simples",
+     "verso": "Até 2% do faturamento no Brasil, limitada a R$ 50 milhões por infração; não se aplica a órgãos públicos.",
+     "dispositivo": "Lei 13.709/2018 (LGPD), art. 52, II e § 3º"
+    },
+    {
+     "frente": "Natureza atual da autoridade",
+     "verso": "Agência Nacional de Proteção de Dados, agência reguladora (Lei 15.352/2026).",
+     "dispositivo": "Lei 15.352/2026"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "jf-nuvem-protecao-dados-pessoais-q01",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "O consentimento do titular é requisito indispensável para qualquer tratamento de dados pessoais, inclusive pelo Poder Público.",
+     "gabarito": "E",
+     "comentario": "Errado. O consentimento é apenas uma das dez bases do art. 7º; o Poder Público usa sobretudo a execução de políticas públicas e o cumprimento de obrigação legal.",
+     "dispositivo": "Lei 13.709/2018 (LGPD), arts. 7º e 23"
+    },
+    {
+     "id": "jf-nuvem-protecao-dados-pessoais-q02",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "O legítimo interesse do controlador autoriza o tratamento de dado referente à saúde do titular, desde que respeitados os direitos fundamentais deste.",
+     "gabarito": "E",
+     "comentario": "Errado. O art. 11 não prevê legítimo interesse nem proteção do crédito como hipóteses de tratamento de dados sensíveis.",
+     "dispositivo": "Lei 13.709/2018 (LGPD), art. 11"
+    },
+    {
+     "id": "jf-nuvem-protecao-dados-pessoais-q03",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "A EC 115/2022 incluiu a proteção de dados pessoais entre os direitos fundamentais e fixou a competência privativa da União para legislar sobre o tema.",
+     "gabarito": "C",
+     "comentario": "Certo. Art. 5º, LXXIX, art. 21, XXVI, e art. 22, XXX, da Constituição.",
+     "dispositivo": "CF, arts. 5º, LXXIX, 21, XXVI, e 22, XXX (EC 115/2022)"
+    },
+    {
+     "id": "jf-nuvem-protecao-dados-pessoais-q04",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "Empresa terceirizada contratada por autarquia federal para digitalizar processos usa dados de segurados para oferecer empréstimos, contrariando as instruções recebidas.",
+     "enunciado": "A empresa responde solidariamente pelos danos causados aos titulares, por ter descumprido as instruções lícitas do controlador.",
+     "gabarito": "C",
+     "comentario": "Certo. O operador responde solidariamente quando descumpre a lei ou não segue as instruções lícitas do controlador, equiparando-se a controlador.",
+     "dispositivo": "Lei 13.709/2018 (LGPD), art. 42, § 1º, I"
+    },
+    {
+     "id": "jf-nuvem-protecao-dados-pessoais-q05",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "No julgamento da ADI 6649 e da ADPF 695, o STF declarou inconstitucional, por inteiro, o compartilhamento de dados pessoais entre órgãos da administração federal.",
+     "gabarito": "E",
+     "comentario": "Errado. O STF validou o compartilhamento, desde que observados requisitos como propósito legítimo e específico, mínimo necessário, transparência e respeito à LGPD.",
+     "dispositivo": "STF, ADI 6649 e ADPF 695 (2022)"
+    },
+    {
+     "id": "jf-nuvem-protecao-dados-pessoais-q06",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Órgãos públicos que violem a LGPD podem ser punidos pela autoridade nacional com advertência e publicização da infração, mas não com multa.",
+     "gabarito": "C",
+     "comentario": "Certo. O § 3º do art. 52 permite aplicar a entidades públicas sanções como advertência, publicização, bloqueio e eliminação, sem as multas.",
+     "dispositivo": "Lei 13.709/2018 (LGPD), art. 52, § 3º"
+    },
+    {
+     "id": "jf-nuvem-protecao-dados-pessoais-q07",
+     "tipo": "me",
+     "dificuldade": "media",
+     "texto_base": "Segurado do INSS teve benefício indeferido por sistema que cruzou automaticamente bases de dados, sem análise humana, e quer saber os critérios usados.",
+     "enunciado": "À luz da LGPD, assinale a opção correta.",
+     "gabarito": "C",
+     "alternativas": {
+      "A": "O segurado não tem direitos, porque o tratamento pelo Poder Público dispensa a LGPD.",
+      "B": "O segurado só pode questionar a decisão em juízo, pois a LGPD não prevê revisão administrativa.",
+      "C": "O segurado pode pedir a revisão da decisão automatizada e informações sobre os critérios utilizados, respeitados segredos comercial e industrial.",
+      "D": "O segurado pode exigir a eliminação de todos os seus dados previdenciários, por revogação do consentimento.",
+      "E": "O segurado deve primeiro reclamar à autoridade nacional, que é instância obrigatória antes do controlador."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Errada: a LGPD se aplica ao Poder Público (arts. 23 a 32).",
+      "B": "Errada: o art. 20 assegura revisão perante o controlador.",
+      "C": "Correta: art. 20, caput e § 1º.",
+      "D": "Errada: a base não é consentimento, e a eliminação não alcança dados exigidos por lei.",
+      "E": "Errada: o titular se dirige primeiro ao controlador; a petição à autoridade é alternativa, não prévia obrigatória."
+     },
+     "comentario": "Decisões unicamente automatizadas podem ser revistas, e o titular tem direito a informações claras sobre os critérios.",
+     "dispositivo": "Lei 13.709/2018 (LGPD), art. 20"
+    },
+    {
+     "id": "jf-nuvem-protecao-dados-pessoais-q08",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Sobre segurança, incidentes e fiscalização na LGPD, assinale a opção correta.",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "O controlador deve comunicar à autoridade nacional e ao titular o incidente que possa acarretar risco ou dano relevante aos titulares.",
+      "B": "Todo incidente, ainda que sem risco, deve ser comunicado imediatamente a todos os titulares do banco de dados.",
+      "C": "A multa simples é de até 10% do faturamento, sem limite em reais.",
+      "D": "A autoridade nacional continua sendo órgão sem autonomia, integrante da Presidência da República.",
+      "E": "A responsabilidade civil dos agentes de tratamento é afastada sempre que o incidente decorrer de ataque de terceiro."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta: art. 48, caput.",
+      "B": "Errada: a comunicação exigida é a do incidente que possa gerar risco ou dano relevante.",
+      "C": "Errada: o limite é de 2% do faturamento no Brasil, até R$ 50 milhões por infração (art. 52, II).",
+      "D": "Errada: a autoridade tornou-se agência reguladora (Lei 15.352/2026).",
+      "E": "Errada: a culpa exclusiva de terceiro exclui a responsabilidade, mas o agente que falhou na segurança responde (arts. 43 e 44)."
+     },
+     "comentario": "Incidente relevante exige comunicação à autoridade e ao titular; falhas de segurança mantêm a responsabilidade do agente.",
+     "dispositivo": "Lei 13.709/2018 (LGPD), arts. 43, 44, 48 e 52"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O tratamento de dados de crianças exige consentimento específico dado por pelo menos ___.",
+     "opcoes": [
+      "um dos pais ou o responsável legal",
+      "os dois pais, em conjunto",
+      "o Ministério Público",
+      "o juiz da infância"
+     ],
+     "respostas": [
+      "um dos pais ou o responsável legal"
+     ],
+     "explicacao": "LGPD, art. 14, § 1º."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "O operador responde ___ pelos danos quando descumpre a lei ou as instruções lícitas do controlador.",
+     "opcoes": [
+      "solidariamente",
+      "subsidiariamente",
+      "exclusivamente",
+      "apenas regressivamente"
+     ],
+     "respostas": [
+      "solidariamente"
+     ],
+     "explicacao": "LGPD, art. 42, § 1º, I."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene os marcos da proteção de dados no Brasil, do mais antigo ao mais recente.",
+     "itens": [
+      "LGPD (Lei 13.709/2018)",
+      "ADI 6387: suspensão do compartilhamento com o IBGE (2020)",
+      "Resolução CNJ 363/2021",
+      "EC 115/2022",
+      "Lei 15.352/2026: autoridade vira agência reguladora"
+     ],
+     "explicacao": "Cronologia dos atos citados na lição."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Art. 18 da LGPD",
+       "Direitos do titular"
+      ],
+      [
+       "Art. 20 da LGPD",
+       "Revisão de decisões automatizadas"
+      ],
+      [
+       "Art. 48 da LGPD",
+       "Comunicação de incidente de segurança"
+      ],
+      [
+       "Art. 43 da LGPD",
+       "Excludentes de responsabilidade"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

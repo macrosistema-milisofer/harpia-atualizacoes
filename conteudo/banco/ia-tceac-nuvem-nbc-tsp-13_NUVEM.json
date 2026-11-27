@@ -1,0 +1,218 @@
+{
+ "assunto": "Contabilidade Pública – NBC TSP 13: informação orçamentária nas demonstrações contábeis",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-27",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-nuvem-nbc-tsp-13",
+   "titulo": "Orçado x realizado: a NBC TSP 13 na prestação de contas",
+   "microconteudo": "RAIO-X DA PROVA: O Cebraspe tende a cobrar o alcance (a norma não obriga a publicar orçamento), as definições de orçamento original, final e base comparável, a regra das colunas adicionais e a conciliação com os fluxos de caixa. A pegadinha típica é permitir colunas adicionais sem base comparável ou trocar os três tipos de diferença (regime, temporal e de entidade).\n\nPOR QUE IMPORTA:\nNo setor público, o orçamento é a autorização do Legislativo para arrecadar e gastar. Mostrar nas demonstrações contábeis o que foi orçado ao lado do que foi efetivamente executado é o que fecha o ciclo de prestação de contas e responsabilização (accountability). A NBC TSP 13 (R1), elaborada de acordo com a IPSAS 24, organiza essa comparação. Para quem vai julgar contas de governo no TCE/AC, ela é a ponte entre a contabilidade patrimonial (por competência) e a execução orçamentária que a Lei 4.320/1964 e a LRF já exigem demonstrar.\n\nO QUE A BANCA COBRA:\n• Objetivo: comparar valores orçados com realizados e explicar as diferenças materiais (item 1).\n• Alcance: entidades que, por obrigação ou opção, tornam público o orçamento aprovado; a norma não obriga ninguém a publicar orçamento (itens 3 a 5A).\n• Definições: orçamento original, orçamento final, orçamento aprovado, plurianual, regime orçamentário e base comparável (item 7).\n• Conteúdo mínimo da comparação: orçamento original e final, realizado em base comparável e explicação das diferenças materiais (item 14).\n• Forma: demonstração adicional ou colunas adicionais, estas só quando houver base comparável (itens 21 a 23).\n• Notas explicativas: regime e classificação do orçamento, período e entidades abrangidas (itens 39, 43 e 45).\n• Conciliação entre realizado orçamentário e demonstrações, com diferenças de regime, temporais e de entidade (itens 47 e 48).\n• Vigência da versão R1 e dispensa de comparativo do período anterior.\n\nENTENDA:\n1) Origem e vigência. A NBC TSP 13 (R1) foi aprovada pelo CFC em 13/11/2025 e publicada no DOU em 17/03/2026. Entra em vigor na publicação, mas se aplica aos exercícios iniciados a partir de 1º/1/2027, e revoga a NBC TSP 13 publicada em 31/10/2018, ressalvada norma nacional com prazos específicos. É convergida com a IPSAS 24, revisada pelo manual do IPSASB de 2025. Na prova de janeiro de 2027, espere a redação R1, mas a essência da versão anterior foi mantida.\n\n2) Objetivo e alcance. A norma exige que a entidade compare os valores orçados com os realizados e explique as diferenças materiais, para demonstrar conformidade com o orçamento aprovado e, quando orçamento e demonstrações estiverem na mesma base, para permitir avaliar o desempenho. Aplica-se a quem elabora demonstrações pelo regime de competência e a entidades que são obrigadas ou optam por tornar público o orçamento aprovado. Dois cuidados: a norma não exige que o orçamento seja publicado, nem manda comparar orçamento que não é público (item 5); mas, se a entidade for obrigada a divulgar o orçamento, deve fazer a comparação (item 5A). No Brasil, a publicidade do orçamento decorre da Constituição e da legislação financeira, então os entes federativos estão alcançados.\n\n3) Definições que caem. Orçamento original é o inicialmente aprovado para o período. Orçamento final é o original ajustado por reservas, transferências, alocações, créditos adicionais e demais mudanças autorizadas. Orçamento aprovado é a autorização de despesa oriunda de lei ou outro instrumento, com decisões sobre a alocação das receitas estimadas. Orçamento anual cobre um ano; plurianual cobre período maior, e nenhum dos dois inclui meras projeções para depois do período. Regime orçamentário é o adotado no orçamento aprovado (competência, caixa ou outro). Base comparável significa realizado apresentado no mesmo regime, mesma classificação, mesmas entidades e mesmo período do orçamento. Se o orçamento não for aprovado antes do início do exercício, o original é o primeiro que for aprovado para execução naquele ano (item 10). O original pode incluir dotações residuais de anos anteriores por força de lei (item 11).\n\n4) O que a comparação deve trazer. Para cada nível de supervisão legislativa, a entidade apresenta: (a) os valores do orçamento original e do final; (b) os valores realizados em base comparável; e (c) por nota, a explicação das diferenças materiais entre o orçamento pelo qual responde e o realizado. A explicação pode estar em outro documento público emitido junto com as demonstrações, desde que haja referência cruzada nas notas (itens 14 e 19). A diferença entre realizado e orçado é chamada de variação. Também deve haver explicação das alterações entre o orçamento original e o final, indicando se decorrem de remanejamentos de rubricas ou de outros fatores, como mudanças de política (itens 29 e 30).\n\n5) Demonstração adicional ou colunas adicionais. A comparação pode vir em uma demonstração contábil adicional (demonstração das informações orçamentárias), que integra o conjunto completo previsto na NBC TSP 11. Colunas adicionais nas demonstrações existentes só são admitidas quando orçamento e demonstrações estiverem em base comparável (item 21). Se não estiverem, apresenta-se a demonstração adicional, esclarecendo que ela segue a base do orçamento (item 23). No caso brasileiro típico, o orçamento segue regras próprias da Lei 4.320/1964, e a contabilidade patrimonial segue competência, por isso a demonstração específica é o caminho natural.\n\n6) Base comparável e nível de agregação. Todas as comparações devem ser feitas em base comparável ao orçamento (item 31). Isso pode significar comparar em regime diferente do usado nas demonstrações, porque o que importa é o regime do orçamento. Juntar orçamentos de várias entidades para apresentar no consolidado não altera os orçamentos aprovados (item 33). O nível de agregação acompanha o nível de supervisão legislativa e exige julgamento profissional, evitando excesso de detalhe (itens 25 e 27). Se só parte das entidades tiver orçamento publicado, a comparação se limita a elas (item 20).\n\n7) Orçamento plurianual. Quando houver orçamento para mais de um ano, devem ser identificáveis o original e o final de cada período anual. Se dotações não usadas no primeiro ano puderem legalmente ser usadas no segundo, o original do segundo ano é aumentado por esse valor transferido (item 38).\n\n8) Notas explicativas obrigatórias. A entidade divulga o regime orçamentário e o critério de classificação do orçamento (item 39), o período a que se refere o orçamento (item 43) e as entidades abrangidas por ele (item 45). Essas notas ajudam o leitor a entender por que o número orçamentário não bate com o da demonstração patrimonial.\n\n9) Conciliação. Se orçamento e demonstrações não estiverem em base comparável, o realizado em base orçamentária deve ser conciliado com valores das demonstrações, em nota (item 47): se o orçamento for por competência, com receitas totais, despesas totais e fluxos de caixa líquidos operacionais, de investimento e de financiamento; se for outro regime, com os fluxos de caixa líquidos dessas três atividades da DFC. As diferenças se classificam em: de regime (caixa x competência), temporais (períodos diferentes) e de entidade (programas ou entidades fora do orçamento), podendo haver ainda diferenças de formato e classificação (item 48). Por fim, não se exige comparativo do período anterior (itens 52 e 53).\n\nDica de prova: “colunas adicionais” e “base comparável” andam juntas; “explicar diferenças materiais” vai para nota ou documento público com referência cruzada; e a conciliação, quando o orçamento não é por competência, mira os fluxos de caixa líquidos.",
+   "flashcards": [
+    {
+     "frente": "Conteúdo mínimo da comparação orçado x realizado",
+     "verso": "Orçamento original e final; realizado em base comparável; explicação das diferenças materiais (nota ou documento público com referência cruzada).",
+     "dispositivo": "NBC TSP 13 (R1), aprovada em 13/11/2025 (DOU 17/03/2026), item 14"
+    },
+    {
+     "frente": "Base comparável",
+     "verso": "Realizado no mesmo regime, mesma classificação, mesmas entidades e mesmo período do orçamento aprovado.",
+     "dispositivo": "NBC TSP 13 (R1), aprovada em 13/11/2025 (DOU 17/03/2026), item 7"
+    },
+    {
+     "frente": "Quando usar colunas adicionais",
+     "verso": "Somente quando demonstrações e orçamento estão em base comparável; do contrário, demonstração adicional das informações orçamentárias.",
+     "dispositivo": "NBC TSP 13 (R1), aprovada em 13/11/2025 (DOU 17/03/2026), itens 21 a 23"
+    },
+    {
+     "frente": "Orçamento não aprovado antes do exercício",
+     "verso": "O orçamento original é o primeiro aprovado para execução naquele ano.",
+     "dispositivo": "NBC TSP 13 (R1), aprovada em 13/11/2025 (DOU 17/03/2026), item 10"
+    },
+    {
+     "frente": "Três tipos de diferença na conciliação",
+     "verso": "De regime, temporais e de entidade (além de possíveis diferenças de formato e classificação).",
+     "dispositivo": "NBC TSP 13 (R1), aprovada em 13/11/2025 (DOU 17/03/2026), item 48"
+    },
+    {
+     "frente": "Vigência da versão R1",
+     "verso": "Aprovada em 13/11/2025, DOU 17/03/2026; aplica-se aos exercícios iniciados a partir de 1º/1/2027; revoga a NBC TSP 13 de 2018.",
+     "dispositivo": "NBC TSP 13 (R1), aprovada em 13/11/2025 (DOU 17/03/2026), Vigência"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "tceac-nuvem-nbc-tsp-13-q01",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "A NBC TSP 13 (R1) obriga toda entidade do setor público a publicar seu orçamento aprovado, sob pena de não poder apresentar demonstrações contábeis conforme as NBC TSP.",
+     "gabarito": "E",
+     "comentario": "Errado. A norma não exige que orçamentos sejam publicados; ela se aplica a quem é obrigado ou opta por torná-los públicos. Se houver obrigação de divulgar, aí a comparação é exigida.",
+     "dispositivo": "NBC TSP 13 (R1), aprovada em 13/11/2025 (DOU 17/03/2026), itens 3, 5 e 5A"
+    },
+    {
+     "id": "tceac-nuvem-nbc-tsp-13-q02",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "Orçamento final é o orçamento original ajustado por reservas, transferências, alocações, créditos adicionais e outras mudanças autorizadas pelo Legislativo ou autoridade equivalente para o período.",
+     "gabarito": "C",
+     "comentario": "Certo. É a definição do item 7. O orçamento original é o inicialmente aprovado.",
+     "dispositivo": "NBC TSP 13 (R1), aprovada em 13/11/2025 (DOU 17/03/2026), item 7"
+    },
+    {
+     "id": "tceac-nuvem-nbc-tsp-13-q03",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "Um município elabora o orçamento com regras próprias da legislação financeira e suas demonstrações patrimoniais por competência, com classificações distintas.",
+     "enunciado": "Nessa situação, o município pode apresentar a comparação orçado x realizado simplesmente acrescentando colunas de orçamento à Demonstração das Variações Patrimoniais.",
+     "gabarito": "E",
+     "comentario": "Errado. Colunas adicionais só cabem quando orçamento e demonstrações estão em base comparável. Sem isso, apresenta-se demonstração adicional das informações orçamentárias.",
+     "dispositivo": "NBC TSP 13 (R1), aprovada em 13/11/2025 (DOU 17/03/2026), itens 21 a 23"
+    },
+    {
+     "id": "tceac-nuvem-nbc-tsp-13-q04",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "A explicação das diferenças materiais entre os valores orçados e os realizados deve constar das notas explicativas, salvo se estiver em outro documento público emitido em conjunto com as demonstrações e houver referência cruzada nas notas.",
+     "gabarito": "C",
+     "comentario": "Certo. É a regra do item 14(c), detalhada no item 19.",
+     "dispositivo": "NBC TSP 13 (R1), aprovada em 13/11/2025 (DOU 17/03/2026), itens 14(c) e 19"
+    },
+    {
+     "id": "tceac-nuvem-nbc-tsp-13-q05",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Se o orçamento aprovado for elaborado em regime de caixa e as demonstrações em regime de competência, os valores realizados em base orçamentária devem ser conciliados com as receitas e despesas totais da Demonstração das Variações Patrimoniais, e não com os fluxos de caixa.",
+     "gabarito": "E",
+     "comentario": "Errado. Quando o orçamento não adota competência, a conciliação é com os fluxos de caixa líquidos das atividades operacionais, de investimento e de financiamento. Receitas e despesas totais entram quando o orçamento é por competência.",
+     "dispositivo": "NBC TSP 13 (R1), aprovada em 13/11/2025 (DOU 17/03/2026), itens 47 e 51"
+    },
+    {
+     "id": "tceac-nuvem-nbc-tsp-13-q06",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Ao apresentar a comparação entre orçado e realizado, a entidade não está obrigada a divulgar a comparação relativa ao período anterior.",
+     "gabarito": "C",
+     "comentario": "Certo. A norma dispensa a informação comparativa do período anterior e as explicações das diferenças daquele período.",
+     "dispositivo": "NBC TSP 13 (R1), aprovada em 13/11/2025 (DOU 17/03/2026), itens 52 e 53"
+    },
+    {
+     "id": "tceac-nuvem-nbc-tsp-13-q07",
+     "tipo": "me",
+     "dificuldade": "media",
+     "texto_base": "Na conciliação de um Estado, a equipe técnica identificou três ajustes: (I) despesas empenhadas no orçamento cujo fato gerador patrimonial ocorrerá em outro exercício; (II) estatal dependente fora do orçamento mas incluída nas demonstrações; (III) orçamento aprovado para período diferente do exercício das demonstrações.",
+     "enunciado": "Segundo a NBC TSP 13 (R1), essas diferenças classificam-se, respectivamente, como",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "temporais, de regime e de entidade.",
+      "B": "de regime, de entidade e temporais.",
+      "C": "de entidade, temporais e de regime.",
+      "D": "de classificação, de entidade e de regime.",
+      "E": "de regime, temporais e de entidade."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Errada: I não decorre de período orçamentário diferente, mas de regime diferente.",
+      "B": "Correta: I é diferença de regime; II, de entidade; III, temporal (item 48).",
+      "C": "Errada: inverte as três categorias.",
+      "D": "Errada: I não é diferença de formato ou classificação, e III não é de regime.",
+      "E": "Errada: II é diferença de entidade e III é temporal, não o contrário."
+     },
+     "comentario": "A) Errada: I não decorre de período orçamentário diferente, mas de regime diferente.\nB) Correta: I é diferença de regime; II, de entidade; III, temporal (item 48).\nC) Errada: inverte as três categorias.\nD) Errada: I não é diferença de formato ou classificação, e III não é de regime.\nE) Errada: II é diferença de entidade e III é temporal, não o contrário.",
+     "dispositivo": "NBC TSP 13 (R1), aprovada em 13/11/2025 (DOU 17/03/2026), item 48"
+    },
+    {
+     "id": "tceac-nuvem-nbc-tsp-13-q08",
+     "tipo": "me",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Sobre as divulgações exigidas pela NBC TSP 13 (R1) em notas explicativas, assinale a opção correta.",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "Basta divulgar o valor total orçado e o realizado, dispensada a identificação do período do orçamento.",
+      "B": "A entidade deve divulgar o regime contábil das demonstrações, mas não o regime orçamentário.",
+      "C": "As alterações entre orçamento original e final dispensam explicação, por já terem sido aprovadas pelo Legislativo.",
+      "D": "Devem ser divulgados o regime e o critério de classificação do orçamento, o período a que se refere e as entidades por ele abrangidas.",
+      "E": "A conciliação entre realizado orçamentário e demonstrações deve ser apresentada como demonstração autônoma, vedada sua inclusão em nota."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Errada: o item 43 exige divulgar o período do orçamento aprovado.",
+      "B": "Errada: o item 39 exige divulgar o regime orçamentário e a classificação adotada.",
+      "C": "Errada: o item 29 exige explicar as alterações entre original e final.",
+      "D": "Correta: itens 39, 43 e 45.",
+      "E": "Errada: o item 47 manda divulgar a conciliação nas notas explicativas."
+     },
+     "comentario": "A) Errada: o item 43 exige divulgar o período do orçamento aprovado.\nB) Errada: o item 39 exige divulgar o regime orçamentário e a classificação adotada.\nC) Errada: o item 29 exige explicar as alterações entre original e final.\nD) Correta: itens 39, 43 e 45.\nE) Errada: o item 47 manda divulgar a conciliação nas notas explicativas.",
+     "dispositivo": "NBC TSP 13 (R1), aprovada em 13/11/2025 (DOU 17/03/2026), itens 29, 39, 43, 45 e 47"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Se o orçamento não for elaborado por competência, o realizado orçamentário é conciliado com os ___ das atividades operacionais, de investimento e de financiamento.",
+     "opcoes": [
+      "fluxos de caixa líquidos",
+      "resultados patrimoniais",
+      "saldos de restos a pagar",
+      "créditos adicionais"
+     ],
+     "respostas": [
+      "fluxos de caixa líquidos"
+     ],
+     "explicacao": "NBC TSP 13 (R1), item 47(b)."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "No orçamento plurianual, dotações não usadas no primeiro ano e legalmente transferidas aumentam o orçamento ___ do segundo ano.",
+     "opcoes": [
+      "original",
+      "final",
+      "suplementar",
+      "executado"
+     ],
+     "respostas": [
+      "original"
+     ],
+     "explicacao": "NBC TSP 13 (R1), item 38."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene as etapas para apresentar a informação orçamentária de um ente cujo orçamento não está em base comparável com as demonstrações.",
+     "itens": [
+      "Identificar o orçamento original e o final do período",
+      "Apresentar o realizado em base comparável ao orçamento, em demonstração adicional",
+      "Explicar em nota as diferenças materiais e as alterações entre original e final",
+      "Divulgar regime, classificação, período e entidades abrangidas pelo orçamento",
+      "Conciliar o realizado orçamentário com os valores das demonstrações contábeis"
+     ],
+     "explicacao": "NBC TSP 13 (R1), itens 14, 23, 29, 39, 43, 45 e 47."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Item 5A",
+       "Obrigado a divulgar o orçamento, deve fazer a comparação"
+      ],
+      [
+       "Item 21",
+       "Colunas adicionais só com base comparável"
+      ],
+      [
+       "Item 31",
+       "Toda comparação em base comparável ao orçamento"
+      ],
+      [
+       "Item 52",
+       "Comparativo do período anterior não é exigido"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
