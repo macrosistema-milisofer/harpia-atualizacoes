@@ -1,0 +1,231 @@
+{
+ "assunto": "Contabilidade Pública – MCASP 11ª edição",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-27",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-nuvem-mcasp-11",
+   "titulo": "MCASP: orçamento, patrimônio e controle no mesmo plano",
+   "microconteudo": "RAIO-X DA PROVA: A banca explora a confusão entre regime orçamentário (art. 35 da Lei 4.320) e regime patrimonial (competência), as oito classes do PCASP e o rol das DCASP. Afirmações como \"a receita patrimonial só se reconhece na arrecadação\" ou \"a DRE integra as DCASP\" são erradas.\n\nPOR QUE IMPORTA:\nO Manual de Contabilidade Aplicada ao Setor Público (MCASP), editado pela Secretaria do Tesouro Nacional, é o roteiro que União, Estados, DF e Municípios seguem para registrar o orçamento, o patrimônio e os controles. A 11ª edição é a válida a partir do exercício de 2025. Quando o Tribunal de Contas analisa as contas do governador ou de um prefeito, compara os balanços com o MCASP: conta registrada fora do plano de contas, demonstração mal elaborada ou receita reconhecida no momento errado viram achados. O auditor que domina a estrutura do manual sabe onde procurar a regra.\n\nO QUE A BANCA COBRA:\n• Quem edita o MCASP e por que ele obriga os entes (consolidação nacional das contas).\n• A estrutura do manual: Procedimentos Contábeis Orçamentários, Patrimoniais e Específicos, Plano de Contas (PCASP) e Demonstrações Contábeis (DCASP).\n• As três naturezas da informação: orçamentária, patrimonial e de controle.\n• Regime orçamentário (Lei nº 4.320/1964, art. 35) e regime patrimonial (competência).\n• Etapas da receita e da despesa orçamentárias e o momento do reconhecimento patrimonial.\n• As classes do PCASP e as demonstrações obrigatórias.\n\nENTENDA:\n1. Natureza e fundamento. O MCASP é editado pela STN na condição de órgão central do Sistema de Contabilidade Federal. A LRF determina que, enquanto não implantado o conselho de gestão fiscal, a edição de normas gerais para consolidação das contas públicas cabe ao órgão central de contabilidade da União (art. 50, §2º). Como a STN precisa consolidar as contas nacionais (art. 51 da LRF), os entes devem seguir padrões comuns. O manual se apoia na Lei nº 4.320/1964, na LRF e nas Normas Brasileiras de Contabilidade Aplicadas ao Setor Público (NBC TSP), convergentes com as normas internacionais (IPSAS). É atualizado periodicamente; a 11ª edição tem validade a partir de 2025, e o candidato deve sempre conferir a edição em vigor no site do Tesouro.\n\n2. Estrutura. O manual se organiza em partes temáticas: Procedimentos Contábeis Orçamentários (PCO), que tratam de receita e despesa orçamentárias, classificações e fontes ou destinações de recursos; Procedimentos Contábeis Patrimoniais (PCP), que tratam do reconhecimento, da mensuração e da evidenciação de ativos, passivos, variações patrimoniais e de temas como depreciação, provisões e reavaliação; Procedimentos Contábeis Específicos (PCE), com temas como Fundeb, operações de crédito, dívida ativa, regimes próprios de previdência e consórcios públicos; o Plano de Contas Aplicado ao Setor Público (PCASP); e as Demonstrações Contábeis Aplicadas ao Setor Público (DCASP).\n\n3. As três naturezas da informação. A contabilidade pública registra, de forma integrada, informações de natureza orçamentária (execução da LOA), patrimonial (ativos, passivos e variações) e de controle (atos potenciais, garantias, convênios, disponibilidades por destinação). Essa separação explica por que um mesmo fato, como a liquidação de uma despesa, gera lançamentos em mais de uma natureza.\n\n4. Dois regimes convivem. Para o orçamento, vale o art. 35 da Lei nº 4.320/1964: pertencem ao exercício as receitas nele arrecadadas e as despesas nele legalmente empenhadas. Para o patrimônio, vale o regime de competência: as variações são reconhecidas quando ocorre o fato gerador, independentemente de recebimento ou pagamento. Um IPTU lançado em janeiro, por exemplo, gera variação patrimonial aumentativa e um crédito a receber no momento do fato gerador; a receita orçamentária só é registrada na arrecadação. Essa dupla visão é cobrada com frequência: a banca costuma afirmar que a contabilidade pública adota apenas o regime de caixa para a receita, o que está errado quanto ao patrimônio.\n\n5. Etapas da receita e da despesa. A receita orçamentária percorre previsão (planejamento), lançamento, arrecadação e recolhimento (execução). Nem toda receita passa pelo lançamento. A despesa orçamentária passa pela fixação (planejamento) e pelo empenho, liquidação e pagamento (execução). A liquidação verifica o direito adquirido pelo credor (art. 63 da Lei nº 4.320/1964). Sob o enfoque patrimonial, a despesa pode ter sido reconhecida antes do empenho (por exemplo, provisões ou serviços já prestados), o que dá origem a registros de passivo sem execução orçamentária correspondente.\n\n6. Fonte ou destinação de recursos. O mecanismo de fonte ou destinação identifica a origem e a aplicação dos recursos vinculados, permitindo comprovar, por exemplo, que os recursos do Fundeb ou da saúde foram aplicados nas finalidades legais (art. 8º, parágrafo único, da LRF). É ferramenta de controle muito usada pelo Tribunal de Contas.\n\n7. PCASP. O plano de contas tem oito classes. As classes 1 (Ativo), 2 (Passivo e Patrimônio Líquido), 3 (Variações Patrimoniais Diminutivas) e 4 (Variações Patrimoniais Aumentativas) registram a informação patrimonial. As classes 5 (Controles da Aprovação do Planejamento e Orçamento) e 6 (Controles da Execução do Planejamento e Orçamento) registram a informação orçamentária. As classes 7 (Controles Devedores) e 8 (Controles Credores) registram a informação de controle. O lançamento sempre ocorre dentro da mesma natureza: débito em classe 5 pede crédito em classe 6, e débito em classe 7 pede crédito em classe 8.\n\n8. DCASP. São demonstrações do setor público: Balanço Orçamentário, Balanço Financeiro, Balanço Patrimonial, Demonstração das Variações Patrimoniais, Demonstração dos Fluxos de Caixa e Demonstração das Mutações do Patrimônio Líquido, acompanhadas das notas explicativas. O MCASP indica para quais entes a DMPL é obrigatória e traz os modelos e as regras de preenchimento. O Balanço Patrimonial apresenta, ainda, o quadro do superávit ou déficit financeiro, que dialoga com o art. 43 da Lei nº 4.320/1964 (abertura de créditos adicionais).\n\n9. Ligação com o controle externo. Na análise de contas, o Tribunal confere a coerência entre as demonstrações (o resultado do Balanço Financeiro e a variação das disponibilidades, a DVP e o resultado patrimonial do BP), a consistência dos registros por fonte de recursos e a aderência aos procedimentos do manual. Desvios relevantes podem fundamentar ressalvas ou recomendações no parecer prévio.\n\nDica final: para cada fato, pergunte \"qual natureza?\" e \"qual regime?\". Quase todas as pegadinhas do MCASP nascem da confusão entre orçamento e patrimônio.",
+   "flashcards": [
+    {
+     "frente": "Quais as três naturezas de informação no PCASP?",
+     "verso": "Orçamentária, patrimonial e de controle.",
+     "dispositivo": "MCASP 11ª ed., Parte IV"
+    },
+    {
+     "frente": "Classes patrimoniais do PCASP?",
+     "verso": "1 Ativo; 2 Passivo e PL; 3 VPD; 4 VPA.",
+     "dispositivo": "MCASP 11ª ed., Parte IV"
+    },
+    {
+     "frente": "Qual regime vale para a receita orçamentária?",
+     "verso": "Regime orçamentário do art. 35 da Lei nº 4.320/1964: receita arrecadada no exercício.",
+     "dispositivo": "Lei nº 4.320/1964, art. 35"
+    },
+    {
+     "frente": "Qual regime vale para as variações patrimoniais?",
+     "verso": "Competência: reconhecimento no fato gerador.",
+     "dispositivo": "MCASP 11ª ed., Parte II"
+    },
+    {
+     "frente": "Etapas de execução da despesa orçamentária?",
+     "verso": "Empenho, liquidação e pagamento.",
+     "dispositivo": "Lei nº 4.320/1964, arts. 58 a 65"
+    },
+    {
+     "frente": "A partir de quando vale a 11ª edição do MCASP?",
+     "verso": "A partir do exercício de 2025.",
+     "dispositivo": "MCASP 11ª ed. (STN)"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "tceac-nuvem-mcasp-11-q01",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "O MCASP é editado pela Secretaria do Tesouro Nacional, na condição de órgão central do Sistema de Contabilidade Federal, e tem por finalidade padronizar procedimentos para a consolidação das contas públicas.",
+     "gabarito": "C",
+     "comentario": "Certo. A LRF atribui ao órgão central de contabilidade da União a edição de normas gerais para consolidação (art. 50, §2º), e a STN, nesse papel, edita o MCASP.",
+     "dispositivo": "LC nº 101/2000, arts. 50, §2º, e 51"
+    },
+    {
+     "id": "tceac-nuvem-mcasp-11-q02",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Segundo o MCASP, a receita tributária lançada deve ser reconhecida como variação patrimonial aumentativa apenas no momento da arrecadação, em razão do regime de caixa.",
+     "gabarito": "E",
+     "comentario": "Errado. Sob o enfoque patrimonial, aplica-se o regime de competência: a VPA é reconhecida na ocorrência do fato gerador. O art. 35 da Lei nº 4.320/1964 rege a receita orçamentária, não o reconhecimento patrimonial.",
+     "dispositivo": "MCASP 11ª ed.; Lei nº 4.320/1964, art. 35"
+    },
+    {
+     "id": "tceac-nuvem-mcasp-11-q03",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "No PCASP, as classes 5 e 6 registram a informação de natureza orçamentária, e as classes 7 e 8, a informação de controle.",
+     "gabarito": "C",
+     "comentario": "Certo. 5 e 6 controlam aprovação e execução do planejamento e orçamento; 7 e 8 são controles devedores e credores.",
+     "dispositivo": "MCASP 11ª ed., Parte IV (PCASP)"
+    },
+    {
+     "id": "tceac-nuvem-mcasp-11-q04",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Débito em conta da classe 1 e crédito em conta da classe 6 constituem lançamento admitido pelo PCASP, desde que no mesmo fato contábil.",
+     "gabarito": "E",
+     "comentario": "Errado. Os lançamentos se fecham dentro da mesma natureza: patrimonial (1 a 4), orçamentária (5 e 6) ou de controle (7 e 8).",
+     "dispositivo": "MCASP 11ª ed., Parte IV (PCASP)"
+    },
+    {
+     "id": "tceac-nuvem-mcasp-11-q05",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Nem toda receita orçamentária passa pela etapa do lançamento.",
+     "gabarito": "C",
+     "comentario": "Certo. O lançamento é próprio das receitas em que há prévia identificação do sujeito passivo e do valor, como os tributos lançados de ofício; muitas receitas são arrecadadas sem lançamento.",
+     "dispositivo": "Lei nº 4.320/1964, arts. 52 e 53; MCASP 11ª ed., Parte I"
+    },
+    {
+     "id": "tceac-nuvem-mcasp-11-q06",
+     "tipo": "me",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Integra as Demonstrações Contábeis Aplicadas ao Setor Público, conforme o MCASP:",
+     "gabarito": "C",
+     "alternativas": {
+      "A": "a Demonstração do Resultado do Exercício.",
+      "B": "a Demonstração do Valor Adicionado como peça obrigatória de todos os entes.",
+      "C": "a Demonstração das Variações Patrimoniais.",
+      "D": "o Balancete de Verificação.",
+      "E": "o Relatório de Gestão Fiscal."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Errada: no setor público, o papel equivalente é desempenhado pela DVP.",
+      "B": "Errada: a DVA não integra o rol de DCASP do manual.",
+      "C": "Certa: a DVP evidencia as variações aumentativas e diminutivas e o resultado patrimonial.",
+      "D": "Errada: balancete é instrumento de escrituração, não demonstração.",
+      "E": "Errada: o RGF é relatório fiscal previsto na LRF, não DCASP."
+     },
+     "comentario": "A) Errada: no setor público, o papel equivalente é desempenhado pela DVP.\nB) Errada: a DVA não integra o rol de DCASP do manual.\nC) Gabarito: Certa: a DVP evidencia as variações aumentativas e diminutivas e o resultado patrimonial.\nD) Errada: balancete é instrumento de escrituração, não demonstração.\nE) Errada: o RGF é relatório fiscal previsto na LRF, não DCASP.",
+     "dispositivo": "MCASP 11ª ed., Parte V (DCASP)"
+    },
+    {
+     "id": "tceac-nuvem-mcasp-11-q07",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Acerca das partes do MCASP, assinale a opção correta.",
+     "gabarito": "E",
+     "alternativas": {
+      "A": "Os regimes próprios de previdência são disciplinados exclusivamente nos Procedimentos Contábeis Orçamentários.",
+      "B": "A depreciação é tema dos Procedimentos Contábeis Específicos.",
+      "C": "O plano de contas é facultativo para os municípios com menos de 50 mil habitantes.",
+      "D": "As fontes de recursos são tratadas exclusivamente nas DCASP.",
+      "E": "Os Procedimentos Contábeis Patrimoniais tratam do reconhecimento, da mensuração e da evidenciação de ativos, passivos e variações patrimoniais."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Errada: RPPS aparece entre os procedimentos específicos.",
+      "B": "Errada: depreciação é procedimento patrimonial.",
+      "C": "Errada: o PCASP é de observância obrigatória por todos os entes.",
+      "D": "Errada: fonte ou destinação de recursos é tratada nos procedimentos orçamentários e controlada no PCASP.",
+      "E": "Certa: é o objeto dos PCP."
+     },
+     "comentario": "A) Errada: RPPS aparece entre os procedimentos específicos.\nB) Errada: depreciação é procedimento patrimonial.\nC) Errada: o PCASP é de observância obrigatória por todos os entes.\nD) Errada: fonte ou destinação de recursos é tratada nos procedimentos orçamentários e controlada no PCASP.\nE) Gabarito: Certa: é o objeto dos PCP.",
+     "dispositivo": "MCASP 11ª ed., Partes I a V"
+    },
+    {
+     "id": "tceac-nuvem-mcasp-11-q08",
+     "tipo": "me",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "A liquidação da despesa, segundo a Lei nº 4.320/1964 e o MCASP, consiste em:",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "verificar o direito adquirido pelo credor, com base nos títulos e documentos comprobatórios do crédito.",
+      "B": "reservar dotação orçamentária para pagamento futuro.",
+      "C": "emitir a ordem bancária ao credor.",
+      "D": "autorizar a despesa na LOA.",
+      "E": "inscrever a despesa em restos a pagar."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Certa: art. 63 da Lei nº 4.320/1964.",
+      "B": "Errada: é o empenho.",
+      "C": "Errada: é o pagamento.",
+      "D": "Errada: é a fixação.",
+      "E": "Errada: a inscrição em restos a pagar ocorre no encerramento do exercício."
+     },
+     "comentario": "A) Gabarito: Certa: art. 63 da Lei nº 4.320/1964.\nB) Errada: é o empenho.\nC) Errada: é o pagamento.\nD) Errada: é a fixação.\nE) Errada: a inscrição em restos a pagar ocorre no encerramento do exercício.",
+     "dispositivo": "Lei nº 4.320/1964, art. 63"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "No PCASP, a classe ___ registra os controles da execução do planejamento e orçamento.",
+     "opcoes": [
+      "6",
+      "5",
+      "7",
+      "8"
+     ],
+     "respostas": [
+      "6"
+     ],
+     "explicacao": "Classe 5 = aprovação; classe 6 = execução."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "O lançamento contábil se fecha dentro da mesma ___ da informação.",
+     "opcoes": [
+      "natureza",
+      "fonte",
+      "unidade gestora",
+      "função"
+     ],
+     "respostas": [
+      "natureza"
+     ],
+     "explicacao": "Patrimonial com patrimonial, orçamentária com orçamentária, controle com controle."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene as etapas da receita orçamentária.",
+     "itens": [
+      "Previsão",
+      "Lançamento",
+      "Arrecadação",
+      "Recolhimento"
+     ],
+     "explicacao": "Previsão é planejamento; lançamento, arrecadação e recolhimento são execução."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "PCO",
+       "Receita e despesa orçamentárias"
+      ],
+      [
+       "PCP",
+       "Ativos, passivos e variações"
+      ],
+      [
+       "PCE",
+       "Fundeb, dívida ativa, RPPS, consórcios"
+      ],
+      [
+       "DCASP",
+       "Balanços e demonstrações"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
