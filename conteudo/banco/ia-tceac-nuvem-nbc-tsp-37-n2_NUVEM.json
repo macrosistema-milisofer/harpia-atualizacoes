@@ -1,0 +1,204 @@
+{
+ "assunto": "Contabilidade Pública – NBC TSP 37: ativo imobilizado",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-28",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-nuvem-nbc-tsp-37-n2",
+   "titulo": "Imobilizado público pela NBC TSP 37: custo, valor corrente, infraestrutura e patrimônio cultural",
+   "microconteudo": "RAIO-X DA PROVA: O Cebraspe tende a cobrar a troca da NBC TSP 07 pela NBC TSP 37 (convergida com a IPSAS 45), o modelo do valor corrente com a escolha entre valor corrente operacional e valor justo conforme o objetivo de manter o bem, a reavaliação da classe inteira, o destino dos aumentos e reduções, a depreciação por componentes, terrenos não depreciados, a nova figura do imobilizado com vida útil indefinida (sem depreciação, mas com revisão anual) e o patrimônio cultural não reconhecido com divulgação em notas.\n\nPOR QUE IMPORTA:\nEscolas, hospitais, rodovias, redes de saneamento, viaturas, prédios tombados: o imobilizado costuma ser o maior grupo do ativo de um ente federado e, ao mesmo tempo, o mais maltratado pela contabilidade tradicional, que por décadas registrou obras pelo valor empenhado e esqueceu a depreciação. A NBC TSP 37 – Ativo Imobilizado, aprovada pelo CFC com base na IPSAS 45 (Property, Plant, and Equipment) e no manual do IPSASB, substitui a NBC TSP 07 a partir de 1º de janeiro de 2027, ressalvado normativo nacional com prazo específico. A mudança não é cosmética: a norma incorpora a NBC TSP 38 (Mensuração), passa a falar em valor corrente operacional, traz orientação expressa sobre bens de infraestrutura e patrimônio cultural e admite imobilizado com vida útil indefinida. Para o auditor de contas, é a régua para avaliar se o balanço mostra o patrimônio que o ente realmente tem e consome.\n\nO QUE A BANCA COBRA:\n1) Definição de imobilizado e critérios de reconhecimento. 2) Elementos do custo e o que fica fora dele. 3) Aquisição sem contraprestação pelo custo atribuído (que não é reavaliação). 4) Escolha entre modelo do custo histórico e modelo do valor corrente, por classe. 5) Valor corrente operacional (capacidade operacional) versus valor justo (capacidade financeira). 6) Tratamento de aumentos e reduções de reavaliação. 7) Depreciação por componentes, revisão anual de vida útil, valor residual e método. 8) Terrenos e vida útil indefinida. 9) Baixa e divulgação, inclusive do patrimônio cultural não reconhecido.\n\nENTENDA:\n1) Alcance e definição\nAplica-se a toda entidade que prepara demonstrações pelo regime de competência, salvo quando outra NBC TSP exigir tratamento diferente. Ficam de fora os ativos biológicos que não sejam plantas portadoras (NBC TSP 26), os direitos de exploração e as reservas minerais, o imobilizado classificado como mantido para alienação (NBC TSP 36) e o reconhecimento e mensuração de ativos de exploração e avaliação de recursos minerais; mas os equipamentos usados para desenvolver ou manter esses ativos seguem a NBC TSP 37. Ativo imobilizado é o ativo tangível mantido para uso na produção ou fornecimento de bens ou serviços, para aluguel a terceiros (salvo norma específica) ou para fins administrativos, e que se espera utilizar por mais de um período. Note a ausência de exigência de gerar caixa: basta potencial de serviços.\n\n2) Reconhecimento\nO item é reconhecido se, e somente se, for provável que benefícios econômicos futuros ou potencial de serviços fluirão para a entidade e se puder ser mensurado confiavelmente. A norma não fixa a unidade de reconhecimento: exige julgamento, e itens individualmente pouco relevantes (pequenas ferramentas, moldes) podem ser agregados. Ativos adquiridos por razões de segurança ou ambientais são reconhecidos mesmo que não aumentem diretamente benefícios, porque permitem obter os benefícios dos demais ativos. Os mesmos critérios valem para os custos subsequentes: manutenção diária vai ao resultado; substituição de partes relevantes (o telhado de um prédio, os trilhos de uma ferrovia) é capitalizada, com baixa da parte substituída.\n\n3) Mensuração inicial e custo\nO item reconhecido é mensurado pelo custo, salvo aquisição por transação sem contraprestação, em que se usa o custo atribuído apurado conforme a NBC TSP 38; essa mensuração inicial não é reavaliação. O custo compreende: preço de compra, com tributos de importação e não recuperáveis, menos descontos e abatimentos; e a estimativa inicial dos custos de desmontagem, remoção e restauração do local, quando houver obrigação. Os custos param de ser capitalizados quando o item está em condição de operar: ociosidade inicial, perdas operacionais iniciais e reorganizações vão ao resultado. Pagamento a prazo além do normal gera despesa financeira pela diferença em relação ao preço à vista. Na permuta, mede-se pelo valor corrente, salvo se a operação não tiver natureza comercial ou se nenhum dos valores for mensurável confiavelmente, caso em que se usa o valor contábil do ativo cedido.\n\n4) Mensuração subsequente: custo histórico ou valor corrente\nA entidade escolhe, como política, o modelo do custo histórico ou o modelo do valor corrente e o aplica a toda a classe. No custo histórico, o item fica pelo custo menos depreciação e perdas por redução ao valor recuperável acumuladas. No valor corrente, o item cujo valor corrente seja mensurável confiavelmente é apresentado pelo valor reavaliado menos depreciação e perdas subsequentes. A grande novidade é a base: o objetivo principal de manter o bem decide. Bem mantido principalmente por sua capacidade operacional (escola, hospital, estrada) é mensurado pelo valor corrente operacional; bem mantido principalmente por sua capacidade financeira é mensurado pelo valor justo. A base escolhida é aplicada de forma consistente, mudando apenas se mudar o objetivo de manter o bem.\n\n5) Reavaliação: frequência, classe e contrapartidas\nA reavaliação deve ser feita com regularidade suficiente para que o valor contábil não difira materialmente do valor corrente na data das demonstrações; ativos de valor volátil pedem reavaliação mais frequente. Reavaliado um item, reavalia-se toda a classe, simultaneamente, para evitar escolha seletiva e mistura de custos e valores de datas diferentes. São exemplos de classes: terrenos, edifícios operacionais, máquinas, veículos, móveis, equipamentos de escritório, armamentos, plantas portadoras, acervos do patrimônio cultural e bens de infraestrutura. O aumento do valor contábil da classe vai à reserva de reavaliação, no patrimônio líquido, salvo quando reverte redução da mesma classe antes levada ao resultado. A redução vai ao resultado, salvo até o saldo existente de reserva de reavaliação daquela classe. Aumentos e reduções de itens da mesma classe se compensam entre si, mas nunca com itens de outra classe. A reserva pode ser transferida diretamente para resultados acumulados quando o ativo é baixado, sem passar pelo resultado. Perdas por redução ao valor recuperável não obrigam, por si, a reavaliar a classe.\n\n6) Depreciação\nCada componente com custo significativo em relação ao total do item é depreciado separadamente; o restante é depreciado como conjunto. Na estrada, por exemplo, pode ser necessário separar a base estrutural do revestimento. A depreciação do período vai ao resultado, salvo se incorporada ao custo de outro ativo. O valor depreciável (custo menos valor residual) é alocado sistematicamente ao longo da vida útil, que é o período de disponibilidade para uso ou o número de unidades de produção esperadas. Valor residual, vida útil e método são revistos pelo menos ao fim de cada exercício, e alterações são mudança de estimativa (NBC TSP 23), com efeito prospectivo. A depreciação é reconhecida ainda que o valor corrente supere o valor contábil, desde que o valor residual não o ultrapasse; manutenção e reparos não afastam a depreciação. O método reflete o padrão de consumo do potencial de serviços; ativos ociosos continuam depreciando, salvo se o método for por unidades produzidas.\n\n7) Terrenos e vida útil indefinida\nTerrenos e edificações são ativos separáveis, contabilizados separadamente mesmo quando comprados juntos. Terrenos, em regra, têm vida útil ilimitada e não são depreciados; exceções são pedreiras e aterros. A valorização do terreno não altera o valor depreciável do prédio. A NBC TSP 37 vai além: a entidade avalia se a vida útil de cada imobilizado é definida ou indefinida. Há presunção refutável de que os imobilizados, exceto terrenos, têm vida útil definida; só se admite vida indefinida quando, analisados todos os fatores, não houver limite previsível para o período de prestação de serviços. Indefinido não é infinito, e incerteza sobre vida muito longa não justifica estimar vida irrealisticamente curta. Item de vida definida é depreciado; o de vida indefinida não é, mas deve ser revisto anualmente quanto a indícios de redução ao valor recuperável pelas NBC TSP 09 ou 10.\n\n8) Recuperabilidade, indenizações e baixa\nO teste de redução ao valor recuperável segue a NBC TSP 09 (ativo não gerador de caixa) ou 10 (gerador de caixa). Indenizações de terceiros por bens danificados, extraviados ou abandonados vão ao resultado quando se tornam recebíveis, como evento separado da perda e da reposição. O item é desreconhecido na alienação (venda, arrendamento financeiro, doação) ou quando não se esperam mais benefícios ou potencial de serviços de seu uso ou alienação; o ganho ou a perda (diferença entre o valor líquido recebido e o valor contábil) vai ao resultado na data da baixa, que é a data em que o destinatário obtém o controle do bem. Entidade que habitualmente vende bens antes alugados transfere-os para estoques pelo valor contábil quando cessa o aluguel.\n\n9) Infraestrutura e patrimônio cultural\nBens de infraestrutura formam redes ou sistemas que servem à comunidade (rodovias, redes de água e esgoto, energia, comunicações), costumam ter vida longa, ser especializados e de difícil alienação, e exigem depreciação por componentes. Patrimônio cultural é o conjunto de bens mantidos por sua raridade ou importância arqueológica, arquitetônica, artística, histórica, ambiental, entre outras. Quando o bem cultural atende à definição de ativo, mas seu custo ou valor corrente não pode ser mensurado confiavelmente, ele não é reconhecido, e a entidade divulga em notas as dificuldades que impediram a mensuração e a relevância desses itens para seus objetivos. Gastos subsequentes com bens culturais não reconhecidos podem ser reconhecidos como ativo se atenderem aos critérios. Na transição, admite-se custo atribuído para bens culturais sem informação confiável de custo.\n\n10) Divulgação\nPor classe: bases de mensuração do valor bruto, métodos de depreciação, vidas úteis ou taxas, valor bruto e depreciação acumulada no início e no fim, e conciliação do período (adições, transferências para mantidos para alienação, combinações, reavaliações, perdas e reversões, depreciação, outras variações); também restrições e garantias, custos de obras em andamento e compromissos contratuais de aquisição.\n\n11) Olhar do controle externo\nAchados recorrentes: obras concluídas paradas em \"obras em andamento\", sem início da depreciação; ausência de inventário físico conciliado com o contábil; reavaliação seletiva de alguns imóveis; depreciação de terrenos; vida útil \"indefinida\" sem estudo técnico, apenas para não depreciar; e bens culturais omitidos sem nota explicativa. Todos distorcem ativo, patrimônio líquido e resultado patrimonial e, se relevantes, fundamentam ressalva, além de determinações para inventário, política contábil e cronograma de reconhecimento.",
+   "flashcards": [
+    {
+     "frente": "Imobilizado",
+     "verso": "Ativo tangível para uso na produção/fornecimento de bens ou serviços, aluguel ou fins administrativos, usado por mais de um período.",
+     "dispositivo": "NBC TSP 37"
+    },
+    {
+     "frente": "Valor corrente: qual base?",
+     "verso": "Capacidade operacional → valor corrente operacional; capacidade financeira → valor justo.",
+     "dispositivo": "NBC TSP 37"
+    },
+    {
+     "frente": "Reavaliação",
+     "verso": "Classe inteira, simultânea; aumento à reserva; redução ao resultado, salvo saldo da reserva da classe.",
+     "dispositivo": "NBC TSP 37"
+    },
+    {
+     "frente": "Revisão anual",
+     "verso": "Vida útil, valor residual e método, ao menos no fim de cada exercício; mudança de estimativa prospectiva.",
+     "dispositivo": "NBC TSP 37; NBC TSP 23"
+    },
+    {
+     "frente": "Vida útil indefinida",
+     "verso": "Presunção refutável de vida definida (exceto terrenos); se indefinida, não deprecia, mas revisão anual de recuperabilidade.",
+     "dispositivo": "NBC TSP 37"
+    },
+    {
+     "frente": "Patrimônio cultural não mensurável",
+     "verso": "Não reconhecido; nota explica a dificuldade de mensuração e a relevância dos itens.",
+     "dispositivo": "NBC TSP 37"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "enunciado": "A NBC TSP 37 – Ativo Imobilizado, convergida com a IPSAS 45, revoga a NBC TSP 07 a partir de 1º de janeiro de 2027, ressalvado normativo nacional que fixe prazo específico.",
+     "gabarito": "C",
+     "comentario": "Certo. É a regra de vigência da própria norma.",
+     "dispositivo": "NBC TSP 37, vigência",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-37-n2-q01"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "No modelo do valor corrente da NBC TSP 37, hospital público mantido principalmente por sua capacidade operacional deve ser mensurado pelo valor justo.",
+     "gabarito": "E",
+     "comentario": "Errado. Bem mantido por sua capacidade operacional é mensurado pelo valor corrente operacional; o valor justo serve ao bem mantido principalmente por sua capacidade financeira.",
+     "dispositivo": "NBC TSP 37, modelo do valor corrente",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-37-n2-q02"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Reavaliado um imóvel de determinada classe, a entidade pode limitar a reavaliação aos itens cujo valor corrente tenha aumentado, mantendo os demais pelo custo histórico.",
+     "gabarito": "E",
+     "comentario": "Errado. Reavalia-se toda a classe, simultaneamente, para evitar reavaliação seletiva.",
+     "dispositivo": "NBC TSP 37, reavaliação",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-37-n2-q03"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A redução do valor contábil de uma classe por reavaliação é debitada à reserva de reavaliação até o limite do saldo dessa reserva relativo àquela classe, e o excedente é reconhecido no resultado.",
+     "gabarito": "C",
+     "comentario": "Certo. Primeiro consome-se a reserva da própria classe; o que passar vai ao resultado.",
+     "dispositivo": "NBC TSP 37, reavaliação",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-37-n2-q04"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "enunciado": "Terrenos, salvo exceções como pedreiras e aterros, têm vida útil ilimitada e não são depreciados, ainda que adquiridos juntamente com a edificação.",
+     "gabarito": "C",
+     "comentario": "Certo. Terreno e edificação são separados mesmo na compra conjunta; só a edificação, em regra, é depreciável.",
+     "dispositivo": "NBC TSP 37, depreciação",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-37-n2-q05"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Pela NBC TSP 37, presume-se que todo imobilizado tem vida útil indefinida até que estudo técnico demonstre o contrário, o que dispensa a depreciação no período anterior ao estudo.",
+     "gabarito": "E",
+     "comentario": "Errado. A presunção, refutável, é inversa: os imobilizados, exceto terrenos, têm vida útil definida. Vida indefinida exige análise de todos os fatores e ausência de limite previsível.",
+     "dispositivo": "NBC TSP 37, vidas úteis definidas e indefinidas",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-37-n2-q06"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Estado adquiriu equipamento hospitalar: preço R$ 800 mil, desconto comercial de R$ 50 mil, frete e instalação de R$ 30 mil, testes de funcionamento de R$ 10 mil, treinamento da equipe de R$ 20 mil e perdas operacionais nos três primeiros meses de R$ 15 mil. Pela NBC TSP 37, o custo do ativo é:",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "R$ 790 mil.",
+      "B": "R$ 810 mil.",
+      "C": "R$ 825 mil.",
+      "D": "R$ 840 mil.",
+      "E": "R$ 800 mil."
+     },
+     "comentario": "A. 800 − 50 + 30 + 10 = 790. Treinamento e perdas operacionais iniciais não integram o custo.",
+     "dispositivo": "NBC TSP 37, elementos do custo",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-37-n2-q07"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Uma classe de edifícios mensurada pelo valor corrente tinha reserva de reavaliação de R$ 100 mil. Nova reavaliação reduziu o valor contábil da classe em R$ 160 mil. Assinale o registro correto.",
+     "gabarito": "C",
+     "alternativas": {
+      "A": "Débito de R$ 160 mil na reserva de reavaliação, que fica negativa.",
+      "B": "Débito de R$ 160 mil no resultado; a reserva permanece intacta até a baixa.",
+      "C": "Débito de R$ 100 mil na reserva e de R$ 60 mil no resultado.",
+      "D": "Débito de R$ 160 mil em resultados acumulados, sem afetar o resultado.",
+      "E": "Nenhum registro, pois reduções só são reconhecidas no teste de recuperabilidade."
+     },
+     "comentario": "C. A redução consome a reserva da classe até seu saldo; o excesso vai ao resultado do período.",
+     "dispositivo": "NBC TSP 37, reavaliação",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-37-n2-q08"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Bem mantido pela capacidade ___ é mensurado pelo valor corrente operacional; bem mantido pela capacidade ___, pelo valor justo.",
+     "opcoes": [
+      "operacional",
+      "financeira",
+      "histórica",
+      "residual",
+      "cultural",
+      "depreciável"
+     ],
+     "respostas": [
+      "operacional",
+      "financeira"
+     ],
+     "explicacao": "O objetivo principal de manter o bem define a base do valor corrente."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Frete e instalação",
+       "Integra o custo"
+      ],
+      [
+       "Perdas operacionais iniciais",
+       "Resultado do período"
+      ],
+      [
+       "Bem doado ao ente",
+       "Custo atribuído (não é reavaliação)"
+      ],
+      [
+       "Troca do telhado do prédio",
+       "Capitaliza e baixa a parte substituída"
+      ],
+      [
+       "Manutenção diária",
+       "Despesa"
+      ]
+     ]
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o ciclo contábil de um item do imobilizado.",
+     "itens": [
+      "Reconhecer (probabilidade e mensuração confiável)",
+      "Mensurar pelo custo ou custo atribuído",
+      "Escolher o modelo de mensuração da classe",
+      "Depreciar por componentes e revisar estimativas anualmente",
+      "Testar recuperabilidade quando houver indício",
+      "Desreconhecer na alienação ou fim do potencial de serviços"
+     ],
+     "explicacao": "A sequência acompanha a estrutura da norma."
+    },
+    {
+     "tipo": "caso_pratico",
+     "enunciado": "Questão discursiva: Na auditoria do balanço de município, constatou-se que (i) uma ponte concluída há dois anos permanece em \"obras em andamento\"; (ii) a prefeitura reavaliou apenas três dos vinte imóveis administrativos, todos com valorização; e (iii) atribuiu vida útil indefinida a toda a frota de veículos, alegando manutenção regular. Analise os achados pela NBC TSP 37.",
+     "resposta": "(i) Concluída a obra e disponível para uso, a ponte deve ser transferida para bens de infraestrutura e começar a ser depreciada, possivelmente por componentes; mantê-la em obras em andamento subestima a depreciação e superavalia o ativo. (ii) A reavaliação deve abranger toda a classe, simultaneamente; a reavaliação seletiva é vedada e distorce o patrimônio líquido pela reserva. (iii) Há presunção refutável de vida útil definida para imobilizados que não sejam terrenos; veículos têm limite previsível de uso, e manutenção não afasta a depreciação. A ausência de depreciação superavalia ativo e resultado. Conforme a relevância, os achados fundamentam ressalva ou opinião adversa, com determinação de ajustes e de política contábil formal.",
+     "dispositivo": "NBC TSP 37"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,203 @@
+{
+ "assunto": "Contabilidade Pública – NBC TSP 03 (R1): provisões, passivos contingentes e ativos contingentes",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-28",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-nuvem-nbc-tsp-03-n2",
+   "titulo": "Provisões e contingências no setor público: a NBC TSP 03 (R1) entre o provável, o possível e o remoto",
+   "microconteudo": "RAIO-X DA PROVA: A banca cobra a tríade de reconhecimento (obrigação presente, saída provável, estimativa confiável), a diferença entre provisão (reconhecida), passivo contingente (só nota, salvo remoto) e ativo contingente (nota se provável; reconhecido só se praticamente certo), obrigação legal versus não formalizada, a vedação de provisão para perdas operacionais futuras, contrato oneroso, reestruturação, desconto a valor presente e reembolso virtualmente certo. No controle externo, aparece a ligação com o Anexo de Riscos Fiscais da LDO e as ações judiciais contra o ente.\n\nPOR QUE IMPORTA:\nAções judiciais de servidores pedindo diferenças salariais, condenações ambientais, garantias dadas a empresas estatais, recuperação de áreas degradadas por aterros sanitários, indenizações a desapropriados: os entes públicos carregam obrigações cujo valor ou prazo é incerto e que podem consumir orçamentos inteiros. Se o balanço ignora essas obrigações, o gestor parece mais solvente do que é, e a sociedade descobre o rombo quando chega o precatório. A NBC TSP 03 (R1), convergida com a IPSAS 19 e revisada pelo CFC com base no manual do IPSASB, define quando a obrigação incerta vira passivo no balanço, quando fica apenas nas notas e como é mensurada. Aplica-se aos exercícios iniciados a partir de 1º de janeiro de 2027 e revoga a NBC TSP 03 de 2016, ressalvado normativo nacional com prazo próprio. Para o controle externo, a norma conversa diretamente com a gestão fiscal: a Lei de Responsabilidade Fiscal exige que a LDO traga o Anexo de Riscos Fiscais, com avaliação dos passivos contingentes e outros riscos capazes de afetar as contas públicas (LC nº 101/2000, art. 4º, § 3º).\n\nO QUE A BANCA COBRA:\n1) Definições: provisão, passivo contingente, ativo contingente, obrigação legal e não formalizada, evento que cria obrigação, contrato oneroso, reestruturação. 2) Critérios de reconhecimento. 3) Tratamento em notas e a exceção do \"remoto\". 4) Mensuração: melhor estimativa, riscos e incertezas, valor presente, eventos futuros, reembolso. 5) Revisão e uso das provisões. 6) Aplicações específicas: perdas operacionais futuras, contrato oneroso, reestruturação. 7) Exclusões do alcance.\n\nENTENDA:\n1) Alcance\nAplica-se a toda entidade que elabora demonstrações pelo regime de competência, exceto quanto a: benefícios sociais no alcance da NBC TSP 29; contratos a executar, salvo os onerosos; contratos de seguro; matérias tratadas em outra NBC TSP; tributos sobre a renda; e benefícios a empregados, salvo rescisões decorrentes de reestruturação. Instrumentos financeiros, inclusive garantias financeiras, seguem a NBC TSP 31, e a contraprestação contingente do adquirente numa combinação do setor público segue a NBC TSP 21.\n\n2) Provisão não é qualquer passivo\nProvisão é passivo de prazo ou valor incerto. Difere das contas a pagar (bens ou serviços recebidos e faturados ou formalmente acordados) e das obrigações por competência (recebidos, mas ainda não faturados, como férias e décimo terceiro apropriados), porque nelas a incerteza é muito menor. Por isso, provisões são apresentadas separadamente, enquanto obrigações por competência costumam integrar as contas a pagar. Atenção ao vocabulário antigo: \"provisão para devedores duvidosos\" ou \"provisão para depreciação\" não são provisões no sentido da norma, mas ajustes de ativos.\n\n3) Reconhecimento: os três requisitos\nA provisão é reconhecida quando, cumulativamente: (a) a entidade tem obrigação presente, legal ou não formalizada, resultante de evento passado; (b) é provável a saída de recursos que incorporam benefícios econômicos ou potencial de serviços para liquidá-la; e (c) é possível estimar seu valor com confiabilidade. Faltando um requisito, nenhuma provisão é reconhecida. Provável, para a norma, significa mais provável que sim do que que não. Em casos duvidosos, como numa ação judicial, considera-se toda a evidência disponível, inclusive a opinião de especialistas e eventos subsequentes à data das demonstrações: se for mais provável que a obrigação presente exista, reconhece-se a provisão (atendidos os demais critérios); se for mais provável que não exista, divulga-se passivo contingente, salvo se remota a possibilidade de saída. A impossibilidade de estimativa confiável é rara; nesse caso extremo, o que existe é passivo contingente.\n\n4) Obrigação legal, não formalizada e evento que cria obrigação\nObrigação legal deriva de contrato, de legislação ou de outra ação legal. Obrigação não formalizada nasce de práticas passadas, políticas publicadas ou declarações específicas que criam, em terceiros, expectativa válida de que a entidade cumprirá a responsabilidade. Evento que cria obrigação é aquele que deixa a entidade sem alternativa realista senão liquidar a obrigação. A obrigação sempre envolve terceiro, que pode ser o público em geral; a mera decisão interna da administração não cria obrigação. Da mesma forma, a intenção política de prestar serviços no futuro não é, por si, obrigação presente. Exemplos clássicos: multa ou reparação de dano ambiental imposta por lei geram obrigação independentemente de ações futuras da entidade; já gastos que a entidade pode evitar por sua conduta futura (por exemplo, adaptar instalações para operar de certo modo) não geram provisão. Se o dano ambiental foi causado sem que houvesse dever de reparar, a obrigação surge quando nova lei passa a exigir a reparação ou quando a entidade aceita publicamente essa responsabilidade, criando obrigação não formalizada. Para lei ainda em tramitação, a obrigação só surge quando for praticamente certo que será promulgada conforme a minuta.\n\n5) Passivo contingente\nÉ (a) obrigação possível, resultante de eventos passados, cuja existência depende de eventos futuros incertos fora do controle total da entidade; ou (b) obrigação presente que não é reconhecida porque a saída de recursos não é provável ou porque o valor não pode ser mensurado com suficiente confiabilidade. Passivo contingente não é reconhecido; é divulgado em notas, salvo se for remota a possibilidade de saída de recursos. Deve ser reavaliado continuamente: se a saída se tornar provável, reconhece-se a provisão no período da mudança. Quando a entidade responde solidariamente com terceiros, a parte que se espera que os outros paguem é passivo contingente, e a parte própria provável é provisão.\n\n6) Ativo contingente\nÉ ativo possível, resultante de eventos passados, cuja existência depende de eventos futuros incertos fora do controle total da entidade, como uma ação judicial movida pelo ente cujo resultado é incerto. Ativo contingente não é reconhecido, pois poderia gerar receita que nunca se realizará. É divulgado quando a entrada de recursos for provável. Quando a entrada se tornar praticamente certa e o valor for mensurável, o ativo deixa de ser contingente, e ativo e receita são reconhecidos. Perceba a assimetria proposital: para o passivo, basta o provável para reconhecer; para o ativo, exige-se o praticamente certo.\n\n7) Mensuração\nO valor da provisão é a melhor estimativa do desembolso necessário para liquidar a obrigação na data das demonstrações, isto é, o valor que a entidade racionalmente pagaria para liquidá-la ou transferi-la a terceiro naquela data. Em grande população de itens (garantias, por exemplo), usa-se o valor esperado, ponderando resultados por probabilidades; havendo intervalo contínuo com pontos igualmente prováveis, usa-se o ponto médio. Para obrigação isolada, o resultado individual mais provável pode ser a melhor estimativa, considerando outros resultados possíveis. Riscos e incertezas são levados em conta, sem justificar provisões excessivas nem superavaliação deliberada. Quando o efeito do dinheiro no tempo for material, a provisão é descontada a valor presente, com taxa que reflita as avaliações correntes de mercado sobre o valor do dinheiro no tempo e os riscos específicos do passivo (taxa antes de tributos, quando estes incidirem sobre a entidade); o aumento da provisão pelo passar do tempo é despesa financeira. Eventos futuros que possam afetar o valor (nova tecnologia, nova regulamentação) entram na estimativa quando houver evidência objetiva suficiente de que ocorrerão. Ganhos esperados com a alienação de ativos não são considerados na mensuração.\n\n8) Reembolsos\nSe parte ou todo o desembolso deve ser reembolsado por terceiro (seguradora, outro ente), o reembolso é reconhecido apenas quando for virtualmente certo que será recebido caso a entidade liquide a obrigação, como ativo separado e limitado ao valor da provisão. Na demonstração do resultado, a despesa da provisão pode ser apresentada líquida do reembolso. Se a entidade não responde pelo valor caso o terceiro deixe de pagar, não há provisão para essa parte.\n\n9) Revisão e uso\nAs provisões são revisadas a cada data de demonstrações e ajustadas à melhor estimativa corrente; deixando de ser provável a saída, a provisão é revertida. A provisão só pode ser usada para os desembolsos para os quais foi constituída; usar provisão de uma finalidade para cobrir gasto de outra esconderia o impacto de eventos diferentes.\n\n10) Aplicações específicas\nPerdas operacionais futuras não geram provisão: não há obrigação presente, e a expectativa de perdas é indício de que ativos podem ter perdido valor, o que manda testar sua recuperabilidade. Contrato oneroso é aquele em que os custos inevitáveis para cumprir as obrigações excedem os benefícios ou o potencial de serviços esperados; a obrigação presente líquida é reconhecida como provisão, depois de reconhecida eventual perda por redução ao valor recuperável dos ativos dedicados ao contrato. Reestruturação é programa planejado e controlado pela administração que altera materialmente o alcance das atividades ou a forma de conduzi-las (fim de uma atividade, fechamento de unidade regional, eliminação de nível hierárquico). Só há obrigação não formalizada se a entidade tiver plano formal detalhado (atividade afetada, locais, número aproximado de empregados indenizados, desembolsos e cronograma) e tiver criado expectativa válida nos afetados, iniciando a execução ou anunciando as características principais. A mera decisão, antes da data das demonstrações, não basta. A provisão inclui apenas gastos diretos necessários à reestruturação, não ligados às atividades continuadas (não entram treinamento e realocação de pessoal remanescente, marketing ou novos sistemas). Na venda ou transferência de operação, não há obrigação até que exista acordo vinculante.\n\n11) Divulgação e controle externo\nPara cada classe de provisão, divulgam-se saldos inicial e final, adições, valores utilizados, revertidos e o efeito do desconto, além da natureza, do prazo esperado, das incertezas e dos reembolsos esperados. Para passivos contingentes não remotos e ativos contingentes prováveis, divulgam-se natureza e, quando praticável, estimativa do efeito financeiro e incertezas. Na auditoria financeira, o auditor confronta a contabilidade com o relatório da procuradoria sobre ações judiciais, verifica a classificação de risco (provável, possível, remoto) e a coerência com o Anexo de Riscos Fiscais da LDO. A omissão de provisões relevantes subavalia o passivo e superavalia o patrimônio líquido, podendo fundamentar opinião com ressalva ou adversa.",
+   "flashcards": [
+    {
+     "frente": "Provisão",
+     "verso": "Passivo de prazo ou valor incerto: obrigação presente + saída provável + estimativa confiável.",
+     "dispositivo": "NBC TSP 03 (R1)"
+    },
+    {
+     "frente": "Passivo contingente",
+     "verso": "Não reconhece; divulga em nota, salvo se remota a saída.",
+     "dispositivo": "NBC TSP 03 (R1)"
+    },
+    {
+     "frente": "Ativo contingente",
+     "verso": "Não reconhece; divulga se provável; reconhece quando praticamente certo (aí já não é contingente).",
+     "dispositivo": "NBC TSP 03 (R1)"
+    },
+    {
+     "frente": "Obrigação não formalizada",
+     "verso": "Nasce de práticas, políticas ou declarações que criam expectativa válida em terceiros.",
+     "dispositivo": "NBC TSP 03 (R1)"
+    },
+    {
+     "frente": "Perdas operacionais futuras",
+     "verso": "Nunca geram provisão; são indício para teste de recuperabilidade.",
+     "dispositivo": "NBC TSP 03 (R1)"
+    },
+    {
+     "frente": "Riscos fiscais na LDO",
+     "verso": "Anexo de Riscos Fiscais avalia passivos contingentes e outros riscos (LRF, art. 4º, § 3º).",
+     "dispositivo": "LC nº 101/2000, art. 4º, § 3º"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "enunciado": "Segundo a NBC TSP 03 (R1), a provisão é reconhecida quando a entidade tem obrigação presente decorrente de evento passado, é provável a saída de recursos para liquidá-la e o valor pode ser estimado com confiabilidade.",
+     "gabarito": "C",
+     "comentario": "Certo. São os três requisitos cumulativos; faltando um, não há provisão.",
+     "dispositivo": "NBC TSP 03 (R1), reconhecimento",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-03-n2-q01"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "enunciado": "O passivo contingente deve ser reconhecido no balanço patrimonial quando a possibilidade de saída de recursos for possível, mas não provável.",
+     "gabarito": "E",
+     "comentario": "Errado. Passivo contingente nunca é reconhecido; é divulgado em notas, salvo se remota a possibilidade de saída.",
+     "dispositivo": "NBC TSP 03 (R1), passivos contingentes",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-03-n2-q02"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O ativo contingente deve ser divulgado em notas explicativas quando a entrada de recursos for provável e reconhecido no balanço quando sua realização se tornar praticamente certa.",
+     "gabarito": "C",
+     "comentario": "Certo. Quando a entrada é praticamente certa, o ativo deixa de ser contingente e é reconhecido com a respectiva receita.",
+     "dispositivo": "NBC TSP 03 (R1), ativos contingentes",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-03-n2-q03"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "É admitida a constituição de provisão para déficits operacionais esperados de companhia estadual de transporte nos próximos exercícios, desde que o valor seja estimado com confiabilidade.",
+     "gabarito": "E",
+     "comentario": "Errado. Perdas operacionais futuras não geram provisão, porque não há obrigação presente; a expectativa de perdas é indício para testar a recuperabilidade dos ativos.",
+     "dispositivo": "NBC TSP 03 (R1), perdas operacionais futuras",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-03-n2-q04"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A decisão do secretário de reestruturar a pasta, tomada antes da data das demonstrações e ainda não comunicada aos afetados nem iniciada, já dá origem a provisão para reestruturação.",
+     "gabarito": "E",
+     "comentario": "Errado. É preciso plano formal detalhado e expectativa válida nos afetados, pelo início da execução ou anúncio das características principais.",
+     "dispositivo": "NBC TSP 03 (R1), reestruturação",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-03-n2-q05"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "O reembolso esperado de seguradora relativo a indenização devida pelo ente deve ser deduzido do valor da provisão no passivo sempre que for provável seu recebimento.",
+     "gabarito": "E",
+     "comentario": "Errado. O reembolso só é reconhecido se virtualmente certo, e como ativo separado, limitado ao valor da provisão; admite-se apenas apresentar a despesa líquida na demonstração do resultado.",
+     "dispositivo": "NBC TSP 03 (R1), reembolso",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-03-n2-q06"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "A procuradoria de um estado informa: ação A, perda provável, estimativa confiável de R$ 2 milhões; ação B, perda possível, R$ 5 milhões; ação C, perda remota, R$ 10 milhões; ação D, movida pelo estado, ganho provável de R$ 3 milhões. Pela NBC TSP 03 (R1):",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "reconhecem-se provisões de R$ 7 milhões e ativo de R$ 3 milhões.",
+      "B": "reconhece-se provisão de R$ 2 milhões e divulgam-se B e C em notas.",
+      "C": "reconhece-se provisão de R$ 17 milhões, por prudência.",
+      "D": "reconhece-se provisão de R$ 2 milhões; divulgam-se B (passivo contingente) e D (ativo contingente); C não exige divulgação.",
+      "E": "não se reconhece provisão, pois ações judiciais são sempre passivos contingentes até o trânsito em julgado."
+     },
+     "comentario": "D. Provável e mensurável: provisão. Possível: passivo contingente em nota. Remota: sem divulgação. Ganho provável: ativo contingente em nota, sem reconhecimento.",
+     "dispositivo": "NBC TSP 03 (R1)",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-03-n2-q07"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Município deverá recuperar área de aterro sanitário daqui a 3 anos, por exigência legal já vigente, com gasto estimado de R$ 1.331 mil. A taxa de desconto adequada é 10% ao ano e o efeito do tempo é material. Assinale a opção correta.",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "Provisão de R$ 1.331 mil, sem desconto, por prudência.",
+      "B": "Provisão inicial de R$ 1.000 mil; o acréscimo anual pelo passar do tempo é despesa financeira.",
+      "C": "Não há provisão, pois o desembolso é futuro.",
+      "D": "Passivo contingente, divulgado em nota até o início das obras.",
+      "E": "Provisão de R$ 1.000 mil, com acréscimos anuais lançados como reserva no patrimônio líquido."
+     },
+     "comentario": "B. Há obrigação legal presente por evento passado (o uso do aterro). Valor presente: 1.331 / 1,1³ = 1.000. O desconto se desfaz com o tempo como despesa financeira.",
+     "dispositivo": "NBC TSP 03 (R1), valor presente",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-03-n2-q08"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Passivo contingente é divulgado salvo se a saída for ___; ativo contingente é divulgado quando a entrada for ___.",
+     "opcoes": [
+      "remota",
+      "provável",
+      "possível",
+      "certa",
+      "material",
+      "imediata"
+     ],
+     "respostas": [
+      "remota",
+      "provável"
+     ],
+     "explicacao": "A assimetria protege contra superavaliação de ativos e receitas."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Saída provável e mensurável",
+       "Provisão reconhecida"
+      ],
+      [
+       "Saída possível",
+       "Passivo contingente em nota"
+      ],
+      [
+       "Saída remota",
+       "Nenhuma divulgação"
+      ],
+      [
+       "Entrada provável",
+       "Ativo contingente em nota"
+      ],
+      [
+       "Entrada praticamente certa",
+       "Ativo e receita reconhecidos"
+      ]
+     ]
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o roteiro de análise de uma ação judicial contra o ente.",
+     "itens": [
+      "Verificar se existe obrigação presente (mais provável que sim que não)",
+      "Avaliar a probabilidade de saída de recursos",
+      "Verificar se há estimativa confiável",
+      "Mensurar pela melhor estimativa, descontando se material",
+      "Divulgar e revisar a cada data de demonstrações"
+     ],
+     "explicacao": "Sem obrigação presente provável, o caminho é passivo contingente."
+    },
+    {
+     "tipo": "caso_pratico",
+     "enunciado": "Questão discursiva: Ao examinar o balanço geral de um estado, o tribunal de contas verificou que a procuradoria classificou como de perda provável ações coletivas de servidores sobre reajuste, estimadas em R$ 400 milhões, mas a contabilidade não registrou provisão, sob o argumento de que \"a despesa só existe quando empenhada\" e de que o valor consta do Anexo de Riscos Fiscais da LDO. Avalie o procedimento.",
+     "resposta": "O argumento confunde o regime orçamentário com o patrimonial. Pela NBC TSP 03 (R1), havendo obrigação presente decorrente de evento passado (os fatos que fundamentam as ações), saída de recursos provável e estimativa confiável, a provisão deve ser reconhecida no passivo, independentemente de empenho, que só ocorrerá quando houver execução orçamentária (por exemplo, na expedição de precatórios ou requisições). A menção no Anexo de Riscos Fiscais, exigido pelo art. 4º, § 3º, da LRF, atende ao planejamento fiscal, mas não substitui o reconhecimento contábil; aliás, a classificação de perda provável indica que o item deixou de ser mero passivo contingente. A omissão subavalia o passivo em valor relevante e superavalia o patrimônio líquido, o que pode fundamentar opinião com ressalva ou adversa no parecer prévio, além de determinação de ajuste e de rotina de integração entre procuradoria e contabilidade.",
+     "dispositivo": "NBC TSP 03 (R1); LC nº 101/2000, art. 4º, § 3º"
+    }
+   ]
+  }
+ ]
+}

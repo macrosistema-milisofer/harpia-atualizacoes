@@ -1,0 +1,203 @@
+{
+ "assunto": "Contabilidade Pública – NBC TSP 08 (R1): ativo intangível",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-28",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-nuvem-nbc-tsp-08-n2",
+   "titulo": "Ativo intangível no setor público: a NBC TSP 08 (R1) do software à vida útil indefinida",
+   "microconteudo": "RAIO-X DA PROVA: A banca troca \"separável ou decorrente de acordo vinculante\" por \"separável e decorrente\", manda ativar gastos da fase de pesquisa, aceita marca gerada internamente como ativo, diz que vida útil indefinida significa infinita, manda amortizar intangível de vida indefinida e esquece o teste anual. Também cobra a presunção de valor residual zero, a exigência de mercado ativo no modelo de reavaliação e o tratamento opcional do patrimônio cultural intangível.\n\nPOR QUE IMPORTA:\nO Estado moderno funciona sobre ativos que não se tocam: sistemas de arrecadação, plataformas de nota fiscal eletrônica, bases de dados geográficos, licenças de uso de software, direitos de exploração de imagem de acervos históricos, concessões de uso de faixas de frequência. Muitas vezes esses recursos custam mais que prédios e veículos, e mesmo assim são os primeiros a desaparecer de um balanço mal feito, lançados como despesa do exercício. A NBC TSP 08 (R1), revisão da norma de 2017 convergida com a IPSAS 31 e atualizada pelo CFC com base no manual do IPSASB, é o roteiro que define quando o gasto vira ativo, por quanto é registrado e como é consumido ao longo do tempo. A versão (R1) se aplica aos exercícios iniciados a partir de 1º de janeiro de 2027 e revoga a NBC TSP 08 publicada em 2017, ressalvado normativo nacional com prazo próprio. Para quem vai julgar contas, entender a norma é perceber quando um ente \"esconde\" investimento em tecnologia no resultado, ou quando infla o ativo com gastos que nunca deveriam ter sido capitalizados.\n\nO QUE A BANCA COBRA:\n1) A definição: ativo não monetário, identificável, sem forma física. 2) Os dois caminhos da identificabilidade (separabilidade OU direito decorrente de acordo vinculante). 3) Controle e benefícios econômicos futuros ou potencial de serviços. 4) Fase de pesquisa (sempre despesa) versus fase de desenvolvimento (ativo, se demonstrados os seis requisitos). 5) Itens gerados internamente que nunca viram ativo: ágio interno, marcas, títulos de publicações, listas de usuários. 6) Modelos de mensuração subsequente, com a exigência de mercado ativo para a reavaliação. 7) Vida útil definida (amortiza) versus indefinida (não amortiza, mas testa anualmente). 8) Valor residual presumido zero. 9) Patrimônio cultural intangível: reconhecimento não obrigatório.\n\nENTENDA:\n1) Definição e os três atributos\nAtivo intangível é o ativo não monetário identificável sem forma física. Não monetário, porque não é dinheiro nem direito a receber quantia fixa ou determinável. Sem forma física, porque o valor está no direito ou no conhecimento, não no suporte: o software gravado num disco, a licença impressa num documento e o filme numa mídia continuam intangíveis quando o elemento físico é acessório. Quando há elementos tangíveis e intangíveis juntos, a norma manda julgar qual é o mais significativo; o sistema operacional sem o qual o computador não funciona integra o equipamento e segue a norma do imobilizado, ao passo que o software aplicativo adquirido em separado é intangível.\n\n2) Identificabilidade: separável OU vinculante\nO ativo é identificável quando (a) é separável, isto é, pode ser vendido, transferido, licenciado, alugado ou trocado, individualmente ou com um contrato, ativo ou passivo relacionado, independentemente da intenção da entidade; ou (b) resulta de acordos vinculantes, incluindo direitos contratuais ou outros direitos legais, ainda que esses direitos não sejam transferíveis nem separáveis. O \"ou\" é decisivo: um direito de uso concedido por lei a um órgão, intransferível, é identificável pelo segundo critério. Acordos vinculantes são aqueles que conferem direitos e obrigações similares aos de um contrato, conceito necessário no setor público, onde muitos direitos nascem de leis, convênios e termos de cooperação. A identificabilidade é o que distingue o intangível do ágio por expectativa de rentabilidade futura (goodwill), que representa benefícios não identificados individualmente.\n\n3) Controle e benefício\nA entidade controla o ativo quando pode obter os benefícios econômicos futuros ou o potencial de serviços e restringir o acesso de terceiros a eles. Em regra, o controle vem de direitos legais exigíveis judicialmente, mas pode existir por outros meios. O conhecimento técnico protegido por direito autoral ou por cláusula de confidencialidade é controlado; já a equipe de servidores treinados não é, porque a entidade não controla a permanência nem as habilidades das pessoas. Por isso gastos com treinamento são despesa, por mais valiosos que sejam. No setor público, o benefício pode ser só potencial de serviços: um sistema de gestão hospitalar que não gera caixa, mas permite atender mais pacientes, satisfaz a definição.\n\n4) Reconhecimento e mensuração inicial\nO intangível é reconhecido se for provável o fluxo de benefícios ou de potencial de serviços para a entidade e se o custo ou valor puder ser mensurado confiavelmente. A aquisição separada é o caso fácil: preço de compra mais tributos não recuperáveis, menos descontos, mais custos diretamente atribuíveis à preparação do ativo para uso (honorários de implantação, testes). Despesas de propaganda, de treinamento e custos administrativos gerais não entram. Quando o intangível chega por transação sem contraprestação (doação, cessão gratuita de licença), o custo do item é o seu valor justo na data da aquisição, e essa mensuração inicial não constitui reavaliação. Exemplos da norma: direitos de pouso em aeroporto, licenças de radiodifusão, quotas de acesso a recursos restritos e direitos autorais cedidos a um arquivo público. Na combinação do setor público, o adquirente reconhece o intangível separadamente do ágio, ainda que a entidade adquirida não o tivesse registrado.\n\n5) Gerados internamente: pesquisa e desenvolvimento\nAqui está o núcleo das provas. A entidade divide o projeto interno em fase de pesquisa e fase de desenvolvimento. Pesquisa é a investigação original e planejada para obter novo conhecimento científico ou técnico; nenhum ativo nasce dela, e os gastos vão para o resultado quando incorridos. Desenvolvimento é a aplicação dos resultados da pesquisa em plano ou projeto de produtos, processos, sistemas ou serviços novos ou substancialmente aprimorados, antes do uso. Só gera ativo se a entidade demonstrar, cumulativamente: viabilidade técnica de concluir o ativo; intenção de concluí-lo e usá-lo ou vendê-lo; capacidade de usá-lo ou vendê-lo; a forma como gerará benefícios ou potencial de serviços (inclusive, se for para uso interno, sua utilidade); disponibilidade de recursos técnicos, financeiros e outros para concluir o projeto; e capacidade de mensurar confiavelmente os gastos do desenvolvimento. Se a entidade não consegue separar as duas fases, todo o gasto é tratado como pesquisa. A norma lista expressamente custos de websites e de desenvolvimento de software entre as atividades de desenvolvimento. O custo capitalizado começa a contar da data em que os critérios são atendidos; gasto lançado antes como despesa não pode ser reativado depois.\n\n6) O que nunca vira ativo quando gerado internamente\nÁgio gerado internamente, marcas, títulos de publicações, listas de usuários de um serviço e itens semelhantes produzidos pela própria entidade não são reconhecidos, porque seus custos não se separam do custo de desenvolver as operações como um todo. Também são despesa os gastos pré-operacionais (salvo os incluídos no custo de imobilizado), treinamento, propaganda e realocação ou reorganização. Atenção: marca adquirida de terceiro, com preço identificável, pode ser reconhecida; a vedação é para a gerada internamente.\n\n7) Mensuração após o reconhecimento\nA entidade escolhe, por classe de ativos, o modelo do custo (custo menos amortização e perdas por redução ao valor recuperável acumuladas) ou o modelo da reavaliação (valor justo na data da reavaliação menos amortização e perdas subsequentes). A reavaliação de intangível exige que o valor justo seja apurado por referência a mercado ativo, situação rara (exemplos da norma: licenças ou quotas homogêneas livremente transferíveis). Se um item da classe reavaliada não tiver mercado ativo, ele fica pelo custo. Se o mercado ativo deixar de existir, o ativo permanece pelo último valor reavaliado, menos amortização e perdas posteriores, e esse desaparecimento é indício de perda, que manda testar o ativo pela NBC TSP 09 ou 10. O aumento por reavaliação vai à reserva de reavaliação no patrimônio líquido, salvo quando reverte redução antes levada ao resultado; a diminuição vai ao resultado, salvo até o limite do saldo credor da reserva de reavaliação referente ao próprio ativo, que é debitada.\n\n8) Vida útil: definida ou indefinida\nA entidade avalia se a vida útil é definida (duração ou unidades de produção) ou indefinida, isto é, sem limite previsível para o período em que o ativo gerará benefícios. Indefinida não significa infinita. O intangível de vida definida é amortizado de forma sistemática, a partir do momento em que está disponível para uso, por método que reflita o padrão de consumo dos benefícios ou do potencial de serviços (linear, saldos decrescentes, unidades produzidas), aplicado de forma consistente; há presunção refutável de que amortizar com base na receita gerada pela atividade não é apropriado. A vida útil de direito decorrente de acordo vinculante não pode exceder o prazo do direito, mas pode ser menor; a renovação só entra na conta se houver evidência de que ocorrerá sem custo significativo. Software tende a vida curta pela obsolescência tecnológica. O valor residual do intangível de vida definida é presumido zero, salvo compromisso de terceiro de comprá-lo ao fim da vida útil ou mercado ativo que permita estimá-lo e provavelmente exista ao final. Período e método são revistos pelo menos ao fim de cada exercício, e mudanças são tratadas como mudança de estimativa, prospectivamente.\nO intangível de vida indefinida não é amortizado, mas deve ser testado quanto à redução ao valor recuperável anualmente e sempre que houver indício, o mesmo valendo para o intangível ainda não disponível para uso. A cada exercício revê-se se a avaliação de vida indefinida continua sustentada; passar de indefinida para definida é mudança de estimativa e indício de perda.\n\n9) Baixa e divulgação\nO intangível é desreconhecido na alienação (venda, arrendamento financeiro, transação sem contraprestação) ou quando não se esperam mais benefícios nem potencial de serviços de seu uso ou alienação; o ganho ou a perda, diferença entre o valor líquido da alienação e o valor contábil, vai ao resultado. Por classe, divulga-se se a vida útil é definida ou indefinida, prazos ou taxas e métodos de amortização, valor bruto e amortização acumulada, conciliação do início ao fim do período e, para os de vida indefinida, as razões que fundamentam essa avaliação.\n\n10) Patrimônio cultural intangível\nA norma não obriga a reconhecer o patrimônio cultural intangível (gravações de eventos históricos, direitos de uso da imagem de personalidade pública relevante), ainda que atenda à definição e aos critérios. Se a entidade decide reconhecê-lo, aplica as exigências de divulgação. Quando esses itens também geram benefícios além do valor cultural, como direitos pagos por terceiros para usar gravação histórica, a orientação é reconhecê-los e mensurá-los como qualquer intangível.\n\n11) Olhar do controle externo\nEm auditoria financeira, os achados típicos são: software desenvolvido por contrato registrado como despesa, subavaliando o ativo; capitalização de gastos de manutenção corretiva ou de treinamento de usuários; ausência de amortização de licenças com prazo; vida útil \"indefinida\" atribuída a sistemas sem estudo técnico; e falta de teste anual dos intangíveis sem amortização. Cada um distorce o patrimônio líquido e o resultado patrimonial, e, se relevante, fundamenta ressalva. No controle de legalidade, a contratação de desenvolvimento de software exige especificação capaz de separar a fase exploratória da fase de construção, o que também ajuda a contabilidade a aplicar corretamente o critério de capitalização.",
+   "flashcards": [
+    {
+     "frente": "Ativo intangível",
+     "verso": "Ativo não monetário, identificável, sem forma física.",
+     "dispositivo": "NBC TSP 08 (R1)"
+    },
+    {
+     "frente": "Identificável quando...",
+     "verso": "For separável OU resultar de acordo vinculante (direito contratual ou legal), mesmo intransferível.",
+     "dispositivo": "NBC TSP 08 (R1)"
+    },
+    {
+     "frente": "Fase de pesquisa",
+     "verso": "Sempre despesa. Sem separação possível entre fases, tudo é pesquisa.",
+     "dispositivo": "NBC TSP 08 (R1)"
+    },
+    {
+     "frente": "Seis requisitos do desenvolvimento",
+     "verso": "Viabilidade técnica, intenção, capacidade de usar/vender, forma de gerar benefício, recursos para concluir, mensuração confiável dos gastos.",
+     "dispositivo": "NBC TSP 08 (R1)"
+    },
+    {
+     "frente": "Nunca ativo se gerado internamente",
+     "verso": "Ágio, marcas, títulos de publicações, listas de usuários e similares.",
+     "dispositivo": "NBC TSP 08 (R1)"
+    },
+    {
+     "frente": "Vida útil indefinida",
+     "verso": "Não amortiza; teste de recuperabilidade anual e revisão anual da própria avaliação.",
+     "dispositivo": "NBC TSP 08 (R1)"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "enunciado": "Segundo a NBC TSP 08 (R1), um ativo só é identificável se for, simultaneamente, separável da entidade e resultante de acordo vinculante.",
+     "gabarito": "E",
+     "comentario": "Errado. Basta um dos dois critérios: separabilidade OU origem em acordo vinculante (direito contratual ou legal), ainda que intransferível.",
+     "dispositivo": "NBC TSP 08 (R1), definição de identificável",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-08-n2-q01"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "enunciado": "Os gastos incorridos na fase de pesquisa de projeto interno devem ser reconhecidos como despesa quando incorridos, não originando ativo intangível.",
+     "gabarito": "C",
+     "comentario": "Certo. Na pesquisa não é possível demonstrar ativo que gerará benefícios prováveis; por isso o gasto vai ao resultado.",
+     "dispositivo": "NBC TSP 08 (R1), fase de pesquisa",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-08-n2-q02"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Quando a entidade não consegue distinguir a fase de pesquisa da fase de desenvolvimento de um projeto interno, deve capitalizar a totalidade dos gastos, desde que o projeto seja tecnicamente viável.",
+     "gabarito": "E",
+     "comentario": "Errado. Na impossibilidade de separação, todo o gasto é tratado como incorrido na fase de pesquisa, isto é, despesa.",
+     "dispositivo": "NBC TSP 08 (R1), geração interna",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-08-n2-q03"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Marca desenvolvida internamente por autarquia estadual, com custos de criação devidamente apurados, pode ser reconhecida como ativo intangível pelo custo de desenvolvimento.",
+     "gabarito": "E",
+     "comentario": "Errado. Marcas, títulos de publicações e listas de usuários gerados internamente não são reconhecidos, porque seus gastos não se separam do custo das operações. Marca adquirida de terceiro pode ser reconhecida.",
+     "dispositivo": "NBC TSP 08 (R1), itens gerados internamente",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-08-n2-q04"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O ativo intangível com vida útil indefinida não é amortizado, mas deve ser testado quanto à redução ao valor recuperável anualmente e sempre que houver indício de perda.",
+     "gabarito": "C",
+     "comentario": "Certo. Vida indefinida não significa infinita: sem amortização, o controle do valor se faz pelo teste periódico e pela revisão anual da própria avaliação de vida útil.",
+     "dispositivo": "NBC TSP 08 (R1), vida útil indefinida; NBC TSP 09 e 10",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-08-n2-q05"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Para mensurar classe de ativos intangíveis pelo modelo da reavaliação, admite-se apurar o valor justo por técnicas de avaliação baseadas em fluxos de caixa, quando não houver mercado ativo.",
+     "gabarito": "E",
+     "comentario": "Errado. No intangível, a reavaliação exige valor justo apurado por referência a mercado ativo; sem ele, o item permanece pelo custo menos amortização e perdas.",
+     "dispositivo": "NBC TSP 08 (R1), modelo da reavaliação",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-08-n2-q06"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Município contratou o desenvolvimento de sistema de gestão tributária. Gastou R$ 120 mil em levantamento de alternativas tecnológicas e R$ 480 mil, após demonstrados todos os critérios de reconhecimento, em programação, testes e implantação; também gastou R$ 40 mil em treinamento dos servidores. Pela NBC TSP 08 (R1), o valor do ativo intangível é:",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "R$ 640 mil.",
+      "B": "R$ 480 mil.",
+      "C": "R$ 520 mil.",
+      "D": "R$ 600 mil.",
+      "E": "zero, porque software desenvolvido sob encomenda é sempre despesa."
+     },
+     "comentario": "B. A busca de alternativas é atividade de pesquisa (despesa); treinamento é sempre despesa; só os gastos de desenvolvimento posteriores ao atendimento dos critérios são capitalizados.",
+     "dispositivo": "NBC TSP 08 (R1), pesquisa, desenvolvimento e custo do intangível gerado internamente",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-08-n2-q07"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Órgão estadual adquiriu, por R$ 300 mil, direito de uso de software por 5 anos, renovável apenas mediante novo pagamento equivalente ao preço de mercado. A equipe técnica estima utilizar o sistema por 8 anos. Assinale a opção correta.",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "A amortização deve ocorrer em 8 anos, pois prevalece a expectativa de uso.",
+      "B": "O ativo tem vida útil indefinida, pois a renovação é possível.",
+      "C": "O valor residual deve ser estimado com base no preço de renovação.",
+      "D": "A vida útil não pode exceder 5 anos, e o valor residual é presumido zero.",
+      "E": "O direito não é identificável, porque não pode ser transferido a terceiros."
+     },
+     "comentario": "D. A vida útil de direito decorrente de acordo vinculante não excede o prazo do direito; renovação com custo significativo não a prolonga. Valor residual é zero, salvo compromisso de compra ou mercado ativo. A identificabilidade decorre do próprio acordo.",
+     "dispositivo": "NBC TSP 08 (R1), vida útil e valor residual",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-08-n2-q08"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Ativo intangível de vida útil ___ é amortizado; o de vida útil ___ não é, mas passa por teste anual.",
+     "opcoes": [
+      "definida",
+      "indefinida",
+      "infinita",
+      "curta",
+      "residual",
+      "econômica"
+     ],
+     "respostas": [
+      "definida",
+      "indefinida"
+     ],
+     "explicacao": "Indefinida não é infinita: significa ausência de limite previsível."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Licença de software adquirida",
+       "Reconhece pelo custo de aquisição"
+      ],
+      [
+       "Busca de alternativas tecnológicas",
+       "Pesquisa: despesa"
+      ],
+      [
+       "Construção e teste de protótipo",
+       "Desenvolvimento: ativo, se cumpridos os requisitos"
+      ],
+      [
+       "Marca criada pela própria entidade",
+       "Não reconhecida"
+      ],
+      [
+       "Treinamento de servidores",
+       "Despesa: não há controle sobre as pessoas"
+      ]
+     ]
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o raciocínio para decidir se um gasto vira intangível.",
+     "itens": [
+      "Verificar a definição (não monetário, identificável, sem forma física)",
+      "Verificar controle e benefício ou potencial de serviços",
+      "Aplicar os critérios de reconhecimento (probabilidade e mensuração confiável)",
+      "Se gerado internamente, separar pesquisa de desenvolvimento",
+      "Definir vida útil e política de amortização ou teste anual"
+     ],
+     "explicacao": "Definição e controle vêm antes do reconhecimento; vida útil define o tratamento posterior."
+    },
+    {
+     "tipo": "caso_pratico",
+     "enunciado": "Questão discursiva: Em auditoria das contas de secretaria estadual de fazenda, verificou-se que o sistema de nota fiscal eletrônica, desenvolvido por contrato nos últimos três anos, foi integralmente lançado como despesa, e que licenças de banco de dados com prazo de 4 anos estão registradas no ativo sem amortização, sob o argumento de que \"software não se desgasta\". Analise os dois achados à luz da NBC TSP 08 (R1) e indique seus efeitos sobre as demonstrações.",
+     "resposta": "O sistema de nota fiscal é intangível gerado (por contrato) para uso próprio: os gastos da fase de desenvolvimento, a partir do momento em que demonstrados viabilidade técnica, intenção, capacidade de uso, forma de gerar potencial de serviços, recursos e mensuração confiável, deveriam ter sido capitalizados; os de pesquisa e treinamento seguem como despesa. Lançar tudo em despesa subavalia ativo e patrimônio líquido e distorce o resultado patrimonial dos exercícios. As licenças decorrem de acordo vinculante com prazo de 4 anos: têm vida útil definida limitada ao prazo e devem ser amortizadas sistematicamente, com valor residual presumido zero; a ausência de amortização superavalia o ativo. \"Desgaste físico\" é irrelevante: amortização reflete consumo do benefício no tempo. Conforme a relevância, os achados fundamentam ressalva, determinação de ajuste e recomendação de política contábil para intangíveis.",
+     "dispositivo": "NBC TSP 08 (R1)"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,203 @@
+{
+ "assunto": "Matemática financeira – juros simples e compostos",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-28",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-nuvem-juros-simples-compostos-n2",
+   "titulo": "Juros simples e compostos: fórmulas, convenções e o dinheiro público no tempo",
+   "microconteudo": "RAIO-X DA PROVA: O Cebraspe costuma comparar montantes nos dois regimes (simples maior quando o prazo é inferior a um período; composto maior acima dele), exigir a fórmula do montante e do capital, cobrar juros exatos (ano civil) e comerciais (ano de 360 dias), convenção linear e exponencial em prazos fracionários, tempo para dobrar o capital, progressão aritmética x geométrica e, em provas de tribunal de contas, a correção de débitos pela Selic acumulada e a vedação ao anatocismo fora das hipóteses legais.\n\nPOR QUE IMPORTA:\nJuro é o preço do tempo. Quem tem dinheiro hoje e o empresta abre mão de usá-lo, corre risco e enfrenta a inflação; o juro remunera tudo isso. No setor público, a matemática dos juros está em toda parte: na atualização de débitos imputados por tribunais de contas, na correção de precatórios, na dívida pública, nos financiamentos de obras, na comparação entre pagar à vista ou parcelado numa licitação, nos acordos de parcelamento tributário e na avaliação de investimentos de regimes próprios de previdência. Um auditor que não distingue juros simples de compostos não consegue verificar se uma dívida foi corretamente atualizada nem detectar a capitalização indevida que infla um contrato. Por isso o tema aparece nos editais de controle externo, normalmente com cálculos rápidos e pegadinhas conceituais.\n\nO QUE A BANCA COBRA:\n1) Elementos: capital, taxa, prazo, juros e montante. 2) Fórmulas dos dois regimes e o que as diferencia. 3) Comparação dos montantes conforme o prazo. 4) Homogeneidade entre taxa e prazo. 5) Juros exatos e comerciais. 6) Prazos fracionários: convenção linear e exponencial. 7) Valor presente e equivalência de capitais. 8) Aplicações jurídicas: Selic acumulada, anatocismo e capitalização.\n\nENTENDA:\n1) Os elementos\nCapital (C, também chamado principal ou valor presente) é a quantia inicial. Taxa (i) é o percentual de remuneração por período, sempre referida a uma unidade de tempo (ao mês, ao ano). Prazo (n) é o número de períodos. Juros (J) são a remuneração; montante (M, ou valor futuro) é o capital somado aos juros: M = C + J. Na fórmula, a taxa entra na forma unitária: 2% ao mês vira 0,02.\n\n2) Juros simples\nNo regime simples, os juros de cada período incidem sempre sobre o capital inicial. Não há \"juros sobre juros\". Assim, J = C · i · n e M = C · (1 + i · n). O montante cresce em progressão aritmética: a cada período soma-se a mesma quantia, C · i. Exemplo: R$ 10.000,00 a 2% ao mês por 12 meses geram J = 10.000 × 0,02 × 12 = R$ 2.400,00, e M = R$ 12.400,00. O gráfico do montante em função do tempo é uma reta. Consequência importante: no regime simples, taxas proporcionais são equivalentes. 2% ao mês equivalem a 24% ao ano, porque 12 × 2% produzem o mesmo juro sobre o mesmo capital.\n\n3) Juros compostos\nNo regime composto, os juros de cada período se incorporam ao capital e passam a render juros no período seguinte (capitalização). M = C · (1 + i)ⁿ e J = M − C. O montante cresce em progressão geométrica de razão (1 + i), e o gráfico é uma curva exponencial. Com os mesmos dados: M = 10.000 × 1,02¹² ≈ R$ 12.682,42; os juros somam cerca de R$ 2.682,42, R$ 282,42 a mais que no simples. O fator (1 + i)ⁿ é o fator de capitalização; seu inverso, 1/(1 + i)ⁿ, é o fator de desconto ou de valor presente. No regime composto, taxas proporcionais não são equivalentes: 2% ao mês compostos equivalem a cerca de 26,82% ao ano, porque (1,02)¹² ≈ 1,2682.\n\n4) Quem rende mais? Depende do prazo\nPara a mesma taxa e o mesmo capital: com prazo igual a um período, os montantes são iguais (1 + i = 1 + i); com prazo maior que um período, o composto é maior; com prazo menor que um período, o simples é maior. Exemplo: R$ 10.000,00 a 10% ao mês por meio mês dá R$ 10.500,00 no simples e cerca de R$ 10.488,09 no composto, porque 1,1 elevado a 0,5 é menor que 1,05. Essa é uma das pegadinhas mais frequentes: afirmar que o composto \"sempre\" rende mais é errado.\n\n5) Homogeneidade\nTaxa e prazo precisam estar na mesma unidade. Taxa mensal com prazo em meses; taxa anual com prazo em anos. No simples, basta converter proporcionalmente (36% ao ano = 3% ao mês). No composto, é preciso usar a equivalência: (1 + iₐ) = (1 + iₘ)¹². Errar a conversão é o principal erro de cálculo em prova.\n\n6) Juros exatos e comerciais\nQuando o prazo é dado em dias e a taxa é anual, há duas convenções. Juros comerciais (ou ordinários) consideram o ano de 360 dias e o mês de 30 dias. Juros exatos consideram o ano civil de 365 dias (ou 366, no bissexto). Exemplo: R$ 10.000,00 a 36% ao ano por 73 dias geram R$ 720,00 de juros exatos (10.000 × 0,36 × 73/365) e R$ 730,00 de juros comerciais (10.000 × 0,36 × 73/360). Os comerciais são sempre um pouco maiores, já que se divide por um número menor.\n\n7) Prazos fracionários: convenção linear e exponencial\nEm juros compostos com prazo não inteiro (2 anos e meio, por exemplo), há duas formas de calcular. Na convenção exponencial, aplica-se a fórmula diretamente com expoente fracionário: M = C · (1 + i)^2,5. Na convenção linear, capitaliza-se de forma composta a parte inteira e aplica-se juro simples sobre a parte fracionária: M = C · (1 + i)² · (1 + i · 0,5). Com C = R$ 10.000,00 e i = 10% ao ano, a convenção exponencial dá cerca de R$ 12.690,59 e a linear, R$ 12.705,00. A linear sempre produz montante maior, coerente com o item 4: na fração inferior a um período, o simples rende mais.\n\n8) Valor presente, desconto e equivalência\nTrazer um valor futuro para hoje é dividir pelo fator de capitalização: C = M / (1 + i)ⁿ no composto, ou C = M / (1 + i · n) no simples. Exemplo: R$ 12.100,00 a receber em dois anos, a 10% ao ano compostos, valem hoje R$ 10.000,00. Dois capitais são equivalentes, a uma taxa dada, quando têm o mesmo valor numa mesma data. No regime composto, a equivalência vale em qualquer data focal escolhida; no simples, a equivalência depende da data focal, o que torna o regime composto o padrão para comparar fluxos financeiros. Uma aplicação prática: numa licitação, comparar proposta à vista com proposta parcelada exige trazer as parcelas a valor presente com a taxa de oportunidade do ente.\n\n9) Tempo para dobrar\nNo simples, o capital dobra quando i · n = 1, isto é, n = 1/i: a 5% ao mês, em 20 meses. No composto, (1 + i)ⁿ = 2, logo n = ln 2 / ln(1 + i): a 5% ao mês, cerca de 14,2 meses. Uma aproximação útil é a \"regra do 70\": dividir 70 pela taxa percentual dá aproximadamente o número de períodos para dobrar (70/5 = 14).\n\n10) Juros e direito: Selic, capitalização e anatocismo\nA capitalização de juros (anatocismo) tem regime jurídico próprio. A Súmula 121 do STF veda a capitalização de juros, ainda que expressamente convencionada, regra geral dos contratos entre particulares; para instituições integrantes do Sistema Financeiro Nacional, a capitalização com periodicidade inferior a um ano é admitida desde que expressamente pactuada (MP nº 2.170-36/2001, art. 5º; Súmula 539 do STJ). Nas relações com o poder público, a Selic é a referência mais comum. Nos tributos federais, os juros de mora correspondem à taxa Selic acumulada mensalmente, mais 1% no mês do pagamento (Lei nº 9.430/1996, arts. 5º, § 3º, e 61, § 3º). Nas condenações da Fazenda Pública, a EC nº 113/2021 (art. 3º) determinou a incidência, uma única vez, até o efetivo pagamento, da Selic acumulada mensalmente, para fins de atualização monetária, remuneração do capital e compensação da mora. \"Acumulada mensalmente\" significa somar as taxas mensais, isto é, acumulação simples, e não composição: ponto que costuma confundir quem confere cálculos de débitos.\n\n11) Três atalhos para a prova\nPrimeiro: quando a questão der montante e juros e pedir a taxa no regime simples, isole i = J / (C · n), lembrando que o capital é M − J. Exemplo: montante de R$ 13.000,00, juros de R$ 3.000,00 em 10 meses levam a C = 10.000 e i = 3.000 / (10.000 × 10) = 3% ao mês. Segundo: em juros compostos, quando a prova fornecer tabela de fatores (1 + i)ⁿ, procure decompor o prazo em somas, porque (1 + i)^(a+b) = (1 + i)^a · (1 + i)^b; com o fator de 6 meses, obtém-se o de 12 meses elevando-o ao quadrado. Terceiro: para comparar regimes sem calcular, lembre que a diferença entre composto e simples cresce com o prazo e com a taxa; em prazos curtos e taxas baixas, os valores ficam muito próximos, e a banca explora isso com alternativas quase iguais. Em afirmações do tipo certo ou errado, desconfie de palavras absolutas como \"sempre\" e \"nunca\" aplicadas à superioridade de um regime, e verifique se taxa e prazo estão na mesma unidade antes de aceitar qualquer conta apresentada no enunciado.\n\n12) Olhar do controle externo\nNa instrução de tomadas de contas especiais, o débito é atualizado e acrescido de juros conforme a lei orgânica e as normas do tribunal; o auditor deve conferir a data de início, o índice e o regime de cálculo. Em contratos de financiamento de obras e operações de crédito, deve verificar a periodicidade de capitalização pactuada e a taxa efetiva, porque uma taxa nominal anual capitalizada mensalmente esconde custo efetivo maior. E, em acordos de parcelamento, deve verificar se as parcelas, trazidas a valor presente, correspondem ao débito original, sob pena de renúncia de receita disfarçada.",
+   "flashcards": [
+    {
+     "frente": "Juros simples",
+     "verso": "J = C·i·n; M = C(1 + i·n). Progressão aritmética.",
+     "dispositivo": "Matemática financeira"
+    },
+    {
+     "frente": "Juros compostos",
+     "verso": "M = C(1 + i)ⁿ; J = M − C. Progressão geométrica.",
+     "dispositivo": "Matemática financeira"
+    },
+    {
+     "frente": "Qual rende mais?",
+     "verso": "n < 1: simples. n = 1: iguais. n > 1: composto.",
+     "dispositivo": "Matemática financeira"
+    },
+    {
+     "frente": "Juros comerciais x exatos",
+     "verso": "Ano de 360 dias x ano civil (365/366). Comerciais são maiores.",
+     "dispositivo": "Matemática financeira"
+    },
+    {
+     "frente": "Convenção linear",
+     "verso": "Composto na parte inteira e simples na fração: montante maior que a exponencial.",
+     "dispositivo": "Matemática financeira"
+    },
+    {
+     "frente": "Selic \"acumulada mensalmente\"",
+     "verso": "Soma das taxas mensais, sem capitalização (tributos federais e EC 113/2021).",
+     "dispositivo": "Lei nº 9.430/1996; EC nº 113/2021"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "enunciado": "No regime de juros simples, os juros de cada período são calculados sobre o capital inicial, e o montante cresce em progressão aritmética.",
+     "gabarito": "C",
+     "comentario": "Certo. J = C·i·n; soma-se a mesma quantia C·i a cada período.",
+     "dispositivo": "Matemática financeira",
+     "texto_base": "",
+     "id": "tceac-nuvem-juros-simples-compostos-n2-q01"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "enunciado": "Para o mesmo capital, a mesma taxa e qualquer prazo, o montante obtido em juros compostos é sempre superior ao obtido em juros simples.",
+     "gabarito": "E",
+     "comentario": "Errado. Em prazo de um período os montantes são iguais; em prazo inferior a um período, o simples é maior.",
+     "dispositivo": "Matemática financeira",
+     "texto_base": "",
+     "id": "tceac-nuvem-juros-simples-compostos-n2-q02"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Em juros compostos, a taxa de 2% ao mês é equivalente à taxa de 24% ao ano.",
+     "gabarito": "E",
+     "comentario": "Errado. 24% ao ano é a taxa proporcional, equivalente apenas no regime simples. No composto, a equivalente é (1,02)¹² − 1 ≈ 26,82% ao ano.",
+     "dispositivo": "Matemática financeira",
+     "texto_base": "",
+     "id": "tceac-nuvem-juros-simples-compostos-n2-q03"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Os juros comerciais, calculados com ano de 360 dias, são maiores que os juros exatos para o mesmo capital, taxa anual e prazo em dias.",
+     "gabarito": "C",
+     "comentario": "Certo. Divide-se o prazo por 360, e não por 365, o que eleva a fração do ano e os juros.",
+     "dispositivo": "Matemática financeira",
+     "texto_base": "",
+     "id": "tceac-nuvem-juros-simples-compostos-n2-q04"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Em juros compostos com prazo fracionário, a convenção linear produz montante maior que a convenção exponencial.",
+     "gabarito": "C",
+     "comentario": "Certo. Na fração inferior a um período, a convenção linear aplica juros simples, que rendem mais que os compostos.",
+     "dispositivo": "Matemática financeira",
+     "texto_base": "",
+     "id": "tceac-nuvem-juros-simples-compostos-n2-q05"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Nas condenações da Fazenda Pública, a EC nº 113/2021 determina a incidência da taxa Selic capitalizada mensalmente, de modo que os juros de cada mês incidem sobre os juros dos meses anteriores.",
+     "gabarito": "E",
+     "comentario": "Errado. A EC 113/2021 fala em Selic \"acumulada mensalmente\", incidindo uma única vez até o pagamento; acumular mensalmente significa somar as taxas, não capitalizá-las.",
+     "dispositivo": "EC nº 113/2021, art. 3º",
+     "texto_base": "",
+     "id": "tceac-nuvem-juros-simples-compostos-n2-q06"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Um débito de R$ 10.000,00 será atualizado por 6 meses à taxa de 1% ao mês. A diferença entre o montante em juros compostos e em juros simples é, aproximadamente:",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "R$ 0,00.",
+      "B": "R$ 15,20.",
+      "C": "R$ 60,00.",
+      "D": "R$ 152,01.",
+      "E": "R$ 615,20."
+     },
+     "comentario": "B. Simples: 10.000 × 1,06 = 10.600,00. Composto: 10.000 × 1,01⁶ ≈ 10.615,20. Diferença ≈ R$ 15,20.",
+     "dispositivo": "M = C(1 + in) e M = C(1 + i)ⁿ",
+     "texto_base": "",
+     "id": "tceac-nuvem-juros-simples-compostos-n2-q07"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Órgão público pode pagar um equipamento à vista ou em parcela única de R$ 12.100,00 daqui a 2 anos. Sua taxa de oportunidade é 10% ao ano, em juros compostos. Assinale a opção correta.",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "O pagamento futuro é sempre preferível, pois adia o desembolso.",
+      "B": "Os valores só podem ser comparados em juros simples.",
+      "C": "O valor presente da parcela futura é R$ 10.083,33.",
+      "D": "O valor presente da parcela futura é R$ 10.000,00; o pagamento a prazo é vantajoso se o preço à vista for superior a esse valor.",
+      "E": "O valor presente da parcela futura é R$ 11.000,00."
+     },
+     "comentario": "D. VP = 12.100 / 1,1² = 10.000. Se o preço à vista for maior que R$ 10.000,00, o parcelamento custa menos em valor presente. R$ 10.083,33 seria o cálculo em juros simples (12.100 / 1,2).",
+     "dispositivo": "Valor presente em juros compostos",
+     "texto_base": "",
+     "id": "tceac-nuvem-juros-simples-compostos-n2-q08"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "No regime ___, taxas proporcionais são equivalentes; no regime ___, é preciso usar a equivalência exponencial.",
+     "opcoes": [
+      "simples",
+      "composto",
+      "linear",
+      "comercial",
+      "exato",
+      "nominal"
+     ],
+     "respostas": [
+      "simples",
+      "composto"
+     ],
+     "explicacao": "Em juros compostos, (1 + iₐ) = (1 + iₘ)¹²."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "M = C(1 + i·n)",
+       "Montante em juros simples"
+      ],
+      [
+       "M = C(1 + i)ⁿ",
+       "Montante em juros compostos"
+      ],
+      [
+       "1/(1 + i)ⁿ",
+       "Fator de valor presente"
+      ],
+      [
+       "n = ln 2 / ln(1 + i)",
+       "Tempo para dobrar no composto"
+      ],
+      [
+       "n = 1/i",
+       "Tempo para dobrar no simples"
+      ]
+     ]
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene os passos para atualizar um débito em juros compostos.",
+     "itens": [
+      "Identificar capital, data inicial e data final",
+      "Ajustar a taxa à unidade do prazo (equivalência)",
+      "Calcular o fator (1 + i)ⁿ",
+      "Multiplicar o capital pelo fator",
+      "Subtrair o capital para obter os juros, se pedido"
+     ],
+     "explicacao": "A homogeneidade entre taxa e prazo vem antes de qualquer conta."
+    },
+    {
+     "tipo": "caso_pratico",
+     "enunciado": "Questão discursiva: Ao instruir uma tomada de contas especial, a unidade técnica atualizou débito de R$ 100.000,00 capitalizando mensalmente a taxa Selic, sob o argumento de que \"juros compostos refletem melhor o custo do dinheiro\". O responsável alega que o cálculo superestima o débito. Considerando que a norma aplicável manda atualizar o débito pela Selic acumulada mensalmente, avalie o cálculo e explique a diferença entre os regimes.",
+     "resposta": "Assiste razão ao responsável. \"Acumulada mensalmente\", na linguagem das normas que adotam a Selic (como a Lei nº 9.430/1996 para tributos federais e a EC nº 113/2021 para condenações da Fazenda), significa somar as taxas mensais e aplicar o percentual acumulado sobre o principal, uma acumulação simples, e não capitalizar mês a mês. Capitalizar faz os juros de cada mês incidirem sobre os juros anteriores, gerando montante maior que o previsto na norma, o que configura excesso no débito imputado. Em juros simples, M = C(1 + Σiₘ); em compostos, M = C·Π(1 + iₘ), sempre maior quando há mais de um período. O cálculo deve ser refeito segundo a regra normativa, sob pena de nulidade parcial da imputação e de questionamento judicial do título executivo. A escolha do regime não é questão de preferência técnica, mas de legalidade.",
+     "dispositivo": "Lei nº 9.430/1996, art. 61, § 3º; EC nº 113/2021, art. 3º"
+    }
+   ]
+  }
+ ]
+}

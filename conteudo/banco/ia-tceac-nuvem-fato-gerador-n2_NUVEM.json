@@ -1,0 +1,203 @@
+{
+ "assunto": "Direito Tributário – hipótese de incidência e fato gerador",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-28",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-nuvem-fato-gerador-n2",
+   "titulo": "Hipótese de incidência e fato gerador: da regra-matriz à norma antielisiva",
+   "microconteudo": "RAIO-X DA PROVA: Cobram-se a distinção entre hipótese de incidência (descrição abstrata na lei) e fato gerador ou fato imponível (ocorrência concreta), a definição legal do art. 114 e do art. 115 do CTN, o momento de ocorrência nas situações de fato e jurídicas (art. 116), os negócios condicionais (art. 117), o pecunia non olet (art. 118), as classificações (instantâneo, periódico, continuado), o fato gerador presumido na substituição tributária progressiva e a restituição do Tema 201, a ADC 49 sobre transferências entre estabelecimentos e a constitucionalidade do parágrafo único do art. 116 reconhecida na ADI 2.446.\n\nPOR QUE IMPORTA:\nTudo no direito tributário começa por uma pergunta: aconteceu, no mundo, aquilo que a lei descreveu como capaz de fazer nascer o tributo? É a partir do fato gerador que se identificam o sujeito passivo, a lei aplicável no tempo (art. 144 do CTN), a base de cálculo, o ente competente e o prazo decadencial. Para o controle externo, o tema é igualmente prático: auditorias de receita examinam se o ente cobra o que deveria cobrar, se a renúncia de receitas foi corretamente estimada e se o fisco qualifica bem os fatos, sem criar tributo por analogia nem deixar de cobrar por formalismo. Por isso o assunto aparece em editais de tribunais de contas, magistratura, procuradorias e Ministério Público, sempre com a mesma combinação: dispositivos do CTN, doutrina da regra-matriz e alguns julgados estruturantes do STF.\n\nO QUE A BANCA COBRA:\n1) Terminologia: hipótese de incidência, fato gerador, fato imponível. 2) Arts. 114 e 115 do CTN: fato gerador da obrigação principal e da acessória. 3) Aspectos ou critérios da regra-matriz. 4) Momento de ocorrência (art. 116) e negócios condicionais (art. 117). 5) Interpretação objetiva do fato gerador (art. 118). 6) Classificações. 7) Fato gerador presumido e substituição tributária progressiva (art. 150, § 7º, da Constituição). 8) Norma antielisiva (art. 116, parágrafo único) e a ADI 2.446.\n\nENTENDA:\n1) Hipótese de incidência x fato gerador\nO CTN usa a expressão \"fato gerador\" para duas realidades diferentes: a descrição abstrata contida na lei e o acontecimento concreto que a ela corresponde. Geraldo Ataliba propôs separar os planos: hipótese de incidência é a descrição legal, hipotética, de um fato; fato imponível é o fato efetivamente ocorrido que se amolda à descrição. Paulo de Barros Carvalho fala em hipótese tributária e fato jurídico tributário. Quando o fato concreto corresponde integralmente à hipótese, dá-se a subsunção, e a consequência normativa (a obrigação tributária) incide automaticamente. Essa distinção não é só acadêmica: ajuda a entender por que a obrigação nasce independentemente da vontade das partes e por que a lei vigente na data do fato concreto é a que rege o lançamento.\n\n2) Definições legais\nFato gerador da obrigação principal é a situação definida em lei como necessária e suficiente à sua ocorrência (art. 114). A exigência de lei decorre da legalidade tributária (art. 150, I, da Constituição; art. 97, III, do CTN): só a lei pode definir o fato gerador da obrigação principal. \"Necessária\" significa que, sem ela, não há obrigação; \"suficiente\" significa que basta ela, sem nenhum outro elemento. Fato gerador da obrigação acessória é qualquer situação que, na forma da legislação aplicável, impõe a prática ou a abstenção de ato que não configure obrigação principal (art. 115). Note a diferença de redação: para a acessória, o CTN fala em \"legislação\", o que, segundo a leitura majoritária, admite que atos infralegais detalhem deveres instrumentais, como a forma de emissão de notas fiscais.\n\n3) A regra-matriz de incidência\nA doutrina decompõe a norma tributária em antecedente (hipótese) e consequente (relação jurídica). No antecedente estão o critério material (um verbo e um complemento: auferir renda, circular mercadoria, ser proprietário de veículo, prestar serviço), o critério espacial (onde o fato deve ocorrer para ser relevante) e o critério temporal (o instante em que se considera ocorrido). No consequente estão o critério pessoal (sujeito ativo e sujeito passivo) e o critério quantitativo (base de cálculo e alíquota). A base de cálculo tem papel especial: confirma, infirma ou afirma o critério material. Se a lei diz tributar a propriedade, mas mede o tributo pelo faturamento, a base revela o verdadeiro fato tributado, e a cobrança pode invadir competência alheia.\n\n4) Quando o fato gerador ocorre (art. 116)\nSalvo disposição de lei em contrário, considera-se ocorrido o fato gerador e existentes os seus efeitos: (I) tratando-se de situação de fato, desde o momento em que se verifiquem as circunstâncias materiais necessárias a que produza os efeitos que normalmente lhe são próprios; (II) tratando-se de situação jurídica, desde o momento em que esteja definitivamente constituída, nos termos do direito aplicável. Exemplo de situação de fato: a saída da mercadoria do estabelecimento no ICMS. Exemplo de situação jurídica: a transmissão da propriedade imobiliária no ITBI, que, segundo o STF (Tema 1.124) e o STJ, ocorre com o registro no cartório imobiliário, e não com a mera celebração do compromisso de compra e venda. O \"salvo disposição de lei em contrário\" permite que a lei fixe outro momento, o critério temporal, como o primeiro dia do ano para o IPTU e o IPVA.\n\n5) Negócios condicionais (art. 117)\nPara os atos ou negócios jurídicos condicionais, reputam-se perfeitos e acabados: (I) sendo suspensiva a condição, desde o momento de seu implemento; (II) sendo resolutória, desde o momento da prática do ato ou da celebração do negócio. A lógica segue o Código Civil: na condição suspensiva, o direito ainda não foi adquirido; na resolutória, o negócio produz efeitos desde logo, e o eventual implemento da condição não desfaz o fato gerador já ocorrido nem gera, por si, direito à restituição.\n\n6) Interpretação objetiva (art. 118)\nA definição legal do fato gerador é interpretada abstraindo-se (I) da validade jurídica dos atos efetivamente praticados pelos contribuintes, responsáveis ou terceiros, bem como da natureza do seu objeto ou dos seus efeitos; e (II) dos efeitos dos fatos efetivamente ocorridos. É o princípio do pecunia non olet: a renda obtida em atividade ilícita é tributável, porque o que se tributa é o acréscimo patrimonial, não a ilicitude. O STF e o STJ admitem a tributação de rendimentos de origem ilícita. Isso não contraria a regra de que tributo não é sanção de ato ilícito (art. 3º do CTN): a hipótese de incidência não pode descrever um ilícito, mas o fato concreto que se encaixa numa hipótese lícita (auferir renda) é tributável ainda que tenha ocorrido em contexto ilícito.\n\n7) Classificações\nFatos geradores instantâneos ocorrem num único momento e se esgotam nele (saída da mercadoria no ICMS, importação). Periódicos, ou complexivos, compõem-se de vários fatos ao longo de um período, considerados em conjunto num momento final (imposto de renda anual). Continuados representam situação duradoura que a lei recorta em marcos temporais (propriedade no IPTU, ITR e IPVA). A classificação importa para aplicar a irretroatividade e a anterioridade: a Súmula 584 do STF, que admitia aplicar ao imposto de renda a lei vigente no exercício da declaração, foi cancelada pelo STF, em julgamento que reconheceu ofensa à irretroatividade.\n\n8) Fato gerador presumido e substituição tributária progressiva\nO art. 150, § 7º, da Constituição, incluído pela EC nº 3/1993, permite atribuir ao sujeito passivo a responsabilidade pelo pagamento de imposto ou contribuição cujo fato gerador deva ocorrer posteriormente, assegurada a imediata e preferencial restituição da quantia paga, caso não se realize o fato gerador presumido. Por anos, o STF entendeu (ADI 1.851) que só havia restituição se o fato não ocorresse. Em 2016, no RE 593.849 (Tema 201), o STF superou esse entendimento e fixou que é devida a restituição da diferença do ICMS pago a mais no regime de substituição tributária para frente se a base de cálculo efetiva da operação for inferior à presumida. É exemplo clássico de superação de precedente, com modulação de efeitos.\n\n9) Fato gerador e materialidade constitucional\nA lei não pode eleger como fato gerador algo que não esteja na materialidade constitucional do tributo. No ICMS, a \"circulação de mercadorias\" exige circulação jurídica, com transferência de titularidade. Por isso a Súmula 166 do STJ afasta a incidência no simples deslocamento entre estabelecimentos do mesmo contribuinte, e o STF, na ADC 49, declarou inconstitucionais dispositivos da Lei Complementar nº 87/1996 que previam a incidência nessas transferências, com modulação de efeitos; a matéria foi depois disciplinada pela LC nº 204/2023. A lição vale para todos os tributos: o legislador infraconstitucional concretiza a hipótese, mas não a cria fora do desenho constitucional.\n\n10) Norma antielisiva (art. 116, parágrafo único)\nIncluído pela LC nº 104/2001, o parágrafo único permite à autoridade administrativa desconsiderar atos ou negócios jurídicos praticados com a finalidade de dissimular a ocorrência do fato gerador do tributo ou a natureza dos elementos constitutivos da obrigação tributária, observados os procedimentos a serem estabelecidos em lei ordinária. Distinguem-se: evasão (conduta ilícita, geralmente posterior ao fato gerador, como sonegação e fraude), elisão (economia lícita de tributos por meios legítimos, normalmente antes do fato gerador) e elusão ou elisão abusiva (atos formalmente lícitos, mas artificiais, sem propósito além de fugir do tributo). Na ADI 2.446, julgada em 2022, o STF declarou constitucional o dispositivo, entendendo que ele não autoriza tributação por analogia nem viola a legalidade, pois se volta contra a dissimulação, isto é, contra a ocultação do fato gerador efetivamente ocorrido. Ponto sensível de prova: a aplicação depende dos procedimentos a serem fixados em lei ordinária de cada ente; A simulação propriamente dita, por sua vez, já autoriza o lançamento de ofício com base no art. 149, VII, do CTN.\n\n11) Olhar do controle externo\nNa fiscalização da receita, o tribunal de contas verifica se a administração tributária identifica corretamente os fatos geradores (cadastros imobiliários desatualizados reduzem o IPTU; ausência de cruzamento de dados deixa de captar o ISS), se o lançamento respeita a lei vigente à data do fato e se as renúncias de receita foram acompanhadas da estimativa de impacto e das medidas de compensação exigidas pelo art. 14 da LRF. Falhas sistemáticas configuram omissão na arrecadação, que a LRF trata como requisito de responsabilidade na gestão fiscal (art. 11).",
+   "flashcards": [
+    {
+     "frente": "Hipótese de incidência x fato imponível",
+     "verso": "Descrição abstrata na lei x fato concreto que a ela se amolda (subsunção).",
+     "dispositivo": "Doutrina (Geraldo Ataliba)"
+    },
+    {
+     "frente": "Art. 116 do CTN",
+     "verso": "Situação de fato: circunstâncias materiais verificadas. Situação jurídica: definitivamente constituída.",
+     "dispositivo": "CTN, art. 116"
+    },
+    {
+     "frente": "Art. 117 do CTN",
+     "verso": "Condição suspensiva: no implemento. Resolutória: na celebração.",
+     "dispositivo": "CTN, art. 117"
+    },
+    {
+     "frente": "Pecunia non olet",
+     "verso": "Interpreta-se o fato gerador abstraindo validade dos atos e efeitos dos fatos.",
+     "dispositivo": "CTN, art. 118"
+    },
+    {
+     "frente": "Tema 201 do STF",
+     "verso": "Restituição da diferença na ST para frente quando a base real for menor que a presumida.",
+     "dispositivo": "CF, art. 150, § 7º; RE 593.849"
+    },
+    {
+     "frente": "ADI 2.446",
+     "verso": "Parágrafo único do art. 116 é constitucional: combate a dissimulação, sem analogia.",
+     "dispositivo": "CTN, art. 116, parágrafo único"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "enunciado": "Segundo o CTN, fato gerador da obrigação principal é a situação definida em lei como necessária e suficiente à sua ocorrência.",
+     "gabarito": "C",
+     "comentario": "Certo. É a redação do art. 114; a definição cabe à lei, por força da legalidade tributária.",
+     "dispositivo": "CTN, arts. 97, III, e 114",
+     "texto_base": "",
+     "id": "tceac-nuvem-fato-gerador-n2-q01"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "enunciado": "Tratando-se de situação jurídica, considera-se ocorrido o fato gerador desde o momento em que se verifiquem as circunstâncias materiais necessárias à produção dos seus efeitos próprios.",
+     "gabarito": "E",
+     "comentario": "Errado. Essa é a regra para situação de fato (art. 116, I). Para situação jurídica, o fato ocorre quando ela estiver definitivamente constituída (art. 116, II).",
+     "dispositivo": "CTN, art. 116",
+     "texto_base": "",
+     "id": "tceac-nuvem-fato-gerador-n2-q02"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Nos negócios sujeitos a condição resolutória, considera-se ocorrido o fato gerador desde a celebração do negócio.",
+     "gabarito": "C",
+     "comentario": "Certo. Na suspensiva, desde o implemento da condição; na resolutória, desde a prática do ato.",
+     "dispositivo": "CTN, art. 117",
+     "texto_base": "",
+     "id": "tceac-nuvem-fato-gerador-n2-q03"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Por força do art. 3º do CTN, que veda tributo como sanção de ato ilícito, os rendimentos obtidos em atividade criminosa não podem ser tributados pelo imposto de renda.",
+     "gabarito": "E",
+     "comentario": "Errado. A hipótese de incidência não pode descrever ilícito, mas o fato concreto lícito (auferir renda) é tributável mesmo em contexto ilícito: interpretação objetiva do art. 118 (pecunia non olet).",
+     "dispositivo": "CTN, arts. 3º e 118",
+     "texto_base": "",
+     "id": "tceac-nuvem-fato-gerador-n2-q04"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O STF, no Tema 201, reconheceu o direito à restituição do ICMS pago a maior na substituição tributária progressiva quando a base de cálculo efetiva for inferior à presumida.",
+     "gabarito": "C",
+     "comentario": "Certo. O RE 593.849 superou o entendimento da ADI 1.851, que só admitia restituição se o fato gerador presumido não ocorresse.",
+     "dispositivo": "CF, art. 150, § 7º; STF, Tema 201",
+     "texto_base": "",
+     "id": "tceac-nuvem-fato-gerador-n2-q05"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Ao julgar a ADI 2.446, o STF declarou inconstitucional o parágrafo único do art. 116 do CTN, por permitir tributação por analogia em ofensa à legalidade.",
+     "gabarito": "E",
+     "comentario": "Errado. O STF declarou a norma constitucional: ela combate a dissimulação do fato gerador, sem autorizar analogia.",
+     "dispositivo": "CTN, art. 116, parágrafo único; STF, ADI 2.446",
+     "texto_base": "",
+     "id": "tceac-nuvem-fato-gerador-n2-q06"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Assinale a opção que associa corretamente o imposto à classificação usual de seu fato gerador.",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "IPTU – continuado; imposto de renda anual – periódico; ICMS na saída de mercadoria – instantâneo.",
+      "B": "IPTU – instantâneo; imposto de renda – continuado; ICMS – periódico.",
+      "C": "IPVA – periódico; imposto de importação – continuado; ITR – instantâneo.",
+      "D": "Imposto de renda – instantâneo; IPTU – periódico; ICMS – continuado.",
+      "E": "Todos os impostos sobre patrimônio têm fato gerador instantâneo."
+     },
+     "comentario": "A. Propriedade é situação duradoura recortada pela lei (continuado); renda anual reúne fatos de um período (periódico ou complexivo); saída de mercadoria esgota-se num instante.",
+     "dispositivo": "Doutrina; CTN, art. 116",
+     "texto_base": "",
+     "id": "tceac-nuvem-fato-gerador-n2-q07"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Lei estadual determinou a incidência do ICMS na remessa de mercadorias entre dois estabelecimentos da mesma empresa, situados no mesmo estado. À luz da jurisprudência, assinale a opção correta.",
+     "gabarito": "C",
+     "alternativas": {
+      "A": "A incidência é válida, pois toda saída física de mercadoria é fato gerador do ICMS.",
+      "B": "A incidência é válida se houver previsão em lei complementar.",
+      "C": "Não há fato gerador, porque falta circulação jurídica, com transferência de titularidade (Súmula 166 do STJ e ADC 49).",
+      "D": "A incidência depende apenas de o estabelecimento destinatário ser filial.",
+      "E": "O fato gerador ocorre, mas o imposto deve ser restituído pelo regime do art. 150, § 7º."
+     },
+     "comentario": "C. A materialidade constitucional do ICMS exige mudança de titularidade; o STF declarou inconstitucionais os dispositivos da LC 87/1996 que previam a incidência nessas transferências.",
+     "dispositivo": "CF, art. 155, II; STJ, Súmula 166; STF, ADC 49",
+     "texto_base": "",
+     "id": "tceac-nuvem-fato-gerador-n2-q08"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O fato gerador da obrigação principal é a situação definida em ___ como necessária e ___ à sua ocorrência.",
+     "opcoes": [
+      "lei",
+      "suficiente",
+      "decreto",
+      "possível",
+      "legislação",
+      "provável"
+     ],
+     "respostas": [
+      "lei",
+      "suficiente"
+     ],
+     "explicacao": "Para a obrigação acessória, o CTN fala em \"legislação\"."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Critério material",
+       "Verbo + complemento (ex.: auferir renda)"
+      ],
+      [
+       "Critério espacial",
+       "Onde o fato é relevante"
+      ],
+      [
+       "Critério temporal",
+       "Quando se considera ocorrido"
+      ],
+      [
+       "Critério pessoal",
+       "Sujeitos ativo e passivo"
+      ],
+      [
+       "Critério quantitativo",
+       "Base de cálculo e alíquota"
+      ]
+     ]
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o raciocínio para verificar o nascimento de uma obrigação tributária.",
+     "itens": [
+      "Identificar a hipótese de incidência prevista em lei",
+      "Verificar a ocorrência do fato concreto (subsunção)",
+      "Determinar o momento de ocorrência (arts. 116 e 117 do CTN)",
+      "Aplicar a lei vigente nesse momento",
+      "Identificar sujeito passivo, base de cálculo e alíquota"
+     ],
+     "explicacao": "O momento do fato define a lei aplicável ao lançamento (art. 144 do CTN)."
+    },
+    {
+     "tipo": "caso_pratico",
+     "enunciado": "Questão discursiva: Em auditoria da receita de município, o tribunal de contas constatou que o fisco municipal (i) exige ITBI na assinatura de compromissos de compra e venda de imóveis, antes do registro; e (ii) deixou de lançar o ISS de empresas que, segundo a fiscalização, simularam sede em município vizinho com alíquota menor, sob o argumento de que \"sem lei regulamentando o parágrafo único do art. 116 do CTN, nada se pode fazer\". Analise as duas práticas.",
+     "resposta": "(i) O ITBI tem como fato gerador a transmissão da propriedade, situação jurídica que, nos termos do art. 116, II, do CTN, só se considera ocorrida quando definitivamente constituída, o que, segundo o STF e o STJ, se dá com o registro no cartório de imóveis; a cobrança no compromisso de compra e venda é antecipação indevida e expõe o município a restituições e condenações. (ii) A sede fictícia configura simulação, e não mera elisão. Ainda que o município não tenha editado a lei de procedimentos prevista no parágrafo único do art. 116 (declarado constitucional na ADI 2.446), a simulação autoriza o lançamento de ofício com base no art. 149, VII, do CTN, e o ISS é devido ao município onde efetivamente se presta o serviço ou se localiza o estabelecimento real, conforme a LC 116/2003. A omissão no lançamento pode caracterizar renúncia de receita sem os requisitos do art. 14 da LRF e descumprimento do art. 11 da LRF, ensejando determinação de providências e responsabilização.",
+     "dispositivo": "CTN, arts. 116, 118, 149, VII; LRF, arts. 11 e 14; STF, ADI 2.446"
+    }
+   ]
+  }
+ ]
+}

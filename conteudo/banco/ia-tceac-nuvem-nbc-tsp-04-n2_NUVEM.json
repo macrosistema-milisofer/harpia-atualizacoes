@@ -1,0 +1,203 @@
+{
+ "assunto": "Contabilidade Pública – NBC TSP 04 (R1): estoques",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-28",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-nuvem-nbc-tsp-04-n2",
+   "titulo": "Estoques públicos pela NBC TSP 04 (R1): do almoxarifado à vacina distribuída de graça",
+   "microconteudo": "RAIO-X DA PROVA: As provas exploram a regra geral (menor entre custo e valor realizável líquido) contra a regra especial do setor público (menor entre custo e custo corrente de reposição para distribuição gratuita ou por valor irrisório), o valor justo como custo na doação recebida, a vedação ao UEPS, a alocação de custos fixos pela capacidade normal, os gastos que nunca entram no custo, a reversão limitada da redução e o momento da despesa quando não há receita. Também aparecem os exemplos públicos (munição, moeda não emitida, estoques estratégicos) e o preço médio ponderado da Lei 4.320/1964.\n\nPOR QUE IMPORTA:\nO almoxarifado de uma secretaria de saúde guarda medicamentos, vacinas, insumos hospitalares e materiais de limpeza que somam milhões. A defesa civil mantém kits de emergência; a polícia, munição; o Banco Central, cédulas ainda não emitidas; a empresa estatal de correios, selos. Quando o controle físico e contábil desses bens é frágil, abrem-se as portas para vencimentos não detectados, desvios e compras desnecessárias. A NBC TSP 04 (R1), convergida com a IPSAS 12 e revisada pelo CFC com base no manual do IPSASB, define o que é estoque, por quanto ele entra e permanece no balanço e quando sai como despesa. A versão (R1) aplica-se aos exercícios iniciados a partir de 1º de janeiro de 2027 e revoga a NBC TSP 04 de 2016, ressalvado normativo nacional com prazo próprio. Para o auditor, estoque é área clássica de risco: exige inventário, testes de corte e avaliação de obsolescência.\n\nO QUE A BANCA COBRA:\n1) Definição e exemplos típicos do setor público. 2) Exclusões do alcance. 3) Regra geral de mensuração (menor entre custo e valor realizável líquido) e regra especial (menor entre custo e custo corrente de reposição). 4) Doação recebida pelo valor justo. 5) Componentes do custo e gastos excluídos. 6) Critérios de atribuição de custo: identificação específica, PEPS e média ponderada; vedação ao UEPS. 7) Redução ao valor realizável líquido e sua reversão limitada. 8) Reconhecimento como despesa, com ou sem receita. 9) Divulgação.\n\nENTENDA:\n1) O que é estoque\nEstoques são ativos na forma de materiais ou suprimentos a serem consumidos no processo de produção; materiais ou suprimentos a serem consumidos ou distribuídos na prestação de serviços; bens mantidos para venda ou distribuição no curso normal das operações; ou bens em processo de produção para venda ou distribuição. A segunda e a terceira hipóteses são as mais típicas do Estado: o que importa não é vender, mas consumir ou distribuir. A norma lista exemplos públicos: munição, material de consumo, material de manutenção e expediente, peças de reposição não tratadas como imobilizado, estoques estratégicos (reservas de energia para emergências), moeda não emitida, selos postais mantidos para venda, serviços em andamento (material didático, consultoria vendida a preço de mercado) e terrenos e imóveis para venda. Quando o governo controla o direito de criar e emitir ativos como selos e moeda, esses itens são estoques e não são registrados pelo valor de face, mas pelo custo de produção, conforme a regra de mensuração. Itens militares de uso único, como munição e bombas, são estoques, embora alguns mísseis possam ser imobilizado se atenderem aos critérios da NBC TSP 37.\n\n2) O que fica fora\nNão se aplica à produção em andamento de contratos de construção, a instrumentos financeiros, a ativos biológicos e produtos agrícolas no ponto da colheita, e aos serviços em andamento prestados sem custo ou por valor irrisório cobrado diretamente do beneficiário (situação que, segundo a norma, envolve questões específicas do setor público). Além disso, a parte de mensuração não alcança produtores agrícolas, florestais e minerais que mensuram estoques pelo valor realizável líquido segundo práticas consolidadas, nem operadores de commodities que usam valor justo menos custos de venda.\n\n3) Regra geral e regra especial\nA regra geral: estoques são mensurados pelo menor valor entre o custo e o valor realizável líquido. Valor realizável líquido é o preço estimado de venda no curso normal das operações, menos os custos estimados de conclusão e os gastos necessários para a venda, troca ou distribuição. É um valor específico da entidade, diferente do valor justo, que reflete a troca entre partes informadas no mercado.\nA regra especial, que é a marca do setor público: estoques mantidos para distribuição gratuita ou por valor irrisório, ou para consumo na produção de bens a serem distribuídos dessa forma, são mensurados pelo menor valor entre o custo e o custo corrente de reposição. Custo corrente de reposição é o custo que a entidade incorreria para adquirir o ativo na data das demonstrações. A lógica é simples: se a vacina será aplicada de graça, não há preço de venda para calcular valor realizável líquido; o que mede o potencial de serviços é quanto custaria repor o bem. Do mesmo modo, quando o benefício do estoque não se relaciona à capacidade de gerar caixa, a perda de potencial de serviços é medida pela reposição, não pela venda.\n\n4) Custo de aquisição, de transformação e outros\nO custo inclui todos os custos de aquisição e de transformação e outros custos para trazer o estoque à condição e localização atuais. Custo de transformação: custos diretos (mão de obra direta) e alocação sistemática dos custos indiretos de produção fixos e variáveis. Os fixos (depreciação e manutenção de instalações, administração da fábrica) são alocados com base na capacidade normal de produção, isto é, a média esperada em vários períodos em circunstâncias normais. Em período de baixa produção, a parcela não alocada vai ao resultado; em produção anormalmente alta, a alocação por unidade diminui para não superavaliar o estoque. Produtos conjuntos recebem custos por base racional e consistente.\nFicam fora do custo e vão ao resultado: desperdício anormal de materiais, mão de obra ou outros insumos; armazenagem, salvo se necessária entre fases de produção; despesas administrativas que não contribuem para trazer o estoque à condição atual; e despesas de comercialização. Compra a prazo com elemento de financiamento: a diferença em relação ao preço à vista é despesa de juros ao longo do financiamento. Para prestador de serviços, o estoque de serviços em andamento é medido pelos custos de produção, sobretudo mão de obra do pessoal diretamente envolvido, inclusive supervisão, e custos indiretos atribuíveis; mão de obra de vendas e administração geral fica fora. Técnicas como custo-padrão e método de varejo podem ser usadas por conveniência se os resultados se aproximarem do custo.\n\n5) Doação e transação sem contraprestação\nEstoque recebido por transação sem contraprestação tem como custo o seu valor justo na data do recebimento. O exemplo da norma é a agência internacional que doa medicamentos a hospital público após desastre natural. Depois, aplica-se a mensuração normal (menor entre custo e valor realizável líquido ou, se for para distribuição gratuita, custo corrente de reposição).\n\n6) Critérios de atribuição de custo\nItens não intercambiáveis e bens ou serviços segregados para projetos específicos recebem identificação específica de custos. Para os demais, usa-se o PEPS (primeiro a entrar, primeiro a sair) ou o custo médio ponderado. O UEPS (último a entrar, primeiro a sair) não é admitido. Estoques de mesma natureza e uso devem seguir o mesmo critério; naturezas ou usos diferentes podem justificar critérios diferentes, mas a simples diferença de localização geográfica não basta. No direito financeiro brasileiro, a Lei nº 4.320/1964, art. 106, III, determina que os bens de almoxarifado sejam avaliados pelo preço médio ponderado das compras, o que torna a média ponderada o critério usual nos entes da Federação, compatível com a NBC TSP 04 (R1).\n\n7) Redução ao valor realizável líquido e reversão\nO custo pode não ser recuperável se o estoque estiver danificado, obsoleto ou se os preços de venda caírem, ou se aumentarem os custos de conclusão ou venda. A redução é feita item a item, admitindo-se agrupamento de itens semelhantes ou relacionados (mesma linha de produtos, finalidade e região), mas não por categorias amplas como \"produtos acabados\". Matérias-primas não são reduzidas abaixo do custo se os produtos em que serão incorporados forem vendidos, trocados ou distribuídos pelo custo ou acima dele. A cada período, nova avaliação: se as circunstâncias que motivaram a redução deixarem de existir ou houver clara evidência de aumento do valor realizável líquido, a redução é revertida, limitada ao valor da redução original, de modo que o estoque fique pelo menor entre custo e o novo valor realizável líquido. A reversão reduz a despesa de estoques do período em que ocorre.\n\n8) Quando o estoque vira despesa\nVendido, trocado ou distribuído, o valor contábil do estoque é reconhecido como despesa no período em que a respectiva receita é reconhecida. Se não houver receita, como na distribuição gratuita, a despesa é reconhecida quando os bens são distribuídos ou o serviço é prestado. Para prestador de serviços, a despesa normalmente ocorre quando os serviços são prestados ou faturados. Reduções ao valor realizável líquido e perdas são despesa do período em que ocorrem. Estoque incorporado a outro ativo, como componentes usados em imobilizado construído internamente, vira despesa ao longo da vida útil desse ativo, pela depreciação.\n\n9) Divulgação\nA entidade divulga políticas contábeis e critérios de valoração; valor total dos estoques e sua classificação adequada à entidade; valor contabilizado pelo valor justo menos despesas de venda; valor reconhecido como despesa no período; reduções reconhecidas como despesa e reversões, com as circunstâncias que as motivaram; e estoques dados em garantia de passivos.\n\n10) Olhar do controle externo\nNas auditorias de saúde e assistência, os achados recorrentes são: medicamentos vencidos ainda registrados pelo custo; ausência de inventário anual conciliado com o sistema; doações recebidas sem registro, porque \"não houve empenho\"; uso de critério diferente da média ponderada sem justificativa; e despesa reconhecida na compra, e não na distribuição, o que esconde estoques relevantes. Cada um distorce ativo e resultado patrimonial, e a falta de controle físico pode revelar dano ao erário apurável em tomada de contas especial.",
+   "flashcards": [
+    {
+     "frente": "Regra geral de mensuração",
+     "verso": "Menor entre custo e valor realizável líquido.",
+     "dispositivo": "NBC TSP 04 (R1)"
+    },
+    {
+     "frente": "Distribuição gratuita ou por valor irrisório",
+     "verso": "Menor entre custo e custo corrente de reposição.",
+     "dispositivo": "NBC TSP 04 (R1)"
+    },
+    {
+     "frente": "Estoque doado",
+     "verso": "Custo = valor justo na data do recebimento.",
+     "dispositivo": "NBC TSP 04 (R1)"
+    },
+    {
+     "frente": "Critérios admitidos",
+     "verso": "Identificação específica; PEPS; custo médio ponderado. UEPS não.",
+     "dispositivo": "NBC TSP 04 (R1); Lei 4.320/1964, art. 106, III"
+    },
+    {
+     "frente": "Fora do custo",
+     "verso": "Desperdício anormal, armazenagem (salvo entre fases), administração geral e comercialização.",
+     "dispositivo": "NBC TSP 04 (R1)"
+    },
+    {
+     "frente": "Despesa sem receita",
+     "verso": "Reconhecida quando o bem é distribuído ou o serviço é prestado.",
+     "dispositivo": "NBC TSP 04 (R1)"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "enunciado": "Pela NBC TSP 04 (R1), estoques mantidos para distribuição gratuita à população são mensurados pelo menor valor entre o custo e o valor realizável líquido.",
+     "gabarito": "E",
+     "comentario": "Errado. Para distribuição gratuita ou por valor irrisório, usa-se o menor entre custo e custo corrente de reposição.",
+     "dispositivo": "NBC TSP 04 (R1), mensuração",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-04-n2-q01"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "enunciado": "Medicamentos doados a hospital público por organismo internacional têm como custo o seu valor justo na data do recebimento.",
+     "gabarito": "C",
+     "comentario": "Certo. É a regra para estoque adquirido por transação sem contraprestação.",
+     "dispositivo": "NBC TSP 04 (R1), transação sem contraprestação",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-04-n2-q02"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "O critério UEPS é admitido pela NBC TSP 04 (R1) quando a entidade comprovar que ele reflete melhor o fluxo físico dos estoques.",
+     "gabarito": "E",
+     "comentario": "Errado. A norma admite identificação específica, PEPS e custo médio ponderado; o UEPS não é previsto.",
+     "dispositivo": "NBC TSP 04 (R1), critérios de mensuração",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-04-n2-q03"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "Gastos de armazenagem de produtos acabados e despesas de comercialização integram o custo dos estoques, por serem necessários à distribuição.",
+     "gabarito": "E",
+     "comentario": "Errado. Armazenagem só entra se necessária entre fases de produção; despesas de comercialização são sempre despesa.",
+     "dispositivo": "NBC TSP 04 (R1), custos excluídos",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-04-n2-q04"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "enunciado": "A reversão de redução de estoques ao valor realizável líquido é limitada ao valor da redução originalmente reconhecida.",
+     "gabarito": "C",
+     "comentario": "Certo. O estoque volta, no máximo, ao custo; a reversão não cria ganho acima dele.",
+     "dispositivo": "NBC TSP 04 (R1), valor realizável líquido",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-04-n2-q05"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "enunciado": "Em estoques distribuídos gratuitamente, a despesa é reconhecida quando os bens são adquiridos, já que não haverá receita correspondente.",
+     "gabarito": "E",
+     "comentario": "Errado. Sem receita, a despesa é reconhecida quando os bens são distribuídos ou o serviço é prestado, não na aquisição.",
+     "dispositivo": "NBC TSP 04 (R1), reconhecimento como despesa",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-04-n2-q06"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "enunciado": "Secretaria de saúde comprou 1.000 frascos de insumo a R$ 10 e, depois, 1.000 a R$ 14, e distribuiu gratuitamente 1.200 frascos. Usa o custo médio ponderado. Na data do balanço, o custo corrente de reposição é R$ 11 por frasco. O valor do estoque final é:",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "R$ 9.600.",
+      "B": "R$ 8.800.",
+      "C": "R$ 11.200.",
+      "D": "R$ 4.800.",
+      "E": "R$ 10.400."
+     },
+     "comentario": "B. Custo médio = 12; 800 frascos × 12 = 9.600. Como é estoque para distribuição gratuita, compara-se com o custo corrente de reposição: 800 × 11 = 8.800. Fica o menor.",
+     "dispositivo": "NBC TSP 04 (R1), custo médio e custo corrente de reposição",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-04-n2-q07"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "enunciado": "Indústria estatal tem capacidade normal de 10.000 unidades e custos fixos de produção de R$ 200 mil. Num ano de greve, produziu 8.000 unidades. Assinale a opção correta.",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "Alocam-se R$ 20 por unidade; R$ 40 mil de custo fixo não alocado vão ao resultado.",
+      "B": "Alocam-se R$ 25 por unidade, pois todo custo fixo deve integrar o estoque.",
+      "C": "Os R$ 200 mil vão integralmente ao resultado, por se tratar de ano anormal.",
+      "D": "Alocam-se R$ 20 por unidade, e a diferença fica em conta de ativo diferido.",
+      "E": "O custo fixo é alocado pela produção real sempre que inferior à capacidade normal."
+     },
+     "comentario": "A. Custo fixo por unidade pela capacidade normal: 200.000 / 10.000 = 20. As 8.000 unidades recebem 160 mil; os 40 mil restantes são despesa do período.",
+     "dispositivo": "NBC TSP 04 (R1), custo de transformação",
+     "texto_base": "",
+     "id": "tceac-nuvem-nbc-tsp-04-n2-q08"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Estoque para venda: menor entre custo e valor ___ líquido. Estoque para distribuição gratuita: menor entre custo e custo corrente de ___.",
+     "opcoes": [
+      "realizável",
+      "reposição",
+      "justo",
+      "histórico",
+      "residual",
+      "presente"
+     ],
+     "respostas": [
+      "realizável",
+      "reposição"
+     ],
+     "explicacao": "Sem preço de venda, o potencial de serviços é medido pela reposição."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Munição",
+       "Estoque militar de uso único"
+      ],
+      [
+       "Moeda ainda não emitida",
+       "Estoque pelo custo, não pelo valor de face"
+      ],
+      [
+       "Reserva de petróleo para emergência",
+       "Estoque estratégico"
+      ],
+      [
+       "Produção em andamento de contrato de construção",
+       "Fora do alcance"
+      ],
+      [
+       "Bens de almoxarifado (Lei 4.320)",
+       "Preço médio ponderado das compras"
+      ]
+     ]
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a trajetória contábil de um lote de vacinas comprado para campanha gratuita.",
+     "itens": [
+      "Reconhecer pelo custo de aquisição (preço, frete, seguro, menos descontos)",
+      "Atribuir custo às saídas pela média ponderada",
+      "Comparar o saldo com o custo corrente de reposição na data do balanço",
+      "Reduzir se o custo corrente de reposição for menor",
+      "Reconhecer despesa à medida que as doses são aplicadas"
+     ],
+     "explicacao": "A comparação com a reposição substitui a do valor realizável líquido."
+    },
+    {
+     "tipo": "caso_pratico",
+     "enunciado": "Questão discursiva: Em auditoria na Central de Abastecimento Farmacêutico de um estado, a equipe encontrou: lote de medicamentos com validade expirada há seis meses registrado pelo custo; doação federal de insulina recebida sem qualquer registro contábil, por ausência de empenho; e lançamento integral como despesa, no momento da compra, de todos os materiais hospitalares. Analise os achados à luz da NBC TSP 04 (R1) e aponte as consequências.",
+     "resposta": "O lote vencido perdeu o potencial de serviços: deve ser reduzido (no limite, a zero) e baixado como perda, com apuração de responsabilidade se a perda decorreu de falha de gestão. A insulina doada é estoque adquirido sem contraprestação: deve ser reconhecida pelo valor justo na data do recebimento, independentemente de empenho, pois o registro patrimonial segue o regime de competência; a omissão subavalia ativo e receita patrimonial (variação aumentativa). Materiais hospitalares são estoques a consumir na prestação de serviços: a despesa deve ser reconhecida quando consumidos ou distribuídos, não na compra; o lançamento antecipado subavalia o ativo e distorce o resultado patrimonial. Conforme a relevância, há distorções que fundamentam ressalva, determinação de inventário e de ajustes, além de recomendação de integrar o sistema de almoxarifado à contabilidade.",
+     "dispositivo": "NBC TSP 04 (R1)"
+    }
+   ]
+  }
+ ]
+}
