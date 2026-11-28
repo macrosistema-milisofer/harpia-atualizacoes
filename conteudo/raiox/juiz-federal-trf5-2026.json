@@ -1,0 +1,111 @@
+{
+ "edital": "Edital nº 01/2026 — XVI Concurso para Juiz Federal Substituto da 5ª Região (retificado)",
+ "titulo": "Juiz Federal Substituto — TRF5, XVI concurso",
+ "atualizado_em": "2026-11-27",
+ "situacao": "Inscrições encerradas (28/08 a 28/09/2026). Prova objetiva seletiva remarcada para 20/12/2026, das 13h às 18h (horário de Brasília).",
+ "banca": "FGV",
+ "mensagem_inicial": "São 11 vagas e 3.794 inscrições preliminarmente deferidas — cerca de 345 candidatos por vaga. A objetiva é em 20/12/2026 e exige mínimo por bloco: o plano equilibra os três blocos para você não cair no corte de nenhum.",
+ "vagas": "11 vagas + cadastro de reserva: 7 de ampla concorrência, 1 PcD e 3 para pessoas negras (indígenas e quilombolas: 0 nesta oferta, pelo arredondamento do edital).",
+ "cronograma": [
+  {
+   "data": "28/08 a 28/09/2026",
+   "evento": "Inscrição preliminar (taxa de R$ 350,00; pagamento até 29/09)."
+  },
+  {
+   "data": "20/12/2026, 13h–18h (Brasília)",
+   "evento": "Prova objetiva seletiva (data alterada pela 1ª retificação; antes, 29/11)."
+  },
+  {
+   "data": "A publicar",
+   "evento": "Provas escritas (discursiva e sentenças): o edital prevê convocação com no mínimo 15 dias de antecedência."
+  }
+ ],
+ "remuneracao": {
+  "edital": "Subsídio de R$ 37.765,55 na data de publicação do edital.",
+  "real": null,
+  "aviso": "A remuneração efetivamente paga aos juízes federais (com auxílios e verbas eventuais) pode ser conferida no portal de transparência do TRF5: https://www.trf5.jus.br/",
+  "fonte": null
+ },
+ "concorrencia_atual": {
+  "inscritos": "3.794 inscrições preliminarmente deferidas",
+  "vagas": "11",
+  "relacao": "cerca de 345 candidatos por vaga"
+ },
+ "concorrencia_historico": [],
+ "formato_banca": {
+  "perfil": "Magistratura federal com prova da FGV: casos concretos e jurisprudência dos tribunais superiores, com peso de direito público federal (previdenciário, tributário, administrativo, ambiental).",
+  "extensao": "100 questões de múltipla escolha (5 alternativas, uma correta) em 5 horas, em três blocos.",
+  "tipo": "Bloco I (40): Constitucional, Previdenciário, Penal, Processo Penal, Econômico e Consumidor. Bloco II (30): Civil, Processo Civil, Empresarial, Financeiro e Tributário. Bloco III (30): Administrativo, Ambiental, Internacional, Formação Humanística e Direitos Humanos. Nota de 0 a 10 (0,1 por acerto).",
+  "tipos_questao": "Casos práticos com fatos, datas e partes; questões diretas sobre institutos; itens que exigem aplicar precedente do STF/STJ à situação concreta.",
+  "como_cobra": "Exige identificar competência (federal x estadual), regime jurídico e consequência concreta: prazos, legitimidade, efeitos de decisão e exceções.",
+  "aprofunda": "Previdenciário e Tributário (marcas da Justiça Federal), Constitucional, Administrativo, Penal e Processo Penal federais (crimes contra a União, sistema financeiro, previdência), Ambiental e Direitos Humanos.",
+  "nao_aprofunda": "Não há disciplina dispensável: o corte exige mínimo em cada bloco.",
+  "pegadinhas": "Mínimos por bloco — 12 acertos no Bloco I, 9 no II, 9 no III e 60 no total; competência da Justiça Federal x Estadual; mudanças recentes de jurisprudência e de legislação previdenciária e tributária (reforma tributária)."
+ },
+ "temas_preferidos": [
+  {
+   "tema": "Direito Previdenciário: RGPS, benefícios, custeio e processo previdenciário",
+   "peso": "alta"
+  },
+  {
+   "tema": "Direito Constitucional: controle de constitucionalidade, competências e direitos fundamentais",
+   "peso": "alta"
+  },
+  {
+   "tema": "Direito Penal e Processo Penal federais",
+   "peso": "alta"
+  },
+  {
+   "tema": "Direito Tributário e Financeiro, incluindo a reforma tributária",
+   "peso": "alta"
+  },
+  {
+   "tema": "Direito Civil e Processo Civil",
+   "peso": "alta"
+  },
+  {
+   "tema": "Direito Administrativo e Ambiental",
+   "peso": "alta"
+  },
+  {
+   "tema": "Direitos Humanos, Internacional e Formação Humanística",
+   "peso": "média"
+  },
+  {
+   "tema": "Direito Econômico, do Consumidor e Empresarial",
+   "peso": "média"
+  }
+ ],
+ "fases": [
+  {
+   "fase": "I — Prova objetiva seletiva",
+   "descricao": "Eliminatória e classificatória; 100 questões em 3 blocos. Classificam-se 300 candidatos (mais de 1.500 inscritos) mais empatados; cotistas com nota mínima de 6,0 em listas próprias."
+  },
+  {
+   "fase": "II — Provas escritas",
+   "descricao": "Prova discursiva e provas de sentença; eliminatórias e classificatórias."
+  },
+  {
+   "fase": "III — Inscrição definitiva",
+   "descricao": "Sindicância da vida pregressa e investigação social, exame de saúde e exame psicotécnico."
+  },
+  {
+   "fase": "IV — Prova oral",
+   "descricao": "Eliminatória e classificatória."
+  },
+  {
+   "fase": "V — Avaliação de títulos",
+   "descricao": "Classificatória."
+  }
+ ],
+ "cotas": {
+  "pcd": "10% das vagas.",
+  "negros_indigenas_quilombolas": "30% no total: 25% negros, 3% indígenas e 2% quilombolas (arredondamento do edital)."
+ },
+ "requisitos": "Bacharel em Direito; três anos de atividade jurídica após o bacharelado (comprovados até a inscrição definitiva); menos de 70 anos na posse.",
+ "fontes": [
+  "Edital nº 01/2026 retificado (FGV): https://conhecimento.fgv.br/sites/default/files/concursos/edital-01-de-2026-xvi-concurso-juiz-federal-retificado-em-01.09.26.pdf",
+  "1ª retificação (data da objetiva): https://conhecimento.fgv.br/sites/default/files/concursos/trf5-1a-retificacao.pdf",
+  "Página do concurso: https://conhecimento.fgv.br/concursos/trf5juiz26"
+ ]
+}

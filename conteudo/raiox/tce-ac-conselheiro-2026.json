@@ -1,0 +1,118 @@
+{
+ "edital": "Edital nº 1 – TCE/AC, de 1º/6/2026 (consolidado até o Edital nº 4, de 30/9/2026)",
+ "titulo": "TCE/AC 2026 — Auditor (Conselheiro Substituto)",
+ "atualizado_em": "2026-11-27",
+ "situacao": "Inscrições encerradas (reabertura de 5 a 26/10/2026). Provas objetiva e discursiva em 17/01/2027, em Rio Branco.",
+ "banca": "Cebraspe",
+ "mensagem_inicial": "Uma vaga imediata e cadastro de reserva para Conselheiro Substituto, com subsídio de R$ 39.753,22. As provas objetiva e discursiva são no mesmo dia, 17/01/2027: o plano já distribui conteúdo e treino de peça técnica até lá.",
+ "vagas": "1 vaga + cadastro de reserva, com lotação em Rio Branco/AC. Reserva de 5% para pessoas com deficiência, nos termos do edital. Passam para a discursiva os 15 melhores da ampla concorrência e os 5 melhores PcD na objetiva.",
+ "cronograma": [
+  {
+   "data": "5 a 26/10/2026",
+   "evento": "Reabertura das inscrições (taxa de R$ 380,00)."
+  },
+  {
+   "data": "18/12/2026",
+   "evento": "Relação final de inscrições deferidas de PcD e lactantes."
+  },
+  {
+   "data": "30/12/2026",
+   "evento": "Edital de consulta aos locais de prova."
+  },
+  {
+   "data": "17/01/2027",
+   "evento": "Provas objetiva (manhã, 5 horas) e discursiva (tarde, 4h30)."
+  },
+  {
+   "data": "19/01/2027",
+   "evento": "Padrão preliminar de respostas da discursiva."
+  },
+  {
+   "data": "19 a 21/01/2027",
+   "evento": "Consulta aos gabaritos preliminares e prazo de recursos (20 e 21/01)."
+  },
+  {
+   "data": "16/02/2027",
+   "evento": "Resultado final da objetiva e provisório da discursiva."
+  }
+ ],
+ "remuneracao": {
+  "edital": "Subsídio de R$ 39.753,22 (item 2 do edital).",
+  "real": null,
+  "aviso": "A remuneração efetivamente paga (com auxílios e verbas eventuais) pode ser conferida no Portal da Transparência do TCE/AC: https://www.tceac.tc.br/",
+  "fonte": null
+ },
+ "concorrencia_atual": null,
+ "concorrencia_historico": [],
+ "formato_banca": {
+  "perfil": "Seleção de nível de magistratura de contas: o edital cobra 18 disciplinas, com peso grande de controle externo, direito público, contabilidade pública e auditoria, além de realidade do Acre.",
+  "extensao": "Objetiva com 100 questões em 5 horas; discursiva com uma peça técnica de até 70 linhas e três questões de até 20 linhas.",
+  "tipo": "Atenção: a objetiva NÃO é no estilo certo/errado. São 100 questões de múltipla escolha com 5 alternativas (A–E) e uma correta, 1 ponto cada, mínimo de 50 pontos. A discursiva vale 60 pontos (peça 30; questões 10 cada), mínimo de 30.",
+  "tipos_questao": "Múltipla escolha com uma correta; na discursiva, peça técnica típica de tribunal de contas (ex.: voto, parecer ou relatório de auditoria) e questões dissertativas curtas.",
+  "como_cobra": "Espere aplicação de norma a caso concreto de controle externo: competência do tribunal, tipo de processo, efeitos da decisão, prazos e responsabilização, conectando Constituição, Lei Orgânica e Regimento do TCE/AC, LRF, Lei 4.320/1964, Lei 14.133/2021 e NBC TSP.",
+  "aprofunda": "Direito Processual de Contas, Contabilidade Pública (41 itens no edital, a disciplina mais extensa), Contabilidade Geral e Análise das Demonstrações, Economia do Setor Público, Auditoria Governamental e Direito Administrativo.",
+  "nao_aprofunda": "O edital não informa o número de questões por disciplina; nenhuma matéria pode ser descartada. Disciplinas curtas no edital (Empresarial, Constitucional) costumam ter menos itens, não necessariamente menos peso.",
+  "pegadinhas": "Diferença entre apreciação para registro e julgamento de contas; parecer prévio (contas de governo) x julgamento (contas de gestão); prazos e marcos (ex.: Tema 445 do STF); regras do regimento local do TCE/AC x regras do TCU."
+ },
+ "temas_preferidos": [
+  {
+   "tema": "Direito Processual de Contas e Controle Externo: competências, processos, decisões, sanções e medidas cautelares",
+   "peso": "alta"
+  },
+  {
+   "tema": "Contabilidade Pública: MCASP, NBC TSP, PCASP, demonstrações e Lei 4.320/1964",
+   "peso": "alta"
+  },
+  {
+   "tema": "AFO e Orçamento Público, LRF e Direito Financeiro",
+   "peso": "alta"
+  },
+  {
+   "tema": "Auditoria Governamental: planejamento, evidências, achados, relatórios e monitoramento",
+   "peso": "alta"
+  },
+  {
+   "tema": "Direito Administrativo: licitações e contratos (Lei 14.133/2021), agentes públicos, responsabilidade e controle",
+   "peso": "alta"
+  },
+  {
+   "tema": "Contabilidade Geral e Análise das Demonstrações Contábeis",
+   "peso": "média"
+  },
+  {
+   "tema": "Economia do Setor Público e da Regulação",
+   "peso": "média"
+  },
+  {
+   "tema": "Realidade étnica, social, geográfica, cultural, política e econômica do Acre",
+   "peso": "média"
+  }
+ ],
+ "fases": [
+  {
+   "fase": "I — Prova objetiva",
+   "descricao": "Eliminatória e classificatória; 100 questões de múltipla escolha (A–E), mínimo de 50 pontos."
+  },
+  {
+   "fase": "II — Prova discursiva",
+   "descricao": "Eliminatória e classificatória; peça técnica + 3 questões, 60 pontos, mínimo de 30."
+  },
+  {
+   "fase": "III — Prova oral",
+   "descricao": "Eliminatória; Constitucional, Administrativo, Controle Externo e Legislação Institucional, AFO/Orçamento e Contabilidade Pública. Mínimo de 5 de 10 pontos."
+  },
+  {
+   "fase": "IV — Avaliação de títulos",
+   "descricao": "Classificatória, até 10 pontos (carreira de controle externo, outras carreiras jurídicas e de fiscalização, magistério, pós-graduação, livros)."
+  }
+ ],
+ "cotas": {
+  "pcd": "5% das vagas (sem ultrapassar 10%), com arredondamento conforme o edital."
+ },
+ "requisitos": "Curso superior em qualquer área; mais de 35 e menos de 70 anos na posse; 10 anos de função ou atividade profissional que exija conhecimentos de administração pública, contábeis, jurídicos ou econômicos; idoneidade moral.",
+ "fontes": [
+  "Edital nº 1 – TCE/AC, consolidado até o Edital nº 4 (Cebraspe): https://cdn.cebraspe.org.br/concursos/TCE_AC_26/arquivos/65B994271B40AFCCC2618B3D75AD8E4161765953F08FB5DFAFF4C4D459E2844C.html",
+  "Cebraspe — reabertura das inscrições: https://www.cebraspe.org.br/tce-ac-reabre-inscricoes-em-selecao-para-auditor-conselheiro-substituto/",
+  "Página do concurso: http://www.cebraspe.org.br/concursos/tce_ac_26"
+ ]
+}
