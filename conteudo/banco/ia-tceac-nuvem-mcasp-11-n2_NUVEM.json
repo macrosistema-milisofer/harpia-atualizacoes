@@ -1,0 +1,230 @@
+{
+ "assunto": "Contabilidade Pública – MCASP 11ª edição",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-28",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-nuvem-mcasp-11-n2",
+   "titulo": "MCASP 11ª edição: autoridade, dois regimes, três naturezas e o olhar do auditor",
+   "microconteudo": "RAIO-X DA PROVA: O Cebraspe troca a ordem de prevalência (o manual prevalece sobre a NBC TSP, que prevalece sobre a Estrutura Conceitual; as IPSAS são residuais), atribui à 11ª edição novidades que ela não trouxe e confunde aspectos (orçamentário, patrimonial e fiscal) com naturezas de informação (orçamentária, patrimonial e de controle). A pegadinha clássica é dizer que a arrecadação de tributo já reconhecido por competência gera nova VPA, que a depreciação gera despesa orçamentária ou que lançamento pode cruzar naturezas, como débito na classe 1 e crédito na classe 6.\n\nPOR QUE IMPORTA:\nO Manual de Contabilidade Aplicada ao Setor Público (MCASP) é a referência técnica que o auditor de contas usa para dizer se um balanço está certo. Quando o Tribunal de Contas aponta receita reconhecida no momento errado, imobilizado sem depreciação, provisão omitida ou demonstração incoerente, o critério de auditoria quase sempre está no manual. Ele também alimenta o Siconfi, de onde saem os dados consolidados da Federação e o ranking de qualidade da informação contábil e fiscal. Para julgar contas, é preciso dominar a lógica do manual: dois regimes, três naturezas de informação e a convergência às normas internacionais.\n\nO QUE A BANCA COBRA:\n- Fundamento legal, alcance obrigatório e hierarquia entre MCASP, NBC TSP e IPSAS.\n- Atos de aprovação e vigência da 11ª edição e suas principais alterações.\n- Estrutura: Parte Geral e Partes I a V.\n- Regime orçamentário (Lei nº 4.320/1964, art. 35) e regime de competência patrimonial.\n- Naturezas de informação, classes do PCASP e registro de um mesmo fato nos dois enfoques.\n- Receita e despesa efetiva e não efetiva; VPA e VPD sem execução orçamentária.\n- Uso pelo controle externo: Siconfi, MSC, DCA, RREO, RGF e ranking.\n\nENTENDA:\nFundamento e autoridade\nA LRF atribui ao órgão central de contabilidade da União, enquanto não implantado o conselho de gestão fiscal, a edição de normas gerais para consolidação das contas públicas (art. 50, § 2º), e manda a STN consolidar anualmente as contas de todos os entes (art. 51). O MCASP é o veículo dessas normas. Segundo a Parte Geral, ele se aplica obrigatoriamente às entidades do setor público, incluídos entes, Poderes, órgãos, autarquias, fundações, fundos, consórcios públicos e empresas estatais dependentes; conselhos profissionais e estatais independentes podem aplicá-lo de forma facultativa ou por determinação de seus reguladores. Em caso de conflito, prevalece o manual; subsidiariamente, aplica-se a NBC TSP específica e, depois, a NBC TSP Estrutura Conceitual; as IPSAS podem ser observadas em caráter residual e não obrigatório. A banca costuma inverter essa ordem.\n\nA 11ª edição\nA edição vale a partir do exercício de 2025 e foi aprovada por três atos de 18/12/2024: a Portaria Conjunta STN/SOF nº 26 aprovou a Parte I (Procedimentos Contábeis Orçamentários), com efeitos a partir da execução da LOA de 2025; a Portaria Conjunta STN/SRPC nº 25 aprovou o capítulo de benefícios pós-emprego da Parte III; e a Portaria STN/MF nº 2.016 aprovou a Parte Geral e as Partes II, III (salvo aquele capítulo), IV e V. A coautoria da SOF na Parte I se explica pelo vínculo com a classificação orçamentária; a da Secretaria de Regime Próprio e Complementar, pela matéria previdenciária.\n\nSegundo a síntese de alterações publicada pelo Tesouro, a principal novidade foi a incorporação, na Parte II, de dois capítulos novos: Benefícios Sociais (NBC TSP 29) e Instrumentos Financeiros (NBC TSP 30, 31 e 33). O reconhecimento dos bens do patrimônio cultural passou a ser facultativo, mas, se registrados, seguem as regras do manual. Houve ainda ajustes pontuais: novo tratamento e contas para o redutor financeiro do FPM, detalhamento da complementação da União ao Fundeb, atualização do capítulo de precatórios em regime especial (EC nº 94/2016 e 99/2017), retirada das referências às antigas NBC T 16 e, na Demonstração dos Fluxos de Caixa, troca de \"receita tributária\" por \"impostos, taxas e contribuições de melhoria\". O próprio Tesouro registra que o restante foi, em grande parte, de redação e exemplos ilustrativos. Item que diga que a 11ª edição criou novas demonstrações obrigatórias está errado.\n\nEstrutura\nA Parte Geral trata do contexto normativo, do alcance, das características qualitativas e dos critérios gerais de evidenciação. A Parte I (PCO) cuida da receita e da despesa orçamentárias, suas classificações, fontes ou destinações de recursos e restos a pagar. A Parte II (PCP) cuida de reconhecimento, mensuração e evidenciação de ativos, passivos e variações patrimoniais: imobilizado, intangível, depreciação, provisões, ativos e passivos contingentes, entre outros. A Parte III (PCE) reúne temas específicos, como Fundeb, consórcios, regimes próprios, benefícios pós-emprego e precatórios. A Parte IV traz o Plano de Contas Aplicado ao Setor Público (PCASP), e a Parte V, as Demonstrações Contábeis (DCASP).\n\nAspectos e naturezas\nA Parte Geral descreve três aspectos da contabilidade pública: o orçamentário (registro e evidenciação do orçamento aprovado e executado, com o RREO e os Balanços Orçamentário e Financeiro), o patrimonial (composição do patrimônio, com o Balanço Patrimonial e a DVP) e o fiscal (apuração dos indicadores da LRF, com RGF e RREO). Não confunda com as naturezas de informação do PCASP: patrimonial (classes 1 Ativo, 2 Passivo e Patrimônio Líquido, 3 VPD e 4 VPA), orçamentária (classes 5 e 6, aprovação e execução do planejamento e orçamento) e de controle (classes 7 e 8, controles devedores e credores, como disponibilidade por destinação, garantias e contratos). Débito e crédito de um mesmo lançamento ficam sempre na mesma natureza: classe 5 com 6, classe 7 com 8, e classes 1 a 4 entre si.\n\nDois regimes, registros separados\nPara o orçamento vale o art. 35 da Lei nº 4.320/1964: pertencem ao exercício as receitas nele arrecadadas e as despesas nele legalmente empenhadas. Para o patrimônio vale a competência: VPA e VPD são reconhecidas no período a que se referem, independentemente de recebimento ou pagamento. A LRF reforça a ideia ao exigir que a despesa e a assunção de compromisso sejam registradas segundo a competência, apurando-se em caráter complementar o resultado pelo regime de caixa (art. 50, II). A Parte Geral explica que a segregação dos registros impede que um enfoque contamine o outro. Daí a crítica à expressão \"regime misto\": o que há são dois regimes aplicados a objetos distintos.\n\nReceita e despesa nos dois enfoques\nReceita orçamentária efetiva aumenta a situação líquida no momento do reconhecimento (por exemplo, transferência recebida sem contrapartida); a não efetiva é permutativa (operação de crédito, alienação de bem, recebimento de dívida ativa). Atenção: um tributo reconhecido por competência como VPA, no lançamento, não gera nova VPA na arrecadação; nesse momento há apenas troca de crédito por caixa, embora a receita orçamentária seja registrada. Na despesa, a efetiva reduz a situação líquida (salários, serviços consumidos); a não efetiva é permutativa (aquisição de bem, amortização de dívida). Há também VPD sem despesa orçamentária, como depreciação, amortização, exaustão e provisões, e despesa reconhecida no patrimônio antes do empenho, como o serviço já prestado e não empenhado, que gera passivo e, no exercício seguinte, despesa de exercícios anteriores. As etapas continuam as da Lei nº 4.320/1964: previsão, lançamento (quando cabível), arrecadação e recolhimento; fixação, empenho, liquidação e pagamento. Na maioria das despesas, o fato gerador patrimonial coincide com a liquidação, mas não necessariamente.\n\nFonte ou destinação de recursos\nO mecanismo identifica a origem e a aplicação dos recursos vinculados, exigido pelo art. 8º, parágrafo único, e pelo art. 50, I, da LRF. Nas classes de controle, a disponibilidade por destinação permite ao Tribunal verificar se o saldo do Fundeb, da saúde ou de convênios foi aplicado na finalidade legal e se não houve uso de recurso vinculado para cobrir despesa livre. É o elo entre contabilidade e limites constitucionais.\n\nDemonstrações e coerência\nAs DCASP são o Balanço Orçamentário, o Balanço Financeiro, o Balanço Patrimonial (com o quadro do superávit ou déficit financeiro, base do art. 43 da Lei nº 4.320/1964 para créditos adicionais), a DVP, a Demonstração dos Fluxos de Caixa e a DMPL, com notas explicativas. A auditoria testa as amarrações: resultado patrimonial da DVP e variação do patrimônio líquido; saldo de caixa no Balanço Financeiro, no BP e na DFC; restos a pagar no Balanço Orçamentário e no passivo.\n\nO manual no controle externo\nOs entes enviam ao Siconfi a Matriz de Saldos Contábeis (MSC), com saldos padronizados das contas do PCASP, a Declaração de Contas Anuais e os relatórios da LRF, conforme o art. 48, § 2º, da LRF. O Tesouro aplica verificações automáticas nesses dados e publica, desde 2020, o Ranking da Qualidade da Informação Contábil e Fiscal no Siconfi, hoje com mais de 160 verificações. Tribunais de Contas usam a MSC e os resultados do ranking para planejar auditorias, cruzar dados com os balanços enviados na prestação de contas e expedir recomendações. A divergência entre o que o ente informa ao Siconfi e o que apresenta ao Tribunal é, em si, um achado.\n\nCASO:\nUm Município lança em janeiro IPTU de R$ 10 milhões e arrecada R$ 8 milhões até dezembro; compra um veículo de R$ 300 mil, liquidado e pago; registra depreciação de R$ 30 mil; e recebe em dezembro serviço de limpeza de R$ 200 mil sem empenho. Solução: (1) no lançamento, a natureza patrimonial registra crédito a receber contra VPA de R$ 10 milhões; (2) na arrecadação, a natureza orçamentária registra receita realizada de R$ 8 milhões, a patrimonial troca crédito por caixa (sem nova VPA) e o controle registra disponibilidade por destinação; (3) o veículo é despesa orçamentária de capital não efetiva: o empenho movimenta as classes 6 e 8, e a liquidação incorpora o bem ao imobilizado contra o passivo, sem VPD; (4) a depreciação é VPD sem despesa orçamentária; (5) o serviço de limpeza exige VPD e passivo em dezembro, pela competência, embora a despesa orçamentária só venha a ser executada depois, como despesa de exercícios anteriores. Para o Tribunal, a omissão desse passivo subavalia obrigações e distorce o superávit financeiro e a análise do art. 42 da LRF em fim de mandato, podendo justificar ressalva ou recomendação.\n\nTREINO DISCURSIVO:\nExplique por que se diz que a contabilidade aplicada ao setor público adota regimes distintos para o orçamento e para o patrimônio, e quais as consequências disso para a análise das contas pelo Tribunal de Contas.\nRoteiro de resposta: (a) fundamento normativo do MCASP (LRF, arts. 50 e 51) e sua autoridade frente às NBC TSP; (b) art. 35 da Lei nº 4.320/1964 e regime de competência para VPA e VPD; (c) naturezas de informação e classes do PCASP, com exemplo de fato registrado em mais de uma natureza; (d) casos de VPD sem despesa orçamentária e de passivo sem empenho; (e) reflexos no controle: coerência das DCASP, MSC no Siconfi, superávit financeiro e art. 42 da LRF.",
+   "flashcards": [
+    {
+     "frente": "Quais atos aprovaram a 11ª edição do MCASP e desde quando vale?",
+     "verso": "De 18/12/2024: Portaria Conjunta STN/SOF nº 26 (Parte I), Portaria Conjunta STN/SRPC nº 25 (benefícios pós-emprego, Parte III) e Portaria STN/MF nº 2.016 (demais partes). Vale a partir do exercício de 2025.",
+     "dispositivo": "Portarias de 18/12/2024"
+    },
+    {
+     "frente": "Principais novidades da 11ª edição?",
+     "verso": "Capítulos de Benefícios Sociais (NBC TSP 29) e Instrumentos Financeiros (NBC TSP 30, 31 e 33); patrimônio cultural de reconhecimento facultativo; ajustes no redutor do FPM, Fundeb, precatórios e DFC.",
+     "dispositivo": "Síntese de Alterações do MCASP 11ª ed. (STN)"
+    },
+    {
+     "frente": "Ordem de aplicação em caso de conflito?",
+     "verso": "1º MCASP; 2º NBC TSP específica; 3º NBC TSP Estrutura Conceitual; IPSAS apenas em caráter residual e não obrigatório.",
+     "dispositivo": "MCASP, Parte Geral"
+    },
+    {
+     "frente": "Aspectos x naturezas de informação?",
+     "verso": "Aspectos: orçamentário, patrimonial e fiscal (Parte Geral). Naturezas do PCASP: patrimonial (classes 1-4), orçamentária (5-6) e de controle (7-8).",
+     "dispositivo": "MCASP, Parte Geral e Parte IV"
+    },
+    {
+     "frente": "Dê exemplos de VPD sem despesa orçamentária.",
+     "verso": "Depreciação, amortização, exaustão, constituição de provisões e serviço prestado ainda não empenhado (reconhecido por competência).",
+     "dispositivo": "MCASP, Parte II"
+    },
+    {
+     "frente": "O que é a MSC e para que o controle externo a usa?",
+     "verso": "Matriz de Saldos Contábeis: saldos padronizados das contas do PCASP enviados ao Siconfi. Serve de base para verificações do Tesouro, para o ranking de qualidade e para cruzamentos nas auditorias dos Tribunais de Contas.",
+     "dispositivo": "LRF, art. 48, § 2º; Siconfi"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "tceac-nuvem-mcasp-11-n2-q01",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "A Parte I do MCASP, que trata dos procedimentos contábeis orçamentários, é aprovada por portaria conjunta da Secretaria do Tesouro Nacional e da Secretaria de Orçamento Federal, ao passo que a maior parte das demais partes é aprovada por portaria da STN.",
+     "gabarito": "C",
+     "comentario": "Certo. Na 11ª edição, a Parte I foi aprovada pela Portaria Conjunta STN/SOF nº 26/2024, e a Parte Geral e as Partes II a V, salvo o capítulo de benefícios pós-emprego, pela Portaria STN/MF nº 2.016/2024.",
+     "dispositivo": "Portaria Conjunta STN/SOF nº 26/2024; Portaria STN/MF nº 2.016/2024"
+    },
+    {
+     "id": "tceac-nuvem-mcasp-11-n2-q02",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Entre as alterações da 11ª edição do MCASP está a inclusão, nos procedimentos contábeis patrimoniais, de capítulos sobre benefícios sociais e instrumentos financeiros.",
+     "gabarito": "C",
+     "comentario": "Certo. A síntese de alterações do Tesouro registra os novos capítulos de Benefícios Sociais (NBC TSP 29) e de Instrumentos Financeiros (NBC TSP 30, 31 e 33).",
+     "dispositivo": "MCASP 11ª ed., Parte II; Síntese de Alterações (STN)"
+    },
+    {
+     "id": "tceac-nuvem-mcasp-11-n2-q03",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Havendo conflito entre o MCASP e uma NBC TSP, prevalece a norma do Conselho Federal de Contabilidade, aplicando-se o manual apenas em caráter subsidiário.",
+     "gabarito": "E",
+     "comentario": "Errado. A Parte Geral estabelece que, em caso de conflito, prevalece o manual; subsidiariamente aplicam-se a NBC TSP sobre o assunto e a Estrutura Conceitual, e as IPSAS em caráter residual e não obrigatório.",
+     "dispositivo": "MCASP 11ª ed., Parte Geral, alcance e autoridade"
+    },
+    {
+     "id": "tceac-nuvem-mcasp-11-n2-q04",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "A depreciação de um bem móvel do imobilizado gera, simultaneamente, variação patrimonial diminutiva e despesa orçamentária, ambas reconhecidas pelo regime de competência.",
+     "gabarito": "E",
+     "comentario": "Errado. A depreciação é VPD sem execução orçamentária: não há empenho, liquidação nem pagamento. A despesa orçamentária ocorreu, se for o caso, na aquisição do bem.",
+     "dispositivo": "MCASP, Parte II (depreciação); Lei nº 4.320/1964, art. 35"
+    },
+    {
+     "id": "tceac-nuvem-mcasp-11-n2-q05",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "As normas do MCASP aplicam-se obrigatoriamente às empresas estatais independentes, por integrarem a administração indireta.",
+     "gabarito": "E",
+     "comentario": "Errado. O manual é obrigatório para as entidades do setor público, inclusive estatais dependentes. As estatais independentes e os conselhos profissionais podem aplicá-lo de forma facultativa ou por determinação de seus reguladores.",
+     "dispositivo": "MCASP 11ª ed., Parte Geral, alcance"
+    },
+    {
+     "id": "tceac-nuvem-mcasp-11-n2-q06",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "A aquisição de um imóvel com recursos do orçamento constitui despesa orçamentária não efetiva, pois no momento da incorporação do bem não altera a situação patrimonial líquida.",
+     "gabarito": "C",
+     "comentario": "Certo. Há fato permutativo: sai caixa ou surge passivo, e entra ativo imobilizado. A redução do patrimônio líquido virá depois, por eventual depreciação, como VPD.",
+     "dispositivo": "MCASP, Parte I (despesa efetiva e não efetiva)"
+    },
+    {
+     "id": "tceac-nuvem-mcasp-11-n2-q07",
+     "tipo": "me",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Acerca das naturezas de informação do PCASP, assinale a opção correta.",
+     "gabarito": "C",
+     "alternativas": {
+      "A": "As classes 5 e 6 registram a informação de controle, e as classes 7 e 8, a informação orçamentária.",
+      "B": "As VPA e as VPD integram a natureza orçamentária, pois decorrem da execução da receita e da despesa.",
+      "C": "As classes 1 a 4 registram a informação patrimonial, e um lançamento com débito na classe 7 tem contrapartida na classe 8.",
+      "D": "É admitido lançamento com débito na classe 1 e crédito na classe 6 quando houver arrecadação de receita.",
+      "E": "A informação fiscal constitui uma quarta natureza de informação, registrada em classe própria do PCASP."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Errada: classes 5 e 6 são orçamentárias; 7 e 8, de controle.",
+      "B": "Errada: VPD (classe 3) e VPA (classe 4) são de natureza patrimonial.",
+      "C": "Correta: os lançamentos ocorrem dentro da mesma natureza, e 7 se fecha com 8.",
+      "D": "Errada: não se cruzam naturezas; a arrecadação gera lançamentos separados nas classes 1/2, 6 e 7/8.",
+      "E": "Errada: o aspecto fiscal (indicadores da LRF) é extraído dos registros; não há classe própria."
+     },
+     "comentario": "A) Errada: classes 5 e 6 são orçamentárias; 7 e 8, de controle.\nB) Errada: VPD (classe 3) e VPA (classe 4) são de natureza patrimonial.\nC) Correta: os lançamentos ocorrem dentro da mesma natureza, e 7 se fecha com 8.\nD) Errada: não se cruzam naturezas; a arrecadação gera lançamentos separados nas classes 1/2, 6 e 7/8.\nE) Errada: o aspecto fiscal (indicadores da LRF) é extraído dos registros; não há classe própria.",
+     "dispositivo": "MCASP 11ª ed., Parte IV (PCASP)"
+    },
+    {
+     "id": "tceac-nuvem-mcasp-11-n2-q08",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Um Município recebe em dezembro serviço de manutenção já prestado, sem empenho prévio, que será pago no exercício seguinte. Segundo o MCASP, assinale a opção correta.",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "Deve ser reconhecida VPD e passivo em dezembro, pela competência, ainda que a despesa orçamentária venha a ser executada no exercício seguinte.",
+      "B": "Nada deve ser registrado no exercício, pois a despesa só pertence ao exercício em que for empenhada.",
+      "C": "Deve ser registrada despesa orçamentária em dezembro, independentemente de empenho, por força da competência.",
+      "D": "O fato deve ser registrado exclusivamente nas classes de controle até a emissão do empenho.",
+      "E": "Deve ser inscrito em restos a pagar não processados, com base na nota fiscal."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta: o regime patrimonial independe da execução orçamentária; no ano seguinte, a despesa será executada como despesa de exercícios anteriores.",
+      "B": "Errada: o art. 35 da Lei nº 4.320/1964 rege o orçamento, não o patrimônio.",
+      "C": "Errada: não há despesa orçamentária sem empenho (Lei nº 4.320/1964, art. 60).",
+      "D": "Errada: o fato afeta o patrimônio e exige registro patrimonial.",
+      "E": "Errada: só se inscreve em restos a pagar despesa empenhada."
+     },
+     "comentario": "A) Correta: o regime patrimonial independe da execução orçamentária; no ano seguinte, a despesa será executada como despesa de exercícios anteriores.\nB) Errada: o art. 35 da Lei nº 4.320/1964 rege o orçamento, não o patrimônio.\nC) Errada: não há despesa orçamentária sem empenho (Lei nº 4.320/1964, art. 60).\nD) Errada: o fato afeta o patrimônio e exige registro patrimonial.\nE) Errada: só se inscreve em restos a pagar despesa empenhada.",
+     "dispositivo": "MCASP, Partes I e II; Lei nº 4.320/1964, arts. 35, 36 e 60; LRF, art. 50, II"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Pertencem ao exercício financeiro as receitas nele ___ e as despesas nele legalmente ___.",
+     "opcoes": [
+      "arrecadadas",
+      "empenhadas",
+      "lançadas",
+      "pagas",
+      "liquidadas"
+     ],
+     "respostas": [
+      "arrecadadas",
+      "empenhadas"
+     ],
+     "explicacao": "Lei nº 4.320/1964, art. 35: regime orçamentário. O patrimônio segue a competência."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Classes 1 a 4",
+       "Natureza patrimonial"
+      ],
+      [
+       "Classes 5 e 6",
+       "Natureza orçamentária"
+      ],
+      [
+       "Classes 7 e 8",
+       "Natureza de controle"
+      ],
+      [
+       "Classe 3",
+       "Variações patrimoniais diminutivas"
+      ]
+     ]
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a aplicação das normas em caso de conflito, segundo o MCASP.",
+     "itens": [
+      "MCASP",
+      "NBC TSP relativa ao assunto",
+      "NBC TSP Estrutura Conceitual",
+      "IPSAS, em caráter residual e não obrigatório"
+     ],
+     "explicacao": "Ordem fixada na Parte Geral, no item de alcance e autoridade do manual."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Parte I",
+       "Procedimentos Contábeis Orçamentários"
+      ],
+      [
+       "Parte II",
+       "Procedimentos Contábeis Patrimoniais"
+      ],
+      [
+       "Parte III",
+       "Procedimentos Contábeis Específicos"
+      ],
+      [
+       "Parte IV",
+       "Plano de Contas (PCASP)"
+      ],
+      [
+       "Parte V",
+       "Demonstrações Contábeis (DCASP)"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

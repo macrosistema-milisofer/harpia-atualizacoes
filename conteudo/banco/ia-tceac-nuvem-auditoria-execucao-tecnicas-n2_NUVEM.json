@@ -1,0 +1,223 @@
+{
+ "assunto": "Auditoria Governamental – execução, técnicas e procedimentos",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-28",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-nuvem-auditoria-execucao-tecnicas-n2",
+   "titulo": "Execução da auditoria: técnicas, testes e poderes de fiscalização",
+   "microconteudo": "RAIO-X DA PROVA: O Cebraspe descreve um caso e pede a técnica, ou define uma técnica com o nome de outra (conciliação chamada de circularização, revisão analítica chamada de análise de contas). As armadilhas mais comuns: afirmar que inspeção física prova propriedade; que revisão analítica basta para fundamentar débito; que na circularização a resposta pode passar pela entidade auditada; que a confirmação negativa é mais segura que a positiva; que seleção dos maiores itens é amostragem estatística projetável; e que bons controles dispensam qualquer procedimento substantivo. No controle externo, cobra também a vedação à sonegação de documentos (Lei 8.443/1992, art. 42) e os limites do acesso a dados bancários definidos pelo STF.\n\nPOR QUE IMPORTA:\nA execução é a fase em que o planejamento encontra a realidade. A equipe aplica, sobre objetos concretos, os procedimentos previstos na matriz de planejamento e obtém a evidência que vai sustentar ou derrubar cada possível achado. A escolha errada da técnica produz evidência fraca, e evidência fraca produz decisões anuláveis. Para quem julga contas, entender o alcance e os limites de cada técnica é o que permite perguntar à instrução: esta prova demonstra o que se afirma? Além disso, a execução depende dos poderes de fiscalização do Tribunal, como o acesso a documentos, a vedação à sonegação e os limites do sigilo bancário, temas recorrentes em provas de magistratura de contas.\n\nO QUE A BANCA COBRA:\n- Diferença entre técnica (o meio) e procedimento (a aplicação de técnicas a um objeto, com finalidade, extensão e época definidas).\n- Cada técnica do rol clássico: o que prova, o que não prova e exemplo no setor público.\n- Testes de controle x procedimentos substantivos (testes de detalhes e procedimentos analíticos substantivos).\n- Amostragem estatística e não estatística; risco de amostragem.\n- Circularização positiva e negativa e o controle do processo pelo auditor (NBC TA 505 / ISSAI 2505).\n- Técnicas da auditoria operacional: entrevista, questionário, grupo focal, observação direta e análise de dados.\n- Lei 8.443/1992, arts. 41, 42, 44 e 58, VI; acesso a dados protegidos por sigilo (STF, MS 22.801 e MS 33.340).\n\nENTENDA:\n1. Técnica x procedimento\nTécnica é o método de obtenção de evidência: inspecionar, confirmar com terceiro, recalcular, perguntar, observar, comparar. Procedimento é a aplicação de uma ou mais técnicas a um objeto determinado, com objetivo, extensão e época definidos. \"Circularização\" é técnica; \"circularizar todas as instituições financeiras com que o município mantém contas, para confirmar os saldos em 31 de dezembro\" é procedimento. A matriz de planejamento descreve procedimentos, e cada procedimento costuma combinar técnicas. A banca cobra essa distinção trocando um termo pelo outro.\n\n2. As técnicas do rol clássico\nExame documental: verificação de contratos, empenhos, notas, folhas, atas e registros eletrônicos quanto a autenticidade, formalidade, coerência e pertinência ao objeto. É a técnica mais usada na conformidade. Limite: prova que o documento existe e está formalmente correto, não que o fato nele descrito ocorreu; nota fiscal regular não demonstra a entrega.\nInspeção física: exame presencial de bens, obras, estoques e instalações. Gera evidência física, obtida diretamente, de alta confiabilidade quanto à existência, quantidade e estado. Limite: não prova, por si, propriedade, valor ou que o bem inspecionado é o mesmo que foi pago. Exemplo: medição de campo de obra rodoviária confrontada com o boletim de medição.\nConferência de cálculos (recálculo): o auditor refaz cálculos da entidade, como reajustes, folha, juros, depreciação e limites constitucionais de saúde e educação. Evidência analítica obtida diretamente. Limite: só é tão boa quanto os dados de entrada; recalcular corretamente sobre base errada não detecta o erro da base.\nObservação: acompanhamento de uma rotina enquanto ela ocorre, como o recebimento de mercadorias ou a triagem num pronto-socorro. Útil para avaliar controles. Limites: vale para o momento observado e sofre o efeito de quem sabe que está sendo observado; não demonstra como o processo funcionou no restante do período.\nEntrevista: coleta de informações com gestores, servidores, usuários e especialistas, por roteiro estruturado ou semiestruturado. Gera evidência testemunhal, valiosa para entender processos e causas, mas que precisa ser registrada, preferencialmente validada pelo entrevistado, e corroborada.\nCircularização (confirmação externa): obtenção de resposta escrita, diretamente de terceiro independente, sobre saldos, contratos ou transações (bancos, fornecedores, órgãos concedentes). Evidência externa, em regra mais confiável. Detalhes no item 5.\nConciliações: confronto entre registros de fontes distintas para explicar as diferenças, como saldo contábil x extrato bancário, controle patrimonial x contabilidade, folha x empenho. Itens pendentes antigos e sem explicação são sinal de alerta.\nAnálise de contas contábeis: exame da composição e da movimentação de contas específicas (adiantamentos, depósitos de terceiros, restos a pagar, dívida ativa) para identificar saldos sem suporte, lançamentos atípicos e classificações indevidas. Normalmente direciona exames documentais.\nRevisão analítica (procedimentos analíticos): avaliação de informações por meio de relações plausíveis entre dados financeiros e não financeiros, com comparações entre períodos, entidades semelhantes ou expectativas desenvolvidas pelo auditor. Exemplo: despesa com combustível que dobra sem aumento de frota nem de quilometragem. Limite: aponta onde aprofundar, mas, sozinha, não demonstra irregularidade capaz de fundamentar débito.\n\n3. Testes de controle e procedimentos substantivos\nNa lógica da NBC TA 330 (ISSAI 2330), os testes de controle avaliam a efetividade operacional dos controles internos ao longo do período, combinando indagação, observação, inspeção e reexecução. Os procedimentos substantivos buscam detectar distorções relevantes e se dividem em testes de detalhes (de transações, saldos e divulgações) e procedimentos analíticos substantivos. Quanto melhores os controles comprovados, menor a extensão dos substantivos; mas, para cada classe relevante de transações, saldo ou divulgação, algum procedimento substantivo deve ser aplicado, independentemente do risco avaliado. Na conformidade, a mesma ideia aparece: controle confiável permite amostra menor; controle falho exige exame mais amplo.\n\n4. Amostragem e extensão\nPela NBC TA 530 (ISSAI 2530), amostragem é a aplicação de procedimentos a menos de 100% dos itens de uma população, de modo que todas as unidades tenham chance de seleção. A estatística usa seleção aleatória e teoria das probabilidades para projetar resultados e medir o risco de amostragem; a não estatística depende do julgamento profissional e não permite quantificar esse risco. Risco de amostragem é a possibilidade de a conclusão sobre a amostra diferir da que se obteria examinando toda a população. Examinar todos os itens ou selecionar apenas itens específicos (os de maior valor ou os atípicos) não é amostragem, e os resultados não podem ser projetados para o restante. Com análise de dados, cresce o exame da população inteira por cruzamentos eletrônicos.\n\n5. Circularização positiva e negativa\nNa confirmação positiva, o terceiro responde em qualquer caso, concordando, divergindo ou informando o saldo (quando o pedido é \"em branco\", sem indicar o valor, reduz-se o risco de concordância automática). Na negativa, responde apenas se discordar, de modo que a ausência de resposta é tomada como concordância; por isso fornece evidência menos persuasiva e, pela NBC TA 505 (ISSAI 2505), só deve ser usada como único procedimento substantivo quando, entre outras condições, o risco for avaliado como baixo, a população for de muitos saldos pequenos e homogêneos, a taxa de exceções esperada for baixa e não houver razão para supor que os destinatários ignorarão o pedido. O auditor controla todo o processo: escolhe os destinatários, prepara e envia o pedido e recebe a resposta diretamente. Se a administração se recusar a permitir a circularização, o auditor avalia os motivos e aplica procedimentos alternativos; não havendo justificativa razoável, comunica a governança e avalia o efeito sobre a opinião.\n\n6. Técnicas da auditoria operacional\nO Manual de Auditoria do TCU destaca revisão documental, entrevista, questionário, observação direta e grupo focal, além da análise de dados. Questionário alcança muitos respondentes e permite tratamento estatístico, mas depende de taxa de resposta e de perguntas bem construídas. Grupo focal reúne pequeno grupo de participantes, sob moderação, para explorar percepções; não gera dado generalizável, mas revela causas e efeitos que o documento não mostra. Como as evidências dessas técnicas são em boa parte testemunhais, o manual recomenda triangulação de fontes e métodos.\n\n7. Poderes de fiscalização e limites\nA CF, art. 71, IV, atribui ao Tribunal a realização de inspeções e auditorias, por iniciativa própria ou do Legislativo. A Lei 8.443/1992, art. 41, prevê o acompanhamento de atos que gerem receita ou despesa e a realização de fiscalizações pelos servidores do Tribunal. O art. 42 dispõe que nenhum processo, documento ou informação poderá ser sonegado ao Tribunal em suas inspeções ou auditorias, sob qualquer pretexto; havendo sonegação, o Tribunal assina prazo para a apresentação e comunica a autoridade competente e, vencido o prazo, aplica multa. O art. 58, VI, tipifica a sonegação como hipótese de multa, e o art. 44 permite o afastamento cautelar do responsável que possa retardar ou dificultar a auditoria. As leis orgânicas dos Tribunais estaduais seguem o modelo federal, por força do art. 75 da CF.\nSigilo: no MS 22.801 (Plenário, 2007), o STF entendeu que a LC 105/2001 não conferiu ao TCU poder para determinar a quebra de sigilo bancário de dados do Banco Central. No MS 33.340 (Primeira Turma, 2015), porém, assentou que o BNDES não pode opor sigilo bancário ao TCU quanto a operações de financiamento com recursos públicos, porque a publicidade e o controle prevalecem quando se trata de dinheiro público. A conciliação dos precedentes: o Tribunal não quebra sigilo de particulares, mas acessa dados de operações que envolvem recursos públicos, mantendo-os sob sigilo nos autos. Para dados de terceiros sem recursos públicos envolvidos, a via é a autorização judicial ou outro órgão legitimado.\n\nCASO:\nNum município, a revisão analítica da despesa com merenda mostrou gasto por aluno 70% acima da média de municípios semelhantes. A equipe planejou: análise da conta de fornecedores e conciliação entre empenhos, liquidações e pagamentos; exame documental das notas e atestos; circularização positiva dos três maiores fornecedores; inspeção física dos estoques nas escolas e observação do recebimento de gêneros. A prefeitura pediu que as cartas de confirmação fossem enviadas por ela própria e que as respostas voltassem à secretaria. Solução: a equipe deve manter o controle do envio e exigir retorno direto, porque a intermediação compromete a independência da evidência; persistindo a recusa sem justificativa, aplicam-se procedimentos alternativos (exame de pagamentos subsequentes e de documentos de transporte) e, na esfera do Tribunal, cabe assinar prazo e, se mantida a obstrução, aplicar a multa por sonegação de informação. A revisão analítica, sozinha, não sustentaria débito: ela apenas orientou onde aplicar as técnicas que produzem evidência direta.\n\nTREINO DISCURSIVO:\nExplique a distinção entre técnica e procedimento de auditoria e analise, com exemplos do setor público, o alcance e os limites da inspeção física, da circularização e da revisão analítica, indicando ainda os poderes do Tribunal de Contas para obter documentos e os limites relativos ao sigilo bancário.\nRoteiro de resposta: (a) definir técnica e procedimento, com exemplo de procedimento que combine técnicas; (b) inspeção física: prova existência e estado, não propriedade nem valor; (c) circularização: positiva x negativa, controle do auditor e procedimentos alternativos; (d) revisão analítica: identifica variações e direciona o trabalho, sem bastar para imputar débito; (e) poderes dos arts. 41, 42 e 58, VI, da Lei 8.443/1992 e a conciliação entre MS 22.801 e MS 33.340.",
+   "flashcards": [
+    {
+     "frente": "Técnica x procedimento de auditoria?",
+     "verso": "Técnica é o meio de obter evidência (ex.: circularização). Procedimento é a aplicação de técnicas a um objeto, com finalidade, extensão e época.",
+     "dispositivo": "Técnicas de auditoria; matriz de planejamento"
+    },
+    {
+     "frente": "O que a inspeção física prova e o que não prova?",
+     "verso": "Prova existência, quantidade e estado. Não prova, por si, propriedade, valor nem que o bem é o mesmo que foi pago.",
+     "dispositivo": "Técnicas de auditoria – inspeção física"
+    },
+    {
+     "frente": "Circularização positiva x negativa?",
+     "verso": "Positiva: o terceiro responde sempre (mais segura). Negativa: responde só se discordar; evidência menos persuasiva, para risco baixo e saldos pequenos e homogêneos.",
+     "dispositivo": "NBC TA 505 / ISSAI 2505"
+    },
+    {
+     "frente": "Procedimentos substantivos se dividem em quê?",
+     "verso": "Testes de detalhes (transações, saldos, divulgações) e procedimentos analíticos substantivos.",
+     "dispositivo": "NBC TA 330 / ISSAI 2330; NBC TA 520"
+    },
+    {
+     "frente": "O que é risco de amostragem?",
+     "verso": "Possibilidade de a conclusão baseada na amostra ser diferente da que se obteria examinando toda a população.",
+     "dispositivo": "NBC TA 530 / ISSAI 2530"
+    },
+    {
+     "frente": "Sonegação de documentos ao Tribunal de Contas: consequência?",
+     "verso": "O Tribunal assina prazo para apresentação e comunica a autoridade; vencido o prazo, aplica multa (art. 58, VI). Pode haver afastamento cautelar (art. 44).",
+     "dispositivo": "Lei 8.443/1992, arts. 42, 44 e 58, VI"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "tceac-nuvem-auditoria-execucao-tecnicas-n2-q01",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "Circularizar as instituições financeiras para confirmar os saldos de todas as contas bancárias do município em 31 de dezembro constitui um procedimento de auditoria, no qual se aplica a técnica da circularização.",
+     "gabarito": "C",
+     "comentario": "Certo. Técnica é o meio de obtenção de evidência; procedimento é a aplicação dessa técnica a um objeto, com finalidade, extensão e época definidas.",
+     "dispositivo": "Técnicas e procedimentos de auditoria; matriz de planejamento"
+    },
+    {
+     "id": "tceac-nuvem-auditoria-execucao-tecnicas-n2-q02",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Na confirmação externa negativa, o terceiro só se manifesta se discordar da informação enviada; por isso, ela fornece evidência mais persuasiva que a positiva e é preferível quando o risco de distorção é elevado.",
+     "gabarito": "E",
+     "comentario": "Errado. A confirmação negativa fornece evidência menos persuasiva e só deve ser o único procedimento substantivo quando o risco for baixo e presentes as demais condições previstas na norma.",
+     "dispositivo": "NBC TA 505 / ISSAI 2505"
+    },
+    {
+     "id": "tceac-nuvem-auditoria-execucao-tecnicas-n2-q03",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "A inspeção física de veículos no pátio de uma secretaria permite concluir, por si só, que os bens pertencem ao órgão e foram adquiridos pelo valor registrado.",
+     "gabarito": "E",
+     "comentario": "Errado. A inspeção física prova existência, quantidade e estado, mas não propriedade nem valor, que exigem exame documental e outras técnicas.",
+     "dispositivo": "Técnicas de auditoria – inspeção física"
+    },
+    {
+     "id": "tceac-nuvem-auditoria-execucao-tecnicas-n2-q04",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Ainda que os testes de controle demonstrem controles internos efetivos, o auditor deve aplicar algum procedimento substantivo a cada classe relevante de transações, saldo contábil ou divulgação.",
+     "gabarito": "C",
+     "comentario": "Certo. Controles efetivos reduzem a extensão dos procedimentos substantivos, mas não os eliminam para itens relevantes, dadas as limitações inerentes ao controle interno.",
+     "dispositivo": "NBC TA 330 / ISSAI 2330"
+    },
+    {
+     "id": "tceac-nuvem-auditoria-execucao-tecnicas-n2-q05",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Conforme entendimento do STF, o BNDES não pode opor sigilo bancário ao Tribunal de Contas da União quanto a operações de financiamento realizadas com recursos públicos, embora o STF já tenha afirmado que a LC 105/2001 não conferiu ao TCU poder para decretar a quebra de sigilo bancário de dados do Banco Central.",
+     "gabarito": "C",
+     "comentario": "Certo. No MS 33.340, a Primeira Turma negou ao BNDES a oposição de sigilo em operações com recursos públicos; no MS 22.801, o Plenário afastou o poder do TCU de quebrar sigilo bancário de dados do Banco Central.",
+     "dispositivo": "STF, MS 33.340 (2015) e MS 22.801 (2007)"
+    },
+    {
+     "id": "tceac-nuvem-auditoria-execucao-tecnicas-n2-q06",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Quando a equipe examina apenas os vinte contratos de maior valor da população, aplica amostragem estatística, o que permite projetar a taxa de erro encontrada para os demais contratos.",
+     "gabarito": "E",
+     "comentario": "Errado. Selecionar itens específicos por valor não é amostragem, pois nem todos os itens têm chance de seleção; os resultados não podem ser projetados para o restante da população.",
+     "dispositivo": "NBC TA 530 / ISSAI 2530"
+    },
+    {
+     "id": "tceac-nuvem-auditoria-execucao-tecnicas-n2-q07",
+     "tipo": "me",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Em auditoria numa autarquia estadual, a equipe deseja verificar se o saldo registrado na conta contábil de bancos corresponde ao valor informado no extrato da instituição financeira, explicando as diferenças de pendências. A técnica adequada é a",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "revisão analítica.",
+      "B": "circularização.",
+      "C": "observação.",
+      "D": "conciliação.",
+      "E": "conferência de cálculos."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Errada: a revisão analítica compara relações e tendências, não confronta registros item a item.",
+      "B": "Errada: a circularização obtém confirmação direta do terceiro; pode complementar, mas o confronto descrito é a conciliação.",
+      "C": "Errada: a observação acompanha um processo em andamento.",
+      "D": "Correta: conciliar é confrontar registros de fontes distintas e explicar as diferenças.",
+      "E": "Errada: a conferência de cálculos refaz operações aritméticas da entidade."
+     },
+     "comentario": "A) Errada: a revisão analítica compara relações e tendências, não confronta registros item a item.\nB) Errada: a circularização obtém confirmação direta do terceiro; pode complementar, mas o confronto descrito é a conciliação.\nC) Errada: a observação acompanha um processo em andamento.\nD) Correta: conciliar é confrontar registros de fontes distintas e explicar as diferenças.\nE) Errada: a conferência de cálculos refaz operações aritméticas da entidade.",
+     "dispositivo": "Técnicas de auditoria – conciliações"
+    },
+    {
+     "id": "tceac-nuvem-auditoria-execucao-tecnicas-n2-q08",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Durante auditoria, o gestor de uma secretaria se recusa a entregar à equipe do Tribunal de Contas processos de pagamento, alegando que contêm informações estratégicas. À luz da Lei Orgânica do TCU, que serve de modelo às leis estaduais, assinale a opção correta.",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "Nenhum processo, documento ou informação pode ser sonegado ao Tribunal em suas inspeções ou auditorias, cabendo assinar prazo para a apresentação e, mantida a recusa, aplicar multa.",
+      "B": "A recusa é legítima, e o Tribunal deve requerer ao Poder Judiciário a busca e apreensão dos documentos.",
+      "C": "A sonegação de documentos gera apenas registro no relatório, sem possibilidade de sanção ao responsável.",
+      "D": "O Tribunal pode afastar definitivamente o gestor do cargo, sem necessidade de contraditório.",
+      "E": "A recusa somente é ilícita se os documentos estiverem classificados como públicos pela Lei de Acesso à Informação."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Correta: é a regra do art. 42 e seus parágrafos, com a multa do art. 58, que tipifica a sonegação no inciso VI.",
+      "B": "Errada: não há pretexto que legitime a sonegação; o próprio Tribunal assina prazo e sanciona.",
+      "C": "Errada: a sonegação é hipótese de multa (art. 58, VI).",
+      "D": "Errada: o art. 44 prevê afastamento cautelar e temporário, não definitivo.",
+      "E": "Errada: a vedação vale sob qualquer pretexto; informações sigilosas são mantidas sob sigilo nos autos."
+     },
+     "comentario": "A) Correta: é a regra do art. 42 e seus parágrafos, com a multa do art. 58, que tipifica a sonegação no inciso VI.\nB) Errada: não há pretexto que legitime a sonegação; o próprio Tribunal assina prazo e sanciona.\nC) Errada: a sonegação é hipótese de multa (art. 58, VI).\nD) Errada: o art. 44 prevê afastamento cautelar e temporário, não definitivo.\nE) Errada: a vedação vale sob qualquer pretexto; informações sigilosas são mantidas sob sigilo nos autos.",
+     "dispositivo": "Lei 8.443/1992, arts. 42, 44 e 58, VI"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Inspeção física",
+       "Existência e estado de bens e obras"
+      ],
+      [
+       "Circularização",
+       "Confirmação escrita de terceiro independente"
+      ],
+      [
+       "Conferência de cálculos",
+       "Refazer reajustes, folha e limites"
+      ],
+      [
+       "Revisão analítica",
+       "Variações e relações incomuns entre dados"
+      ],
+      [
+       "Conciliação",
+       "Confronto entre registros de fontes distintas"
+      ]
+     ]
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Na confirmação ___, o terceiro responde em qualquer caso; na ___, responde apenas se discordar.",
+     "opcoes": [
+      "positiva",
+      "negativa",
+      "direta",
+      "indireta"
+     ],
+     "respostas": [
+      "positiva",
+      "negativa"
+     ],
+     "explicacao": "NBC TA 505 / ISSAI 2505: a negativa fornece evidência menos persuasiva."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o fluxo típico de uma circularização controlada pelo auditor.",
+     "itens": [
+      "Selecionar os terceiros a confirmar",
+      "Preparar o pedido de confirmação",
+      "Enviar o pedido sob controle da equipe",
+      "Receber a resposta diretamente do terceiro",
+      "Avaliar divergências e não respostas com procedimentos alternativos"
+     ],
+     "explicacao": "O controle do auditor em todas as etapas preserva a independência da evidência externa."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Nenhum processo, documento ou informação poderá ser ___ ao Tribunal em suas inspeções ou auditorias, sob qualquer pretexto.",
+     "opcoes": [
+      "sonegado",
+      "remetido",
+      "classificado",
+      "digitalizado"
+     ],
+     "respostas": [
+      "sonegado"
+     ],
+     "explicacao": "Lei 8.443/1992, art. 42; a sonegação é hipótese de multa (art. 58, VI)."
+    }
+   ]
+  }
+ ]
+}

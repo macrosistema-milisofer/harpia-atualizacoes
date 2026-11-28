@@ -1,0 +1,219 @@
+{
+ "assunto": "Auditoria Governamental – evidências, achados e responsabilização",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-28",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-nuvem-auditoria-evidencias-achados-n2",
+   "titulo": "Da evidência à imputação: achados, matrizes e responsabilização",
+   "microconteudo": "RAIO-X DA PROVA: O Cebraspe explora as relações entre os atributos da evidência e os do achado. As pegadinhas mais comuns: dizer que grande quantidade de evidência compensa baixa confiabilidade; tratar as presunções de confiabilidade como absolutas (todo documento externo seria confiável); afirmar que pode haver achado sem critério; trocar causa por efeito num caso concreto; dizer que a matriz de responsabilização é feita para todo achado; tratar os comentários do gestor ao relatório preliminar como exercício do contraditório; e afirmar que o mero nexo causal ou o valor elevado do dano bastam para caracterizar erro grosseiro. Também cobra a diferença entre citação (com débito) e audiência (sem débito) e o alcance do art. 28 da LINDB sobre o ressarcimento.\n\nPOR QUE IMPORTA:\nToda deliberação de um Tribunal de Contas que imponha débito, multa ou determinação repousa numa cadeia lógica: evidência, achado, imputação. Se um elo falha, a decisão fica vulnerável em recurso, em mandado de segurança ou na execução do título. Quem relata processos de contas precisa enxergar essa cadeia por dentro: saber quando a evidência é bastante e boa, quando a situação descrita é realmente um achado e quando a conduta de uma pessoa determinada pode ser ligada ao resultado com a culpabilidade exigida pela LINDB. É também nesse ponto que o controle externo mais se aproxima do processo sancionador, com as garantias que isso implica.\n\nO QUE A BANCA COBRA:\n- Requisitos da evidência: suficiência (quantidade) e adequação ou propriedade (qualidade: relevância, validade e confiabilidade), segundo a ISSAI 100/NBASP 100 e as Normas de Auditoria do TCU (NAT).\n- Tipos de evidência (física, documental, testemunhal, analítica) e presunções de confiabilidade, inclusive sua relatividade.\n- Atributos do achado (situação encontrada, critério, causa, efeito) e requisitos (relevância, objetividade, fundamentação em evidências, consistência).\n- Colunas e função da matriz de planejamento, da matriz de achados e da matriz de responsabilização.\n- Comentários dos gestores x contraditório; citação x audiência (Lei 8.443/1992, art. 12).\n- LINDB, arts. 22 e 28, Decreto 9.830/2019, art. 12, e a leitura do TCU sobre erro grosseiro (Acórdão 2.391/2018-Plenário).\n\nENTENDA:\n1. Evidência: o que é e quanto basta\nEvidência é a informação obtida pela equipe e usada para fundamentar achados e conclusões. A NBASP 100, tradução da ISSAI 100 adotada pelos Tribunais de Contas brasileiros, exige evidência suficiente e apropriada. Suficiência é atributo de quantidade: o volume que convence uma pessoa bem informada de que os achados são razoáveis. Adequação (ou propriedade) é atributo de qualidade e se desdobra em relevância (relação lógica com o objetivo, a questão e o critério), validade (a evidência representa de fato aquilo que pretende representar) e confiabilidade (a fonte e o método inspiram confiança, de modo que outro auditor chegaria ao mesmo resultado). As NAT trabalham com os mesmos elementos, listando validade, confiabilidade, relevância e suficiência. As duas dimensões se relacionam, mas não se compensam: quanto maior o risco ou a gravidade da conclusão, mais evidência se exige, e evidência mais forte reduz a quantidade necessária; porém nenhum volume supre evidência irrelevante ou inválida. O Manual de Auditoria do TCU lembra que a evidência é, em regra, mais persuasiva do que conclusiva, o que exige julgamento profissional e ceticismo.\n\n2. Tipos de evidência\nFísica: obtida por inspeção ou observação direta de pessoas, bens, obras e eventos, documentada em fotografias, vídeos, georreferenciamento e termos de constatação. Documental: contratos, notas, empenhos, folhas, extratos, registros eletrônicos e bases de dados. Testemunhal: entrevistas, questionários e declarações; é útil para compreender processos e causas, mas, isolada, é frágil e deve ser corroborada. Analítica: produzida pelo próprio auditor por cálculos, comparações, cruzamentos e modelagem de dados; o manual a aponta como a mais trabalhosa de obter, e sua força depende da confiabilidade dos dados de entrada.\n\n3. Hierarquia de confiabilidade e seus limites\nAs normas trazem presunções, não regras absolutas: a evidência de fonte externa e independente tende a ser mais confiável que a produzida pelo auditado; a gerada internamente é mais confiável quando os controles da entidade são efetivos; a obtida diretamente pelo auditor (inspeção, recálculo) supera a obtida indiretamente; a documental supera a oral; o testemunho corroborado por escrito supera o testemunho isolado; o original supera a cópia. A banca costuma transformar essas presunções em regras rígidas, o que torna o item errado. Um documento externo pode ser forjado; um conjunto coerente de depoimentos independentes pode ser convincente. Fragilidades típicas apontadas pelo TCU: fonte única, testemunho não corroborado, fonte enviesada, amostra não representativa e evidências conflitantes. As técnicas de reforço são a circularização e a triangulação (confirmar o mesmo fato por fontes e métodos diferentes).\n\n4. Caracterização do achado\nAchado é o fato significativo, digno de relato, que resulta da comparação entre a situação encontrada e o critério. As NAT exigem que seja relevante para os objetivos da auditoria, objetivo e fundamentado em evidências, consistente e convincente. Seus atributos são:\n- Situação encontrada (condição): o que existe, com delimitação de período, local e extensão, demonstrado por evidência.\n- Critério: o padrão de referência, como lei, regulamento, contrato, edital, jurisprudência, norma técnica, boa prática ou meta de desempenho. Sem critério não há como afirmar desvio; na auditoria operacional ele pode ser construído e deve ser discutido com o gestor.\n- Causa: a razão do desvio (falha de controle, desenho normativo deficiente, falta de capacitação, insuficiência de recursos, ato deliberado). É a base das recomendações: atacar o sintoma sem a causa garante a reincidência. O Manual sugere técnicas como os \"5 porquês\".\n- Efeito: a consequência real ou potencial, que mede a gravidade e justifica a proposta.\nAchado não é sinônimo de irregularidade. Há achados de impropriedade formal, de desempenho insatisfatório e até achados positivos (boas práticas). Essa distinção define o encaminhamento: recomendação, determinação, audiência ou citação.\n\n5. As três matrizes\nA matriz de planejamento organiza as questões de auditoria, as informações requeridas, as fontes, os procedimentos, os possíveis achados e as limitações. A matriz de achados, iniciada durante a execução, dá a resposta a cada questão; nas orientações do TCU para auditoria de conformidade, suas colunas são descrição do achado, situação encontrada, objetos, critério, evidência, causa, efeito e encaminhamento (o Manual de Auditoria acrescenta boas práticas e benefícios esperados). Serve de esqueleto do relatório e é validada pela supervisão e em reunião com os gestores.\nA matriz de responsabilização só é elaborada para achados que configurem irregularidade com proposta de audiência ou citação. Suas colunas: achado, responsável, período de exercício, conduta, nexo de causalidade e culpabilidade.\n- Responsável: pessoa física (ou jurídica) identificada, com cargo e período, pois quem não estava no cargo à época não pode responder pelo ato.\n- Conduta: a ação ou omissão concreta, individualizada, descrita com verbo e objeto (homologou, atestou, deixou de fiscalizar).\n- Nexo de causalidade: demonstração de que aquela conduta contribuiu para o resultado irregular.\n- Culpabilidade: juízo de reprovabilidade, que as orientações do TCU estruturam em perguntas: houve boa-fé; o agente agiu amparado em parecer técnico ou consulta; era possível ter consciência da ilicitude; era exigível conduta diversa. Para pessoa jurídica essa análise não se faz.\n\n6. Contraditório antes de imputar\nA remessa do relatório preliminar para comentários dos gestores é etapa de aprimoramento técnico e não constitui defesa; o próprio TCU registra isso no ofício. O contraditório propriamente dito ocorre no processo: definida a responsabilidade individual ou solidária, ordena-se a citação, se houver débito, para defesa ou recolhimento, ou a audiência, se não houver débito, para razões de justificativa (Lei 8.443/1992, art. 12). Reconhecida a boa-fé, a liquidação tempestiva do débito atualizado sana o processo se não houver outra irregularidade (art. 12, § 2º). Por isso a matriz de responsabilização é garantia do responsável: delimita o fato e a conduta imputados, e a decisão não pode condenar por fato diverso do que foi objeto de citação ou audiência.\n\n7. LINDB e erro grosseiro\nO art. 22 da LINDB manda considerar os obstáculos e dificuldades reais do gestor e as exigências das políticas públicas a seu cargo e, na aplicação de sanções, a natureza e a gravidade da infração, os danos, as circunstâncias agravantes ou atenuantes e os antecedentes. O art. 28 dispõe que o agente responde pessoalmente por decisões ou opiniões técnicas em caso de dolo ou erro grosseiro. O Decreto 9.830/2019, art. 12, define erro grosseiro como o manifesto, evidente e inescusável, praticado com culpa grave, caracterizado por ação ou omissão com elevado grau de negligência, imprudência ou imperícia; acrescenta que o mero nexo causal entre conduta e resultado não basta, que o montante do dano não caracteriza, por si, dolo ou erro grosseiro, e que quem decide com base em opinião técnica não responde automaticamente pelo erro dela, salvo se havia elementos para perceber o vício ou conluio.\nNo Acórdão 2.391/2018-Plenário, o TCU associou erro grosseiro à culpa grave, tomando como referência a conduta que uma pessoa de diligência abaixo do normal não deixaria de evitar, e entendeu que o art. 28 não alcança o dever de ressarcir, que dependeria apenas de dolo ou culpa. Esse ponto é controvertido: parte da doutrina sustenta que o art. 28 também incide sobre o débito, e há decisões recentes de colegiados do próprio Tribunal nessa direção. Na prova, distinga sanção (multa, inabilitação), em que o filtro do erro grosseiro é pacífico, de ressarcimento, em que há divergência. O STF, ao interpretar a MP 966/2020 (ADI 6.421 MC e conexas), afirmou que configura erro grosseiro o ato que viola a vida, a saúde ou o meio ambiente por inobservância de normas e critérios científicos e técnicos.\n\n8. Boa-fé e individualização no controle externo\nBoa-fé, para o TCU, é examinada em concreto: compara-se a conduta do agente à de um gestor médio, diligente, nas mesmas circunstâncias. Ela não se presume pela ausência de enriquecimento nem se afasta pelo simples resultado danoso. A individualização exige separar quem decidiu, quem opinou, quem atestou e quem pagou: a responsabilidade solidária pelo débito pressupõe que cada um tenha concorrido para o dano com conduta própria demonstrada. Imputação genérica a toda a comissão ou a toda a cadeia hierárquica, sem descrição da conduta de cada um, é vício que compromete o contraditório.\n\nCASO:\nEm auditoria de conformidade num contrato estadual de transporte escolar, a equipe cruzou os quilômetros pagos com dados de GPS dos veículos e com o calendário letivo, constatando pagamento de rotas em 40 dias sem aula. Fotografias mostraram parte da frota parada no pátio. O secretário homologou a licitação, a fiscal do contrato atestou as medições mensais e o ordenador pagou as faturas. Na matriz de achados: situação encontrada, pagamento por quilometragem não percorrida; critério, a lei de licitações e contratos e as cláusulas de medição; evidência analítica (cruzamento GPS x faturas x calendário), física (fotos) e documental (atestos); causa, ausência de controle da quilometragem pela fiscalização; efeito, dano estimado ao erário. Na matriz de responsabilização, a fiscal tem conduta direta (atestar sem conferir) e nexo evidente; o ordenador pagou à vista de atesto formalmente regular, e só responderá se havia sinal perceptível da falha; o secretário, sem conduta ligada às medições, não deve ser incluído apenas pela posição hierárquica, salvo omissão grave na supervisão (Decreto 9.830/2019, art. 12, § 7º). Proposta: citação da fiscal e da empresa contratada, solidariamente, pelo débito; recomendação para implantar controle eletrônico de rotas.\n\nTREINO DISCURSIVO:\nDisserte sobre a matriz de responsabilização na auditoria governamental, abordando seus elementos, sua relação com a matriz de achados e com o contraditório, e os efeitos dos arts. 22 e 28 da LINDB sobre a responsabilização perante os Tribunais de Contas.\nRoteiro de resposta: (a) conceituar a cadeia evidência, achado, imputação e o papel da matriz de achados (situação, critério, evidência, causa, efeito, encaminhamento); (b) explicar quando a matriz de responsabilização é elaborada e seus elementos (responsável, período, conduta, nexo, culpabilidade); (c) diferenciar comentários do gestor e contraditório, com citação e audiência do art. 12 da Lei 8.443/1992; (d) expor o art. 28 da LINDB, o conceito de erro grosseiro do Decreto 9.830/2019 e o art. 22; (e) apresentar a posição do Acórdão 2.391/2018-Plenário e a controvérsia sobre sua aplicação ao débito, concluindo com a exigência de individualização das condutas.",
+   "flashcards": [
+    {
+     "frente": "Quais são os componentes da adequação (qualidade) da evidência?",
+     "verso": "Relevância (ligação lógica com objetivo e critério), validade (representa o que pretende) e confiabilidade (fonte e método confiáveis). Suficiência é quantidade.",
+     "dispositivo": "NBASP 100/ISSAI 100, item 49"
+    },
+    {
+     "frente": "Quatro atributos do achado e para que serve cada um?",
+     "verso": "Situação encontrada (o que é), critério (o que deveria ser), causa (por que ocorreu; base da recomendação) e efeito (consequência; mede a gravidade).",
+     "dispositivo": "NAT do TCU; Manual de Auditoria do TCU"
+    },
+    {
+     "frente": "Colunas da matriz de achados nas orientações do TCU para conformidade?",
+     "verso": "Descrição do achado, situação encontrada, objetos, critério, evidência, causa, efeito e encaminhamento.",
+     "dispositivo": "Orientações para Auditorias de Conformidade (TCU, 2010)"
+    },
+    {
+     "frente": "Colunas da matriz de responsabilização e quando ela é feita?",
+     "verso": "Achado, responsável, período de exercício, conduta, nexo de causalidade e culpabilidade. Só para irregularidades com proposta de audiência ou citação.",
+     "dispositivo": "Orientações para Auditorias de Conformidade (TCU, 2010)"
+    },
+    {
+     "frente": "Como o Decreto 9.830/2019 define erro grosseiro?",
+     "verso": "Erro manifesto, evidente e inescusável, praticado com culpa grave, com elevado grau de negligência, imprudência ou imperícia.",
+     "dispositivo": "Decreto 9.830/2019, art. 12, § 1º"
+    },
+    {
+     "frente": "Citação ou audiência?",
+     "verso": "Citação quando há débito (defesa ou recolhimento); audiência quando não há débito (razões de justificativa). Ambas após definir a responsabilidade individual ou solidária.",
+     "dispositivo": "Lei 8.443/1992, art. 12"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "tceac-nuvem-auditoria-evidencias-achados-n2-q01",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "Evidência apropriada é aquela que, além de relevante, é válida e confiável, enquanto a suficiência diz respeito à quantidade de evidência necessária para sustentar o achado.",
+     "gabarito": "C",
+     "comentario": "Certo. A NBASP 100 (ISSAI 100) trata a suficiência como medida de quantidade e a adequação como medida de qualidade, que abrange relevância, validade e confiabilidade.",
+     "dispositivo": "NBASP 100/ISSAI 100, item 49; NAT do TCU"
+    },
+    {
+     "id": "tceac-nuvem-auditoria-evidencias-achados-n2-q02",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Quando a evidência obtida é de baixa confiabilidade, a equipe pode suprir essa deficiência ampliando o volume de evidências do mesmo tipo, já que a suficiência compensa as falhas de adequação.",
+     "gabarito": "E",
+     "comentario": "Errado. Mais evidência não corrige evidência irrelevante, inválida ou pouco confiável. Evidência de melhor qualidade pode reduzir a quantidade necessária, mas o inverso não ocorre.",
+     "dispositivo": "NBASP 100; Manual de Auditoria do TCU (2024), seção de evidências"
+    },
+    {
+     "id": "tceac-nuvem-auditoria-evidencias-achados-n2-q03",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Segundo as presunções adotadas pelas normas de auditoria, documento obtido de fonte externa e independente é sempre mais confiável que evidência produzida pela própria entidade auditada, razão pela qual dispensa exame crítico pelo auditor.",
+     "gabarito": "E",
+     "comentario": "Errado. As presunções de confiabilidade são relativas: um documento externo pode ser falso ou enviesado. O auditor mantém ceticismo profissional e avalia cada evidência no contexto.",
+     "dispositivo": "Normas de auditoria do setor público; NBC TA 500"
+    },
+    {
+     "id": "tceac-nuvem-auditoria-evidencias-achados-n2-q04",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "Na caracterização do achado, o critério corresponde ao padrão de referência usado para avaliar a situação encontrada, podendo consistir em lei, regulamento, cláusula contratual, norma técnica ou boa prática.",
+     "gabarito": "C",
+     "comentario": "Certo. O critério é o \"como deveria ser\". Sem ele não é possível afirmar a existência de desvio. Em auditorias operacionais, pode ser construído a partir de boas práticas e metas.",
+     "dispositivo": "NAT do TCU (atributos do achado); Manual de Auditoria do TCU"
+    },
+    {
+     "id": "tceac-nuvem-auditoria-evidencias-achados-n2-q05",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "A matriz de responsabilização deve ser elaborada para todos os achados da auditoria, inclusive os de natureza meramente formal que ensejem apenas recomendação, a fim de identificar o gestor responsável pela correção.",
+     "gabarito": "E",
+     "comentario": "Errado. Pelas orientações do TCU para auditorias de conformidade, a matriz de responsabilização só é necessária para achados que configurem irregularidade e cuja proposta seja audiência ou citação de responsáveis.",
+     "dispositivo": "TCU, Orientações para Auditorias de Conformidade (Portaria-ADPLAN 1/2010)"
+    },
+    {
+     "id": "tceac-nuvem-auditoria-evidencias-achados-n2-q06",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Conforme o regulamento federal da LINDB, o simples nexo de causalidade entre a conduta do agente e o resultado danoso não autoriza, por si só, sua responsabilização por decisão ou opinião técnica, assim como o montante do dano não caracteriza, isoladamente, dolo ou erro grosseiro.",
+     "gabarito": "C",
+     "comentario": "Certo. O Decreto 9.830/2019, art. 12, exige dolo ou erro grosseiro, define erro grosseiro como o manifesto, evidente e inescusável praticado com culpa grave e afasta tanto o nexo causal isolado quanto o valor do dano como critérios suficientes.",
+     "dispositivo": "LINDB, art. 28; Decreto 9.830/2019, art. 12, §§ 1º, 3º e 5º"
+    },
+    {
+     "id": "tceac-nuvem-auditoria-evidencias-achados-n2-q07",
+     "tipo": "me",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Em auditoria numa prefeitura, a equipe constatou que 30% dos medicamentos adquiridos venceram no almoxarifado, em afronta às normas de gestão de estoques, porque não havia controle de validade nem rotina de distribuição por consumo médio, o que gerou perda de recursos e desabastecimento das unidades de saúde. Nesse achado, a ausência de controle de validade corresponde à",
+     "gabarito": "C",
+     "alternativas": {
+      "A": "situação encontrada.",
+      "B": "evidência.",
+      "C": "causa.",
+      "D": "efeito.",
+      "E": "critério."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Errada: a situação encontrada é o vencimento de 30% dos medicamentos.",
+      "B": "Errada: evidência seria o inventário, as notas e os registros que comprovam o vencimento.",
+      "C": "Correta: a falta de controle é a razão do desvio, e sobre ela incidirá a recomendação.",
+      "D": "Errada: o efeito é a perda de recursos e o desabastecimento.",
+      "E": "Errada: o critério são as normas de gestão de estoques."
+     },
+     "comentario": "A) Errada: a situação encontrada é o vencimento de 30% dos medicamentos.\nB) Errada: evidência seria o inventário, as notas e os registros que comprovam o vencimento.\nC) Correta: a falta de controle é a razão do desvio, e sobre ela incidirá a recomendação.\nD) Errada: o efeito é a perda de recursos e o desabastecimento.\nE) Errada: o critério são as normas de gestão de estoques.",
+     "dispositivo": "Atributos do achado (NAT do TCU)"
+    },
+    {
+     "id": "tceac-nuvem-auditoria-evidencias-achados-n2-q08",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Acerca da responsabilização de agentes perante os Tribunais de Contas, assinale a opção correta.",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "Os comentários do gestor ao relatório preliminar de auditoria equivalem ao contraditório, o que dispensa a posterior citação ou audiência.",
+      "B": "Havendo débito, o responsável é citado para apresentar defesa ou recolher a quantia; não havendo, é ouvido em audiência para apresentar razões de justificativa.",
+      "C": "O ocupante do cargo de chefia responde automaticamente pelos atos dos subordinados, por culpa in vigilando, independentemente de erro grosseiro.",
+      "D": "No Acórdão 2.391/2018-Plenário, o TCU fixou que o erro grosseiro exige dolo, afastando a responsabilização por culpa grave.",
+      "E": "Reconhecida a boa-fé, o processo é sanado independentemente do recolhimento do débito."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Errada: a manifestação preliminar do gestor não constitui etapa de defesa; o contraditório ocorre com citação ou audiência.",
+      "B": "Correta: é a regra do art. 12, II e III, da Lei 8.443/1992.",
+      "C": "Errada: o Decreto 9.830/2019, art. 12, § 7º, exige omissão que caracterize erro grosseiro ou dolo para a culpa in vigilando.",
+      "D": "Errada: o acórdão equiparou erro grosseiro à culpa grave, sem exigir dolo.",
+      "E": "Errada: a boa-fé só sana o processo com a liquidação tempestiva do débito atualizado e se não houver outra irregularidade (art. 12, § 2º)."
+     },
+     "comentario": "A) Errada: a manifestação preliminar do gestor não constitui etapa de defesa; o contraditório ocorre com citação ou audiência.\nB) Correta: é a regra do art. 12, II e III, da Lei 8.443/1992.\nC) Errada: o Decreto 9.830/2019, art. 12, § 7º, exige omissão que caracterize erro grosseiro ou dolo para a culpa in vigilando.\nD) Errada: o acórdão equiparou erro grosseiro à culpa grave, sem exigir dolo.\nE) Errada: a boa-fé só sana o processo com a liquidação tempestiva do débito atualizado e se não houver outra irregularidade (art. 12, § 2º).",
+     "dispositivo": "Lei 8.443/1992, art. 12; LINDB, arts. 22 e 28; Acórdão TCU 2.391/2018-Plenário"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "A suficiência da evidência refere-se à sua ___, enquanto a adequação refere-se à sua ___.",
+     "opcoes": [
+      "quantidade",
+      "qualidade",
+      "origem",
+      "tempestividade"
+     ],
+     "respostas": [
+      "quantidade",
+      "qualidade"
+     ],
+     "explicacao": "NBASP 100/ISSAI 100: evidência suficiente (quantidade) e apropriada (qualidade: relevante, válida e confiável)."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Situação encontrada",
+       "O que a equipe constatou, com período e extensão"
+      ],
+      [
+       "Critério",
+       "Padrão de referência: lei, contrato, boa prática"
+      ],
+      [
+       "Causa",
+       "Razão do desvio; base da recomendação"
+      ],
+      [
+       "Efeito",
+       "Consequência real ou potencial do desvio"
+      ]
+     ]
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene as etapas da cadeia que leva da auditoria à responsabilização.",
+     "itens": [
+      "Obtenção de evidência suficiente e apropriada",
+      "Caracterização do achado na matriz de achados",
+      "Elaboração da matriz de responsabilização para as irregularidades",
+      "Citação ou audiência dos responsáveis",
+      "Julgamento com análise de culpabilidade"
+     ],
+     "explicacao": "A imputação só se sustenta se cada elo for preenchido; o contraditório ocorre na citação ou audiência, não nos comentários do gestor."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "O agente público responderá pessoalmente por suas decisões ou opiniões técnicas em caso de dolo ou erro ___.",
+     "opcoes": [
+      "grosseiro",
+      "escusável",
+      "leve",
+      "material"
+     ],
+     "respostas": [
+      "grosseiro"
+     ],
+     "explicacao": "LINDB, art. 28, incluído pela Lei 13.655/2018 e regulamentado pelo Decreto 9.830/2019, art. 12."
+    }
+   ]
+  }
+ ]
+}
