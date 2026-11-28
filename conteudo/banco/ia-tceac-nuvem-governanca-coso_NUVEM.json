@@ -1,0 +1,218 @@
+{
+ "assunto": "Auditoria Governamental – governança no setor público e COSO I e II",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-27",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-nuvem-governanca-coso",
+   "titulo": "Governança pública e COSO: do controle interno ao risco",
+   "microconteudo": "RAIO-X DA PROVA: O Cebraspe cobra os mecanismos de governança (liderança, estratégia e controle), a separação entre governança (avaliar, direcionar, monitorar) e gestão, e os números dos modelos COSO: 3 objetivos, 5 componentes e 17 princípios no COSO I; 4 objetivos e 8 componentes no ERM 2004; 5 componentes e 20 princípios no ERM 2017. A pegadinha típica é trocar esses números, dizer que um modelo substituiu o outro ou tratar a auditoria interna como parte dos controles internos da gestão.\n\nPOR QUE IMPORTA:\nQuem julga contas e relata auditorias não avalia apenas se a despesa foi legal: avalia se a organização tem condições de entregar resultados à sociedade sem desperdício, fraude ou improviso. Governança, gestão de riscos e controle interno são o vocabulário com que tribunais de contas, controladorias e auditorias internas descrevem essa capacidade. Sem dominar os modelos COSO, o Referencial do TCU e a moldura normativa federal, o candidato confunde categorias que a banca separa com cuidado e perde questões que parecem fáceis.\n\nO QUE A BANCA COBRA:\n• Conceito de governança pública e a distinção entre governança (avaliar, direcionar, monitorar) e gestão (planejar, executar, controlar).\n• Mecanismos de liderança, estratégia e controle e as práticas do Referencial Básico do TCU.\n• Princípios, diretrizes e mecanismos do Decreto 9.203/2017.\n• COSO I: três categorias de objetivos, cinco componentes, dezessete princípios.\n• COSO II – ERM (2004): quatro categorias de objetivos, oito componentes e respostas ao risco; atualização de 2017 com cinco componentes e vinte princípios.\n• Modelo das três linhas do IIA (2020) e a IN Conjunta MP/CGU 1/2016.\n• Pegadinhas: tratar auditoria interna como controle interno da gestão; supor que o COSO 2017 substituiu o COSO de controle interno; confundir apetite com tolerância.\n\nENTENDA:\n1) Governança pública: conceito e papel\nO Decreto 9.203/2017, que institui a política de governança da administração pública federal direta, autárquica e fundacional, define governança pública como o conjunto de mecanismos de liderança, estratégia e controle postos em prática para avaliar, direcionar e monitorar a gestão, com vistas à condução de políticas públicas e à prestação de serviços de interesse da sociedade (art. 2º, I). O mesmo artigo define valor público como os produtos e resultados que respondem efetivamente às necessidades da sociedade. Os princípios (art. 3º) são capacidade de resposta, integridade, confiabilidade, melhoria regulatória, prestação de contas e responsabilidade, e transparência. As diretrizes (art. 4º) incluem foco em resultados, simplificação, monitoramento do desempenho, padrões elevados de conduta da alta administração, controles internos baseados em risco que privilegiem a prevenção e decisões apoiadas em evidências. O art. 5º descreve os mecanismos: liderança (integridade, competência, responsabilidade e motivação de quem ocupa posições-chave), estratégia (diretrizes, objetivos, planos e critérios de priorização) e controle (processos estruturados para mitigar riscos e assegurar execução ordenada, ética, econômica, eficiente e eficaz, preservada a legalidade). O decreto vincula a Administração federal, mas serve de parâmetro técnico para estados e municípios.\n\nO papel da governança é reduzir a distância entre o interesse do principal (o cidadão) e a conduta do agente (o gestor), típica da teoria da agência. Ela não executa políticas: cria condições para que sejam executadas com direção clara, responsabilização e informação confiável.\n\n2) Referencial Básico do TCU (3ª edição, 2020)\nAprovado pela Portaria-TCU 170/2020, o Referencial trata governança organizacional como a aplicação de práticas de liderança, estratégia e controle para avaliar, direcionar e monitorar a organização. Separa a função direcionadora (governança: avaliar, direcionar, monitorar) da função realizadora (gestão: planejar, executar, controlar). As práticas se agrupam assim: liderança (estabelecer o modelo de governança, promover a integridade, promover a capacidade da liderança); estratégia (gerir riscos, estabelecer a estratégia, promover a gestão estratégica, monitorar o alcance dos resultados organizacionais e o desempenho das funções de gestão); controle (promover a transparência, garantir a accountability, avaliar a satisfação das partes interessadas, assegurar a efetividade da auditoria interna). Atenção: nesta edição, \"gerir riscos\" aparece no mecanismo estratégia, não no controle, o que reforça a leitura de que risco é tema de decisão estratégica, e não só de conferência.\n\n3) COSO I – Internal Control – Integrated Framework (1992, atualizado em 2013)\nControle interno é um processo conduzido pela estrutura de governança, pela administração e pelo pessoal, desenhado para fornecer segurança razoável quanto ao alcance de objetivos em três categorias: operacionais, de divulgação (reporting) e de conformidade. Em 2013, a categoria de divulgação deixou de se restringir às demonstrações financeiras e passou a abranger relatórios financeiros e não financeiros, internos e externos. Os cinco componentes são ambiente de controle, avaliação de riscos, atividades de controle, informação e comunicação, e atividades de monitoramento. A atualização explicitou dezessete princípios: cinco no ambiente de controle (integridade e valores éticos, supervisão independente, estruturas e responsabilidades, competência, responsabilização), quatro na avaliação de riscos (objetivos claros, identificação e análise de riscos, risco de fraude, mudanças significativas), três nas atividades de controle (seleção de controles, controles gerais de tecnologia, políticas e procedimentos), três em informação e comunicação e dois no monitoramento. O sistema só é eficaz se cada componente e cada princípio relevante estiver presente e em funcionamento e se os componentes operarem de forma integrada. A segurança é razoável, nunca absoluta: erro humano, conluio e burla pela administração limitam qualquer controle.\n\nNo setor público, a INTOSAI GOV 9100 (diretrizes de 2004 baseadas no COSO) acrescenta nuances: os objetivos incluem operações ordenadas, éticas, econômicas, eficientes e eficazes; cumprimento das obrigações de accountability; conformidade com leis; e salvaguarda dos recursos contra perda, mau uso e dano. Os componentes são os mesmos cinco.\n\n4) COSO II – ERM (2004) e a atualização de 2017\nO ERM de 2004 amplia o foco do controle para a gestão de riscos corporativos. Acrescenta a categoria estratégica às três anteriores (quatro no total) e desdobra a estrutura em oito componentes: ambiente interno, fixação de objetivos, identificação de eventos, avaliação de riscos, resposta a riscos, atividades de controle, informação e comunicação, e monitoramento. Distingue eventos de impacto negativo (riscos) dos de impacto positivo (oportunidades), prevê as respostas evitar, reduzir, compartilhar e aceitar, e exige visão de portfólio. O próprio documento afirma que o controle interno é parte integrante do ERM.\n\nEm 2017, o COSO publicou Enterprise Risk Management – Integrating with Strategy and Performance: cinco componentes (governança e cultura; estratégia e definição de objetivos; desempenho; análise e revisão; informação, comunicação e divulgação) e vinte princípios. A ênfase passa a ser a integração do risco à definição da estratégia e ao desempenho, considerando aspectos positivos e negativos do risco. O COSO declara que nenhum dos dois modelos substitui o outro: o de 2013 continua sendo a referência para desenhar e avaliar controle interno.\n\n5) Moldura federal: IN Conjunta MP/CGU 1/2016 e modelo das três linhas\nA IN Conjunta de 10/5/2016 reproduz no plano normativo os dois COSO: o art. 11 lista os cinco componentes de controle interno; o art. 16, os oito componentes da gestão de riscos. Os controles internos da gestão são a primeira linha de defesa (art. 3º) e não se confundem com a auditoria interna, que os avalia (art. 7º) e é a terceira linha (art. 2º, III). O dirigente máximo responde pela estratégia e pela estrutura de gestão de riscos (art. 19), e o Comitê de Governança, Riscos e Controles fixa, entre outras competências, limites de exposição a riscos globais e de alçada (art. 23). O modelo das três linhas do IIA, revisto em 2020, retira a palavra \"defesa\" do nome, deixa de tratar as linhas como barreiras sucessivas, organiza-se em seis princípios e descreve papéis concomitantes, não sequenciais: órgão de governança (presta contas às partes interessadas), gestão (primeira linha entrega serviços e gerencia riscos; segunda linha apoia, monitora e questiona) e auditoria interna (terceira linha, avaliação independente e assessoria), com prestadores externos de avaliação ao lado.\n\n6) Divergências que a banca explora\na) Controle interno do art. 74 da CF x controle interno do COSO. O art. 74 trata de um sistema mantido pelos Poderes, com finalidades de avaliar metas e programas, comprovar a legalidade, controlar operações de crédito e apoiar o controle externo; seus responsáveis devem dar ciência ao tribunal de contas de irregularidade, sob pena de responsabilidade solidária (§ 1º). É função institucional, exercida por órgãos como controladorias. O COSO descreve um processo difuso, executado por todos na organização. Parte da doutrina critica o uso indistinto da expressão; a IN Conjunta resolve o problema terminológico com \"controles internos da gestão\". O STF, na ADI 5.705/SC (julgamento concluído em 6/6/2025), afastou norma que permitia ao tribunal de contas \"determinar\" auditorias aos órgãos de controle interno: a relação entre os sistemas é cooperativa e horizontal, não hierárquica.\nb) Risco x incerteza. Na tradição econômica de Frank Knight, risco é mensurável por probabilidades; incerteza, não. A ISO 31000 aproxima os termos ao definir risco como efeito da incerteza sobre objetivos, que pode ser positivo ou negativo. O COSO 2004 reserva \"risco\" ao efeito negativo e chama o positivo de oportunidade; a IN 1/2016 define risco como possibilidade de evento que afete objetivos, medido por probabilidade e impacto. A resposta correta depende do referencial citado no item.\nc) Apetite x tolerância. Apetite é o nível amplo de risco que a organização aceita na busca de valor (a IN define apenas este, no art. 2º, II); tolerância é a variação aceitável em torno de um objetivo específico. Há autores que equiparam tolerância a limite de alçada; outros a distinguem da capacidade de risco, que é o máximo suportável.\n\n7) Caso prático\nUm auditor de tribunal de contas avalia a gestão de riscos da secretaria estadual de saúde. Encontra uma política de riscos aprovada, mas sem apetite definido, um mapa de riscos elaborado por consultoria e nunca revisto, e a controladoria-geral do estado atuando como dona dos riscos, preenchendo planilhas pelos gestores. Os riscos de desabastecimento de medicamentos não têm resposta registrada. Diagnóstico: falha no ambiente interno e na fixação de objetivos (sem apetite não há critério de resposta); ausência de monitoramento; confusão de papéis, pois a controladoria, que deveria avaliar, assumiu tarefa da gestão e comprometeu sua independência. O auditor deve recomendar que o secretário assuma a propriedade dos riscos, fixe apetite e limites, revise periodicamente o mapa e preserve a controladoria para avaliação. Deve ainda evitar substituir o mérito administrativo: recomenda estrutura e critérios, não escolhe qual medicamento comprar.\n\nTREINO DISCURSIVO:\nEm auditoria operacional, a equipe de um tribunal de contas concluiu que a secretaria estadual de educação \"possui controle interno\", porque existe controladoria-geral do Estado com unidade setorial na pasta. Analise criticamente a conclusão, à luz do art. 74 da Constituição, dos modelos COSO e do modelo das três linhas, indicando o que deveria ser examinado e os limites da atuação do tribunal.\nRoteiro de resposta: (1) distinguir o sistema de controle interno do art. 74, função institucional, do controle interno como processo integrado à gestão (COSO); (2) apontar que a existência de órgão não demonstra controles presentes e em funcionamento: exigir evidência dos cinco componentes e dos princípios relevantes; (3) situar a controladoria como avaliadora independente, sem assumir a propriedade dos riscos; (4) examinar a gestão de riscos: objetivos, apetite, identificação, respostas, monitoramento; (5) lembrar a segurança razoável e as limitações inerentes; (6) registrar a relação cooperativa, não hierárquica, entre tribunal e controle interno (ADI 5.705/SC) e a vedação de substituir o gestor no mérito, cabendo recomendações e determinações com fundamento legal.",
+   "flashcards": [
+    {
+     "frente": "Quais os três mecanismos de governança do Decreto 9.203/2017 e do TCU?",
+     "verso": "Liderança, estratégia e controle.",
+     "dispositivo": "Decreto 9.203/2017, art. 5º; Referencial TCU, 3ª ed."
+    },
+    {
+     "frente": "Governança x gestão no Referencial do TCU",
+     "verso": "Governança: avaliar, direcionar, monitorar (função direcionadora). Gestão: planejar, executar, controlar (função realizadora).",
+     "dispositivo": "Referencial Básico de Governança Organizacional, 3ª ed., 2020"
+    },
+    {
+     "frente": "COSO I (2013): objetivos, componentes, princípios",
+     "verso": "3 categorias (operacional, divulgação, conformidade); 5 componentes (ambiente de controle, avaliação de riscos, atividades de controle, informação e comunicação, monitoramento); 17 princípios.",
+     "dispositivo": "COSO ICIF (2013)"
+    },
+    {
+     "frente": "COSO II – ERM (2004): o que muda?",
+     "verso": "Acrescenta objetivos estratégicos (4 categorias) e tem 8 componentes: ambiente interno, fixação de objetivos, identificação de eventos, avaliação de riscos, resposta a riscos, atividades de controle, informação e comunicação, monitoramento.",
+     "dispositivo": "COSO ERM – Integrated Framework (2004)"
+    },
+    {
+     "frente": "COSO ERM 2017: estrutura",
+     "verso": "5 componentes (governança e cultura; estratégia e definição de objetivos; desempenho; análise e revisão; informação, comunicação e divulgação) e 20 princípios. Não substitui o COSO de controle interno.",
+     "dispositivo": "COSO ERM – Integrating with Strategy and Performance (2017)"
+    },
+    {
+     "frente": "Apetite x tolerância a risco",
+     "verso": "Apetite: nível amplo de risco aceito na busca de valor (IN 1/2016 define só este). Tolerância: variação aceitável em torno de um objetivo específico.",
+     "dispositivo": "IN Conjunta MP/CGU 1/2016, art. 2º, II; COSO ERM"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "tceac-nuvem-governanca-coso-q01",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "Segundo o Decreto 9.203/2017, governança pública compreende mecanismos de liderança, estratégia e controle postos em prática para avaliar, direcionar e monitorar a gestão.",
+     "gabarito": "C",
+     "comentario": "Certo. É a definição do art. 2º, I, do decreto; os três mecanismos são detalhados no art. 5º.",
+     "dispositivo": "Decreto 9.203/2017, arts. 2º, I, e 5º"
+    },
+    {
+     "id": "tceac-nuvem-governanca-coso-q02",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "No Referencial Básico de Governança do TCU, cabe à governança planejar, executar e controlar, ao passo que cabe à gestão avaliar, direcionar e monitorar.",
+     "gabarito": "E",
+     "comentario": "Errado. As funções estão invertidas: governança é a função direcionadora (avaliar, direcionar, monitorar) e gestão é a função realizadora (planejar, executar, controlar).",
+     "dispositivo": "TCU, Referencial Básico de Governança Organizacional, 3ª ed., 2020"
+    },
+    {
+     "id": "tceac-nuvem-governanca-coso-q03",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Na atualização de 2013 do COSO I, a categoria de objetivos de divulgação passou a abranger relatórios financeiros e não financeiros, internos e externos.",
+     "gabarito": "C",
+     "comentario": "Certo. Em 1992 o foco era a confiabilidade das demonstrações financeiras; em 2013 a categoria foi ampliada para reporting em sentido amplo.",
+     "dispositivo": "COSO, Internal Control – Integrated Framework (2013)"
+    },
+    {
+     "id": "tceac-nuvem-governanca-coso-q04",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "De acordo com a IN Conjunta MP/CGU 1/2016, a auditoria interna integra os controles internos da gestão, constituindo sua primeira linha de defesa.",
+     "gabarito": "E",
+     "comentario": "Errado. Os controles internos da gestão são a primeira linha (art. 3º); a auditoria interna não se confunde com eles, pois os avalia (art. 7º), e é a terceira linha (art. 2º, III).",
+     "dispositivo": "IN Conjunta MP/CGU 1/2016, arts. 2º, III, 3º e 7º"
+    },
+    {
+     "id": "tceac-nuvem-governanca-coso-q05",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "A publicação Enterprise Risk Management – Integrating with Strategy and Performance (2017), estruturada em cinco componentes e vinte princípios, substituiu o Internal Control – Integrated Framework, que deixou de ser referência para avaliar controles internos.",
+     "gabarito": "E",
+     "comentario": "Errado. O próprio COSO afirma que nenhum dos modelos substitui o outro; o modelo de controle interno de 2013 continua adequado para desenhar, implementar e avaliar controle interno.",
+     "dispositivo": "COSO ERM 2017, Executive Summary"
+    },
+    {
+     "id": "tceac-nuvem-governanca-coso-q06",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Para o STF, é inconstitucional norma estadual que autorize o tribunal de contas a determinar a realização de auditorias pelos órgãos de controle interno dos Poderes, porque a relação entre controle externo e controle interno é cooperativa e não hierárquica.",
+     "gabarito": "C",
+     "comentario": "Certo. Na ADI 5.705/SC (julgamento virtual concluído em 6/6/2025), o STF suprimiu a expressão 'por determinação do Tribunal de Contas do Estado' da lei orgânica do TCE-SC, por ofensa à separação de Poderes e aos arts. 70 e 74, IV, da CF.",
+     "dispositivo": "CF, arts. 2º, 70 e 74, IV; STF, ADI 5.705/SC"
+    },
+    {
+     "id": "tceac-nuvem-governanca-coso-q07",
+     "tipo": "me",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Acerca dos modelos COSO, assinale a opção correta.",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "O COSO II – ERM (2004) mantém as três categorias de objetivos do COSO I e reduz para cinco os seus componentes.",
+      "B": "O COSO II – ERM (2004) acrescenta a categoria estratégica e organiza-se em oito componentes, entre eles fixação de objetivos, identificação de eventos e resposta a riscos.",
+      "C": "O COSO I (2013) organiza-se em oito componentes e vinte princípios.",
+      "D": "No COSO II – ERM (2004), as respostas ao risco limitam-se a evitar e aceitar.",
+      "E": "Pelo COSO, o controle interno eficaz fornece segurança absoluta de que os objetivos serão alcançados."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Errada: o ERM 2004 acrescenta a categoria estratégica (quatro no total) e tem oito componentes.",
+      "B": "Correta: estratégicos, operacionais, de divulgação e de conformidade; oito componentes, do ambiente interno ao monitoramento.",
+      "C": "Errada: o COSO I tem cinco componentes e dezessete princípios; cinco componentes e vinte princípios são do ERM 2017.",
+      "D": "Errada: as respostas são evitar, reduzir, compartilhar e aceitar.",
+      "E": "Errada: a segurança é razoável, por causa de erro humano, conluio e burla pela administração."
+     },
+     "comentario": "A) Errada: o ERM 2004 acrescenta a categoria estratégica (quatro no total) e tem oito componentes.\nB) Correta: estratégicos, operacionais, de divulgação e de conformidade; oito componentes, do ambiente interno ao monitoramento.\nC) Errada: o COSO I tem cinco componentes e dezessete princípios; cinco componentes e vinte princípios são do ERM 2017.\nD) Errada: as respostas são evitar, reduzir, compartilhar e aceitar.\nE) Errada: a segurança é razoável, por causa de erro humano, conluio e burla pela administração.",
+     "dispositivo": "COSO ICIF (2013); COSO ERM – Integrated Framework (2004)"
+    },
+    {
+     "id": "tceac-nuvem-governanca-coso-q08",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Auditor de tribunal de contas, ao avaliar a gestão de riscos de uma secretaria estadual, constata que a controladoria-geral do Estado elabora e atualiza o mapa de riscos no lugar dos gestores, que não há apetite a risco definido e que os riscos críticos não têm resposta registrada. À luz do modelo das três linhas (IIA, 2020) e do COSO, a conclusão mais adequada é:",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "A situação é regular, pois a controladoria, como terceira linha, deve ser a proprietária dos riscos da organização.",
+      "B": "A ausência de apetite é irrelevante, porque o apetite só é exigido para empresas privadas.",
+      "C": "O tribunal deve escolher as respostas aos riscos e determinar sua execução, substituindo o gestor.",
+      "D": "Há confusão de papéis que fragiliza a independência da função de avaliação, e falhas na fixação de objetivos e na resposta a riscos; cabe recomendar que a gestão assuma a propriedade dos riscos e defina apetite e limites.",
+      "E": "A gestão de riscos está adequada, desde que o mapa tenha sido elaborado por consultoria especializada."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Errada: a propriedade dos riscos é da gestão (primeira linha); quem avalia não deve gerenciar o que avalia.",
+      "B": "Errada: a IN Conjunta 1/2016 define apetite a risco (art. 2º, II) e atribui ao comitê fixar limites de exposição (art. 23).",
+      "C": "Errada: o tribunal não substitui o gestor no mérito; recomenda estrutura e critérios e determina o que a lei exige.",
+      "D": "Correta: identifica a falha de papéis e de componentes (fixação de objetivos, resposta, monitoramento) e propõe solução compatível com os modelos.",
+      "E": "Errada: autoria externa do mapa não supre a falta de revisão, de apetite e de respostas."
+     },
+     "comentario": "A) Errada: a propriedade dos riscos é da gestão (primeira linha); quem avalia não deve gerenciar o que avalia.\nB) Errada: a IN Conjunta 1/2016 define apetite a risco (art. 2º, II) e atribui ao comitê fixar limites de exposição (art. 23).\nC) Errada: o tribunal não substitui o gestor no mérito; recomenda estrutura e critérios e determina o que a lei exige.\nD) Correta: identifica a falha de papéis e de componentes (fixação de objetivos, resposta, monitoramento) e propõe solução compatível com os modelos.\nE) Errada: autoria externa do mapa não supre a falta de revisão, de apetite e de respostas.",
+     "dispositivo": "IIA, Modelo das Três Linhas (2020); COSO ERM (2004); IN Conjunta MP/CGU 1/2016, arts. 2º, II, e 23"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Pela IN Conjunta MP/CGU 1/2016, os controles internos da gestão constituem a ___ linha de defesa das organizações públicas.",
+     "opcoes": [
+      "primeira",
+      "segunda",
+      "terceira",
+      "quarta"
+     ],
+     "respostas": [
+      "primeira"
+     ],
+     "explicacao": "Art. 3º da IN; a auditoria interna é a terceira linha (art. 2º, III)."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Na 3ª edição do Referencial do TCU, a prática 'gerir riscos' integra o mecanismo de ___.",
+     "opcoes": [
+      "estratégia",
+      "liderança",
+      "controle",
+      "accountability"
+     ],
+     "respostas": [
+      "estratégia"
+     ],
+     "explicacao": "O Referencial (2020) agrupa 'gerir riscos' entre as práticas de estratégia, ao lado de estabelecer a estratégia e promover a gestão estratégica."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene os componentes do COSO II – ERM (2004) na sequência em que o modelo os apresenta, a partir do segundo componente.",
+     "itens": [
+      "Fixação de objetivos",
+      "Identificação de eventos",
+      "Avaliação de riscos",
+      "Resposta a riscos",
+      "Atividades de controle"
+     ],
+     "explicacao": "Ambiente interno abre a lista; depois vêm fixação de objetivos, identificação de eventos, avaliação de riscos, resposta a riscos, atividades de controle, informação e comunicação e monitoramento (também na IN Conjunta 1/2016, art. 16)."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Órgão de governança",
+       "Presta contas às partes interessadas e supervisiona"
+      ],
+      [
+       "Primeira linha",
+       "Entrega serviços e gerencia riscos"
+      ],
+      [
+       "Segunda linha",
+       "Apoia, monitora e questiona a gestão de riscos"
+      ],
+      [
+       "Terceira linha",
+       "Avaliação independente e assessoria da auditoria interna"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,217 @@
+{
+ "assunto": "Auditoria Governamental – ISSAI 100, 200, 300 e 400",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-27",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-nuvem-issai-nivel3",
+   "titulo": "ISSAI 100 a 400: os princípios que regem toda auditoria pública",
+   "microconteudo": "RAIO-X DA PROVA: O Cebraspe cobra os elementos da auditoria, a distinção entre certificação e relatório direto e entre asseguração razoável e limitada, além das diferenças entre financeira, operacional e conformidade. A pegadinha típica é dizer que a auditoria financeira pode ser de relatório direto, que a ISSAI 300 enumera quatro Es ou que a propriedade é exame obrigatório para toda EFS.\n\nPOR QUE IMPORTA:\nAs ISSAI 100, 200, 300 e 400 são a gramática comum das auditorias públicas. Quem relata processos de fiscalização precisa saber se a equipe escolheu o tipo certo de auditoria, se os critérios eram adequados, se o nível de asseguração prometido no relatório corresponde ao trabalho feito e se a conclusão pode, com segurança, sustentar determinação, recomendação ou sanção. No Brasil, essas normas chegam aos tribunais de contas pelas NBASP do Instituto Rui Barbosa (NBASP 100, 200, 300 e 400) e pelos manuais do TCU, que as adaptam à moldura do art. 70 da Constituição: legalidade, legitimidade e economicidade.\n\nO QUE A BANCA COBRA:\n• Os elementos da auditoria: três partes, objeto, critérios e informação sobre o objeto.\n• Certificação (attestation) x relatório direto e qual tipo de auditoria se encaixa em cada um.\n• Asseguração razoável (conclusão positiva) x limitada (conclusão negativa).\n• Risco de auditoria, materialidade quantitativa e qualitativa, ceticismo e julgamento profissional.\n• Diferenças entre auditoria financeira, operacional e de conformidade.\n• Economicidade, eficiência, efetividade e a \"quarta dimensão\" brasileira, a eficácia.\n• Conformidade em sentido estrito (regularidade) e amplo (propriedade).\nPegadinha frequente: afirmar que a auditoria financeira pode ser de relatório direto ou que a asseguração limitada é proibida no setor público.\n\nENTENDA:\n1) Onde essas normas estão no arcabouço\nA INTOSAI organizou seus pronunciamentos no IFPP (Framework of Professional Pronouncements), criado em 2019. Nesse arcabouço, as ISSAI 100, 200, 300 e 400 formam o bloco de princípios: a 100 traz os princípios fundamentais comuns a toda auditoria do setor público; a 200, os da auditoria financeira; a 300, os da operacional; a 400, os da conformidade. Abaixo deles vêm as normas de requisitos (faixas 2000, 3000 e 4000) e, depois, as orientações (GUID). A antiga nomenclatura \"nível 3\", usada em editais, corresponde justamente a esse bloco de princípios fundamentais. A ISSAI 100 nasceu em 2001, foi reformulada em 2013, recebeu ajustes editoriais em 2019 e foi complementada para incorporar gestão da qualidade e competência dos auditores. A ISSAI 200 teve nova redação aprovada em 2020. No Brasil, o IRB traduziu e adaptou esse conjunto como NBASP, e a NBASP 100 reproduz a definição de auditoria do setor público como processo sistemático de obter e avaliar objetivamente evidências para determinar se a informação ou as condições reais de um objeto estão de acordo com critérios aplicáveis.\n\n2) Elementos da auditoria\nToda auditoria tem três partes: o auditor (a EFS e sua equipe), a parte responsável (quem gere o objeto ou produz a informação sobre ele) e os usuários previstos (Parlamento, sociedade, gestores, outros órgãos de controle). O objeto é a informação, condição ou atividade avaliada: demonstrações contábeis, um programa de governo, um conjunto de contratações. Os critérios são as referências com que o objeto é comparado: lei, norma contábil, meta, boa prática. Precisam ser adequados ao objeto e disponíveis aos usuários. A informação sobre o objeto é o resultado da mensuração ou avaliação do objeto segundo os critérios, como um balanço pronto ou uma declaração de conformidade. Sem critério não há auditoria propriamente dita, só opinião do auditor. Por isso a ISSAI 300 admite que, na operacional, os critérios sejam construídos pela equipe e discutidos com o auditado.\n\n3) Certificação x relatório direto\nNo trabalho de certificação (attestation), a parte responsável mensura o objeto e apresenta a informação; o auditor colhe evidência sobre essa informação e opina se ela está livre de distorção relevante. No relatório direto, o próprio auditor mensura ou avalia o objeto diante dos critérios e apresenta a informação resultante, na forma de achados e conclusões. Pelas ISSAI, a auditoria financeira é sempre de certificação; a operacional, em regra, de relatório direto; a de conformidade pode ser de um tipo, de outro ou dos dois ao mesmo tempo (ISSAI 400). Detalhe que a banca explora: a certificação costuma terminar em opinião padronizada; o relatório direto, em respostas a questões de auditoria.\n\n4) Asseguração razoável x limitada\nAsseguração razoável é alta, mas não absoluta, e se expressa de forma positiva: \"as demonstrações apresentam adequadamente, em todos os aspectos relevantes...\". Asseguração limitada exige procedimentos mais restritos e se expressa de forma negativa: \"nada chegou ao nosso conhecimento que nos leve a crer que...\". A ISSAI 400 admite os dois níveis tanto na certificação quanto no relatório direto. A ISSAI 200 trata das auditorias de demonstrações com asseguração razoável; revisões de asseguração limitada ficam fora de seu alcance. Na operacional, a ISSAI 300 e a NBASP 3000 não falam em opinião, mas exigem que o auditor comunique de modo transparente o nível de asseguração, explicando objetivos, escopo, metodologia e limitações.\n\n5) Risco, materialidade, ceticismo e julgamento\nRisco de auditoria é o risco de o relatório ser inapropriado; na asseguração razoável, deve ser reduzido a nível aceitavelmente baixo. Materialidade indica que um assunto é relevante quando seu conhecimento pode influenciar as decisões dos usuários previstos. Tem face quantitativa (valor) e qualitativa (natureza, contexto, interesse público). A ISSAI 400 lembra que fraude pode ser material mesmo em valor pequeno. Ceticismo profissional é distanciamento e atitude alerta e questionadora diante da evidência; julgamento profissional é a aplicação do conhecimento, das habilidades e da experiência da equipe às decisões do trabalho. A comunicação deve ser eficaz durante todo o processo: o auditado é informado sobre critérios e achados, com espaço para comentários antes do relatório final.\n\n6) Financeira\nVisa dar aos usuários asseguração razoável, por meio de opinião, de que as demonstrações estão livres de distorção relevante, por fraude ou erro, segundo a estrutura de relatório aplicável. A ISSAI 200 distingue a estrutura de apresentação adequada, que pode exigir divulgações adicionais, da estrutura de conformidade, de observância estrita. A opinião pode ser sem modificação, com ressalva (relevante, mas não generalizado), adversa (relevante e generalizado) ou abstenção (impossibilidade de obter evidência, com efeito relevante e generalizado). A responsabilidade primária por prevenir e detectar fraude é da administração.\n\n7) Operacional e as dimensões de desempenho\nA ISSAI 300 define a auditoria operacional como exame independente, objetivo e confiável sobre se programas, atividades e organizações funcionam segundo os princípios de economicidade, eficiência e efetividade e se há espaço para aperfeiçoamento. Admite abordagens orientadas a sistema, a resultado ou a problema. O Manual de Auditoria Operacional do TCU (2020) define economicidade como minimização dos custos dos insumos sem comprometer a qualidade; eficiência como relação entre produtos gerados e custos dos insumos; eficácia como grau de alcance das metas programadas em dado período, independentemente dos custos; efetividade como alcance dos resultados pretendidos a médio e longo prazo, relacionando efeitos na população-alvo aos objetivos. Daí a divergência terminológica: o termo inglês \"effectiveness\" cobre, em português, eficácia e efetividade. O TCU e a nota do IRB à NBASP 3000 desdobram o termo; a ISSAI fala em 3Es. Em prova, trate a eficácia como dimensão autônoma na doutrina e na prática brasileiras, sem afirmar que a ISSAI 300 a enumera separadamente. O manual do TCU acrescenta ainda a equidade.\n\n8) Conformidade: regularidade e propriedade\nA ISSAI 400 define a auditoria de conformidade como avaliação independente de se o objeto está em conformidade com as normas aplicáveis identificadas como critérios. As \"autoridades\" (leis, regulamentos, resoluções orçamentárias, contratos, princípios gerais de gestão financeira) são seu elemento fundamental. Em sentido estrito, regularidade é a aderência a critérios formais. Em sentido amplo, propriedade é a observância dos princípios gerais de boa gestão financeira e de conduta dos agentes públicos, aplicada sobretudo quando faltam critérios formais ou a legislação tem falhas evidentes. A regularidade é o foco principal; a propriedade depende do mandato da EFS. Aqui há uma tensão doutrinária. Uma corrente vê na propriedade o espaço do controle de legitimidade previsto no art. 70 da CF; outra adverte que, sem critério objetivo, o auditor substitui o juízo do gestor e invade o mérito administrativo. O caminho mais seguro é exigir critério explícito, ainda que principiológico, e fundamentação reforçada. A ISSAI 400 também lembra que EFS com poderes jurisdicionais podem julgar e sancionar, e que a conformidade pode ser feita isoladamente, junto da financeira ou combinada com a operacional.\n\n9) Caso prático\nUm tribunal de contas recebe três demandas sobre a saúde de um estado. (a) A Assembleia quer saber se o balanço da secretaria reflete fielmente estoques e passivos: é auditoria financeira, de certificação, com asseguração razoável e opinião segundo as normas contábeis aplicadas ao setor público. (b) Denúncias apontam fracionamento de compras emergenciais: é conformidade em sentido estrito, com a lei de licitações como critério. Se a equipe só verificar a declaração do gestor sobre a regularidade, o trabalho será de certificação; se testar diretamente as contratações, de relatório direto. Achados podem levar a audiência de responsáveis e multa. Se a equipe encontrar contratos de manutenção pagos sem execução, abre-se questão de conformidade dentro da operacional, e a equipe precisa definir qual é o foco principal ou propor trabalho separado, para não misturar recomendação com imputação de débito sem garantir o contraditório próprio.\n\nTREINO DISCURSIVO:\nUm conselheiro substituto, ao relatar auditoria em programa estadual de merenda escolar, nota que o relatório técnico declara \"asseguração razoável de que o programa é eficiente\", sem opinião padronizada nem explicação da metodologia, e propõe multa ao gestor por \"falta de economicidade\" na escolha de fornecedores, sem apontar norma violada. Avalie a adequação técnica e jurídica do relatório à luz das ISSAI 100, 300 e 400.\nRoteiro de resposta: (1) identificar a auditoria como operacional, em regra de relatório direto; (2) explicar que a ISSAI 300 exige comunicar com transparência o nível de asseguração, com escopo, metodologia e limitações, o que faltou; (3) distinguir asseguração razoável e limitada e a forma de expressão de cada uma; (4) apontar que a operacional gera recomendações, e a sanção exige critério normativo e apuração de responsabilidade, típicos da conformidade; (5) discutir propriedade x regularidade e o risco de invadir o mérito administrativo; (6) propor que se recomende a melhoria e, havendo indício de irregularidade, que se instaure apuração própria, com contraditório e ampla defesa.",
+   "flashcards": [
+    {
+     "frente": "Quais são os elementos da auditoria do setor público?",
+     "verso": "Três partes (auditor, parte responsável, usuários previstos), objeto, critérios e informação sobre o objeto.",
+     "dispositivo": "ISSAI 100 / NBASP 100"
+    },
+    {
+     "frente": "Certificação x relatório direto",
+     "verso": "Na certificação, a parte responsável mensura o objeto e o auditor avalia essa informação; no relatório direto, o próprio auditor mensura ou avalia o objeto diante dos critérios.",
+     "dispositivo": "ISSAI 100 / NBASP 100"
+    },
+    {
+     "frente": "Qual tipo de auditoria é sempre de certificação? E qual pode ser dos dois tipos?",
+     "verso": "Financeira: sempre certificação. Conformidade: certificação, relatório direto ou ambos. Operacional: em regra relatório direto.",
+     "dispositivo": "ISSAI 100; ISSAI 400"
+    },
+    {
+     "frente": "Regularidade x propriedade",
+     "verso": "Regularidade: aderência a critérios formais (leis, regulamentos, contratos). Propriedade: princípios gerais de boa gestão financeira e conduta dos agentes públicos, conforme o mandato da EFS.",
+     "dispositivo": "ISSAI 400"
+    },
+    {
+     "frente": "Eficácia x efetividade (TCU)",
+     "verso": "Eficácia: grau de alcance das metas programadas em dado período, independentemente dos custos. Efetividade: alcance dos resultados pretendidos a médio e longo prazo, com efeitos na população-alvo.",
+     "dispositivo": "Manual de Auditoria Operacional do TCU (2020)"
+    },
+    {
+     "frente": "Opinião com ressalva x adversa x abstenção",
+     "verso": "Ressalva: distorção relevante, não generalizada. Adversa: relevante e generalizada. Abstenção: impossibilidade de obter evidência, com possível efeito relevante e generalizado.",
+     "dispositivo": "ISSAI 200"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "tceac-nuvem-issai-nivel3-q01",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "Segundo a ISSAI 100, são partes de toda auditoria do setor público o auditor, a parte responsável e os usuários previstos.",
+     "gabarito": "C",
+     "comentario": "Certo. A ISSAI 100 (e a NBASP 100) identifica três partes: o auditor, a parte responsável pelo objeto ou pela informação sobre ele e os usuários previstos do relatório.",
+     "dispositivo": "ISSAI 100 / NBASP 100 – elementos da auditoria"
+    },
+    {
+     "id": "tceac-nuvem-issai-nivel3-q02",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "A auditoria financeira pode ser realizada tanto como trabalho de certificação quanto como trabalho de relatório direto, a critério da EFS.",
+     "gabarito": "E",
+     "comentario": "Errado. Pela ISSAI 100, a auditoria financeira é sempre trabalho de certificação, pois avalia informação (demonstrações) preparada pela parte responsável. Quem admite as duas formas é a auditoria de conformidade.",
+     "dispositivo": "ISSAI 100 / NBASP 100 – tipos de trabalho"
+    },
+    {
+     "id": "tceac-nuvem-issai-nivel3-q03",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Na asseguração limitada, o auditor expressa conclusão de forma negativa, declarando que nada chegou ao seu conhecimento que o leve a crer que o objeto não está de acordo com os critérios.",
+     "gabarito": "C",
+     "comentario": "Certo. A asseguração razoável se expressa positivamente; a limitada, negativamente, com procedimentos mais restritos.",
+     "dispositivo": "ISSAI 100 / NBASP 100 – níveis de asseguração; ISSAI 400"
+    },
+    {
+     "id": "tceac-nuvem-issai-nivel3-q04",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "De acordo com a ISSAI 400, a auditoria de conformidade em sentido amplo abrange a propriedade, isto é, a observância dos princípios gerais de boa gestão financeira e de conduta dos agentes públicos, sendo seu exame obrigatório para todas as EFS, independentemente do mandato.",
+     "gabarito": "E",
+     "comentario": "Errado. A regularidade (critérios formais) é o foco principal; a propriedade pode ser incluída conforme o mandato da EFS, sendo especialmente útil quando faltam critérios formais.",
+     "dispositivo": "ISSAI 400 – regularidade e propriedade"
+    },
+    {
+     "id": "tceac-nuvem-issai-nivel3-q05",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Para a ISSAI 400, a fraude pode ser considerada relevante mesmo quando envolve valores ou incidência reduzidos, o que evidencia a dimensão qualitativa da materialidade.",
+     "gabarito": "C",
+     "comentario": "Certo. A ISSAI 400 registra que questões como fraude podem ser materiais ainda que de baixo valor ou incidência. A ISSAI 100 já define a materialidade pelo potencial de influenciar as decisões dos usuários, com aspectos quantitativos e qualitativos.",
+     "dispositivo": "ISSAI 400 – materialidade; ISSAI 100 – materialidade"
+    },
+    {
+     "id": "tceac-nuvem-issai-nivel3-q06",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Como a ISSAI 300 menciona expressamente economicidade, eficiência, eficácia e efetividade como quatro princípios distintos, o TCU apenas reproduz a classificação internacional ao tratar dos 4Es.",
+     "gabarito": "E",
+     "comentario": "Errado. A ISSAI 300 fala em economicidade, eficiência e efetividade (3Es). O termo inglês 'effectiveness' abrange, em português, eficácia e efetividade; o desdobramento é feito pelo Manual de Auditoria Operacional do TCU e por nota do IRB à NBASP 3000.",
+     "dispositivo": "ISSAI 300; NBASP 3000, nota 1; Manual de Auditoria Operacional do TCU (2020)"
+    },
+    {
+     "id": "tceac-nuvem-issai-nivel3-q07",
+     "tipo": "me",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "O trabalho é mais bem classificado como:",
+     "gabarito": "C",
+     "alternativas": {
+      "A": "auditoria financeira, de certificação, com opinião sem modificação ou modificada.",
+      "B": "auditoria de conformidade em sentido estrito, de certificação, com conclusão negativa.",
+      "C": "auditoria operacional, de relatório direto, orientada a problema.",
+      "D": "auditoria operacional, de certificação, com opinião padronizada sobre os 3Es.",
+      "E": "auditoria de conformidade em sentido amplo, restrita ao exame da probidade do gestor."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Errada: não se examinam demonstrações contábeis nem se emite opinião sobre sua apresentação.",
+      "B": "Errada: o foco não é a aderência a normas formais, mas o desempenho e as causas de um problema.",
+      "C": "Correta: avaliação de desempenho (eficiência e efetividade), em que o próprio auditor mensura o objeto e investiga causas de um problema.",
+      "D": "Errada: a operacional é, em regra, de relatório direto e não termina em opinião padronizada.",
+      "E": "Errada: propriedade é dimensão da conformidade e não se confunde com avaliação de resultados de política pública."
+     },
+     "comentario": "A) Errada: não se examinam demonstrações contábeis nem se emite opinião sobre sua apresentação.\nB) Errada: o foco não é a aderência a normas formais, mas o desempenho e as causas de um problema.\nC) Correta: avaliação de desempenho (eficiência e efetividade), em que o próprio auditor mensura o objeto e investiga causas de um problema.\nD) Errada: a operacional é, em regra, de relatório direto e não termina em opinião padronizada.\nE) Errada: propriedade é dimensão da conformidade e não se confunde com avaliação de resultados de política pública.",
+     "dispositivo": "ISSAI 100; ISSAI 300 – abordagens orientadas a sistema, resultado e problema"
+    },
+    {
+     "id": "tceac-nuvem-issai-nivel3-q08",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Acerca dos princípios das ISSAI 100, 200, 300 e 400, assinale a opção correta.",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "O risco de auditoria é o risco de a entidade auditada cometer distorções relevantes, devendo ser eliminado pelo auditor.",
+      "B": "Na auditoria financeira, a opinião adversa é emitida quando as distorções são relevantes e generalizadas.",
+      "C": "A asseguração limitada é vedada nos trabalhos de relatório direto em auditoria de conformidade.",
+      "D": "O ceticismo profissional dispensa o julgamento profissional quando há critérios formais claros.",
+      "E": "A responsabilidade primária pela prevenção e detecção de fraude nas demonstrações é do auditor."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Errada: risco de auditoria é o risco de o relatório ser inapropriado; deve ser reduzido a nível aceitavelmente baixo, não eliminado.",
+      "B": "Correta: distorção relevante e generalizada leva à opinião adversa; relevante e não generalizada, à opinião com ressalva.",
+      "C": "Errada: a ISSAI 400 admite asseguração razoável ou limitada tanto na certificação quanto no relatório direto.",
+      "D": "Errada: ceticismo e julgamento profissional são exigidos ao longo de toda a auditoria e se complementam.",
+      "E": "Errada: pela ISSAI 200, essa responsabilidade é da administração e dos responsáveis pela governança."
+     },
+     "comentario": "A) Errada: risco de auditoria é o risco de o relatório ser inapropriado; deve ser reduzido a nível aceitavelmente baixo, não eliminado.\nB) Correta: distorção relevante e generalizada leva à opinião adversa; relevante e não generalizada, à opinião com ressalva.\nC) Errada: a ISSAI 400 admite asseguração razoável ou limitada tanto na certificação quanto no relatório direto.\nD) Errada: ceticismo e julgamento profissional são exigidos ao longo de toda a auditoria e se complementam.\nE) Errada: pela ISSAI 200, essa responsabilidade é da administração e dos responsáveis pela governança.",
+     "dispositivo": "ISSAI 100 – risco e ceticismo; ISSAI 200 – opiniões e fraude; ISSAI 400 – asseguração"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Na asseguração ___, o auditor declara que nada chegou ao seu conhecimento que indique desconformidade do objeto com os critérios.",
+     "opcoes": [
+      "limitada",
+      "razoável",
+      "absoluta",
+      "positiva"
+     ],
+     "respostas": [
+      "limitada"
+     ],
+     "explicacao": "A asseguração limitada se expressa de forma negativa; a razoável, de forma positiva (ISSAI 100)."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "A auditoria de conformidade em sentido estrito verifica a ___, isto é, a aderência do objeto a critérios formais.",
+     "opcoes": [
+      "regularidade",
+      "propriedade",
+      "efetividade",
+      "economicidade"
+     ],
+     "respostas": [
+      "regularidade"
+     ],
+     "explicacao": "ISSAI 400: regularidade (critérios formais) e propriedade (princípios de boa gestão e conduta)."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene da norma mais geral para a mais específica no IFPP, no caso da auditoria operacional.",
+     "itens": [
+      "ISSAI 100 – Princípios fundamentais de auditoria do setor público",
+      "ISSAI 300 – Princípios de auditoria operacional",
+      "ISSAI 3000 – Norma de auditoria operacional",
+      "GUID 3910 – Conceitos centrais para auditoria operacional"
+     ],
+     "explicacao": "A ISSAI 300 desenvolve a ISSAI 100; a ISSAI 3000 traz os requisitos; as GUID 3900 são orientações não mandatórias (NBASP 3000)."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Economicidade",
+       "Minimização dos custos dos insumos sem comprometer a qualidade"
+      ],
+      [
+       "Eficiência",
+       "Relação entre produtos gerados e custos dos insumos"
+      ],
+      [
+       "Eficácia",
+       "Grau de alcance das metas programadas no período"
+      ],
+      [
+       "Efetividade",
+       "Alcance dos resultados pretendidos a médio e longo prazo"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

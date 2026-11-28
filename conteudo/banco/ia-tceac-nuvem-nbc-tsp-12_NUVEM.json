@@ -1,0 +1,218 @@
+{
+ "assunto": "Contabilidade Pública – NBC TSP 12 (R1): demonstração dos fluxos de caixa",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-27",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-nuvem-nbc-tsp-12",
+   "titulo": "NBC TSP 12 (R1): a DFC do setor público sem pegadinhas",
+   "microconteudo": "RAIO-X DA PROVA: O Cebraspe costuma trocar a norma pelo manual: a NBC TSP 12 (R1) apenas incentiva o método direto, e o MCASP é que o torna obrigatório. Também cobra a classificação de juros e dividendos (livre na norma, recomendada no MCASP), a exclusão das transações sem caixa e dos movimentos entre equivalentes, e a diferença entre DFC e Balanço Financeiro. A novidade da (R1), que se aplica a partir de 2027 e exige conciliação dos passivos de financiamento, tende a aparecer em itens de atualização.\n\nPOR QUE IMPORTA:\nA Demonstração dos Fluxos de Caixa (DFC) responde à pergunta mais incômoda de qualquer prestação de contas: de onde veio o dinheiro que entrou no cofre e para onde foi o que saiu. Ela complementa as demonstrações elaboradas pelo regime de competência e não se confunde com o Balanço Financeiro da Lei 4.320/1964. Quem analisa contas de governo usa a DFC para medir se as atividades correntes se sustentam com tributos e transferências ou se dependem de endividamento e venda de patrimônio.\n\nO QUE A BANCA COBRA:\n- O que a norma exige e o que só incentiva (método direto).\n- Equivalentes de caixa e movimentos que não são fluxo.\n- Classificação de juros, dividendos, tributos e transferências.\n- Transações sem caixa, variação cambial e base líquida.\n- DFC x Balanço Financeiro e as novidades da (R1).\n\nENTENDA:\n1) A norma e sua revisão. A NBC TSP 12 (R1) foi aprovada pelo CFC em 11 de dezembro de 2025, publicada no DOU em 17 de março de 2026 e consta do sistema de resoluções do CFC como norma em vigor. Ela foi elaborada a partir da IPSAS 2 (Cash Flow Statements), do IPSASB/Ifac, e revisada conforme o Handbook do IPSASB de 2024. Entrou em vigor na publicação, mas se aplica aos exercícios iniciados a partir de 1º de janeiro de 2027, ressalvado normativo nacional que fixe prazos específicos, e revoga a NBC TSP 12 publicada no DOU de 31 de outubro de 2018. A estrutura foi mantida, mas há novidades que valem prova: a) o item 21, que trata das fontes de financiamento das operações, deixou de citar os \"destinatários dos bens e serviços\" e passou a listar tributos, outras contribuições e taxas obrigatórias, transferências e fornecimento de bens ou serviços em acordo vinculativo; b) o item 22 ganhou, como exemplo de fluxo operacional, o pagamento a beneficiários de planos de benefícios sociais; c) foram incluídos os itens 55A a 55E, que exigem divulgar as mudanças nos passivos de atividades de financiamento, monetárias e não monetárias (fluxos de financiamento, ganho ou perda de controle de controladas, câmbio, valor justo e outras), por exemplo por meio de uma conciliação dos saldos inicial e final; d) passaram a ser convergidos os itens sobre conversão de fluxos em moeda estrangeira com base na NBC TSP 24 e sobre mudança de política de composição do caixa, tratada pela NBC TSP 23.\n\n2) Objetivo e alcance. A DFC informa as alterações históricas de caixa e equivalentes de caixa, classificando os fluxos do período em atividades operacionais, de investimento e de financiamento. Serve à prestação de contas (accountability, isto é, a responsabilização dos gestores) e à tomada de decisão. A entidade que apresenta demonstrações pelo regime de competência deve elaborar a DFC como parte integrante das demonstrações de cada período.\n\n3) Caixa e equivalentes. Caixa é o numerário e os depósitos bancários disponíveis. Equivalentes são aplicações de curto prazo, de alta liquidez, prontamente conversíveis em valor conhecido e sujeitas a risco insignificante de mudança de valor. Como referência, a norma cita vencimento de três meses ou menos a partir da aquisição. Ações, em regra, ficam de fora. Movimentos entre componentes do caixa, como aplicar a sobra do dia em título de curtíssimo prazo, não são fluxos, porque fazem parte da gestão de caixa. Saldos bancários negativos que oscilam e se liquidam em curto prazo podem integrar o caixa. O MCASP acrescenta que o caixa e equivalentes inclui a receita arrecadada ainda em poder da rede bancária em fase de recolhimento e exige que a nota explicativa trate dos depósitos restituíveis e valores vinculados, ressaltando que, embora em poder do ente, não podem ser usados por ele.\n\n4) As três atividades. Operacionais são as que não se enquadram como investimento nem como financiamento: tributos, contribuições, multas, venda de bens e serviços, transferências recebidas, pagamentos a pessoal, a fornecedores, a beneficiários e as transferências concedidas para custear operações de outras entidades. Investimento abrange a aquisição e a venda de ativos de longo prazo e de outros investimentos que não sejam equivalentes de caixa, e a concessão e o recebimento de empréstimos a terceiros. Só saídas que resultem em ativo reconhecido podem ser classificadas como investimento. Financiamento reúne as mudanças no capital próprio e no endividamento: operações de crédito, amortização da dívida e pagamentos do arrendatário que reduzem o passivo de arrendamento. Uma mesma transação pode ser dividida: na prestação de um empréstimo, o principal vai para financiamento e os juros podem ir para operacional. Se o governo repassa recursos sem distinguir o que é custeio, capital de giro ou capital integralizado, e a entidade não consegue separá-los, eles devem ser classificados como operacionais, com divulgação em nota.\n\n5) Método direto ou indireto. A norma permite apresentar o fluxo operacional por qualquer dos dois métodos e apenas incentiva o direto, que mostra as classes brutas de recebimentos e pagamentos. Quem usa o direto é incentivado a apresentar também a conciliação do resultado com o fluxo operacional líquido. O método indireto parte do resultado e o ajusta por variações em estoques, valores a receber e a pagar, por itens sem caixa, como depreciação e provisões, e por itens ligados a investimento e financiamento. O MCASP, para padronizar a consolidação nacional, torna o método direto obrigatório para todos os entes. É a pegadinha clássica: a exigência é do manual, não da norma.\n\n6) Juros, dividendos e tributos. Juros e dividendos recebidos e pagos devem ser apresentados separadamente e classificados de forma consistente entre períodos. O total de juros pagos aparece mesmo quando capitalizado. A própria norma reconhece que não há consenso fora das instituições financeiras: juros pagos e recebidos podem ser operacionais, porque entram no resultado, ou, respectivamente, de financiamento e de investimento. O MCASP recomenda juros pagos e recebidos como operacionais (a linha \"juros e encargos da dívida\" fica nos desembolsos operacionais), dividendos recebidos como investimento e dividendos pagos como financiamento. Tributos sobre o resultado são, em regra, operacionais, salvo quando for praticável vinculá-los a uma operação de investimento ou de financiamento; havendo alocação em mais de uma classe, divulga-se o total pago.\n7) Câmbio, base líquida e transações sem caixa. Fluxos em moeda estrangeira são convertidos pela taxa da data do fluxo, admitida taxa que se aproxime da real, como a média ponderada do período. A variação cambial sobre o saldo de caixa mantido em moeda estrangeira não é fluxo, mas aparece em linha separada para conciliar saldo inicial e final. A regra é apresentar valores brutos, mas admite-se a base líquida para recebimentos e pagamentos feitos em nome de terceiros (por exemplo, tributo arrecadado por um nível de governo em favor de outro) e para itens de giro rápido, valor significativo e vencimento curto. Aquisição de bem por assunção direta de dívida, por permuta ou por arrendamento financeiro e conversão de dívida em patrimônio não entram na DFC: são divulgadas em notas explicativas.\n\n8) Divulgações. A entidade deve divulgar os componentes do caixa, a política adotada para defini-los e a conciliação com o Balanço Patrimonial. Saldos significativos indisponíveis para a entidade econômica exigem comentário da administração. Recomenda-se divulgar linhas de crédito não utilizadas. Fluxos agregados de aquisição e alienação de controladas vão para investimento, com informações próprias.\n\n9) A DFC no MCASP. O MCASP 11ª edição, válido a partir do exercício de 2025, trata da DFC no capítulo 6 da Parte V, com base na NBC TSP 12 anterior à revisão. A DFC tem quadro principal e três quadros complementares: transferências recebidas e concedidas, desembolsos de pessoal e demais despesas por função, e juros e encargos da dívida. É elaborada com contas da classe 6 do PCASP (controles da execução do planejamento e orçamento), com filtros por natureza de receita e despesa e por função. A soma dos três fluxos deve igualar a variação do caixa e equivalentes no exercício.\n\n10) DFC não é Balanço Financeiro. O art. 103 da Lei 4.320/1964 manda o Balanço Financeiro demonstrar a receita e a despesa orçamentárias e os recebimentos e pagamentos extraorçamentários, conjugados com os saldos em espécie do exercício anterior e os que passam ao seguinte. O parágrafo único computa os restos a pagar inscritos como receita extraorçamentária, para compensar a despesa empenhada e não paga. O BF é organizado por fonte ou destinação de recursos e segue a lógica orçamentária. A DFC classifica apenas fluxos efetivos, por atividade econômica. Os dois chegam à mesma variação de caixa por caminhos distintos. O art. 101 da Lei 4.320/1964 não lista a DFC; ela é exigida pela norma do CFC e pelo MCASP.\n11) Caso prático (valores em R$ mil, ente fictício). O Município de Serra Clara teve no exercício estes movimentos: impostos e taxas arrecadados, 8.000; transferências correntes recebidas, 12.000; transferência de capital de convênio para construir uma escola, 1.500; rendimentos de aplicações, 200; pessoal pago, 11.000; fornecedores pagos, 4.500; juros da dívida pagos, 600; obra e equipamentos pagos, 3.200; alienação de imóvel, 400; operação de crédito recebida, 2.000; amortização da dívida, 900. Aplicou ainda 1.000 em título de 60 dias, que é equivalente de caixa e por isso não gera fluxo, e recebeu em doação um veículo de 300, sem caixa, que vai para nota explicativa. Com juros pagos no operacional, como recomenda o MCASP, e transferência de capital em investimento, temos operacional de 4.100, investimento de -1.300 e financiamento de 1.100. Classificando a transferência de capital como operacional, os valores passam a 5.600, -2.800 e 1.100. Com juros pagos em financiamento, o operacional sobe 600 e o financiamento cai 600. Em todos os cenários a geração líquida é 3.900: com saldo inicial de 2.500, o saldo final é 6.400. A classificação muda a leitura, não o total.\n\n12) Ponto de divergência: transferência de capital recebida. Uma corrente lê literalmente o item 22(c), que põe transferências recebidas entre os fluxos operacionais sem distinguir corrente e capital, reforçada pelo item 24. Outra corrente, mais atenta à essência, defende levá-la ao investimento, porque está vinculada à aquisição de ativo de longo prazo e porque deixá-la no operacional infla artificialmente a capacidade de custeio. O MCASP define os ingressos operacionais como receitas operacionais e \"transferências correntes recebidas\" e não menciona expressamente as de capital, o que sustenta a segunda leitura sem encerrar o debate. Na prova e na auditoria, o ponto seguro é a exigência de consistência entre exercícios e de divulgação da política adotada.\n\nTREINO DISCURSIVO:\nAo analisar as contas anuais de um estado, um tribunal de contas constata que: a) parte relevante do superávit operacional da DFC vem de transferências de capital de convênios; b) uma aquisição de imóveis por assunção direta de dívida foi lançada como desembolso de investimento e ingresso de financiamento; c) a nota não informa a política de composição do caixa nem os depósitos de terceiros incluídos no saldo; d) o gestor alega que a DFC é dispensável porque o Balanço Financeiro \"já mostra o caixa\". Analise cada ponto.\nRoteiro de resposta: (1) fundamento e vigência da NBC TSP 12 (R1), derivada da IPSAS 2, e obrigatoriedade da DFC no MCASP, pelo método direto; (2) transferências de capital: divergência, consistência, divulgação e risco de superestimar a autonomia operacional; (3) transação sem caixa: fora da DFC, em nota e, com a (R1), na conciliação dos passivos de financiamento; (4) divulgação de componentes, política e conciliação com o Balanço Patrimonial, destacando valores vinculados e de terceiros; (5) BF e DFC como peças complementares: lógica orçamentária com compensação dos restos a pagar versus fluxos efetivos por atividade; (6) ressalva ou recomendação conforme a relevância.",
+   "flashcards": [
+    {
+     "frente": "A NBC TSP 12 (R1) exige ou incentiva o método direto?",
+     "verso": "Só incentiva: admite direto ou indireto. O MCASP é que torna o direto obrigatório para todos os entes.",
+     "dispositivo": "NBC TSP 12 (R1), itens 27 e 28; MCASP 11ª ed., Parte V, item 6.3"
+    },
+    {
+     "frente": "Quando uma aplicação financeira é equivalente de caixa?",
+     "verso": "Quando é de curto prazo, de alta liquidez, prontamente conversível em valor conhecido e com risco insignificante de mudança de valor; como referência, vencimento de três meses ou menos a partir da aquisição.",
+     "dispositivo": "NBC TSP 12 (R1), itens 8 e 9"
+    },
+    {
+     "frente": "Classificação de juros e dividendos recomendada pelo MCASP",
+     "verso": "Juros pagos e recebidos: operacionais. Dividendos recebidos: investimento. Dividendos pagos: financiamento. A norma admite alternativas, desde que consistentes.",
+     "dispositivo": "MCASP 11ª ed., Parte V, item 6.3.4.2; NBC TSP 12 (R1), itens 40 a 43"
+    },
+    {
+     "frente": "Onde aparece a compra de bem por assunção direta de dívida?",
+     "verso": "Fora da DFC: em nota explicativa e, após a (R1), na conciliação dos passivos de financiamento como mudança não monetária.",
+     "dispositivo": "NBC TSP 12 (R1), itens 54, 55 e 55A a 55D"
+    },
+    {
+     "frente": "Datas da NBC TSP 12 (R1)",
+     "verso": "Aprovada em 11/12/2025, publicada no DOU em 17/3/2026, aplica-se aos exercícios iniciados a partir de 1º/1/2027 e revoga a versão publicada no DOU de 31/10/2018.",
+     "dispositivo": "NBC TSP 12 (R1), Vigência; Sistema de Resoluções do CFC"
+    },
+    {
+     "frente": "Diferença essencial entre Balanço Financeiro e DFC",
+     "verso": "O BF segue a lógica orçamentária e as fontes de recursos e compensa os restos a pagar como receita extraorçamentária. A DFC mostra só fluxos efetivos, classificados por atividade.",
+     "dispositivo": "Lei 4.320/1964, art. 103; NBC TSP 12 (R1), item 18"
+    }
+   ],
+   "questoes": [
+    {
+     "id": "tceac-nuvem-nbc-tsp-12-q01",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "A NBC TSP 12 (R1) obriga a entidade do setor público a apresentar o fluxo de caixa das atividades operacionais pelo método direto, vedando o indireto.",
+     "gabarito": "E",
+     "comentario": "Errado. A norma admite os dois métodos e apenas incentiva o direto. Quem torna o direto obrigatório para todos os entes da Federação é o MCASP, por razões de padronização e consolidação.",
+     "dispositivo": "NBC TSP 12 (R1), itens 27 e 28; MCASP 11ª ed., Parte V, cap. 6"
+    },
+    {
+     "id": "tceac-nuvem-nbc-tsp-12-q02",
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "A aplicação de sobra de caixa em título de alta liquidez, com vencimento de 60 dias contados da aquisição e risco insignificante de mudança de valor, não é apresentada como desembolso de investimento na DFC.",
+     "gabarito": "C",
+     "comentario": "Certo. O título se qualifica como equivalente de caixa. Movimentos entre componentes de caixa e equivalentes fazem parte da gestão de caixa e não são fluxos de nenhuma atividade.",
+     "dispositivo": "NBC TSP 12 (R1), itens 8, 9 e 11"
+    },
+    {
+     "id": "tceac-nuvem-nbc-tsp-12-q03",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Para entidades que não sejam instituições financeiras, a NBC TSP 12 (R1) admite classificar os juros pagos como fluxo operacional ou de financiamento, desde que a escolha seja mantida de período a período, e o MCASP recomenda a classificação operacional.",
+     "gabarito": "C",
+     "comentario": "Certo. A norma reconhece que não há consenso e exige apresentação separada e consistência. O MCASP recomenda juros pagos e recebidos como operacionais, porque compõem o resultado.",
+     "dispositivo": "NBC TSP 12 (R1), itens 40 e 42; MCASP 11ª ed., Parte V, item 6.3.4.2"
+    },
+    {
+     "id": "tceac-nuvem-nbc-tsp-12-q04",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "A aquisição de imóvel mediante assunção direta da dívida do vendedor deve figurar na DFC simultaneamente como desembolso de investimento e ingresso de financiamento, para não omitir a operação.",
+     "gabarito": "E",
+     "comentario": "Errado. Transações de investimento e financiamento que não envolvem caixa não entram na DFC. Devem ser divulgadas em notas explicativas e, após a (R1), entram na conciliação dos passivos de financiamento como mudanças não monetárias.",
+     "dispositivo": "NBC TSP 12 (R1), itens 54, 55 e 55A a 55B"
+    },
+    {
+     "id": "tceac-nuvem-nbc-tsp-12-q05",
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Diferentemente do Balanço Financeiro, no qual os restos a pagar inscritos são computados como receita extraorçamentária para compensar a despesa empenhada e não paga, a DFC registra apenas fluxos efetivos de caixa, classificados por atividade.",
+     "gabarito": "C",
+     "comentario": "Certo. O art. 103, parágrafo único, da Lei 4.320/1964 prevê a compensação dos restos a pagar no Balanço Financeiro. A DFC só apresenta entradas e saídas efetivas, segregadas em operacionais, de investimento e de financiamento.",
+     "dispositivo": "Lei 4.320/1964, art. 103; NBC TSP 12 (R1), itens 8 e 18"
+    },
+    {
+     "id": "tceac-nuvem-nbc-tsp-12-q06",
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "O efeito da variação da taxa de câmbio sobre o saldo de caixa mantido em moeda estrangeira deve ser incluído no fluxo das atividades operacionais, por afetar o resultado do período.",
+     "gabarito": "E",
+     "comentario": "Errado. Ganhos e perdas cambiais não realizados não são fluxos de caixa. O efeito sobre o saldo de caixa em moeda estrangeira aparece em linha própria, separada das três atividades, para conciliar os saldos inicial e final.",
+     "dispositivo": "NBC TSP 12 (R1), item 39"
+    },
+    {
+     "id": "tceac-nuvem-nbc-tsp-12-q07",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Sobre a NBC TSP 12 (R1) – Demonstração dos Fluxos de Caixa, assinale a opção correta.",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "Foi elaborada com base na IPSAS 28 e passou a exigir o método direto para o fluxo operacional.",
+      "B": "Aplica-se aos exercícios iniciados a partir de 1º de janeiro de 2027 e passou a exigir divulgação que permita avaliar as mudanças nos passivos decorrentes de atividades de financiamento, inclusive as não monetárias.",
+      "C": "Revogou a NBC TSP 12 de 2018 com aplicação obrigatória já às demonstrações do exercício de 2025.",
+      "D": "Proíbe a inclusão de saldos bancários negativos em caixa e equivalentes de caixa, ainda que liquidados em curto prazo.",
+      "E": "Determina que os dividendos recebidos sejam obrigatoriamente classificados como fluxo de financiamento."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Errada: a norma deriva da IPSAS 2 e continua apenas incentivando o método direto.",
+      "B": "Correta: é a regra de vigência e a novidade dos itens 55A a 55E.",
+      "C": "Errada: a aplicação é para exercícios iniciados a partir de 1º/1/2027, ressalvado normativo nacional com prazo específico.",
+      "D": "Errada: esses saldos podem integrar o caixa quando fazem parte da gestão de caixa e se liquidam em curto prazo.",
+      "E": "Errada: a norma permite classificá-los como operacionais ou de investimento, com consistência, e o MCASP recomenda investimento."
+     },
+     "comentario": "A) Errada: a norma deriva da IPSAS 2 e continua apenas incentivando o método direto.\nB) Correta: é a regra de vigência e a novidade dos itens 55A a 55E.\nC) Errada: a aplicação é para exercícios iniciados a partir de 1º/1/2027, ressalvado normativo nacional com prazo específico.\nD) Errada: esses saldos podem integrar o caixa quando fazem parte da gestão de caixa e se liquidam em curto prazo.\nE) Errada: a norma permite classificá-los como operacionais ou de investimento, com consistência, e o MCASP recomenda investimento.",
+     "dispositivo": "NBC TSP 12 (R1), preâmbulo, itens 10, 28, 42, 55A a 55E e Vigência"
+    },
+    {
+     "id": "tceac-nuvem-nbc-tsp-12-q08",
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "texto_base": "Um município registrou no exercício (R$ mil): tributos arrecadados, 8.000; transferências correntes recebidas, 12.000; transferência de capital recebida, 1.500; rendimentos de aplicações, 200; pessoal pago, 11.000; fornecedores pagos, 4.500; juros da dívida pagos, 600; obras e equipamentos pagos, 3.200; alienação de imóvel, 400; operação de crédito recebida, 2.000; amortização da dívida, 900. Aplicou também 1.000 em título de 60 dias, que se qualifica como equivalente de caixa, e recebeu em doação um veículo avaliado em 300.",
+     "enunciado": "Independentemente da atividade em que se classifiquem os juros pagos e a transferência de capital, a geração líquida de caixa e equivalentes de caixa do exercício é de",
+     "gabarito": "C",
+     "alternativas": {
+      "A": "2.900.",
+      "B": "3.500.",
+      "C": "3.900.",
+      "D": "4.200.",
+      "E": "4.500."
+     },
+     "comentarios_por_alternativa": {
+      "A": "Errada: trata a aplicação em equivalente de caixa como saída, mas ela é movimento interno da gestão de caixa.",
+      "B": "Errada: esquece o ingresso da alienação do imóvel (400).",
+      "C": "Correta: entradas de 24.100 menos saídas de 20.200 dão 3.900. A classificação altera os subtotais, não o total.",
+      "D": "Errada: soma a doação do veículo, que não envolve caixa e vai para nota explicativa.",
+      "E": "Errada: omite os juros pagos (600), que são fluxo efetivo em qualquer classificação."
+     },
+     "comentario": "A) Errada: trata a aplicação em equivalente de caixa como saída, mas ela é movimento interno da gestão de caixa.\nB) Errada: esquece o ingresso da alienação do imóvel (400).\nC) Correta: entradas de 24.100 menos saídas de 20.200 dão 3.900. A classificação altera os subtotais, não o total.\nD) Errada: soma a doação do veículo, que não envolve caixa e vai para nota explicativa.\nE) Errada: omite os juros pagos (600), que são fluxo efetivo em qualquer classificação.",
+     "dispositivo": "NBC TSP 12 (R1), itens 11, 40, 42 e 54"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O efeito da variação cambial sobre o caixa mantido em moeda estrangeira é apresentado ___ dos fluxos das atividades operacionais, de investimento e de financiamento.",
+     "opcoes": [
+      "separadamente",
+      "dentro",
+      "na média",
+      "como dedução"
+     ],
+     "respostas": [
+      "separadamente"
+     ],
+     "explicacao": "Não é fluxo de caixa, mas aparece em linha própria para conciliar os saldos inicial e final (item 39)."
+    },
+    {
+     "tipo": "lacunas",
+     "frase": "Se o ente não consegue separar recursos recebidos entre custeio, capital de giro e capital integralizado, eles são classificados como fluxos das atividades ___, com divulgação em nota.",
+     "opcoes": [
+      "operacionais",
+      "de investimento",
+      "de financiamento",
+      "extraorçamentárias"
+     ],
+     "respostas": [
+      "operacionais"
+     ],
+     "explicacao": "É a regra do item 24 da NBC TSP 12 (R1)."
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene as linhas do quadro principal da DFC no modelo do MCASP.",
+     "itens": [
+      "Fluxo de caixa líquido das atividades operacionais",
+      "Fluxo de caixa líquido das atividades de investimento",
+      "Fluxo de caixa líquido das atividades de financiamento",
+      "Geração líquida de caixa e equivalentes de caixa",
+      "Caixa e equivalentes de caixa final"
+     ],
+     "explicacao": "O quadro apresenta os três fluxos, a geração líquida (soma deles) e depois os saldos inicial e final, cuja diferença deve igualar a geração líquida."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Pagamento a fornecedores",
+       "Atividade operacional"
+      ],
+      [
+       "Alienação de imóvel",
+       "Atividade de investimento"
+      ],
+      [
+       "Amortização da dívida",
+       "Atividade de financiamento"
+      ],
+      [
+       "Conversão de dívida em patrimônio",
+       "Nota explicativa, sem fluxo na DFC"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
