@@ -1,0 +1,99 @@
+{
+ "assunto": "tceac-controle-instrumentos-fiscalizacao_C14_lote1342",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-controle-43",
+   "titulo": "Instrumentos de fiscalização",
+   "microconteudo": "RAIO-X DA PROVA: Distinga finalidade, temporalidade e produto; observe normas do tribunal.\n\nOs tribunais de contas empregam instrumentos distintos para cumprir suas competências de fiscalização. A escolha não depende apenas do nome dado à atividade: deve decorrer do objetivo, do momento em que ocorre, da extensão do objeto e do tipo de conclusão pretendida. Planejar corretamente evita aplicar procedimentos excessivos ou insuficientes e torna claro ao jurisdicionado o alcance do trabalho.\n\nA auditoria é processo sistemático, independente e documentado de obter e avaliar evidências em relação a critérios. Seu propósito é sustentar conclusão ou opinião sobre objeto definido. Pode ser financeira, operacional ou de conformidade, entre outras classificações previstas no marco aplicável. A equipe delimita questões, critérios, escopo, riscos, procedimentos e forma de comunicação. A existência de uma visita ou conferência isolada não transforma automaticamente a atividade em auditoria: importam o desenho e o objetivo global.\n\nO levantamento busca conhecer a organização, o funcionamento, os sistemas, as políticas, os programas ou determinado tema. Pode identificar riscos, controles, responsáveis, bases de dados e oportunidades de fiscalização. Em geral, oferece diagnóstico preliminar e subsidia a seleção, o planejamento ou a delimitação de trabalhos posteriores. Não deve ser confundido com auditoria conclusiva quando sua finalidade é apenas ampliar o conhecimento. Seus resultados podem apontar necessidade de auditoria, inspeção ou acompanhamento.\n\nA inspeção é exame de aspectos específicos de atos, contratos, documentos, fatos ou unidades. É útil para esclarecer situação concreta, verificar informação ou atender demanda focalizada. O escopo deve indicar precisamente o que será examinado e quais evidências podem responder à questão. Se a apuração revelar problema mais amplo, o tribunal pode propor trabalho adicional; não se deve extrapolar conclusões além dos elementos efetivamente examinados.\n\nO acompanhamento ocorre de forma concomitante ou próxima à execução de atividades, programas, projetos ou atos. Permite observar evolução, comparar marcos e identificar tempestivamente desvios relevantes. Em uma obra, por exemplo, verificações periódicas de cronograma, medições e pagamentos podem alertar sobre riscos enquanto ainda há possibilidade de correção. A frequência e os procedimentos devem ser proporcionais ao risco e não substituem a responsabilidade do gestor pela execução.\n\nO monitoramento verifica o cumprimento de deliberações, recomendações ou determinações e, quando cabível, seus efeitos. Pode analisar documentos, confirmar providências, avaliar prazos e classificar a implementação. A simples resposta formal do órgão não prova que a medida foi efetiva: é necessário confrontar a evidência com o comando e com o resultado esperado. O monitoramento também pode apontar obstáculos e subsidiar decisão sobre encerramento, reiteração ou outras providências previstas nas normas do tribunal.\n\nA distinção temporal ajuda: acompanhamento observa a execução de uma atividade; monitoramento verifica posteriormente o tratamento dado a decisão ou recomendação. A distinção de propósito também ajuda: levantamento constrói conhecimento; auditoria avalia segundo critérios; inspeção examina ponto específico. Esses instrumentos podem se articular, desde que cada etapa tenha objetivo explícito e conclusões compatíveis com seu escopo.\n\nEm qualquer fiscalização, a equipe deve observar competência legal, independência, objetividade, ética, confidencialidade quando aplicável e documentação suficiente. Critérios precisam ser pertinentes e comunicados; evidências devem ser confiáveis e relacionadas às questões. O relatório deve explicar método, limitações, achados e encaminhamentos. Achado bem formado relaciona critério, condição, causa e efeito, sem afirmar causalidade não demonstrada.\n\nA matriz de planejamento pode registrar questão, informação necessária, fonte, procedimento e limitações. A matriz de achados organiza evidências e fundamentos das conclusões. A supervisão revisa se o instrumento escolhido continua adequado, se os procedimentos respondem às questões e se a comunicação é equilibrada. O controle externo deve agregar valor sem substituir o gestor, preservando a separação entre fiscalizar e administrar.\n\nPara resolver questões de prova, pergunte: o trabalho pretende conhecer previamente o objeto? É levantamento. Avalia evidências para concluir contra critérios? Auditoria. Examina ponto delimitado? Inspeção. Observa execução em curso? Acompanhamento. Verifica providências tomadas em resposta a deliberação? Monitoramento. Em situações reais, o nome formal depende da legislação e dos atos normativos do tribunal competente; as características funcionais acima ajudam a interpretar o propósito, mas não afastam regras locais.",
+   "flashcards": [
+    {
+     "frente": "Levantamento",
+     "verso": "Conhecimento preliminar para compreender objeto, riscos e viabilidade."
+    },
+    {
+     "frente": "Auditoria",
+     "verso": "Avaliação sistemática com critérios, evidência e conclusão."
+    },
+    {
+     "frente": "Inspeção",
+     "verso": "Exame de aspectos específicos de atos, fatos ou unidades."
+    },
+    {
+     "frente": "Acompanhamento",
+     "verso": "Observação concomitante de atividade ou programa."
+    },
+    {
+     "frente": "Monitoramento",
+     "verso": "Verificação posterior de deliberações e providências."
+    },
+    {
+     "frente": "Escolha do instrumento",
+     "verso": "Defina objetivo, momento, objeto, critérios e produto esperado."
+    }
+   ],
+   "questoes": [
+    {
+     "enunciado": "Qual instrumento busca obter conhecimento amplo sobre organização, funcionamento, riscos ou objeto antes de definir ações futuras?",
+     "gabarito": "Levantamento.",
+     "comentario": "Levantamento."
+    },
+    {
+     "enunciado": "Qual instrumento verifica cumprimento de deliberações e resultados das determinações?",
+     "gabarito": "Monitoramento.",
+     "comentario": "Monitoramento."
+    },
+    {
+     "enunciado": "Qual atividade acompanha ação ou programa ao longo do tempo para avaliar desempenho e riscos?",
+     "gabarito": "Acompanhamento.",
+     "comentario": "Acompanhamento."
+    },
+    {
+     "enunciado": "Qual instrumento examina, em período definido, aspectos específicos de ato, processo ou unidade?",
+     "gabarito": "Inspeção.",
+     "comentario": "Inspeção."
+    },
+    {
+     "enunciado": "Qual instrumento sistemático avalia evidências contra critérios para concluir sobre objeto?",
+     "gabarito": "Auditoria.",
+     "comentario": "Auditoria."
+    },
+    {
+     "enunciado": "A diferença entre levantamento e auditoria está principalmente em quê?",
+     "gabarito": "No propósito: conhecer objeto e subsidiar planejamento, versus avaliar objeto segundo critérios.",
+     "comentario": "No propósito: conhecer objeto e subsidiar planejamento, versus avaliar objeto segundo critérios."
+    },
+    {
+     "enunciado": "Monitoramento encerra a responsabilidade após expedir recomendação?",
+     "gabarito": "Não; verifica implementação e efeitos das deliberações.",
+     "comentario": "Não; verifica implementação e efeitos das deliberações."
+    },
+    {
+     "enunciado": "Uma visita pontual para verificar documento caracteriza necessariamente auditoria?",
+     "gabarito": "Não; pode integrar inspeção ou outro instrumento conforme objetivo e escopo.",
+     "comentario": "Não; pode integrar inspeção ou outro instrumento conforme objetivo e escopo."
+    }
+   ],
+   "exercicios": [
+    {
+     "enunciado": "Um tribunal quer mapear sistemas de compras de vários órgãos antes de escolher auditorias.",
+     "resposta": "Levantamento: conhecimento e seleção de prioridades."
+    },
+    {
+     "enunciado": "Após determinação para corrigir transparência, o tribunal confere evidências seis meses depois.",
+     "resposta": "Monitoramento da deliberação."
+    },
+    {
+     "enunciado": "Durante obra em andamento, equipe verifica cronograma e medições periodicamente.",
+     "resposta": "Acompanhamento concomitante."
+    },
+    {
+     "enunciado": "Há denúncia específica sobre medição de um contrato e exame focal de documentos e local.",
+     "resposta": "Inspeção, sem prejuízo de auditoria se o escopo exigir avaliação abrangente."
+    }
+   ]
+  }
+ ]
+}

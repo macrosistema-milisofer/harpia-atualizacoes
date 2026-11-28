@@ -1,0 +1,99 @@
+{
+ "assunto": "tceac-controle-governanca-coso_C14_lote1339",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-c14-controle-governanca-coso",
+   "titulo": "Governança pública e controles internos: COSO I e ERM",
+   "microconteudo": "RAIO-X DA PROVA: Governança, accountability, componentes do controle interno COSO I e gestão integrada de riscos COSO II/ERM.\n\nGovernança no setor público é o conjunto de mecanismos de liderança, estratégia e controle usados para avaliar, direcionar e monitorar a gestão. Seu propósito é assegurar que decisões e recursos públicos se orientem ao interesse coletivo, com integridade, transparência, prestação de contas e resultados. Governança não se confunde com gestão: a primeira estabelece direção, supervisiona e cobra; a segunda planeja e executa políticas e serviços dentro dessa direção. Na auditoria governamental, governança é objeto de avaliação e também condição para que riscos sejam tratados e controles funcionem.\n\nA boa governança define responsabilidades, objetivos, apetite a risco, canais de informação e mecanismos de supervisão. O órgão de governança acompanha desempenho, conformidade e riscos significativos, sem substituir os gestores na execução. A responsabilização (accountability) exige explicar decisões, divulgar informações pertinentes e responder por resultados e desvios. Transparência, por si só, não garante integridade: dados devem ser confiáveis, tempestivos e úteis, e irregularidades precisam de tratamento.\n\nO controle interno é processo integrado à organização, conduzido por governança, administração e pessoas, para oferecer segurança razoável quanto ao alcance de objetivos. Não é apenas uma unidade, formulário ou inspeção posterior. Controles preventivos, detectivos e corretivos podem reduzir exposição a riscos, mas nenhum sistema elimina totalmente erro, fraude ou incerteza. Limitações incluem julgamento humano, conluio, custo-benefício, falhas de comunicação e mudanças nas circunstâncias.\n\nO COSO Internal Control—Integrated Framework (COSO I) organiza o controle interno em cinco componentes inter-relacionados: ambiente de controle, avaliação de riscos, atividades de controle, informação e comunicação, e monitoramento. O ambiente estabelece tom ético, estrutura, autoridade, competência e responsabilização. A avaliação identifica e analisa riscos frente aos objetivos, inclusive risco de fraude e mudanças relevantes. Atividades de controle incluem autorizações, conciliações, segregação de funções, verificações e controles de tecnologia. Informação e comunicação permitem produzir e transmitir dados apropriados. Monitoramento, por avaliações contínuas ou separadas, identifica deficiências e acompanha correções.\n\nOs componentes não funcionam como etapas isoladas. Um controle de autorização pode ser ineficaz se responsabilidades forem ambíguas ou se exceções não forem comunicadas. A administração deve avaliar se os componentes e princípios pertinentes estão presentes e funcionando em conjunto. A auditoria examina desenho e operação dos controles, obtendo evidência suficiente; a mera existência formal de política não prova efetividade.\n\nO COSO II, Enterprise Risk Management—Integrated Framework (ERM), amplia a perspectiva para gestão de riscos corporativos. Na formulação clássica, relaciona objetivos estratégicos, operacionais, de comunicação e conformidade a oito componentes: ambiente interno; fixação de objetivos; identificação de eventos; avaliação de riscos; resposta a riscos; atividades de controle; informação e comunicação; monitoramento. O ERM considera risco e oportunidade no contexto da estratégia e do desempenho. A organização identifica eventos internos e externos, estima probabilidade e impacto, e seleciona respostas como evitar, reduzir, compartilhar ou aceitar o risco, considerando o apetite e a tolerância estabelecidos.\n\nCOSO I e COSO II são referenciais relacionados, não sinônimos perfeitos. COSO I concentra-se no controle interno e oferece base para confiança razoável no alcance de objetivos; COSO II integra gestão de riscos à estratégia e à tomada de decisões. A gestão de riscos inclui controles, mas não se limita a eles: pode exigir mudança de estratégia, transferência contratual ou aceitação consciente de exposição. Já controle interno dá tratamento concreto a riscos dentro de processos e objetivos.\n\nNo setor público, a aplicação deve respeitar legalidade, finalidade pública, competências e prestação de contas. O apetite a risco não autoriza descumprir norma ou direito. O auditor avalia se objetivos são claros, riscos relevantes foram identificados, respostas são proporcionais e informações chegam a quem decide. Recomendações devem apontar causas e efeitos, priorizar riscos e permitir acompanhamento. Governança eficaz não promete ausência de falhas; cria condições para preveni-las, detectá-las, corrigi-las e aprender com elas.",
+   "flashcards": [
+    {
+     "frente": "Governança e gestão são equivalentes?",
+     "verso": "Não. Governança avalia, direciona e monitora; gestão planeja e executa."
+    },
+    {
+     "frente": "O que significa segurança razoável?",
+     "verso": "Redução de risco a nível aceitável, sem garantia absoluta."
+    },
+    {
+     "frente": "Quais são os cinco componentes do COSO I?",
+     "verso": "Ambiente de controle; avaliação de riscos; atividades de controle; informação e comunicação; monitoramento."
+    },
+    {
+     "frente": "Segregação de funções é atividade de controle?",
+     "verso": "Sim, busca reduzir oportunidade de erro ou fraude incompatível."
+    },
+    {
+     "frente": "COSO II se limita a controles internos?",
+     "verso": "Não. Integra riscos à estratégia, objetivos e desempenho."
+    },
+    {
+     "frente": "Quais respostas clássicas ao risco no ERM?",
+     "verso": "Evitar, reduzir, compartilhar ou aceitar."
+    }
+   ],
+   "questoes": [
+    {
+     "pergunta": "Governança e gestão são equivalentes?",
+     "resposta": "Não. Governança avalia, direciona e monitora; gestão planeja e executa.",
+     "explicacao": "Não. Governança avalia, direciona e monitora; gestão planeja e executa."
+    },
+    {
+     "pergunta": "O que significa segurança razoável?",
+     "resposta": "Redução de risco a nível aceitável, sem garantia absoluta.",
+     "explicacao": "Redução de risco a nível aceitável, sem garantia absoluta."
+    },
+    {
+     "pergunta": "Quais são os cinco componentes do COSO I?",
+     "resposta": "Ambiente de controle; avaliação de riscos; atividades de controle; informação e comunicação; monitoramento.",
+     "explicacao": "Ambiente de controle; avaliação de riscos; atividades de controle; informação e comunicação; monitoramento."
+    },
+    {
+     "pergunta": "Segregação de funções é atividade de controle?",
+     "resposta": "Sim, busca reduzir oportunidade de erro ou fraude incompatível.",
+     "explicacao": "Sim, busca reduzir oportunidade de erro ou fraude incompatível."
+    },
+    {
+     "pergunta": "COSO II se limita a controles internos?",
+     "resposta": "Não. Integra riscos à estratégia, objetivos e desempenho.",
+     "explicacao": "Não. Integra riscos à estratégia, objetivos e desempenho."
+    },
+    {
+     "pergunta": "Quais respostas clássicas ao risco no ERM?",
+     "resposta": "Evitar, reduzir, compartilhar ou aceitar.",
+     "explicacao": "Evitar, reduzir, compartilhar ou aceitar."
+    },
+    {
+     "pergunta": "Transparência basta para accountability?",
+     "resposta": "Não; requer informação útil, explicação e responsabilização.",
+     "explicacao": "Não; requer informação útil, explicação e responsabilização."
+    },
+    {
+     "pergunta": "Apetite a risco permite violar a lei?",
+     "resposta": "Não. Deve respeitar legalidade e direitos.",
+     "explicacao": "Não. Deve respeitar legalidade e direitos."
+    }
+   ],
+   "exercicios": [
+    {
+     "enunciado": "Governança e gestão são equivalentes?",
+     "resposta_esperada": "Não. Governança avalia, direciona e monitora; gestão planeja e executa."
+    },
+    {
+     "enunciado": "O que significa segurança razoável?",
+     "resposta_esperada": "Redução de risco a nível aceitável, sem garantia absoluta."
+    },
+    {
+     "enunciado": "Quais são os cinco componentes do COSO I?",
+     "resposta_esperada": "Ambiente de controle; avaliação de riscos; atividades de controle; informação e comunicação; monitoramento."
+    },
+    {
+     "enunciado": "Segregação de funções é atividade de controle?",
+     "resposta_esperada": "Sim, busca reduzir oportunidade de erro ou fraude incompatível."
+    }
+   ]
+  }
+ ]
+}

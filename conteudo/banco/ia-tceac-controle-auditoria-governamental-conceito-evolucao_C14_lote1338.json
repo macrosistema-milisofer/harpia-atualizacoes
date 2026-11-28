@@ -1,0 +1,155 @@
+{
+ "assunto": "tceac-controle-auditoria-governamental-conceito-evolucao_C14_lote1338",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-c14-controle-auditoria-governamental-conceito-evolucao",
+   "titulo": "Auditoria governamental: conceito e evolução",
+   "microconteudo": "RAIO-X DA PROVA: Conceito, finalidade pública, distinção entre auditoria interna e externa e referenciais INTOSAI e IIA.\n\nAuditoria governamental avalia, com independência e evidências, aspectos da gestão pública. INTOSAI orienta entidades fiscalizadoras superiores; IIA orienta a auditoria interna. Coordenação evita lacunas, sem apagar diferenças de mandato e independência.",
+   "flashcards": [
+    {
+     "frente": "Auditoria governamental",
+     "verso": "Avaliação objetiva de evidências contra critérios."
+    },
+    {
+     "frente": "Auditoria interna",
+     "verso": "Avalia governança, riscos e controles da própria organização."
+    },
+    {
+     "frente": "Auditoria externa",
+     "verso": "Fiscalização independente segundo mandato próprio."
+    },
+    {
+     "frente": "INTOSAI",
+     "verso": "Referencial profissional das entidades fiscalizadoras superiores."
+    },
+    {
+     "frente": "IIA",
+     "verso": "Referencial global da auditoria interna."
+    },
+    {
+     "frente": "Responsabilidade gerencial",
+     "verso": "Gestores administram riscos e controles; auditores avaliam."
+    }
+   ],
+   "questoes": [
+    {
+     "id": "q1",
+     "enunciado": "Qual é o núcleo do conceito de auditoria governamental?",
+     "alternativas": [
+      "Avaliar objetivamente evidências em relação a critérios para concluir sobre gestão e resultados.",
+      "Apenas a administração legislativa.",
+      "Apenas a equipe de auditoria interna.",
+      "A entidade auditada define retroativamente os critérios."
+     ],
+     "gabarito": 0,
+     "justificativa": "Avaliar objetivamente evidências em relação a critérios para concluir sobre gestão e resultados."
+    },
+    {
+     "id": "q2",
+     "enunciado": "Qual é a finalidade central da auditoria interna segundo o IIA?",
+     "alternativas": [
+      "Fortalecer operações por avaliação independente e objetiva de governança, riscos e controles.",
+      "Apenas a administração legislativa.",
+      "Apenas a equipe de auditoria interna.",
+      "A entidade auditada define retroativamente os critérios."
+     ],
+     "gabarito": 0,
+     "justificativa": "Fortalecer operações por avaliação independente e objetiva de governança, riscos e controles."
+    },
+    {
+     "id": "q3",
+     "enunciado": "A auditoria interna pode assumir decisões gerenciais?",
+     "alternativas": [
+      "Não; isso comprometeria sua objetividade ao avaliar decisões e controles.",
+      "Apenas a administração legislativa.",
+      "Apenas a equipe de auditoria interna.",
+      "A entidade auditada define retroativamente os critérios."
+     ],
+     "gabarito": 0,
+     "justificativa": "Não; isso comprometeria sua objetividade ao avaliar decisões e controles."
+    },
+    {
+     "id": "q4",
+     "enunciado": "Qual papel a INTOSAI desempenha?",
+     "alternativas": [
+      "Desenvolve princípios e normas profissionais para entidades fiscalizadoras superiores.",
+      "Apenas a administração legislativa.",
+      "Apenas a equipe de auditoria interna.",
+      "A entidade auditada define retroativamente os critérios."
+     ],
+     "gabarito": 0,
+     "justificativa": "Desenvolve princípios e normas profissionais para entidades fiscalizadoras superiores."
+    },
+    {
+     "id": "q5",
+     "enunciado": "O que a ISSAI 100 estabelece?",
+     "alternativas": [
+      "Princípios fundamentais para auditorias do setor público.",
+      "Apenas a administração legislativa.",
+      "Apenas a equipe de auditoria interna.",
+      "A entidade auditada define retroativamente os critérios."
+     ],
+     "gabarito": 0,
+     "justificativa": "Princípios fundamentais para auditorias do setor público."
+    },
+    {
+     "id": "q6",
+     "enunciado": "Como diferem auditoria interna e externa?",
+     "alternativas": [
+      "Mandato, posição independente e destinatários; interna apoia governança organizacional e externa fiscaliza sob mandato próprio.",
+      "Apenas a administração legislativa.",
+      "Apenas a equipe de auditoria interna.",
+      "A entidade auditada define retroativamente os critérios."
+     ],
+     "gabarito": 0,
+     "justificativa": "Mandato, posição independente e destinatários; interna apoia governança organizacional e externa fiscaliza sob mandato próprio."
+    },
+    {
+     "id": "q7",
+     "enunciado": "O auditor externo pode usar trabalho interno?",
+     "alternativas": [
+      "Pode considerá-lo após avaliar competência, objetividade e qualidade, mantendo responsabilidade por sua conclusão.",
+      "Apenas a administração legislativa.",
+      "Apenas a equipe de auditoria interna.",
+      "A entidade auditada define retroativamente os critérios."
+     ],
+     "gabarito": 0,
+     "justificativa": "Pode considerá-lo após avaliar competência, objetividade e qualidade, mantendo responsabilidade por sua conclusão."
+    },
+    {
+     "id": "q8",
+     "enunciado": "Quem responde por instituir controles e gerir riscos?",
+     "alternativas": [
+      "A administração; auditores avaliam e comunicam, sem substituir gestores.",
+      "Apenas a administração legislativa.",
+      "Apenas a equipe de auditoria interna.",
+      "A entidade auditada define retroativamente os critérios."
+     ],
+     "gabarito": 0,
+     "justificativa": "A administração; auditores avaliam e comunicam, sem substituir gestores."
+    }
+   ],
+   "exercicios": [
+    {
+     "enunciado": "Distinga auditoria interna de externa.",
+     "resposta_esperada": "Compare mandato, independência e destinatários."
+    },
+    {
+     "enunciado": "Explique como INTOSAI e IIA se relacionam.",
+     "resposta_esperada": "INTOSAI orienta EFS; IIA orienta auditoria interna."
+    },
+    {
+     "enunciado": "Uma equipe desenha controle e depois o certifica. Qual risco?",
+     "resposta_esperada": "Autorrevisão e perda de objetividade."
+    },
+    {
+     "enunciado": "Como avaliar uso de trabalho interno pela auditoria externa?",
+     "resposta_esperada": "Competência, objetividade e qualidade, sem transferir responsabilidade."
+    }
+   ]
+  }
+ ]
+}

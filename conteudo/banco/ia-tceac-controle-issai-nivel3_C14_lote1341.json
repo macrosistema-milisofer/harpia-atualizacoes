@@ -1,0 +1,99 @@
+{
+ "assunto": "tceac-controle-issai-nivel3_C14_lote1341",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-controle-42",
+   "titulo": "ISSAI nível 3 — princípios fundamentais de auditoria",
+   "microconteudo": "RAIO-X DA PROVA: Foco institucional: independência, mandato, poderes, reporte, competência, ética e qualidade.\n\nAs ISSAI 100, 200, 300 e 400 integram o nível 3 do marco profissional da INTOSAI e tratam de princípios fundamentais aplicáveis às modalidades de auditoria do setor público. A ISSAI 100 apresenta conceitos e princípios gerais; as outras três normas particularizam esses princípios para auditorias financeira, operacional e de conformidade. Em prova, a distinção central está no objeto e na pergunta de auditoria, não apenas no nome do relatório. A estrutura profissional da INTOSAI é organizada em princípios, requisitos e orientações, e a aplicação nacional deve considerar o marco jurídico e as normas adotadas pela entidade fiscalizadora.\n\nA ISSAI 100 define auditoria do setor público como processo sistemático, independente e objetivo de obter e avaliar evidências para determinar se informações, condições ou atividades atendem a critérios estabelecidos. O trabalho deve produzir informação útil aos usuários previstos, apoiar accountability e contribuir para boa governança. O auditor precisa observar ética e independência, exercer julgamento e ceticismo profissionais, assegurar controle de qualidade e documentar o trabalho. A auditoria depende de relação apropriada entre auditor, parte responsável e usuários previstos; mandato e condições do trabalho precisam estar claros.\n\nOs princípios gerais atravessam as modalidades. O objeto deve ser identificável e avaliável por critérios adequados. Evidência suficiente e apropriada sustenta conclusões; suficiência diz respeito à quantidade e adequação à qualidade e relevância. Risco, materialidade e limitações de recursos influenciam planejamento e execução. Comunicação clara deve explicar escopo, critérios, achados, conclusões e, quando cabível, recomendações. O auditor não substitui o gestor na tomada de decisões nem garante ausência absoluta de erro ou irregularidade: oferece segurança compatível com o tipo e o desenho do trabalho.\n\nA ISSAI 200 aplica os princípios à auditoria financeira. Seu foco é verificar se informação financeira foi apresentada conforme estrutura de relato aplicável e se demonstrações estão livres de distorção relevante, por fraude ou erro. O auditor identifica riscos de distorção relevante, compreende controles pertinentes, define procedimentos e avalia evidências. A opinião expressa conclusão segundo o nível de segurança e as normas adotadas. Auditoria financeira não equivale a auditoria operacional: não tem como objetivo primário avaliar economia, eficiência e eficácia de políticas, embora fatos relevantes possam ser comunicados.\n\nA ISSAI 300 trata da auditoria operacional, exame independente, objetivo e confiável sobre se empreendimentos, sistemas, operações, programas, atividades ou organizações funcionam segundo os princípios de economicidade, eficiência e efetividade, e se há espaço para aperfeiçoamento. Economicidade busca adquirir insumos na qualidade e quantidade apropriadas ao menor custo razoável; eficiência relaciona recursos empregados a produtos e resultados; efetividade considera alcance dos objetivos e efeitos pretendidos. A seleção do tema, a pergunta, os critérios e os métodos devem formar desenho coerente. A conclusão pode identificar causas e oportunidades de melhoria, mas precisa permanecer apoiada em evidência.\n\nA ISSAI 400 orienta a auditoria de conformidade: avaliação independente para determinar se determinado objeto observa autoridades aplicáveis, como leis, regulamentos, resoluções, contratos ou princípios gerais relevantes. Ela pode assumir forma de certificação ou de relatório direto, conforme mandato, usuários e desenho. A conformidade pode ser o objetivo principal ou estar associada a auditoria financeira ou operacional. O auditor define objeto, critérios e materialidade, avalia risco de descumprimento e reúne evidência apropriada. Uma irregularidade só deve ser afirmada com precisão sobre a regra, a condição encontrada, a evidência e a responsabilidade dentro do escopo.\n\nA escolha da modalidade começa pela pergunta. “As demonstrações representam adequadamente a posição financeira?” aponta para auditoria financeira. “O programa alcançou resultados com uso econômico e eficiente dos recursos?” aponta para operacional. “A contratação respeitou a legislação e os requisitos do edital?” aponta para conformidade. Os trabalhos podem se combinar, desde que objetivos, critérios, procedimentos e conclusões permaneçam identificáveis. Não se deve confundir conformidade com mera checagem documental, nem operacional com avaliação sem critérios.\n\nAs quatro normas valorizam independência, ética, competência, julgamento profissional, ceticismo, materialidade, risco, evidência, documentação, comunicação e controle de qualidade. O mandato institucional define a autoridade do trabalho, enquanto os termos do trabalho especificam objetivos, escopo, critérios, responsabilidades e forma de reporte. A documentação permite que profissional experiente, sem envolvimento anterior, compreenda procedimentos, evidências e fundamentos das conclusões.\n\nPara revisão, memorize a arquitetura: ISSAI 100 é geral; 200 é financeira; 300 é operacional; 400 é conformidade. A ISSAI 100 não substitui os requisitos específicos das modalidades, e uma modalidade não é superior às demais. O desenho deve responder ao risco e à necessidade dos usuários. A fonte normativa internacional é a INTOSAI; no Brasil, observe também as NBASP e regras do tribunal competente, sem presumir que toda edição internacional tenha adoção nacional automática.",
+   "flashcards": [
+    {
+     "frente": "Qual é a função da ISSAI 100?",
+     "verso": "Estabelecer princípios fundamentais gerais para auditorias do setor público."
+    },
+    {
+     "frente": "Qual ISSAI trata de auditoria financeira?",
+     "verso": "ISSAI 200."
+    },
+    {
+     "frente": "Que três dimensões caracterizam auditoria operacional?",
+     "verso": "Economicidade, eficiência e efetividade."
+    },
+    {
+     "frente": "Qual o foco da ISSAI 400?",
+     "verso": "Verificar conformidade do objeto com autoridades e critérios aplicáveis."
+    },
+    {
+     "frente": "Suficiência e adequação da evidência são sinônimos?",
+     "verso": "Não. Suficiência se refere à quantidade; adequação, à qualidade e relevância."
+    },
+    {
+     "frente": "A auditoria garante ausência absoluta de erro?",
+     "verso": "Não. Fornece segurança compatível com o escopo e os procedimentos."
+    }
+   ],
+   "questoes": [
+    {
+     "enunciado": "Qual é a função da ISSAI 100?",
+     "gabarito": "Estabelecer princípios fundamentais gerais para auditorias do setor público.",
+     "explicacao": "Estabelecer princípios fundamentais gerais para auditorias do setor público."
+    },
+    {
+     "enunciado": "Qual ISSAI trata de auditoria financeira?",
+     "gabarito": "ISSAI 200.",
+     "explicacao": "ISSAI 200."
+    },
+    {
+     "enunciado": "Que três dimensões caracterizam auditoria operacional?",
+     "gabarito": "Economicidade, eficiência e efetividade.",
+     "explicacao": "Economicidade, eficiência e efetividade."
+    },
+    {
+     "enunciado": "Qual o foco da ISSAI 400?",
+     "gabarito": "Verificar conformidade do objeto com autoridades e critérios aplicáveis.",
+     "explicacao": "Verificar conformidade do objeto com autoridades e critérios aplicáveis."
+    },
+    {
+     "enunciado": "Suficiência e adequação da evidência são sinônimos?",
+     "gabarito": "Não. Suficiência se refere à quantidade; adequação, à qualidade e relevância.",
+     "explicacao": "Não. Suficiência se refere à quantidade; adequação, à qualidade e relevância."
+    },
+    {
+     "enunciado": "A auditoria garante ausência absoluta de erro?",
+     "gabarito": "Não. Fornece segurança compatível com o escopo e os procedimentos.",
+     "explicacao": "Não. Fornece segurança compatível com o escopo e os procedimentos."
+    },
+    {
+     "enunciado": "A ISSAI 100 elimina requisitos específicos das demais?",
+     "gabarito": "Não. É geral; 200, 300 e 400 particularizam modalidades.",
+     "explicacao": "Não. É geral; 200, 300 e 400 particularizam modalidades."
+    },
+    {
+     "enunciado": "Como distinguir financeira de operacional?",
+     "gabarito": "Financeira examina relato e demonstrações; operacional avalia economicidade, eficiência e efetividade.",
+     "explicacao": "Financeira examina relato e demonstrações; operacional avalia economicidade, eficiência e efetividade."
+    }
+   ],
+   "exercicios": [
+    {
+     "enunciado": "Qual é a função da ISSAI 100?",
+     "resposta_esperada": "Estabelecer princípios fundamentais gerais para auditorias do setor público."
+    },
+    {
+     "enunciado": "Qual ISSAI trata de auditoria financeira?",
+     "resposta_esperada": "ISSAI 200."
+    },
+    {
+     "enunciado": "Que três dimensões caracterizam auditoria operacional?",
+     "resposta_esperada": "Economicidade, eficiência e efetividade."
+    },
+    {
+     "enunciado": "Qual o foco da ISSAI 400?",
+     "resposta_esperada": "Verificar conformidade do objeto com autoridades e critérios aplicáveis."
+    }
+   ]
+  }
+ ]
+}

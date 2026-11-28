@@ -1,0 +1,99 @@
+{
+ "assunto": "tceac-controle-nbasp-nivel1-principios_C14_lote1340",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-controle-41",
+   "titulo": "NBASP nível 1: princípios basilares",
+   "microconteudo": "RAIO-X DA PROVA: Foco institucional: independência, mandato, poderes, reporte, competência, ética e qualidade.\n\nAs Normas Brasileiras de Auditoria do Setor Público (NBASP) organizam princípios e requisitos para que os tribunais de contas exerçam fiscalização com independência, competência, transparência e qualidade. O nível 1 reúne princípios basilares e pré-requisitos institucionais: sua unidade de análise é a entidade fiscalizadora superior e o ambiente que permite cumprir o mandato, não a técnica detalhada de cada auditoria. As NBASP são alinhadas às normas internacionais da INTOSAI (ISSAI), adaptadas ao contexto brasileiro de controle externo.\n\nO primeiro fundamento é a existência de um marco legal efetivo. A Constituição e as leis devem definir mandato, competências, jurisdição, acesso a informações e poderes necessários à fiscalização. Um tribunal não consegue oferecer controle robusto se não puder examinar documentos relevantes, escolher objetos de auditoria ou comunicar conclusões. A garantia legal precisa ser acompanhada de autonomia funcional e proteção contra interferências na seleção e execução dos trabalhos. Independência não significa ausência de prestação de contas: significa que decisões profissionais são tomadas sem influência indevida e com transparência sobre os próprios resultados.\n\nA independência dos membros e dirigentes também é essencial. Regras claras de nomeação, mandato, estabilidade, impedimentos e responsabilização ajudam a proteger decisões técnicas. A instituição deve preservar independência organizacional e financeira suficiente para desempenhar suas funções, respeitando os processos orçamentários aplicáveis. Autonomia não é privilégio pessoal: existe para proteger o interesse público e a credibilidade das conclusões.\n\nO mandato deve permitir acesso irrestrito e tempestivo às informações necessárias, dentro da lei, e prever mecanismos para obter documentos e explicações. A jurisdição alcança os responsáveis e recursos públicos previstos no ordenamento. Quando uma entidade fiscalizada limita acesso ou deixa de cumprir determinações, o tribunal precisa dispor de meios legais de resposta. O alcance concreto decorre da Constituição e da legislação nacional; não se deve importar automaticamente poderes de outro país.\n\nA instituição deve poder reportar seus achados. Relatórios precisam ser oportunos, claros, objetivos e acessíveis, resguardados sigilos legalmente protegidos. A publicidade permite que Legislativo, gestores e sociedade conheçam problemas e providências. A comunicação responsável distingue evidência, critério, condição e conclusão, evitando afirmações que excedam o trabalho realizado. Recomendações devem ser úteis e acompanhar riscos e causas identificados.\n\nCompetência e ética são pré-requisitos complementares. O tribunal deve recrutar e desenvolver profissionais capazes, manter métodos e controles de qualidade e promover conduta íntegra, imparcial e diligente. A equipe precisa compreender o objeto, aplicar julgamento profissional e documentar decisões. A qualidade requer revisão e supervisão, além de procedimentos institucionais que aprendam com avaliações internas e externas.\n\nA transparência e a accountability alcançam a própria entidade fiscalizadora. Ela deve divulgar informações sobre estratégia, recursos, desempenho e resultados, proteger dados cuja divulgação seja vedada e submeter-se a avaliação independente apropriada. A instituição deve demonstrar que usa recursos públicos com economia, eficiência e efetividade. Isso reforça confiança e mostra que o controle externo também aceita controle.\n\nEm questões de prova, separe princípios institucionais do nível 1 de normas operacionais de auditoria. Independência, mandato, acesso à informação, reporte, competência, ética, qualidade e transparência caracterizam condições para funcionamento. Planejamento, evidência e procedimentos específicos pertencem a orientações de auditoria dos níveis seguintes. A independência é compatível com accountability; autonomia não elimina limites legais; e relatório público deve respeitar sigilo previsto em lei.",
+   "flashcards": [
+    {
+     "frente": "NBASP nível 1 trata principalmente de quê?",
+     "verso": "Princípios basilares e pré-requisitos institucionais dos tribunais de contas."
+    },
+    {
+     "frente": "Independência dispensa prestação de contas?",
+     "verso": "Não. Protege o julgamento técnico e convive com transparência e accountability."
+    },
+    {
+     "frente": "Por que o marco legal deve assegurar acesso à informação?",
+     "verso": "Para permitir fiscalização suficiente e tempestiva dentro do mandato."
+    },
+    {
+     "frente": "A autonomia financeira significa ausência de regras orçamentárias?",
+     "verso": "Não. É autonomia suficiente, exercida nos processos legais aplicáveis."
+    },
+    {
+     "frente": "Quais qualidades devem orientar relatórios?",
+     "verso": "Oportunidade, clareza, objetividade e acessibilidade, respeitado o sigilo legal."
+    },
+    {
+     "frente": "O que sustenta competência institucional?",
+     "verso": "Profissionais capacitados, desenvolvimento, métodos e controle de qualidade."
+    }
+   ],
+   "questoes": [
+    {
+     "enunciado": "NBASP nível 1 trata principalmente de quê?",
+     "gabarito": "Princípios basilares e pré-requisitos institucionais dos tribunais de contas.",
+     "explicacao": "Princípios basilares e pré-requisitos institucionais dos tribunais de contas."
+    },
+    {
+     "enunciado": "Independência dispensa prestação de contas?",
+     "gabarito": "Não. Protege o julgamento técnico e convive com transparência e accountability.",
+     "explicacao": "Não. Protege o julgamento técnico e convive com transparência e accountability."
+    },
+    {
+     "enunciado": "Por que o marco legal deve assegurar acesso à informação?",
+     "gabarito": "Para permitir fiscalização suficiente e tempestiva dentro do mandato.",
+     "explicacao": "Para permitir fiscalização suficiente e tempestiva dentro do mandato."
+    },
+    {
+     "enunciado": "A autonomia financeira significa ausência de regras orçamentárias?",
+     "gabarito": "Não. É autonomia suficiente, exercida nos processos legais aplicáveis.",
+     "explicacao": "Não. É autonomia suficiente, exercida nos processos legais aplicáveis."
+    },
+    {
+     "enunciado": "Quais qualidades devem orientar relatórios?",
+     "gabarito": "Oportunidade, clareza, objetividade e acessibilidade, respeitado o sigilo legal.",
+     "explicacao": "Oportunidade, clareza, objetividade e acessibilidade, respeitado o sigilo legal."
+    },
+    {
+     "enunciado": "O que sustenta competência institucional?",
+     "gabarito": "Profissionais capacitados, desenvolvimento, métodos e controle de qualidade.",
+     "explicacao": "Profissionais capacitados, desenvolvimento, métodos e controle de qualidade."
+    },
+    {
+     "enunciado": "NBASP nível 1 é um manual de procedimentos de campo?",
+     "gabarito": "Não. Estabelece pré-requisitos institucionais.",
+     "explicacao": "Não. Estabelece pré-requisitos institucionais."
+    },
+    {
+     "enunciado": "Por que o próprio tribunal deve ser avaliado?",
+     "gabarito": "Para demonstrar uso responsável dos recursos e fortalecer a confiança pública.",
+     "explicacao": "Para demonstrar uso responsável dos recursos e fortalecer a confiança pública."
+    }
+   ],
+   "exercicios": [
+    {
+     "enunciado": "NBASP nível 1 trata principalmente de quê?",
+     "resposta_esperada": "Princípios basilares e pré-requisitos institucionais dos tribunais de contas."
+    },
+    {
+     "enunciado": "Independência dispensa prestação de contas?",
+     "resposta_esperada": "Não. Protege o julgamento técnico e convive com transparência e accountability."
+    },
+    {
+     "enunciado": "Por que o marco legal deve assegurar acesso à informação?",
+     "resposta_esperada": "Para permitir fiscalização suficiente e tempestiva dentro do mandato."
+    },
+    {
+     "enunciado": "A autonomia financeira significa ausência de regras orçamentárias?",
+     "resposta_esperada": "Não. É autonomia suficiente, exercida nos processos legais aplicáveis."
+    }
+   ]
+  }
+ ]
+}
