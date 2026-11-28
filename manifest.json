@@ -745,7 +745,7 @@
   "conteudo/banco/ia-tjsc-zoneamento-ambiental_M18.json": 1,
   "conteudo/mapas/incidencia.json": 4,
   "conteudo/mapas/incidencia_bancas.json": 1,
-  "conteudo/mapas/topicos.json": 40,
+  "conteudo/mapas/topicos.json": 49,
   "conteudo/raiox/enem-2026.json": 4,
   "conteudo/raiox/magistratura-tjsc-2026.json": 6,
   "conteudo/raiox/rpps-cginv-3.json": 5,
@@ -976,9 +976,9 @@
  },
  "app": {
   "android": {
-   "build": 35,
-   "versao": "1.9.6",
-   "url": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-35.apk",
+   "build": 36,
+   "versao": "1.9.7",
+   "url": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-36.apk",
    "notas": "Lições com flashcards e questões, revisão espaçada e atualização automática.",
    "url32": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-32bits.apk"
   }
