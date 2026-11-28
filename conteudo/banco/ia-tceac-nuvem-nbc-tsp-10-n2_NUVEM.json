@@ -1,0 +1,203 @@
+{
+ "assunto": "Contabilidade Pública – NBC TSP 10 (R1): redução ao valor recuperável de ativo gerador de caixa",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-28",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-nuvem-nbc-tsp-10-n2",
+   "titulo": "Impairment de ativo gerador de caixa: a NBC TSP 10 (R1) sem mistério",
+   "microconteudo": "RAIO-X DA PROVA: O Cebraspe troca \"maior\" por \"menor\" na definição de valor recuperável, confunde a NBC TSP 10 com a NBC TSP 09 (fluxo de caixa x potencial de serviço), esquece a presunção de ativo não gerador de caixa na dúvida, ignora o teste anual do intangível de vida indefinida e cobra o teto da reversão e a vedação de reverter perda do ágio. Contas de rateio na unidade geradora de caixa também aparecem.\n\nPOR QUE IMPORTA:\nNem todo ativo público existe só para prestar serviço gratuito. Estacionamentos municipais explorados com tarifa, terminais rodoviários alugados, armazéns de companhias estaduais, alas de hospital atendendo pacientes pagantes, participações em empresas: quando o objetivo principal de manter o bem é gerar retorno comercial, o balanço precisa mostrar se esse bem ainda vale, em caixa, aquilo que está registrado. A NBC TSP 10 (R1), convergida com a IPSAS 26 e revisada à luz do IPSASB Handbook 2024, é a norma que manda testar esses ativos e reconhecer a perda quando o valor contábil passa do valor recuperável. Para o auditor de contas, ela é ferramenta de trabalho: um ativo inflado mascara a real situação patrimonial, infla o patrimônio líquido de empresas estatais dependentes e pode esconder decisões ruins de investimento. O assunto aparece no edital de Contabilidade Pública ao lado da NBC TSP 09 (ativo não gerador de caixa), e a banca adora pôr as duas lado a lado.\n\nO QUE A BANCA COBRA:\n1) A definição de ativo gerador de caixa (objetivo principal de gerar retorno comercial) e a presunção, nos casos de dúvida, de que o ativo público é não gerador de caixa, aplicando-se a NBC TSP 09.\n2) O conceito de valor recuperável: o MAIOR entre o valor justo líquido de despesas de venda e o valor em uso; e a desnecessidade de calcular os dois quando um deles já supera o valor contábil.\n3) Os indícios de perda, separados em fontes externas e internas, e o fato de a lista ser mínima e não exaustiva.\n4) A unidade geradora de caixa (UGC): conceito, quando usá-la e como ratear a perda.\n5) Reconhecimento no resultado, com a exceção do ativo reavaliado; ajuste da depreciação futura; reversão e seu teto; impossibilidade de reverter perda do ágio (goodwill).\n6) Divulgação dos critérios usados para distinguir ativos geradores e não geradores de caixa.\n\nENTENDA:\n1) Alcance e lugar da norma\nA NBC TSP 10 (R1) aplica-se, pela entidade que elabora demonstrações pelo regime de competência, à redução ao valor recuperável (o impairment) de ativos geradores de caixa. Ficam fora do seu alcance, entre outros, os estoques (tratados pela NBC TSP 04), os ativos decorrentes de acordos vinculativos reconhecidos pela NBC TSP 39 e a maior parte dos ativos financeiros, que têm regras próprias. A norma é aplicada, por exemplo, ao ativo imobilizado e ao intangível mantidos com finalidade comercial. Ela convive com a NBC TSP 09, que cuida dos ativos não geradores de caixa, ou seja, aqueles mantidos primordialmente para prestar serviços. A escolha entre uma e outra não depende da natureza física do bem, e sim do objetivo com que a entidade o mantém.\n\n2) O que é ativo gerador de caixa\nAtivo gerador de caixa é o mantido com o objetivo principal de gerar retorno comercial, isto é, empregado de modo consistente com o de uma entidade com fins lucrativos: a entidade pretende obter fluxos de caixa positivos e um retorno que remunere o risco de manter o ativo. Dois detalhes caem em prova. Primeiro, o ativo continua gerador de caixa mesmo que, num período específico, não alcance o retorno esperado; inversamente, o ativo não vira gerador de caixa só porque, num ano, atingiu o ponto de equilíbrio. Segundo, quando o mesmo ativo atende fins comerciais e não comerciais (o hospital com nove alas de pacientes particulares e uma de atendimento gratuito, no exemplo da própria norma), avalia-se a extensão do uso comercial: se o componente não gerador de caixa for insignificante, aplica-se a NBC TSP 10. Quando não estiver claro qual o objetivo principal, a norma exige julgamento profissional, com critérios consistentes que devem ser divulgados; e, dados os objetivos gerais das entidades do setor público, presume-se que o ativo é NÃO gerador de caixa, aplicando-se a NBC TSP 09. Essa presunção é um dos pontos mais cobrados.\n\n3) Quando testar\nEm cada data das demonstrações contábeis, a entidade avalia se há indicação de que o ativo possa ter perdido valor; havendo indicação, estima o valor recuperável. Sem indício, não há teste, com uma exceção importante: o ativo intangível com vida útil indefinida e o intangível ainda não disponível para uso devem ser testados ao menos uma vez por ano, independentemente de indícios, na mesma época todos os anos. A materialidade também opera: se cálculos anteriores mostraram folga ampla entre valor recuperável e valor contábil e nada de relevante mudou, não é preciso refazer a estimativa.\n\n4) Indícios de perda\nA norma lista, como mínimo, indícios de duas origens. Fontes externas: queda do valor de mercado do ativo significativamente maior que a esperada pela passagem do tempo ou pelo uso normal; mudanças adversas significativas no ambiente tecnológico, de mercado, econômico ou legal; aumento das taxas de juros de mercado que afete a taxa de desconto do valor em uso e reduza significativamente o valor recuperável. Fontes internas: evidência de obsolescência ou dano físico; mudanças adversas na forma de uso (ativo ocioso, planos de descontinuidade, reestruturação, alienação antecipada); relatórios internos indicando desempenho econômico pior que o esperado, como custos de operação muito acima do orçado, fluxos de caixa líquidos piores que os orçados ou déficits recorrentes. A lista não é exaustiva: outros sinais podem justificar o teste. Note a diferença com a NBC TSP 09, cujos indícios giram em torno do potencial de serviço (por exemplo, cessação ou quase cessação da demanda pelos serviços), e não da geração de caixa.\n\n5) Valor recuperável\nValor recuperável é o maior montante entre o valor justo líquido de despesas de venda e o valor em uso. A lógica é a de um gestor racional: ele vende o ativo se vendê-lo vale mais, ou continua a usá-lo se usá-lo vale mais. Por isso, basta que um dos dois valores supere o valor contábil para concluir que não há perda, sem necessidade de calcular o outro. Se não houver base confiável para estimar o valor de venda, usa-se o valor em uso. O valor em uso do ativo gerador de caixa é o valor presente dos fluxos de caixa futuros esperados do uso contínuo e da alienação ao final da vida útil. As projeções devem partir de premissas razoáveis e suportáveis, considerar o ativo no estado atual (sem melhorias futuras nem reestruturações ainda não comprometidas), excluir fluxos de financiamento e de tributos sobre o resultado, e ser descontadas a uma taxa antes dos tributos que reflita o valor do dinheiro no tempo e os riscos específicos do ativo. Aqui mora a diferença essencial em relação à NBC TSP 09: lá, o valor em uso mede o potencial de serviço remanescente (por abordagens como custo de reposição depreciado, custo de restauração ou unidades de serviço); aqui, mede fluxo de caixa descontado.\n\n6) Reconhecimento e mensuração da perda\nSe, e somente se, o valor recuperável for menor que o valor contábil, o valor contábil é reduzido ao valor recuperável; a diferença é a perda por redução ao valor recuperável. Regra geral, a perda vai imediatamente ao resultado do período. Na versão (R1), se o ativo estiver registrado por valor reavaliado (modelo de valor corrente das NBC TSP 08 e 37), a perda é tratada primeiro como redução da reserva de reavaliação, até o limite dessa reserva; o excesso vai ao resultado. Depois do reconhecimento, a depreciação futura é recalculada para distribuir o novo valor contábil, menos o valor residual, pela vida útil remanescente.\n\nExemplo numérico. Um município explora com tarifa um terminal de cargas registrado por R$ 10.000.000, com depreciação acumulada de R$ 2.000.000 (valor contábil de R$ 8.000.000) e vida útil remanescente de 10 anos, sem valor residual. Uma nova rodovia desviou parte do tráfego (indício externo). O valor justo líquido de despesas de venda é estimado em R$ 5.500.000; o valor presente dos fluxos de caixa esperados, em R$ 6.200.000. O valor recuperável é R$ 6.200.000 (o maior dos dois). A perda é de R$ 1.800.000 (8.000.000 − 6.200.000), lançada no resultado se o ativo não for reavaliado. A depreciação anual passa de R$ 800.000 para R$ 620.000.\n\n7) Unidade geradora de caixa\nSe não for possível estimar o valor recuperável do ativo individual, porque ele não gera entradas de caixa em grande parte independentes, a entidade determina o valor recuperável da UGC a que o ativo pertence. UGC é o menor grupo identificável de ativos, mantido para gerar retorno comercial, cujas entradas de caixa pelo uso contínuo são em grande parte independentes das de outros ativos. A perda da UGC é alocada aos ativos geradores de caixa da unidade proporcionalmente aos seus valores contábeis, mas nenhum ativo pode ficar abaixo do maior entre seu valor justo líquido de despesas de venda (se determinável), seu valor em uso (se determinável) e zero; a parcela que não couber é redistribuída aos demais. Quando um ativo não gerador de caixa contribui para a UGC, parte do seu valor contábil é alocada à unidade antes do teste. A versão (R1) incorpora ainda a disciplina do ágio por expectativa de rentabilidade futura, que, para fins de impairment, é considerado ativo gerador de caixa e é testado no menor grupo de UGCs ao qual foi alocado.\n\n8) Reversão\nEm cada data de demonstrações, a entidade verifica se há indício de que a perda reconhecida antes deixou de existir ou diminuiu; os indícios espelham, invertidos, os de perda. A reversão só ocorre se tiver havido mudança nas estimativas usadas para determinar o valor recuperável; a mera passagem do tempo (o desconto que se desfaz) não basta. O teto é rigoroso: o valor contábil revertido não pode passar do valor contábil que existiria, líquido de depreciação, se a perda nunca tivesse sido reconhecida. O que ultrapassar esse teto é reavaliação, regida pela norma própria do ativo. A reversão vai ao resultado, salvo no ativo reavaliado, em que aumenta a reserva de reavaliação (exceto na parte que reverte perda antes levada ao resultado). Perda reconhecida sobre o ágio não pode ser revertida. Continuando o exemplo: se, dois anos depois, a rodovia for interditada e o valor recuperável subir, o terminal não poderá ultrapassar o valor contábil que teria sem a perda (R$ 8.000.000 − 2 × 800.000 = R$ 6.400.000).\n\n9) Reclassificação e divulgação\nA passagem de ativo gerador para não gerador de caixa, ou o inverso, só ocorre com clara evidência de que é adequada e não dispara, por si só, teste ou reversão; na data seguinte, porém, a entidade considera os indícios mínimos. Exemplo da norma: estação de efluentes construída para atender indústria com cobrança comercial, reclassificada como não geradora quando a indústria fecha e o local passa a ter destinação habitacional social. Na divulgação, a entidade informa os critérios usados para separar ativos geradores e não geradores de caixa, os valores de perdas e reversões reconhecidos no resultado por classe de ativos e as linhas da demonstração em que aparecem, além de eventos e circunstâncias que levaram a perdas ou reversões relevantes.\n\n10) Olhar do controle externo\nNa auditoria financeira de estatais e de entes com ativos comerciais, o auditor confere se há política escrita para classificar ativos como geradores ou não geradores de caixa, se os indícios foram avaliados na data do balanço, se as premissas de fluxo de caixa são coerentes com orçamentos aprovados e se a taxa de desconto reflete o risco. Ausência de teste diante de indícios evidentes (ativo ocioso, contrato de exploração rescindido, queda brusca de receita tarifária) gera distorção de superavaliação do ativo e do patrimônio líquido, que pode fundamentar ressalva na opinião sobre as demonstrações.",
+   "flashcards": [
+    {
+     "frente": "Ativo gerador de caixa",
+     "verso": "Mantido com o objetivo principal de gerar retorno comercial, como faria uma entidade com fins lucrativos.",
+     "dispositivo": "NBC TSP 10 (R1)"
+    },
+    {
+     "frente": "Na dúvida, qual norma?",
+     "verso": "Presume-se ativo não gerador de caixa: aplica-se a NBC TSP 09.",
+     "dispositivo": "NBC TSP 10 (R1)"
+    },
+    {
+     "frente": "Valor recuperável",
+     "verso": "Maior entre valor justo líquido de despesas de venda e valor em uso (fluxos de caixa descontados).",
+     "dispositivo": "NBC TSP 10 (R1)"
+    },
+    {
+     "frente": "Teste anual obrigatório",
+     "verso": "Intangível de vida útil indefinida ou ainda não disponível para uso, com ou sem indício.",
+     "dispositivo": "NBC TSP 10 (R1)"
+    },
+    {
+     "frente": "Teto da reversão",
+     "verso": "Valor contábil que existiria, líquido de depreciação, sem a perda; o excesso é reavaliação.",
+     "dispositivo": "NBC TSP 10 (R1)"
+    },
+    {
+     "frente": "Unidade geradora de caixa",
+     "verso": "Menor grupo identificável de ativos com entradas de caixa em grande parte independentes; perda rateada proporcionalmente, com piso por ativo.",
+     "dispositivo": "NBC TSP 10 (R1)"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "Segundo a NBC TSP 10 (R1), valor recuperável é o menor montante entre o valor justo líquido de despesas de venda e o valor em uso do ativo gerador de caixa.",
+     "gabarito": "E",
+     "comentario": "Errado. É o MAIOR dos dois: o gestor racional vende ou continua usando, conforme o que render mais.",
+     "dispositivo": "NBC TSP 10 (R1), definições",
+     "id": "tceac-nuvem-nbc-tsp-10-n2-q01"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Em caso de dúvida sobre se o objetivo principal de manter um ativo é gerar retorno comercial, presume-se, dados os objetivos gerais das entidades do setor público, que o ativo é não gerador de caixa, aplicando-se a NBC TSP 09.",
+     "gabarito": "C",
+     "comentario": "Certo. A norma exige julgamento com critérios consistentes e, na dúvida, presume o ativo como não gerador de caixa.",
+     "dispositivo": "NBC TSP 10 (R1), ativos geradores de caixa",
+     "id": "tceac-nuvem-nbc-tsp-10-n2-q02"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Para concluir que não há perda por redução ao valor recuperável, a entidade deve sempre calcular tanto o valor justo líquido de despesas de venda quanto o valor em uso.",
+     "gabarito": "E",
+     "comentario": "Errado. Se qualquer um deles superar o valor contábil, não há perda e não é preciso estimar o outro.",
+     "dispositivo": "Mensuração do valor recuperável",
+     "id": "tceac-nuvem-nbc-tsp-10-n2-q03"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "O ativo intangível com vida útil indefinida deve ser testado quanto à redução ao valor recuperável ao menos anualmente, ainda que não haja indicação de perda.",
+     "gabarito": "C",
+     "comentario": "Certo. É a exceção à regra de testar só diante de indícios; vale também para o intangível ainda não disponível para uso.",
+     "dispositivo": "Identificação de ativo que possa ser objeto de redução",
+     "id": "tceac-nuvem-nbc-tsp-10-n2-q04"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "A reversão de perda por redução ao valor recuperável pode elevar o valor contábil do ativo acima do valor que ele teria, líquido de depreciação, caso a perda não tivesse sido reconhecida, desde que o valor recuperável o justifique.",
+     "gabarito": "E",
+     "comentario": "Errado. Esse é o teto da reversão; o excesso, se houver, é reavaliação, regida pela norma do próprio ativo.",
+     "dispositivo": "Reversão da perda de ativo individual",
+     "id": "tceac-nuvem-nbc-tsp-10-n2-q05"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "A perda por redução ao valor recuperável reconhecida sobre o ágio por expectativa de rentabilidade futura pode ser revertida em período posterior, se o valor recuperável da unidade geradora de caixa aumentar.",
+     "gabarito": "E",
+     "comentario": "Errado. A versão (R1) veda a reversão de perda reconhecida sobre o ágio.",
+     "dispositivo": "NBC TSP 10 (R1), reversão do ágio",
+     "id": "tceac-nuvem-nbc-tsp-10-n2-q06"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Ativo gerador de caixa com valor contábil de R$ 900 mil apresenta valor justo líquido de despesas de venda de R$ 700 mil e valor em uso de R$ 760 mil. Não há reavaliação. Assinale a opção correta.",
+     "gabarito": "C",
+     "alternativas": {
+      "A": "Não há perda, pois o valor em uso é positivo.",
+      "B": "Reconhece-se perda de R$ 200 mil no resultado.",
+      "C": "Reconhece-se perda de R$ 140 mil no resultado.",
+      "D": "Reconhece-se perda de R$ 140 mil diretamente no patrimônio líquido.",
+      "E": "Reconhece-se perda de R$ 170 mil, pela média dos dois valores."
+     },
+     "comentario": "Valor recuperável = maior entre 700 e 760 = 760. Perda = 900 − 760 = 140 mil, no resultado, pois o ativo não é reavaliado.",
+     "dispositivo": "Reconhecimento e mensuração da perda",
+     "id": "tceac-nuvem-nbc-tsp-10-n2-q07"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Uma unidade geradora de caixa, com valor contábil total de R$ 1.000 mil (ativo X: R$ 600 mil; ativo Y: R$ 400 mil), tem valor recuperável de R$ 800 mil. O valor justo líquido de despesas de venda de Y é de R$ 360 mil; o de X não é determinável. Assinale a opção correta quanto à alocação da perda.",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "X absorve R$ 120 mil e Y, R$ 80 mil.",
+      "B": "Y absorve R$ 40 mil e X, R$ 160 mil.",
+      "C": "X absorve toda a perda de R$ 200 mil.",
+      "D": "Y absorve toda a perda, por ter valor de venda conhecido.",
+      "E": "A perda não é alocada, sendo reconhecida apenas no nível da unidade."
+     },
+     "comentario": "Rateio proporcional daria Y −80 (ficaria em 320), abaixo do piso de 360. Y absorve só 40; os 40 restantes vão a X, que absorve 120 + 40 = 160.",
+     "dispositivo": "Perda da unidade geradora de caixa (piso do ativo individual)",
+     "id": "tceac-nuvem-nbc-tsp-10-n2-q08"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Valor recuperável é o ___ entre o valor justo líquido de despesas de venda e o valor em ___.",
+     "opcoes": [
+      "maior",
+      "menor",
+      "uso",
+      "mercado",
+      "reposição",
+      "custo"
+     ],
+     "respostas": [
+      "maior",
+      "uso"
+     ],
+     "explicacao": "No ativo gerador de caixa, o valor em uso é o valor presente dos fluxos de caixa futuros."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Queda anormal do valor de mercado",
+       "Indício de fonte externa"
+      ],
+      [
+       "Ativo ocioso ou plano de descontinuidade",
+       "Indício de fonte interna"
+      ],
+      [
+       "Alta das taxas de juros de mercado",
+       "Indício externo que afeta a taxa de desconto"
+      ],
+      [
+       "Fluxos de caixa piores que os orçados",
+       "Evidência de relatório interno"
+      ],
+      [
+       "Potencial de serviço remanescente",
+       "Base do valor em uso na NBC TSP 09"
+      ]
+     ]
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene as etapas do teste de um ativo gerador de caixa.",
+     "itens": [
+      "Avaliar indícios na data das demonstrações",
+      "Estimar o valor recuperável (ativo ou UGC)",
+      "Comparar com o valor contábil",
+      "Reconhecer a perda no resultado ou na reserva de reavaliação",
+      "Recalcular a depreciação pela vida útil remanescente"
+     ],
+     "explicacao": "Sem indício não há teste, salvo os intangíveis sujeitos a teste anual."
+    },
+    {
+     "tipo": "caso_pratico",
+     "enunciado": "Questão discursiva: Em auditoria financeira de companhia estadual de armazéns, a equipe verificou que um armazém com valor contábil de R$ 12 milhões está ocioso há dois anos após o fim do contrato de arrendamento, sem que a entidade tenha estimado seu valor recuperável. A administração alega que bens públicos não sofrem impairment. Avalie a alegação e indique as consequências para a opinião de auditoria.",
+     "resposta": "A alegação não procede. O armazém era mantido para gerar retorno comercial, portanto é ativo gerador de caixa sujeito à NBC TSP 10 (R1). A ociosidade e o fim do contrato são indícios internos de perda, que obrigam a estimar o valor recuperável (maior entre valor justo líquido de despesas de venda e valor em uso) e a reconhecer a perda se ele for inferior ao valor contábil. Se houver clara evidência de mudança de destinação para uso não comercial, cabe reclassificação para não gerador de caixa e aplicação da NBC TSP 09, mas não a dispensa do teste. A ausência de teste superavalia o ativo e o patrimônio líquido; conforme a relevância, a distorção fundamenta opinião com ressalva ou adversa, além de recomendação de política formal de classificação e teste.",
+     "dispositivo": "NBC TSP 10 (R1); NBC TSP 09"
+    }
+   ]
+  }
+ ]
+}

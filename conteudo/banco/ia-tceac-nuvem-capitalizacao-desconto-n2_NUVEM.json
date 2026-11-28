@@ -1,0 +1,203 @@
+{
+ "assunto": "Economia do Setor Público – Capitalização e desconto",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-28",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-nuvem-capitalizacao-desconto-n2",
+   "titulo": "Capitalização e desconto: do valor futuro ao valor presente, sem confundir racional e comercial",
+   "microconteudo": "RAIO-X DA PROVA: O Cebraspe cobra a escolha correta do regime (simples, composto ou contínuo), a diferença entre desconto racional (taxa sobre o valor atual) e comercial (taxa sobre o nominal), a relação Dc = Dr(1 + i·n), a taxa efetiva do desconto comercial (sempre maior que a taxa de desconto) e a equivalência de capitais, inclusive em casos de antecipação de receitas e cessão de créditos públicos.\n\nPOR QUE IMPORTA:\nCapitalização e desconto são as duas faces da mesma operação: levar um valor do presente para o futuro (capitalizar) ou trazê-lo do futuro para o presente (descontar). Quem audita contas públicas encontra essa conta em toda parte. Um município que antecipa royalties ou recebíveis de um fundo, um estado que cede créditos da dívida ativa a investidores, um regime próprio que compra títulos com deságio, uma concessão cuja proposta vencedora é avaliada pelo valor presente dos pagamentos ao poder concedente, um credor que vende seu precatório com desconto: em todos esses casos, o que se discute é se o valor pago hoje corresponde, a uma taxa razoável, ao valor que se receberia depois. Errar o regime (simples ou composto) ou confundir desconto racional com comercial muda o resultado em milhares, às vezes milhões, de reais, e pode esconder uma operação de crédito disfarçada ou um deságio excessivo que lesa o erário.\n\nO QUE A BANCA COBRA:\n• Diferença entre capitalização simples, composta e contínua, e qual delas rende mais em cada prazo.\n• Montante e valor presente; equivalência de capitais em datas diferentes.\n• Desconto racional (por dentro) e desconto comercial (por fora, bancário), no regime simples e no composto.\n• A relação Dc = Dr × (1 + i·n) no desconto simples e o fato de o desconto comercial ser sempre maior que o racional, à mesma taxa e prazo.\n• Taxa efetiva do desconto comercial: a taxa de desconto não é a taxa de juros que o tomador realmente paga.\n• Armadilhas: desconto comercial simples que zera ou torna negativo o valor atual em prazos longos; uso de data focal no regime simples; desconto composto comercial confundido com racional.\n• Aplicações no controle externo: antecipação de receitas, cessão de créditos, precatórios e avaliação de propostas.\n\nENTENDA:\n1) Os três regimes de capitalização\nCapitalizar é incorporar juros ao capital. No regime simples, os juros de cada período incidem só sobre o capital inicial: M = C·(1 + i·n). No composto, os juros de cada período incorporam-se ao saldo e passam a render juros: M = C·(1 + i)^n. Na capitalização contínua, a incorporação ocorre a cada instante, e o montante é M = C·e^(i·n), em que e ≈ 2,71828.\nExemplo: R$ 10.000 aplicados a 2% ao mês por 6 meses produzem R$ 11.200 no simples, cerca de R$ 11.261,62 no composto e cerca de R$ 11.274,97 na capitalização contínua. Para prazos maiores que um período, o composto supera o simples; para prazos menores que um período, ocorre o inverso (o simples rende mais), e em exatamente um período os dois coincidem. A contínua é o limite superior do composto quando a capitalização fica cada vez mais frequente: 10% ao ano capitalizados continuamente equivalem a cerca de 10,52% ao ano efetivos (e^0,10 − 1).\nA conversão entre taxas nominais, efetivas e equivalentes é assunto próprio; aqui basta lembrar que toda operação deve usar taxa e prazo na mesma unidade de tempo.\n\n2) Valor presente e equivalência de capitais\nValor presente (ou valor atual) é o capital que, aplicado à taxa dada, alcança o valor futuro no prazo dado. No composto, VP = VF ÷ (1 + i)^n. Dois capitais em datas diferentes são equivalentes, a uma taxa, quando levados à mesma data (data focal) têm o mesmo valor. No regime composto, a equivalência independe da data focal escolhida; no simples, depende, e por isso as questões de juros simples costumam fixar a data focal.\nExemplo: uma dívida de R$ 5.000 vencendo em 3 meses e outra de R$ 8.000 vencendo em 6 meses podem ser trocadas por um pagamento único no mês 4. A 1% ao mês, em juros compostos, esse pagamento vale 5.000 × 1,01 + 8.000 ÷ 1,01² ≈ R$ 12.892,37. Os R$ 5.000 são capitalizados por um mês, e os R$ 8.000 são descontados por dois.\nRenegociar parcelamentos, consolidar dívidas ou comparar cronogramas de desembolso é sempre um exercício de equivalência: só é legítimo comparar valores depois de trazê-los à mesma data.\n\n3) Desconto: os elementos\nNa operação de desconto, há um título com valor nominal N (valor de face, devido no vencimento), resgatado antes do vencimento por um valor atual A (ou valor descontado, líquido). O desconto é D = N − A. A diferença entre as modalidades está na base sobre a qual a taxa incide.\n\n4) Desconto racional (por dentro)\nO desconto racional é o juro que o valor atual renderia até o vencimento. A taxa incide sobre o valor atual, e por isso ele é coerente com a lógica dos juros.\n• Simples: A = N ÷ (1 + i·n) e Dr = N·i·n ÷ (1 + i·n).\n• Composto: A = N ÷ (1 + i)^n; é exatamente o valor presente composto.\nExemplo: título de R$ 12.000, descontado 5 meses antes do vencimento a 2% ao mês. No racional simples, A = 12.000 ÷ 1,10 ≈ R$ 10.909,09 e Dr ≈ R$ 1.090,91. No racional composto, A = 12.000 ÷ 1,02^5 ≈ R$ 10.868,77 e D ≈ R$ 1.131,23.\n\n5) Desconto comercial (por fora, bancário)\nNo desconto comercial, a taxa (chamada taxa de desconto, d) incide sobre o valor nominal. É a prática tradicional de bancos no desconto de títulos.\n• Simples: Dc = N·d·n e A = N·(1 − d·n).\n• Composto: A = N·(1 − d)^n.\nNo mesmo exemplo, a 2% ao mês por 5 meses: Dc = 12.000 × 0,02 × 5 = R$ 1.200 e A = R$ 10.800 (simples); no composto comercial, A = 12.000 × 0,98^5 ≈ R$ 10.847,05 e D ≈ R$ 1.152,95.\nDuas conclusões. Primeira: à mesma taxa e prazo, o desconto comercial é maior que o racional, porque incide sobre base maior (N > A). Segunda: no desconto comercial simples, se d·n ≥ 1, o valor atual é zero ou negativo (a 4% ao mês por 25 meses, A = N × 0), resultado absurdo que mostra que o modelo só é aplicável a prazos curtos.\n\n6) A relação entre os descontos simples\nNo regime simples vale Dc = Dr·(1 + i·n), com a mesma taxa e prazo. No exemplo, 1.090,91 × 1,10 = 1.200. Também vale Dc − Dr = Dr·i·n: a diferença entre os dois descontos é o juro simples do desconto racional no prazo. Essas relações permitem resolver, sem conhecer N, questões que fornecem apenas os dois descontos ou um deles e a taxa.\n\n7) Taxa efetiva do desconto comercial\nQuem desconta um título a 2% ao mês \"por fora\" não paga 2% ao mês de juros. No exemplo, o tomador recebe R$ 10.800 e devolve R$ 12.000: pagou 1.200 sobre 10.800, ou seja, 11,11% no período. Em juros simples, isso equivale a cerca de 2,22% ao mês; em juros compostos, a (12.000 ÷ 10.800)^(1/5) − 1 ≈ 2,13% ao mês. No desconto comercial composto, a taxa efetiva por período é i = d ÷ (1 − d): a 2% de desconto, cerca de 2,04% de juros por mês.\nA regra que o Cebraspe adora: a taxa efetiva de juros de uma operação de desconto comercial é sempre maior que a taxa de desconto anunciada. Tarifas e tributos cobrados no ato (como o IOF) reduzem ainda mais o valor líquido e elevam o custo efetivo; por isso a análise correta usa o valor efetivamente creditado.\n\n8) Aplicações no setor público\n• Antecipação de receitas e de recebíveis: quando o ente recebe hoje, com deságio, valores que só lhe seriam pagos no futuro, o deságio é um custo financeiro. O auditor deve calcular a taxa efetiva implícita, comparando o valor recebido com o fluxo cedido, e verificar se a operação tem natureza de operação de crédito sujeita às regras da Lei de Responsabilidade Fiscal; a qualificação jurídica depende das cláusulas (sobretudo de quem suporta o risco de não pagamento) e não deve ser presumida só pela conta.\n• Cessão da dívida ativa: suponha carteira de R$ 50 milhões com expectativa de recuperação de 40% em 12 meses e 60% em 36 meses. A 1% ao mês, o valor presente desse fluxo é de cerca de R$ 38,7 milhões. Uma cessão por valor muito inferior precisa de justificativa (risco de inadimplência, custo de cobrança); a análise começa pelo valor presente, não pelo valor de face.\n• Precatórios: o credor que vende seu crédito a um fundo recebe valor atual descontado. Um precatório de R$ 1 milhão com pagamento esperado em 18 meses vale, a 0,9% ao mês, cerca de R$ 851 mil hoje. Para o ente, acordos de pagamento com deságio e a compensação de créditos seguem regras constitucionais e legais próprias, que devem ser conferidas na norma vigente; o cálculo de equivalência serve para medir a economia efetiva obtida.\n• Concessões e PPPs: propostas com pagamentos de outorga ou contraprestações em datas diferentes só podem ser comparadas pelo valor presente, a uma taxa de desconto definida no edital ou no estudo de viabilidade. Três parcelas anuais de R$ 2 milhões valem, a 8% ao ano, cerca de R$ 5,15 milhões na data zero, e não R$ 6 milhões.\n• Atualização de débitos e créditos: capitalizar valores por índices e juros exige respeitar a norma específica (por exemplo, a Lei 14.905/2024 no direito civil, quando não houver convenção ou lei especial) e evitar a contagem dupla de inflação.\n\n9) Método de resolução\n(1) Identifique se a operação é de capitalização (presente → futuro) ou de desconto (futuro → presente). (2) Identifique o regime: simples ou composto. (3) No desconto, identifique a modalidade: racional (taxa sobre o valor atual) ou comercial (taxa sobre o nominal). (4) Uniformize taxa e prazo. (5) Aplique a fórmula e confira a coerência: o desconto comercial deve ser maior que o racional; a taxa efetiva do comercial, maior que a taxa de desconto; o valor atual, positivo e menor que o nominal.\n\n10) Discussão útil em prova discursiva\nValor presente não é mero detalhe técnico: é o critério que permite ao controle externo afirmar se houve economicidade (art. 70 da Constituição). Uma antecipação de receita com deságio aparentemente pequeno pode embutir taxa efetiva superior à de operações de crédito regulares; uma cessão de créditos pode transferir ao futuro um custo que o orçamento atual não mostra. A resposta bem construída identifica o fluxo, a taxa de desconto adequada, o regime de capitalização e a natureza jurídica da operação, e só então conclui.",
+   "flashcards": [
+    {
+     "frente": "Três regimes de capitalização",
+     "verso": "Simples: C(1 + i·n). Composto: C(1 + i)^n. Contínuo: C·e^(i·n).",
+     "dispositivo": "Matemática financeira"
+    },
+    {
+     "frente": "Desconto racional (por dentro)",
+     "verso": "Taxa sobre o valor atual. Simples: A = N/(1 + i·n). Composto: A = N/(1 + i)^n.",
+     "dispositivo": "Matemática financeira"
+    },
+    {
+     "frente": "Desconto comercial (por fora)",
+     "verso": "Taxa sobre o nominal. Simples: A = N(1 − d·n). Composto: A = N(1 − d)^n.",
+     "dispositivo": "Matemática financeira"
+    },
+    {
+     "frente": "Relação Dc x Dr (simples)",
+     "verso": "Dc = Dr·(1 + i·n); Dc − Dr = Dr·i·n.",
+     "dispositivo": "Matemática financeira"
+    },
+    {
+     "frente": "Taxa efetiva do desconto comercial",
+     "verso": "Sempre maior que a taxa de desconto. Composto: i = d/(1 − d).",
+     "dispositivo": "Matemática financeira"
+    },
+    {
+     "frente": "Equivalência de capitais",
+     "verso": "Valores comparados na mesma data focal; no composto, independe da data escolhida.",
+     "dispositivo": "Matemática financeira"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "Para prazos superiores a um período de capitalização, o montante obtido no regime de juros compostos é maior que o obtido no regime de juros simples, à mesma taxa.",
+     "gabarito": "C",
+     "comentario": "Certo. Acima de um período, a incorporação dos juros ao saldo faz o composto superar o simples; abaixo de um período, ocorre o inverso, e em exatamente um período os dois coincidem.",
+     "dispositivo": "Regimes de capitalização",
+     "id": "tceac-nuvem-capitalizacao-desconto-n2-q01"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "À mesma taxa e ao mesmo prazo, o desconto racional simples de um título é maior que o desconto comercial simples.",
+     "gabarito": "E",
+     "comentario": "Errado. O comercial incide sobre o valor nominal, base maior que o valor atual; logo Dc > Dr, com Dc = Dr·(1 + i·n).",
+     "dispositivo": "Desconto racional x comercial",
+     "id": "tceac-nuvem-capitalizacao-desconto-n2-q02"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Um título de R$ 20.000, descontado comercialmente 4 meses antes do vencimento à taxa de desconto simples de 3% ao mês, gera valor líquido de R$ 17.600, e a taxa efetiva de juros simples da operação no período é superior a 12%.",
+     "gabarito": "C",
+     "comentario": "Certo. Dc = 20.000 × 0,03 × 4 = 2.400; A = 17.600. Taxa efetiva no período = 2.400 ÷ 17.600 ≈ 13,64% > 12%.",
+     "dispositivo": "Taxa efetiva do desconto comercial",
+     "id": "tceac-nuvem-capitalizacao-desconto-n2-q03"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "No regime de juros compostos, a equivalência entre dois conjuntos de capitais, a uma mesma taxa, independe da data focal escolhida para a comparação.",
+     "gabarito": "C",
+     "comentario": "Certo. No composto, levar valores de uma data a outra é multiplicar ou dividir por (1 + i)^n, o que preserva a igualdade em qualquer data focal. No simples, a equivalência depende da data focal.",
+     "dispositivo": "Equivalência de capitais",
+     "id": "tceac-nuvem-capitalizacao-desconto-n2-q04"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "No desconto comercial simples, qualquer que seja o prazo de antecipação, o valor atual do título será positivo, desde que a taxa de desconto seja inferior a 100% ao período.",
+     "gabarito": "E",
+     "comentario": "Errado. A = N·(1 − d·n); se d·n ≥ 1, o valor atual é nulo ou negativo (por exemplo, 4% ao mês por 25 meses). O modelo só faz sentido em prazos curtos.",
+     "dispositivo": "Desconto comercial simples",
+     "id": "tceac-nuvem-capitalizacao-desconto-n2-q05"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "No desconto comercial composto à taxa de desconto d por período, a taxa efetiva de juros compostos por período é d ÷ (1 − d), sempre superior a d.",
+     "gabarito": "C",
+     "comentario": "Certo. A = N·(1 − d)^n implica N/A = [1/(1 − d)]^n, logo i = 1/(1 − d) − 1 = d/(1 − d) > d. A 2%, cerca de 2,04%.",
+     "dispositivo": "Desconto comercial composto",
+     "id": "tceac-nuvem-capitalizacao-desconto-n2-q06"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Um título de R$ 10.000 é descontado 3 meses antes do vencimento, com desconto racional composto à taxa de 1% ao mês. O valor do desconto é, aproximadamente,",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "R$ 294,10.",
+      "B": "R$ 300,00.",
+      "C": "R$ 291,26.",
+      "D": "R$ 297,01.",
+      "E": "R$ 303,01."
+     },
+     "comentario": "N ÷ 1,01³ ≈ 9.705,90; desconto ≈ 294,10. A opção de R$ 300 corresponde ao comercial simples, e R$ 291,26 seria obtido aplicando a taxa de forma indevida.",
+     "dispositivo": "Desconto racional composto",
+     "id": "tceac-nuvem-capitalizacao-desconto-n2-q07"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Um estado avalia ceder carteira de créditos inscritos em dívida ativa cujo fluxo esperado de recuperação é de R$ 20 milhões em 12 meses e R$ 30 milhões em 36 meses. Considerando juros compostos de 1% ao mês como taxa de desconto, assinale a opção correta.",
+     "gabarito": "D",
+     "alternativas": {
+      "A": "O preço justo da cessão é R$ 50 milhões, valor de face da carteira.",
+      "B": "O valor presente do fluxo é de cerca de R$ 44 milhões, aplicando juros simples de 12% e 36%.",
+      "C": "Qualquer preço inferior ao valor de face configura, por si só, dano ao erário.",
+      "D": "O valor presente do fluxo esperado é de cerca de R$ 38,7 milhões, referência inicial para avaliar o preço da cessão.",
+      "E": "O valor presente não depende da taxa de desconto adotada."
+     },
+     "comentario": "VP = 20 ÷ 1,01¹² + 30 ÷ 1,01³⁶ ≈ 17,75 + 20,97 ≈ 38,7 milhões. O valor de face (50 milhões) não é parâmetro de economicidade; a análise parte do valor presente do fluxo esperado, ajustado pelo risco.",
+     "dispositivo": "Valor presente; cessão de créditos",
+     "id": "tceac-nuvem-capitalizacao-desconto-n2-q08"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "No desconto ___ a taxa incide sobre o valor atual; no desconto ___ a taxa incide sobre o valor nominal.",
+     "opcoes": [
+      "racional",
+      "comercial",
+      "composto",
+      "contínuo",
+      "nominal",
+      "efetivo"
+     ],
+     "respostas": [
+      "racional",
+      "comercial"
+     ],
+     "explicacao": "Racional = por dentro (base: valor atual); comercial = por fora (base: valor de face)."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "R$ 10.000 a 2% a.m., 6 meses, simples",
+       "R$ 11.200"
+      ],
+      [
+       "R$ 10.000 a 2% a.m., 6 meses, composto",
+       "≈ R$ 11.261,62"
+      ],
+      [
+       "R$ 12.000, 5 meses, 2% a.m., comercial simples",
+       "Valor atual R$ 10.800"
+      ],
+      [
+       "R$ 12.000, 5 meses, 2% a.m., racional simples",
+       "Valor atual ≈ R$ 10.909,09"
+      ],
+      [
+       "10% a.a. capitalização contínua",
+       "≈ 10,52% a.a. efetivos"
+      ]
+     ]
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o método para resolver uma questão de desconto.",
+     "itens": [
+      "Identificar o sentido: capitalização ou desconto",
+      "Identificar o regime: simples ou composto",
+      "Identificar a modalidade: racional ou comercial",
+      "Uniformizar taxa e prazo",
+      "Aplicar a fórmula e conferir a coerência do resultado"
+     ],
+     "explicacao": "A conferência final evita resultados absurdos, como valor atual negativo ou desconto racional maior que o comercial."
+    },
+    {
+     "tipo": "caso_pratico",
+     "enunciado": "Questão discursiva: Município antecipou, junto a instituição financeira, R$ 6 milhões de receitas de royalties que receberia em três parcelas anuais de R$ 2 milhões, recebendo hoje R$ 4,5 milhões. O gestor alega que a operação foi vantajosa porque 'não gerou juros'. Avalie.",
+     "resposta": "Houve custo financeiro: o deságio de R$ 1,5 milhão é o desconto da operação. A 8% ao ano, o valor presente das três parcelas seria de cerca de R$ 5,15 milhões; receber R$ 4,5 milhões implica taxa efetiva bem superior, que deve ser calculada e comparada com o custo de operações de crédito regulares para aferir a economicidade (art. 70 da CF). Além disso, deve-se examinar se, pelas cláusulas (especialmente a assunção do risco de não pagamento), a operação tem natureza de operação de crédito sujeita aos limites e condições da LRF. A afirmação de que 'não houve juros' confunde desconto com ausência de custo.",
+     "dispositivo": "Valor presente; CF, art. 70; LC 101/2000"
+    }
+   ]
+  }
+ ]
+}

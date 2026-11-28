@@ -1,0 +1,202 @@
+{
+ "assunto": "Contabilidade Pública – NBC TSP 13 (R1): informação orçamentária nas demonstrações contábeis",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-28",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-nuvem-nbc-tsp-13-n2",
+   "titulo": "NBC TSP 13 (R1) a fundo: orçado x realizado, base comparável e conciliação com o Balanço Orçamentário",
+   "microconteudo": "RAIO-X DA PROVA: O Cebraspe explora a ideia de que a norma obrigaria a publicar orçamento (não obriga), o uso de colunas adicionais sem base comum (vedado), a confusão entre orçamento original e final e as três diferenças da conciliação (regime, temporal e entidade), além da correspondência com dotação inicial/atualizada e empenho no Balanço Orçamentário.\n\nPOR QUE IMPORTA:\nO orçamento é a lei que autoriza o gestor a arrecadar e a gastar. As demonstrações contábeis por competência, sozinhas, mostram patrimônio, desempenho e fluxos de caixa, mas não respondem à pergunta que o Legislativo, o tribunal de contas e o cidadão fazem primeiro: o governo cumpriu o que foi autorizado? A NBC TSP 13 (R1), convergida com a IPSAS 24, obriga a entidade que torna público o seu orçamento a apresentar, nas próprias demonstrações, a comparação entre o orçado e o realizado e a explicar as diferenças relevantes. Para quem julga contas, essa norma é a ponte entre dois mundos que convivem no Brasil: a contabilidade patrimonial, pelas NBC TSP, e a execução orçamentária regida pela Lei 4.320/1964, pela LRF e pelo MCASP. Quem domina essa ponte consegue ler um parecer prévio sobre contas de governo e identificar, por exemplo, quando um superávit orçamentário convive com deterioração patrimonial, ou quando a diferença entre orçamento e realizado decorre só de regime contábil, e não de má gestão.\n\nO QUE A BANCA COBRA:\n• O objetivo da norma: demonstrar conformidade com o orçamento aprovado e, quando houver mesma base, permitir avaliar desempenho.\n• O alcance: a norma não obriga ninguém a publicar o orçamento; obriga quem o torna público a fazer a comparação.\n• As definições de orçamento original, orçamento final, orçamento aprovado, anual e plurianual, regime orçamentário e base comparável.\n• O conteúdo mínimo da comparação: original, final, realizado em base comparável e explicação das diferenças materiais.\n• A forma: demonstração adicional ou colunas adicionais nas demonstrações, estas só quando orçamento e demonstrações estiverem na mesma base.\n• A conciliação entre o realizado em base orçamentária e os valores das demonstrações, separando diferenças de regime, temporais e de entidade.\n• A relação com o Balanço Orçamentário (Lei 4.320/1964 e MCASP) e com o regime misto brasileiro (receita arrecadada e despesa empenhada).\n• Pegadinhas sobre diferença entre orçamento original e final, que não é \"variação de execução\", e sobre regime de caixa no orçamento.\n\nENTENDA:\n1) Contexto normativo. O CFC revisou todo o conjunto de NBC TSP convergidas para alinhá-lo ao manual do IPSASB, e a NBC TSP 13 (R1) faz parte dessa revisão, substituindo a NBC TSP 13 de 2018. A essência foi mantida: comparar orçado e realizado, explicar diferenças e conciliar com as demonstrações. Em prova, use a redação R1, mas saiba que o raciocínio é o mesmo da versão anterior. A norma dialoga com a NBC TSP 11 (R1), sobre apresentação das demonstrações, e com a NBC TSP Estrutura Conceitual, que coloca a prestação de contas (accountability) e a tomada de decisão como objetivos da informação contábil do setor público.\n\n2) Objetivo: duas finalidades distintas. A primeira é de conformidade: mostrar que os recursos foram obtidos e usados de acordo com o que o Legislativo autorizou. A segunda é de desempenho, e só existe plenamente quando orçamento e demonstrações estão na mesma base: aí o usuário consegue comparar o planejado com o efetivamente entregue em termos econômicos. Essa distinção é fina e cai em questão: a comparação sempre serve à conformidade; à avaliação de desempenho, apenas quando há base comum.\n\n3) Alcance. A norma se aplica a entidades que elaboram demonstrações pelo regime de competência e que são obrigadas, ou optam, por tornar público o orçamento aprovado. Ela não manda publicar orçamento. Mas, se a entidade publica, deve comparar. No Brasil, a publicidade orçamentária decorre da Constituição (arts. 165 e 166), da Lei 4.320/1964 e da LRF (transparência fiscal), de modo que União, estados, Distrito Federal, municípios, autarquias e fundações estão alcançados. Empresas estatais dependentes que integram o orçamento fiscal também entram no perímetro da execução orçamentária.\n\n4) Definições essenciais.\n• Orçamento original: o primeiro aprovado para o período. Se a lei orçamentária não for aprovada antes do início do exercício, considera-se original o primeiro orçamento aprovado para execução naquele ano.\n• Orçamento final: o original ajustado por todas as alterações autorizadas — créditos adicionais (suplementares, especiais, extraordinários), transferências, remanejamentos, reservas.\n• Orçamento aprovado: a autorização de despesa derivada de lei ou instrumento equivalente, com a alocação das receitas estimadas.\n• Orçamento anual e plurianual: o anual cobre o exercício; o plurianual, período maior. No Brasil, o PPA planeja programas por quatro anos, mas a autorização de gasto continua sendo a LOA anual.\n• Regime orçamentário: o adotado no orçamento aprovado — caixa, competência ou modificado.\n• Base comparável: realizado apresentado no mesmo regime, mesma classificação, mesmas entidades e mesmo período do orçamento.\n\n5) Conteúdo mínimo da comparação. Para cada nível de supervisão legislativa, a entidade apresenta: (a) orçamento original e orçamento final; (b) valores realizados em base comparável; (c) explicação, em nota, das diferenças materiais entre o orçamento pelo qual responde e o realizado. Atenção ao item (c): a explicação recai sobre a diferença entre orçamento e realizado. Já a diferença entre original e final é explicada para que o usuário entenda se decorreu de realocação, de frustração de receita, de calamidade ou de outra causa — informação importantíssima para o controle externo, porque créditos adicionais em excesso podem indicar planejamento orçamentário deficiente.\n\n6) Forma de apresentação. Duas possibilidades: uma demonstração comparativa separada ou colunas adicionais de orçamento nas demonstrações. As colunas adicionais só cabem quando orçamento e demonstrações usam a mesma base; se não usam, a comparação vai em demonstração própria. Na realidade brasileira, como o orçamento é executado em regime próprio (receita pela arrecadação, despesa pelo empenho), o veículo natural da comparação é o Balanço Orçamentário, e não colunas no Balanço Patrimonial ou na DVP.\n\n7) Base comparável e o regime misto brasileiro. A Lei 4.320/1964, art. 35, estabelece que pertencem ao exercício financeiro as receitas nele arrecadadas e as despesas nele legalmente empenhadas. Esse é o regime orçamentário, frequentemente chamado de misto. A contabilidade patrimonial, por sua vez, segue a competência. Por isso, o realizado orçamentário brasileiro não é igual à receita e à despesa da DVP. A NBC TSP 13 (R1) não manda abandonar o regime orçamentário: manda que a comparação seja feita na base do orçamento e que, depois, as diferenças sejam conciliadas.\n\n8) Conciliação. A entidade concilia os valores realizados em base orçamentária com os valores das demonstrações, identificando separadamente três naturezas de diferença:\n• Diferenças de regime: quando o orçamento está em caixa ou regime modificado e as demonstrações em competência. Ex.: depreciação reduz o resultado patrimonial mas não é despesa orçamentária; despesa empenhada e não liquidada é despesa orçamentária, mas ainda não é variação patrimonial diminutiva.\n• Diferenças temporais: períodos do orçamento e das demonstrações diferentes (orçamento plurianual ou exercício diverso).\n• Diferenças de entidade: o orçamento cobre entidades diferentes das incluídas nas demonstrações (por exemplo, orçamento que inclui fundo não consolidado, ou demonstrações consolidadas que incluem estatal não dependente fora do orçamento).\nPode haver ainda diferenças de apresentação, decorrentes de classificações distintas. A conciliação pode comparar com os fluxos de caixa (atividades operacionais, de investimento e de financiamento) ou com outra demonstração, conforme a base.\n\n9) Notas explicativas. Devem informar o regime orçamentário e a base de classificação do orçamento aprovado, o período do orçamento e as entidades abrangidas, além das explicações das diferenças materiais. Quando o orçamento final e o original divergem muito, é recomendável explicar os motivos (realocações, créditos extraordinários, frustração de receita). Divulgação genérica (\"variações dentro da normalidade\") não atende à finalidade de prestação de contas.\n\n10) Relação com o Balanço Orçamentário do MCASP. O MCASP estrutura o Balanço Orçamentário com previsão inicial e atualizada da receita, receita realizada e saldo; e, para a despesa, dotação inicial, dotação atualizada, despesas empenhadas, liquidadas e pagas, e saldo da dotação. Note a correspondência: previsão inicial e dotação inicial equivalem ao orçamento original; previsão atualizada e dotação atualizada, ao orçamento final; receita realizada e despesa empenhada, ao realizado em base orçamentária. O Balanço Orçamentário traz ainda quadros de execução de restos a pagar processados e não processados, o que ajuda a explicar diferenças temporais. Assim, no Brasil, o Balanço Orçamentário é a principal ferramenta para cumprir a NBC TSP 13 (R1), complementado pelas notas e pela conciliação com a DVP e a DFC.\n\n11) Aplicações no controle externo.\n• Superávit orçamentário com déficit patrimonial: possível e comum. Depreciação, provisões (por exemplo, atuariais de RPPS) e perdas reduzem o resultado patrimonial sem afetar o orçamento. O auditor deve olhar as duas peças.\n• Empenho sem liquidação no fim do exercício: infla a despesa orçamentária e gera restos a pagar não processados. Uma inscrição elevada, sem disponibilidade de caixa, interage com o art. 42 da LRF nos dois últimos quadrimestres do mandato.\n• Créditos adicionais reiterados: diferença grande entre orçamento original e final, sem explicação, pode revelar subestimação deliberada da LOA ou descumprimento do limite de suplementação autorizado.\n• Receita superestimada: previsão atualizada muito acima da realizada, sem limitação de empenho, conflita com o art. 9º da LRF.\n• Falta de conciliação: impede o usuário de entender por que o resultado orçamentário difere do patrimonial e é achado típico em auditoria financeira das contas de governo.\n\n12) Erros de prova. Errado dizer que a norma obriga publicar orçamento; errado dizer que a comparação deve ser sempre em colunas adicionais; errado dizer que a comparação deve ser feita em regime de competência quando o orçamento é de caixa (a comparação é na base do orçamento, depois concilia-se); errado afirmar que a diferença entre original e final é \"desvio de execução\"; certo dizer que a base comparável exige mesmo regime, classificação, entidades e período.",
+   "flashcards": [
+    {
+     "frente": "Objetivos da NBC TSP 13 (R1)",
+     "verso": "Conformidade com o orçamento aprovado e, havendo mesma base, avaliação de desempenho.",
+     "dispositivo": "NBC TSP 13 (R1)"
+    },
+    {
+     "frente": "Conteúdo mínimo",
+     "verso": "Orçamento original, final, realizado em base comparável e explicação das diferenças materiais.",
+     "dispositivo": "NBC TSP 13 (R1)"
+    },
+    {
+     "frente": "Base comparável",
+     "verso": "Mesmo regime, classificação, entidades e período do orçamento.",
+     "dispositivo": "NBC TSP 13 (R1)"
+    },
+    {
+     "frente": "Colunas adicionais",
+     "verso": "Só quando orçamento e demonstrações usam a mesma base.",
+     "dispositivo": "NBC TSP 13 (R1)"
+    },
+    {
+     "frente": "Tipos de diferença na conciliação",
+     "verso": "Regime, temporal e de entidade (além de apresentação).",
+     "dispositivo": "NBC TSP 13 (R1)"
+    },
+    {
+     "frente": "Regime orçamentário brasileiro",
+     "verso": "Receita arrecadada e despesa empenhada (Lei 4.320/1964, art. 35).",
+     "dispositivo": "NBC TSP 13 (R1)"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "A NBC TSP 13 (R1) obriga toda entidade do setor público a publicar seu orçamento aprovado.",
+     "gabarito": "E",
+     "comentario": "Errado. A norma não exige publicação do orçamento; exige a comparação de quem é obrigado ou opta por torná-lo público.",
+     "dispositivo": "Alcance",
+     "id": "tceac-nuvem-nbc-tsp-13-n2-q01"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "Base comparável significa apresentar os valores realizados no mesmo regime, classificação, entidades e período adotados no orçamento aprovado.",
+     "gabarito": "C",
+     "comentario": "Certo. Essa é a definição da norma.",
+     "dispositivo": "Definições",
+     "id": "tceac-nuvem-nbc-tsp-13-n2-q02"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Quando orçamento e demonstrações contábeis adotam regimes diferentes, a comparação orçado x realizado pode ser apresentada como colunas adicionais no Balanço Patrimonial.",
+     "gabarito": "E",
+     "comentario": "Errado. Colunas adicionais só cabem quando há mesma base; caso contrário, usa-se demonstração comparativa separada.",
+     "dispositivo": "Forma de apresentação",
+     "id": "tceac-nuvem-nbc-tsp-13-n2-q03"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "No Balanço Orçamentário do MCASP, a dotação atualizada corresponde ao conceito de orçamento final da NBC TSP 13 (R1).",
+     "gabarito": "C",
+     "comentario": "Certo. Dotação/previsão atualizada = orçamento original ajustado pelas alterações autorizadas.",
+     "dispositivo": "MCASP; NBC TSP 13 (R1)",
+     "id": "tceac-nuvem-nbc-tsp-13-n2-q04"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "A depreciação de bens do imobilizado é exemplo de diferença de regime a ser evidenciada na conciliação entre o resultado orçamentário e o patrimonial.",
+     "gabarito": "C",
+     "comentario": "Certo. Reduz o resultado por competência sem constituir despesa orçamentária.",
+     "dispositivo": "Conciliação",
+     "id": "tceac-nuvem-nbc-tsp-13-n2-q05"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Diferença expressiva entre orçamento original e final deve ser tratada como variação de execução e dispensa explicação, pois decorre de créditos legalmente autorizados.",
+     "gabarito": "E",
+     "comentario": "Errado. Original x final reflete alterações orçamentárias; não é desvio de execução, mas suas causas são informação relevante e devem ser explicadas.",
+     "dispositivo": "Orçamento original x final",
+     "id": "tceac-nuvem-nbc-tsp-13-n2-q06"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Segundo a Lei 4.320/1964, pertencem ao exercício financeiro:",
+     "gabarito": "B",
+     "comentario": "Art. 35: receitas arrecadadas e despesas legalmente empenhadas (regime orçamentário).",
+     "dispositivo": "Lei 4.320/1964, art. 35",
+     "id": "tceac-nuvem-nbc-tsp-13-n2-q07",
+     "alternativas": {
+      "A": "as receitas lançadas e as despesas pagas.",
+      "B": "as receitas arrecadadas e as despesas legalmente empenhadas.",
+      "C": "as receitas e despesas reconhecidas por competência.",
+      "D": "as receitas previstas e as despesas liquidadas.",
+      "E": "as receitas arrecadadas e as despesas pagas."
+     }
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Na conciliação entre valores orçamentários e demonstrações, a inclusão nas demonstrações consolidadas de entidade que não integra o orçamento aprovado configura diferença:",
+     "gabarito": "C",
+     "comentario": "Diferença de entidade: o perímetro do orçamento difere do das demonstrações.",
+     "dispositivo": "Conciliação",
+     "id": "tceac-nuvem-nbc-tsp-13-n2-q08",
+     "alternativas": {
+      "A": "de regime.",
+      "B": "temporal.",
+      "C": "de entidade.",
+      "D": "de apresentação.",
+      "E": "de mensuração a valor justo."
+     }
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Orçamento ___ é o primeiro aprovado; orçamento ___ é o original ajustado pelas alterações autorizadas.",
+     "opcoes": [
+      "original",
+      "final",
+      "plurianual",
+      "realizado",
+      "comparável",
+      "executado"
+     ],
+     "respostas": [
+      "original",
+      "final"
+     ],
+     "explicacao": "No MCASP: dotação inicial e dotação atualizada."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Dotação inicial",
+       "Orçamento original"
+      ],
+      [
+       "Dotação atualizada",
+       "Orçamento final"
+      ],
+      [
+       "Despesa empenhada",
+       "Realizado em base orçamentária"
+      ],
+      [
+       "Depreciação",
+       "Diferença de regime"
+      ],
+      [
+       "Estatal fora do orçamento consolidada",
+       "Diferença de entidade"
+      ]
+     ]
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene a evidenciação exigida pela norma.",
+     "itens": [
+      "Apresentar orçamento original e final",
+      "Apresentar o realizado em base comparável",
+      "Explicar em nota as diferenças materiais",
+      "Conciliar o realizado orçamentário com as demonstrações"
+     ],
+     "explicacao": "A comparação é feita na base do orçamento e depois conciliada."
+    },
+    {
+     "tipo": "caso_pratico",
+     "enunciado": "Questão discursiva: Nas contas de governo de um estado, o Balanço Orçamentário apresenta superávit, enquanto a DVP mostra déficit patrimonial expressivo; as notas não trazem conciliação. Analise à luz da NBC TSP 13 (R1).",
+     "resposta": "A divergência é possível: o orçamento segue o regime do art. 35 da Lei 4.320/1964 e a DVP, a competência; depreciação, provisões atuariais e perdas reduzem o resultado patrimonial sem afetar o orçamento, e empenhos não liquidados afetam apenas o orçamento. A norma, porém, exige conciliar o realizado em base orçamentária com as demonstrações, separando diferenças de regime, temporais e de entidade, e explicar as diferenças materiais. A ausência de conciliação é deficiência de evidenciação que compromete a transparência e deve gerar ressalva ou recomendação no parecer prévio.",
+     "dispositivo": "NBC TSP 13 (R1); Lei 4.320/1964, art. 35"
+    }
+   ]
+  }
+ ]
+}
