@@ -1,0 +1,204 @@
+{
+ "assunto": "Contabilidade Pública – NBC TSP 16 (R1): demonstrações contábeis separadas",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-28",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-nuvem-nbc-tsp-16-n2",
+   "titulo": "NBC TSP 16 (R1) a fundo: critérios, dividendos e o controle das participações do ente",
+   "microconteudo": "RAIO-X DA PROVA: O Cebraspe explora três pontos: a norma não obriga ninguém a elaborar separadas; as opções são custo, NBC TSP 31 ou equivalência, uniformes por categoria; e dividendos reduzem o investimento quando há equivalência. Também testa a vigência da (R1) (exercícios a partir de 2027) e confunde separadas com consolidadas ou com as demonstrações de quem não tem participações.\n\nPOR QUE IMPORTA:\nEstados e grandes municípios controlam companhias de saneamento, bancos, agências de fomento, empresas de processamento de dados e fundos. O ente pode apresentar as próprias demonstrações enxergando essas participações apenas como um investimento, sem somar linha a linha os ativos e passivos da investida. Essa é a demonstração separada. O tema importa ao auditor de contas porque o critério escolhido (custo, instrumento financeiro ou equivalência patrimonial) muda o valor do ativo, o resultado do exercício e a leitura do patrimônio do ente. Também importa porque a NBC TSP 16 foi reeditada como (R1), com aplicação a partir dos exercícios iniciados em 2027: a prova de janeiro de 2027 cai exatamente na virada.\n\nO QUE A BANCA COBRA:\n- Conceito de demonstração separada e o que não é separada (consolidadas; demonstrações de quem não tem investimentos).\n- Alcance: a norma não determina quem deve elaborar separadas; só regula como fazê-las.\n- Três opções de mensuração (custo, NBC TSP 31 ou equivalência patrimonial) e a uniformidade por categoria de investimento.\n- Separadas como únicas demonstrações (dispensa de consolidar; entidade de investimento).\n- Dividendos, reorganizações com nova controladora e divulgações.\n- Vigência da (R1), relação com as NBC TSP 17 a 20 e convergência com a IPSAS 34.\n\nENTENDA:\n1) De onde vem e quando vale\nA NBC TSP 16 (R1) foi aprovada pelo CFC em 13/11/2025, publicada no DOU em 17/03/2026, entra em vigor na publicação e se aplica aos exercícios iniciados a partir de 1º/1/2027. Revoga a NBC TSP 16 publicada em 31/10/2018, ressalvado normativo nacional com prazos específicos. É convergida com a IPSAS 34 e integra o pacote de participações em outras entidades: NBC TSP 17 (consolidadas), 18 (coligadas e empreendimentos controlados em conjunto), 19 (acordos em conjunto) e 20 (divulgação de participações). Em prova, lembre a divisão de tarefas: a 17 diz quando e como consolidar; a 18 define a equivalência patrimonial; a 16 só cuida das demonstrações em que o investimento aparece como investimento.\n\n2) O conceito e os falsos amigos\nDemonstrações separadas são as apresentadas pela entidade na qual ela pode escolher contabilizar seus investimentos em controladas, empreendimentos controlados em conjunto e coligadas ao custo, conforme a NBC TSP 31 ou pelo método da equivalência patrimonial descrito na NBC TSP 18. São apresentadas adicionalmente às consolidadas, ou às demonstrações do investidor que, sem controladas, aplica equivalência a coligadas ou empreendimentos controlados em conjunto (item 7). Dois falsos amigos: (a) consolidada não é separada, porque soma ativos, passivos, receitas e despesas da controladora e das controladas como se fossem uma só entidade econômica; (b) as demonstrações de entidade sem qualquer investimento dessas categorias não são separadas (item 8), são simplesmente as demonstrações dela.\nNuance que diferencia candidatos de nível alto: no setor privado brasileiro, a Lei 6.404/1976 (art. 248) impõe a equivalência patrimonial nas demonstrações individuais da companhia para investimentos em coligadas e controladas, e a interpretação contábil distingue essas demonstrações individuais das separadas. A lógica da norma pública é a mesma da IPSAS: separada é a peça em que existe escolha de critério.\n\n3) Quem deve elaborar\nA norma não determina quais entidades devem elaborar demonstrações separadas (item 3). Isso depende de lei, regulamento ou decisão da própria entidade. Ela disciplina o conteúdo quando as separadas forem elaboradas em conformidade com as NBC TSP. Questão típica afirma que a NBC TSP 16 obriga toda controladora pública a apresentar separadas: errado.\n\n4) Separadas como únicas demonstrações\nDuas hipóteses autorizam que as separadas sejam as únicas demonstrações: (a) a entidade dispensada de consolidar pela NBC TSP 17 ou de aplicar a equivalência pela NBC TSP 18 (item 9); (b) a entidade de investimento obrigada, em todos os períodos apresentados, a mensurar todas as suas controladas ao valor justo por meio do resultado (item 10). Fora dessas situações, separadas são informação adicional.\n\n5) Mensuração: três caminhos, uma regra de coerência\nNas separadas, os investimentos são contabilizados (a) ao custo, (b) conforme a NBC TSP 31, ou (c) pela equivalência patrimonial (item 12). A escolha deve ser aplicada de modo uniforme a cada categoria: controladas, empreendimentos controlados em conjunto e coligadas. Pode-se usar custo para controladas e equivalência para coligadas, mas não custo para uma controlada e equivalência para outra. Se o investimento ao custo ou por equivalência for classificado como mantido para venda ou distribuição, aplica-se a NBC TSP 36; o investimento mensurado pela NBC TSP 31 não muda de critério nessa situação. Se a entidade, pela NBC TSP 18, optou por valor justo por meio do resultado para coligadas ou empreendimentos controlados em conjunto, deve manter esse critério nas separadas (item 13).\nEfeitos de cada escolha, com um exemplo. O estado adquiriu 60% de uma companhia por R$ 100 milhões. No exercício, a companhia lucra R$ 20 milhões e distribui R$ 5 milhões. Ao custo, o investimento segue em R$ 100 milhões e o estado reconhece no resultado apenas o dividendo a que tem direito (60% de 5 = R$ 3 milhões). Pela equivalência, o investimento sobe R$ 12 milhões (60% do lucro), reconhecidos no resultado, e o dividendo de R$ 3 milhões reduz o investimento, que termina em R$ 109 milhões. Pela NBC TSP 31, o investimento é remensurado conforme a categoria do instrumento financeiro (por exemplo, a valor justo). O mesmo fato econômico gera ativos e resultados diferentes: daí a exigência de divulgar o método.\n\n6) Entidade de investimento\nA controladora que, pela NBC TSP 17, deve mensurar a controlada ao valor justo por meio do resultado faz o mesmo nas separadas. Se a controladora não é entidade de investimento, mas controla uma, aplica o item 12 nas separadas (item 14). Quando a entidade deixa de ser entidade de investimento, a data da mudança é tratada como data de aquisição considerada, e o valor justo da controlada nessa data funciona como contraprestação. Quando passa a ser entidade de investimento, mensura a controlada ao valor justo por meio do resultado e reconhece no resultado a diferença entre o valor contábil anterior e o valor justo (item 15). No setor público, a figura aparece em fundos que mantêm carteiras de participações para valorização, não para prestação de serviços.\n\n7) Dividendos\nDividendos ou distribuições similares são reconhecidos quando se estabelece o direito ao recebimento. Vão para o resultado, salvo se a entidade usa a equivalência patrimonial, caso em que reduzem o valor contábil do investimento (item 16). Na equivalência, o lucro da investida já entrou no investimento; o dividendo apenas converte parte dele em caixa. Reconhecer o dividendo como receita nesse caso dupla-contaria o resultado, erro típico que o auditor procura.\n\n8) Reorganização com nova controladora\nSe a controladora cria nova entidade como sua controladora e se preservam os mesmos ativos e passivos antes e depois e a mesma participação absoluta e relativa dos proprietários, a nova controladora contabiliza o investimento na controladora original ao custo, medido pela sua participação no patrimônio líquido das separadas da original na data da reorganização (item 17). O mesmo vale quando uma entidade que não é controladora cria nova controladora (item 18). A ideia é não gerar ganho artificial numa reorganização que não muda a substância econômica, como a criação de uma holding estadual para concentrar as estatais.\n\n9) Divulgação\nAplicam-se todas as NBC TSP pertinentes (item 19). Se a controladora usa a dispensa de consolidar e apresenta só separadas, divulga: o fato de serem separadas e o uso da dispensa; o nome da entidade cujas consolidadas foram elaboradas para uso público e onde obtê-las; a lista de investimentos significativos, com nome, localização principal, se diferente, e proporção de participação; e o método de contabilização (item 20). A entidade de investimento que só apresenta separadas divulga esse fato e as informações da NBC TSP 20 (item 21). Nos demais casos, identifica as demonstrações elaboradas pelas NBC TSP 17, 18 ou 19 com as quais as separadas se relacionam e divulga o fato de serem separadas e as razões de elaborá-las, se não exigidas por lei, além da lista de investimentos e do método (item 23). Há ainda divulgações sobre técnicas e dados das mensurações ao valor justo, com destaque para o Nível 3 (itens 23A e seguintes).\n\n10) Olhar do controle externo\nNa análise das contas de governo, o auditor verifica: se o critério declarado em nota é o efetivamente aplicado; se a uniformidade por categoria foi respeitada; se dividendos de investimentos por equivalência não foram lançados como receita; e se perdas relevantes das estatais estão refletidas no valor do investimento. Investimento ao custo em estatal com patrimônio líquido negativo exige teste de redução ao valor recuperável, sob pena de superavaliar o ativo do ente.\nDistinga ainda a lógica fiscal da contábil. A empresa estatal dependente, assim definida no art. 2º, III, da LRF por receber recursos do controlador para pagar pessoal, custeio ou capital (excluídos os aportes para aumento de participação acionária), integra os orçamentos fiscal e da seguridade e entra nos cálculos de receita corrente líquida e de limites. A estatal não dependente aparece nas contas do ente como participação societária. Essa classificação fiscal não decide o critério contábil das separadas, mas o auditor deve conciliar as duas visões: investimento contabilizado ao custo em estatal que, na prática, depende de repasses do tesouro para sobreviver é forte indício de perda não reconhecida.",
+   "flashcards": [
+    {
+     "frente": "Demonstração separada",
+     "verso": "Aquela em que a entidade pode escolher custo, NBC TSP 31 ou equivalência para investimentos em controladas, coligadas e empreendimentos controlados em conjunto.",
+     "dispositivo": "NBC TSP 16 (R1), item 7"
+    },
+    {
+     "frente": "Quem deve elaborar separadas?",
+     "verso": "A norma não diz (item 3): depende de lei, regulamento ou escolha da entidade.",
+     "dispositivo": "NBC TSP 16 (R1), item 3"
+    },
+    {
+     "frente": "Uniformidade",
+     "verso": "Mesmo critério para todos os investimentos da mesma categoria.",
+     "dispositivo": "NBC TSP 16 (R1), item 12"
+    },
+    {
+     "frente": "Dividendos",
+     "verso": "Resultado quando estabelecido o direito; se equivalência, reduzem o investimento.",
+     "dispositivo": "NBC TSP 16 (R1), item 16"
+    },
+    {
+     "frente": "Vigência da (R1)",
+     "verso": "DOU 17/03/2026; exercícios iniciados a partir de 1º/1/2027.",
+     "dispositivo": "Ficha CFC"
+    },
+    {
+     "frente": "Pacote de participações",
+     "verso": "16 separadas; 17 consolidadas; 18 coligadas e JV; 19 acordos em conjunto; 20 divulgação.",
+     "dispositivo": "Relação das NBC TSP"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "A NBC TSP 16 (R1) determina que toda entidade do setor público que possua controladas elabore demonstrações separadas, além das consolidadas.",
+     "gabarito": "E",
+     "comentario": "Errado. A norma não determina quem deve elaborar separadas (item 3); apenas regula como fazê-las quando elaboradas conforme as NBC TSP.",
+     "dispositivo": "NBC TSP 16 (R1), item 3",
+     "id": "tceac-nuvem-nbc-tsp-16-n2-q01"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "As demonstrações contábeis de entidade que não possui investimento em controlada, coligada ou empreendimento controlado em conjunto não são demonstrações separadas.",
+     "gabarito": "C",
+     "comentario": "Certo. É a regra do item 8.",
+     "dispositivo": "NBC TSP 16 (R1), item 8",
+     "id": "tceac-nuvem-nbc-tsp-16-n2-q02"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Nas demonstrações separadas, a entidade pode mensurar uma controlada ao custo e outra controlada pela equivalência patrimonial, conforme a relevância de cada investimento.",
+     "gabarito": "E",
+     "comentario": "Errado. O critério escolhido deve ser uniforme dentro de cada categoria de investimento.",
+     "dispositivo": "NBC TSP 16 (R1), item 12",
+     "id": "tceac-nuvem-nbc-tsp-16-n2-q03"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Quando a investidora adota a equivalência patrimonial nas separadas, os dividendos recebidos da investida reduzem o valor contábil do investimento.",
+     "gabarito": "C",
+     "comentario": "Certo. Nos demais critérios, os dividendos vão ao resultado quando se estabelece o direito ao recebimento.",
+     "dispositivo": "NBC TSP 16 (R1), item 16",
+     "id": "tceac-nuvem-nbc-tsp-16-n2-q04"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "A NBC TSP 16 (R1) aplica-se aos exercícios iniciados a partir de 1º de janeiro de 2027 e revoga a NBC TSP 16 publicada em 2018, ressalvado normativo nacional com prazos específicos.",
+     "gabarito": "C",
+     "comentario": "Certo. Publicada no DOU em 17/03/2026, com aplicação a partir dos exercícios iniciados em 1º/1/2027.",
+     "dispositivo": "Ficha da NBC TSP 16 (R1) no sistema de resoluções do CFC",
+     "id": "tceac-nuvem-nbc-tsp-16-n2-q05"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Investimento mensurado conforme a NBC TSP 31 que venha a ser classificado como mantido para venda passa a seguir a NBC TSP 36.",
+     "gabarito": "E",
+     "comentario": "Errado. A NBC TSP 36 alcança o investimento contabilizado ao custo ou por equivalência; o mensurado pela NBC TSP 31 mantém o critério.",
+     "dispositivo": "NBC TSP 16 (R1), item 12",
+     "id": "tceac-nuvem-nbc-tsp-16-n2-q06"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Estado detém 60% de companhia adquirida por R$ 100 milhões. No exercício, a companhia lucra R$ 20 milhões e distribui R$ 5 milhões. Nas separadas, pela equivalência patrimonial, o saldo final do investimento e o efeito no resultado do estado são, respectivamente:",
+     "gabarito": "C",
+     "alternativas": {
+      "A": "R$ 100 milhões e R$ 3 milhões",
+      "B": "R$ 112 milhões e R$ 15 milhões",
+      "C": "R$ 109 milhões e R$ 12 milhões",
+      "D": "R$ 115 milhões e R$ 12 milhões",
+      "E": "R$ 109 milhões e R$ 15 milhões"
+     },
+     "comentario": "Equivalência: +12 (60% de 20) no investimento e no resultado; dividendo de 3 reduz o investimento: 100 + 12 − 3 = 109. O dividendo não é receita nesse método.",
+     "dispositivo": "NBC TSP 16 (R1), itens 12 e 16; NBC TSP 18",
+     "id": "tceac-nuvem-nbc-tsp-16-n2-q07"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Assinale a hipótese em que as demonstrações separadas podem ser as únicas demonstrações da entidade.",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "Sempre que a entidade preferir o método de custo.",
+      "B": "Quando a controladora estiver dispensada de consolidar pela NBC TSP 17.",
+      "C": "Quando a entidade não tiver investimentos em outras entidades.",
+      "D": "Quando houver lei estadual exigindo balanço individual.",
+      "E": "Quando os investimentos forem inferiores a 10% do ativo."
+     },
+     "comentario": "Itens 9 e 10: dispensa de consolidar (NBC TSP 17) ou de aplicar a equivalência (NBC TSP 18), e entidade de investimento que mensura todas as controladas ao valor justo por meio do resultado.",
+     "dispositivo": "NBC TSP 16 (R1), itens 9 e 10",
+     "id": "tceac-nuvem-nbc-tsp-16-n2-q08"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Nas demonstrações separadas, os investimentos são contabilizados ao ___, conforme a NBC TSP ___ ou pela equivalência patrimonial.",
+     "opcoes": [
+      "custo",
+      "31",
+      "valor de mercado",
+      "18",
+      "36",
+      "valor presente"
+     ],
+     "respostas": [
+      "custo",
+      "31"
+     ],
+     "explicacao": "NBC TSP 16 (R1), item 12."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "NBC TSP 16",
+       "Demonstrações separadas"
+      ],
+      [
+       "NBC TSP 17",
+       "Demonstrações consolidadas"
+      ],
+      [
+       "NBC TSP 18",
+       "Coligadas e empreendimentos controlados em conjunto"
+      ],
+      [
+       "NBC TSP 19",
+       "Acordos em conjunto"
+      ],
+      [
+       "NBC TSP 20",
+       "Divulgação de participações em outras entidades"
+      ]
+     ]
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o raciocínio para contabilizar um investimento nas separadas.",
+     "itens": [
+      "Identificar se a investida é controlada, coligada ou empreendimento controlado em conjunto",
+      "Escolher o critério da categoria (custo, NBC TSP 31 ou equivalência)",
+      "Aplicar o mesmo critério a todos os investimentos da categoria",
+      "Reconhecer dividendos conforme o critério adotado",
+      "Divulgar o método e a lista de investimentos significativos"
+     ],
+     "explicacao": "A categoria define a uniformidade; o critério define o tratamento dos dividendos."
+    },
+    {
+     "tipo": "caso_pratico",
+     "enunciado": "Questão discursiva: Um estado apresenta demonstrações separadas com investimento em estatal ao custo, embora a estatal tenha patrimônio líquido negativo há três exercícios, e lança como receita os dividendos de coligada avaliada por equivalência. Aponte as irregularidades.",
+     "resposta": "(1) Investimento ao custo em investida com PL negativo persistente indica perda; deve ser testado e reduzido ao valor recuperável, sob pena de superavaliar o ativo. (2) Na equivalência, dividendos reduzem o valor contábil do investimento (item 16); lançá-los como receita dupla-conta o resultado, já reconhecido pela participação no lucro. (3) O auditor deve verificar se o método divulgado em nota é o aplicado e se a uniformidade por categoria foi respeitada.",
+     "explicacao": "(1) Investimento ao custo em investida com PL negativo persistente indica perda; deve ser testado e reduzido ao valor recuperável, sob pena de superavaliar o ativo. (2) Na equivalência, dividendos reduzem o valor contábil do investimento (item 16); lançá-los como receita dupla-conta o resultado, já reconhecido pela participação no lucro. (3) O auditor deve verificar se o método divulgado em nota é o aplicado e se a uniformidade por categoria foi respeitada.",
+     "dispositivo": "NBC TSP 16 (R1), itens 12, 16 e 20; NBC TSP 09/10"
+    }
+   ]
+  }
+ ]
+}

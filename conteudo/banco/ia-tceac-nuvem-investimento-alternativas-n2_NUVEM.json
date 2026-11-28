@@ -1,0 +1,204 @@
+{
+ "assunto": "Economia do Setor Público – Avaliação de alternativas de investimento",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-28",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-nuvem-investimento-alternativas-n2",
+   "titulo": "VPL, TIR e inflação: como escolher entre alternativas de investimento",
+   "microconteudo": "RAIO-X DA PROVA: O Cebraspe pede cálculo de VPL e taxa real pela equação de Fisher (e pune a subtração simples), cobra o conflito de escala entre VPL e TIR, as múltiplas TIRs em fluxos não convencionais e a coerência entre fluxos nominais e taxa nominal. Em tribunal de contas, o tema aparece em estudos de viabilidade de concessões, PPPs e obras.\n\nPOR QUE IMPORTA:\nToda decisão de investimento público, de uma ponte a um sistema de informática, envolve trocar recursos certos hoje por benefícios incertos no futuro. A matemática financeira oferece os critérios para comparar alternativas: valor presente líquido, taxa interna de retorno, payback, índice de lucratividade e custo anual equivalente. Em ambiente inflacionário, o mesmo cálculo exige cuidado para não misturar valores nominais e reais. O auditor de contas usa essas ferramentas para examinar estudos de viabilidade de concessões e PPPs, a escolha entre comprar e alugar, reequilíbrios contratuais e a própria justificativa de obras. É tópico comum a provas de economia do setor público, finanças e auditoria.\n\nO QUE A BANCA COBRA:\n- Fluxo de caixa incremental e taxa mínima de atratividade (custo de oportunidade).\n- VPL: cálculo, interpretação e regra de decisão; TIR e sua relação com o VPL.\n- Conflitos entre VPL e TIR (escala, distribuição temporal, fluxos não convencionais com múltiplas TIRs) e TIR modificada.\n- Payback simples e descontado, índice de lucratividade e custo anual equivalente para vidas diferentes.\n- Inflação: equação de Fisher, coerência entre fluxos nominais e taxa nominal (ou reais e taxa real), efeitos sobre impostos e capital de giro.\n- Aplicação ao setor público: análise custo-benefício, LRF (arts. 16 e 45), estudo técnico preliminar e PPPs; questão discursiva.\n\nENTENDA:\n1) O ponto de partida: fluxo incremental e taxa de desconto\nAvaliar um investimento é comparar o valor do que se entrega hoje com o valor presente do que se recebe depois. Dois insumos são decisivos. O fluxo de caixa deve ser incremental: só entram receitas e custos que existem por causa do projeto; custos já incorridos e irrecuperáveis (custos afundados) ficam fora, e o custo de oportunidade de ativos já possuídos entra. A taxa de desconto, chamada taxa mínima de atratividade (TMA), representa o retorno da melhor alternativa de risco equivalente que se abandona. No setor público, a análise socioeconômica usa uma taxa social de desconto e mede benefícios e custos para a sociedade, não só caixa do tesouro.\n\n2) Valor presente líquido (VPL)\nVPL = soma dos fluxos futuros descontados à TMA menos o investimento inicial. Regra: VPL positivo, aceita; negativo, rejeita; entre alternativas mutuamente exclusivas, escolhe-se a de maior VPL. O VPL mede, em moeda de hoje, quanto o projeto acrescenta de riqueza além do retorno exigido.\nExemplo A: investimento de 1.000, entradas de 600 ao fim dos anos 1 e 2, TMA de 10%. VP das entradas = 600 ÷ 1,10 + 600 ÷ 1,21 = 545,45 + 495,87 = 1.041,32. VPL = 41,32: o projeto rende mais que 10% ao ano.\nPropriedades úteis: o VPL é aditivo (o VPL de dois projetos independentes é a soma dos VPLs), considera todos os fluxos e o valor do dinheiro no tempo e cai à medida que a TMA sobe, nos fluxos convencionais.\n\n3) Taxa interna de retorno (TIR)\nA TIR é a taxa que zera o VPL. No exemplo A, resolve-se 1.000 = 600 ÷ (1 + r) + 600 ÷ (1 + r)²; obtém-se r ≈ 13,07% ao ano. Regra: aceita-se o projeto se a TIR supera a TMA. Para projetos independentes com fluxos convencionais (um sinal de saída seguido de entradas), TIR e VPL levam à mesma decisão: se a TIR é 13,07% e a TMA 10%, o VPL é necessariamente positivo.\n\n4) Quando VPL e TIR discordam\n• Escala. Projeto B: investe 100 e recebe 130 em um ano (TIR de 30%; VPL a 10% = 18,18). Projeto C: investe 1.000 e recebe 1.200 em um ano (TIR de 20%; VPL = 90,91). Se forem mutuamente exclusivos, a TIR aponta B; o VPL aponta C, que gera mais riqueza. Prevalece o VPL, desde que o capital esteja disponível.\n• Distribuição no tempo. Projetos com entradas concentradas no início e projetos com entradas tardias podem inverter a ordem conforme a TMA; a taxa em que os VPLs se igualam é a interseção de Fisher.\n• Fluxos não convencionais. Com mais de uma mudança de sinal (por exemplo, investimento, entradas e um grande custo de desmobilização no final), pode haver mais de uma TIR ou nenhuma. A TIR perde utilidade.\n• Reinvestimento. A TIR supõe implicitamente reinvestimento dos fluxos à própria TIR; o VPL, à TMA. A TIR modificada corrige isso: capitaliza as entradas a uma taxa de reinvestimento definida (em geral a TMA), desconta as saídas a uma taxa de financiamento e calcula uma taxa única.\nPor isso a doutrina de finanças e os guias de análise custo-benefício tratam o VPL como critério principal; a TIR é indicador complementar.\n\n5) Outros critérios\n• Payback simples: tempo para recuperar o investimento com fluxos nominais. Ignora o valor do dinheiro no tempo e o que ocorre depois da recuperação. No exemplo A, recupera-se 1.000 em cerca de 1,67 ano.\n• Payback descontado: o mesmo com fluxos descontados. No exemplo A: após o ano 1, faltam 454,55; o VP do ano 2 (495,87) cobre o saldo, logo o payback descontado fica entre 1 e 2 anos (≈ 1,92). Mede liquidez e risco, não rentabilidade.\n• Índice de lucratividade (IL): VP das entradas ÷ investimento. No exemplo A, 1,04. IL maior que 1 equivale a VPL positivo; é útil para ordenar projetos sob restrição de capital.\n• Custo anual equivalente (CAE): para alternativas de vidas diferentes que se repetem, converte o custo em parcela anual. Máquina X custa 1.000 e dura 2 anos; Y custa 1.400 e dura 3 anos; TMA de 10%. CAE de X ≈ 576,19; de Y ≈ 562,96. Y é mais barata por ano, embora mais cara na compra. Comparar só o preço inicial, ou VPLs de prazos diferentes, levaria à escolha errada.\n\n6) Economia estável x ambiente inflacionário\nEm economia estável, fluxos nominais e reais quase coincidem e o cálculo é direto. Com inflação relevante, aplica-se a equação de Fisher: (1 + taxa nominal) = (1 + taxa real) × (1 + inflação). Se a taxa nominal é 15,5% e a inflação 5%, a taxa real é 1,155 ÷ 1,05 − 1 = 10%.\nRegra de coerência: fluxos nominais descontam-se à taxa nominal; fluxos reais (em moeda de poder aquisitivo constante), à taxa real. Feito corretamente, o VPL é idêntico. Exemplo A em termos reais (600 e 600 a 10%) tem VPL de 41,32. Em termos nominais, com inflação de 5%, os fluxos viram 630 e 661,50; descontados a 15,5%, dão VP de 1.041,32 e o mesmo VPL. O erro clássico é descontar fluxos nominais à taxa real: no exemplo, o VPL salta para 119,42 e superestima a atratividade. O erro inverso, fluxos reais à taxa nominal, subestima o projeto.\nA inflação também produz efeitos reais que o analista deve modelar: a depreciação fiscal calculada sobre o custo histórico perde valor, elevando o imposto em termos reais; o capital de giro precisa crescer com os preços; e contratos com preços fixos ou reajustes defasados transferem renda entre as partes. Em ambientes de inflação alta e volátil, aumenta a incerteza, o que costuma elevar a taxa exigida e favorecer projetos de retorno rápido, daí a maior atenção ao payback descontado.\n\nRisco e sensibilidade. Nenhum critério elimina a incerteza das projeções. A análise de sensibilidade altera uma variável por vez (demanda, custo de obra, prazo, taxa de desconto) e mostra quanto o VPL muda; a variável que mais move o resultado merece mais evidência. A análise de cenários combina variáveis (pessimista, base, otimista), e a simulação atribui distribuições de probabilidade às variáveis e calcula a distribuição do VPL. O valor crítico, ou ponto de equilíbrio, indica, por exemplo, a demanda mínima que mantém o VPL igual a zero. Também é preciso separar a decisão de investimento da decisão de financiamento: o projeto se avalia pelos fluxos operacionais descontados ao custo de oportunidade; financiamento subsidiado é benefício à parte, que não deve tornar viável projeto ruim. Em concessões, a taxa interna de retorno do projeto (fluxos antes do financiamento) não se confunde com a do acionista (fluxos após o serviço da dívida), distinção relevante nos pedidos de reequilíbrio.\n\n7) No setor público\nA análise de alternativas tem amparo normativo. O estudo técnico preliminar da Lei 14.133/2021 deve demonstrar a melhor solução para a necessidade, com levantamento de alternativas e estimativas de custo. A LRF exige estimativa de impacto orçamentário-financeiro e declaração de adequação para a criação ou expansão de ação governamental que acarrete aumento de despesa (art. 16), e o art. 45 condiciona a inclusão de novos projetos na lei orçamentária ao atendimento adequado dos que estão em andamento. Nas PPPs, a contratação depende de estudo técnico que demonstre a conveniência e a oportunidade da modalidade (Lei 11.079/2004, art. 10). O governo federal publicou guia de análise socioeconômica de custo-benefício para projetos de infraestrutura, que adota o VPL econômico como critério central.\nAchados comuns em auditoria: estudos de viabilidade que comparam alternativas com prazos distintos sem CAE; uso de TIR alta para justificar projeto de pequena escala em detrimento de outro de maior VPL; fluxos nominais descontados a taxa real, inflando benefícios; omissão de custos de manutenção e de desmobilização; e projeções de demanda otimistas sem análise de sensibilidade.",
+   "flashcards": [
+    {
+     "frente": "VPL",
+     "verso": "Σ fluxos descontados à TMA − investimento. Aceitar se > 0; entre exclusivas, maior VPL.",
+     "dispositivo": "Critérios de investimento"
+    },
+    {
+     "frente": "TIR",
+     "verso": "Taxa que zera o VPL. Aceitar se TIR > TMA. Falha em escala, timing e fluxos não convencionais.",
+     "dispositivo": "Critérios de investimento"
+    },
+    {
+     "frente": "Equação de Fisher",
+     "verso": "(1 + nominal) = (1 + real) × (1 + inflação).",
+     "dispositivo": "Matemática financeira"
+    },
+    {
+     "frente": "Regra de coerência",
+     "verso": "Fluxo nominal ↔ taxa nominal; fluxo real ↔ taxa real. VPL igual nos dois.",
+     "dispositivo": "Ambiente inflacionário"
+    },
+    {
+     "frente": "Payback descontado",
+     "verso": "Tempo para recuperar o investimento com fluxos descontados; mede liquidez/risco, não rentabilidade.",
+     "dispositivo": "Critérios complementares"
+    },
+    {
+     "frente": "Custo anual equivalente",
+     "verso": "Compara alternativas de vidas diferentes convertendo custos em parcela anual.",
+     "dispositivo": "Critérios complementares"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "Para projetos independentes com fluxos de caixa convencionais, se a TIR for superior à taxa mínima de atratividade, o VPL calculado a essa taxa será positivo.",
+     "gabarito": "C",
+     "comentario": "Certo. Nos fluxos convencionais, o VPL decresce com a taxa e se anula na TIR; com TMA menor que a TIR, o VPL é positivo.",
+     "dispositivo": "Relação VPL x TIR",
+     "id": "tceac-nuvem-investimento-alternativas-n2-q01"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "Projeto que exige 1.000 e gera 600 ao fim de cada um dos dois anos seguintes tem VPL negativo quando descontado a 10% ao ano.",
+     "gabarito": "E",
+     "comentario": "Errado. VP = 545,45 + 495,87 = 1.041,32; VPL = +41,32.",
+     "dispositivo": "Cálculo do VPL",
+     "id": "tceac-nuvem-investimento-alternativas-n2-q02"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Sendo a taxa nominal de 15,5% ao ano e a inflação de 5% ao ano, a taxa real é de 10,5% ao ano.",
+     "gabarito": "E",
+     "comentario": "Errado. Pela equação de Fisher, 1,155 ÷ 1,05 − 1 = 10%. A subtração simples é aproximação inadequada.",
+     "dispositivo": "Equação de Fisher",
+     "id": "tceac-nuvem-investimento-alternativas-n2-q03"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Entre dois projetos mutuamente exclusivos, deve-se preferir o de maior TIR, ainda que o outro apresente VPL maior à taxa mínima de atratividade.",
+     "gabarito": "E",
+     "comentario": "Errado. Em caso de conflito, prevalece o VPL, que mede o acréscimo de riqueza; a TIR ignora a escala do projeto.",
+     "dispositivo": "Conflito VPL x TIR",
+     "id": "tceac-nuvem-investimento-alternativas-n2-q04"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Descontar fluxos de caixa expressos em valores nominais a uma taxa real tende a superestimar o VPL do projeto.",
+     "gabarito": "C",
+     "comentario": "Certo. A taxa real é menor que a nominal; aplicada a fluxos inflados, aumenta o valor presente. A coerência exige fluxos nominais com taxa nominal ou reais com taxa real.",
+     "dispositivo": "Coerência nominal/real",
+     "id": "tceac-nuvem-investimento-alternativas-n2-q05"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Fluxos de caixa não convencionais, com mais de uma inversão de sinal, podem apresentar mais de uma TIR.",
+     "gabarito": "C",
+     "comentario": "Certo. Cada mudança de sinal pode gerar uma raiz; nesses casos, recomenda-se o VPL ou a TIR modificada.",
+     "dispositivo": "Limitações da TIR",
+     "id": "tceac-nuvem-investimento-alternativas-n2-q06"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Duas máquinas atendem à mesma necessidade e serão substituídas ao fim da vida útil: X custa 1.000 e dura 2 anos; Y custa 1.400 e dura 3 anos. Com TMA de 10% ao ano e custos operacionais iguais, assinale a opção correta.",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "X é preferível, por ser mais barata na aquisição.",
+      "B": "Y é preferível, pois seu custo anual equivalente (≈ 562,96) é menor que o de X (≈ 576,19).",
+      "C": "As duas são indiferentes, pois o custo por ano de vida é o mesmo.",
+      "D": "Deve-se escolher pela TIR, que dispensa considerar a vida útil.",
+      "E": "Não é possível comparar alternativas com vidas diferentes."
+     },
+     "comentario": "CAE = investimento × fator de recuperação de capital: X ≈ 1.000 × 0,5762; Y ≈ 1.400 × 0,4021. Y custa menos por ano.",
+     "dispositivo": "Custo anual equivalente",
+     "id": "tceac-nuvem-investimento-alternativas-n2-q07"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Projeto B: investe 100 e recebe 130 em um ano. Projeto C: investe 1.000 e recebe 1.200 em um ano. TMA de 10%. Sendo mutuamente exclusivos e havendo capital disponível, assinale a opção correta.",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "Escolhe-se B, pois a TIR de 30% supera a de C.",
+      "B": "Escolhe-se C, pois seu VPL (≈ 90,91) supera o de B (≈ 18,18).",
+      "C": "Os projetos são indiferentes, pois ambos têm VPL positivo.",
+      "D": "Escolhe-se B, pois tem maior índice de lucratividade e o IL prevalece sobre o VPL.",
+      "E": "Nenhum deve ser aceito, pois as TIRs divergem."
+     },
+     "comentario": "Conflito de escala: a TIR favorece o pequeno; o VPL indica o que gera mais riqueza. Sem restrição de capital, prevalece o VPL.",
+     "dispositivo": "Conflito VPL x TIR",
+     "id": "tceac-nuvem-investimento-alternativas-n2-q08"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O ___ mede, em moeda de hoje, o acréscimo de riqueza do projeto; a ___ é a taxa que torna esse valor igual a zero.",
+     "opcoes": [
+      "VPL",
+      "TIR",
+      "payback",
+      "TMA",
+      "IL",
+      "CAE"
+     ],
+     "respostas": [
+      "VPL",
+      "TIR"
+     ],
+     "explicacao": "VPL e TIR são relacionados pela mesma equação de desconto."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Índice de lucratividade",
+       "VP das entradas ÷ investimento"
+      ],
+      [
+       "Payback simples",
+       "Tempo de recuperação sem desconto"
+      ],
+      [
+       "TIR modificada",
+       "Reinvestimento à taxa definida, taxa única"
+      ],
+      [
+       "Custo anual equivalente",
+       "Comparação de vidas diferentes"
+      ],
+      [
+       "TMA",
+       "Custo de oportunidade do capital"
+      ]
+     ]
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene as etapas da avaliação de alternativas de investimento.",
+     "itens": [
+      "Definir a necessidade e as alternativas",
+      "Projetar fluxos incrementais (nominais ou reais)",
+      "Escolher a taxa de desconto coerente com os fluxos",
+      "Calcular VPL e indicadores complementares",
+      "Fazer análise de sensibilidade e decidir"
+     ],
+     "explicacao": "Coerência entre fluxos e taxa vem antes do cálculo."
+    },
+    {
+     "tipo": "caso_pratico",
+     "enunciado": "Questão discursiva: Estudo de viabilidade de concessão projeta receitas corrigidas pela inflação esperada, mas as desconta à taxa real, e compara a proposta com alternativa de prazo menor apenas pela TIR. Aponte os vícios e a forma correta.",
+     "resposta": "(1) Incoerência nominal/real: fluxos nominais devem ser descontados à taxa nominal (Fisher), sob pena de superestimar o VPL. (2) A TIR não resolve conflitos de escala e de prazo; alternativas de vidas diferentes exigem custo anual equivalente ou horizonte comum, e a decisão deve seguir o VPL. (3) Deve haver análise de sensibilidade de demanda, custos e taxa. O tribunal pode determinar a revisão do estudo antes da licitação, com base no dever de demonstrar a melhor alternativa (Lei 14.133/2021, art. 18; Lei 11.079/2004, art. 10).",
+     "explicacao": "(1) Incoerência nominal/real: fluxos nominais devem ser descontados à taxa nominal (Fisher), sob pena de superestimar o VPL. (2) A TIR não resolve conflitos de escala e de prazo; alternativas de vidas diferentes exigem custo anual equivalente ou horizonte comum, e a decisão deve seguir o VPL. (3) Deve haver análise de sensibilidade de demanda, custos e taxa. O tribunal pode determinar a revisão do estudo antes da licitação, com base no dever de demonstrar a melhor alternativa (Lei 14.133/2021, art. 18; Lei 11.079/2004, art. 10).",
+     "dispositivo": "Lei 14.133/2021, art. 18; Lei 11.079/2004, art. 10; LRF, art. 16"
+    }
+   ]
+  }
+ ]
+}

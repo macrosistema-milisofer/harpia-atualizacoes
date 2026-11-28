@@ -1,0 +1,204 @@
+{
+ "assunto": "Direito Tributário – Impostos dos municípios (IPTU, ITBI e ISS)",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-28",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-nuvem-impostos-municipais-n2",
+   "titulo": "IPTU, ITBI e ISS: competência, jurisprudência e o controle da receita própria municipal",
+   "microconteudo": "RAIO-X DA PROVA: O Cebraspe explora as duas progressividades do IPTU (fiscal desde a EC 29/2000 e no tempo do art. 182), a atualização da base pelo Executivo após a EC 132/2023, as imunidades (SV 52, templos locatários da EC 116/2022, Temas 385 e 437) e, no ITBI, o registro como fato gerador (Tema 1124, em reexame quanto à cessão de direitos), a base do Tema 1113 do STJ e o limite do Tema 796. Em tribunal de contas, liga tudo ao art. 11 da LRF.\n\nPOR QUE IMPORTA:\nOs municípios têm três impostos próprios (IPTU, ITBI e ISS) e, na maioria deles, arrecadam pouco com os dois primeiros: cadastro imobiliário desatualizado, planta de valores antiga e isenções sem critério são achados frequentes das auditorias de receita. A LRF trata a instituição, previsão e efetiva arrecadação de todos os impostos como requisito de responsabilidade fiscal, com sanção de transferências voluntárias. Para o conselheiro substituto, dominar a disciplina constitucional e a jurisprudência desses impostos é condição para avaliar se o município explora sua base tributária ou renuncia receita sem amparo. O assunto também é central em provas de procuradoria municipal e magistratura.\n\nO QUE A BANCA COBRA:\n- Competência do art. 156: IPTU, ITBI e ISS; impostos que o DF acumula; regras gerais no CTN e em lei complementar.\n- IPTU: fato gerador, zona urbana (art. 32 do CTN), progressividade fiscal (EC 29/2000) e extrafiscal no tempo (art. 182, § 4º), atualização da base (EC 132/2023) e imunidades (SV 52, EC 116/2022, Temas 385 e 437).\n- ITBI: fato gerador, registro e cessão de direitos (Tema 1124), base de cálculo (Tema 1113 do STJ), imunidade na integralização de capital (Tema 796) e vedação de progressividade (Súmula 656).\n- ISS em linhas gerais e sua extinção com o IBS; COSIP como contribuição municipal (art. 149-A).\n- Responsabilidade fiscal: art. 11 (arrecadação efetiva) e art. 14 (renúncia) da LRF.\n- Casos de auditoria sobre planta genérica de valores, cadastro e isenções; questão discursiva.\n\nENTENDA:\n1) O quadro de competências\nO art. 156 da Constituição atribui aos municípios: I – propriedade predial e territorial urbana (IPTU); II – transmissão inter vivos, a qualquer título, por ato oneroso, de bens imóveis e de direitos reais sobre imóveis, exceto os de garantia, e cessão de direitos a sua aquisição (ITBI); III – serviços de qualquer natureza não compreendidos no art. 155, II, definidos em lei complementar (ISS). O DF acumula os impostos estaduais e municipais (art. 147). Não confunda com tributos que o município apenas recebe: metade do ITR (ou a totalidade, se optar por fiscalizá-lo e cobrá-lo, art. 153, § 4º, III) e parcelas do IPVA e do ICMS são transferências, não competência.\n\n2) IPTU: fato gerador e zona urbana\nPelo CTN, o fato gerador é a propriedade, o domínio útil ou a posse de bem imóvel localizado na zona urbana (art. 32). A lei municipal define a zona urbana, que deve ter ao menos dois dos melhoramentos do § 1º: meio-fio ou calçamento com canalização de águas pluviais; abastecimento de água; sistema de esgotos sanitários; rede de iluminação pública; escola primária ou posto de saúde a até 3 km. Áreas urbanizáveis ou de expansão urbana aprovadas por lei também podem ser tributadas, e o STJ sumulou que, nelas, a incidência independe daqueles melhoramentos (Súmula 626). Critério que o candidato de nível alto precisa conhecer: imóvel em zona urbana com destinação rural comprovada (exploração extrativa, agrícola, pecuária ou agroindustrial) sujeita-se ao ITR, conforme a jurisprudência do STJ, que conjuga o critério da localização com o da destinação. Cabe à lei municipal eleger o contribuinte entre os possíveis sujeitos passivos (Súmula 399 do STJ).\n\n3) IPTU: base, alíquotas e progressividade\nA base de cálculo é o valor venal do imóvel (CTN, art. 33), apurado pela planta genérica de valores. Até a EC 132/2023, a atualização da base acima da correção monetária dependia de lei (Súmula 160 do STJ). A EC 132 incluiu no art. 156, § 1º, o inciso III: o IPTU pode ter a base de cálculo atualizada pelo Poder Executivo, conforme critérios estabelecidos em lei municipal. A lei continua necessária, mas pode delegar a aplicação técnica dos critérios.\nHá duas progressividades. A fiscal (em razão do valor do imóvel) e a diferenciação de alíquotas por localização e uso foram autorizadas pela EC 29/2000 (art. 156, § 1º, I e II). Antes dela, a progressividade fiscal era inconstitucional (Súmula 668 do STF). A extrafiscal, progressiva no tempo, é sanção ao proprietário de solo urbano não edificado, subutilizado ou não utilizado, após parcelamento ou edificação compulsórios, nos termos do plano diretor (art. 182, § 4º, II, regulado pelo Estatuto da Cidade).\n\n4) IPTU: imunidades e situações limite\n• Templos: a imunidade alcança imóveis de entidades religiosas, e a EC 116/2022 incluiu o § 1º-A no art. 156 para afastar o IPTU sobre templos de qualquer culto ainda que as entidades sejam apenas locatárias do bem.\n• Entidades do art. 150, VI, c: imunes ao IPTU mesmo quando o imóvel está alugado a terceiros, desde que o valor dos aluguéis seja aplicado nas atividades essenciais (Súmula Vinculante 52).\n• Imunidade recíproca e imóvel público cedido: o STF admitiu o IPTU sobre imóvel público ocupado por empresa privada que explora atividade econômica (Tema 437, arrendamento em área portuária) e sobre imóvel público cedido a sociedade de economia mista com finalidade lucrativa (Tema 385). A imunidade protege o ente, não o particular que usa o bem para lucro.\n\n5) ITBI: fato gerador e o problema do registro\nO ITBI incide sobre a transmissão onerosa de imóveis e direitos reais (exceto garantia) e sobre a cessão de direitos à sua aquisição; compete ao município da situação do bem (art. 156, § 2º, II). Como a propriedade imóvel se transfere com o registro (Código Civil, art. 1.245), o STF, em 2021, reafirmou que o fato gerador só ocorre com a efetiva transferência no registro imobiliário, o que afastaria a cobrança sobre promessas e cessões não registradas. Em 2022, porém, o Plenário acolheu embargos, cancelou a reafirmação e decidiu reexaminar o mérito do Tema 1124, porque o texto constitucional menciona expressamente a cessão de direitos. Em prova, a regra segura é: a cobrança antecipada, antes do registro, é vedada pela jurisprudência consolidada; a incidência sobre a cessão de direitos é a questão em aberto no Tema 1124. Lei municipal que exige o ITBI na lavratura da escritura de promessa entra em conflito com essa orientação.\nTambém não incide ITBI sobre a construção feita pelo adquirente depois da compra do terreno (Súmula 110 do STF).\n\n6) ITBI: base de cálculo e alíquota\nNo Tema 1113, o STJ fixou que a base de cálculo é o valor do imóvel transmitido em condições normais de mercado, não vinculada à base do IPTU; que o valor declarado pelo contribuinte goza de presunção de veracidade, só afastável pelo fisco mediante processo administrativo próprio (art. 148 do CTN); e que o município não pode arbitrar previamente a base com valor de referência fixado unilateralmente. A alíquota não pode ser progressiva em razão do valor venal (Súmula 656 do STF), entendimento que permanece para o ITBI mesmo após o STF admitir a progressividade do ITCMD, imposto estadual.\n\n7) ITBI: imunidades do § 2º, I\nNão incide sobre a transmissão de bens ou direitos incorporados ao patrimônio de pessoa jurídica em realização de capital, nem sobre a decorrente de fusão, incorporação, cisão ou extinção de pessoa jurídica, salvo se a atividade preponderante do adquirente for compra e venda, locação ou arrendamento mercantil de imóveis. No Tema 796, o STF decidiu que a imunidade na integralização não alcança o valor dos bens que exceder o limite do capital social a ser integralizado.\n\n8) ISS e COSIP em síntese\nO ISS segue a LC 116/2003 (lista taxativa com interpretação extensiva, alíquotas de 2% a 5%, regra do estabelecimento prestador) e será substituído pelo IBS, de competência compartilhada entre estados e municípios, com redução gradual entre 2029 e 2032 e extinção em 2033 (EC 132/2023). A contribuição para o custeio do serviço de iluminação pública (art. 149-A) é tributo municipal, mas não imposto; a EC 132 ampliou sua destinação à expansão e melhoria do serviço e a sistemas de monitoramento para segurança e preservação de logradouros.\n\n9) Responsabilidade fiscal e controle externo\nO art. 11 da LRF considera requisito essencial da responsabilidade na gestão fiscal a instituição, previsão e efetiva arrecadação de todos os tributos da competência do ente; quanto aos impostos, o descumprimento veda transferências voluntárias. A renúncia (isenção, remissão, anistia, redução de base) exige estimativa de impacto e compensação ou demonstração de que foi considerada na previsão de receita (art. 14). Achados típicos: planta genérica de valores sem atualização por décadas, cadastro imobiliário que ignora loteamentos inteiros, ITBI calculado por valor de referência unilateral (gerando litígios perdidos), isenções de IPTU genéricas sem estudo de impacto e ausência de cobrança da dívida ativa.\nA cobrança também mudou de perfil. O STF considerou constitucional o protesto das certidões de dívida ativa (ADI 5135), meio extrajudicial mais barato que a execução. No Tema 1184, admitiu a extinção de execução fiscal de baixo valor por falta de interesse de agir, desde que respeitada a competência do ente para definir esse valor e que o ajuizamento seja precedido de tentativa de solução administrativa ou conciliação e de protesto do título, salvo quando inadequado. Para o município, a mensagem é dupla: ajuizar em massa créditos pequenos de IPTU tende a ser ineficaz, e a omissão completa na cobrança é falha de gestão que o tribunal de contas aponta. O auditor examina a política de cobrança: régua de cobrança administrativa, protesto, parcelamento com critérios, prescrição controlada e baixa motivada de créditos incobráveis.",
+   "flashcards": [
+    {
+     "frente": "Impostos municipais (art. 156)",
+     "verso": "IPTU, ITBI e ISS. O DF cobra também os estaduais.",
+     "dispositivo": "CF, arts. 147 e 156"
+    },
+    {
+     "frente": "Duas progressividades do IPTU",
+     "verso": "Fiscal (valor, EC 29/2000) e extrafiscal no tempo (art. 182, § 4º, II).",
+     "dispositivo": "CF, arts. 156, § 1º, e 182"
+    },
+    {
+     "frente": "EC 132 e o IPTU",
+     "verso": "Executivo pode atualizar a base conforme critérios da lei municipal (art. 156, § 1º, III).",
+     "dispositivo": "CF, art. 156, § 1º, III"
+    },
+    {
+     "frente": "ITBI – base de cálculo",
+     "verso": "Valor de mercado do imóvel, não vinculado ao IPTU; declarado presume-se verdadeiro; vedado valor de referência unilateral.",
+     "dispositivo": "STJ, Tema 1113"
+    },
+    {
+     "frente": "ITBI – progressividade",
+     "verso": "Vedada em razão do valor venal (Súmula 656 do STF).",
+     "dispositivo": "STF, Súmula 656"
+    },
+    {
+     "frente": "Art. 11 da LRF",
+     "verso": "Instituir, prever e arrecadar todos os tributos; quanto aos impostos, descumprimento veda transferências voluntárias.",
+     "dispositivo": "LRF, art. 11"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "Para fins de IPTU, a lei municipal deve exigir, na zona urbana, a existência de pelo menos dois dos melhoramentos indicados no CTN, como abastecimento de água e rede de iluminação pública.",
+     "gabarito": "C",
+     "comentario": "Certo. CTN, art. 32, § 1º. Nas áreas de expansão urbana aprovadas por lei, a incidência independe desses melhoramentos (Súmula 626 do STJ).",
+     "dispositivo": "CTN, art. 32, § 1º; STJ, Súmula 626",
+     "id": "tceac-nuvem-impostos-municipais-n2-q01"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "A progressividade do IPTU em razão do valor do imóvel é inconstitucional mesmo após a EC 29/2000.",
+     "gabarito": "E",
+     "comentario": "Errado. A EC 29/2000 autorizou a progressividade fiscal (art. 156, § 1º, I). A Súmula 668 do STF refere-se às leis anteriores à emenda.",
+     "dispositivo": "CF, art. 156, § 1º, I; STF, Súmula 668",
+     "id": "tceac-nuvem-impostos-municipais-n2-q02"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Após a EC 132/2023, o Poder Executivo pode atualizar a base de cálculo do IPTU, conforme critérios estabelecidos em lei municipal.",
+     "gabarito": "C",
+     "comentario": "Certo. Art. 156, § 1º, III, da CF.",
+     "dispositivo": "CF, art. 156, § 1º, III",
+     "id": "tceac-nuvem-impostos-municipais-n2-q03"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "O templo de qualquer culto instalado em imóvel alugado não está protegido pela imunidade de IPTU, pois o contribuinte é o proprietário particular.",
+     "gabarito": "E",
+     "comentario": "Errado. A EC 116/2022 incluiu o § 1º-A no art. 156: o IPTU não incide sobre templos ainda que as entidades sejam apenas locatárias.",
+     "dispositivo": "CF, art. 156, § 1º-A",
+     "id": "tceac-nuvem-impostos-municipais-n2-q04"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Segundo o STJ, a base de cálculo do ITBI é o valor do imóvel em condições normais de mercado, não vinculado ao do IPTU, e o município não pode arbitrar previamente a base com valor de referência fixado unilateralmente.",
+     "gabarito": "C",
+     "comentario": "Certo. Tema repetitivo 1113.",
+     "dispositivo": "STJ, Tema 1113",
+     "id": "tceac-nuvem-impostos-municipais-n2-q05"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "A imunidade do ITBI na integralização de capital alcança a totalidade do valor do imóvel, ainda que superior ao capital social a ser integralizado.",
+     "gabarito": "E",
+     "comentario": "Errado. Tema 796 do STF: a imunidade não alcança o valor que exceder o limite do capital a integralizar.",
+     "dispositivo": "CF, art. 156, § 2º, I; STF, Tema 796",
+     "id": "tceac-nuvem-impostos-municipais-n2-q06"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Sobre o IPTU em imóveis públicos e de entidades imunes, assinale a opção correta.",
+     "gabarito": "C",
+     "alternativas": {
+      "A": "Imóvel público arrendado a empresa privada que explora atividade econômica é imune ao IPTU pela imunidade recíproca.",
+      "B": "Imóvel de entidade de assistência social sem fins lucrativos alugado a terceiros perde a imunidade, ainda que os aluguéis sejam aplicados nas atividades essenciais.",
+      "C": "Incide IPTU sobre imóvel público cedido a sociedade de economia mista que explora atividade com finalidade lucrativa.",
+      "D": "A imunidade dos templos não alcança imóveis locados pela entidade religiosa.",
+      "E": "A imunidade recíproca protege o particular que usa o bem público, por extensão do benefício do ente."
+     },
+     "comentario": "Tema 385 (cessão a sociedade de economia mista com fins lucrativos) e Tema 437 (arrendamento a empresa privada) afastam a imunidade. SV 52 mantém a imunidade do imóvel alugado; EC 116/2022 protege templos locatários.",
+     "dispositivo": "STF, Temas 385 e 437; SV 52; CF, art. 156, § 1º-A",
+     "id": "tceac-nuvem-impostos-municipais-n2-q07"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Auditoria em município constata: planta genérica de valores sem revisão há 20 anos; ITBI cobrado na escritura de promessa de compra e venda com base em valor de referência fixado por decreto; isenção ampla de IPTU concedida sem estimativa de impacto. Assinale a opção correta.",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "Todas as práticas são regulares, pois decorrem da autonomia tributária municipal.",
+      "B": "A cobrança do ITBI antes do registro e por valor de referência unilateral contraria a jurisprudência, e a isenção sem estimativa de impacto viola o art. 14 da LRF; a defasagem da planta compromete a efetiva arrecadação exigida pelo art. 11.",
+      "C": "Somente a isenção é irregular, porque a LRF não trata de arrecadação de impostos.",
+      "D": "A planta desatualizada é irrelevante, pois a base do IPTU é o valor declarado pelo contribuinte.",
+      "E": "O ITBI pode ser exigido na promessa de compra e venda, pois o Tema 1124 foi definitivamente julgado a favor dos municípios."
+     },
+     "comentario": "Arts. 11 e 14 da LRF; Tema 1113 do STJ veda valor de referência unilateral; a jurisprudência consolidada exige o registro, e o Tema 1124 está em reexame quanto à cessão de direitos.",
+     "dispositivo": "LRF, arts. 11 e 14; STJ, Tema 1113; STF, Tema 1124",
+     "id": "tceac-nuvem-impostos-municipais-n2-q08"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "O IPTU tem como base de cálculo o valor ___ do imóvel, e a progressividade em razão do valor foi autorizada pela EC ___.",
+     "opcoes": [
+      "venal",
+      "29/2000",
+      "de mercado declarado",
+      "132/2023",
+      "contábil",
+      "116/2022"
+     ],
+     "respostas": [
+      "venal",
+      "29/2000"
+     ],
+     "explicacao": "CTN, art. 33; CF, art. 156, § 1º, I."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Súmula Vinculante 52",
+       "IPTU e imóvel de entidade imune alugado a terceiros"
+      ],
+      [
+       "Tema 796",
+       "Limite da imunidade do ITBI na integralização"
+      ],
+      [
+       "Tema 1113 (STJ)",
+       "Base de cálculo do ITBI"
+      ],
+      [
+       "Súmula 656",
+       "Vedação de ITBI progressivo"
+      ],
+      [
+       "EC 116/2022",
+       "Templos locatários imunes ao IPTU"
+      ]
+     ]
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene as etapas para o município exigir o IPTU progressivo no tempo.",
+     "itens": [
+      "Plano diretor inclui a área",
+      "Lei municipal específica determina parcelamento ou edificação compulsórios",
+      "Proprietário é notificado e descumpre o prazo",
+      "Aplica-se o IPTU progressivo no tempo",
+      "Persistindo o descumprimento, cabe desapropriação com pagamento em títulos da dívida pública"
+     ],
+     "explicacao": "Sequência do art. 182, § 4º, da CF."
+    },
+    {
+     "tipo": "caso_pratico",
+     "enunciado": "Questão discursiva: Analise, sob a ótica do controle externo, a situação de município que mantém planta genérica de valores sem revisão há duas décadas, concede isenções de IPTU sem estudo e cobra ITBI por valor de referência fixado por decreto.",
+     "resposta": "A defasagem da planta e as isenções sem estimativa de impacto comprometem a efetiva arrecadação exigida pelo art. 11 da LRF e violam o art. 14 (renúncia); a ausência de arrecadação de impostos pode vedar transferências voluntárias. Após a EC 132/2023, a base do IPTU pode ser atualizada pelo Executivo, mas conforme critérios fixados em lei municipal. O ITBI por valor de referência unilateral contraria o Tema 1113 do STJ e gera litígios e restituições. O tribunal pode recomendar revisão da planta, atualização cadastral, procedimento administrativo de arbitramento (CTN, art. 148) e determinar a regularização das renúncias.",
+     "explicacao": "A defasagem da planta e as isenções sem estimativa de impacto comprometem a efetiva arrecadação exigida pelo art. 11 da LRF e violam o art. 14 (renúncia); a ausência de arrecadação de impostos pode vedar transferências voluntárias. Após a EC 132/2023, a base do IPTU pode ser atualizada pelo Executivo, mas conforme critérios fixados em lei municipal. O ITBI por valor de referência unilateral contraria o Tema 1113 do STJ e gera litígios e restituições. O tribunal pode recomendar revisão da planta, atualização cadastral, procedimento administrativo de arbitramento (CTN, art. 148) e determinar a regularização das renúncias.",
+     "dispositivo": "LRF, arts. 11 e 14; CF, art. 156, § 1º, III; STJ, Tema 1113; CTN, art. 148"
+    }
+   ]
+  }
+ ]
+}

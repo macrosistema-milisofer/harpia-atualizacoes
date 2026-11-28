@@ -1,0 +1,204 @@
+{
+ "assunto": "Contabilidade Pública – Análise das demonstrações contábeis",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-28",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-nuvem-analise-demonstracoes-n2",
+   "titulo": "Análise de demonstrações no setor público: índices, superávit e notas que mudam o diagnóstico",
+   "microconteudo": "RAIO-X DA PROVA: O Cebraspe troca as análises horizontal e vertical, inverte numerador e denominador da composição do endividamento e pede cálculo de liquidez seca ou geral com dados do enunciado. Na roupagem pública, cobra o superávit financeiro do art. 43 da Lei 4.320/1964, os limites de dívida da Resolução do Senado 40/2001 (2 vezes a RCL para estados; 1,2 para municípios) e casos em que a nota explicativa desmonta um índice aparentemente bom.\n\nPOR QUE IMPORTA:\nDemonstração contábil não fala sozinha. O auditor de contas recebe balanços com centenas de linhas e precisa, em pouco tempo, responder perguntas de gestão: o ente consegue pagar o que deve no curto prazo? A dívida está crescendo mais rápido que a receita? Os restos a pagar têm cobertura de caixa? Há passivos escondidos nas notas? A análise das demonstrações é o conjunto de técnicas que transforma números em diagnóstico. Para quem julga contas de governo, o tema aparece no parecer prévio, na análise de gestão fiscal e em qualquer auditoria financeira. É assunto comum a provas de contabilidade geral e pública, de auditor fiscal a conselheiro substituto.\n\nO QUE A BANCA COBRA:\n- Diferença entre análise horizontal (evolução no tempo, números-índice) e vertical (participação no total do período), e o efeito da inflação e de bases pequenas.\n- Fórmulas de liquidez imediata, seca, corrente e geral, com cálculo numérico e interpretação.\n- Indicadores de estrutura de capital: participação de capitais de terceiros, composição do endividamento, imobilização do patrimônio líquido e endividamento geral.\n- Leitura dos indicadores no setor público: ativo e passivo financeiros (art. 105 da Lei 4.320/1964), superávit financeiro (art. 43), quocientes do balanço orçamentário e indicadores fiscais da LRF.\n- Uso das notas explicativas para corrigir ou qualificar a leitura dos índices (contingências, garantias, eventos subsequentes, mudança de políticas).\n- Casos complexos em que o índice “bom” esconde risco, e questão discursiva sobre limitações da análise.\n\nENTENDA:\n1) O método antes da fórmula\nAnalisar é comparar. Um número isolado (liquidez corrente de 1,3) quase nada diz; ganha sentido quando confrontado com a série histórica da própria entidade, com entidades semelhantes ou com um parâmetro normativo. Por isso a análise se apoia em três movimentos: padronizar as demonstrações (reclassificar contas, ajustar valores irrealizáveis), calcular índices e interpretar o conjunto. Interpretar significa ler os indicadores juntos: liquidez em queda com endividamento estável conta uma história diferente de liquidez em queda com dívida de curto prazo disparando.\n\n2) Análise horizontal\nCompara cada conta consigo mesma ao longo de vários períodos, tomando um exercício como base 100. Se o passivo circulante foi de R$ 200 mil em 2024 e de R$ 260 mil em 2025, o número-índice é 130: crescimento de 30%. Há duas variantes: a horizontal encadeada (cada ano contra o anterior) e a de base fixa (todos contra o primeiro ano). Duas armadilhas são clássicas. A primeira é a base pequena: uma conta que sai de R$ 1 mil para R$ 10 mil cresce 900% e pode não ter relevância alguma. A segunda é a inflação: comparar valores nominais em ambiente inflacionário sugere crescimento que não houve; o analista deflaciona os valores por um índice de preços antes de concluir.\n\n3) Análise vertical\nMede o peso de cada conta em relação a um total do mesmo período: no balanço patrimonial, o ativo total (ou o passivo mais o patrimônio líquido); na demonstração do resultado, a receita; na demonstração das variações patrimoniais do setor público, o total das variações aumentativas. Se o imobilizado é 70% do ativo, a entidade é intensiva em bens de uso. As duas análises se completam: a vertical mostra a composição; a horizontal, a direção do movimento. Uma conta pode crescer 50% na horizontal e continuar irrelevante na vertical.\n\n4) Índices de liquidez\nEm regra, quanto maior, melhor (com a ressalva de que excesso de caixa ocioso também é ineficiência).\n• Liquidez imediata = Disponível ÷ Passivo Circulante.\n• Liquidez seca = (Ativo Circulante − Estoques) ÷ Passivo Circulante. Algumas bancas também retiram despesas antecipadas; siga a fórmula do enunciado.\n• Liquidez corrente = Ativo Circulante ÷ Passivo Circulante. Acima de 1, capital circulante líquido positivo.\n• Liquidez geral = (Ativo Circulante + Realizável a Longo Prazo) ÷ (Passivo Circulante + Passivo Não Circulante).\nExemplo: AC = 300; estoques = 60; disponível = 90; PC = 200; RLP = 100; PNC = 300. LC = 1,5; LS = 1,2; LI = 0,45; LG = 400 ÷ 500 = 0,8. Leitura: no curto prazo há folga, mas o conjunto das obrigações supera os ativos realizáveis, o que aponta dependência de receitas futuras ou de refinanciamento.\n\n5) Estrutura de capital e endividamento\nEm regra, quanto menor, melhor.\n• Participação de capitais de terceiros = Capital de Terceiros ÷ Patrimônio Líquido (muitas bancas chamam de grau de endividamento).\n• Endividamento geral = Capital de Terceiros ÷ Ativo Total.\n• Composição do endividamento = Passivo Circulante ÷ Capital de Terceiros. Mede o perfil da dívida: quanto vence no curto prazo.\n• Imobilização do patrimônio líquido = (Ativo Não Circulante − Realizável a Longo Prazo) ÷ Patrimônio Líquido. Acima de 1, parte dos bens de longa duração é financiada por terceiros.\nA doutrina diferencia estrutura (de onde vêm os recursos) de endividamento (quanto e quando se deve), mas as provas tratam os índices em bloco. Ponto de atenção: com patrimônio líquido negativo (passivo a descoberto), os índices com PL no denominador perdem sentido matemático; o analista registra a situação, que já é por si um sinal grave.\n\n6) A mesma lógica com roupagem pública\nO balanço patrimonial da Lei 4.320/1964 segrega ativo e passivo financeiros e permanentes (art. 105). A diferença positiva entre ativo financeiro e passivo financeiro é o superávit financeiro apurado no balanço do exercício anterior, fonte para abertura de créditos suplementares e especiais (art. 43, § 1º, I, e § 2º), descontados os créditos reabertos e as operações de crédito a eles vinculadas. O quociente ativo financeiro ÷ passivo financeiro é, portanto, um índice de liquidez com consequência jurídica.\nNo balanço orçamentário (art. 102), calculam-se quocientes como execução da receita (receita realizada ÷ prevista), execução da despesa (despesa empenhada ÷ dotação) e resultado orçamentário (receita realizada ÷ despesa empenhada). Previsão superestimada que gera créditos sem lastro aparece aqui antes de aparecer no caixa.\nNo campo fiscal, o endividamento ganha parâmetros normativos. A dívida consolidada líquida dos estados não pode superar duas vezes a receita corrente líquida, e a dos municípios, 1,2 vez (Resolução do Senado 40/2001, editada com base no art. 52, VI, da Constituição e no art. 30 da LRF). O art. 42 da LRF veda ao titular de Poder, nos dois últimos quadrimestres do mandato, contrair obrigação que não possa ser cumprida integralmente dentro dele ou que tenha parcelas a pagar no exercício seguinte sem disponibilidade de caixa. O demonstrativo de disponibilidade de caixa e de restos a pagar do Relatório de Gestão Fiscal (art. 55, III) é, na prática, uma análise de liquidez por fonte de recursos.\n\n7) Notas explicativas: onde o índice é corrigido\nAs notas integram as demonstrações (NBC TSP 11) e trazem as políticas contábeis, critérios de mensuração, detalhamento das contas, passivos contingentes, provisões, garantias concedidas, compromissos e eventos subsequentes. O analista as usa de três formas. (a) Ajustar: créditos de dívida ativa registrados sem ajuste para perdas inflam o ativo; a nota que revela baixa probabilidade de recebimento obriga a recalcular a liquidez. (b) Qualificar: uma garantia prestada a empresa estatal deficitária não está no passivo, mas pode virar dívida. (c) Comparar: mudança de política contábil ou retificação de erro altera a série histórica; sem reapresentação dos saldos comparativos, a análise horizontal fica distorcida.\n\nExemplo numérico integrado. Ativo total de 2024: R$ 1.000 mil, sendo caixa R$ 100 mil (10%), créditos R$ 200 mil (20%) e imobilizado R$ 700 mil (70%). Em 2025, o ativo total vai a R$ 1.200 mil, com caixa de R$ 60 mil (5%), créditos de R$ 340 mil (28,3%) e imobilizado de R$ 800 mil (66,7%). Na horizontal, o caixa tem índice 60 (queda de 40%), os créditos, 170, e o imobilizado, 114. Na vertical, o caixa perde metade do peso. Leitura conjunta: a entidade cresceu, mas trocou dinheiro por créditos a receber; antes de concluir por melhora patrimonial, o auditor deve testar a recuperabilidade desses créditos e verificar se houve reconhecimento de receita sem ingresso efetivo.\n\nOutras demonstrações também entram na análise. Na demonstração dos fluxos de caixa, interessa saber se o fluxo das operações é positivo e suficiente para pagar a dívida, ou se o caixa vem de operações de crédito e alienação de bens (sinal de fragilidade). Na demonstração das variações patrimoniais, o resultado patrimonial mostra se as variações aumentativas cobrem as diminutivas pelo regime de competência, informação que o balanço orçamentário, preso ao empenho, não revela. Divergência persistente entre resultado orçamentário positivo e resultado patrimonial negativo costuma indicar despesas não empenhadas, depreciação relevante ou provisões crescentes.\n\n8) Limites da análise e postura do auditor\nOs índices dependem da qualidade dos registros. Se o ente não reconhece provisões, não deprecia o imobilizado ou contabiliza receitas de forma irregular, os quocientes refletem o erro. Por isso, em auditoria financeira, a análise de índices é procedimento analítico: aponta onde aprofundar, não substitui o teste. Também é preciso considerar sazonalidade (no setor público, o fim do exercício concentra empenhos e inscrição de restos a pagar) e operações pontuais (uma operação de crédito recebida em dezembro melhora a liquidez imediata, mas aumenta o passivo de longo prazo).\nCaso de prova: município apresenta liquidez corrente 2,0 e superávit financeiro. As notas revelam precatórios vencidos não registrados como passivo e créditos de dívida ativa de difícil recuperação lançados no circulante. Ajustados os valores, a liquidez cai abaixo de 1 e o superávit some. Conclusão correta: os créditos adicionais abertos com base nesse superávit não tinham lastro, o que repercute na análise das contas de governo.",
+   "flashcards": [
+    {
+     "frente": "Horizontal x vertical",
+     "verso": "Horizontal: evolução da conta no tempo (base 100). Vertical: peso da conta no total do mesmo período.",
+     "dispositivo": "Técnicas de análise"
+    },
+    {
+     "frente": "Liquidez geral",
+     "verso": "(AC + RLP) ÷ (PC + PNC)",
+     "dispositivo": "Indicadores de liquidez"
+    },
+    {
+     "frente": "Composição do endividamento",
+     "verso": "PC ÷ Capital de terceiros: quanto da dívida vence no curto prazo.",
+     "dispositivo": "Indicadores de endividamento"
+    },
+    {
+     "frente": "Imobilização do PL",
+     "verso": "(ANC − RLP) ÷ PL. Acima de 1: terceiros financiam bens de longa duração.",
+     "dispositivo": "Estrutura de capital"
+    },
+    {
+     "frente": "Superávit financeiro (Lei 4.320)",
+     "verso": "Ativo financeiro − passivo financeiro do balanço do exercício anterior, ajustado pelos créditos reabertos e operações vinculadas.",
+     "dispositivo": "Lei 4.320/1964, art. 43, § 2º"
+    },
+    {
+     "frente": "Limite da DCL (Res. SF 40/2001)",
+     "verso": "Estados e DF: 2 × RCL. Municípios: 1,2 × RCL.",
+     "dispositivo": "Resolução SF 40/2001, art. 3º"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "Na análise vertical do balanço patrimonial, cada conta é comparada com seu próprio valor no exercício tomado como base, que recebe o índice 100.",
+     "gabarito": "E",
+     "comentario": "Errado. Essa é a análise horizontal (números-índice). A vertical mede a participação de cada conta no total do mesmo período, como o ativo total.",
+     "dispositivo": "Técnica de análise horizontal e vertical",
+     "id": "tceac-nuvem-analise-demonstracoes-n2-q01"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "Entidade com ativo circulante de 300, estoques de 60 e passivo circulante de 200 apresenta liquidez seca de 1,2.",
+     "gabarito": "C",
+     "comentario": "Certo. (300 − 60) ÷ 200 = 1,2.",
+     "dispositivo": "Fórmula da liquidez seca",
+     "id": "tceac-nuvem-analise-demonstracoes-n2-q02"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "O índice de composição do endividamento mede a proporção do ativo total financiada por capital de terceiros.",
+     "gabarito": "E",
+     "comentario": "Errado. Composição do endividamento = passivo circulante ÷ capital de terceiros, e indica o perfil de vencimento da dívida. O índice descrito é o endividamento geral.",
+     "dispositivo": "Indicadores de endividamento",
+     "id": "tceac-nuvem-analise-demonstracoes-n2-q03"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Imobilização do patrimônio líquido superior a 1 indica que parte do ativo não circulante, excluído o realizável a longo prazo, é financiada por capitais de terceiros.",
+     "gabarito": "C",
+     "comentario": "Certo. Se os bens de longa duração superam o capital próprio, a diferença foi financiada por terceiros.",
+     "dispositivo": "Indicadores de estrutura de capital",
+     "id": "tceac-nuvem-analise-demonstracoes-n2-q04"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "O superávit financeiro que serve de fonte para créditos adicionais corresponde à diferença positiva entre o ativo financeiro e o passivo financeiro apurada no balanço patrimonial do exercício anterior, conjugados os saldos dos créditos adicionais transferidos e as operações de crédito a eles vinculadas.",
+     "gabarito": "C",
+     "comentario": "Certo. É a definição do art. 43, § 2º, da Lei 4.320/1964.",
+     "dispositivo": "Lei 4.320/1964, art. 43, § 1º, I, e § 2º",
+     "id": "tceac-nuvem-analise-demonstracoes-n2-q05"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Segundo a Resolução do Senado 40/2001, a dívida consolidada líquida dos municípios não pode exceder duas vezes a receita corrente líquida.",
+     "gabarito": "E",
+     "comentario": "Errado. O limite de duas vezes vale para estados e DF; para os municípios, o limite é de 1,2 vez a RCL.",
+     "dispositivo": "Resolução SF 40/2001, art. 3º",
+     "id": "tceac-nuvem-analise-demonstracoes-n2-q06"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Na análise das demonstrações de um estado, o auditor constata liquidez corrente de 1,8, mas a nota explicativa informa que 70% do ativo circulante é dívida ativa sem ajuste para perdas e que há garantias prestadas a estatal em recuperação judicial. Assinale a opção correta.",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "A liquidez corrente deve ser mantida, pois notas explicativas não alteram valores reconhecidos.",
+      "B": "O índice deve ser recalculado após ajuste dos créditos de recuperação improvável, e as garantias devem ser avaliadas como risco fiscal ou passivo contingente.",
+      "C": "As garantias devem ser somadas integralmente ao passivo circulante, independentemente da probabilidade de desembolso.",
+      "D": "A análise horizontal dispensa o exame das notas, porque compara a entidade consigo mesma.",
+      "E": "Dívida ativa não integra o ativo do setor público, de modo que o índice está incorreto por definição."
+     },
+     "comentario": "As notas servem para ajustar e qualificar os índices. Créditos irrecuperáveis superestimam o ativo; garantias com risco de execução são passivo contingente (ou provisão, se provável o desembolso) e risco fiscal.",
+     "dispositivo": "NBC TSP 11; NBC TSP 03; análise de notas explicativas",
+     "id": "tceac-nuvem-analise-demonstracoes-n2-q07"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Considere: disponível 90; ativo circulante 300; realizável a longo prazo 100; passivo circulante 200; passivo não circulante 300. Os índices de liquidez imediata e geral são, respectivamente:",
+     "gabarito": "A",
+     "alternativas": {
+      "A": "0,45 e 0,80",
+      "B": "0,30 e 0,80",
+      "C": "0,45 e 1,25",
+      "D": "1,50 e 0,80",
+      "E": "0,45 e 0,57"
+     },
+     "comentario": "LI = 90 ÷ 200 = 0,45. LG = (300 + 100) ÷ (200 + 300) = 0,80.",
+     "dispositivo": "Fórmulas de liquidez",
+     "id": "tceac-nuvem-analise-demonstracoes-n2-q08"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Na análise ___, cada conta é expressa em percentual de um total do mesmo período; na análise ___, compara-se a conta com ela mesma ao longo do tempo.",
+     "opcoes": [
+      "vertical",
+      "horizontal",
+      "diagonal",
+      "consolidada",
+      "setorial",
+      "nominal"
+     ],
+     "respostas": [
+      "vertical",
+      "horizontal"
+     ],
+     "explicacao": "Vertical = composição; horizontal = tendência."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Disponível ÷ PC",
+       "Liquidez imediata"
+      ],
+      [
+       "(AC − Estoques) ÷ PC",
+       "Liquidez seca"
+      ],
+      [
+       "AC ÷ PC",
+       "Liquidez corrente"
+      ],
+      [
+       "CT ÷ PL",
+       "Participação de capitais de terceiros"
+      ],
+      [
+       "CT ÷ Ativo total",
+       "Endividamento geral"
+      ]
+     ]
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene as etapas de uma análise de demonstrações bem feita.",
+     "itens": [
+      "Ler as notas explicativas e as políticas contábeis",
+      "Padronizar e ajustar as demonstrações",
+      "Calcular análise horizontal, vertical e índices",
+      "Comparar com a série histórica e com parâmetros",
+      "Concluir e indicar pontos para testes de auditoria"
+     ],
+     "explicacao": "Sem padronizar e entender as políticas, os índices medem erros, não a realidade."
+    },
+    {
+     "tipo": "caso_pratico",
+     "enunciado": "Questão discursiva: Explique por que um índice de liquidez favorável pode ser insuficiente para concluir pela boa situação financeira de um município, citando o papel das notas explicativas e do superávit financeiro.",
+     "resposta": "Índices dependem da qualidade do registro. Créditos de dívida ativa sem ajuste, passivos não reconhecidos (precatórios, provisões) e garantias reveladas em notas podem inverter o diagnóstico. No setor público, o superávit financeiro (art. 43 da Lei 4.320/1964) lastreia créditos adicionais; se o ativo financeiro estiver superavaliado, créditos abertos com base nele carecem de fonte, o que afeta a análise das contas. A análise de índices é procedimento analítico que orienta testes, não os substitui.",
+     "explicacao": "Índices dependem da qualidade do registro. Créditos de dívida ativa sem ajuste, passivos não reconhecidos (precatórios, provisões) e garantias reveladas em notas podem inverter o diagnóstico. No setor público, o superávit financeiro (art. 43 da Lei 4.320/1964) lastreia créditos adicionais; se o ativo financeiro estiver superavaliado, créditos abertos com base nele carecem de fonte, o que afeta a análise das contas. A análise de índices é procedimento analítico que orienta testes, não os substitui.",
+     "dispositivo": "Lei 4.320/1964, arts. 43 e 105; NBC TSP 11"
+    }
+   ]
+  }
+ ]
+}

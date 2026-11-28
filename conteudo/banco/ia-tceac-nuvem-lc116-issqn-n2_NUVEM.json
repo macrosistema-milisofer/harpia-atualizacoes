@@ -1,0 +1,204 @@
+{
+ "assunto": "Direito Tributário – LC 116/2003 e alterações (ISSQN)",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-28",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-nuvem-lc116-issqn-n2",
+   "titulo": "ISS a fundo: lista, local da prestação, piso de 2% e o controle da renúncia municipal",
+   "microconteudo": "RAIO-X DA PROVA: O Cebraspe explora a lista taxativa com interpretação extensiva (Tema 296), a regra do estabelecimento prestador e a invalidação, na ADI 5835, da cobrança no domicílio do tomador. Cobra o piso de 2% do art. 8º-A com suas consequências (nulidade, restituição, improbidade hoje no art. 10, XXII, da LIA) e as fronteiras com o ICMS (SV 31, software, embalagens, leasing). Em prova de tribunal de contas, o tema vem junto com a renúncia de receita do art. 14 da LRF.\n\nPOR QUE IMPORTA:\nO ISS é a principal receita tributária própria da maioria das capitais e o imposto em que mais se concentram guerra fiscal, renúncia sem lastro e falhas de fiscalização. No controle externo, o tema aparece na análise da receita municipal (eficiência arrecadatória, cadastro, retenção na fonte), na verificação de benefícios fiscais contra a LRF e a LC 116/2003 e no exame de leis que reduzem a carga abaixo do piso nacional, cuja concessão é ato de improbidade. Também é o imposto com data para acabar: a reforma tributária o substituirá pelo IBS, e até 2033 o município precisa administrar a transição. O assunto é comum a provas de procuradorias municipais, magistratura e tribunais de contas.\n\nO QUE A BANCA COBRA:\n- Fato gerador e lista anexa: incidência ainda que o serviço não seja a atividade preponderante; serviço vindo do exterior; lista taxativa com interpretação extensiva (Tema 296).\n- Não incidência (art. 2º): exportação, relação de emprego, conselheiros e sócios-gerentes, operações financeiras.\n- Local da prestação: regra do estabelecimento prestador (arts. 3º e 4º), exceções do local da execução e a invalidação, na ADI 5835, das regras do domicílio do tomador.\n- Contribuinte, responsabilidade e retenção; base de cálculo e regime fixo das sociedades de profissionais (Tema 918).\n- Alíquotas: máxima de 5% e mínima de 2% (art. 8º-A), nulidade da lei que viola o piso e improbidade.\n- Conflitos ISS x ICMS (SV 31, software, leasing, planos de saúde) e a transição para o IBS (EC 132/2023 e LC 214/2025).\n\nENTENDA:\n1) Fundamento e papel da lei complementar\nO art. 156, III, da Constituição dá aos municípios (e ao DF) o imposto sobre serviços de qualquer natureza não compreendidos no art. 155, II, definidos em lei complementar. O § 3º reserva à lei complementar fixar alíquotas máximas e mínimas, excluir da incidência as exportações de serviços e regular a concessão de isenções, incentivos e benefícios. A LC 116/2003 é essa lei nacional: cada município institui o imposto por lei própria, mas dentro da moldura dela. Para o auditor, a consequência é direta: lei municipal que contraria a LC 116 em matéria reservada é inválida, e o tribunal de contas pode apontar a renúncia irregular dela decorrente.\n\n2) Fato gerador e a lista anexa\nO imposto tem como fato gerador a prestação dos serviços constantes da lista anexa, ainda que não sejam a atividade preponderante do prestador (art. 1º). Incide também sobre o serviço proveniente do exterior ou cuja prestação se tenha iniciado no exterior, e sobre serviços prestados mediante uso de bens e serviços públicos explorados economicamente com pagamento de tarifa, preço ou pedágio. A denominação dada ao serviço é irrelevante.\nOs serviços da lista, ressalvadas as exceções nela expressas, não se sujeitam ao ICMS, ainda que envolvam fornecimento de mercadorias. Se a lista ressalva a mercadoria (como em certos itens de construção civil e de manutenção), o ICMS incide sobre ela.\nNo Tema 296 da repercussão geral, o STF fixou que a lista é taxativa, mas admite interpretação extensiva para serviços congêneres. O STJ já havia sumulado a mesma lógica para serviços bancários congêneres (Súmula 424). O limite: o município não cria serviço tributável fora da lista; alcança apenas atividades da mesma natureza das descritas.\n\n3) O que fica de fora\nO art. 2º afasta o imposto sobre: exportação de serviços (não se considera exportado o serviço desenvolvido no Brasil cujo resultado aqui se verifique, ainda que o pagamento venha do exterior); prestação de serviços em relação de emprego, de trabalhadores avulsos, de diretores e membros de conselhos e de sócios-gerentes e gerentes-delegados; e o valor intermediado no mercado de títulos e valores mobiliários, depósitos bancários, o principal, juros e acréscimos moratórios de operações de crédito. Exemplo: projeto de engenharia elaborado em Rio Branco para obra executada no Peru é exportação; o mesmo projeto para obra em Cruzeiro do Sul é tributado, ainda que o cliente seja estrangeiro.\n\n4) Local da prestação: quem pode cobrar\nRegra geral (art. 3º): o serviço considera-se prestado e o imposto devido no local do estabelecimento prestador ou, na falta dele, no domicílio do prestador. Estabelecimento prestador é o local onde o contribuinte desenvolve a atividade, de modo permanente ou temporário, e que configure unidade econômica ou profissional, sendo irrelevantes denominações como sede, filial, agência ou escritório (art. 4º). Não é o endereço do contrato social que decide, e sim a estrutura efetiva: o STJ usa esse critério para combater estabelecimentos de fachada em municípios de alíquota baixa.\nOs incisos do art. 3º trazem exceções em que o imposto é devido no local da execução ou do tomador do serviço importado, como construção civil, demolição, varrição e coleta de lixo, vigilância, limpeza de imóveis e estacionamento, entre outras.\nA LC 157/2016 tentou deslocar para o domicílio do tomador o ISS de planos de saúde, administração de cartões e fundos, consórcios e arrendamento mercantil; a LC 175/2020 detalhou o recolhimento e criou padrão nacional de obrigação acessória. No julgamento da ADI 5835 e ações conexas, concluído em 2023, o STF declarou inconstitucionais esses dispositivos por ausência de critérios claros sobre quem é o tomador e pela insegurança jurídica gerada. Para esses serviços, prevalece a regra do estabelecimento prestador.\nNo leasing financeiro, o STF reconheceu a incidência do ISS (RE 592.905), e o STJ, em recurso repetitivo, situou o fato gerador no município onde se encontra o estabelecimento com poder decisório sobre a concessão do financiamento (REsp 1.060.210). No Tema 581, o STF admitiu o ISS sobre as atividades das operadoras de planos de saúde.\n\n5) Contribuinte, responsável e base de cálculo\nContribuinte é o prestador (art. 5º). A lei municipal pode atribuir a responsabilidade a terceiro vinculado ao fato gerador, excluindo ou não a do contribuinte (art. 6º). A própria LC aponta responsáveis, como o tomador ou intermediário de serviço vindo do exterior e as pessoas jurídicas tomadoras de determinados serviços da lista, que retêm o imposto na fonte. Para o auditor da receita municipal, falta de controle da retenção por órgãos públicos tomadores é achado recorrente: o próprio ente deixa de reter o ISS que lhe pertence.\nA base de cálculo é o preço do serviço (art. 7º). Na construção civil, não se incluem os materiais fornecidos pelo prestador nos termos das ressalvas da lista. Autônomos e sociedades de profissionais podem ter tributação fixa, com base no Decreto-Lei 406/1968, recepcionado. No Tema 918, o STF considerou inconstitucional lei municipal que cria impeditivos à submissão das sociedades de advogados ao regime de tributação fixa estabelecido pela lei nacional.\n\n6) Alíquotas: teto, piso e improbidade\nA alíquota máxima é de 5% (art. 8º, II). O art. 8º-A, incluído pela LC 157/2016, fixa a alíquota mínima em 2% e proíbe isenções, incentivos ou benefícios, inclusive redução de base de cálculo ou crédito presumido, que resultem em carga inferior à mínima, salvo os serviços expressamente excepcionados (certos itens de construção civil e o transporte coletivo municipal). É nula a lei municipal que desrespeite o piso quando o serviço é prestado a tomador situado em outro município, e o prestador tem direito à restituição do que pagou com base nela. A concessão, aplicação ou manutenção de benefício em desacordo com o art. 8º-A é ato de improbidade que causa lesão ao erário, hoje no art. 10, XXII, da Lei 8.429/1992, com a redação da Lei 14.230/2021.\nAlém disso, a renúncia válida pela LC 116 ainda precisa cumprir o art. 14 da LRF: estimativa do impacto orçamentário-financeiro e demonstração de que foi considerada na previsão de receita ou de medidas de compensação. Benefício que respeita o piso, mas sem esses requisitos, continua irregular sob a ótica da gestão fiscal.\n\n7) Fronteiras com o ICMS e com outros tributos\n• Súmula Vinculante 31: é inconstitucional o ISS sobre locação de bens móveis (obrigação de dar, não de fazer).\n• ADIs 1945 e 5659: incide ISS, e não ICMS, sobre licenciamento ou cessão de uso de software, padronizado ou por encomenda.\n• Operações mistas: serviço da lista sem ressalva atrai só o ISS sobre o preço total; serviço fora da lista com mercadoria atrai o ICMS sobre o total (art. 155, § 2º, IX, b, da CF).\n• Na ADI 4389, o STF entendeu que a produção de embalagens personalizadas destinadas a integrar o processo de industrialização se sujeita ao ICMS, e não ao ISS: a finalidade do bem no ciclo econômico pesa mais que o caráter personalizado.\n\n8) A transição da reforma tributária\nA EC 132/2023 criou o IBS, de competência compartilhada entre estados e municípios, que substituirá o ICMS e o ISS, e a LC 214/2025 instituiu o IBS e a CBS. De 2029 a 2032, as alíquotas do ICMS e do ISS são reduzidas gradualmente; a partir de 2033, os dois impostos são extintos. Até lá, a LC 116/2003 rege o ISS. Para o município, a transição tem dois riscos que o controle externo acompanha: a erosão da base por benefícios concedidos às vésperas da mudança e a perda de capacidade de fiscalização, já que a participação no IBS dependerá de dados e cadastro de qualidade.\n\nCaso para treinar: lei de município acreano concede, a empresas de tecnologia, redução de base de cálculo que leva a carga efetiva do ISS a 1%, sem estimativa de impacto. Três vícios: violação do art. 8º-A (nulidade), improbidade do agente que concede ou aplica o benefício e descumprimento do art. 14 da LRF. O tribunal de contas pode determinar a cessação da renúncia e apurar responsabilidades.",
+   "flashcards": [
+    {
+     "frente": "Lista anexa",
+     "verso": "Taxativa, com interpretação extensiva para congêneres (Tema 296).",
+     "dispositivo": "STF, Tema 296"
+    },
+    {
+     "frente": "Regra do local",
+     "verso": "Estabelecimento prestador (unidade econômica efetiva) ou domicílio do prestador; exceções no art. 3º.",
+     "dispositivo": "LC 116/2003, arts. 3º e 4º"
+    },
+    {
+     "frente": "Alíquotas do ISS",
+     "verso": "Máxima 5% (art. 8º, II); mínima 2% (art. 8º-A), vedados benefícios que reduzam a carga abaixo dela.",
+     "dispositivo": "LC 116/2003"
+    },
+    {
+     "frente": "Benefício abaixo do piso",
+     "verso": "Lei nula, restituição ao prestador e improbidade (Lei 8.429, art. 10, XXII).",
+     "dispositivo": "LC 116, art. 8º-A; LIA"
+    },
+    {
+     "frente": "ADI 5835",
+     "verso": "Invalidou o ISS no domicílio do tomador para planos de saúde, cartões, fundos, consórcios e leasing.",
+     "dispositivo": "STF"
+    },
+    {
+     "frente": "Fim do ISS",
+     "verso": "Redução gradual de 2029 a 2032 e extinção em 2033, substituído pelo IBS.",
+     "dispositivo": "EC 132/2023; LC 214/2025"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "O ISS incide sobre os serviços da lista anexa à LC 116/2003 ainda que eles não constituam a atividade preponderante do prestador.",
+     "gabarito": "C",
+     "comentario": "Certo. É o texto do art. 1º.",
+     "dispositivo": "LC 116/2003, art. 1º",
+     "id": "tceac-nuvem-lc116-issqn-n2-q01"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "Segundo o STF, a lista de serviços anexa à LC 116/2003 é exemplificativa, cabendo ao município tributar quaisquer serviços não alcançados pelo ICMS.",
+     "gabarito": "E",
+     "comentario": "Errado. Tema 296: a lista é taxativa, admitida interpretação extensiva para serviços congêneres.",
+     "dispositivo": "STF, Tema 296",
+     "id": "tceac-nuvem-lc116-issqn-n2-q02"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Projeto de engenharia elaborado no Brasil para obra executada no exterior configura exportação de serviço, não incidindo o ISS.",
+     "gabarito": "C",
+     "comentario": "Certo. O resultado se verifica no exterior; só não é exportação o serviço cujo resultado se verifique no Brasil.",
+     "dispositivo": "LC 116/2003, art. 2º, I, e parágrafo único",
+     "id": "tceac-nuvem-lc116-issqn-n2-q03"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Após o julgamento da ADI 5835, o ISS sobre planos de saúde e administração de cartões passou a ser devido no domicílio do tomador, como previsto na LC 157/2016.",
+     "gabarito": "E",
+     "comentario": "Errado. O STF declarou inconstitucionais os dispositivos que deslocavam a competência para o domicílio do tomador; prevalece o estabelecimento prestador.",
+     "dispositivo": "STF, ADI 5835; LC 116/2003, art. 3º",
+     "id": "tceac-nuvem-lc116-issqn-n2-q04"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "É nula a lei municipal que conceda redução de base de cálculo do ISS que resulte em carga tributária inferior a 2%, fora das exceções legais, quando o serviço for prestado a tomador situado em outro município.",
+     "gabarito": "C",
+     "comentario": "Certo. Art. 8º-A, §§ 1º a 3º, da LC 116/2003, incluído pela LC 157/2016.",
+     "dispositivo": "LC 116/2003, art. 8º-A",
+     "id": "tceac-nuvem-lc116-issqn-n2-q05"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "A concessão de benefício de ISS em desacordo com a alíquota mínima deixou de configurar improbidade administrativa com a Lei 14.230/2021.",
+     "gabarito": "E",
+     "comentario": "Errado. A Lei 14.230/2021 revogou o art. 10-A, mas deslocou a conduta para o art. 10, XXII, da Lei 8.429/1992, como ato que causa lesão ao erário.",
+     "dispositivo": "Lei 8.429/1992, art. 10, XXII",
+     "id": "tceac-nuvem-lc116-issqn-n2-q06"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Sobre a fronteira entre ISS e ICMS, assinale a opção correta.",
+     "gabarito": "C",
+     "alternativas": {
+      "A": "Incide ISS sobre a locação de bens móveis, por se tratar de serviço de natureza civil.",
+      "B": "Incide ICMS sobre licenciamento de software padronizado comercializado em larga escala.",
+      "C": "Serviço constante da lista sem ressalva sujeita-se apenas ao ISS, ainda que envolva fornecimento de mercadorias.",
+      "D": "Embalagens personalizadas destinadas à industrialização sujeitam-se apenas ao ISS.",
+      "E": "O leasing financeiro não se sujeita ao ISS, por ser operação de crédito."
+     },
+     "comentario": "Art. 1º, § 2º, da LC 116. SV 31 afasta ISS da locação; ADIs 1945 e 5659 levam o software ao ISS; ADI 4389 leva as embalagens de industrialização ao ICMS; RE 592.905 admite ISS no leasing financeiro.",
+     "dispositivo": "LC 116/2003, art. 1º, § 2º; SV 31; ADIs 1945, 5659 e 4389; RE 592.905",
+     "id": "tceac-nuvem-lc116-issqn-n2-q07"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Auditoria em município constata: (I) órgãos municipais tomadores de serviços não retêm o ISS; (II) lei recente concedeu isenção a hotéis com carga final de 3%, sem estimativa de impacto; (III) empresa declara sede em município vizinho, mas toda a equipe e os equipamentos estão no município auditado. Assinale a opção correta.",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "Apenas o item II é irregular.",
+      "B": "Os itens I e III indicam perda de receita; o item II viola o art. 14 da LRF, ainda que respeite o piso de 2%.",
+      "C": "O item III é regular, pois vale o endereço do contrato social.",
+      "D": "O item II é nulo por violar o art. 8º-A.",
+      "E": "Nenhum item é irregular, pois a fiscalização do ISS é discricionária."
+     },
+     "comentario": "Retenção não feita é receita perdida; o estabelecimento prestador é o local da unidade econômica efetiva (art. 4º); carga de 3% respeita o piso, mas a renúncia exige estimativa de impacto (LRF, art. 14).",
+     "dispositivo": "LC 116/2003, arts. 4º, 6º e 8º-A; LRF, art. 14",
+     "id": "tceac-nuvem-lc116-issqn-n2-q08"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "A alíquota máxima do ISS é de ___ e a mínima é de ___.",
+     "opcoes": [
+      "5%",
+      "2%",
+      "3%",
+      "1%",
+      "10%",
+      "4%"
+     ],
+     "respostas": [
+      "5%",
+      "2%"
+     ],
+     "explicacao": "LC 116/2003, arts. 8º, II, e 8º-A."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "Súmula Vinculante 31",
+       "Não incide ISS na locação de bens móveis"
+      ],
+      [
+       "Tema 296",
+       "Lista taxativa com interpretação extensiva"
+      ],
+      [
+       "Tema 918",
+       "Regime fixo das sociedades de advogados"
+      ],
+      [
+       "ADI 5835",
+       "Inconstitucionalidade do ISS no domicílio do tomador"
+      ],
+      [
+       "ADIs 1945 e 5659",
+       "Software sujeito ao ISS"
+      ]
+     ]
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o raciocínio para saber se e onde o ISS é devido.",
+     "itens": [
+      "Verificar se o serviço consta da lista ou é congênere",
+      "Afastar hipóteses de não incidência do art. 2º",
+      "Checar se é exceção do art. 3º (local da execução)",
+      "Na regra geral, localizar o estabelecimento prestador efetivo",
+      "Aplicar a alíquota da lei municipal, respeitados 2% e 5%"
+     ],
+     "explicacao": "Primeiro a incidência; depois o município competente; por fim a alíquota."
+    },
+    {
+     "tipo": "caso_pratico",
+     "enunciado": "Questão discursiva: Município concede a empresas de tecnologia redução de base de cálculo que leva a carga efetiva do ISS a 1%, sem estimativa de impacto. Analise a validade e as consequências.",
+     "resposta": "A redução viola o art. 8º-A da LC 116/2003 (piso de 2%, vedação de benefícios por redução de base), sendo nula quando o serviço for prestado a tomador de outro município; o prestador pode pedir restituição do que pagou sob a lei nula. O agente que concede ou aplica o benefício pratica improbidade (Lei 8.429/1992, art. 10, XXII). A renúncia também descumpre o art. 14 da LRF. O tribunal de contas pode determinar a cessação da renúncia, apontar a perda de receita nas contas e apurar responsabilidades.",
+     "explicacao": "A redução viola o art. 8º-A da LC 116/2003 (piso de 2%, vedação de benefícios por redução de base), sendo nula quando o serviço for prestado a tomador de outro município; o prestador pode pedir restituição do que pagou sob a lei nula. O agente que concede ou aplica o benefício pratica improbidade (Lei 8.429/1992, art. 10, XXII). A renúncia também descumpre o art. 14 da LRF. O tribunal de contas pode determinar a cessação da renúncia, apontar a perda de receita nas contas e apurar responsabilidades.",
+     "dispositivo": "LC 116/2003, art. 8º-A; Lei 8.429/1992, art. 10, XXII; LRF, art. 14"
+    }
+   ]
+  }
+ ]
+}

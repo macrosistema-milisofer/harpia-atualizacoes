@@ -1,0 +1,204 @@
+{
+ "assunto": "Economia do Setor Público – Taxas de juros nominal, efetiva, equivalente, real e aparente",
+ "fonte": "autoral (MILISOFER TED & TIC)",
+ "atualizado_em": "2026-11-28",
+ "origem": "Equipe Harpia",
+ "licoes": [
+  {
+   "id": "tceac-nuvem-taxas-juros-n2",
+   "titulo": "Taxas de juros sem pegadinha: nominal, efetiva, equivalente, real e aparente",
+   "microconteudo": "RAIO-X DA PROVA: O Cebraspe pune quem trata taxa proporcional como equivalente em juros compostos (1% ao mês não é 12% ao ano), quem esquece de converter a nominal em efetiva e quem subtrai inflação em vez de usar a equação de Fisher. Também explora taxa real negativa, a homonímia de \"nominal\" e contratos indexados (IPCA + taxa real).\n\nPOR QUE IMPORTA:\nQuase toda conta pública envolve juros: operações de crédito, parcelamentos de débitos previdenciários, atualização de precatórios, rentabilidade de aplicações de regimes próprios, contratos de concessão com taxa interna de retorno pactuada. Em todos esses casos, a mesma taxa pode ser expressa de formas que parecem diferentes e não são, ou que parecem iguais e não são. Saber converter uma taxa nominal em efetiva, achar a taxa equivalente de outro período e separar ganho real de mera reposição da inflação é o que permite ao auditor dizer se um empréstimo foi caro, se um fundo bateu a meta atuarial ou se um reequilíbrio contratual foi calculado corretamente. O tópico é comum a provas de finanças, economia e auditoria.\n\nO QUE A BANCA COBRA:\n- Taxa proporcional (juros simples) x taxa equivalente (juros compostos).\n- Taxa nominal: período de referência diferente do de capitalização; conversão em taxa efetiva.\n- Taxa efetiva e taxa equivalente para períodos diferentes, em ambos os sentidos.\n- Taxa aparente (nominal em relação à inflação) e taxa real pela equação de Fisher; taxa real negativa.\n- Aplicações: CET, Selic em base de 252 dias úteis, meta atuarial de RPPS, reajuste e reequilíbrio contratual.\n- Casos numéricos com armadilhas e questão discursiva.\n\nENTENDA:\n1) Duas lógicas: simples e composta\nEm juros simples, o juro de cada período incide só sobre o capital inicial; as taxas são proporcionais: 12% ao ano equivalem a 1% ao mês, porque 12% ÷ 12 = 1%. Em juros compostos, o juro de cada período incorpora-se ao capital e passa a render juros; as taxas são equivalentes quando, aplicadas ao mesmo capital pelo mesmo prazo, produzem o mesmo montante: (1 + i_a) = (1 + i_m)^12. A confusão entre proporcional e equivalente é a primeira armadilha das provas: em compostos, 1% ao mês não é 12% ao ano, e sim cerca de 12,68% ao ano.\n\n2) Taxa nominal\nTaxa nominal é aquela cujo período de referência difere do período de capitalização, como \"12% ao ano com capitalização mensal\". Ela não mede o custo verdadeiro: é uma forma de expressão. Para usá-la, transforma-se primeiro na taxa do período de capitalização, de modo proporcional (12% ÷ 12 = 1% ao mês), e só então se calcula o efeito composto. O mercado e alguns contratos usam taxas nominais porque são mais fáceis de anunciar; o analista precisa convertê-las.\n\n3) Taxa efetiva\nTaxa efetiva é aquela em que o período de referência coincide com o de capitalização, ou seja, a que mede o rendimento ou custo real em termos financeiros. A partir da nominal: i_efetiva = (1 + i_nominal ÷ n)^n − 1, sendo n o número de capitalizações no período de referência. Exemplos:\n• 12% ao ano capitalizados mensalmente: (1,01)^12 − 1 ≈ 12,68% ao ano.\n• 8% ao ano capitalizados trimestralmente: (1,02)^4 − 1 ≈ 8,24% ao ano.\n• 5% ao ano capitalizados trimestralmente: (1,0125)^4 − 1 ≈ 5,09% ao ano.\nQuanto maior a frequência de capitalização, maior a diferença entre a taxa nominal e a efetiva. Quando a capitalização coincide com o período da taxa, nominal e efetiva são iguais.\n\n4) Taxas equivalentes\nPara achar a taxa de outro período, usa-se (1 + i_1)^(n_1) = (1 + i_2)^(n_2), em que n indica quantos períodos de cada taxa cabem no mesmo prazo.\n• De ano para mês: 10% ao ano equivalem a (1,10)^(1/12) − 1 ≈ 0,797% ao mês.\n• De mês para semestre: 3% ao mês equivalem a (1,03)^6 − 1 ≈ 19,41% ao semestre.\n• De biênio para ano: 24% em dois anos equivalem a (1,24)^(1/2) − 1 ≈ 11,36% ao ano, e não a 12%.\nO raciocínio vale para qualquer base, inclusive dias úteis. A Selic, por exemplo, é expressa ao ano em base de 252 dias úteis: a taxa diária é (1 + Selic anual)^(1/252) − 1, e acumula-se apenas nos dias úteis. Comparar taxas em bases de dias diferentes (252 úteis e 360 ou 365 corridos) sem conversão é erro de cálculo que distorce comparações entre aplicações.\n\n5) Taxa aparente e taxa real\nEm ambiente inflacionário, a taxa efetivamente paga ou recebida em moeda corrente é a taxa aparente (ou nominal em sentido econômico; atenção à homonímia com o item 2). Parte dela apenas repõe a perda do poder de compra; o restante é ganho real. A relação é a equação de Fisher: (1 + aparente) = (1 + real) × (1 + inflação).\n• Aparente de 15,5% e inflação de 5%: real = 1,155 ÷ 1,05 − 1 = 10%.\n• Aparente de 20% e inflação de 5%: real ≈ 14,29%, e não 15%.\n• Aparente de 4% e inflação de 6%: real = 1,04 ÷ 1,06 − 1 ≈ −1,89%. A taxa real negativa indica que o credor perdeu poder de compra, ainda que tenha recebido juros.\nTaxas acumuladas também se compõem, não se somam. Inflação mensal de 0,5%, 0,4% e 0,6% acumula, no trimestre, 1,005 × 1,004 × 1,006 − 1 ≈ 1,51%, e a taxa média mensal equivalente é a raiz cúbica desse fator menos 1 (≈ 0,50%). O mesmo vale para rendimentos mensais de uma carteira: somar taxas é atalho que só funciona, de modo aproximado, para valores muito pequenos e prazos curtos.\nA subtração (aparente − inflação) é aproximação aceitável só para taxas pequenas; em prova, use a fórmula exata.\nDuas armadilhas de linguagem. Primeira: \"taxa nominal\" pode significar a taxa com capitalização em período diferente (sentido financeiro) ou a taxa antes de descontar a inflação (sentido econômico); leia o contexto. Segunda: em contratos indexados (IPCA + 6% ao ano, por exemplo), o 6% já é a taxa real, e a taxa aparente resulta de (1 + IPCA) × 1,06 − 1.\n\n6) Outras taxas que escondem o custo verdadeiro\nDesconto comercial. No desconto bancário simples, a taxa incide sobre o valor nominal do título, não sobre o valor liberado. Título de valor N descontado três meses antes do vencimento à taxa comercial de 2% ao mês gera desconto de 6% de N; o tomador recebe 0,94 N e paga N. A taxa efetiva do período é 0,06 ÷ 0,94 ≈ 6,38%, ou cerca de 2,08% ao mês em juros compostos, acima dos 2% anunciados. Quanto maior o prazo, maior a distância entre a taxa de desconto e a taxa efetiva.\nPrazos fracionários. Em juros compostos com prazo não inteiro, a convenção exponencial aplica a potência fracionária; a convenção linear capitaliza a parte inteira de forma composta e a fração de forma simples. Para 1.000 a 10% ao ano por 2,5 anos: exponencial, 1.000 × 1,1^2,5 ≈ 1.269,06; linear, 1.000 × 1,1² × 1,05 = 1.270,50. A convenção linear gera montante ligeiramente maior; o contrato deve dizer qual se aplica.\nTarifas e encargos antecipados. Toda cobrança retida no momento da liberação funciona como o desconto comercial: reduz o valor efetivamente recebido e eleva a taxa efetiva. Por isso a comparação de propostas deve partir do fluxo de caixa real do tomador (valor líquido recebido e parcelas pagas), e não da taxa anunciada.\n\n7) Juros no direito e nos contratos\nO custo de um empréstimo para o tomador não se resume à taxa de juros: tarifas, tributos e seguros compõem o custo efetivo total (CET), que as instituições financeiras devem informar, conforme a regulamentação do Conselho Monetário Nacional. Para o ente público, a comparação entre propostas de operação de crédito deve ser feita pelo custo efetivo, em mesma base temporal.\nNo direito civil, a Lei 14.905/2024 alterou o Código Civil: na falta de convenção, a correção monetária segue o IPCA e os juros legais correspondem à taxa Selic deduzido o IPCA, isto é, uma taxa real, evitando a dupla contagem de inflação que ocorria quando se somavam índice de correção e Selic (que já embute inflação). É um exemplo legislativo da separação entre taxa aparente e taxa real.\n\n8) Aplicações no controle externo\n• Regimes próprios de previdência: a meta atuarial costuma ser expressa como índice de inflação mais taxa real de juros. Fundo que rendeu 9% em ano de inflação de 5% teve ganho real de cerca de 3,81% (1,09 ÷ 1,05 − 1); se a meta real era de 5%, não a cumpriu, embora o rendimento nominal pareça alto.\n• Parcelamentos e operações de crédito: proposta a 1% ao mês e outra a 12,5% ao ano devem ser comparadas na mesma base efetiva (12,68% ao ano contra 12,5% ao ano).\n• Concessões e PPPs: a taxa interna de retorno pactuada pode ser real ou nominal; reequilíbrio calculado com taxa real aplicada a fluxos nominais (ou o inverso) gera valores indevidos.\n• Atualização de débitos imputados: o tribunal deve aplicar os índices e juros previstos em norma, sem somar correção e taxa que já contenha inflação.\n\nMétodo para qualquer questão: (1) identifique se o regime é simples ou composto; (2) se a taxa for nominal, converta-a para a taxa do período de capitalização; (3) leve tudo à mesma unidade de tempo por equivalência; (4) se houver inflação, separe o componente real pela equação de Fisher; (5) confira o sentido econômico do resultado (taxa real negativa, efetiva maior que nominal).",
+   "flashcards": [
+    {
+     "frente": "Proporcional x equivalente",
+     "verso": "Proporcional: simples (i ÷ n). Equivalente: compostos ((1 + i)^(1/n) − 1).",
+     "dispositivo": "Matemática financeira"
+    },
+    {
+     "frente": "Nominal → efetiva",
+     "verso": "i_ef = (1 + i_nom ÷ n)^n − 1. Ex.: 12% a.a. cap. mensal ≈ 12,68% a.a.",
+     "dispositivo": "Matemática financeira"
+    },
+    {
+     "frente": "Equivalência de taxas",
+     "verso": "(1 + i_1)^(n_1) = (1 + i_2)^(n_2) no mesmo prazo.",
+     "dispositivo": "Matemática financeira"
+    },
+    {
+     "frente": "Fisher",
+     "verso": "(1 + aparente) = (1 + real) × (1 + inflação).",
+     "dispositivo": "Matemática financeira"
+    },
+    {
+     "frente": "Selic",
+     "verso": "Expressa ao ano em base de 252 dias úteis; diária = (1 + Selic)^(1/252) − 1.",
+     "dispositivo": "Banco Central"
+    },
+    {
+     "frente": "Juros legais (Lei 14.905/2024)",
+     "verso": "Na falta de convenção: correção pelo IPCA; juros = Selic − IPCA.",
+     "dispositivo": "Código Civil, arts. 389 e 406"
+    }
+   ],
+   "questoes": [
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "Em regime de juros compostos, a taxa de 1% ao mês é equivalente à taxa de 12% ao ano.",
+     "gabarito": "E",
+     "comentario": "Errado. 1% ao mês equivale a (1,01)^12 − 1 ≈ 12,68% ao ano. 12% ao ano é a taxa proporcional, própria dos juros simples.",
+     "dispositivo": "Taxas equivalentes",
+     "id": "tceac-nuvem-taxas-juros-n2-q01"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "facil",
+     "texto_base": "",
+     "enunciado": "A taxa nominal de 8% ao ano com capitalização trimestral corresponde a uma taxa efetiva anual de aproximadamente 8,24%.",
+     "gabarito": "C",
+     "comentario": "Certo. 8% ÷ 4 = 2% ao trimestre; (1,02)^4 − 1 ≈ 8,24%.",
+     "dispositivo": "Conversão nominal → efetiva",
+     "id": "tceac-nuvem-taxas-juros-n2-q02"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "A taxa de 24% em dois anos equivale, em juros compostos, a 12% ao ano.",
+     "gabarito": "E",
+     "comentario": "Errado. (1,24)^(1/2) − 1 ≈ 11,36% ao ano.",
+     "dispositivo": "Taxas equivalentes",
+     "id": "tceac-nuvem-taxas-juros-n2-q03"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Se a taxa aparente de uma aplicação foi de 4% e a inflação do período foi de 6%, a taxa real foi negativa, de aproximadamente 1,89%.",
+     "gabarito": "C",
+     "comentario": "Certo. 1,04 ÷ 1,06 − 1 ≈ −1,89%.",
+     "dispositivo": "Equação de Fisher",
+     "id": "tceac-nuvem-taxas-juros-n2-q04"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Quanto maior a frequência de capitalização de uma taxa nominal anual, menor será a taxa efetiva anual correspondente.",
+     "gabarito": "E",
+     "comentario": "Errado. Maior frequência de capitalização eleva a taxa efetiva.",
+     "dispositivo": "Taxa nominal x efetiva",
+     "id": "tceac-nuvem-taxas-juros-n2-q05"
+    },
+    {
+     "tipo": "ce",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Em contrato remunerado por IPCA mais 6% ao ano, a parcela de 6% representa a taxa real.",
+     "gabarito": "C",
+     "comentario": "Certo. A taxa aparente resulta de (1 + IPCA) × 1,06 − 1.",
+     "dispositivo": "Contratos indexados",
+     "id": "tceac-nuvem-taxas-juros-n2-q06"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "dificil",
+     "texto_base": "",
+     "enunciado": "Regime próprio de previdência tem meta atuarial de inflação mais 5% ao ano. Em determinado ano, a carteira rendeu 9% e a inflação foi de 5%. Assinale a opção correta.",
+     "gabarito": "C",
+     "alternativas": {
+      "A": "A meta foi superada, pois 9% supera 5% + 5% = 10%.",
+      "B": "A meta foi cumprida, pois a taxa real foi de 4%.",
+      "C": "A meta não foi cumprida: a taxa real foi de aproximadamente 3,81%, inferior aos 5% exigidos.",
+      "D": "A meta não se aplica, pois só considera rendimento nominal.",
+      "E": "O rendimento real foi de 9%, pois a inflação já está incluída na meta."
+     },
+     "comentario": "Taxa real = 1,09 ÷ 1,05 − 1 ≈ 3,81%, abaixo da meta real de 5%. Para cumprir, o rendimento aparente precisaria ser de 1,05 × 1,05 − 1 = 10,25%.",
+     "dispositivo": "Equação de Fisher aplicada à meta atuarial",
+     "id": "tceac-nuvem-taxas-juros-n2-q07"
+    },
+    {
+     "tipo": "me",
+     "dificuldade": "media",
+     "texto_base": "",
+     "enunciado": "Município compara duas propostas de financiamento, em juros compostos e sem outros encargos: (I) 1% ao mês; (II) 12,5% ao ano com capitalização anual. Assinale a opção correta.",
+     "gabarito": "B",
+     "alternativas": {
+      "A": "A proposta I é mais barata, pois equivale a 12% ao ano.",
+      "B": "A proposta II é mais barata, pois a efetiva anual de I é de cerca de 12,68%.",
+      "C": "As propostas são equivalentes.",
+      "D": "Não é possível comparar taxas de períodos diferentes.",
+      "E": "A proposta I é mais barata, pois a capitalização mensal reduz o custo."
+     },
+     "comentario": "Comparação na mesma base efetiva: (1,01)^12 − 1 ≈ 12,68% > 12,5%.",
+     "dispositivo": "Taxas equivalentes; custo efetivo",
+     "id": "tceac-nuvem-taxas-juros-n2-q08"
+    }
+   ],
+   "exercicios": [
+    {
+     "tipo": "lacunas",
+     "frase": "Taxa ___ é aquela em que o período de referência difere do de capitalização; taxa ___ é a que mede o custo verdadeiro no período.",
+     "opcoes": [
+      "nominal",
+      "efetiva",
+      "real",
+      "aparente",
+      "proporcional",
+      "contínua"
+     ],
+     "respostas": [
+      "nominal",
+      "efetiva"
+     ],
+     "explicacao": "Nominal é forma de expressão; efetiva é o custo verdadeiro."
+    },
+    {
+     "tipo": "pares",
+     "pares": [
+      [
+       "12% a.a. capitalizados mensalmente",
+       "≈ 12,68% a.a. efetivos"
+      ],
+      [
+       "10% a.a.",
+       "≈ 0,797% a.m. equivalentes"
+      ],
+      [
+       "3% a.m.",
+       "≈ 19,41% ao semestre"
+      ],
+      [
+       "Aparente 15,5% e inflação 5%",
+       "Real de 10%"
+      ],
+      [
+       "Aparente 4% e inflação 6%",
+       "Real ≈ −1,89%"
+      ]
+     ]
+    },
+    {
+     "tipo": "ordenar",
+     "enunciado": "Ordene o método para comparar taxas em qualquer questão.",
+     "itens": [
+      "Identificar se o regime é simples ou composto",
+      "Converter taxa nominal para o período de capitalização",
+      "Levar as taxas à mesma unidade de tempo por equivalência",
+      "Separar o componente real pela equação de Fisher",
+      "Conferir o sentido econômico do resultado"
+     ],
+     "explicacao": "Sem uniformizar a base de tempo, a comparação é inválida."
+    },
+    {
+     "tipo": "caso_pratico",
+     "enunciado": "Questão discursiva: Em processo de imputação de débito, a unidade técnica atualizou o valor somando a variação do IPCA à taxa Selic acumulada no período. Avalie o procedimento.",
+     "resposta": "A Selic já embute a inflação esperada; somá-la ao IPCA conta duas vezes a perda do poder de compra, gerando débito superior ao devido. A taxa real de juros deve ser obtida pela relação de Fisher, e, no direito civil, a Lei 14.905/2024 fixou que, na falta de convenção, a correção segue o IPCA e os juros legais correspondem à Selic deduzido o IPCA. O tribunal deve aplicar a norma específica de atualização de seus débitos, evitando a dupla contagem.",
+     "explicacao": "A Selic já embute a inflação esperada; somá-la ao IPCA conta duas vezes a perda do poder de compra, gerando débito superior ao devido. A taxa real de juros deve ser obtida pela relação de Fisher, e, no direito civil, a Lei 14.905/2024 fixou que, na falta de convenção, a correção segue o IPCA e os juros legais correspondem à Selic deduzido o IPCA. O tribunal deve aplicar a norma específica de atualização de seus débitos, evitando a dupla contagem.",
+     "dispositivo": "Lei 14.905/2024; equação de Fisher"
+    }
+   ]
+  }
+ ]
+}
