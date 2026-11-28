@@ -746,7 +746,7 @@
   "conteudo/mapas/incidencia.json": 4,
   "conteudo/mapas/incidencia_bancas.json": 1,
   "conteudo/mapas/niveis.json": 1,
-  "conteudo/mapas/topicos.json": 51,
+  "conteudo/mapas/topicos.json": 49,
   "conteudo/raiox/enem-2026.json": 4,
   "conteudo/raiox/juiz-federal-trf5-2026.json": 1,
   "conteudo/raiox/magistratura-tjsc-2026.json": 6,
@@ -979,9 +979,9 @@
  },
  "app": {
   "android": {
-   "build": 36,
-   "versao": "1.9.7",
-   "url": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-36.apk",
+   "build": 37,
+   "versao": "1.9.8",
+   "url": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-37.apk",
    "notas": "Lições com flashcards e questões, revisão espaçada e atualização automática.",
    "url32": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-32bits.apk"
   }
