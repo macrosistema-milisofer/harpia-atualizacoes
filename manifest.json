@@ -1,7 +1,7 @@
 {
  "conteudo": {
   "conteudo/catalogo.json": 4,
-  "conteudo/devocionais.json": 1,
+  "conteudo/devocionais.json": 2,
   "conteudo/banco/cf-arts1a17.json": 3,
   "conteudo/banco/enem-piloto.json": 2,
   "conteudo/banco/ia-cginv3-amortizacao-sac-price-saa_C14_lote905.json": 1,
@@ -441,6 +441,7 @@
   "conteudo/banco/ia-tceac-controle-gestao-fiscal-e-repasses_C14_lote1305.json": 1,
   "conteudo/banco/ia-tceac-controle-inspecoes-auditorias_C14_lote1307.json": 1,
   "conteudo/banco/ia-tceac-controle-legislacao-estadual-tceac_C14_lote1326.json": 1,
+  "conteudo/banco/ia-tceac-controle-lei-estadual-4744-2025_C14_lote1337.json": 1,
   "conteudo/banco/ia-tceac-controle-lei-organica-tcu-subsidiariedade_C14_lote1327.json": 1,
   "conteudo/banco/ia-tceac-controle-natureza-competencia-jurisdicao_C14_lote1300.json": 1,
   "conteudo/banco/ia-tceac-controle-parecer-previo_C14_lote1310.json": 1,
@@ -745,7 +746,7 @@
   "conteudo/banco/ia-tjsc-zoneamento-ambiental_M18.json": 1,
   "conteudo/mapas/incidencia.json": 4,
   "conteudo/mapas/incidencia_bancas.json": 1,
-  "conteudo/mapas/niveis.json": 1,
+  "conteudo/mapas/niveis.json": 2,
   "conteudo/mapas/topicos.json": 49,
   "conteudo/raiox/enem-2026.json": 4,
   "conteudo/raiox/juiz-federal-trf5-2026.json": 1,
@@ -979,9 +980,9 @@
  },
  "app": {
   "android": {
-   "build": 37,
-   "versao": "1.9.8",
-   "url": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-37.apk",
+   "build": 38,
+   "versao": "1.9.9",
+   "url": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-38.apk",
    "notas": "Lições com flashcards e questões, revisão espaçada e atualização automática.",
    "url32": "https://macrosistema-milisofer.github.io/harpia-atualizacoes/apk/harpia-32bits.apk"
   }
